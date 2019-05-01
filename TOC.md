@@ -12,7 +12,7 @@ tutorials-title: チュートリアル
 tutorials-url: https://helpx.adobe.com/jp/experience-cloud/tutorials.html
 mini-toc-levels: '1'
 translation-type: tm+mt
-source-git-commit: 147b01562e6c8d579a2bec0e4fa2841d1791a671
+source-git-commit: f123e32395be3e2f83f6ed3004f142253c8f6d36
 
 ---
 
@@ -74,6 +74,3 @@ source-git-commit: 147b01562e6c8d579a2bec0e4fa2841d1791a671
       + [2015 年 2 月](c-legacy-releases/2015/02192015.md)
       + [2015 年 1 月](c-legacy-releases/2015/01152015.md)
    + [2014 年以前](c-legacy-releases/2014-earlier.md)
-<!--
-+ [Contact and Legal Information](contact-and-legal.md)
--->
