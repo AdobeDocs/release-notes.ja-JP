@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 4 月
 author: mrefi
 translation-type: tm+mt
-source-git-commit: 147b01562e6c8d579a2bec0e4fa2841d1791a671
+source-git-commit: 3cc4b6d92316f775c4887b9c3fb8fa90e7e9074e
 
 ---
 
