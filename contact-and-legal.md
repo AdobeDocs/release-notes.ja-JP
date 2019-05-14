@@ -8,7 +8,7 @@ title: 連絡先情報および法的事項
 uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 147b01562e6c8d579a2bec0e4fa2841d1791a671
 
 ---
@@ -23,7 +23,7 @@ source-git-commit: 147b01562e6c8d579a2bec0e4fa2841d1791a671
 
 Adobe Marketing Cloud カスタマーケアチームによる支援を受けられます。以下のような様々な手段をご利用いただけます。
 
-アドビエンタープライズサポートへのお問い合わせ[を参照](https://helpx.adobe.com/contact/enterprise-support.ec.html)
+次を参照してください。[アドビエンタープライズサポートへのお問い合わせ](https://helpx.adobe.com/contact/enterprise-support.ec.html)
 
 ## サービス、利用可能な機能、課金 {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
@@ -33,7 +33,7 @@ Adobe Marketing Cloud カスタマーケアチームによる支援を受けら�
 ## Feedback {#section_8154D6D712054220A90D85FA8E92933E}
 Adobe Systems welcome any suggestions or feedback regarding this solution. You can add enhancement ideas and suggestions for the Analytics suite to our [Customer Idea Exchange](https://my.omniture.com/login/?r=%2Fp%2Fsuite%2Fcurrent%2Findex.html%3Fa%3DIdeasExchange.Redirect%26redirectreason%3Dnotregistered%26referer%3Dhttp%253A%252F%252Fideas.omniture.com%252Ft5%252FAdobe-Idea-Exchange-for-Omniture%252Fidb-p%252FIdeaExchange3). -->
 
-## 法的事項 {#section_A6E1844D4AC2485CADBF6D05116E3D59}
+## 法的事項{#section_A6E1844D4AC2485CADBF6D05116E3D59}
 
 
 <ul class="simplelist"> 
@@ -41,8 +41,8 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
  <li> Published by Adobe Systems Incorporated. </li> 
 </ul>
 
-[利用条件](https://www.adobe.com/go/marketingcloud_terms_of_use) | [プライバシーセンター](https://www.adobe.com/privacy/policy.html)
+[利用条件](https://www.adobe.com/go/marketingcloud_terms_of_use_jp) | [プライバシーセンター](https://www.adobe.com/jp/privacy/policy.html)
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
-All third-party trademarks are the property of their respective owners.Updated Information/Additional Third-Party Code Information available at [https://www.adobe.com/go/thirdparty_jp](https://www.adobe.com/products/eula/third_party/).
+All third-party trademarks are the property of their respective owners.[https://www.adobe.com/go/thirdparty_jp](https://www.adobe.com/jp/products/eula/third_party/) で入手可能な情報／その他のサードパーティコード情報を更新しました。
