@@ -11,7 +11,7 @@ getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: チュートリアル
 tutorials-url: https://helpx.adobe.com/jp/experience-cloud/tutorials.html
 mini-toc-levels: '1'
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f123e32395be3e2f83f6ed3004f142253c8f6d36
 
 ---
@@ -56,7 +56,7 @@ source-git-commit: f123e32395be3e2f83f6ed3004f142253c8f6d36
       + [2016 年 8 月](c-legacy-releases/2016/08182016.md)
       + [2016 年 7 月](c-legacy-releases/2016/07212016.md)
       + [2016 年 6 月](c-legacy-releases/2016/06162016.md)
-      + [2016年5月](c-legacy-releases/2016/05192016.md)
+      + [2016 年 5 月](c-legacy-releases/2016/05192016.md)
       + [2016 年 4月](c-legacy-releases/2016/04212016.md)
       + [2017 年 3 月](c-legacy-releases/2016/03172016.md)
       + [2016 年 2 月](c-legacy-releases/2016/02182016.md)
@@ -68,7 +68,7 @@ source-git-commit: f123e32395be3e2f83f6ed3004f142253c8f6d36
       + [2015 年 8 月](c-legacy-releases/2015/08202015.md)
       + [2015 年 7 月](c-legacy-releases/2015/07162015.md)
       + [2015 年 6 月](c-legacy-releases/2015/06182015.md)
-      + [2015年5月](c-legacy-releases/2015/05212015.md)
+      + [2015 年 5 月](c-legacy-releases/2015/05212015.md)
       + [2015 年 4 月](c-legacy-releases/2015/04162015.md)
       + [2015 年 3 月](c-legacy-releases/2015/03192015.md)
       + [2015 年 2 月](c-legacy-releases/2015/02192015.md)
