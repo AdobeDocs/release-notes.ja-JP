@@ -2,10 +2,10 @@
 title: Adobe Experience Cloud リリースノート
 description: Experience Cloud リリースノートのテンプレート
 doc-type: リリースノート
-last-update: 2019年5月
+last-update: 2019 年 5 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3be54c2a7d063c6ebc9c0535efd6712abada071d
+source-git-commit: c5d973e002c607c1b9b7422c9d3abaa9c827a000
 
 ---
 
@@ -20,7 +20,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 **リリース日:2019年5月**
 
-* [エクスペリエンスプラットフォーム](#platform)
+* [Adobe Experience Platform](#platform)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -30,21 +30,25 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Magento](#magento)
 * [Primetime](#primetime)
 
-## エクスペリエンスプラットフォーム {#platform}
+## Adobe Experience Platform {#platform}
 
-管理、Activation（Experience Platform Launch）、IDサービス、アセット、オファー、ユーザーなど、Experience Cloudプラットフォームのリリースノートです。
+### Adobe Experience Platformリリースノート
 
-### エクスペリエンスプラットフォームの起動
+バージョン1.0、2019年5月16日
+
+* エクスペリエンスプラットフォームの最新の更新については、Adobe. ioの [Experience Platformリリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) を参照してください。
+
+### Experience Platform Launch
 
 * 最新の情報については [、エクスペリエンスプラットフォームの起動](https://docs.adobelaunch.com/) を参照してください。
 
 ### Experience Cloud ID サービス
 
-2019 **年5月14日リリース**
+リリース日：**2019 年 5 月 14 日**
 
-* 訪問者API4.3.0のサポート
-* TP2.1のサポート。
-* SecureCookie設定に関する問題を修正しました。
+* バージョン 4.3.0 をリリースしました。
+* ITP 2.1 をサポートする ECID ライブラリを追加しました。
+* secureCookie の設定に関する問題を修正しました。
 
 ## Analytics {#analytics}
 
@@ -59,9 +63,9 @@ Adobe Analytics の新機能および修正点です。
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| **Analysis Workspace:** 新しい _「繰り返しインスタンス_ のフローを含む」のビジュアライゼーション設定 | 「_繰り返しインスタンスを含める_」フロー設定では、繰り返しインスタンス（ページのリロードなど）を含めるか除外するかを指定できます。また、「すべてのフロー」ビジュアライゼーションはインスタンスのみに基づくようになりました。 |
+| **Analysis Workspace:** 新しい _「繰り返しインスタンス_ のフローを含む」のビジュアライゼーション設定 | 「_繰り返しインスタンスを含める_」フロー設定で、繰り返しインスタンス（ページのリロードなど）を含めるか除外するかを指定できます。また、「すべてのフロー」ビジュアライゼーションはインスタンスのみに基づくようになりました。 |
 | **Ad Hoc Analysis:** Java11との互換性 | Ad Hoc Analysis は、Java 11 をサポートするようになりました。Java11でAd Hoc Analysisを実行 [する方法について](https://marketing.adobe.com/resources/help/en_US/dsc/adhoc-java.html)説明します。 |
-| **データ収集:** 新しいs_ ecid cookie | データ収集サーバーが訪問者の ECID を格納するファーストパーティサーバー cookie（s_ecid）を追加しました。 |
+| **データ収集:** 新しいs_ ecid cookie | CNAMEを設定している場合、データ収集サーバーが訪問者の ECID を格納するファーストパーティのサーバー cookie（s_ecid）をセットするようになりました。 |
 
 **Analysis Workspace の修正点**
 
@@ -73,19 +77,19 @@ Adobe Analytics の新機能および修正点です。
 
 **Analytics のその他の修正**
 
-* Audience Analytics：Audience Manager (AAM) でオーディエンス名を変更した後に発生していた、更新後の名前が Audience Analytics に反映されないという問題を修正しました。（AN-176237）
+* Audience Analytics：Audience Manager (AAM) でオーディエンス名を変更した後に、更新後の名前が Audience Analytics に反映されないという問題を修正しました。（AN-176237）
 * ユーザーが AAM の Analytics セグメントを保存できなかった問題を修正しました。この問題は、既存の AAM フォルダーに大文字の名前と小文字の名前が混在していたことによって発生していました。すべてのフォルダーで大文字と小文字が区別しないようにすることで、これらが同期されるようになりました。（AN-177934）
 * ユーザーが Experience Cloud を通じて Analytics にログインし、セッションがタイムアウトしたときに発生する問題を修正しました。セッションを再開すると、ユーザーは誤った URL にリダイレクトされていました。（AN-176812）
-* Data Warehouse リクエストでのタイムゾーンオフセットの問題を修正しました。（AN-177585）
+* Data Warehouse リクエストでのタイムゾーンの問題を修正しました。（AN-177585）
 
 ### Analytics 管理者向けの重要な注意事項{#aa-notices}
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| _レポートの合計_の計算に対して予定されている変更 | 2019 年 4 月 16 日 | **2019 年 6 月 14 日**に、_レポートの合計_値の算出方法をすべてのディメンションおよび指標で共通化するための変更を適用します。これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されます。この変更以前は、レポートに_未指定_が表示されているかどうかにかかわらず、合計に_未指定_の行項目を含めるレポートと含めないレポートが混在していました。<br/>2019 年 6 月 14 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に計算されるようになります。また、この変更によって、「_存在する_」または「_存在しない_」ロジックを使用しているセグメントでは、一部のディメンションで異なる結果が表示される場合があります。この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。 |
+| _レポートの合計_の計算に対して予定されている変更 | 2019 年 4 月 16 日 | **2019 年 6 月 14 日**に、_レポートの合計_値の算出方法をすべてのディメンションおよび指標で共通化するための変更を適用します。これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されます。この変更以前は、レポートに_未指定_が表示されているかどうかにかかわらず、合計に_未指定_の行項目を含めるレポートと含めないレポートが混在していました。<br/>2019 年 6 月 14 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に含められるようになります。また、この変更によって、「_存在する_」または「_存在しない_」ロジックを使用しているセグメントでは、一部のディメンションで異なる結果が表示される場合があります。この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。 |
 | Analysis Workspace CSV ダウンロード機能の更新点 | 2019 年 4 月 10 日 | 2019 年 4 月 11 日以降、Analysis Workspace からの CSV ダウンロード（およびクリップボードへのコピー）にいくつかの変更が加えられ、書き出されたデータから書式が削除されます。  <ul><li>桁区切り記号は含まれなくなります。小数点文字は引き続き表示され、**コンポーネント**／**レポート設定**／**桁区切り記号**で定義された形式が適用されます。注意：小数点を小数点区切り記号として使用する数値は、書き出された CSV では引き続き引用されます。</li><li>通貨記号は表示されません。</li><li>パーセント記号は表示されません。パーセンテージは 10 進形式になります。例：75%は 0.75 と表示されます。</li><li>時間は秒単位で表示されます。</li><li>コホートテーブルでは、生の値のみが表示され、パーセント値は削除されます。</li><li>数値が無効な場合は、空のセルが表示されます。</li></ul> |
-| Analysis Workspace Debugger コマンドの更新予定 | 2019 年 4 月 4 日 | Analysis Workspace Debugger をオンにするためのコンソールコマンドは、**2019 年 6 月 13 日**に adobeTools.debug.includeOberonXml に変更されます。 |
-| 日付分類および数値分類に関するサポートの変更予定 | 2019 年 2 月 28 日 | 数値 2 分類および日付分類をインポートする機能が廃止されました。この変更は 2019 年 6 月のメンテナンスリリースから有効になります。「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。<br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
+| Analysis Workspace Debugger コマンドの変更 | 2019 年 4 月 4 日 | Analysis Workspace Debugger をオンにするためのコンソールコマンドは、**2019 年 6 月 13 日**に adobeTools.debug.includeOberonXml に変更されます。 |
+| 日付分類および数値分類に関するサポートの変更予定 | 2019 年 2 月 28 日 | 数値 2 分類および日付分類をインポートする機能が廃止されます。この変更は 2019 年 6 月のメンテナンスリリースから有効になります。「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。<br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
 | getPercentPageViewed プラグインに関するドキュメントの大幅な更新 | 2019 年 2 月 12 日 | [https://experiencecloud.adobe.com/resources/help/ja_JP/sc/implement/getPercentPageViewed.html](https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/getPercentPageViewed.html) |
 | 管理者／一般的なアカウント設定 | 2019 年 2 月 7 日 | * 2019 年 1 月以降、ロンドンデータセンターで作成される新しいレポートスイートでは、「_IP アドレスの最後のオクテットを 0 に置き換えます_」設定がデフォルトで有効になります。これは、そのレポートスイートの設定が、Admin Console に一覧表示されるテンプレートからコピーされた場合に限ります。他のレポートスイートから設定をコピーしたレポートスイートでは、すべての設定が、選択したレポートスイートから継承されます。* <br/>EMEA でレポートスイートを設定したすべてのお客様の場合、「_IP の不明化_」設定はデフォルトでは有効になりません。 |
 | モバイルブラウザーのバージョン番号 | 2019 年 2 月 7 日 | 2019 年 1 月 8 日より、モバイルブラウザーバージョン番号を 3 桁から 2 桁に変更しました。この日以降、バージョンは先頭の 2 レベルのみ表示されます（例：_Firefox 64.0.2_ は _Firefox 64.0_ と表記されるようになりました）。 |
@@ -118,7 +122,7 @@ Adobe Analytics の新機能および修正点です。
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| [IPアドレスの難読化](https://marketing.adobe.com/resources/help/en_US/aam/ip-obfuscation.html) | グローバルプライバシー規制により、多くの国で IP アドレスの難読化が求められる場合があります。Audience Manager を使用すると、訪問者の IP アドレスをグローバルまたは国ごとに難読化できます。 |
+| [IPアドレスの難読化](https://marketing.adobe.com/resources/help/en_US/aam/ip-obfuscation.html) | 世界液なプライバシー規制のトレンドを受け、多くの国で IP アドレスの難読化が求められるようになってきました。Audience Manager を使用すると、訪問者の IP アドレス全体または国ごとに難読化できます。 |
 | [カスタムパートナーの統合 - Oracle Data Cloud](https://marketing.adobe.com/resources/help/en_US/aam/custom-partner-integrations.html) | このページには、Audience Manager とデータパートナー間のカスタム統合の一覧が掲載されています。Audience Manager は、受信データファイルを使用して、Oracle Data Cloud for Audience Marketplace から cookie とモバイル ID データを取り込みます。このページで説明するカスタム統合仕様は、モバイル ID（IDFA および Android デバイスID）を含む受信データファイルのみを対象としています。 |
 
 **修正点、機能強化および廃止された機能**
@@ -133,7 +137,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 **AEM 6.5**
 
-AEM 6.5（2019 年 4 月 8 日から利用可能）は、AEM 6.4 コードベースに対するアップグレードリリースです。AEM 6.5 への最新のアップデートでは、お客様のビジネスをさらに加速させる優れた機能へすぐにアクセスできます。
+AEM 6.5（2019 年 4 月 8 日から利用可能）は、AEM 6.4 コードベースに対するアップグレードリリースです。AEM 6.5 への最新のアップデートでは、お客様のビジネスをさらに加速させる優れた機能が利用可能になりました。
 
 * [Adobe Experience Manager 6.5 の新機能](https://www.adobe.com/marketing/experience-manager/new.html)
 * [Adobe Experience Manager 6.5 リリースノート](https://helpx.adobe.com/experience-manager/6-5/release-notes.html)
