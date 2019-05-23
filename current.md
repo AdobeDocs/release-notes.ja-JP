@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 5 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c5d973e002c607c1b9b7422c9d3abaa9c827a000
+source-git-commit: eb567f2f7b740c2fab9b95540cfdf240cf1f6955
 
 ---
 
@@ -63,6 +63,7 @@ Adobe Analytics の新機能および修正点です。
 
 | 機能 | 説明 |
 | -----------| ---------- |  
+| **AppMeasurementバージョン2.14.0** <ul><li>複数のヒットが保留中の場合に、トラッカーパラメーターの状態の管理に関する問題を修正しました。（AN-176931、AN-176629、DTM-12758）</li><li>AppMeasurementが更新され、Visitor. js4.3.0が含まれるようになりました。（AN-180049）</li></ul> |
 | **Analysis Workspace:** 新しい _「繰り返しインスタンス_ のフローを含む」のビジュアライゼーション設定 | 「_繰り返しインスタンスを含める_」フロー設定で、繰り返しインスタンス（ページのリロードなど）を含めるか除外するかを指定できます。また、「すべてのフロー」ビジュアライゼーションはインスタンスのみに基づくようになりました。 |
 | **Ad Hoc Analysis:** Java11との互換性 | Ad Hoc Analysis は、Java 11 をサポートするようになりました。Java11でAd Hoc Analysisを実行 [する方法について](https://marketing.adobe.com/resources/help/en_US/dsc/adhoc-java.html)説明します。 |
 | **データ収集:** 新しいs_ ecid cookie | CNAMEを設定している場合、データ収集サーバーが訪問者の ECID を格納するファーストパーティのサーバー cookie（s_ecid）をセットするようになりました。 |
