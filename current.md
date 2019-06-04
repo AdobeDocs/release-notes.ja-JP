@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 5 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8517ef177c10b4a0e5228ccbcb9168d0e35577e0
+source-git-commit: c8db350233cea9b83993e4723601b01a8e301f87
 
 ---
 
@@ -15,8 +15,7 @@ source-git-commit: 8517ef177c10b4a0e5228ccbcb9168d0e35577e0
 Adobe Experience Cloud の新機能および修正点です。
 
 >[!NOTE]
->>[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。通知はリリースの 3～5 営業日前に届きます。リリース後に発表された新情報には、更新の日付が明記されます。
-
+>[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。通知はリリースの 3～5 営業日前に届きます。リリース後に発表された新情報には、更新の日付が明記されます。
 
 **リリース日:2019年5月**
 
