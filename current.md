@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019年6月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d216b079f73662c1d43e154b2a4e8195d09a2f18
+source-git-commit: 0c4355bbb17d5b67a8f136a07b7fc2a682441a01
 
 ---
 
@@ -58,6 +58,8 @@ Adobe Analytics の新機能および修正点です。
 | **デバッガー** | Adobe IDでログインすると、後処理されたヒットをExperience Cloudデバッガーで取得できるようになりました。処理後のヒットは、 [!UICONTROL 処理ルール] とVISTAルールを使用して完了した後で、 [!UICONTROL 処理ルール] とVISTAルールを検証できます。**注意**:A4T（SupplementalDataID）を使用している場合、後処理データには数分かかることがあります。 |
 | **Analysis Workspace:** | 左側のレール検索に追加された新しいフィルターを追加しました。今日の表示（ディメンション、指標、承認済みなど）は、計算指標、顧客属性、eVar、Props、ビデオなどの新しいフィルターになります。が追加され、必要なコンポーネントを見つけやすくなりました。 |
 | **Analysis Workspace** | セグメントをタッチポイントとして追加したときに表示されるフォールアウトビジュアライゼーションに警告を追加しました。無効なセグメントコンテナの組み合わせによって、フォールアウト図が無効になります。例えば、 <ul><li>訪問者ベースのセグメントを訪問者コンテキストのフォールアウトビジュアライゼーション内のタッチポイントとして使用する</li><li>訪問コンテキストのフォールアウトビジュアライゼーション内のタッチポイントとしての訪問者ベースのセグメントの使用</li><li>訪問ベースのセグメントを訪問コンテキストのフォールアウトビジュアライゼーション内のタッチポイントとして使用する</li></ul> <br> [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html)</br> |
+| **Analyticsドキュメントの強化** | 解析ドキュメントが再編成され、コンテンツを改善できるコラボレーション機能が追加されました。ドキュメントに対して問題を記録し、編集を提案することができます。ドキュメントセットが [新しいドメインに移動](https://docs.adobe.com/content/help/en/analytics/landing/home.html)しました。リダイレクトする必要があります。 |
+| **New ech Notesユーザーガイド** | [テクニカルノートのユーザーガイド](https://docs.adobe.com/content/help/en/analytics/technotes/home.html) が利用できるようになりました。現在、Googleアナリティクスのようなサードパーティの分析ツールを使用して、Adobe Analyticsについてより詳しい情報を提供することを目的としています。テクニカルノートのユーザーガイドは、今後数か月以内に拡張され、コンテンツを追加します。 |
 
 **Analysis Workspace の修正点**
 
