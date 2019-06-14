@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019年6月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 0c4355bbb17d5b67a8f136a07b7fc2a682441a01
+source-git-commit: dbcd180c5fd07abd8a6b8ed9ec47b3b1d996f275
 
 ---
 
@@ -23,7 +23,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac)
+* [[!DNLキャンペーン]](#ac)
 * [Mobile Services](#mobile)
 * [Advertising Cloud](#adcloud)
 * [Target Standard／Premium 19.6.1](#target)
@@ -34,11 +34,11 @@ Adobe Experience Cloud の新機能および修正点です。
 
 ### Adobe Experience Platform リリースノート
 
-* エクスペリエンスプラットフォームの最新の更新については、Adobe. ioの [Experience Platformリリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) を参照してください。
+* [ [!DNL Experience Platform]リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md)[!DNL Experience Platform]を参照してください。
 
-### Experience Platform Launch
+### [!DNL Experience Platform Launch]
 
-* 最新の情報については [、エクスペリエンスプラットフォームの起動](https://docs.adobelaunch.com/) を参照してください。
+* [ [!DNL Experience Platform Launch]](https://docs.adobelaunch.com/) を参照してください。
 
 ## Analytics {#analytics}
 
@@ -101,7 +101,7 @@ Adobe Analytics の新機能および修正点です。
 * 特性フォルダーのコンテンツが表示されない問題を解決しました。
 * 特徴タイプを1つのみ選択すると特性並べ替えが失敗する問題を解決しました。
 * 新しいサブフォルダーを作成または更新するたびに、特性フォルダーツリーが [!UICONTROL すべての特性] ビューに折りたたむ問題を解決しました。
-* パートナーを削除しようとする際にVIEW_ DATICTIDATM権限が必要になる問題を解決しました。
+* パートナーを削除しようとする [!DNL VIEW_DATASOURCES] と、権限が必要になる問題を解決しました。
 * セグメントページの [!UICONTROL 「検索」] ボックスで、選択した [!UICONTROL 項目で] はなくすべてのフォルダーを検索する問題を解決しました。
 * 新しいアルゴリズムモデルを作成する際に、「特性 [!UICONTROL ] を除外」テーブルをヘッダーコントロールを通して並べ替えることができない問題を解決しました。
 * 空の間隔の日付を含むレポートを実行するとAudience Managerがクラッシュする問題を解決しました。
@@ -213,23 +213,23 @@ devOpsの処理によって、クラウド内のAdobe Experience Manager Managem
 * [Scene7 Publishing System リリースノート](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre リリースノート](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
-## Campaign {#ac}
+## [!DNL Campaign] {#ac}
 
 Adobe Campaign は、オンラインおよびオフラインのマーケティングチャネルにわたって 1 対 1 のメッセージを届けるために直感的で自動化された方法を提供します。顧客の習慣や好みによって特定されたエクスペリエンスを利用して、顧客が欲しいものを予測できるようになりました。
 
-### Campaign Classic19.1Springリリース
+### [!DNL Campaign Classic] 19.1Springリリース
 
 | 機能 | 説明 |
 | ------------- | ----------- |
 | コントロールパネル | 管理者ユーザーとして作業効率を向上させるには、ストレージ、ホワイトリスト登録IPアドレス、各インスタンスにSSHキーをインストールして、SFTPサーバーの設定を管理します。コントロールパネルは、今日の時点ではAWSでホストされているお客様のみ利用できます。[Experience Cloudを使用してログイン](https://experiencecloud.adobe.com/campaign/controlpanel/)します。<br> 詳しくは、 [詳細ドキュメント](https://helpx.adobe.com/campaign/kb/control-panel.html) とハウツービデオ [](https://helpx.adobe.com/campaign/kt/acc/using/acc-control-panel-video-use.html)を参照してください。 |
 | 監査証跡 | 管理者として、Adobe Campaign Classicインスタンス内で行われた変更を監視および管理することにより、生産性を向上させます。監査証跡は、ソーススキーマ、ワークフローおよびオプションで行われたアクションを記録します。要素が作成、変更または削除されたかどうかをすばやく確認できます。<br>詳しくは、 [詳細ドキュメント](https://docs.campaign.adobe.com/doc/AC/en/PRO_Production_procedures_Audit_trail.html) とハウツービデオ [](https://helpx.adobe.com/campaign/kt/acc/using/acc-audit-trail-feature-video-use.html)を参照してください。 |
-| Guardrail、堅牢性およびスケーラビリティ | キャンペーンClassicに一連の改善が加えられました。Guarddlail、堅牢性およびスケーラビリティの改善については [、キャンペーンClassicリリースノート](https://docs.campaign.adobe.com/doc/AC/en/RN.html)を参照してください。 |
+| Guardrail、堅牢性およびスケーラビリティ | 一連の改善が追加 [!DNL Campaign Classic]されました。Guarddlail、堅牢性およびスケーラビリティの改善については、 [Adobe Campaign Classicリリースノート](https://docs.campaign.adobe.com/doc/AC/en/RN.html)を参照してください。 |
 | セキュアSMSメッセージング（TLS） | 拡張された汎用SMPP Connectorを通じて、保護されたSMSがサポートされるようになりました。これにより、プロバイダーへの暗号化された接続が可能になります。<br>詳しくは、[詳細ドキュメント](https://helpx.adobe.com/campaign/kb/sms-connector-protocol-and-settings.html)を参照してください。 |
 | 互換性マトリックスの更新 | この新しいバージョンでは、Adobe Campaignで以下のデータベースシステムがサポートされるようになりました。互換性マトリックスを参照し [てください](https://helpx.adobe.com/campaign/kb/compatibility-matrix.html) <ul><li>Oracle18c</li><li>MySQL5.7（FDA）</li><li>SQL Server2017</li><li>Teradata16（FDA）</li><li>PostgreSQL11</li></ul> |
 
-修正点と機能改善については、[Adobe Campaign Classic リリースノート](http://docs.campaign.adobe.com/doc/AC/en/RN.html)を参照してください。
+修正点および改善点については [、&quot;Adobe Campaign Classic] リリースノート」（http://docs.campaign.adobe.com/doc/AC/en/RN.html)）を参照してください。
 
-### Campaign Standard19.2Springリリース
+### [!DNL Campaign Standard] 19.2Springリリース
 
 | 機能 | 説明 |
 | ------------- | ----------- |
