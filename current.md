@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019年6月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3db1b9386db42a9b63a9a313ef80f05f377f1c65
+source-git-commit: a4233ae2bcb89b8695b92385142ee25b654a2300
 
 ---
 
@@ -227,7 +227,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 | セキュアSMSメッセージング（TLS） | 拡張された汎用SMPP Connectorを通じて、保護されたSMSがサポートされるようになりました。これにより、プロバイダーへの暗号化された接続が可能になります。<br>詳しくは、[詳細ドキュメント](https://helpx.adobe.com/campaign/kb/sms-connector-protocol-and-settings.html)を参照してください。 |
 | 互換性マトリックスの更新 | この新しいバージョンでは、Adobe Campaignで以下のデータベースシステムがサポートされるようになりました。互換性マトリックスを参照し [てください](https://helpx.adobe.com/campaign/kb/compatibility-matrix.html) <ul><li>Oracle18c</li><li>MySQL5.7（FDA）</li><li>SQL Server2017</li><li>Teradata16（FDA）</li><li>PostgreSQL11</li></ul> |
 
-修正点および改善点については [、&quot;Adobe Campaign Classic] リリースノート」（http://docs.campaign.adobe.com/doc/AC/en/RN.html)）を参照してください。
+修正点と機能改善については、[Adobe Campaign Classic リリースノート](http://docs.campaign.adobe.com/doc/AC/en/RN.html)を参照してください。
 
 ### [!DNL Campaign Standard] 19.2Springリリース
 
