@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019年6月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a4233ae2bcb89b8695b92385142ee25b654a2300
+source-git-commit: 7708f905e8f5baf0843e7ccb6c652a3450dd5d82
 
 ---
 
@@ -23,7 +23,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [!DNL [Campaign](#ac)]
+* [!DNL Campaign](#ac)
 * [Mobile Services](#mobile)
 * [Advertising Cloud](#adcloud)
 * [Target Standard／Premium 19.6.1](#target)
@@ -34,11 +34,11 @@ Adobe Experience Cloud の新機能および修正点です。
 
 ### Adobe Experience Platform リリースノート
 
-* [[!DNL Experience Platform]リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) [!DNL Experience Platform]を参照してください。
+* [ [!DNL Experience Platform]リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md)[!DNL Experience Platform]を参照してください。
 
 ### [!DNL Experience Platform Launch]
 
-* [[!DNL Experience Platform Launch]](https://docs.adobelaunch.com/) を参照してください。
+* 最新の情報につい [!DNL Experience Platform Launch](https://docs.adobelaunch.com/) ては、を参照してください。
 
 ## Analytics {#analytics}
 
