@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019年6月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7708f905e8f5baf0843e7ccb6c652a3450dd5d82
+source-git-commit: 9fbbe902ba5f95b86f8bf2eed7d3e85b4785ba6e
 
 ---
 
@@ -34,7 +34,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 ### Adobe Experience Platform リリースノート
 
-* [ [!DNL Experience Platform]リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md)[!DNL Experience Platform]を参照してください。
+* 最新のアップデートについては、Adobe. ioの [Adobe Experience Platformリリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) を参照 [!DNL Experience Platform]してください。
 
 ### [!DNL Experience Platform Launch]
 
