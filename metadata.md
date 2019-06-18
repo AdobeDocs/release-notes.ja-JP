@@ -10,7 +10,7 @@ tutorials-url: https://helpx.adobe.com/jp/experience-cloud/tutorials.html
 mini-toc-levels: '1'
 git-repo: https://github.com/AdobeDocs/release-notes.en
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8e54bd3d73d2729e22d09765069d311bc0bc5248
 
 ---
@@ -22,7 +22,7 @@ metadata. md ファイルにはリポジトリ内のユーザーガイド TOC.md
 
 | メタデータ | 説明 |
 |--- |--- |
-| solution-title | 記事ヘッダーでリンクとして使用します の呼び出しの後におこなわれる場合です。短くしてください。 |
+| solution-title | 記事ヘッダーでリンクとして使用します。簡潔にしてください。 |
 | solution-hub-url | Helpx ハブページを開きます |
 | solution-icon | ソリューションタイトルの横にソリューションアイコンを表示します。未実装 |
 | getting-started-title | チュートリアルが適切でない場合はほとんど使用されません |
