@@ -4,8 +4,8 @@ description: 2019 年 6 月 Experience Cloud リリースノート
 doc-type: リリースノート
 last-update: 2019 年 6 月
 author: mfrei
-translation-type: ht
-source-git-commit: 9fbbe902ba5f95b86f8bf2eed7d3e85b4785ba6e
+translation-type: tm+mt
+source-git-commit: 271087e92e26cd3b0aa382fe9760021d50414a13
 
 ---
 
@@ -15,12 +15,12 @@ source-git-commit: 9fbbe902ba5f95b86f8bf2eed7d3e85b4785ba6e
 Adobe Experience Cloud の新機能および修正点です。
 
 >[!NOTE]
->[Adobe Priority Product Update](https://www.adobe.com/jp/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。通知はリリースの 3～5 営業日前に届きます。リリース後に発表された新情報には、更新の日付が明記されます。
+>[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。通知はリリースの 3～5 営業日前に届きます。リリース後に発表された新情報には、更新の日付が明記されます。
 
 **リリース日：2019 年 6 月 13 日**
 
 * [Adobe Experience Platform](#platform)
-* [Analytics](#analytics)
+* [解析](#analytics)**（2019年6月25日更新）**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -34,32 +34,32 @@ Adobe Experience Cloud の新機能および修正点です。
 
 ### Adobe Experience Platform リリースノート
 
-* [!DNL Experience Platform] の最新の更新については、Adobe.io の [Adobe Experience Platform リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md)を参照してください。
+* See [Adobe Experience Platform release notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) on Adobe.io for the latest updates to [!DNL Experience Platform].
 
 ### [!DNL Experience Platform Launch]
 
-* 最新情報については、[!DNL Experience Platform Launch](https://docs.adobelaunch.com/) を参照してください。
+* See [!DNL Experience Platform Launch](https://docs.adobelaunch.com/) for the latest information.
 
 ## Analytics {#analytics}
 
 Adobe Analytics の新機能および修正点です。
 
 * [Adobe Analytics の新機能および修正点](#aa-features)
-* [Analytics 管理者向けの重要な注意事項](#aa-notices)
+* [Analytics管理者に関する重要な注意](#aa-notices)**事項（更新日2019年6月25日）**
 
-製品ドキュメントについては、[Analytics ヘルプのホーム](https://marketing.adobe.com/resources/help/ja_JP/reference/)を参照してください。
+製品ドキュメントについては、[Analytics ヘルプホーム](https://marketing.adobe.com/resources/help/en_US/reference/)を参照してください。
 
 ### Adobe Analytics の新機能および修正点{#aa-features}
 
-| 機能 | 説明 |
+| 機能/拡張機能 | 説明 |
 | -----------| ---------- |  
-| **セグメント** | セグメント作成時におけるディメンションのアトリビューション設定が可能になりました。<ul><li>繰り返し（デフォルト）：ディメンションに直接的にセットされる値に加えて、以前のヒットから引き継がれた値も対象になります。</li><li>インスタンス：ディメンションに直接的にセットされるインスタンスのみが対象になります。</li><li>繰り返さないインスタンス：後続のヒットで同じ値が連続的に繰り返されるヒットを除いたインスタンスのみが対象になります。</li></ul> [詳細はこちら](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-build.html) |
-| **セグメント** | 新しいセグメント演算子：「**[!UICONTROL 次のいずれかと等しい]**」および「**[!UICONTROL 次のいずれとも等しくない]**」。[詳細はこちら](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html) |
+| **セグメント** | セグメント作成時におけるディメンションのアトリビューション設定が可能になりました。<ul><li>繰り返し（デフォルト）：ディメンションに直接的にセットされる値に加えて、以前のヒットから引き継がれた値も対象になります。</li><li>インスタンス：ディメンションに直接的にセットされるインスタンスのみが対象になります。</li><li>繰り返さないインスタンス：後続のヒットで同じ値が連続的に繰り返されるヒットを除いたインスタンスのみが対象になります。</li></ul> [詳細情報](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-build.html) |
+| **セグメント** | 新しいセグメント演算子：「**[!UICONTROL 次のいずれかと等しい]**」および「**[!UICONTROL 次のいずれとも等しくない]**」。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html) |
 | **Debugger** | Adobe ID を使用してログインした場合、Experience Cloud Debugger において後処理された値を表示するオプションが追加されました。[!UICONTROL ]これにより、[!UICONTROL 処理ルール]および VISTA ルールが適用された後のデータを検証できるようになりました。**注意**：A4T（SupplementalDataID）を使用している場合、後処理データが反映されるまで数分かかる可能性があります。 |
 | **Analysis Workspace：** | 左側のレールの検索に新しい事前設定済みのフィルターが追加されました。現在表示できるもの（ディメンション、指標、承認済みなど）以外に、計算指標、顧客属性、eVar、Prop、ビデオなどの新しいフィルターが追加され、必要なコンポーネントを探すのがより簡単になります。 |
-| **Analysis Workspace** | フォールアウトのビジュアライゼーションにセグメントをタッチポイントとして追加する際に、以下のような無効な組み合わせに対して警告を表示するようになりました。 <ul><li>訪問者ベースのセグメントを訪問者コンテキストのフォールアウトビジュアライゼーション内のタッチポイントとして使用</li><li>訪問者ベースのセグメントを訪問コンテキストのフォールアウトビジュアライゼーション内のタッチポイントとして使用</li><li>訪問ベースのセグメントを訪問コンテキストのフォールアウトビジュアライゼーション内のタッチポイントとして使用</li></ul> <br> [詳細はこちら](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html) </br> |
-| **Analytics ドキュメントの改善** | Analytics ドキュメントが再構成され、コンテンツの改善を提案できる機能が追加されました。ドキュメントに関する問題を報告したり、編集を提案したりできます。また、ドキュメントはすべて、[新しいサイト](https://docs.adobe.com/content/help/en/analytics/landing/home.html) に移動されました。従来のサイトからリダイレクトがおこなわれます。 |
-| **新しいテクニカルノートユーザーガイド** | [テクニカルノートユーザーガイド](https://docs.adobe.com/content/help/en/analytics/technotes/home.html)が利用できるようになりました。現在は、Google Analytics などのサードパーティ分析ツールに詳しいユーザーが Adobe Analytics に慣れることを主目的として構成されています。テクニカルノートユーザーガイドは、今後数ヶ月の間にその他のコンテンツが追加される予定です。 |
+| **Analysis Workspace** | フォールアウトのビジュアライゼーションにセグメントをタッチポイントとして追加する際に、以下のような無効な組み合わせに対して警告を表示するようになりました。 <ul><li>訪問者ベースのセグメントを訪問者コンテキストのフォールアウトビジュアライゼーション内のタッチポイントとして使用</li><li>訪問者ベースのセグメントを訪問コンテキストのフォールアウトビジュアライゼーション内のタッチポイントとして使用</li><li>訪問ベースのセグメントを訪問コンテキストのフォールアウトビジュアライゼーション内のタッチポイントとして使用</li></ul> <br> [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html)</br> |
+| **Analytics ドキュメントの改善** | Analytics ドキュメントが再構成され、コンテンツの改善を提案できる機能が追加されました。ドキュメントに関する問題を報告したり、編集を提案したりできます。The doc set has moved to a [new domain](https://docs.adobe.com/content/help/en/analytics/landing/home.html). 従来のサイトからリダイレクトがおこなわれます。 |
+| **新しいテクニカルノートユーザーガイド** | [テクニカルノートのユーザーガイド](https://docs.adobe.com/content/help/en/analytics/technotes/home.html) が利用できるようになりました。現在は、Google Analytics などのサードパーティ分析ツールに詳しいユーザーが Adobe Analytics に慣れることを主目的として構成されています。テクニカルノートユーザーガイドは、今後数ヶ月の間にその他のコンテンツが追加される予定です。 |
 
 **Analysis Workspace の修正点**
 
@@ -77,8 +77,9 @@ Adobe Analytics の新機能および修正点です。
 ### Analytics 管理者向けの重要な注意事項{#aa-notices}
 
 | 通知 | 追加日または更新日 | 説明 |
-| -----------| ---------- | ---------- |
-| 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | これらの制限は新しいものではなく、[こちら](https://marketing.adobe.com/resources/help/ja_JP/reference/classification_rule_builder.html)のドキュメントに追加されています。 |
+| -----------| ---------- | ---------- | 
+| Audit Logs UIの変更 | 追加日：2019 年 6 月 24 日 | In the API `Logs.GetUsageLog`, the following changes were made to the UI: <ul><li>The response headers in the API were changed: a) from `timestamp` to `dateCreated`, b) from `login` to `companyLogin`, c) from `event_num` to `eventType`, d) from `event_type` to `event_type`, e) from `ip_address` to `ipAddress`, f) from `report_suite` to `rsid`, g) from `event_details` to `logText`. </li><li>タイムスタンプ形式がUNIXタイムスタンプからISO8601の時刻に変更されました</li><li>監査ログ結果にレポートスイート名ではなくレポートスイートIDが含まれるようになりました。 </li></ul> |
+| 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | These limits are not new, but have been added to the documentation [here](https://marketing.adobe.com/resources/help/en_US/reference/classification_rule_builder.html). |
 | 新しいセグメント演算子の制限 | 追加日：2019 年 5 月 31 日 | 2019 年 7 月 18 日以降、セグメント演算子「次のいずれかを含む」、「次のいずれかを含まない」、「次のすべてを含む」および「次のすべてを含まない」は、入力フィールドあたり 100 語に制限されます。この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
 | **[!UICONTROL 日付分類]** および **[!UICONTROL 数値 2 分類]** に関するサポートの変更予定 | 2019 年 5 月 28 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。この変更は 2019 年 7 月のメンテナンスリリースから有効になります。「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。<br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
 | _レポートの合計_の計算に対して予定されている変更 | 2019 年 5 月 2 日更新 | **2019 年 6 月 14 日** に、_レポートの合計_値の算出方法をすべてのディメンションおよび指標で共通化します。これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されます。この変更以前は、レポートに_未指定_が表示されているかどうかにかかわらず、合計に_未指定_の行項目を含めるレポートと含めないレポートが混在していました。<br/>2019 年 6 月 13 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に含められるようになります。また、この変更によって、「_存在する_」または「_存在しない_」ロジックを使用しているセグメントでは、一部のディメンションで異なる結果が表示される場合があります。この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。 |
@@ -87,7 +88,7 @@ Adobe Analytics の新機能および修正点です。
 | モバイルブラウザーのバージョン番号 | 2019 年 2 月 7 日 | 2019 年 1 月 8 日より、モバイルブラウザーバージョン番号を 2 桁から 1 桁に変更しました。この日以降、バージョンは先頭の 2 レベルのみ表示されます（例：_Firefox 64.0.2_ は _Firefox 64.0_ と表記されるようになりました）。 |
 | [!DNL Ad Hoc Analysis] のサポート終了 | 2019 年 1 月 29 日 | 2018 年 8 月 7 日、アドビは [!DNL Ad Hoc Analysis] のサポート終了の意向を表明しました。サポート終了日については確定次第お知らせします。<br/>サポート終了の予定や詳細については [Discover Workspace](https://adobe.ly/discoverworkspace) を参照してください。 |
 | Analytics レポートリンク | 2019 年 1 月 14 日 | 2019 年 1 月 17 日（木）以降、直近 1 年間に訪問されていない短い Analytics レポートリンクは、定期的に削除されるようになります。 |
-| TLS 1.0 のサポート終了 | 2019 年 1 月 10 日更新 | 2019 年 2 月 11 日現在、Adobe Analytics レポートで TLS（Transport Layer Security）1.0 の暗号化がサポートされなくなっています。この変更は、最高レベルのセキュリティ基準を維持して、お客様のデータの安全を確保するための継続的な取り組みの一環です。2019 年 2 月 11 日以降に Adobe Analytics レポートに接続できない場合は、ブラウザーを[最新バージョン](https://marketing.adobe.com/resources/help/ja_JP/sc/user/requirements.html) にアップグレードしてください。<br/>2019 年 2 月 20 日以降、Adobe Analytics のデータ収集で TLS 1.0 がサポートされなくなりました。この変更により、TLS 1.1 以上をサポートしていない旧型のデバイスや Web ブラウザーを使用しているエンドユーザーの Analytics データは収集されなくなりました。この変更が、お客様の顧客のデータやレポートに大きな影響を及ぼすことはないと認識しています。（お客様の Web サイトが既に TLS 1.0 をサポートしていない場合、影響は一切ありません。）<br/>2019 年 4 月 11 日以降、Adobe Analytics レポート API は TLS 1.0 の暗号化をサポートしていません。API にアクセスするお客様は、この変更による影響の有無を確認してください。 <ul><li>デフォルト設定で Java 7 を使用している API クライアントは、[TLS 1.2 をサポートするように変更](https://www.java.com/en/configure_crypto.html) をおこなってください。（「_Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2_」を参照、ブラウザーの翻訳機能をお使いください）。 </li><li>Java 8 を使用している API クライアントは、デフォルト設定が TLS 1.2 なので、影響を受けません。</li><li> その他のフレームワークを使用している API クライアントは、TLS 1.2 のサポートについてベンダーにお問い合わせください。</li></ul> |
+| TLS 1.0 のサポート終了 | 2019 年 1 月 10 日更新 | 2019 年 2 月 11 日現在、Adobe Analytics レポートで TLS（Transport Layer Security）1.0 の暗号化がサポートされなくなっています。この変更は、最高レベルのセキュリティ基準を維持して、お客様のデータの安全を確保するための継続的な取り組みの一環です。If you are unable to connect to Adobe Analytics reporting after February 11, 2019, you should upgrade your browser to the [latest version](https://marketing.adobe.com/resources/help/en_US/sc/user/requirements.html).<br/>2019 年 2 月 20 日以降、Adobe Analytics のデータ収集で TLS 1.0 がサポートされなくなりました。この変更により、TLS 1.1 以上をサポートしていない旧型のデバイスや Web ブラウザーを使用しているエンドユーザーの Analytics データは収集されなくなりました。この変更が、お客様の顧客のデータやレポートに大きな影響を及ぼすことはないと認識しています。（お客様の Web サイトが既に TLS 1.0 をサポートしていない場合、影響は一切ありません。）<br/>2019 年 4 月 11 日以降、Adobe Analytics レポート API は TLS 1.0 の暗号化をサポートしていません。API にアクセスするお客様は、この変更による影響の有無を確認してください。 <ul><li>デフォルト設定で Java 7 を使用している API クライアントは、[TLS 1.2](https://www.java.com/en/configure_crypto.html) をサポートするように変更してください（「_Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2_」を参照、ブラウザーの翻訳機能をお使いください）。 </li><li>Java 8 を使用している API クライアントは、デフォルト設定が TLS 1.2 なので、影響を受けません。</li><li> その他のフレームワークを使用している API クライアントは、TLS 1.2 のサポートについてベンダーにお問い合わせください。</li></ul> |
 | データフィード：post_product_list 列 - サイズ変更 | 2019 年 1 月 9 日 | 2019 年 2 月 7 日、post_product_list 列のサイズを 64 KB から 16 MB に拡張されました。この変更は、処理中に post_product_list に追加されるマーチャンダイジング eVar 値により、製品および売上高の値の切り捨てが発生しないようにします。post_product_list の値を取得する処理を実行する場合、これらの処理が最大 16 MB の値に対応できるようにしてください。またはデータ取得の失敗を避けるために、値が 16 KB に達した時点で値を切り捨てるようにしてください。 |
 | [!DNL Analytics Live Stream] エンドポイントの管理における変更点 | 2018 年 12 月 20 日 | 2019 年 2 月 1 日以降、顧客からのアクティブな接続が 90 日間なかった [!DNL Live Stream] エンドポイントが無効化される場合があります。使用中の [!DNL Live Stream] エンドポイントについてはサポートに問い合わせて確認でき、必要に応じて再度有効にすることができます。また、サービス規定に従って顧客のプロセスで永続的な接続が維持されるように注意し、接続が切断されたり中断されたりしたときには再接続するように実装してください。 |
 | TLS 1.0 のサポート終了に伴う Adobe [!DNL Report Builder] の更新 | 2018 年 9 月 7 日 | TLS 1.0 のサポート終了に伴い、[!DNL Report Builder] ユーザーの皆様には 2019 年 2 月までにバージョン 5.6.21 をダウンロードされることをお勧めします。この日以降、以前のバージョンの [!DNL Report Builder] は機能しなくなります。 |
@@ -191,11 +192,11 @@ XML ドキュメントソリューションの 3.3 リリースが使用でき�
 
 ### コミュニティ
 
-**[Cloud Manager Skill Builder ウェビナーシリーズ](https://cloudmanagerskillbuilder.experienceleague.adobeevents.com/)**
+**[Cloud Managerスキルビルダーのウェビナーシリーズ](https://cloudmanagerskillbuilder.experienceleague.adobeevents.com/)**
 
 DevOps プロセスは、クラウドでの Adobe Experience Manager 管理に関する日々の作業をシンプル化できます。Cloud Manager は、Adobe Experience Manager の第 1 世代のクラウド対応機能を提供し、組織が DevOps 変換を開始しているか既存のDevOps 処理を拡大するための戦略を探しているかにかかわらず、クラウドの俊敏性を実現できます。
 
-[この毎月のシリーズ](https://cloudmanagerskillbuilder.experienceleague.adobeevents.com/)で、クラウドでの Adobe Experience Manager 管理をシンプル化するための Cloud Manager 機能の開始方法および使用方法をアドビの製品チームから直接学ぶことができます。
+[この毎月のシリーズ](https://cloudmanagerskillbuilder.experienceleague.adobeevents.com/)では、クラウドマネージャー機能を使用して、クラウド内のAdobe Experience Manager Managementをシンプルにする方法について、アドビの製品チームから直接学習できます。
 
 次のことを学習できます。
 * Cloud Manager の開始方法と CI／CD パイプラインの設定方法
@@ -204,13 +205,13 @@ DevOps プロセスは、クラウドでの Adobe Experience Manager 管理に�
 
 ### その他のリソース
 
-* [AEM 6.5 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-5.html)
-* [AEM 6.4 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-4.html)
-* [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-3.html)
-* [AEM 6.2 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-2.html)
-* [Cloud Manager ユーザーガイド](https://helpx.adobe.com/jp/experience-manager/cloud-manager/user-guide.html)
-* [AEM ドキュメントの以前のバージョン](https://helpx.adobe.com/jp/experience-manager/aem-previous-versions.html)
-* [Scene7 Publishing System リリースノート](https://marketing.adobe.com/resources/help/ja_JP/s7/release_notes/index.html)
+* [AEM 6.5 ラーニングとサポートホーム](https://helpx.adobe.com/support/experience-manager/6-5.html)
+* [AEM 6.4 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-4.html)
+* [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-3.html)
+* [AEM 6.2 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-2.html)
+* [Cloud Manager ユーザーガイド](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
+* [AEM ドキュメントの以前のバージョン](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
+* [Scene7 Publishing System リリースノート](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre リリースノート](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
 ## [!DNL Campaign] {#ac}
@@ -221,27 +222,27 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | 機能 | 説明 |
 | ------------- | ----------- |
-| コントロールパネル | ストレージの監視、IP アドレスのホワイトリスト登録、各インスタンス用の SSH キーのインストールにより、SFTP サーバーの設定を管理して、管理者ユーザーの作業効率を向上させます。コントロールパネルは、現在、AWS でホストされているお客様のみ使用できることに注意してください。[Experience Cloud でログイン](https://experiencecloud.adobe.com/campaign/controlpanel/)します。<br>詳しくは、[詳細ドキュメント](https://helpx.adobe.com/jp/campaign/kb/control-panel.html)および[ハウツービデオ](https://helpx.adobe.com/jp/campaign/kt/acc/using/acc-control-panel-video-use.html)を参照してください。 |
-| 監査証跡 | 管理者は、Adobe Campaign Classic インスタンスでおこなわれた変更を監視および管理することで、生産性を向上できます。監査証跡は、ソーススキーマ、ワークフローおよびオプションでおこなわれたアクションを記録します。要素が作成、変更または削除された場合、すばやく確認できます。<br>詳しくは、[詳細ドキュメント](https://docs.campaign.adobe.com/doc/AC/en/PRO_Production_procedures_Audit_trail.html)および[ハウツービデオ](https://helpx.adobe.com/jp/campaign/kt/acc/using/acc-audit-trail-feature-video-use.html)を参照してください。 |
-| ガードレール、堅牢性および拡張性 |  [!DNL Campaign Classic] に一連の機能強化が加えられました。ガードレール、堅牢性および拡張性の強化は、[Adobe Campaign Classic リリースノート](https://docs.campaign.adobe.com/doc/AC/ja/RN.html)に記載されています。 |
-| セキュアな SMS メッセージング（TLS） | 拡張された汎用 SMPP コネクタで、セキュアな SMS がサポートされるようになりました。これにより、プロバイダーに対する暗号化された接続が可能になります。<br>詳しくは、[詳細ドキュメント](https://helpx.adobe.com/jp/campaign/kb/sms-connector-protocol-and-settings.html)を参照してください。 |
-| 互換性マトリックスの更新 | この新しいバージョンで、Adobe Campaign は次のデータベースシステムをサポートするようになりました。[互換性マトリックス](https://helpx.adobe.com/jp/campaign/kb/compatibility-matrix.html)を参照してください。 <ul><li>Oracle 18c</li><li>MySQL 5.7（FDA）</li><li>SQL Server 2017</li><li>Teradata 16（FDA）</li><li>PostgreSQL 11</li></ul> |
+| コントロールパネル | ストレージの監視、IP アドレスのホワイトリスト登録、各インスタンス用の SSH キーのインストールにより、SFTP サーバーの設定を管理して、管理者ユーザーの作業効率を向上させます。コントロールパネルは、現在、AWS でホストされているお客様のみ使用できることに注意してください。[Experience Cloudを使用してログイン](https://experiencecloud.adobe.com/campaign/controlpanel/)します。<br> 詳しくは、 [詳細ドキュメント](https://helpx.adobe.com/campaign/kb/control-panel.html) とハウツービデオ [](https://helpx.adobe.com/campaign/kt/acc/using/acc-control-panel-video-use.html)を参照してください。 |
+| 監査証跡 | 管理者は、Adobe Campaign Classic インスタンスでおこなわれた変更を監視および管理することで、生産性を向上できます。監査証跡は、ソーススキーマ、ワークフローおよびオプションでおこなわれたアクションを記録します。要素が作成、変更または削除された場合、すばやく確認できます。<br>詳しくは、 [詳細ドキュメント](https://docs.campaign.adobe.com/doc/AC/en/PRO_Production_procedures_Audit_trail.html) とハウツービデオ [](https://helpx.adobe.com/campaign/kt/acc/using/acc-audit-trail-feature-video-use.html)を参照してください。 |
+| ガードレール、堅牢性および拡張性 |  [!DNL Campaign Classic] に一連の機能強化が加えられました。Guardrail, robustness and scalability improvements are listed in [Adobe Campaign Classic Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html). |
+| セキュアな SMS メッセージング（TLS） | 拡張された汎用 SMPP コネクタで、セキュアな SMS がサポートされるようになりました。これにより、プロバイダーに対する暗号化された接続が可能になります。<br>詳しくは、[詳細ドキュメント](https://helpx.adobe.com/campaign/kb/sms-connector-protocol-and-settings.html)を参照してください。 |
+| 互換性マトリックスの更新 | この新しいバージョンで、Adobe Campaign は次のデータベースシステムをサポートするようになりました。Refer to the [Compatibility Matrix](https://helpx.adobe.com/campaign/kb/compatibility-matrix.html) <ul><li>Oracle 18c</li><li>MySQL 5.7（FDA）</li><li>SQL Server 2017</li><li>Teradata 16（FDA）</li><li>PostgreSQL 11</li></ul> |
 
-修正および機能強化については、[Adobe Campaign Classic リリースノート](http://docs.campaign.adobe.com/doc/AC/ja/RN.html)を参照してください。
+修正点と機能改善については、[Adobe Campaign Classic リリースノート](http://docs.campaign.adobe.com/doc/AC/en/RN.html)を参照してください。
 
 ### [!DNL Campaign Standard] 19.2 Spring リリース
 
 | 機能 | 説明 |
 | ------------- | ----------- |
-| コントロールパネル | 容量の監視やインスタンスの設定の管理（最初は SFTP サーバー管理から）が簡単にできるので、管理者ユーザーの作業効率向上を支援できます。<br>詳しくは、[詳細ドキュメント](https://helpx.adobe.com/jp/campaign/kb/control-panel.html)および[ハウツービデオ](https://helpx.adobe.com/jp/campaign/kt/acs/using/acs-control-panel-video-use.html)を参照してください。 |
-| ローカル通知 | ローカル通知メッセージにより、モバイルアプリケーション内で新しいデータが使用できるようになると、インターネットにアクセスしていなかったり、モバイルアプリケーションがフォアグラウンドで実行されていなくても、ユーザーに知らせることができます。ローカル通知は、特定の時間およびイベントに応じて、モバイルアプリケーションによってトリガーされます。<br>詳しくは、[詳細ドキュメント](https://helpx.adobe.com/jp/campaign/standard/channels/using/customizing-an-in-app-message.html#customizing-a-local-notification-message-type)を参照してください。 |
-| ワークフローの強化 - 外部シグナルアクティビティにペイロードを追加 | 外部システムと統合するために、別のワークフローまたは REST API 呼び出しで、定義した条件が正常に満たされたら、ペイロードのワークフローを開始します。また、これには、この機能に対してテストを実行できる、新しいテストアクティビティが含まれます。<br>詳しくは、[詳細ドキュメント](https://helpx.adobe.com/jp/campaign/standard/channels/using/customizing-an-in-app-message.html#customizing-a-local-notification-message-type)および[ハウツービデオ](https://helpx.adobe.com/jp/campaign/kt/acs/using/acs-external-signal-activity-feature-video-use.html)を参照してください。 |
-| ランディングページの強化 - Google reCAPTCHA | Google reCAPTCHA を利用して、顧客によるアクションを必要とせずに、ランディングページのスパムを防ぎます。<br>詳しくは、[詳細ドキュメント](https://helpx.adobe.com/jp/campaign/standard/channels/using/designing-a-landing-page.html#setting-google-recaptcha)を参照してください。 |
+| コントロールパネル | 容量の監視やインスタンスの設定の管理（最初は SFTP サーバー管理から）が簡単にできるので、管理者ユーザーの作業効率向上を支援できます。<br> 詳しくは、 [詳細ドキュメント](https://helpx.adobe.com/campaign/kb/control-panel.html) とハウツービデオ [](https://helpx.adobe.com/campaign/kt/acs/using/acs-control-panel-video-use.html)を参照してください。 |
+| ローカル通知 | ローカル通知メッセージにより、モバイルアプリケーション内で新しいデータが使用できるようになると、インターネットにアクセスしていなかったり、モバイルアプリケーションがフォアグラウンドで実行されていなくても、ユーザーに知らせることができます。ローカル通知は、特定の時間およびイベントに応じて、モバイルアプリケーションによってトリガーされます。<br>詳しくは、[詳細ドキュメント](https://helpx.adobe.com/campaign/standard/channels/using/customizing-an-in-app-message.html#customizing-a-local-notification-message-type)を参照してください。 |
+| ワークフローの強化 - 外部シグナルアクティビティにペイロードを追加 | 外部システムと統合するために、別のワークフローまたは REST API 呼び出しで、定義した条件が正常に満たされたら、ペイロードのワークフローを開始します。また、これには、この機能に対してテストを実行できる、新しいテストアクティビティが含まれます。<br>詳しくは、 [詳細ドキュメント](https://helpx.adobe.com/campaign/standard/channels/using/customizing-an-in-app-message.html#customizing-a-local-notification-message-type) とハウツービデオ [](https://helpx.adobe.com/campaign/kt/acs/using/acs-external-signal-activity-feature-video-use.html)を参照してください。 |
+| ランディングページの強化 - Google reCAPTCHA | Google reCAPTCHA を利用して、顧客によるアクションを必要とせずに、ランディングページのスパムを防ぎます。<br>詳しくは、[詳細ドキュメント](https://helpx.adobe.com/campaign/standard/channels/using/designing-a-landing-page.html#setting-google-recaptcha)を参照してください。 |
 
 製品ドキュメントについては、以下を参照してください。
 
-* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/standard.html) - [リリースノート](https://helpx.adobe.com/jp/campaign/standard/rn/using/release-notes.html) - [機能ビデオ](https://helpx.adobe.com/jp/campaign/kt/acs/index/acs-videos.html)
-* Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/ja/RN.html) - [機能ビデオ](https://helpx.adobe.com/jp/campaign/kt/acc/index/acc-videos.html)
+* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/support/campaign/standard.html) - [リリースノート](https://helpx.adobe.com/campaign/standard/rn/using/release-notes.html) - [ 機能のビデオ](https://helpx.adobe.com/campaign/kt/acs/index/acs-videos.html)
+* Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [ 機能のビデオ](https://helpx.adobe.com/campaign/kt/acc/index/acc-videos.html)
 
 ## Mobile Services {#mobile}
 
@@ -263,7 +264,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 [Target リリースノート（プレリリース）](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)
 
-[Target リリースノート（最新）](https://docs.adobe.com/content/help/en/target/using/release-notes/release-notes.html)
+[Target リリースノート（現行）](https://docs.adobe.com/content/help/en/target/using/release-notes/release-notes.html)
 
 ## Magento {#magento}
 
@@ -271,11 +272,11 @@ Magento は、柔軟なショッピングカートを備えたオンラインマ
 
 Magento Commerce は、Adobe Commerce Cloud に含まれており、エンタープライズ向けのパワー、無制限のスケーラビリティ、および B2C／B2B エクスペリエンス向けのオープンソースの柔軟性を備えた e コマースソリューションを提供します。
 
-オープンソースエディションとコマースエディションのリリースノートは、[リリース情報](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html)ページにあります。
+Release Notes for both our Open Source and Commerce editions can be found on the [Release Information](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) page.
 
 ## Primetime {#primetime}
 
-Adobe Primetime は、メディア企業に適したマルチスクリーン TV プラットフォームです。ユーザーの心をつかむパーソナライズ可能な視聴体験を作成し、収益化できます。
+Adobe Primetime は、メディア企業に適したマルチスクリーン TV プラットフォームです。ユーザーの心をつかむパーソナライズ可能な視聴体験を提供し、収益化できます。
 
-[Primetime リリースノート](https://helpx.adobe.com/jp/support/primetime.html)
-[Primetime ヘルプホーム](https://helpx.adobe.com/jp/support/primetime.html)
+[Primetime リリースノート](http://help.adobe.com/en_US/primetime/release_notes/index.html)
+[Primetime ヘルプのホーム](http://help.adobe.com/en_US/primetime/)
