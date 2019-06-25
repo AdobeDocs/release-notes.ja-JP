@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 6 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 382a2936c5294fe04bb65fb0cfa6415175ce1da6
+source-git-commit: 6af4853d00495a347671d31700c969c4d431b9b8
 
 ---
 
@@ -20,7 +20,7 @@ Adobe Experience Cloud の新機能および修正点です。
 **リリース日：2019 年 6 月 13 日**
 
 * [Adobe Experience Platform](#platform)
-* [解析](#analytics)**（2019年6月25日更新）**
+* [解析](#analytics)**（2019年6月26日更新）**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -45,7 +45,7 @@ Adobe Experience Cloud の新機能および修正点です。
 Adobe Analytics の新機能および修正点です。
 
 * [Adobe Analytics の新機能および修正点](#aa-features)
-* [Analytics管理者に関する重要な注意](#aa-notices)**事項（更新日2019年6月25日）**
+* [Analytics管理者に関する重要な注意](#aa-notices)**事項（更新日2019年6月26日）**
 
 製品ドキュメントについては、[Analytics ヘルプホーム](https://marketing.adobe.com/resources/help/en_US/reference/)を参照してください。
 
@@ -78,7 +78,7 @@ Adobe Analytics の新機能および修正点です。
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- | 
-| Audit Logs UIの変更 | 追加日：2019 年 6 月 24 日 | In the API `Logs.GetUsageLog`, the following changes were made to the UI: <ul><li>The response headers in the API were changed: a) from `timestamp` to `dateCreated`, b) from `login` to `companyLogin`, c) from `event_num` to `eventType`, d) from `event_type` to `event_type`, e) from `ip_address` to `ipAddress`, f) from `report_suite` to `rsid`, g) from `event_details` to `logText`. </li><li>タイムスタンプ形式がUNIXタイムスタンプからISO8601の時刻に変更されました</li><li>監査ログ結果に、レポートスイート名ではなくレポートスイートIDが含まれるようになりました。 </li></ul> |
+| 監査ログのUIの変更 | 更新日2019年6月26日 | In the API `Logs.GetUsageLog`, the following changes were made to the UI: <ul><li>The response headers in the API were changed: a) from `timestamp` to `dateCreated`, b) from `login` to `companyLogin`, c) from `event_num` to `eventType`, d) from `event_type` to `event_type`, e) from `ip_address` to `ipAddress`, f) from `report_suite` to `rsid`, g) from `event_details` to `logText`. </li><li>タイムスタンプ形式がUNIXタイムスタンプからISO8601の時刻に変更されました</li></ul><br>APIおよび管理ログUIで、監査ログ結果にレポートスイート名ではなくレポートスイートIDが含まれるようになりました。 |
 | 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | These limits are not new, but have been added to the documentation [here](https://marketing.adobe.com/resources/help/en_US/reference/classification_rule_builder.html). |
 | 新しいセグメント演算子の制限 | 追加日：2019 年 5 月 31 日 | 2019 年 7 月 18 日以降、セグメント演算子「次のいずれかを含む」、「次のいずれかを含まない」、「次のすべてを含む」および「次のすべてを含まない」は、入力フィールドあたり 100 語に制限されます。この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
 | **[!UICONTROL 日付分類]** および **[!UICONTROL 数値 2 分類]** に関するサポートの変更予定 | 2019 年 5 月 28 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。この変更は 2019 年 7 月のメンテナンスリリースから有効になります。「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。<br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
