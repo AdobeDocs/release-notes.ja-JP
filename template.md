@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 3 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9bb54a57fa2b905fcc01951c81fd32e6444c8cd6
+source-git-commit: 450d03363720b88254413d7387665fc3d0eb0819
 
 ---
 
@@ -15,16 +15,16 @@ source-git-commit: 9bb54a57fa2b905fcc01951c81fd32e6444c8cd6
 Adobe Experience Cloud の新機能および修正点です。
 
 >[!IMPORTANT]
->>このページに記載される内容は、リリース前のコンテンツに関するもので、リリース予定日の前に変更される可能性があります。
-
+>
+>このページに記載される内容は、リリース前のコンテンツに関するもので、リリース予定日の前に変更される可能性があります。
 
 >[!NOTE]
->>[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。通知はリリースの 3～5 営業日前に届きます。リリース後に発表された新情報には、更新の日付が明記されます。
-
+>
+>[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。通知はリリースの 3～5 営業日前に届きます。リリース後に発表された新情報には、更新の日付が明記されます。
 
 **リリース日:2019**
 
-* [Experience Cloud コアサービスと管理](#experiencecloud)
+* [コアサービスと管理](#experiencecloud)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -33,21 +33,22 @@ Adobe Experience Cloud の新機能および修正点です。
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) （ソリューションヘルプへのリンク）
 
-## Experience Cloud コアサービスと管理 {#experiencecloud}
+## Core services and administration {#experiencecloud}
 
-[!UICONTROL Platform] コアサービスや製品管理など、Experience Cloud インターフェイスのリリースノートです。
+[!UICONTROL Platform] コアサービス、製品管理、セキュリティ速報など、Experience Cloudインターフェイスのリリースノートです。
 
 * [コアサービス](#core-services)
 * [Experience Cloud ID サービス](#ecid)
 * [Mobile Services および Mobile SDK](#mobile)
 * [管理および開発者](#admin)
-* [Experience Cloud Launch](https://docs.adobelaunch.com/) （製品ヘルプへのリンク）
+* [Experience Platform Launch](#launch)
+* [セキュリティ速報と情報](https://helpx.adobe.com/security.html) （すべてのアドビ製品）
 
 ### Core services {#core-services}
 
 機能および修正点です。
 
-For product documentation, see [Experience Cloud and Core Services](https://marketing.adobe.com/resources/help/en_US/mcloud/)
+For product documentation, see [Experience Cloud and Core Services](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
 
 ### Experience Cloud ID サービス {#ecid}
 
@@ -68,16 +69,20 @@ For product documentation, see [Experience Cloud ID service](https://marketing.a
 * 修正点
 * 修正点
 
-For product documentation, see [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
+For product documentation, see [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
 
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
-Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
+Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
 
 ### Administration and developer {#admin}
 
 機能および修正点です。
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+
+### Experience Platform Launch {#launch}
+
+See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for release notes and product documentation.
 
 ## [!DNL Analytics] {#analytics}
 
@@ -87,7 +92,7 @@ Adobe Analytics の新機能および修正点です。
 * [iOS および Android 用の Media Analytics SDK （以前の VHL SDK）](#aa-va)
 * [Analytics 管理者向けの重要な注意事項](analytics-important-notices.md)
 
-For product documentation, see [Adobe Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
+For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
 ### Adobe Analytics の新機能 {#aa-features}
 
@@ -124,7 +129,7 @@ For product documentation, see [Adobe Analytics Help Home](https://marketing.ado
 * 修正点
 * 修正点
 
-See [AppMeasurement release history](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html) for a release history of AppMeasurement on the following platforms:
+See [AppMeasurement release history](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) for a release history of AppMeasurement on the following platforms:
 
 * JavaScript
 * iOS
@@ -223,7 +228,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 * 修正点
 * 修正点
 
-## [!DNL Campaign] {#ac}
+## [!DNL Campaign {#ac}
 
 Adobe Campaign は、オンラインおよびオフラインのマーケティングチャネルにわたって 1 対 1 のメッセージを届けるために直感的で自動化された方法を提供します。顧客の習慣や好みによって特定されたエクスペリエンスを利用して、顧客が欲しいものを予測できるようになりました。
 
@@ -241,11 +246,6 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 * 修正点
 
 製品ドキュメントについては、以下を参照してください。
-
-* [Adobe Campaign Classic リリースノート](https://docs.campaign.adobe.com/doc/AC/en/RN.html)
-* [Adobe Campaign Classic ラーニングとサポート](https://helpx.adobe.com/support/campaign/classic.html)
-* [Adobe Campaign Standard リリースノート](https://helpx.adobe.com/campaign/standard/rn/rn.html)
-* [Adobe Campaign Standard ラーニングとサポート](https://helpx.adobe.com/support/campaign/standard.html)
 
 ## Advertising Cloud {#adcloud}
 
