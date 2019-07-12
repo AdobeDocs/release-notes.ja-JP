@@ -88,7 +88,7 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 * [Adobe Analytics の新機能および修正点](#aa-features)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 
-###  の新機能：[!DNL Analytics]{#aa-features}
+### の新機能：[!DNL Analytics]{#aa-features}
 
 製品ドキュメントについては、[Analytics ヘルプホーム](https://docs.adobe.com/content/help/en/analytics/landing/home.html)を参照してください。
 
