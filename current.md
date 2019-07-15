@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 7 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 91126cc2d75b6c50afe429a1b4313309ab76108a
+source-git-commit: 19b6c0547d06a3ec5887f6fd17bcd662528844ca
 
 ---
 
@@ -25,7 +25,7 @@ Adobe Experience Cloud の新機能および修正点です。
 **リリース日：2019 年 7 月 18 日**
 
 * [Experience Cloud コアサービスと管理](#experiencecloud)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics)**（更新日7月15日）**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -85,10 +85,10 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 
 ## [!DNL Analytics] {#analytics}
 
-* [Adobe Analytics の新機能および修正点](#aa-features)
+* [Adobe Analyticsの新機能および修正](#aa-features)**点（更新日15月15日）**
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 
-### の新機能：[!DNL Analytics]{#aa-features}
+###  の新機能：[!DNL Analytics]{#aa-features}
 
 製品ドキュメントについては、[Analytics ヘルプホーム](https://docs.adobe.com/content/help/en/analytics/landing/home.html)を参照してください。
 
@@ -96,7 +96,7 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 | -----------| ---------- |   
 | Analysis Workspace-コホート分析の強化 | 新しいコホート分析設定が追加されました。 <ul><li>%のみ表示</li><li>丸め%から最も近い整数</li><li>トップの平均%行を表示</li></ul> |
 | Analysis Workspace | In the left rail, users now have the option to _Show items from last 18 months_. 以前は、ルックバック期間は最大6か月でした。これにより、昨年から18か月前までのページやキャンペーンと比較しやすくなります。 |
-| Analytics データフィード | Users can now see the history for all feeds that are enabled with the _Make Feed Visible to Customer_ flag. |
+| 新しいAnalysis Workspaceテンプレート | &quot;Magenting&quot;という新しいテンプレートを追加しました。マーケティングとコマース」を分析ワークスペースに追加します。これは、Magenting eコマースのお客様向けに設計されていますが、小売業者はこれを使用して、コマースアクティビティに対する独自のインサイトを得ることができます。 |
 
 #### [!DNL Analysis Workspace] 修正点
 
@@ -104,9 +104,10 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 * ビジュアライゼーションエラーの問題を修正しました。ビジュアライゼーションエラーが発生したときに赤いエラーバーが表示されるようになりました。（AN-175542）
 * ローカライズ環境でディメンション名が英語として表示される問題を修正しました。（AN-178695）
 
-#### [!DNL Reports & Analytics] 修正点
+#### [!DNL Analytics] 修正点
 
 * リアルタイムドリルダウンレポートの折れ線グラフが空白になる問題を修正しました。（AN-181690）
+* 状況によって、データフィード履歴の一部が管理コンソールUIに表示されない問題を修正しました。（AN-176219）
 
 ### [!DNL Analytics] 管理者向けの重要な注意事項{#aa-notices}
 
