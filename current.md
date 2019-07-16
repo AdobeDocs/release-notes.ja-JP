@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 7 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 19b6c0547d06a3ec5887f6fd17bcd662528844ca
+source-git-commit: b4a91b853cfb5d228fc2195d65b4370e607475f2
 
 ---
 
@@ -62,13 +62,13 @@ iOSとAndroidは次のように更新されました。
 
 * Adobe Target: All requests now include the client and the `sessionId` in the URL query parameters.
 * Adobe Target:メモリリークを修正。
-* _%25_などの文字を含む訪問者ID URLの二重エンコーディングには、セキュリティレビューでフラグが付けられていました。この問題は修正されました。
+* Visitor ID Service: The `visitorAppendToURL` and `visitorGetUrlVariablesAsync` APIs no longer double-encode their return values. 二重エンコーディングでは、これらのAPIからの戻り値が特定のセキュリティレビューによってフラグ付けされていました。
 
 **Android**
 
 * ターゲット:すべてのリクエストに、URLクエリパラメーターにクライアントとsessionIdが含まれるようになりました。
-* 空のクリックスルーURLでメッセージがトリガーされるとAndroidアプリがクラッシュする問題を修正しました。
-* _%25_などの文字を含む訪問者ID URLの二重エンコーディングには、セキュリティレビューでフラグが付けられていました。この問題は修正されました。
+* アプリ内メッセージ:空のクリックスルーURLでメッセージがトリガーされるとAndroidアプリがクラッシュする問題を修正しました。
+* Visitor ID Service: The `Visitor.appendToURL` and `Visitor.getUrlVariablesAsync` APIs no longer double-encode their return values. 二重エンコーディングでは、これらのAPIからの戻り値が特定のセキュリティレビューによってフラグ付けされていました。
 
 For product documentation, see [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
 
