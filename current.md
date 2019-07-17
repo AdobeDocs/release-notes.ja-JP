@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 7 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b4a91b853cfb5d228fc2195d65b4370e607475f2
+source-git-commit: 9d10de6924f3c40435d172602746f312195a675e
 
 ---
 
@@ -96,7 +96,7 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 | -----------| ---------- |   
 | Analysis Workspace-コホート分析の強化 | 新しいコホート分析設定が追加されました。 <ul><li>%のみ表示</li><li>丸め%から最も近い整数</li><li>トップの平均%行を表示</li></ul> |
 | Analysis Workspace | In the left rail, users now have the option to _Show items from last 18 months_. 以前は、ルックバック期間は最大6か月でした。これにより、昨年から18か月前までのページやキャンペーンと比較しやすくなります。 |
-| 新しいAnalysis Workspaceテンプレート | &quot;Magenting&quot;という新しいテンプレートを追加しました。マーケティングとコマース」を分析ワークスペースに追加します。これは、Magenting eコマースのお客様向けに設計されていますが、小売業者はこれを使用して、コマースアクティビティに対する独自のインサイトを得ることができます。 |
+| 新しいAnalysis Workspaceテンプレート | "Magenting"という新しいテンプレートを追加しました。マーケティングとコマース」を分析ワークスペースに追加します。これは、Magenting eコマースのお客様向けに設計されていますが、小売業者はこれを使用して、コマースアクティビティに対する独自のインサイトを得ることができます。 |
 
 #### [!DNL Analysis Workspace] 修正点
 
@@ -115,10 +115,10 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 | -----------| ---------- | ---------- |
 | 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | These limits are not new, but have been added to the documentation [here](https://marketing.adobe.com/resources/help/en_US/reference/classification_rule_builder.html). |
 | 新しいセグメント演算子の制限 | 追加日：2019 年 5 月 31 日 | 2019 年 7 月 18 日以降、セグメント演算子「次のいずれかを含む」、「次のいずれかを含まない」、「次のすべてを含む」および「次のすべてを含まない」は、入力フィールドあたり 100 語に制限されます。この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
-| **[!UICONTROL 日付分類]** および **[!UICONTROL 数値 2 分類]** に関するサポートの変更予定 | 2019 年 5 月 28 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。この変更は 2019 年 7 月のメンテナンスリリースから有効になります。「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。<br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
-| _レポートの合計_の計算に対して予定されている変更 | 更新日2019年7月9日 | On **June 18, 2019**, Adobe Analytics will make _Report Total_ calculations consistent across all dimensions and metrics. これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されます。この変更以前は、レポートに_未指定_が表示されているかどうかにかかわらず、合計に_未指定_の行項目を含めるレポートと含めないレポートが混在していました。<br/>2019 年 6 月 18 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に含められるようになります。Additionally, segments using _exists_ or _does not exist_ logic may see different results for some dimensions after this change, specifically dimensions where _Unspecified_ has a special name such as the &quot;Typed/Bookmarked&quot; line item for Referrer Type dimension or the &quot;Other&quot; line item for the Device Type dimension. この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。 |
-| [!DNL Analysis Workspace] CSV ダウンロード機能の更新点 | 2019 年 4 月 10 日 | 2019 年 4 月 11 日以降、**[!UICONTROL CSV ダウンロード]** および **[!UICONTORL クリップボードへのコピー]**（[!DNL Analysis Workspace]）にいくつかの変更が加えられ、書き出されたデータから書式が削除されます。  <ul><li>桁区切り記号は含まれなくなりました。小数点文字は引き続き表示され、**[!UICONTROL コンポーネント／レポート設定／桁区切り記号]** で定義された形式が適用されます。注意：小数点を小数点区切り記号として使用する数値は、書き出された CSV では引き続き引用されます。</li><li>通貨記号は表示されません。</li><li>パーセント記号は表示されません。パーセンテージは 10 進形式になります。例：75%は 0.75 と表示されます。</li><li>時間は秒単位で表示されます。</li><li>コホートテーブルでは、生の値のみが表示され、パーセント値は削除されます。</li><li>数値が無効な場合は、空のセルが表示されます。</li></ul> |
-| [!DNL Analysis Workspace] Debugger コマンドの変更 | 2019 年 4 月 4 日 | [!DNL Analysis Workspace] Debugger をオンにするためのコンソールコマンドは、**2019 年 6 月 13 日** に adobeTools.debug.includeOberonXml に変更されます。この日以降、adobe.tools.debug.includeOberonXml は、機能しなくなります。 |
+| **[!UICONTROL 日付分類]**&#x200B;および&#x200B;**[!UICONTROL 数値 2 分類]**&#x200B;に関するサポートの変更予定 | 2019 年 5 月 28 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。この変更は 2019 年 7 月のメンテナンスリリースから有効になります。「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。<br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
+| _レポートの合計_&#x200B;の計算に対して予定されている変更 | 更新日2019年7月9日 | On **June 18, 2019**, Adobe Analytics will make _Report Total_ calculations consistent across all dimensions and metrics. これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されます。この変更以前は、レポートに&#x200B;_未指定_&#x200B;が表示されているかどうかにかかわらず、合計に&#x200B;_未指定_&#x200B;の行項目を含めるレポートと含めないレポートが混在していました。<br/>2019 年 6 月 18 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に含められるようになります。Additionally, segments using _exists_ or _does not exist_ logic may see different results for some dimensions after this change, specifically dimensions where _Unspecified_ has a special name such as the "Typed/Bookmarked" line item for Referrer Type dimension or the "Other" line item for the Device Type dimension. この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。 |
+| [!DNL Analysis Workspace] CSV ダウンロード機能の更新点 | 2019 年 4 月 10 日 | 2019 年 4 月 11 日以降、**[!UICONTROL CSV ダウンロード]**&#x200B;および&#x200B;**[!UICONTORL クリップボードへのコピー]**（[!DNL Analysis Workspace]）にいくつかの変更が加えられ、書き出されたデータから書式が削除されます。  <ul><li>桁区切り記号は含まれなくなりました。小数点文字は引き続き表示され、**[!UICONTROL コンポーネント／レポート設定／桁区切り記号]**&#x200B;で定義された形式が適用されます。注意：小数点を小数点区切り記号として使用する数値は、書き出された CSV では引き続き引用されます。</li><li>通貨記号は表示されません。</li><li>パーセント記号は表示されません。パーセンテージは 10 進形式になります。例：75%は 0.75 と表示されます。</li><li>時間は秒単位で表示されます。</li><li>コホートテーブルでは、生の値のみが表示され、パーセント値は削除されます。</li><li>数値が無効な場合は、空のセルが表示されます。</li></ul> |
+| [!DNL Analysis Workspace] Debugger コマンドの変更 | 2019 年 4 月 4 日 | [!DNL Analysis Workspace] Debugger をオンにするためのコンソールコマンドは、**2019 年 6 月 13 日**&#x200B;に adobeTools.debug.includeOberonXml に変更されます。この日以降、adobe.tools.debug.includeOberonXml は、機能しなくなります。 |
 | モバイルブラウザーのバージョン番号 | 2019 年 2 月 7 日 | 2019 年 1 月 8 日より、モバイルブラウザーバージョン番号を 2 桁から 1 桁に変更しました。この日以降、バージョンは先頭の 2 レベルのみ表示されます（例：_Firefox 64.0.2_ は _Firefox 64.0_ と表記されるようになりました）。 |
 | [!DNL Ad Hoc Analysis] のサポート終了 | 2019 年 1 月 29 日 | 2018 年 8 月 7 日、アドビは [!DNL Ad Hoc Analysis] のサポート終了の意向を表明しました。サポート終了日については確定次第お知らせします。<br/>サポート終了の予定や詳細については [Discover Workspace](https://adobe.ly/discoverworkspace) を参照してください。 |
 | Short [!DNL Analytics] report links | 2019 年 1 月 14 日 | Any short [!DNL Analytics] report links that have not been visited within one year will be cleaned up and deleted starting on Thursday, January 17, 2019, on a rolling schedule. |
@@ -129,12 +129,12 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 
 ### AppMeasurement {#appm}
 
-2019年7月16日リリース
+リリース日：2019 年 7 月 15 日:
 
-**JavaScript 2.15.0**
+**JavaScript版AppMeasurement2.15.0**
 
-* AppMeasurememtにDIL7.2が追加されました。（AN-175142）
-* Experience Cloud IDサービスのoptInがtrueに設定されていて、ページをリロードせずにs. t（）呼び出しでMIDが生成されなかった問題を修正しました。（CORE-30890）
+* Activity MapのスクロールリーチトラッキングがActivity Map拡張機能に追加されました。（AN-172949）
+* AppMeasurementにDIL9.2が追加されました。（AN-182472）
 
 See [AppMeasurement release history](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) for a release history of AppMeasurement on the following platforms:
 
