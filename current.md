@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 7 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9d10de6924f3c40435d172602746f312195a675e
+source-git-commit: 2010152649fccb8997913f52b6d43e11c3a5d18e
 
 ---
 
@@ -88,7 +88,7 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 * [Adobe Analyticsの新機能および修正](#aa-features)**点（更新日15月15日）**
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 
-### の新機能：[!DNL Analytics]{#aa-features}
+###  の新機能：[!DNL Analytics]{#aa-features}
 
 製品ドキュメントについては、[Analytics ヘルプホーム](https://docs.adobe.com/content/help/en/analytics/landing/home.html)を参照してください。
 
@@ -96,7 +96,7 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 | -----------| ---------- |   
 | Analysis Workspace-コホート分析の強化 | 新しいコホート分析設定が追加されました。 <ul><li>%のみ表示</li><li>丸め%から最も近い整数</li><li>トップの平均%行を表示</li></ul> |
 | Analysis Workspace | In the left rail, users now have the option to _Show items from last 18 months_. 以前は、ルックバック期間は最大6か月でした。これにより、昨年から18か月前までのページやキャンペーンと比較しやすくなります。 |
-| 新しいAnalysis Workspaceテンプレート | "Magenting"という新しいテンプレートを追加しました。マーケティングとコマース」を分析ワークスペースに追加します。これは、Magenting eコマースのお客様向けに設計されていますが、小売業者はこれを使用して、コマースアクティビティに対する独自のインサイトを得ることができます。 |
+| 新しいAnalysis Workspaceテンプレート | We added a new template called ["Magento: Marketing &amp; Commerce"](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html) to Analysis Workspace. これは、Magenting eコマースのお客様向けに設計されていますが、小売業者はこれを使用して、コマースアクティビティに対する独自のインサイトを得ることができます。 |
 
 #### [!DNL Analysis Workspace] 修正点
 
