@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 7 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2010152649fccb8997913f52b6d43e11c3a5d18e
+source-git-commit: e8470127c1cd343637d61bc0ac6bdd26339a8e2c
 
 ---
 
@@ -94,7 +94,7 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 
 | コンポーネント | 説明 |
 | -----------| ---------- |   
-| Analysis Workspace-コホート分析の強化 | 新しいコホート分析設定が追加されました。 <ul><li>%のみ表示</li><li>丸め%から最も近い整数</li><li>トップの平均%行を表示</li></ul> |
+| Analysis Workspace-コホート分析の強化 | [新しいコホート分析設定](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html) が追加されました。 <ul><li>パーセントのみ表示</li><li>四捨五入率（最も近い整数）</li><li>平均パーセント行を表示</li></ul> |
 | Analysis Workspace | In the left rail, users now have the option to _Show items from last 18 months_. 以前は、ルックバック期間は最大6か月でした。これにより、昨年から18か月前までのページやキャンペーンと比較しやすくなります。 |
 | 新しいAnalysis Workspaceテンプレート | We added a new template called ["Magento: Marketing &amp; Commerce"](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html) to Analysis Workspace. これは、Magenting eコマースのお客様向けに設計されていますが、小売業者はこれを使用して、コマースアクティビティに対する独自のインサイトを得ることができます。 |
 
