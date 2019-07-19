@@ -5,18 +5,14 @@ doc-type: リリースノート
 last-update: 2019 年 7 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e8470127c1cd343637d61bc0ac6bdd26339a8e2c
+source-git-commit: 50a8aaf58413337e4aa0478e5505f8ea9d8edd36
 
 ---
 
 
-# 早期アクセス - Adobe Experience Cloud のリリースノート
+# Adobe Experience Cloud リリースノート
 
 Adobe Experience Cloud の新機能および修正点です。
-
->[!IMPORTANT]
->
->このページに記載される内容は、リリース前のコンテンツに関するもので、リリース予定日の前に変更される可能性があります。
 
 >[!NOTE]
 >
@@ -88,7 +84,7 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 * [Adobe Analyticsの新機能および修正](#aa-features)**点（更新日15月15日）**
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 
-### の新機能：[!DNL Analytics]{#aa-features}
+### New features in [!DNL Analytics] {#aa-features}
 
 製品ドキュメントについては、[Analytics ヘルプホーム](https://docs.adobe.com/content/help/en/analytics/landing/home.html)を参照してください。
 
