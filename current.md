@@ -1,11 +1,11 @@
 ---
 title: Adobe Experience Cloud リリースノート
-description: 2019年7月のExperience Cloudリリースノート
+description: 2019 年 7 月 Experience Cloud リリースノート
 doc-type: リリースノート
 last-update: 2019 年 7 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 50a8aaf58413337e4aa0478e5505f8ea9d8edd36
+source-git-commit: c45b9f49e0732e52b01677c0acb8e6b12d155e77
 
 ---
 
@@ -21,50 +21,50 @@ Adobe Experience Cloud の新機能および修正点です。
 **リリース日：2019 年 7 月 18 日**
 
 * [Experience Cloud コアサービスと管理](#experiencecloud)
-* [!DNL Analytics](#analytics)**（更新日7月15日）**
+* [!DNL Analytics](#analytics) - **（更新日7月15日）**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [Target Standard／Premium 19.6.1](#target)
 * [Magento](#magento)
 
-## Core services and administration {#experiencecloud}
+## Experience Cloud コアサービスと管理 {#experiencecloud}
 
 [!UICONTROL Platform] コアサービスや製品管理など、Experience Cloud インターフェイスのリリースノートです。
 
 * [Experience Cloud ID サービス](#ecid)
 * [Mobile Services および Mobile SDK](#mobile)
 * [Experience Platform Launch](#launch)
-* [セキュリティ速報と情報](#security)
+* [セキュリティ速報および情報](#security)
 
 ### Experience Cloud ID サービス {#ecid}
 
-**修正点と更新点**
+**修正点および更新**
 
-* `cookieDomain` config update: `cookieDomain` イン `initConfig` サイトが設定されていない場合、ライブラリは自動的にトップレベルのcookieドメインを割り当てます。（CORE-29223）
-* `getVisitorValue` で `localVisitor`の問題を修正しました。（CORE-31287）
-* Fixed an inconsistency of `MCOPTOUT` value in parent visitor versus iframe child visitor from `getVisitorValue` method. （CORE-29719）
-* jQuery3.2.1の脆弱性の問題を修正しました。（CORE-31183）
-* Opt-in update: added `optIn.off` to unsubscribe from events.
-* `setTimeout` 関数に関する問題を修正しました。（CORE-30623）
+* `cookieDomain` 設定の更新：`initConfig` の `cookieDomain` が設定されていない場合、トップレベル cookie ドメインを自動的に割り当てるようになりました。（CORE-29223）
+* `localVisitor` の `getVisitorValue` に関する問題を修正しました。（CORE-31287）
+* `getVisitorValue` メソッドによって得られる `MCOPTOUT` 値が ifame の親フレームと子フレームで一致しない問題を修正しました。（CORE-29719）
+* jQuery 3.2.1 の脆弱性の問題を修正しました。（CORE-31183）
+* オプトインの更新：イベントから登録解除するための `optIn.off` を追加しました。
+* `setTimeout` に関する問題を修正しました。（CORE-30623）
 
 See [Experience Cloud ID Service](https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-release-notes.html) for cumulative release notes.
 
 ### Mobile Services および Mobile SDK {#mobile}
 
-iOSとAndroidは次のように更新されました。
+iOS および Android は次のように更新されました。
 
 **iOS**
 
-* Adobe Target: All requests now include the client and the `sessionId` in the URL query parameters.
-* Adobe Target:メモリリークを修正。
-* Visitor ID Service: The `visitorAppendToURL` and `visitorGetUrlVariablesAsync` APIs no longer double-encode their return values. 二重エンコーディングでは、これらのAPIからの戻り値が特定のセキュリティレビューによってフラグ付けされていました。
+* Adobe Target：すべてのリクエストで、URL クエリパラメーターにクライアントおよび `sessionId` が含まれるようになりました。
+* Adobe Target：メモリリークを修正しました。
+* 訪問者 ID サービス：`visitorAppendToURL` および `visitorGetUrlVariablesAsync` API は、戻り値を二重エンコードしなくなりました。二重エンコードが原因で、API からの戻り値がセキュリティ診断によってリスクありと判断されることがありました。
 
 **Android**
 
-* ターゲット:すべてのリクエストに、URLクエリパラメーターにクライアントとsessionIdが含まれるようになりました。
-* アプリ内メッセージ:空のクリックスルーURLでメッセージがトリガーされるとAndroidアプリがクラッシュする問題を修正しました。
-* Visitor ID Service: The `Visitor.appendToURL` and `Visitor.getUrlVariablesAsync` APIs no longer double-encode their return values. 二重エンコーディングでは、これらのAPIからの戻り値が特定のセキュリティレビューによってフラグ付けされていました。
+* Target：すべてのリクエストで、URL クエリパラメーターにクライアントおよび sessionId が含まれるようになりました。
+* アプリ内メッセージ：空のクリックスルー URL でメッセージがトリガーされた場合に Android アプリがクラッシュする問題を修正しました。
+* 訪問者 ID サービス：`Visitor.appendToURL` および `Visitor.getUrlVariablesAsync` API は、戻り値を二重エンコードしなくなりました。二重エンコードが原因で、API からの戻り値がセキュリティ診断によってリスクありと判断されることがありました。
 
 For product documentation, see [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
 
@@ -75,35 +75,35 @@ Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.h
 
 See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) (links to product help) for release notes and product documentation.
 
-### Security bulletins and advisories {#security}
+### セキュリティ速報および情報 {#security}
 
 See [Security bulletins and advisories](https://helpx.adobe.com/security.html) for important information regarding security vulnerabilities that could affect specific versions of Adobe products.
 
 ## [!DNL Analytics] {#analytics}
 
-* [Adobe Analyticsの新機能および修正](#aa-features)**点（更新日15月15日）**
+* [Adobe Analytics の新機能および修正点](#aa-features)**（更新日：7 月 15 日）**
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 
-### New features in [!DNL Analytics] {#aa-features}
+### [!DNL Analytics] の新機能 {#aa-features}
 
 製品ドキュメントについては、[Analytics ヘルプホーム](https://docs.adobe.com/content/help/en/analytics/landing/home.html)を参照してください。
 
 | コンポーネント | 説明 |
 | -----------| ---------- |   
-| Analysis Workspace-コホート分析の強化 | [新しいコホート分析設定](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html) が追加されました。 <ul><li>パーセントのみ表示</li><li>四捨五入率（最も近い整数）</li><li>平均パーセント行を表示</li></ul> |
-| Analysis Workspace | In the left rail, users now have the option to _Show items from last 18 months_. 以前は、ルックバック期間は最大6か月でした。これにより、昨年から18か月前までのページやキャンペーンと比較しやすくなります。 |
-| 新しいAnalysis Workspaceテンプレート | We added a new template called ["Magento: Marketing &amp; Commerce"](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html) to Analysis Workspace. これは、Magenting eコマースのお客様向けに設計されていますが、小売業者はこれを使用して、コマースアクティビティに対する独自のインサイトを得ることができます。 |
+| Analysis Workspace – コホート分析の機能強化 | [新しいコホート分析設定](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html) が追加されました。 <ul><li>パーセントのみ表示</li><li>四捨五入率（最も近い整数）</li><li>平均パーセント行を表示</li></ul> |
+| Analysis Workspace | 左側のレールに、_過去 18 ヶ月の項目を表示_&#x200B;するためのオプションが追加されました。以前は、ルックバック期間は最大 6 ヶ月でした。これにより、昨年のページやキャンペーンとの比較が簡単になります（最大 18 ヶ月前）。 |
+| 新しい Analysis Workspace テンプレート | We added a new template called ["Magento: Marketing &amp; Commerce"](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html) to Analysis Workspace. Magento e コマースのお客様向けに特別に設計されたものですが、小売業者のお客様は独自のインサイトを業務に役立てることができます。 |
 
-#### [!DNL Analysis Workspace] 修正点
+#### [!DNL Analysis Workspace] の修正点
 
-* ディメンションを分類すると、マルチバイト文字が上下に表示される問題を修正しました。（AN-180112）
-* ビジュアライゼーションエラーの問題を修正しました。ビジュアライゼーションエラーが発生したときに赤いエラーバーが表示されるようになりました。（AN-175542）
-* ローカライズ環境でディメンション名が英語として表示される問題を修正しました。（AN-178695）
+* ディメンションを分類すると、マルチバイト文字が逆さまに表示される問題を修正しました。（AN-180112）
+* ビジュアライゼーションエラー – ビジュアライゼーションのエラーが発生した場合、赤いエラーバーが表示されるようになりました。（AN-175542）
+* 言語を英語以外に設定した場合でも、ディメンション名が英語で表示されることがある問題を修正しました。（AN-178695）
 
-#### [!DNL Analytics] 修正点
+#### [!DNL Analytics] の修正点
 
-* リアルタイムドリルダウンレポートの折れ線グラフが空白になる問題を修正しました。（AN-181690）
-* 状況によって、データフィード履歴の一部が管理コンソールUIに表示されない問題を修正しました。（AN-176219）
+* リアルタイムドリルダウンレポートの折れ線グラフが空になる問題を修正しました。（AN-181690）
+* 状況によって、データフィード履歴の一部が Admin Console UI に表示されない問題を修正しました。（AN-176219）
 
 ### [!DNL Analytics] 管理者向けの重要な注意事項{#aa-notices}
 
@@ -112,13 +112,13 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 | 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | These limits are not new, but have been added to the documentation [here](https://marketing.adobe.com/resources/help/en_US/reference/classification_rule_builder.html). |
 | 新しいセグメント演算子の制限 | 追加日：2019 年 5 月 31 日 | 2019 年 7 月 18 日以降、セグメント演算子「次のいずれかを含む」、「次のいずれかを含まない」、「次のすべてを含む」および「次のすべてを含まない」は、入力フィールドあたり 100 語に制限されます。この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
 | **[!UICONTROL 日付分類]**&#x200B;および&#x200B;**[!UICONTROL 数値 2 分類]**&#x200B;に関するサポートの変更予定 | 2019 年 5 月 28 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。この変更は 2019 年 7 月のメンテナンスリリースから有効になります。「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。<br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
-| _レポートの合計_&#x200B;の計算に対して予定されている変更 | 更新日2019年7月9日 | On **June 18, 2019**, Adobe Analytics will make _Report Total_ calculations consistent across all dimensions and metrics. これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されます。この変更以前は、レポートに&#x200B;_未指定_&#x200B;が表示されているかどうかにかかわらず、合計に&#x200B;_未指定_&#x200B;の行項目を含めるレポートと含めないレポートが混在していました。<br/>2019 年 6 月 18 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に含められるようになります。Additionally, segments using _exists_ or _does not exist_ logic may see different results for some dimensions after this change, specifically dimensions where _Unspecified_ has a special name such as the "Typed/Bookmarked" line item for Referrer Type dimension or the "Other" line item for the Device Type dimension. この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。 |
+| _レポートの合計_&#x200B;の計算に対して予定されている変更 | 更新日：2019 年 7 月 9 日 | **2019 年 6 月 18 日**&#x200B;に、_レポートの合計_&#x200B;値の算出方法をすべてのディメンションおよび指標で共通化します。これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されます。この変更以前は、レポートに&#x200B;_未指定_&#x200B;が表示されているかどうかにかかわらず、合計に&#x200B;_未指定_&#x200B;の行項目を含めるレポートと含めないレポートが混在していました。<br/>2019 年 6 月 18 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に含められるようになります。さらに、_存在する_&#x200B;または&#x200B;_存在しない_&#x200B;ロジックを使用するセグメントは、この変更後、一部のディメンションで異なる結果が表示される可能性があります（特に、_未指定_&#x200B;を特有な値としてレポートするディメンションに影響します。リファラータイプディメンションの「手動入力/ブックマーク」行項目やデバイスタイプディメンションの「その他」行項目が該当します）。この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。 |
 | [!DNL Analysis Workspace] CSV ダウンロード機能の更新点 | 2019 年 4 月 10 日 | 2019 年 4 月 11 日以降、**[!UICONTROL CSV ダウンロード]**&#x200B;および&#x200B;**[!UICONTORL クリップボードへのコピー]**（[!DNL Analysis Workspace]）にいくつかの変更が加えられ、書き出されたデータから書式が削除されます。  <ul><li>桁区切り記号は含まれなくなりました。小数点文字は引き続き表示され、**[!UICONTROL コンポーネント／レポート設定／桁区切り記号]**&#x200B;で定義された形式が適用されます。注意：小数点を小数点区切り記号として使用する数値は、書き出された CSV では引き続き引用されます。</li><li>通貨記号は表示されません。</li><li>パーセント記号は表示されません。パーセンテージは 10 進形式になります。例：75%は 0.75 と表示されます。</li><li>時間は秒単位で表示されます。</li><li>コホートテーブルでは、生の値のみが表示され、パーセント値は削除されます。</li><li>数値が無効な場合は、空のセルが表示されます。</li></ul> |
 | [!DNL Analysis Workspace] Debugger コマンドの変更 | 2019 年 4 月 4 日 | [!DNL Analysis Workspace] Debugger をオンにするためのコンソールコマンドは、**2019 年 6 月 13 日**&#x200B;に adobeTools.debug.includeOberonXml に変更されます。この日以降、adobe.tools.debug.includeOberonXml は、機能しなくなります。 |
 | モバイルブラウザーのバージョン番号 | 2019 年 2 月 7 日 | 2019 年 1 月 8 日より、モバイルブラウザーバージョン番号を 2 桁から 1 桁に変更しました。この日以降、バージョンは先頭の 2 レベルのみ表示されます（例：_Firefox 64.0.2_ は _Firefox 64.0_ と表記されるようになりました）。 |
 | [!DNL Ad Hoc Analysis] のサポート終了 | 2019 年 1 月 29 日 | 2018 年 8 月 7 日、アドビは [!DNL Ad Hoc Analysis] のサポート終了の意向を表明しました。サポート終了日については確定次第お知らせします。<br/>サポート終了の予定や詳細については [Discover Workspace](https://adobe.ly/discoverworkspace) を参照してください。 |
-| Short [!DNL Analytics] report links | 2019 年 1 月 14 日 | Any short [!DNL Analytics] report links that have not been visited within one year will be cleaned up and deleted starting on Thursday, January 17, 2019, on a rolling schedule. |
-| TLS 1.0 のサポート終了 | 2019 年 1 月 10 日更新 | 2019 年 2 月 11 日現在、Adobe Analytics レポートで TLS（Transport Layer Security）1.0 の暗号化がサポートされなくなっています。この変更は、最高レベルのセキュリティ基準を維持して、お客様のデータの安全を確保するための継続的な取り組みの一環です。If you are unable to connect to Adobe Analytics reporting after February 11, 2019, you should upgrade your browser to the [latest version](https://marketing.adobe.com/resources/help/en_US/sc/user/requirements.html).<br/>[!DNL Analytics]2019 年 2 月 20 日以降、Adobe のデータ収集で TLS 1.0 がサポートされなくなりました。この変更により、TLS 1.1 以上をサポートしていない旧型のデバイスや Web ブラウザーを使用しているエンドユーザーの Analytics データは収集されなくなりました。この変更が、お客様の顧客のデータやレポートに大きな影響を及ぼすことはないと認識しています。（お客様の Web サイトが既に TLS 1.0 をサポートしていない場合、影響は一切ありません。）<br/>2019 年 4 月 11 日以降、Adobe Analytics レポート API は TLS 1.0 の暗号化をサポートしていません。API にアクセスするお客様は、この変更による影響の有無を確認してください。 <ul><li>デフォルト設定で Java 7 を使用している API クライアントは、[TLS 1.2](https://www.java.com/en/configure_crypto.html) をサポートするように変更してください（「_Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2_」を参照、ブラウザーの翻訳機能をお使いください）。 </li><li>Java 8 を使用している API クライアントは、デフォルト設定が TLS 1.2 なので、影響を受けません。</li><li> その他のフレームワークを使用している API クライアントは、TLS 1.2 のサポートについてベンダーにお問い合わせください。</li></ul> |
+| 短い [!DNL Analytics] レポートリンク | 2019 年 1 月 14 日 | 2019 年 1 月 17 日（木）以降、直近 1 年間に訪問されていない短い [!DNL Analytics] レポートリンクは、定期的に削除されるようになります。 |
+| TLS 1.0 のサポート終了 | 2019 年 1 月 10 日更新 | 2019 年 2 月 11 日現在、Adobe Analytics レポートで TLS（Transport Layer Security）1.0 の暗号化がサポートされなくなっています。この変更は、最高レベルのセキュリティ基準を維持して、お客様のデータの安全を確保するための継続的な取り組みの一環です。If you are unable to connect to Adobe Analytics reporting after February 11, 2019, you should upgrade your browser to the [latest version](https://marketing.adobe.com/resources/help/en_US/sc/user/requirements.html).<br/>2019 年 2 月 20 日以降、Adobe Analytics のデータ収集で TLS 1.0 がサポートされなくなりました。この変更により、TLS 1.1 以上をサポートしていない旧型のデバイスや Web ブラウザーを使用しているエンドユーザーの [!DNL Analytics] データは収集されなくなりました。この変更が、お客様の顧客のデータやレポートに大きな影響を及ぼすことはないと認識しています。（お客様の Web サイトが既に TLS 1.0 をサポートしていない場合、影響は一切ありません。）<br/>2019 年 4 月 11 日以降、Adobe Analytics レポート API は TLS 1.0 の暗号化をサポートしていません。API にアクセスするお客様は、この変更による影響の有無を確認してください。 <ul><li>デフォルト設定で Java 7 を使用している API クライアントは、[TLS 1.2](https://www.java.com/en/configure_crypto.html) をサポートするように変更してください（「_Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2_」を参照、ブラウザーの翻訳機能をお使いください）。 </li><li>Java 8 を使用している API クライアントは、デフォルト設定が TLS 1.2 なので、影響を受けません。</li><li> その他のフレームワークを使用している API クライアントは、TLS 1.2 のサポートについてベンダーにお問い合わせください。</li></ul> |
 | データフィード：post_product_list 列 - サイズ変更 | 2019 年 1 月 9 日 | 2019 年 2 月 7 日、post_product_list 列のサイズを 64 KB から 16 MB に拡張されました。この変更は、処理中に post_product_list に追加されるマーチャンダイジング eVar 値により、製品および売上高の値の切り捨てが発生しないようにします。post_product_list の値を取得する処理を実行する場合、これらの処理が最大 16 MB の値に対応できるようにしてください。またはデータ取得の失敗を避けるために、値が 16 KB に達した時点で値を切り捨てるようにしてください。 |
 | [!DNL Analytics Live Stream] エンドポイントの管理における変更点 | 2018 年 12 月 20 日 | 2019 年 2 月 1 日以降、顧客からのアクティブな接続が 90 日間なかった [!DNL Live Stream] エンドポイントが無効化される場合があります。使用中の [!DNL Live Stream] エンドポイントについてはサポートに問い合わせて確認でき、必要に応じて再度有効にすることができます。また、サービス規定に従って顧客のプロセスで永続的な接続が維持されるように注意し、接続が切断されたり中断されたりしたときには再接続するように実装してください。 |
 | TLS 1.0 のサポート終了に伴う Adobe [!DNL Report Builder] の更新 | 2018 年 9 月 7 日 | TLS 1.0 のサポート終了に伴い、[!DNL Report Builder] ユーザーの皆様には 2019 年 2 月までにバージョン 5.6.21 をダウンロードされることをお勧めします。この日以降、以前のバージョンの [!DNL Report Builder] は機能しなくなります。 |
@@ -155,10 +155,10 @@ See [AppMeasurement release history](https://docs.adobe.com/content/help/en/anal
 
 **修正点および機能強化**
 
-* [!UICONTROL セグメントの概要] ページで、セグメントストレージフォルダーの幅が柔軟になりました。これにより、より長い名前でセグメントを区別できます。（AAM-48400）
-* [!UICONTROL アルゴリズムモデル]で、リーチおよび正解率 **** スライダーを動かすとモデルのリーチまたは正解率に影響しなかった問題を修正しました。（AAM-47996）
-* Analyticsの宛先で、データエクスポートコントロールやサードパーティのデータ共有ポリシーと競合するセグメントの. csvファイルをダウンロードするためのボタンが壊れていた問題を修正しました。（AAM-48100）
-* Audience Managerユーザーインターフェイスにログインすると、ランダムな「アクセス拒否」エラーが表示される問題を修正しました。（AAM-47632）
+* [!UICONTROL セグメントの概要]ページで、セグメントストレージフォルダーの幅が変更できるようになりました。これにより、長い名前のセグメント間を区別できます。（AAM-48400）
+* [!UICONTROL アルゴリズムモデル]で、**リーチと精度を調整**&#x200B;スライダーがモデルのリーチや精度に影響しなかった問題を修正しました。（AAM-47996）
+* Analytics の宛先で、データエクスポート制御やサードパーティデータ共有ポリシーと競合するセグメントの .csv ファイルをダウンロードするためのボタンが壊れていた問題を修正しました。（AAM-48100）
+* Audience Manager ユーザーインターフェイスにログインする際に、ランダムな「アクセス拒否」エラーが表示されていた問題を修正しました。（AAM-47632）
 
 ## Experience Manager {#aem}
 
@@ -166,7 +166,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 ### 製品リリース
 
-次の製品の新機能情報。
+次の製品に関する新機能情報：
 
 #### Cloud Manager 2019.6.0
 
@@ -174,78 +174,78 @@ The latest Cloud Manager release (2019.6.0) contains a new [Product Update Wizar
 
 * [Cloud Manager 2019.6.0 のリリースノート](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 
-#### XMLドキュメント3.4
+#### XML ドキュメント 3.4
 
-XML Documentation3.4ソリューションが利用できるようになりました。
+XML ドキュメント 3.4 ソリューションが利用できるようになりました。
 
 ***リリースノート***
 
-* AEM6.5のサポートが追加されました。
-* エディターの変更:
-   * マップレベルのプレビュー
-   * Tables - provided an option to copy an `entry` or a `complete` row within a table using copy and paste.
-   * テーブル-列内の複数のセルを選択し、それらのセルを連結または結合するオプションが提供されます。
-   * テーブル- Webエディターの作成者モードでテーブルの列プロパティを設定する方法を提供します。
-   * テーブル-標準テーブルでの列の縦横比とサイズを調整できます。
-   * テーブル-作成者ビューで行と列を選択します。
-   * テーブル- Webエディターでテーブルセルの整列用にスタイルとプロパティ（整列、バビング）を有効にします。
-   * コンテンツのコピー&amp;ドロップおよびドラッグ&amp;ドロップに関するバグを含む、フルタグ表示のバグ修正。
-   * エディタータブでトピックタイトルを表示します。
-   * Webエディターでパフォーマンスの問題を解決しました。
-* 翻訳中の翻訳済みコンテンツにベースラインを転送します。
-* 翻訳のワークフロー中のトランスファー条件プリセット。
-* ベースラインからマップのすべての依存関係にラベルを適用する機能を追加しました。
-* すべての依存関係をzipとしてダウンロードするためのボタンを提供しました。
-* XHTMLからDITAへの変換の改善:
-   * 生成されたDITAMAPの名前が、アップロードされたzipファイルの名前と同一になりました。
-   * 追加のHTML要素および属性のサポートを追加しました。
-   * 同時HTML- zipファイル取り込みのサポート。
-   * The sub-folder hierarchy where the zip is uploaded (*under input path as configured in h2d_io.xml*), is retained for the generated output (*under the configured output path*).
-* 提供された監査ログを確認して、バージョンと理由に戻ります。
-* AEMサイトの再生成:
-   * サブマップの再生成を無効にします。
-   * 再生成の使用に関するワークフローが有効になりました。
-   * チャンクトピックの再生成オプションを無効にし、チャンク属性が適用されている親トピックでオプションを使用できるようにします。
-* AEMアセット検索のANDロジックでDITA検索が機能するようになりました。
-* 変換出力フォルダーに保存されている一時ファイルを表示しません。
-* 「ベースライン」タブ:
-   * ベースラインを開く際のパフォーマンスが改善されました。
-   * クライアントのタイムスタンプで機能する日付でトピックを選択する。
-* ラベルを削除するためのAPI。
+* AEM 6.5 のサポートが追加されました。
+* エディターが次のように変更されます。
+   * マップレベルプレビュー。
+   * テーブル - コピー＆ペーストを使用してテーブル内の `entry` または `complete` 行をコピーするオプションが提供されます。
+   * テーブル - 列の複数のセルを選択して結合するオプションが提供されます。
+   * テーブル - Web エディターのオーサーモードでテーブル列プロパティを設定する方法が提供されます。
+   * テーブル - 標準テーブルの列の縦横比およびサイズを調整する方法が提供されます。
+   * テーブル - オーサー表示で行および節を選択できます。
+   * テーブル - Web エディターでテーブルセルを整列するためのスタイルおよびプロパティ（align、valign）が使用できるようになりました。
+   * すべてのタグを表示している場合にコンテンツのコピー＆ペーストおよびドラッグ＆ドロップで発生していたバグを修正しました。
+   * エディターのタブにトピックタイトルが表示されます。
+   * Web エディターのパフォーマンスの問題を解決しました。
+* 翻訳時に、翻訳済みコンテンツのベースラインを転送します。
+* 翻訳ワークフロー時に、条件プリセットを転送します。
+* ペースラインからのマップのすべての依存にラベルを適用する機能が追加されました。
+* すべての依存を含むマップを zip としてダウンロードするためのボタンが提供されます。
+* XHTML から DITA への変換機能の改善：
+   * 生成される DITAMAP は、アップロードされた zip ファイルの名前と同じになります。
+   * 追加の HTML 要素および属性に対してサポートが追加されました。
+   * html-zip ファイルの同時インジェストがサポートされます。
+   * zip がアップロードされたサブフォルダー階層（*in h2d_io.xml として設定された入力パスの下*）は、生成された出力（*設定された出力パスの下*）で保持されます。
+* 誰がどのバージョンに復帰したかとその理由を確認するための監査ログが提供されます。
+* AEM Site の再生成：
+   * サブマップの再生成が無効になります。
+   * 再生成の事例用に、生成後のワークフローが有効になります。
+   * まとまったトピックを再生成オプションが無効になり、まとまった属性が適用された親トピック用のオプションが使用できます。
+* AEM Asset 検索の DITA 検索で、AND ロジックが機能するようになりました。 
+* その結果、翻訳出力フォルダーに格納された一時ファイルが表示されなくなります。
+* ベースラインタブ：
+   * ベースラインを開く際のパフォーマンスが向上します。
+   * 日付によるトピックの選択で、クライアントのタイムスタンプが機能します。
+* ラベルを削除するための API。
 
 #### 製品メンテナンス
 
 **AEM 6.2 SP1-CFP20**
 
-2019年6月6日リリースのAEM6.2Service Pack1-累積Fix Pack20（6.2.1.20）は、2016年12月1日のAEM6.2SP1の一般リリース以降にリリースされた主なお客様修正を含む重要なアップデートです。
+2019 年 6 月 6 日にリリースされた AEM 6.2 Service Pack 1–Cumulative Fix Pack 20（6.2.1.20）は重要なアップデートであり、2016 年 12 月の AEM 6.2 SP1 の一般リリース以降にリリースされた主なお客様向けの修正が含まれています。
 
 * [リリースノート](https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html)
 * [AEM Forms CFP リリース](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 **AEM 6.3.3.5**
 
-2019年7月3日リリースのAEM6.3.3.5は、2017年4月4日のAEM6.3の一般リリース以降にリリースされた主なお客様修正を含む重要なアップデートです。
+2019 年 7 月 3 日にリリースされた AEM 6.3.3.5 は重要なアップデートであり、2017 年 4 月の AEM 6.3 の一般リリース以降にリリースされた主なお客様向けの修正が含まれています。
 
 * [リリースノート](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)
 * [AEM Forms CFP リリース](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 **AEM 6.4.5.0**
 
-2019年7月3日リリースのAEM6.4.5.0は重要なアップデートであり、2018年4月のAEM6.4の一般リリース以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
+2019 年 7 月 3 日にリリースされた AEM 6.4.5.0 は重要なアップデートであり、2018 年 4 月の AEM 6.4 の一般リリース以降にリリースされた主なお客様向けの修正が含まれています。
 
 * [リリースノート](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
 * [AEM Forms CFP リリース](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 **AEM 6.5.1.0**
 
-2019年7月3日リリースのAEM6.5.1.0は重要なアップデートであり、2019年4月のAEM6.5の一般リリース以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
+2019 年 7 月 3 日にリリースされた AEM 6.5.1.0 は重要なアップデートであり、2019 年 4 月の AEM 6.2 の一般リリース以降にリリースされた主なお客様向けの修正が含まれています。
 
 * [リリースノート](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
 * [AEM Forms CFP リリース](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 ### セルフサービス
 
-**AEMキャッシュの無効化の更新**
+**AEM キャッシュの無効化の更新**
 
 An important AEM patch for the AEM 6.5 clientlibs cache invalidation is available by way of the [AEM 6.5.1.0 update](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html) or this [KB article](https://helpx.adobe.com/experience-manager/kb/avoid-crx-quickstart-deletion-in-aem-6-5.html).
 
@@ -282,7 +282,7 @@ See [Target release notes (pre-release)](https://docs.adobe.com/content/help/en/
 
 ## Magento {#magento}
 
-Magentce CommerceおよびMagenting Open Sourceリリースノートについては、以下を参照してください。
+Magento Commerce および Magento Open Source のリリースノートについては、以下を参照してください。
 
 * [Magenting Open Source2.3.2リリースノート](https://devdocs.magento.com/guides/v2.3/release-notes/ReleaseNotes2.3.2OpenSource.html)
 * [Magenting Commerce2.3.2リリースノート](https://devdocs.magento.com/guides/v2.3/release-notes/ReleaseNotes2.3.2Commerce.html)
