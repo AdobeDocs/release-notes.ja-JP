@@ -1,11 +1,11 @@
 ---
-title: Adobe Experience Cloud リリースノート
-description: 2019 年 7 月 Experience Cloud リリースノート
+title: Adobe Experience Cloudテクニカルドキュメントリリースノート
+description: 2019年7月のExperience Cloudテクニカルドキュメントリリースノート
 doc-type: リリースノート
 last-update: 2019 年 7 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 700dc5c07df31cf744588cd79f6d51c05234c0a0
+source-git-commit: 41b4cbb1b93fe857c80cebd631a785e234e2ce07
 
 ---
 
@@ -90,7 +90,7 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 
 | コンポーネント | 説明 |
 | -----------| ---------- |   
-| Analysis Workspace – コホート分析の機能強化 | [新しいコホート分析設定](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html) が追加されました。 <ul><li>パーセントのみ表示</li><li>四捨五入率（最も近い整数）</li><li>平均パーセント行を表示</li></ul> |
+| Analysis Workspace – コホート分析の機能強化 | [新しいコホート分析設定](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html) が追加されました。 <ul><li>割合のみを表示</li><li>割合を整数に四捨五入</li><li>割合の平均行を表示</li></ul> |
 | Analysis Workspace | 左側のレールに、_過去 18 ヶ月の項目を表示_&#x200B;するためのオプションが追加されました。以前は、ルックバック期間は最大 6 ヶ月でした。これにより、昨年のページやキャンペーンとの比較が簡単になります（最大 18 ヶ月前）。 |
 | 新しい Analysis Workspace テンプレート | We added a new template called ["Magento: Marketing &amp; Commerce"](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html) to Analysis Workspace. Magento e コマースのお客様向けに特別に設計されたものですが、小売業者のお客様は独自のインサイトを業務に役立てることができます。 |
 
@@ -125,12 +125,12 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 
 ### AppMeasurement {#appm}
 
-リリース日：2019 年 7 月 15 日:
+リリース日：2019 年 7 月 15 日
 
-**JavaScript版AppMeasurement2.15.0**
+**JavaScript 版 AppMeasurement 2.15.0**
 
-* Activity MapのスクロールリーチトラッキングがActivity Map拡張機能に追加されました。（AN-172949）
-* AppMeasurementにDIL9.2が追加されました。（AN-182472）
+* Activity Map 拡張に Activity Map スクロールリーチトラッキングが追加されました。（AN-172949）
+* AppMeasurement に DIL 9.2 が追加されました。（AN-182472）
 
 See [AppMeasurement release history](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) for a release history of AppMeasurement on the following platforms:
 
