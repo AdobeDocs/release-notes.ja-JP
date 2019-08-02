@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019年8月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 626b6b170539ebe54c86f17eec0593bd2decd4e5
+source-git-commit: b3fa98427b027218e9600cb4c5e10dd2ba880f89
 
 ---
 
@@ -44,9 +44,9 @@ Adobe Experience Cloud の新機能および修正点です。
 * 一部のユーザーのセッションログアウトにつながるExperience Cloudログインの重大な問題を修正しました。（MCUI-6908）
 * パフォーマンスを向上させ、遅延を減らすために、Experience Cloudログインを更新しました。（MCE-6854、MCID-6869、MCID-6883）
 * インターフェイスの外観が更新されました。（MCE-6861、MCID-6911、MCID-6862）
-* Fixed an issue with Experience Cloud [!UICONTROL Triggers] that led to incorrect interpretation of _Like_ clause in the [!UICONTROL Trigger] definition. （MCUI-6611）
+* トリガー定義で「いいね!"節の誤った解釈につながるExperience Cloud [!UICONTROL Triggers]__ の問題を [!UICONTROL 修正] しました。（MCUI-6611）
 
-For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
+製品ドキュメントについては [、Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)を参照してください。
 
 ### Experience Platform Launch {#launch}
 
@@ -77,8 +77,8 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | 通知 | 追加日 または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | These limits are not new, but have been added to the documentation [here](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html). |
-| 新しいセグメント演算子の制限 | 追加日：2019 年 5 月 31 日 | Starting on July 18, 2019, the segment operators _contains any of_, _does not contain any of_, _contains all of_ and _does not contain all_ of will be limited to 100 words per input field. この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。 制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。 これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
+| 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | これらの制限は新しいものではありませんが、ドキュメント [に追加](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html)されました。 |
+| 新しいセグメント演算子の制限 | 追加日：2019 年 5 月 31 日 | Starting July 18, 2019, the segment operators _contains any of_, _does not contain any of_, _contains all of_ and _does not contain all_ of will be limited to 100 words per input field. この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。 制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。 これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
 | **[!UICONTROL 日付分類]**&#x200B;および&#x200B;**[!UICONTROL 数値 2 分類]**&#x200B;に関するサポートの変更予定 | 2019 年 5 月 28 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。 この変更は 2019 年 7 月のメンテナンスリリースから有効になります。 「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。 <br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
 | _レポートの合計_&#x200B;の計算に対して予定されている変更 | 更新日：2019 年 7 月 9 日 | **2019 年 6 月 18 日**&#x200B;に、_レポートの合計_&#x200B;値の算出方法をすべてのディメンションおよび指標で共通化します。 これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されます。 この変更以前は、レポートに&#x200B;_未指定_&#x200B;が表示されているかどうかにかかわらず、合計に&#x200B;_未指定_&#x200B;の行項目を含めるレポートと含めないレポートが混在していました。 <br/>2019 年 6 月 18 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に含められるようになります。 さらに、_存在する_&#x200B;または&#x200B;_存在しない_&#x200B;ロジックを使用するセグメントは、この変更後、一部のディメンションで異なる結果が表示される可能性があります（特に、_未指定_&#x200B;を特有な値としてレポートするディメンションに影響します。リファラータイプディメンションの「手動入力/ブックマーク」行項目やデバイスタイプディメンションの「その他」行項目が該当します）。 この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。 |
 | [!DNL Analysis Workspace] CSV ダウンロード機能の更新点  | 2019 年 4 月 10 日 | 2019 年 4 月 11 日以降、**[!UICONTROL CSV ダウンロード]**&#x200B;および&#x200B;**[!UICONTORL クリップボードへのコピー]**（[!DNL Analysis Workspace]）にいくつかの変更が加えられ、書き出されたデータから書式が削除されます。  <ul><li>桁区切り記号は含まれなくなりました。 小数点文字は引き続き表示され、**[!UICONTROL コンポーネント／レポート設定／桁区切り記号]**&#x200B;で定義された形式が適用されます。 注意：小数点を小数点区切り記号として使用する数値は、書き出された CSV では引き続き引用されます。</li><li>通貨記号は表示されません。</li><li>パーセント記号は表示されません。 パーセンテージは 10 進形式になります。 例：75%は 0.75 と表示されます。</li><li>時間は秒単位で表示されます。</li><li>コホートテーブルでは、生の値のみが表示され、パーセント値は削除されます。</li><li>数値が無効な場合は、空のセルが表示されます。</li></ul> |
@@ -140,8 +140,8 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| 外部APIアクティビティ（パブリックベータ版） | より深いパーソナライゼーションを実現するために、外部APIアクティビティを使用すると、外部システムからのデータをREST API呼び出し経由でワークフローに取り込むことができます。RESTエンドポイントは、顧客管理システム、Adobe I/OランタイムまたはAdobe Experience Cloud RESTエンドポイント（例: Data Platform、Target、Analytics、Campaign）です。この機能は現在パブリックベータ版です。For more information, refer to the [detailed documentation](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) and the [how-to video](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html). |
-| ワークフローセグメントのレポート | この機能により、マーケティング担当者は、セグメントコードごとに配信パフォーマンスを分類できます。ワークフローを作成し、セグメント化アクティビティを使用して配信母集団にセグメントを割り当てると、これらのセグメントが同じ配信に移行できるようになります。これにより、単一の配信内で複数のセグメントに基づいてオープン/クリックの統計を表示できます。For more information, refer to the [detailed documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html) and the [how-to video](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/reporting/report-on-workflow-segments.html). |
+| 外部APIアクティビティ（パブリックベータ版） | より深いパーソナライゼーションを実現するために、外部APIアクティビティを使用すると、外部システムからのデータをREST API呼び出し経由でワークフローに取り込むことができます。RESTエンドポイントは、顧客管理システム、Adobe I/OランタイムまたはAdobe Experience Cloud RESTエンドポイント（例: Data Platform、Target、Analytics、Campaign）です。この機能は現在パブリックベータ版です。詳しくは、 [詳細ドキュメント](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) とハウツービデオ [](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html)を参照してください。 |
+| ワークフローセグメントのレポート | この機能により、マーケティング担当者は、セグメントコードごとに配信パフォーマンスを分類できます。ワークフローを作成し、セグメント化アクティビティを使用して配信母集団にセグメントを割り当てると、これらのセグメントが同じ配信に移行できるようになります。これにより、単一の配信内で複数のセグメントに基づいてオープン/クリックの統計を表示できます。詳しくは、 [詳細ドキュメント](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html) とハウツービデオ [](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/reporting/report-on-workflow-segments.html)を参照してください。 |
 
 ### Adobe Campaign Classic
 
