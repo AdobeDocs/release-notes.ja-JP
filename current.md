@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019年8月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b3fa98427b027218e9600cb4c5e10dd2ba880f89
+source-git-commit: 2229815ac75b0a7bd60571b39bd0f2780f20195e
 
 ---
 
@@ -66,8 +66,9 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| SAMSSite cookieの設定のサポート | Analyticsによって設定されたすべてのcookieに、SAMSsite cookieの設定が追加されます。この変更により、SameSite cookieフィールドを必要とするChromeの変更に準拠できます。 |
+| SAMSSite cookieの設定のサポート | [Analyticsによって設定されたすべてのcookieに、SAMSsite cookieの設定](https://web.dev/samesite-cookies-explained) が追加されます。この変更により、SameSite cookieフィールドを必要とするChromeの変更に準拠できます。Analytics cookieはデフォルトで設定 `none`されます。ファーストパーティドメイン（stats.domain.comなど）を使用している場合は、Adobe ClientCareをファーストパーティ収集ドメイン `lax` 用に設定できます。 |
 | ワークスペース:ドロップダウンフィルターの項目制限を50から200に増やす | ドロップダウンフィルターに配置できる項目の制限を50から200に増やしました。この強化により、すべての国（195）をフィルターに追加するなど、様々な使用事例に対応しています。 |
+| A4T指標用のアトリビューションIQ | Attribution IQに対して、Target for Target（A4T）指標を2つ有効にしました。アクティビティのインプレッションとアクティビティのコンバージョンを参照してください。Analysis Workspaceでは、これらの指標がReports&amp; Analyticsと比較して水増しされています。この変更により、ユーザーは「同じタッチ」アトリビューションモデルを適用できるようになり、Analysis WorkspaceをReports&amp; Analyticsと連動させることができます。 |
 
 #### 修正点
 
