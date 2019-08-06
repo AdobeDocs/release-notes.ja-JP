@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019年8月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 09b88aee612dfb84e3810d1f75da703d3d4c233d
+source-git-commit: 7a65c16ecebddc5baacefd675d0015af65ef1060
 
 ---
 
@@ -78,6 +78,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | 通知 | 追加日 または更新日 | 説明 |
 | -----------| ---------- | ---------- |
+| 履歴タイムゾーンのオフポイントのサポート | 2019年8月8日 | Analyticsでは、タイムスタンプ付きヒットのタイムゾーンのオフセットを自動的に処理するようになりました。8月8日の変更後、履歴処理用のデータに読み込まれるシステムは、データを送信する前にタイムゾーンのオフセットを調整する必要がなくなります。 |
 | 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | これらの制限は新しいものではありませんが、ドキュメント [に追加](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html)されました。 |
 | 新しいセグメント演算子の制限 | 追加日：2019 年 5 月 31 日 | Starting July 18, 2019, the segment operators _contains any of_, _does not contain any of_, _contains all of_ and _does not contain all_ of will be limited to 100 words per input field. この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。 制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。 これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
 | **[!UICONTROL 日付分類]**&#x200B;および&#x200B;**[!UICONTROL 数値 2 分類]**&#x200B;に関するサポートの変更予定 | 2019 年 5 月 28 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。 この変更は 2019 年 7 月のメンテナンスリリースから有効になります。 「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。 <br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
