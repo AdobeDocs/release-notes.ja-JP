@@ -2,38 +2,34 @@
 title: Adobe Experience Cloud リリースノート
 description: Experience Cloud リリースノートのテンプレート
 doc-type: リリースノート
-last-update: 2019年8月
+last-update: 2019 年 8 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6e1d9c4b083968fe1632d1309900058c90206fe1
+source-git-commit: ff825ca4322605f70df2d61e00caa2330164ba6f
 
 ---
 
 
-# 先行公開 - Adobe Experience Cloud のリリースノート
+# Adobe Experience Cloud リリースノート
 
 Adobe Experience Cloud の新機能および修正点です。
-
->[!IMPORTANT]
->
->このページに記載される内容は、リリース前の情報であり、リリース予定日の前に変更される可能性があります。
 
 >[!NOTE]
 >
 >[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。通知はリリースの 3～5 営業日前に届きます。 リリース後に発表された新情報には、更新の日付が明記されます。
 
-**リリース日： 2019 年 8 月**
+**リリース日：2019 年 8 月 8 日**
 
-* [エクスペリエンスプラットフォームと管理](#platform)
+* [Experience Platform と管理](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) （ソリューションヘルプへのリンク）
 
-## [!UICONTROL エクスペリエンスプラットフォーム] と管理 {#platform}
+## [!UICONTROL Experience Platform] と管理 {#platform}
 
-[!UICONTROL Experience Platform]、Experience Cloudインターフェイス、製品管理、Experience Platform Launch、IDサービス、セキュリティ速報のリリースノートです。
+[!UICONTROL Experience Platform]、Experience Cloud インターフェイス、製品管理、Experience Platform Launch、ID サービスおよびセキュリティ情報に関するリリースノートです。
 
 * [Experience Cloud インターフェイス](#core-services)
 * [Experience Platform Launch](#launch)
@@ -41,10 +37,10 @@ Adobe Experience Cloud の新機能および修正点です。
 
 ### Experience Cloud インターフェイス {#core-services}
 
-* 一部のユーザーのセッションログアウトにつながるExperience Cloudログインの重大な問題を修正しました。（MCUI-6908）
-* パフォーマンスを向上させ、遅延を減らすために、Experience Cloudログインを更新しました。（MCE-6854、MCID-6869、MCID-6883）
-* インターフェイスの外観が更新されました。（MCE-6861、MCID-6911、MCID-6862）
-* トリガー定義で「いいね!"節の誤った解釈につながるExperience Cloud [!UICONTROL Triggers]__ の問題を [!UICONTROL 修正] しました。（MCUI-6611）
+* Experience Cloud ログイン中に一部のユーザーがログアウトされる問題を修正しました。（MCUI-6908）
+* Experience Cloud ログイン機能のパフォーマンスを向上させ、待ち時間を短縮しました。（MCUI-6854、MCUI-6869、MCUI-6883）
+* インターフェイスの外観を更新しました。（MCUI-6861、MCUI-6911、MCUI-6862）
+* Experience Cloud の [!UICONTROL Triggers] で、[!UICONTROL トリガー]定義の _Like_ が正常に動作しない問題を修正しました。（MCUI-6611）
 
 製品ドキュメントについては [、Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)を参照してください。
 
@@ -56,29 +52,29 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 Adobe Analytics の新機能および修正点です。
 
-* [Adobe Analyticsの新機能、拡張機能および修正点](#aa-features)
+* [Adobe Analytics の新機能、機能強化および修正点です。](#aa-features)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [AppMeasurement](#appm)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
-### New features, enhancements, and fixes in Adobe Analytics {#aa-features}
+### Adobe Analytics の新機能、機能強化および修正点です。{#aa-features}
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| SAMSSite cookieの設定のサポート | [Analyticsによって設定されたすべてのcookieに、SAMSsite cookieの設定](https://web.dev/samesite-cookies-explained) が追加されます。この変更により、SameSite cookieフィールドを必要とするChromeの変更に準拠できます。Analytics cookieはデフォルトで設定 `none`されます。ファーストパーティドメイン（stats.domain.comなど）を使用している場合は、Adobe ClientCareをファーストパーティ収集ドメイン `lax` 用に設定できます。 |
-| ワークスペース:ドロップダウンフィルターの項目制限を50から200に増やす | ドロップダウンフィルターに配置できる項目の制限を50から200に増やしました。この強化により、すべての国（195）をフィルターに追加するなど、様々な使用事例に対応しています。 |
+| SameSite cookie 設定のサポート | [Analyticsによって設定されたすべてのcookieに、SAMSsite cookieの設定](https://web.dev/samesite-cookies-explained) が追加されます。この変更により、SameSite cookie フィールドが必要な Chrome のアップデートに準拠できます。Analytics cookieはデフォルトで設定 `none`されます。ファーストパーティドメイン（stats.domain.comなど）を使用している場合は、Adobe ClientCareをファーストパーティ収集ドメイン `lax` 用に設定できます。 |
+| Workspace：ドロップダウンの項目の上限が 50 から 200 に増加 | ドロップダウンフィルターに配置できる項目の最大数を 50 から 200 に増加しました。この強化は、すべての国（195）やすべての都道府県（26）をフィルターに追加するなどの状況への対応を可能にします。 |
 | A4TアクティビティインプレッションおよびアトリビューションIQがアトリビューションIQに対応 | Attribution IQに対して、Target for Target（A4T）指標を2つ有効にしました。アクティビティのインプレッションとアクティビティのコンバージョンを参照してください。Analysis Workspaceでは、これらの指標がReports&amp; Analyticsと比較して水増しされています。この変更により、ユーザーは「同じタッチ」アトリビューションモデルを適用できるようになり、Analysis WorkspaceをReports&amp; Analyticsと連動させることができます。 |
 
 #### 修正点
 
-* フルスクリーンモードで、リアルタイムレポートでテキストが表示される問題を修正しました。（AN-183168）
+* フルスクリーンモードにおけるリアルタイムレポートのテキスト表示の問題を修正しました。（AN-183168）
 
 ### [!DNL Analytics] 管理者向けの重要な注意事項 {#aa-notices}
 
 | 通知 | 追加日 または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| 履歴タイムゾーンのオフポイントのサポート | 2019年8月8日 | Analyticsでは、タイムスタンプ付きヒットのタイムゾーンのオフセットを自動的に処理するようになりました。8月8日の変更後、履歴処理用のデータに読み込まれるシステムは、データを送信する前にタイムゾーンのオフセットを調整する必要がなくなります。 |
+| 履歴タイムゾーンのオフポイントのサポート | 2019 年 8 月 9 日 | Analyticsでは、タイムスタンプ付きヒットのタイムゾーンのオフセットを自動的に処理するようになりました。8月8日にこの変更に従って、履歴処理用のデータに読み込まれるシステムは、データを送信する前にタイムゾーンのオフセットを調整する必要がなくなります。 |
 | 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | これらの制限は新しいものではありませんが、ドキュメント [に追加](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html)されました。 |
 | 新しいセグメント演算子の制限 | 追加日：2019 年 5 月 31 日 | Starting July 18, 2019, the segment operators _contains any of_, _does not contain any of_, _contains all of_ and _does not contain all_ of will be limited to 100 words per input field. この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。 制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。 これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
 | **[!UICONTROL 日付分類]**&#x200B;および&#x200B;**[!UICONTROL 数値 2 分類]**&#x200B;に関するサポートの変更予定 | 2019 年 5 月 28 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。 この変更は 2019 年 7 月のメンテナンスリリースから有効になります。 「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。 <br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
@@ -95,19 +91,19 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### AppMeasurement {#appm}
 
-[!UICONTROL AppMeasurement] 2.16.0リリース（2019年8月8日）
+[!UICONTROL AppMeasurement] 2.16.0 は、2019 年 8 月 8 日にリリースされます。
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| `sendBeacon` 離脱リンクのサポート | `sendBeacon`[!UICONTROL AppMeasurement] での離脱リンクのサポートを実装しました。これにより離脱リンクトラッキングが改善され、トラフィックが増加する可能性があります。 |
-| ECID/fid値 | optin設定が変更されても、ECID/fid値が最初のヒットにキャッシュされるようになりました。 |
-| DIL 9.3 | Audience ManagementモジュールのDIL9.3への更新 |
-| スクロールリーチの追跡 | s. Activity Map.trackScrollリーチのスイッチが公開され、スクロールリーチの追跡がオンまたはオフになりました。 |
-| 訪問者IDサービス4.4.0 | AppMeasurementがアップグレードされ、訪問者IDサービス4.4.0が使用されるようになりました。 |
+| `sendBeacon` が離脱リンクをサポート | [!UICONTROL AppMeasurement] での離脱リンク計測における `sendBeacon` サポートが実装されました。これにより、離脱リンクトラッキングの精度が向上し、トラフィックが増加することがあります。 |
+| ECID/fid の値 | ECID/fid の値は、オプトイン設定が変更された場合でも、最初のヒット時にキャッシュされるようになりました。 |
+| DIL 9.3 | Audience Management モジュールを DIL 9.3 に更新しました。 |
+| リーチトラッキングのスクロール | スクロールリーチのトラッキングをオン／オフするための s.ActivityMap.trackScrollReach の設定が追加されました。 |
+| 訪問者 ID サービス 4.4.0 | 訪問者 ID サービス 4.4.0 を使用するようになりました。 |
 
 #### 修正点
 
-* isReadyToTrackがtrueの前に発生するAppMeasurementキューのバグを修正しました。
+* isReadyToTrack が true になる前に発生していた AppMeasurement クエリのバグを修正しました。
 
 See [AppMeasurement release history](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) for a release history of AppMeasurement on the following platforms:
 
@@ -126,11 +122,11 @@ See [AppMeasurement release history](https://docs.adobe.com/content/help/en/anal
 
 **修正点および改善点**
 
-* 管理者権限を持つユーザーアカウントにのみ「管理」タブが表示されるようになりました（AAM-48557）。
-* リストユーザーAPIで、完全なユーザーの詳細が返されるようになりました（AAM-48662）。
+* 「管理」タブは管理者権限を持つユーザーアカウントにのみ表示されるようになりました（AAM-48557）。
+* リストユーザー API は、ユーザーのすべての詳細を返すようになりました（AAM-48662）。
 * 特性フォルダーリストのサイズを変更できるようになりました（AAM-48800）。
-* 複数のUIアクセシビリティの最適化（AAM-48865、AAM-48933）。
-* 管理およびデータソースページの最適化のロード（AAM-48514）
+* 複数の UI アクセシビリティが最適化されました（AAM-48865、AAM-48933）。
+* 管理ページおよびデータソースページの読み込みが最適化されました（AAM-48514）。
 
 ## [!DNL Campaign] {#ac}
 
@@ -142,18 +138,18 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| 外部APIアクティビティ（パブリックベータ版） | より深いパーソナライゼーションを実現するために、外部APIアクティビティを使用すると、外部システムからのデータをREST API呼び出し経由でワークフローに取り込むことができます。RESTエンドポイントは、顧客管理システム、Adobe I/OランタイムまたはAdobe Experience Cloud RESTエンドポイント（例: Data Platform、Target、Analytics、Campaign）です。この機能は現在パブリックベータ版です。詳しくは、 [詳細ドキュメント](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) とハウツービデオ [](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html)を参照してください。 |
-| ワークフローセグメントのレポート | この機能により、マーケティング担当者は、セグメントコードごとに配信パフォーマンスを分類できます。ワークフローを作成し、セグメント化アクティビティを使用して配信母集団にセグメントを割り当てると、これらのセグメントが同じ配信に移行できるようになります。これにより、単一の配信内で複数のセグメントに基づいてオープン/クリックの統計を表示できます。詳しくは、 [詳細ドキュメント](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html) とハウツービデオ [](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/reporting/report-on-workflow-segments.html)を参照してください。 |
+| External API Activity（パブリックベータ） | より深くパーソナライズするために、External API Activity を使用すると、REST API 呼び出しによってデータを外部システムからワークフローに持ってくることができます。REST エンドポイントは、顧客管理システム、Adobe I/O Runtime または Adobe Experience Cloud REST エンドポイント（例：Data Platform、Target、Analytics、Campaign）になることができます。この機能は、現在、パブリックベータです。詳しくは、 [詳細ドキュメント](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) とハウツービデオ [](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html)を参照してください。 |
+| ワークフローセグメントに関するレポート | この機能を使用すると、マーケティング担当者は配信パフォーマンスをセグメントコードで分類できます。ワークフローを作成し、セグメントアクティビティを使用して、配信母集団にセグメントを割り当てる場合、これらのセグメントは同じ配信に含めることができるようになりました。これにより、1 回の配信内の複数のセグメントに基づいた開封数／クリック数の統計を表示できます。詳しくは、 [詳細ドキュメント](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html) とハウツービデオ [](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/reporting/report-on-workflow-segments.html)を参照してください。 |
 
 ### Adobe Campaign Classic
 
 [Campaign Classic19.1.3アップデート](https://docs.campaign.adobe.com/doc/AC/en/RN.html) -ビルド9031
 
-### Adobe Campaignコントロールパネル
+### Adobe Campaign コントロールパネル
 
 [新しいコントロールパネル機能](https://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html) には、Campaign Classicがデータやファイル転送に接続するURLを追加する機能があります。
 
-[!UICONTROL コントロールパネル] は、AWSでホストされているAdobe Campaign ClassicとAdobe Campaign Standardの両方のユーザーに使用できます。コントロールパネルにはアップグレードは必要ありません。
+[!UICONTROL コントロールパネル]は、AWS でホストされる Adobe Campaign Classic および Adobe Campaign Standard の両方のお客様が利用できます。コントロールパネルにアクセスするためにアップグレードする必要はありません。
 
 ### その他のリソース
 
