@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 8 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f63c0117090ec65a989b298bc555e4028fc3e5ad
+source-git-commit: 1e8bca79345949fe99903857eb24771d8a9d9f98
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [!DNL Campaign](#ac)
-* [!DNL Ad Cloud]（#広告クラウド）
+* [!DNL Ad Cloud](#adcloud)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) （ソリューションヘルプへのリンク）
 
