@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 8 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: ff825ca4322605f70df2d61e00caa2330164ba6f
+source-git-commit: f63c0117090ec65a989b298bc555e4028fc3e5ad
 
 ---
 
@@ -24,6 +24,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [!DNL Campaign](#ac)
+* [!DNL Ad Cloud]（#広告クラウド）
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) （ソリューションヘルプへのリンク）
 
@@ -52,19 +53,19 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 Adobe Analytics の新機能および修正点です。
 
-* [Adobe Analytics の新機能、機能強化および修正点です。](#aa-features)
+* [Adobe Analytics の新機能、機能強化および修正点](#aa-features)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [AppMeasurement](#appm)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
-### Adobe Analytics の新機能、機能強化および修正点です。{#aa-features}
+### Adobe Analytics の新機能、機能強化および修正点{#aa-features}
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| SameSite cookie 設定のサポート | [Analyticsによって設定されたすべてのcookieに、SAMSsite cookieの設定](https://web.dev/samesite-cookies-explained) が追加されます。この変更により、SameSite cookie フィールドが必要な Chrome のアップデートに準拠できます。Analytics cookieはデフォルトで設定 `none`されます。ファーストパーティドメイン（stats.domain.comなど）を使用している場合は、Adobe ClientCareをファーストパーティ収集ドメイン `lax` 用に設定できます。 |
+| SameSite cookie 設定のサポート | [SameSite cookie 設定](https://web.dev/samesite-cookies-explained)が Analytics によって設定されるすべての cookie に追加されます。この変更により、SameSite cookie フィールドが必要な Chrome のアップデートに準拠できます。Analytics cookie は、デフォルトで `none` になります。ファーストパーティドメイン（例：stats.domain.com）を排他的に使用している場合、Adobe ClientCare は、ファーストパーティ収集ドメイン用に `lax` を設定します。 |
 | Workspace：ドロップダウンの項目の上限が 50 から 200 に増加 | ドロップダウンフィルターに配置できる項目の最大数を 50 から 200 に増加しました。この強化は、すべての国（195）やすべての都道府県（26）をフィルターに追加するなどの状況への対応を可能にします。 |
-| A4TアクティビティインプレッションおよびアトリビューションIQがアトリビューションIQに対応 | Attribution IQに対して、Target for Target（A4T）指標を2つ有効にしました。アクティビティのインプレッションとアクティビティのコンバージョンを参照してください。Analysis Workspaceでは、これらの指標がReports&amp; Analyticsと比較して水増しされています。この変更により、ユーザーは「同じタッチ」アトリビューションモデルを適用できるようになり、Analysis WorkspaceをReports&amp; Analyticsと連動させることができます。 |
+| アトリビューション IQ 用に有効化された A4T アクティビティインプレッションおよびアクティビティのコンバージョン | アクティビティインプレッションおよびアクティビティコンバージョンの 2 つの Analytics for Target（A4T）指標をアトリビューション IQ 用に有効にしました。これまでの Analysis Workspace では、これらの指標は Reports &amp; Analytics に比べて膨らむ傾向にありました。この変更により、「同じタッチ」のアトリビューションモデルを適用できるようになり、Analysis Workspace と Reports &amp; Analytics が一致するようになります。 |
 
 #### 修正点
 
@@ -74,9 +75,9 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | 通知 | 追加日 または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| 履歴タイムゾーンのオフポイントのサポート | 2019 年 8 月 9 日 | Analyticsでは、タイムスタンプ付きヒットのタイムゾーンのオフセットを自動的に処理するようになりました。8月8日にこの変更に従って、履歴処理用のデータに読み込まれるシステムは、データを送信する前にタイムゾーンのオフセットを調整する必要がなくなります。 |
+| 履歴タイムゾーンオフセットのサポート | 2019 年 8 月 9 日 | Analytics は、タイムスタンプ付きのヒットに対して、タイムゾーンオフセットを自動的に処理するようになりました。8月8日にこの変更に従って、履歴処理用のデータに読み込まれるシステムは、データを送信する前にタイムゾーンのオフセットを調整する必要がなくなります。 |
 | 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | これらの制限は新しいものではありませんが、ドキュメント [に追加](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html)されました。 |
-| 新しいセグメント演算子の制限 | 追加日：2019 年 5 月 31 日 | Starting July 18, 2019, the segment operators _contains any of_, _does not contain any of_, _contains all of_ and _does not contain all_ of will be limited to 100 words per input field. この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。 制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。 これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
+| 新しいセグメント演算子の制限 | 追加日：2019 年 5 月 31 日 | 2019 年 7 月 18 日以降、セグメント演算子「_次のいずれかを含む_」、「_次のいずれかを含まない_」、「_次のすべてを含む_」および「_次のすべてを含まない_」は、入力フィールドあたり 100 語に制限されます。この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。 制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。 これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
 | **[!UICONTROL 日付分類]**&#x200B;および&#x200B;**[!UICONTROL 数値 2 分類]**&#x200B;に関するサポートの変更予定 | 2019 年 5 月 28 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。 この変更は 2019 年 7 月のメンテナンスリリースから有効になります。 「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。 <br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
 | _レポートの合計_&#x200B;の計算に対して予定されている変更 | 更新日：2019 年 7 月 9 日 | **2019 年 6 月 18 日**&#x200B;に、_レポートの合計_&#x200B;値の算出方法をすべてのディメンションおよび指標で共通化します。 これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されます。 この変更以前は、レポートに&#x200B;_未指定_&#x200B;が表示されているかどうかにかかわらず、合計に&#x200B;_未指定_&#x200B;の行項目を含めるレポートと含めないレポートが混在していました。 <br/>2019 年 6 月 18 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に含められるようになります。 さらに、_存在する_&#x200B;または&#x200B;_存在しない_&#x200B;ロジックを使用するセグメントは、この変更後、一部のディメンションで異なる結果が表示される可能性があります（特に、_未指定_&#x200B;を特有な値としてレポートするディメンションに影響します。リファラータイプディメンションの「手動入力/ブックマーク」行項目やデバイスタイプディメンションの「その他」行項目が該当します）。 この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。 |
 | [!DNL Analysis Workspace] CSV ダウンロード機能の更新点  | 2019 年 4 月 10 日 | 2019 年 4 月 11 日以降、**[!UICONTROL CSV ダウンロード]**&#x200B;および&#x200B;**[!UICONTORL クリップボードへのコピー]**（[!DNL Analysis Workspace]）にいくつかの変更が加えられ、書き出されたデータから書式が削除されます。  <ul><li>桁区切り記号は含まれなくなりました。 小数点文字は引き続き表示され、**[!UICONTROL コンポーネント／レポート設定／桁区切り記号]**&#x200B;で定義された形式が適用されます。 注意：小数点を小数点区切り記号として使用する数値は、書き出された CSV では引き続き引用されます。</li><li>通貨記号は表示されません。</li><li>パーセント記号は表示されません。 パーセンテージは 10 進形式になります。 例：75%は 0.75 と表示されます。</li><li>時間は秒単位で表示されます。</li><li>コホートテーブルでは、生の値のみが表示され、パーセント値は削除されます。</li><li>数値が無効な場合は、空のセルが表示されます。</li></ul> |
@@ -123,8 +124,8 @@ See [AppMeasurement release history](https://docs.adobe.com/content/help/en/anal
 **修正点および改善点**
 
 * 「管理」タブは管理者権限を持つユーザーアカウントにのみ表示されるようになりました（AAM-48557）。
-* リストユーザー API は、ユーザーのすべての詳細を返すようになりました（AAM-48662）。
-* 特性フォルダーリストのサイズを変更できるようになりました（AAM-48800）。
+* List Users API は、ユーザーのすべての詳細を返すようになりました（AAM-48662）。
+* 特性フォルダーの一覧表示枠のサイズを調整できるようになりました（AAM-48800）。
 * 複数の UI アクセシビリティが最適化されました（AAM-48865、AAM-48933）。
 * 管理ページおよびデータソースページの読み込みが最適化されました（AAM-48514）。
 
@@ -155,3 +156,15 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+
+## Advertising Cloud {#adcloud}
+
+8 月 10 日のリリースに向けて 2019 年 8 月 9 日に更新
+
+* （広告クラウドコンバージョントラッキングサービスの広告主）5月にリリースされたApple Intelligent Tracking Prevention（TP）2.2は、24時間後にApple Safariのブラウザーから自動的に削除されます。Advertising Cloudには、元のクリックから24時間以上Safari内で発生したコンバージョンを追跡できる新しいTPソリューションがあります。ソリューションではローカルストレージとiframeテクノロジーが使用されています。導入手順については、広告クラウド検索アカウントマネージャーにお問い合わせください。
+* 検索/アドバンス（ACM）で、Googleテキスト広告およびショッピング広告テンプレートに対してキャンペーンレベルの最終URLサフィックスを設定できるようになりました。
+* 顧客一致に適格なGoogle Adsアカウントの広告主は、以下を実行できるようになりました。
+   * AdobeオーディエンスセグメントのユーザーIDを使用して、Google広告の顧客一致オーディエンスを作成します。この機能を表示するには、広告主アカウントを許可するように設定する必要があります。
+   * 顧客データファイルをアップロードして、Google広告顧客の一致オーディエンスを作成します。このファイルは、連絡先情報（電子メールアドレス、電子メールアドレス、電話番号）、ユーザIDまたはモバイルデバイスIDで構成できます。一部の連絡先情報は、SHA-256アルゴリズムを使用してハッシュ化する必要があります。
+   * アドビのオーディエンスから作成されたオーディエンスを除く、Googleの顧客一致オーディエンスを更新します。データをアップロードして、そのオーディエンスの既存のデータをすべて追加、削除または置き換えることができます。すべての連絡先情報は、SHA-256アルゴリズムを使用してハッシュ化する必要があります。
+* オーディエンス/ターゲットおよびオーディエンス/除外表示には、「タイプ」列が含まれます。
