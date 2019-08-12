@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 8 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1e8bca79345949fe99903857eb24771d8a9d9f98
+source-git-commit: 4c069f031b48a2e1eccecc09e21e2a202da874b1
 
 ---
 
@@ -23,6 +23,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Experience Platform と管理](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
+* [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Ad Cloud](#adcloud)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
@@ -128,6 +129,25 @@ See [AppMeasurement release history](https://docs.adobe.com/content/help/en/anal
 * 特性フォルダーの一覧表示枠のサイズを調整できるようになりました（AAM-48800）。
 * 複数の UI アクセシビリティが最適化されました（AAM-48865、AAM-48933）。
 * 管理ページおよびデータソースページの読み込みが最適化されました（AAM-48514）。
+
+## Experience Manager {#aem}
+
+Adobe Experience Manager（AEM）の新機能、修正点および更新です。 安定性、セキュリティ、パフォーマンスを高めるために、オンプレミス環境のお客様には最新のパッチをデプロイすることをお勧めします。
+
+### 製品の提供終了
+
+Digital Publishing Suite Classic（DSC）は2019年8月31日に提供終了します。詳しくは [、Digital Publishing Suite Classic提供終了のFAQ](https://helpx.adobe.com/digital-publishing-suite/help/eol-statement-for-dpsc.html)を参照してください。
+
+### その他のリソース
+
+* [AEM 6.5 ラーニングとサポートホーム](https://helpx.adobe.com/support/experience-manager/6-5.html)
+* [AEM 6.4 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-4.html)
+* [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-3.html)
+* [AEM 6.2 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-2.html)
+* [Cloud Manager ユーザーガイド](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
+* [AEM ドキュメントの以前のバージョン](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
+* [Scene7 Publishing System リリースノート](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
+* [Livefyre リリースノート](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
 ## [!DNL Campaign] {#ac}
 
