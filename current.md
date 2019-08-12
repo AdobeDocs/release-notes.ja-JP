@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 8 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4c069f031b48a2e1eccecc09e21e2a202da874b1
+source-git-commit: 8daec90ad3ce5cd0ef2a523c52decd9b269b46b3
 
 ---
 
@@ -21,7 +21,7 @@ Adobe Experience Cloud の新機能および修正点です。
 **リリース日：2019 年 8 月 8 日**
 
 * [Experience Platform と管理](#platform)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) （更新日 **2019**&#x200B;年8月13日）
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -56,7 +56,7 @@ Adobe Analytics の新機能および修正点です。
 
 * [Adobe Analytics の新機能、機能強化および修正点](#aa-features)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
-* [AppMeasurement](#appm)
+* [AppMeasurement](#appm) (**Updated August 12, 2019**)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
@@ -93,7 +93,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### AppMeasurement {#appm}
 
-[!UICONTROL AppMeasurement] 2.16.0 は、2019 年 8 月 8 日にリリースされます。
+[!UICONTROL AppMeasurement] 2.16.0リリース（2019年8月8日ではなく、2019年8月8日）
 
 | 機能 | 説明 |
 | -----------| ---------- |
