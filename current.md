@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 8 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1483a7a90f2f3ab00cc471081631cb737f324a6b
+source-git-commit: 8ec590d7cbf63b67cfaf869f54c3707dbb5c2e83
 
 ---
 
@@ -20,7 +20,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 **リリース日：2019 年 8 月 8 日**
 
-* [Experience Platform と管理](#platform)
+* [Experience Cloudおよびエクスペリエンスプラットフォーム](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -29,7 +29,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) （ソリューションヘルプへのリンク）
 
-## [!UICONTROL Experience Platform] と管理 {#platform}
+## [!DNL Experience Cloud] および [!DNL Experience Platform]{#platform}
 
 [!UICONTROL Experience Platform]、Experience Cloud インターフェイス、製品管理、Experience Platform Launch、ID サービスおよびセキュリティ情報に関するリリースノートです。
 
