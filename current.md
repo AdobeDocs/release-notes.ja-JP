@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 8 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ec590d7cbf63b67cfaf869f54c3707dbb5c2e83
+source-git-commit: 3bd946a9ef7d6d6d2e17cec4385a2dd53a41df97
 
 ---
 
@@ -21,7 +21,7 @@ Adobe Experience Cloud の新機能および修正点です。
 **リリース日：2019 年 8 月 8 日**
 
 * [Experience Cloudおよびエクスペリエンスプラットフォーム](#platform)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) （**更新日2019**&#x200B;年8月21日）
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -54,7 +54,7 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 Adobe Analytics の新機能および修正点です。
 
-* [Adobe Analytics の新機能、機能強化および修正点](#aa-features)
+* [Adobe Analytics の新機能、機能強化および修正点](#aa-features)  (**Updated August 20, 2019**)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [AppMeasurement](#appm)
 
@@ -64,13 +64,16 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| SameSite cookie 設定のサポート | [SameSite cookie 設定](https://web.dev/samesite-cookies-explained)が Analytics によって設定されるすべての cookie に追加されます。この変更により、SameSite cookie フィールドが必要な Chrome のアップデートに準拠できます。Analytics cookie のデフォルト値は `none` です。ファーストパーティドメイン（例：stats.domain.com）のみをご利用の場合は、`lax` を設定するようカスタマーケアに依頼することもできます。 |
+| SameSite cookie 設定のサポート | [SAMSSite cookieの設定](https://web.dev/samesite-cookies-explained) は、Analyticsによって設定されたすべてのcookieに追加されます。この変更により、SameSite cookie フィールドが必要な Chrome のアップデートに準拠できます。Analytics cookie のデフォルト値は `none` です。ファーストパーティドメイン（例：stats.domain.com）のみをご利用の場合は、`lax` を設定するようカスタマーケアに依頼することもできます。 |
 | Workspace：ドロップダウンの項目の上限が 50 から 200 に増加 | ドロップダウンフィルターに配置できる項目の最大数を 50 から 200 に増加しました。この強化は、すべての国（195）やすべての都道府県（52）をフィルターに追加するなどの状況への対応を可能にします。 |
-| A4T 指標への Attribution IQ の有効化 | アクティビティインプレッション、アクティビティコンバージョンの 2 つの Analytics for Target（A4T）指標に Attribution IQ を有効化します。これまでの Analysis Workspace では、これらの指標は Reports &amp; Analytics に比べて膨らむ傾向にありました。この変更により、「同じタッチ」のアトリビューションモデルを適用できるようになり、Analysis Workspace と Reports &amp; Analytics が一致するようになります。 |
+| A4T 指標への Attribution IQ の有効化 | アクティビティインプレッション、アクティビティコンバージョンの 2 つの Analytics for Target（A4T）指標に Attribution IQ を有効化します。以前は、Analysis Workspaceでは、これらの指標がReports&amp; Analyticsと比較されていました。この変更により、「同じタッチ」のアトリビューションモデルを適用できるようになり、Analysis Workspace と Reports &amp; Analytics が一致するようになります。 |
 
 #### 修正点
 
 * フルスクリーンモードにおけるリアルタイムレポートのテキスト表示の問題を修正しました。（AN-183168）
+* （**2019年8月20日更新）**&#x200B;データ収集では、"@"記号を含むリダイレクトURLを拒否して、ホワイトリスト登録済みドメインを介して悪意のあるサイトへの攻撃者のリダイレクトを禁止しました。
+* （**2019年8月20日更新**） SAMSsite Cookie属性をサポートしていないブラウザー、およびヒットにサードパーティCookieが含まれている場合に、訪問者の移行がすべて無効になりました。
+* （**2019年8月20日更新**）新規訪問者のs_ vi cookieが最初のヒットに送信されなかった問題を修正しました。
 
 ### [!DNL Analytics] 管理者向けの重要な注意事項 {#aa-notices}
 
