@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 8 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a547f72e673f0e0dc0b5f803f187a6f24162015c
+source-git-commit: c4e89f21b3cd1231592f962bf5abfca49571f943
 
 ---
 
@@ -21,7 +21,7 @@ Adobe Experience Cloud の新機能および修正点です。
 **リリース日：2019 年 8 月 8 日**
 
 * [Experience Cloud および Experience Platform](#platform)
-* [!DNL Analytics](#analytics) （**更新日2019**&#x200B;年8月23日）
+* [!DNL Analytics](#analytics)（**更新日 2019 年 8 月 21 日**）
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -56,7 +56,7 @@ Adobe Analytics の新機能および修正点です。
 
 * [Adobe Analytics の新機能、機能強化および修正点](#aa-features)（**更新日 2019 年 8 月 21 日**）
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
-* [AppMeasurement](#appm) (**Updated August 23, 2019**)
+* [AppMeasurement](#appm)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
@@ -96,14 +96,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### AppMeasurement {#appm}
 
-[!UICONTROL AppMeasurement] 2.17.0は2019年8月23日にリリースされました。
-
-| 機能/修正 | 説明 |
-| -----------| ---------- |
-| Baiduのサポートの追加 | Baiduクエリ文字列の並べ替えのサポートが追加されました。 |
-| 修正 | オプトインの待機中にキューに登録されていたヒットの古い訪問者の値が原因で発生していた問題を修正しました。 |
-
-[!UICONTROL AppMeasurement] 2.16.0は2019年8月8日にリリースされました。
+[!UICONTROL AppMeasurement] 2.16.0 は、2019 年 8 月 8 日にリリースされます。
 
 | 機能 | 説明 |
 | -----------| ---------- |
