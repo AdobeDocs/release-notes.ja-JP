@@ -4,7 +4,7 @@ description: Experience Cloud リリースノートのテンプレート
 doc-type: リリースノート
 last-update: 2019 年 8 月
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: bf128d5ab0d16a15935f73fd8b80c7eab12b4e1f
 
 ---
@@ -21,13 +21,13 @@ Adobe Experience Cloud の新機能および修正点です。
 **リリース日：2019 年 8 月 8 日**
 
 * [Experience Cloud および Experience Platform](#platform)
-* [!DNL Analytics](#analytics) （**更新日2019**&#x200B;年8月23日）
+* [!DNL Analytics](#analytics)（**更新日 2019 年 8 月 24 日**）
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Ad Cloud](#adcloud)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) （ソリューションヘルプへのリンク）
+* [!DNL Target](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
+* [!DNL Primetime](https://helpx.adobe.com/jp/primetime/user-guide.html)（ソリューションヘルプへのリンク）
 
 ## [!DNL Experience Cloud] および [!DNL Experience Platform] {#platform}
 
@@ -35,7 +35,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 * [Experience Cloud インターフェイス](#core-services)
 * [Experience Platform Launch](#launch)
-* [セキュリティ速報および情報](https://helpx.adobe.com/security.html)（すべてのアドビ製品）
+* [セキュリティ速報および情報](https://helpx.adobe.com/jp/security.html)（すべてのアドビ製品）
 
 ### Experience Cloud インターフェイス {#core-services}
 
@@ -44,11 +44,11 @@ Adobe Experience Cloud の新機能および修正点です。
 * インターフェイスの外観を更新しました。（MCUI-6861、MCUI-6911、MCUI-6862）
 * Experience Cloud の [!UICONTROL Triggers] で、[!UICONTROL トリガー]定義の _Like_ 句が正常に動作しない問題を修正しました。（MCUI-6611）
 
-製品ドキュメントについては [、Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)を参照してください。
+製品ドキュメントについては、[Experience Cloud](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html) を参照してください。
 
 ### Experience Platform Launch {#launch}
 
-See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for release notes and product documentation.
+リリースノートおよび製品ドキュメントについては、[Experience Platform Launch](https://docs.adobe.com/content/help/ja-JP/launch/using/intro/release-notes/current.html) を参照してください。
 
 ## [!DNL Analytics] {#analytics}
 
@@ -56,15 +56,15 @@ Adobe Analytics の新機能および修正点です。
 
 * [Adobe Analytics の新機能、機能強化および修正点](#aa-features)（**更新日 2019 年 8 月 21 日**）
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
-* [AppMeasurement](#appm) (**Updated August 23, 2019**)
+* [AppMeasurement](#appm)（**更新日 2019 年 8 月 24 日**）
 
-For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
+製品ドキュメントについては、[Adobe Analytics ヘルプホーム](https://docs.adobe.com/content/help/ja-JP/analytics/landing/home.html)を参照してください。
 
 ### Adobe Analytics の新機能、機能強化および修正点{#aa-features}
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| SameSite cookie 設定のサポート | [SameSite cookie 設定](https://web.dev/samesite-cookies-explained)が Analytics によって設定されるすべての cookie に追加されます。この変更により、SameSite cookie フィールドが必要な Chrome のアップデートに準拠できます。Analytics cookie のデフォルト値は `none` です。If you have exclusively used a 1st-party domain (e.g. stats.domain.com) you can have Adobe Customer Care set it to `lax` for 1st-party collection domains. |
+| SameSite cookie 設定のサポート | [SameSite cookie 設定](https://web.dev/samesite-cookies-explained)が Analytics によって設定されるすべての cookie に追加されます。この変更により、SameSite cookie フィールドが必要な Chrome のアップデートに準拠できます。Analytics cookie のデフォルト値は `none` です。ファーストパーティドメイン（例：stats.domain.com）のみをご利用の場合は、`lax` を設定するようアドビカスタマーケアに依頼することもできます。 |
 | Workspace：ドロップダウンの項目の上限が 50 から 200 に増加 | ドロップダウンフィルターに配置できる項目の最大数を 50 から 200 に増加しました。この強化は、すべての国（195）やすべての都道府県（52）をフィルターに追加するなどの状況への対応を可能にします。 |
 | A4T 指標への Attribution IQ の有効化 | アクティビティインプレッション、アクティビティコンバージョンの 2 つの Analytics for Target（A4T）指標に Attribution IQ を有効化します。以前は、Analysis Workspace では、これらの指標は Reports &amp; Analytics に比べて膨らむ傾向にありました。この変更により、「同じタッチ」のアトリビューションモデルを適用できるようになり、Analysis Workspace と Reports &amp; Analytics が一致するようになります。 |
 
@@ -80,7 +80,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
 | 履歴タイムゾーンオフセットのサポート | 2019 年 8 月 9 日 | Analytics は、タイムスタンプ付きのヒットに対して、タイムゾーンオフセットを自動的に処理するようになりました。8 月 8 日のこの変更に従い、履歴処理用にデータで読み込むシステムは、データで送信する前にタイムゾーンオフセットを調整する必要がなくなりました。 |
-| 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | これらの制限は新しいものではありませんが、ドキュメント [に追加](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html)されました。 |
+| 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | これらの制限は新しいものではありませんが、[こちら](https://docs.adobe.com/content/help/ja-JP/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html)のドキュメントに追加されています。 |
 | 新しいセグメント演算子の制限 | 追加日：2019 年 5 月 31 日 | 2019 年 7 月 18 日以降、セグメント演算子「_次のいずれかを含む_」、「_次のいずれかを含まない_」、「_次のすべてを含む_」および「_次のすべてを含まない_」は、入力フィールドあたり 100 語に制限されます。この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
 | **[!UICONTROL 日付分類]**&#x200B;および&#x200B;**[!UICONTROL 数値 2 分類]**&#x200B;に関するサポートの変更予定 | 2019 年 5 月 28 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。この変更は 2019 年 7 月のメンテナンスリリースから有効になります。「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。<br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
 | _レポートの合計_&#x200B;の計算に対して予定されている変更 | 更新日：2019 年 7 月 9 日 | **2019 年 6 月 18 日**&#x200B;に、_レポートの合計_&#x200B;値の算出方法をすべてのディメンションおよび指標で共通化します。これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されます。この変更以前は、レポートに&#x200B;_未指定_&#x200B;が表示されているかどうかにかかわらず、合計に&#x200B;_未指定_&#x200B;の行項目を含めるレポートと含めないレポートが混在していました。<br/>2019 年 6 月 18 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に含められるようになります。さらに、_存在する_&#x200B;または&#x200B;_存在しない_&#x200B;ロジックを使用するセグメントは、この変更後、一部のディメンションで異なる結果が表示される可能性があります（特に、_未指定_&#x200B;を特有な値としてレポートするディメンションに影響します。リファラータイプディメンションの「手動入力/ブックマーク」行項目やデバイスタイプディメンションの「その他」行項目が該当します）。この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。 |
@@ -89,21 +89,21 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 | モバイルブラウザーのバージョン番号 | 2019 年 2 月 7 日 | 2019 年 1 月 8 日より、モバイルブラウザーバージョン番号を 2 桁から 1 桁に変更しました。この日以降、バージョンは先頭の 2 レベルのみ表示されます（例：_Firefox 64.0.2_ は _Firefox 64.0_ と表記されるようになりました）。 |
 | [!DNL Ad Hoc Analysis]のサポート終了  | 2019 年 1 月 29 日 | 2018 年 8 月 6 日、アドビは [!DNL Ad Hoc Analysis] のサポート終了の意向を表明しました。サポート終了日については確定次第お知らせします。<br/>サポート終了の予定や詳細については [Discover Workspace](https://adobe.ly/discoverworkspace) を参照してください。 |
 | 短い [!DNL Analytics] レポートリンク | 2019 年 1 月 14 日 | 2019 年 1 月 17 日（木）以降、直近 1 年間に訪問されていない短い [!DNL Analytics] レポートリンクは、定期的に削除されるようになります。 |
-| TLS 1.0 のサポート終了 | 2019 年 1 月 10 日更新 | 2019 年 2 月 11 日現在、Adobe Analytics レポートで TLS（Transport Layer Security）1.0 の暗号化がサポートされなくなっています。この変更は、最高レベルのセキュリティ基準を維持して、お客様のデータの安全を確保するための継続的な取り組みの一環です。If you are unable to connect to Adobe Analytics reporting after February 11, 2019, you should upgrade your browser to the [latest version](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/server-side-forwarding/ssf-requirements.html).<br/> 2019 年 2 月 20 日以降、Adobe Analytics のデータ収集で TLS 1.0 がサポートされなくなりました。この変更により、TLS 1.1 以上をサポートしていない旧型のデバイスや Web ブラウザーを使用しているエンドユーザーの [!DNL Analytics] データは収集されなくなりました。この変更が、お客様の顧客のデータやレポートに大きな影響を及ぼすことはないと認識しています。（お客様の Web サイトが既に TLS 1.0 をサポートしていない場合、影響は一切ありません。）<br/>2019 年 4 月 11 日以降、Adobe Analytics レポート API は TLS 1.0 の暗号化をサポートしていません。API にアクセスするお客様は、この変更による影響の有無を確認してください。 <ul><li>デフォルト設定で Java 7 を使用している API クライアントは、[TLS 1.2](https://www.java.com/en/configure_crypto.html) をサポートするように変更してください（「_Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2_」を参照、ブラウザーの翻訳機能をお使いください）。 </li><li>Java 8 を使用している API クライアントは、デフォルト設定が TLS 1.2 なので、影響を受けません。</li><li> その他のフレームワークを使用している API クライアントは、TLS 1.2 のサポートについてベンダーにお問い合わせください。</li></ul> |
+| TLS 1.0 のサポート終了 | 2019 年 1 月 10 日更新 | 2019 年 2 月 11 日現在、Adobe Analytics レポートで TLS（Transport Layer Security）1.0 の暗号化がサポートされなくなっています。この変更は、最高レベルのセキュリティ基準を維持して、お客様のデータの安全を確保するための継続的な取り組みの一環です。2019 年 2 月 11 日以降に Adobe Analytics レポートに接続できない場合は、ブラウザーを[最新バージョン](https://docs.adobe.com/content/help/ja-JP/analytics/admin/admin-tools/server-side-forwarding/ssf-requirements.html)にアップグレードしてください。<br/> 2019 年 2 月 20 日以降、Adobe Analytics のデータ収集で TLS 1.0 がサポートされなくなりました。この変更により、TLS 1.1 以上をサポートしていない旧型のデバイスや Web ブラウザーを使用しているエンドユーザーの [!DNL Analytics] データは収集されなくなりました。この変更が、お客様の顧客のデータやレポートに大きな影響を及ぼすことはないと認識しています。（お客様の Web サイトが既に TLS 1.0 をサポートしていない場合、影響は一切ありません。）<br/>2019 年 4 月 11 日以降、Adobe Analytics レポート API は TLS 1.0 の暗号化をサポートしていません。API にアクセスするお客様は、この変更による影響の有無を確認してください。 <ul><li>デフォルト設定で Java 7 を使用している API クライアントは、[TLS 1.2 をサポートするように変更](https://www.java.com/en/configure_crypto.html) をおこなってください。（「_Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2_」を参照、ブラウザーの翻訳機能をお使いください）。 </li><li>Java 8 を使用している API クライアントは、デフォルト設定が TLS 1.2 なので、影響を受けません。</li><li> その他のフレームワークを使用している API クライアントは、TLS 1.2 のサポートについてベンダーにお問い合わせください。</li></ul> |
 | データフィード：post_product_list 列 - サイズ変更 | 2019 年 1 月 9 日 | 2019 年 2 月 7 日、post_product_list 列のサイズを 64 KB から 16 MB に拡張されました。この変更は、処理中に post_product_list に追加されるマーチャンダイジング eVar 値により、製品および売上高の値の切り捨てが発生しないようにします。post_product_list の値を取得する処理を実行する場合、これらの処理が最大 16 MB の値に対応できるようにしてください。またはデータ取得の失敗を避けるために、値が 16 KB に達した時点で値を切り捨てるようにしてください。 |
 | [!DNL Analytics Live Stream] エンドポイントの管理における変更点 | 2018 年 12 月 20 日 | 2019 年 2 月 1 日以降、顧客からのアクティブな接続が 90 日間なかった [!DNL Live Stream] エンドポイントが無効化される場合があります。使用中の [!DNL Live Stream] エンドポイントについてはサポートに問い合わせて確認でき、必要に応じて再度有効にすることができます。また、サービス規定に従って顧客のプロセスで永続的な接続が維持されるように注意し、接続が切断されたり中断されたりしたときには再接続するように実装してください。 |
 | TLS 1.0 のサポート終了に伴う Adobe [!DNL Report Builder] の更新 | 2018 年 9 月 7 日 | TLS 1.0 のサポート終了に伴い、[!DNL Report Builder] ユーザーの皆様には 2019 年 2 月までにバージョン 5.6.21 をダウンロードされることをお勧めします。この日以降、以前のバージョンの [!DNL Report Builder] は機能しなくなります。 |
 
 ### AppMeasurement {#appm}
 
-[!UICONTROL AppMeasurement] 2.17.0は2019年8月23日にリリースされました。
+[!UICONTROL AppMeasurement] 2.17.0 は、2019 年 8 月 23 日にリリースされました。
 
-| 機能/修正 | 説明 |
+| 機能／修正 | 説明 |
 | -----------| ---------- |
-| Baiduのサポートの追加 | Baiduクエリ文字列の並べ替えのサポートが追加されました。 |
-| 修正 | オプトインの待機中にキューに登録されていたヒットの古い訪問者の値が原因で発生していた問題を修正しました。 |
+| Baidu サポートの追加 | Baidu クエリ文字列の並べ替えのサポートが追加されました。 |
+| 修正 | オプトインの待機中にキューに登録されたヒットの訪問者の値が更新されない問題を修正しました。 |
 
-[!UICONTROL AppMeasurement] 2.16.0は2019年8月8日にリリースされました。
+[!UICONTROL AppMeasurement] 2.16.0 は、2019 年 8 月 8 日にリリースされました。
 
 | 機能 | 説明 |
 | -----------| ---------- |
@@ -117,7 +117,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 * isReadyToTrack が true になる前に発生していた AppMeasurement クエリのバグを修正しました。
 
-See [AppMeasurement release history](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) for a release history of AppMeasurement on the following platforms:
+次のプラットフォームの AppMeasurement のリリース履歴については、[AppMeasurement リリース履歴](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)を参照してください。
 
 * JavaScript
 * iOS
@@ -146,17 +146,17 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 ### 製品のサポート終了
 
-Digital Publishing Suite Classic（DPSC）は、2019 年 8 月 31 日にサポートを終了します。詳しくは [、Digital Publishing Suite Classic提供終了のFAQ](https://helpx.adobe.com/digital-publishing-suite/help/eol-statement-for-dpsc.html)を参照してください。
+Digital Publishing Suite Classic（DPSC）は、2019 年 8 月 31 日にサポートを終了します。詳しくは、[Digital Publishing Suite Classic の提供終了（英語のみ）](https://helpx.adobe.com/jp/digital-publishing-suite/help/eol-statement-for-dpsc.html)を参照してください。
 
 ### その他のリソース
 
-* [AEM 6.5 ラーニングとサポートホーム](https://helpx.adobe.com/support/experience-manager/6-5.html)
-* [AEM 6.4 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-4.html)
-* [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-3.html)
-* [AEM 6.2 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-2.html)
-* [Cloud Manager ユーザーガイド](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [AEM ドキュメントの以前のバージョン](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
-* [Scene7 Publishing System リリースノート](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
+* [AEM 6.5 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-5.html)
+* [AEM 6.4 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-4.html)
+* [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-3.html)
+* [AEM 6.2 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-2.html)
+* [Cloud Manager ユーザーガイド](https://helpx.adobe.com/jp/experience-manager/cloud-manager/user-guide.html)
+* [AEM ドキュメントの以前のバージョン](https://helpx.adobe.com/jp/experience-manager/aem-previous-versions.html)
+* [Scene7 Publishing System リリースノート](https://marketing.adobe.com/resources/help/ja_JP/s7/release_notes/index.html)
 * [Livefyre リリースノート](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
 ## [!DNL Campaign] {#ac}
@@ -165,27 +165,27 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### Adobe Campaign Standard
 
-[キャンペーンStandard19.3リリース](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html)
+[Campaign Standard 19.3 リリース](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html)
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| External API Activity（パブリックベータ） | より深くパーソナライズするために、External API Activity を使用すると、REST API 呼び出しによってデータを外部システムからワークフローに持ってくることができます。REST エンドポイントは、顧客管理システム、Adobe I/O Runtime または Adobe Experience Cloud REST エンドポイント（例：Data Platform、Target、Analytics、Campaign）になることができます。この機能は、現在、パブリックベータです。詳しくは、 [詳細ドキュメント](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) とハウツービデオ [](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html)を参照してください。 |
-| ワークフローセグメントに関するレポート | この機能を使用すると、マーケティング担当者は配信パフォーマンスをセグメントコードで分類できます。ワークフローを作成し、セグメントアクティビティを使用して、配信母集団にセグメントを割り当てる場合、これらのセグメントは同じ配信に含めることができるようになりました。これにより、1 回の配信内の複数のセグメントに基づいた開封数／クリック数の統計を表示できます。詳しくは、 [詳細ドキュメント](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html) とハウツービデオ [](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/reporting/report-on-workflow-segments.html)を参照してください。 |
+| External API Activity（パブリックベータ） | より深くパーソナライズするために、External API Activity を使用すると、REST API 呼び出しによってデータを外部システムからワークフローに持ってくることができます。REST エンドポイントは、顧客管理システム、Adobe I/O Runtime または Adobe Experience Cloud REST エンドポイント（例：Data Platform、Target、Analytics、Campaign）になることができます。この機能は、現在、パブリックベータです。詳しくは、[詳細なドキュメント](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html)および[ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html)を参照してください。 |
+| ワークフローセグメントに関するレポート | この機能を使用すると、マーケティング担当者は配信パフォーマンスをセグメントコードで分類できます。ワークフローを作成し、セグメントアクティビティを使用して、配信母集団にセグメントを割り当てる場合、これらのセグメントは同じ配信に含めることができるようになりました。これにより、1 回の配信内の複数のセグメントに基づいた開封数／クリック数の統計を表示できます。詳しくは、[詳細なドキュメント](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)および[ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/reporting/report-on-workflow-segments.html)を参照してください。 |
 
 ### Adobe Campaign Classic
 
-[Campaign Classic19.1.3アップデート](https://docs.campaign.adobe.com/doc/AC/en/RN.html) -ビルド9031
+[Campaign Classic 19.1.3 の更新](https://docs.campaign.adobe.com/doc/AC/ja/RN.html) – ビルド 9031
 
 ### Adobe Campaign コントロールパネル
 
-[新しいコントロールパネル機能](https://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html) には、Campaign Classicがデータやファイル転送に接続するURLを追加する機能があります。
+[新しいコントロールパネルの機能](https://helpx.adobe.com/jp/campaign/kb/control-panel-instance-settings.html)には、データ／ファイル転送用に Campaign Classic が接続する URL を追加する機能が含まれます。
 
 [!UICONTROL コントロールパネル]は、AWS でホストされる Adobe Campaign Classic および Adobe Campaign Standard の両方のお客様が利用できます。コントロールパネルにアクセスするためにアップグレードする必要はありません。
 
 ### その他のリソース
 
-* Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
-* Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
+* Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/ja/RN.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 
 ## Advertising Cloud {#adcloud}
 
