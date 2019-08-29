@@ -64,7 +64,7 @@ Adobe Analytics の新機能および修正点です。
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| SameSite cookie 設定のサポート | [SameSite cookie 設定](https://web.dev/samesite-cookies-explained)が Analytics によって設定されるすべての cookie に追加されます。この変更により、SameSite cookie フィールドが必要な Chrome のアップデートに準拠できます。Analytics cookie のデフォルト値は `none` です。ファーストパーティドメイン（例：stats.domain.com）のみをご利用の場合は、`lax` を設定するようアドビカスタマーケアに依頼することもできます。 |
+| SameSite cookie 設定のサポート | [SameSite cookie 設定](https://web.dev/samesite-cookies-explained)が Analytics によって設定されるすべての cookie に追加されます。この変更により、SameSite cookie フィールドが必要な Chrome のアップデートに準拠できます。Analytics cookie のデフォルト値は `none` です。ファーストパーティドメイン（例：stats.domain.com）のみをご利用の場合は、`lax` を設定するようカスタマーケアに依頼することもできます。SameSite cookie の概要についてはこちらを参照ください：https://web.dev/samesite-cookies-explained |
 | Workspace：ドロップダウンの項目の上限が 50 から 200 に増加 | ドロップダウンフィルターに配置できる項目の最大数を 50 から 200 に増加しました。この強化は、すべての国（195）やすべての都道府県（52）をフィルターに追加するなどの状況への対応を可能にします。 |
 | A4T 指標への Attribution IQ の有効化 | アクティビティインプレッション、アクティビティコンバージョンの 2 つの Analytics for Target（A4T）指標に Attribution IQ を有効化します。以前は、Analysis Workspace では、これらの指標は Reports &amp; Analytics に比べて膨らむ傾向にありました。この変更により、「同じタッチ」のアトリビューションモデルを適用できるようになり、Analysis Workspace と Reports &amp; Analytics が一致するようになります。 |
 
