@@ -30,7 +30,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [Advertising Cloud](#adcloud)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
+* [!DNL Target](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
 * [!DNL Primetime](https://helpx.adobe.com/jp/primetime/user-guide.html)（ソリューションヘルプへのリンク）
 
 ## Experience Cloud および Experience Platform{#platform}
@@ -48,7 +48,7 @@ Experience Platform、Experience Cloud インターフェイス、製品管理�
 
 機能と修正点。
 
-製品ドキュメントについては、[Experience Cloud およびコアサービス](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)を参照してください。
+製品ドキュメントについては、[Experience Cloud およびコアサービス](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html)を参照してください。
 
 ### Experience Cloud ID サービス {#ecid}
 
@@ -91,7 +91,7 @@ Adobe Analytics の新機能および修正点です。
 * [iOS および Android 用の Media Analytics SDK （以前の VHL SDK）](#aa-va)
 * [Analytics 管理者向けの重要な注意事項](analytics-important-notices.md)
 
-製品ドキュメントについては、[Adobe Analytics ヘルプホーム](https://docs.adobe.com/content/help/en/analytics/landing/home.html)を参照してください。
+製品ドキュメントについては、[Adobe Analytics ヘルプホーム](https://docs.adobe.com/content/help/ja-JP/analytics/landing/home.html)を参照してください。
 
 ### Adobe Analytics の新機能 {#aa-features}
 
@@ -128,7 +128,7 @@ Adobe Analytics の新機能および修正点です。
 * 修正
 * 修正
 
-次のプラットフォームの AppMeasurement のリリース履歴については、[AppMeasurement リリース履歴](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)を参照してください。
+次のプラットフォームの AppMeasurement のリリース履歴については、[AppMeasurement リリース履歴](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)を参照してください。
 
 * JavaScript
 * iOS
