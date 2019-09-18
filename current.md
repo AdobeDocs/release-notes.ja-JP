@@ -5,12 +5,12 @@ doc-type: リリースノート
 last-update: 2019 年 9 月
 author: mfrei
 translation-type: ht
-source-git-commit: adb17defaa34adc0866985a5eb5a621e9fb36c7d
+source-git-commit: 8e959510cb32eef2e619f562cd998b4e75c2c8d3
 
 ---
 
 
-# Experience Cloud リリースノート-2019年9月
+# Experience Cloud リリースノート-2019 年 9 月
 
 Adobe Experience Cloud の新機能および修正点です。
 
@@ -268,6 +268,8 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 * [Campaign Classic 19.1.5 の更新](https://docs.campaign.adobe.com/doc/AC/ja/RN.html#9033) –ビルド 9033
 
 ### Adobe Campaign [!UICONTROL コントロールパネル]
+
+管理者ユーザーが IP アドレスをホワイトリストに登録して Campaign Classic インスタンスに接続できるようにする新機能を追加しました。さらに、管理者ユーザーはインスタンス、ビルドノアップグレード実施要件のリストを表示できるようになりました。詳しくは、[詳細ドキュメント](https://helpx.adobe.com/jp/campaign/kb/control-panel-instance-settings.html)を参照してください。
 
 アドビでは、ドメインの SSL 証明書の有効期限が切れる前に管理者ユーザーが通知を受信する新しい機能を追加しました。詳しくは、[詳細ドキュメント](https://helpx.adobe.com/jp/campaign/kb/control-panel-subdomains-certificates.html)を参照してください。
 
