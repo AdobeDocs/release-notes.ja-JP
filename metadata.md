@@ -1,6 +1,6 @@
 ---
 cloud: experience-cloud
-solution-title: Experience Cloud
+solution-title: ラーニングとサポート
 solution-hub-url: https://helpx.adobe.com/jp/support/experience-cloud.html
 solution-icon: assets/assets/experience-cloud-logo-24.png
 getting-started-title: 導入
@@ -10,8 +10,8 @@ tutorials-url: https://helpx.adobe.com/jp/experience-cloud/tutorials.html
 mini-toc-levels: '1'
 git-repo: https://github.com/AdobeDocs/release-notes.en
 index: true
-translation-type: ht
-source-git-commit: 8e54bd3d73d2729e22d09765069d311bc0bc5248
+translation-type: tm+mt
+source-git-commit: f7e667b83c7b82376ad9cf51b4495eb30b5707ed
 
 ---
 
