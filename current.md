@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 9 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8e959510cb32eef2e619f562cd998b4e75c2c8d3
+source-git-commit: eb150b48019a2fc54c3de3fa58475a9eb475505f
 
 ---
 
@@ -36,7 +36,7 @@ Experience Cloud インターフェイスおよび製品管理のリリースノ
 * 推奨される HTTP ヘッダーを含めるセキュリティ脆弱性を修正しました。（MCUI-9942）
 * Analytics ログイン会社間の切り替えの問題を修正しました。（MCUI-10049）
 
-For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
+製品ドキュメントについては、 [Experience cloudを参照してください](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)。
 
 ## Experience Platform {#platform}
 
@@ -44,7 +44,7 @@ Experience Platform、Experience Platform Launch、ID サービスおよびセ�
 
 * [Experience Platform Launch](#launch)
 * [Mobile Services および Mobile SDK](#mobile)
-* [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
+* [セキュリティ速報](https://helpx.adobe.com/security.html) （すべてのアドビ製品）
 
 ### Experience Platform Launch {#launch}
 
@@ -54,18 +54,26 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 リリース日：**9 月 26 日**
 
-**iOS（4.18.8）**
+**iOS: Version 4.18.8**
 
-* Analytics の呼び出しごとに SDK データがペアリングされた WatchOS アプリに同期されるバグを修正しました。
-* プッシュのクリックスルーペイロードをアプリ内メッセージの特性として使用できなかったバグを修正しました。
-* iOS 10 以降で廃止された UILocalNotification API の代わりとして、ユーザー通知フレームワーク API に対応しました。
-* iOS 12 以降で非推奨となった UIWebView の代わりとして、WKWebView に対応しました。
+リリース日：2019 年 9 月 20 日
 
-**Android 4.17.10**
+* In App Messaging:
+   * iOS 10以降を実行するデバイスで、UserNotificationsフレームワークを使用して、UserNotifications.frameworkにリンクされたアプリに対するローカル通知のスケジュールを設定できるようになりました。
+   * フルスクリーンメッセージでWebKit.frameworkのWKWebViewsが使用されるようになりました。これは、Xcodeプロジェクト内でリンクする必要があります。
+   * プッシュクリックスルーペイロードをアプリ内メッセージの特徴として使用できなかったバグを修正しました。
+   * クラッシュの問題を修正しました。
+* 一般 — Analyticsの呼び出しのたびに、SDKデータがペアのwatchOSアプリと同期されるバグを修正しました。
 
-* BCP 47 言語タグのサポートを追加しました。
+**Android:バージョン4.17.10**
+
+リリース日：2019 年 9 月 20 日
+
+* 一般：Android APIレベル21以降の一部の地域でのロケール文字列の生成を修正しました。
 
 **Unity**
+
+リリース日：2019 年 9 月 26 日
 
 * プラグインを 4.18.7（iOS 版）および 4.17.9（Android 版）に更新
 
@@ -83,14 +91,14 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| **Journey IQ：デバイス間分析** | 2019 年 9 月に、Adobe Analytics は、Journey IQ：デバイス間分析という強力な新機能を導入します。（この機能は、Analytics Ultimate のお客様にのみご利用いただけます。）デバイス間分析（CDA）は、Adobe Analytics をユーザー中心の分析ツールに変えます。CDA を使用すると、次のような質問に答えることができます。 <ul><li>何人のユーザーがブランドとやりとりしているか。ユーザーが使用しているデバイスの台数および種類は何か。それらはどのように重なっているか。</li><li>ユーザーは、どのようにしてモバイルデバイスでタスクを開始し、後でデスクトップ PC に移行してタスクを完了するか。あるデバイス上でのキャンペーンクリックスルーは、別のデバイスでのコンバージョンにつながっているか。</li><li>クロスデバイスのジャーニーを考慮した場合、キャンペーンの効果についての理解はどのように変化するか。ファネル分析はどのように変化するか。</li><li>ユーザーがあるデバイスから別のデバイスへと移動する際の、最も一般的なパスは何か。どこからドロップアウトするか。成功した場所はどこか。</li><li>複数のデバイスを所有するユーザーの動作は、単一のデバイスを所有するユーザーとはどのように異なるか。</li></ul><br/>To learn more, visit [adobe.ly/aacda](https://spark.adobe.com/page/8ZpjsX6Lp5XTM/). |
+| **Journey IQ：デバイス間分析** | 2019 年 9 月に、Adobe Analytics は、Journey IQ：デバイス間分析という強力な新機能を導入します。（この機能は、Analytics Ultimate のお客様にのみご利用いただけます。）デバイス間分析（CDA）は、Adobe Analytics をユーザー中心の分析ツールに変えます。CDA を使用すると、次のような質問に答えることができます。 <ul><li>何人のユーザーがブランドとやりとりしているか。ユーザーが使用しているデバイスの台数および種類は何か。それらはどのように重なっているか。</li><li>ユーザーは、どのようにしてモバイルデバイスでタスクを開始し、後でデスクトップ PC に移行してタスクを完了するか。あるデバイス上でのキャンペーンクリックスルーは、別のデバイスでのコンバージョンにつながっているか。</li><li>クロスデバイスのジャーニーを考慮した場合、キャンペーンの効果についての理解はどのように変化するか。ファネル分析はどのように変化するか。</li><li>ユーザーがあるデバイスから別のデバイスへと移動する際の、最も一般的なパスは何か。どこからドロップアウトするか。成功した場所はどこか。</li><li>複数のデバイスを所有するユーザーの動作は、単一のデバイスを所有するユーザーとはどのように異なるか。</li></ul><br/>To learn more, visit adobe.ly/aacda.[](https://spark.adobe.com/page/8ZpjsX6Lp5XTM/) |
 | **分類のアーキテクチャの更新** | 9 月から、分類アーキテクチャの刷新が数ヶ月かけて段階的にリリースされます。9 月のリリースは、少数のアーリーアダプター向けの限定公開です。<br/>この刷新により、アップロードしたデータがレポートに反映される時間（ルールロジックを含む）が大幅に削減されます。 |
 
 #### 修正点
 
 * メインの Experience Cloud メニューから[!UICONTROL ユーザー]と[!UICONTROL オファー]コアサービスにアクセスできない問題を修正しました。（AN-184294）
 * [!UICONTROL Analysis Workspace] の左側のレールにスクロールバーが表示される場合と表示されない場合があり、ちらつきが発生する問題を修正しました。（AN-183904）
-* エラーレポートの問題を修正しました。赤のエラーインジケーターだけでなく、より具体的なエラーメッセージが表示されるようになります。特に、負荷が大きい場合、エラーによって発生する場合、または複雑すぎるレポートリクエストの作成によって、問題が発生するタイミングを理解するのに役立ちます。(AN-184135) More…[](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/optimizing-performance.html)
+* エラーレポートの問題を修正しました。赤のエラーインジケーターだけでなく、より具体的なエラーメッセージが表示されるようになります。特に、負荷が大きい場合、エラーによって発生する場合、または複雑すぎるレポートリクエストの作成によって、問題が発生するタイミングを理解するのに役立ちます。(AN-184135) [詳細…](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/optimizing-performance.html)
 * `.pdf/.xls/.rtf` 形式でフォールアウトレポートを正常にダウンロードできない問題を修正しました。（AN-183165）
 * Experience Cloud 経由でログインし、別の Experience Cloud ソリューションに切り替えたり、別のログイン会社に切り替える際の問題を修正しました。（AN-183376）
 * スケジュールされたプロジェクトのアセット転送が正しく機能しない問題を修正しました。グループは [!UICONTROL Admin Console] で管理されるので、アセットの移行時にユーザー間でコピーされなくなりました。（AN-183751）
@@ -119,7 +127,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### [!DNL AppMeasurement] {#appm}
 
-See AppMeasurement for Javascript release notes.[](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)
+JavaScript版AppMeasurementリ [リースノートを参照してください](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)。
 
 ## Audience Manager {#aam}
 
@@ -131,7 +139,7 @@ Audience Manager の新機能、拡張機能および修正点です。
 | -----------| ---------- |  
 | **[[!DNL People-Based Destinations]](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)** | [!DNL People-Based Destinations] は、有料の Audience Manager アドオンです。このアドオンは、ユーザーベースの環境（Facebook など）をまたいで、ハッシュ化された識別子（電子メールアドレスなど）を使用して、ファーストパーティのオーディエンスセグメントをアクティブ化するのに役立ちます。 |
 | **[Configuring Twitter Tailored Audiences as a Self-Service Device-Based Destination](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/device-based/twitter-tailored-audiences.html)** | Twitter の宛先をセルフサービス設定モデルに移行中です。この記事では、移行後に作業を続行するために、既存の Twitter 統合に対しておこなう必要がある操作について説明します。 |
-| **[Audience Marketplace Billing Examples](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-buyer-billing.html#billing-examples)** | 新しい例、「ケース 3」を追加しました。この例では、アクティブ化とモデリングのユースケースを使用して、セグメントに対する課金のしくみについて説明します。 |
+| **[Audience Marketplaceの請求例](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-buyer-billing.html#billing-examples)** | 新しい例、「ケース 3」を追加しました。この例では、アクティブ化とモデリングのユースケースを使用して、セグメントに対する課金のしくみについて説明します。 |
 
 **修正点および改善点**
 
@@ -155,29 +163,29 @@ Cloud Manager リリース 2019.8.0 では、様々なバグの修正、ビル�
 
 **ソフトウェア配布**
 
-[ソフトウェア配布は](https://downloads.experiencecloud.adobe.com/) 、AEMパッケージの検索とダウンロードを簡単にするように設計された新しいユーザーインターフェイスです。 現在はベータステータスであり、Adobe Managed Services のお客様のみ利用できます。
+[Software Distribution](https://downloads.experiencecloud.adobe.com/) is the new user interface designed to simplify the search and download of AEM Packages. 現在はベータステータスであり、Adobe Managed Services のお客様のみ利用できます。
 
-* [Package Share will remain accessible until all customers have access to Software Distribution.](https://helpx.adobe.com/experience-manager/6-5/sites/administering/using/package-manager.html#PackageShare)
+* [パッケージ共有は](https://helpx.adobe.com/experience-manager/6-5/sites/administering/using/package-manager.html#PackageShare) 、すべてのお客様がソフトウェア配布にアクセスできるまでアクセス可能です。
 * すべてのパッケージは、Package ShareとSoftware Distributionの両方から入手できます。
 
 ### 製品メンテナンス
 
 **AEM メンテナンスリリースのロードマップ**
 
-See the AEM maintenance release roadmap as published here.[](https://helpx.adobe.com/experience-manager/maintenance-releases-roadmap.html)
+AEMメンテナンスリリースのロードマップを参照して [ください](https://helpx.adobe.com/experience-manager/maintenance-releases-roadmap.html)。
 
 ### セルフサービス
 
 **Asset Link 1.1 プレリリース**
 
-* [About Adobe Asset Link Prerelease](https://helpx.adobe.com/enterprise/using/adobe-asset-link-prerelease.html)
+* [Adobe Asset Link Prereleaseについて](https://helpx.adobe.com/enterprise/using/adobe-asset-link-prerelease.html)
 * [プレリリース用のAEM for Adobe Assetリンクの設定](https://helpx.adobe.com/enterprise/using/configure-aem-for-aal-prerelease.html)
 
 **AEM Desktop App 2.0**
 
 Mac 版 AEM Desktop App 2.0 は 2019 年 8 月 30 日にリリースされました。Windows 版 AEM Desktop App 2.0 は 9 月上旬にリリース予定です。
 
-Access documentation and downloads here.[](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html)
+ドキュメントとダウンロードはこち [ら](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html)。
 
 **アセットスマートタグ**
 
@@ -238,7 +246,7 @@ AEM Forms の自動フォーム変換機能サービスのドキュメントを�
 * [AEM 6.3 ラーニングとサポートホーム](https://helpx.adobe.com/support/experience-manager/6-3.html)
 * [AEM 6.2 ラーニングとサポートホーム](https://helpx.adobe.com/support/experience-manager/6-2.html)
 * [Cloud Manager ユーザーガイド](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [Older Versions of AEM Documentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
+* [AEMドキュメントの旧バージョン](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
 * [Dynamic Media Classicヘルプホーム](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
 * [Dynamic Media リリースノート](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre リリースノート](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
