@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 9 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: eb150b48019a2fc54c3de3fa58475a9eb475505f
+source-git-commit: b8639c07c29e929b786b515b0d8e1e3cb89fa45a
 
 ---
 
@@ -26,8 +26,8 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) （ソリューションヘルプへのリンク）
+* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
 ## Experience Cloud インターフェイス {#ecloud}
 
@@ -36,7 +36,7 @@ Experience Cloud インターフェイスおよび製品管理のリリースノ
 * 推奨される HTTP ヘッダーを含めるセキュリティ脆弱性を修正しました。（MCUI-9942）
 * Analytics ログイン会社間の切り替えの問題を修正しました。（MCUI-10049）
 
-製品ドキュメントについては、 [Experience cloudを参照してください](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)。
+For product documentation, see Experience Cloud.[](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
 
 ## Experience Platform {#platform}
 
@@ -44,7 +44,7 @@ Experience Platform、Experience Platform Launch、ID サービスおよびセ�
 
 * [Experience Platform Launch](#launch)
 * [Mobile Services および Mobile SDK](#mobile)
-* [セキュリティ速報](https://helpx.adobe.com/security.html) （すべてのアドビ製品）
+* [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
 
 ### Experience Platform Launch {#launch}
 
@@ -52,15 +52,13 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 ### Mobile Services および Mobile SDK {#mobile}
 
-リリース日：**9 月 26 日**
-
-**iOS: Version 4.18.8**
+**iOS:バージョン4.18.8**
 
 リリース日：2019 年 9 月 20 日
 
-* In App Messaging:
-   * iOS 10以降を実行するデバイスで、UserNotificationsフレームワークを使用して、UserNotifications.frameworkにリンクされたアプリに対するローカル通知のスケジュールを設定できるようになりました。
-   * フルスクリーンメッセージでWebKit.frameworkのWKWebViewsが使用されるようになりました。これは、Xcodeプロジェクト内でリンクする必要があります。
+* アプリ内メッセージ：
+   * On devices running iOS 10 or newer, the UserNotifications framework is now used to schedule local notifications for apps that are linked to the UserNotifications.framework .
+   * Fullscreen messages now use WKWebViews from WebKit.framework, which must be linked in your Xcode project.
    * プッシュクリックスルーペイロードをアプリ内メッセージの特徴として使用できなかったバグを修正しました。
    * クラッシュの問題を修正しました。
 * 一般 — Analyticsの呼び出しのたびに、SDKデータがペアのwatchOSアプリと同期されるバグを修正しました。
@@ -98,7 +96,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 * メインの Experience Cloud メニューから[!UICONTROL ユーザー]と[!UICONTROL オファー]コアサービスにアクセスできない問題を修正しました。（AN-184294）
 * [!UICONTROL Analysis Workspace] の左側のレールにスクロールバーが表示される場合と表示されない場合があり、ちらつきが発生する問題を修正しました。（AN-183904）
-* エラーレポートの問題を修正しました。赤のエラーインジケーターだけでなく、より具体的なエラーメッセージが表示されるようになります。特に、負荷が大きい場合、エラーによって発生する場合、または複雑すぎるレポートリクエストの作成によって、問題が発生するタイミングを理解するのに役立ちます。(AN-184135) [詳細…](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/optimizing-performance.html)
+* エラーレポートの問題を修正しました。赤のエラーインジケーターだけでなく、より具体的なエラーメッセージが表示されるようになります。特に、負荷が大きい場合、エラーによって発生する場合、または複雑すぎるレポートリクエストの作成によって、問題が発生するタイミングを理解するのに役立ちます。(AN-184135) More…[](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/optimizing-performance.html)
 * `.pdf/.xls/.rtf` 形式でフォールアウトレポートを正常にダウンロードできない問題を修正しました。（AN-183165）
 * Experience Cloud 経由でログインし、別の Experience Cloud ソリューションに切り替えたり、別のログイン会社に切り替える際の問題を修正しました。（AN-183376）
 * スケジュールされたプロジェクトのアセット転送が正しく機能しない問題を修正しました。グループは [!UICONTROL Admin Console] で管理されるので、アセットの移行時にユーザー間でコピーされなくなりました。（AN-183751）
@@ -127,7 +125,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### [!DNL AppMeasurement] {#appm}
 
-JavaScript版AppMeasurementリ [リースノートを参照してください](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)。
+See AppMeasurement for Javascript release notes.[](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)
 
 ## Audience Manager {#aam}
 
@@ -163,7 +161,7 @@ Cloud Manager リリース 2019.8.0 では、様々なバグの修正、ビル�
 
 **ソフトウェア配布**
 
-[Software Distribution](https://downloads.experiencecloud.adobe.com/) is the new user interface designed to simplify the search and download of AEM Packages. 現在はベータステータスであり、Adobe Managed Services のお客様のみ利用できます。
+[ソフトウェア配布は](https://downloads.experiencecloud.adobe.com/) 、AEMパッケージの検索とダウンロードを簡単にするように設計された新しいユーザーインターフェイスです。 現在はベータステータスであり、Adobe Managed Services のお客様のみ利用できます。
 
 * [パッケージ共有は](https://helpx.adobe.com/experience-manager/6-5/sites/administering/using/package-manager.html#PackageShare) 、すべてのお客様がソフトウェア配布にアクセスできるまでアクセス可能です。
 * すべてのパッケージは、Package ShareとSoftware Distributionの両方から入手できます。
@@ -189,7 +187,7 @@ Mac 版 AEM Desktop App 2.0 は 2019 年 8 月 30 日にリリースされまし
 
 **アセットスマートタグ**
 
-Learn how to update a certificate after it has expired here.[](https://helpx.adobe.com/experience-manager/6-5/assets/using/config-smart-tagging.html#Obtainpubliccertificate)
+証明書の有効期限が切れた後に証明書を更新する方法については、ここを参照し [てくださ](https://helpx.adobe.com/experience-manager/6-5/assets/using/config-smart-tagging.html#Obtainpubliccertificate)い。
 
 **AEM 6.5 Screens ユーザーガイド**
 
