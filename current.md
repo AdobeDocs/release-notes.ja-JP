@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 10 月 日
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e45341be6a29eb93bd7b721b9331b5be8e52bca3
+source-git-commit: 7a62b190f260c5384340559b237e17eaf21e1892
 
 ---
 
@@ -47,7 +47,7 @@ For product documentation, see [Experience Cloud](https://docs.adobe.com/content
 Experience Platform、Experience Platform Launch、ID サービスおよびセキュリティ速報のリリースノートです。
 
 * [Experience Platform Launch](#launch)
-* [セキュリティ速報および情報](https://helpx.adobe.com/security.html) (All Adobe products)
+* [セキュリティ速報および情報](https://helpx.adobe.com/security.html) （すべてのアドビ製品）
 
 ### Experience Platform Launch {#launch}
 
@@ -67,18 +67,18 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| Privacy Service API: CCPA | The California Consumer Privacy Act (CCPA) enhances privacy rights and consumer protection for residents of California, United States. This Act is set to become effective on January 1, 2020.<br/>The CCPA provides new data privacy rights to California residents, such as the right to access and delete their personal data, to know whether their personal data is sold or disclosed (and to whom), and to refuse the sale of their personal data.<br/>In anticipation of the CCPA, the Privacy Service will support requests to opt out of the selling of personal data.<br/>The Privacy Service was formerly called the GDPR Service and retains all the previous functionality, now extended to support CCPA.<br/>CCPA in Analytics: Privacy Service Overview`[Link to new CCPA page in Analytics]()`<br/>[](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
-| Privacy Reporting: Analytics Admin Console | Enabling Privacy Reporting for Analytics adds a set of reserved variables to a report suite.  これらの変数は、ヒットレベルでの消費者の同意データの収集を支援するように設計されています。<br/>新しいディメンション：<br/><ul><li>Consent Management Opt-Out</li><li>同意管理オプトイン</li><li>同意管理変数： `[Link to new Consent Variables page in Analytics]()`</li></ul> |
-| オーディオとビデオの分析：プライバシーサポート | 2つの新しい変数がメディアコレクションAPIに追加されました。<br/><ul><li>analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul>これらは、ヒット時の消費者の同意のステータスを取得するために使用できるオプションの変数です。<br/>[メディア収集APIドキュメ](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/>ント新しいAnalytics Consent Managementコンテキストデータ変数がフェデレーテッド分析フォームに追加されました。 これらの変数を、フェデレーションの「共有からのオプトアウト」または「フェデレーションのヒットの販売」のフラグ付けに使用できるようになりました。<br/>[フェデレーテッドフォームのダウンロード](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
+| プライバシーサービスAPI:CCPA | カリフォルニア消費者プライバシー法(CCPA)は、米国カリフォルニア州在住者のプライバシー権と消費者保護を強化します。 This Act is set to become effective on January 1, 2020.<br><br/>CCPAは、カリフォルニア州在住者に対し、個人データのアクセス権や削除権、個人データの販売または開示（および相手）の有無、個人データの販売を拒否する権利など、新しいデータプライバシー権を提供する。<br><br/>CCPAに備えて、プライバシーサービスは個人データの販売を停止する要求をサポートします。<br><br/>The Privacy Service was formerly called the GDPR Service and retains all the previous functionality, now extended to support CCPA.<br/>AnalyticsでのCCPA:プライバ <br><br/>[シーサービスの概要](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
+| プライバシーレポート：Analytics管理コンソール | Analyticsのプライバシーレポートを有効にすると、予約済み変数のセットがレポートスイートに追加されます。  これらの変数は、ヒットレベルでの消費者の同意データの収集を支援するように設計されています。<br/>New Dimensions:<br/><ul><li>Consent Management Opt-Out</li><li>Consent Management Opt-In</li><li>Consent Management Variables: </li></ul> |
+| Audio and Video Analytics: Privacy Support | Two new variables have been added to the Media Collection API:<br/><ul><li> analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul>これらは、ヒット時の消費者の同意のステータスを取得するために使用できるオプションの変数です。 [メディア収集APIドキュメ](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/>ント新しいAnalytics Consent Managementコンテキストデータ変数がフェデレーテッド分析フォームに追加されました。 これらの変数を、フェデレーションの「共有からのオプトアウト」または「フェデレーションのヒットの販売」のフラグ付けに使用できるようになりました。 [フェデレーテッドフォームのダウンロード](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
 | Analysis Workspace:フリーフォームテーブルの合計の更新 | フリーフォームテーブルに、テーブルの合計と **[!UICONTROL 総合計の]** 2つの合計が含まれる **[!UICONTROL ようになりました]**。 表の合計行は、適用されたレポートフィ [ルターを考慮し](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) ます。 以前は、セグメント化のみが影響を受けていました。 [詳細](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/workspace-totals.html)<br/>：列設定に、「合計を表 **[!UICONTROL 示]** 」オプ **[!UICONTROL ションと「総合計を表示]** 」オプションが追加さ **[!UICONTROL れました]**。<br/>このフリーフォーム合計の変更により、依存するビジュアライゼーション(リンクされた概要番号ビジュアライゼーション **** )、およびCSVおよびPDFデータのエクスポートが更新されます。 |
-| Analysis Workspace: Option to remove Unspecified/None | 「未指定（なし）」を簡単に削除する機能が、フィルターをレポートするオプションとして追加されました。 |
+| Analysis Workspace:「未指定」または「なし」を削除するオプション | 「未指定（なし）」を簡単に削除する機能が、フィルターをレポートするオプションとして追加されました。 |
 | Analysis Workspace:紫の精度のコンポーネントの廃止 | 紫の精度の時間コンポーネント（分、時間、日、週、月、四半期、年）は廃止されました。 紫の時間コンポーネントは、常にオレンジ色の時間ディメンションとまったく同じように動作するので、この変更によってエクスペリエンスがシンプルになります。 **紫色の時間コンポーネントの** 1つを以前に使用した場合は、何も行う必要はありません。<br/>この変更により、紫の時間セク **[!UICONTROL ションも]** 「日付範囲」に名前が変更 **[!UICONTROL されました]**。 |
 
 #### 修正点
 
 * Analysis Workspace:左側のレールでディメンション項目を検索すると、検索結果が正しくない問題を修正しました。 （AN-185065）
-* Adobe Audience Manager(AAM)で共有セグメントを削除または非公開にできない問題を修正しました。 AAMが応答しない場合にセグメントを削除しないように修正しました。 (AN-185882、AN-185883、AN-184607)
-* Fixed a timeout issue with being unable to load segments in Ad Hoc Analysis. （AN-184654）
+* Fixed issues with being unable to delete or unpublish shared segments in Adobe Audience Manager (AAM). The fix is to not delete the segment if AAM is unresponsive. (AN-185882、AN-185883、AN-184607)
+* Ad Hoc Analysisでセグメントを読み込めない場合にタイムアウトになる問題を修正しました。 （AN-184654）
 * Fixed an issue that occurred when the report suite you last used was subsequently hidden or you no longer had permissions to access this report suite. In this case, you could no longer log in through Experience Cloud. （AN-181777）
 * Fixed a timeout issue in segments that made it difficult to create a VRS based on a segment. （AN-179684）
 
@@ -87,11 +87,11 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
 | TLS 1.1 のサポート終了 | 2019 年 10 月 4 日 | By March 31, 2020, Adobe Analytics will remove support for TLS 1.1. This change is part of our ongoing efforts to maintain the highest security standards and promote the safety of customer data. |
-| San Jose FTP Broker Ending for London and Singapore | 2020 年 7 月 | For customers in London and Singapore, we will no longer be supporting brokering of data between London or Singapore and the San Jose data center ftp.omniture.com.[](ftp://ftp.omniture.com/)<br/>For London use ftp3.omniture.comFor Singapore use ftp4.omniture.com[](ftp://ftp3.omniture.com/)<br/>[](ftp://ftp4.omniture.com/) |
+| サンノゼFTPブローカー，ロンドンとシンガポールで終了 | 2020 年 7 月 | ロンドンおよびシンガポールのお客様は、ロンドンまたはシンガポールとサンノゼのデータセンター [ftp.omniture.comとの間のデータのブローカリングをサポートしなくなります](ftp://ftp.omniture.com/)。<br/>ロンドンの場 [合はftp3.omniture.](ftp://ftp3.omniture.com/)<br/>comシンガポールの場合は [ftp4.omniture.comを使用します。](ftp://ftp4.omniture.com/) |
 | Analysis Workspace フリーフォームテーブルの合計を更新 | 2019 年 9 月 12 日 | 2019年10月に、フリーフォームテーブルの合計行が、適用されたレポートフィルターに対す [る課金を開始し](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) ます。 これまでは、合計はセグメント化にのみが反映されていました。この変更により、エクスポートされた CSV や PDF データだけでなく、依存するビジュアライゼーション（例：リンクされた [!UICONTROL 概要番号]ビジュアライゼーションなど）も更新されます。 |
 | Analytics ユーザーの `createDate` フィールドに関する変更予定 | 2019 年 8 月 30 日 | 2019 年 10 月または 2019 年 11 月に、Analytics ユーザーの `createDate` フィールドが米国太平洋時刻から、タイムゾーン情報を反映した正しい形式に更新されます。（AN-183468） |
 | 履歴タイムゾーンオフセットのサポート | 2019 年 8 月 9 日 | Analytics は、タイムスタンプ付きのヒットに対して、タイムゾーンオフセットを自動的に処理するようになりました。この変更に従い、履歴処理用にデータで読み込むシステムは、データで送信する前にタイムゾーンオフセットを調整する必要がなくなりました。 |
-| 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | These limits are not new, but have been added to the documentation here.[](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html) |
+| 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | これらの制限は新しいものではありませんが、ここで説明するドキュメントに追加さ [れました](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html)。 |
 | 新しいセグメント演算子の制限 | 追加日：2019 年 5 月 31 日 | 2019 年 7 月 18 日以降、セグメント演算子「_次のいずれかを含む_」、「_次のいずれかを含まない_」、「_次のすべてを含む_」および「_次のすべてを含まない_」は、入力フィールドあたり 100 語に制限されます。この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
 | **[!UICONTROL 日付分類]**&#x200B;および&#x200B;**[!UICONTROL 数値 2 分類]**&#x200B;に関するサポートの変更 | 2019 年 5 月 28 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。この変更は 2019 年 7 月のメンテナンスリリースから有効になりました。「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。<br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
 | _レポートの合計_&#x200B;の計算に対する変更 | 更新日：2019 年 7 月 9 日 | **2019 年 6 月 18 日**&#x200B;に、Adobe Analytics では、_レポートの合計_&#x200B;値の算出方法をすべてのディメンションおよび指標で共通化しました。これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されました。この変更以前は、レポートに&#x200B;_未指定_&#x200B;が表示されているかどうかにかかわらず、合計に&#x200B;_未指定_&#x200B;の行項目を含めるレポートと含めないレポートが混在していました。<br/>2019 年 6 月 18 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に含められるようになります。さらに、_存在する_&#x200B;または&#x200B;_存在しない_&#x200B;ロジックを使用するセグメントは、この変更後、一部のディメンションで異なる結果が表示される可能性があります（特に、_未指定_&#x200B;を特有な値としてレポートするディメンションに影響します。リファラータイプディメンションの「手動入力/ブックマーク」行項目やデバイスタイプディメンションの「その他」行項目が該当します）。この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。 |
@@ -106,7 +106,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### [!DNL AppMeasurement] {#appm}
 
-JavaScript版AppMeasurementリ [リースノートを参照してください](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)。
+See AppMeasurement for Javascript release notes.[](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)
 
 ## Audience Manager {#aam}
 
@@ -118,8 +118,8 @@ Audience Manager の新機能、拡張機能および修正点です。
 * 特性データソースとID同期を持たない訪問者プロファイルに対して、誤って生成されたアクティビティ特性メンバーシップが削除されました。(AAM-45371)
 * 無効なグローバルデバイスIDがグローバルデータソースから削除されました。 Audience Managerで受け [](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html) 入れられる有効なデバイスIDがどのように表示されるかを確認するには、「グローバルデータソース」を参照してください(AAM-41259)。
 * 保護されたセグメントを削除しようとすると、セグメントページが応答を停止するバグを修正しました。(AAM-49881)
-* Twitter用にカスタマイズされたオーディエンスの宛先を編集する場合、 [!UICONTROL Account] Selectorがアクティブになるのは、その宛先にアカウントが割り当てられて [!DNL Twitter Ads] いない場合のみです(AAM-49975)。
-* 購読が無効な場合に [!UICONTROL Audience Marketplace] データフィードが無効にならないバグを修正しました。(AAM-49640)
+* When editing destinations for Twitter Tailored Audiences, the Account selector is now active only if the destination does not have a  account assigned (AAM-49975).[!DNL Twitter Ads]
+* Fixed a bug preventing users from disabling Audience Marketplace data feeds when subscriptions are disabled (AAM-49640).
 * Audience Manager ユーザーインターフェイスのアクセシビリティに関するいくつかの改善を行いました。
 
 ## Experience Manager {#aem}
@@ -146,19 +146,19 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 ### セルフサービス
 
-* **Scene7:アセットの再処理ワークフロー**
+* **Scene7: Reprocess Assets workflow**
 
-   後で変更した既存の処理プロファイルが既に存在するフォルダー内のアセットを再処理できるようになりました。
-処理プ [ロファイルを編集した後のフォルダー内のアセットの再処理を参照してください](https://helpx.adobe.com/experience-manager/6-5/assets/using/processing-profiles.html#Reprocessingassetsinafolderafteryouhaveediteditsprocessingprofile)。
+   You can now reprocess assets in a folder that already has an existing processing profile that you later changed.
+See Reprocessing assets in a folder after you have edited its processing profile.[](https://helpx.adobe.com/experience-manager/6-5/assets/using/processing-profiles.html#Reprocessingassetsinafolderafteryouhaveediteditsprocessingprofile)
 
-* **Dynamic Media ViewerとAdobe AnalyticsおよびAdobe Launchの統合**
+* **Integration of Dynamic Media Viewers with Adobe Analytics and Adobe Launch**
 
    Dynamic Media Viewers Extension for Adobe LaunchとDynamic Media Viewer 5.13のリリースにより、Dynamic Media、Adobe AnalyticsおよびAdobe Launchのお客様は、Adobe Launch設定で、Dynamic Media Viewerに固有のイベントとデータを使用できます。
-詳しくは、 [ダイナミックメディアビューアとAdobe AnalyticsおよびAdobe launchの統合を参照してください](https://helpx.adobe.com/experience-manager/6-5/assets/using/launch.html)。
+See Integrating Dynamic Media Viewers with Adobe Analytics and Adobe Launch.[](https://helpx.adobe.com/experience-manager/6-5/assets/using/launch.html)
 
-* **AEM desktop app**
+* **AEMデスクトップアプリ**
 
-   AEM Assetsで作業するクリエイティブ、マーケター、基幹業務ユーザー向けにAEMデスクトップアプリ2.0が提供されました。
+   AEM desktop app 2.0 is now available for creatives, marketers, and line-of-business users, to work with AEM Assets.
 AEMデスクトップア [プリのリリースノートを参照してください。](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html)
 
 * **コアコンポーネント**
@@ -171,8 +171,8 @@ AEMデスクトップア [プリのリリースノートを参照してくださ
 詳しくは、類 [似画像の検索を参照してくださ](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html#visualsearch)い。
    * 接続されたアセット機能で、画像ファイル形式に加えて、リモートDAMデプロイメントで使用可能なドキュメントが使用されるようになりました。
 AEMサイト [でのDAMアセットの共有に接続されたアセットの使用を参照してください](https://helpx.adobe.com/experience-manager/6-5/assets/using/use-assets-across-connected-assets-instances.html)。
-   * アセットの検索と検出に関する新しいコンテンツ。 The Search assets in AEM topic is your one-stop-shop for information on using, configuring, troubleshooting, limitations, and tips.
-__ See Search assets in AEM.[](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html)
+   * アセットの検索と検出に関する新しいコンテンツ。 「AEM __ でアセットを検索」のトピックでは、使用、設定、トラブルシューティング、制限、ヒントに関する情報をワンストップで提供します。
+AEMでのア [セットの検索を参照してください](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html)。
 
 ### その他のリソース
 
@@ -181,8 +181,8 @@ __ See Search assets in AEM.[](https://helpx.adobe.com/experience-manager/6-5/as
 * [AEM 6.3 ラーニングとサポートホーム](https://helpx.adobe.com/support/experience-manager/6-3.html)
 * [AEM 6.2 ラーニングとサポートホーム](https://helpx.adobe.com/support/experience-manager/6-2.html)
 * [Cloud Manager ユーザーガイド](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [AEMドキュメントの旧バージョン](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
-* [Dynamic Media Classic Help Home](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
+* [Older Versions of AEM Documentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
+* [Dynamic Media Classicヘルプホーム](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
 * [Dynamic Media リリースノート](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre リリースノート](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
@@ -192,8 +192,8 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### Adobe Campaign Classic
 
-* [Campaign Classic 19.1.4 update – build 9032](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9032)
-* [Campaign Classic 19.1.6 update – build 9035](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-19-1-6-build-9035)
+* [Campaign Classic 19.1.4の更新](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9032) — ビルド9032
+* [Campaign Classic 19.1.6の更新](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-19-1-6-build-9035) — ビルド9035
 
 ### その他のリソース
 
