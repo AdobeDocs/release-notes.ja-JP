@@ -2,78 +2,56 @@
 title: Adobe Experience Cloud リリースノート
 description: Experience Cloud リリースノートのテンプレート
 doc-type: リリースノート
-last-update: 2019 年 9 月
+last-update: 2019 年 10 月 日
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b8639c07c29e929b786b515b0d8e1e3cb89fa45a
+source-git-commit: 6efac6a7bd4bac8b9ee42a743761e2ea1fb82e82
 
 ---
 
 
-# Experience Cloud リリースノート-2019 年 9 月
+# 先行アクセス — Experience cloudリリースノート — 2019年10月
 
 Adobe Experience Cloud の新機能および修正点です。
+
+>[!IMPORTANT]
+>
+>このページに記載される内容は、リリース前の情報であり、リリース予定日の前に変更される可能性があります。
 
 >[!NOTE]
 >
 >Subscribe to the [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. 通知はリリースの 3～5 営業日前に届きます。リリース後に発表された新情報には、更新の日付が明記されます。
 
-## リリース日：2019 年 9 月 12 日
+## リリース日：2019 年 10 月 10 日
 
-* [Experience Cloud インターフェイス](#ecloud)
+<!-- * [Experience Cloud interface](#ecloud) -->
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
+* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) （ソリューションヘルプへのリンク）
 
-## Experience Cloud インターフェイス {#ecloud}
+<!-- ## Experience Cloud interface {#ecloud}
 
-Experience Cloud インターフェイスおよび製品管理のリリースノートです。
+Release notes for Experience Cloud interface and product administration.
 
-* 推奨される HTTP ヘッダーを含めるセキュリティ脆弱性を修正しました。（MCUI-9942）
-* Analytics ログイン会社間の切り替えの問題を修正しました。（MCUI-10049）
+* Fixed a security vulnerability to include recommended HTTP headers. (MCUI-9942)
+* Fixed an issue in switching between Analytics login companies. (MCUI-10049)
 
-For product documentation, see Experience Cloud.[](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
+For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html). -->
 
 ## Experience Platform {#platform}
 
 Experience Platform、Experience Platform Launch、ID サービスおよびセキュリティ速報のリリースノートです。
 
 * [Experience Platform Launch](#launch)
-* [Mobile Services および Mobile SDK](#mobile)
-* [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
+* [セキュリティ速報および情報](https://helpx.adobe.com/security.html) （すべてのアドビ製品）
 
 ### Experience Platform Launch {#launch}
 
 See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for release notes and product documentation.
-
-### Mobile Services および Mobile SDK {#mobile}
-
-**iOS:バージョン4.18.8**
-
-リリース日：2019 年 9 月 20 日
-
-* アプリ内メッセージ：
-   * On devices running iOS 10 or newer, the UserNotifications framework is now used to schedule local notifications for apps that are linked to the UserNotifications.framework .
-   * Fullscreen messages now use WKWebViews from WebKit.framework, which must be linked in your Xcode project.
-   * プッシュクリックスルーペイロードをアプリ内メッセージの特徴として使用できなかったバグを修正しました。
-   * クラッシュの問題を修正しました。
-* 一般 — Analyticsの呼び出しのたびに、SDKデータがペアのwatchOSアプリと同期されるバグを修正しました。
-
-**Android:バージョン4.17.10**
-
-リリース日：2019 年 9 月 20 日
-
-* 一般：Android APIレベル21以降の一部の地域でのロケール文字列の生成を修正しました。
-
-**Unity**
-
-リリース日：2019 年 9 月 26 日
-
-* プラグインを 4.18.7（iOS 版）および 4.17.9（Android 版）に更新
 
 ## [!DNL Analytics] {#analytics}
 
@@ -89,27 +67,31 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| **Journey IQ：デバイス間分析** | 2019 年 9 月に、Adobe Analytics は、Journey IQ：デバイス間分析という強力な新機能を導入します。（この機能は、Analytics Ultimate のお客様にのみご利用いただけます。）デバイス間分析（CDA）は、Adobe Analytics をユーザー中心の分析ツールに変えます。CDA を使用すると、次のような質問に答えることができます。 <ul><li>何人のユーザーがブランドとやりとりしているか。ユーザーが使用しているデバイスの台数および種類は何か。それらはどのように重なっているか。</li><li>ユーザーは、どのようにしてモバイルデバイスでタスクを開始し、後でデスクトップ PC に移行してタスクを完了するか。あるデバイス上でのキャンペーンクリックスルーは、別のデバイスでのコンバージョンにつながっているか。</li><li>クロスデバイスのジャーニーを考慮した場合、キャンペーンの効果についての理解はどのように変化するか。ファネル分析はどのように変化するか。</li><li>ユーザーがあるデバイスから別のデバイスへと移動する際の、最も一般的なパスは何か。どこからドロップアウトするか。成功した場所はどこか。</li><li>複数のデバイスを所有するユーザーの動作は、単一のデバイスを所有するユーザーとはどのように異なるか。</li></ul><br/>To learn more, visit adobe.ly/aacda.[](https://spark.adobe.com/page/8ZpjsX6Lp5XTM/) |
-| **分類のアーキテクチャの更新** | 9 月から、分類アーキテクチャの刷新が数ヶ月かけて段階的にリリースされます。9 月のリリースは、少数のアーリーアダプター向けの限定公開です。<br/>この刷新により、アップロードしたデータがレポートに反映される時間（ルールロジックを含む）が大幅に削減されます。 |
+| プライバシーサービスAPI:CCPA | カリフォルニア消費者プライバシー法(CCPA)は、米国カリフォルニア州在住者のプライバシー権と消費者保護を強化します。 この法律は、平成十四年一月一日から施行する。<br/>CCPAは、カリフォルニア州在住者に対し、個人データのアクセス権や削除権、個人データの販売または開示（および相手）の有無、個人データの販売を拒否する権利など、新しいデータプライバシー権を提供する。<br/>CCPAに備えて、プライバシーサービスは個人データの販売を停止する要求をサポートします。<br/>プライバシー・サービスは、以前はGDPRサービスと呼ばれ、以前のすべての機能を保持しています。現在は、CCPAをサポートするように拡張されています。<br/>AnalyticsでのCCPA:プライバ `[Link to new CCPA page in Analytics]()`<br/>[シーサービスの概要](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
+| プライバシーレポート：Analytics管理コンソール | Analyticsのプライバシーレポートを有効にすると、予約済み変数のセットがレポートスイートに追加されます。  これらの変数は、ヒットレベルでの消費者の同意データの収集を支援するように設計されています。<br/>新しいディメンション：<br/><ul><li>同意管理オプトアウト</li><li>同意管理オプトイン</li><li>同意管理変数： `[Link to new Consent Variables page in Analytics]()`</li></ul> |
+| オーディオとビデオの分析：プライバシーサポート | 2つの新しい変数がメディアコレクションAPIに追加されました。<br/><ul><li>analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul>これらは、ヒット時の消費者の同意のステータスを取得するために使用できるオプションの変数です。<br/>[Media Collection API DocumentationThe new Analytics Consent Management context data variables have been added to the Federated Analytics form. ](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/>These variables are now available for use in flagging Opt Out of Sharing or Selling hits for federation.<br/>[Download Federated Form](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
+| Analysis Workspace: Update to Freeform table totals | Freeform tables now include two totals, a Table total and a Grand total. ******** The Table total row accounts for [report filters](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) applied. Previously, only segmentation impacted totals. [Learn moreIn addition, Show Totals and Show Grand Total options have been added to Column Settings.](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/workspace-totals.html)<br/>************<br/>このフリーフォーム合計の変更により、依存するビジュアライゼーション(リンクされた概要番号ビジュアライゼーション **** )、およびCSVおよびPDFデータのエクスポートが更新されます。 |
+| Analysis Workspace: Option to remove Unspecified/None | The ability to easily remove ‘Unspecified (None)’ has been added as an option to report filters. |
+| Analysis Workspace: Deprecation of purple granularity components | Purple granularity time components (Minute, Hour, Day, Week, Month, Quarter, Year) have been deprecated. The purple time components have always behaved exactly like their orange dimension counterparts, so this change will simplify the experience. **No action needs to taken if you previously used one of the purple time components.**<br/>この変更により、紫の時間セク **[!UICONTROL ションも]** 「日付範囲」に名前が変更 **[!UICONTROL されました]**。 |
 
 #### 修正点
 
-* メインの Experience Cloud メニューから[!UICONTROL ユーザー]と[!UICONTROL オファー]コアサービスにアクセスできない問題を修正しました。（AN-184294）
-* [!UICONTROL Analysis Workspace] の左側のレールにスクロールバーが表示される場合と表示されない場合があり、ちらつきが発生する問題を修正しました。（AN-183904）
-* エラーレポートの問題を修正しました。赤のエラーインジケーターだけでなく、より具体的なエラーメッセージが表示されるようになります。特に、負荷が大きい場合、エラーによって発生する場合、または複雑すぎるレポートリクエストの作成によって、問題が発生するタイミングを理解するのに役立ちます。(AN-184135) More…[](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/optimizing-performance.html)
-* `.pdf/.xls/.rtf` 形式でフォールアウトレポートを正常にダウンロードできない問題を修正しました。（AN-183165）
-* Experience Cloud 経由でログインし、別の Experience Cloud ソリューションに切り替えたり、別のログイン会社に切り替える際の問題を修正しました。（AN-183376）
-* スケジュールされたプロジェクトのアセット転送が正しく機能しない問題を修正しました。グループは [!UICONTROL Admin Console] で管理されるので、アセットの移行時にユーザー間でコピーされなくなりました。（AN-183751）
-* スケジュールされたレポートの所有者が削除されると、レポートも削除されていた問題を修正しました。今後、スケジュールの所有者が存在しない場合、管理者（削除操作を実行したユーザー）に通知が送信されます。（AN-181000）
+* Analysis Workspace:左側のレールでディメンション項目を検索すると、検索結果が正しくない問題を修正しました。 （AN-185065）
+* Fixed issues with being unable to delete or unpublish shared segments in Adobe Audience Manager (AAM). AAMが応答しない場合にセグメントを削除しないように修正しました。 (AN-185882、AN-185883、AN-184607)
+* Ad Hoc Analysisでセグメントを読み込めない場合にタイムアウトになる問題を修正しました。 （AN-184654）
+* 最後に使用したレポートスイートがその後非表示になったり、このレポートスイートへのアクセス権限がなくなったりする問題を修正しました。 この場合、Experience cloudからログインできなくなりました。 （AN-181777）
+* セグメントに基づいてVRSを作成するのが困難になったセグメントのタイムアウトの問題を修正しました。 （AN-179684）
 
 ### [!DNL Analytics] 管理者向けの重要な注意事項 {#aa-notices}
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| Analysis Workspace フリーフォームテーブルの合計を更新 | 2019 年 9 月 12 日 | In October 2019, freeform table total rows will begin accounting for report filters applied. [](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html)これまでは、合計はセグメント化にのみが反映されていました。この変更により、エクスポートされた CSV や PDF データだけでなく、依存するビジュアライゼーション（例：リンクされた [!UICONTROL 概要番号]ビジュアライゼーションなど）も更新されます。 |
+| TLS 1.1 のサポート終了 | 2019 年 10 月 4 日 | 2020年3月31日までに、Adobe AnalyticsはTLS 1.1のサポートを削除します。この変更は、最高のセキュリティ標準を維持し、お客様データの安全性を促進するための継続的な取り組みの一部です。 |
+| サンノゼFTPブローカー，ロンドンとシンガポールで終了 | 2020 年 7 月 | ロンドンおよびシンガポールのお客様は、ロンドンまたはシンガポールとサンノゼのデータセンター [ftp.omniture.comとの間のデータのブローカリングをサポートしなくなります](ftp://ftp.omniture.com/)。<br/>ロンドンの場 [合はftp3.omniture.](ftp://ftp3.omniture.com/)<br/>comシンガポールの場合は [ftp4.omniture.comを使用します。](ftp://ftp4.omniture.com/) |
+| Analysis Workspace フリーフォームテーブルの合計を更新 | 2019 年 9 月 12 日 | 2019年10月に、フリーフォームテーブルの合計行が、適用されたレポートフィルターに対す [る課金を開始し](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) ます。 これまでは、合計はセグメント化にのみが反映されていました。この変更により、エクスポートされた CSV や PDF データだけでなく、依存するビジュアライゼーション（例：リンクされた [!UICONTROL 概要番号]ビジュアライゼーションなど）も更新されます。 |
 | Analytics ユーザーの `createDate` フィールドに関する変更予定 | 2019 年 8 月 30 日 | 2019 年 10 月または 2019 年 11 月に、Analytics ユーザーの `createDate` フィールドが米国太平洋時刻から、タイムゾーン情報を反映した正しい形式に更新されます。（AN-183468） |
 | 履歴タイムゾーンオフセットのサポート | 2019 年 8 月 9 日 | Analytics は、タイムスタンプ付きのヒットに対して、タイムゾーンオフセットを自動的に処理するようになりました。この変更に従い、履歴処理用にデータで読み込むシステムは、データで送信する前にタイムゾーンオフセットを調整する必要がなくなりました。 |
-| 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | These limits are not new, but have been added to the documentation here.[](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html) |
+| 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | これらの制限は新しいものではありませんが、ここで説明するドキュメントに追加さ [れました](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html)。 |
 | 新しいセグメント演算子の制限 | 追加日：2019 年 5 月 31 日 | 2019 年 7 月 18 日以降、セグメント演算子「_次のいずれかを含む_」、「_次のいずれかを含まない_」、「_次のすべてを含む_」および「_次のすべてを含まない_」は、入力フィールドあたり 100 語に制限されます。この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
 | **[!UICONTROL 日付分類]**&#x200B;および&#x200B;**[!UICONTROL 数値 2 分類]**&#x200B;に関するサポートの変更 | 2019 年 5 月 28 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。この変更は 2019 年 7 月のメンテナンスリリースから有効になりました。「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。<br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
 | _レポートの合計_&#x200B;の計算に対する変更 | 更新日：2019 年 7 月 9 日 | **2019 年 6 月 18 日**&#x200B;に、Adobe Analytics では、_レポートの合計_&#x200B;値の算出方法をすべてのディメンションおよび指標で共通化しました。これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されました。この変更以前は、レポートに&#x200B;_未指定_&#x200B;が表示されているかどうかにかかわらず、合計に&#x200B;_未指定_&#x200B;の行項目を含めるレポートと含めないレポートが混在していました。<br/>2019 年 6 月 18 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に含められるようになります。さらに、_存在する_&#x200B;または&#x200B;_存在しない_&#x200B;ロジックを使用するセグメントは、この変更後、一部のディメンションで異なる結果が表示される可能性があります（特に、_未指定_&#x200B;を特有な値としてレポートするディメンションに影響します。リファラータイプディメンションの「手動入力/ブックマーク」行項目やデバイスタイプディメンションの「その他」行項目が該当します）。この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。 |
@@ -118,124 +100,79 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 | モバイルブラウザーのバージョン番号 | 2019 年 2 月 7 日 | 2019 年 1 月 8 日より、モバイルブラウザーバージョン番号を 2 桁から 1 桁に変更しました。この日以降、バージョンは先頭の 2 レベルのみ表示されます（例：_Firefox 64.0.2_ は _Firefox 64.0_ と表記されるようになりました）。 |
 | [!DNL Ad Hoc Analysis] のサポート終了  | 2019 年 1 月 29 日 | 2018 年 8 月 6 日、アドビは [!DNL Ad Hoc Analysis] のサポート終了の意向を表明しました。サポート終了日については確定次第お知らせします。<br/>サポート終了の予定や詳細については、[[!DNL Discover Workspace]](https://adobe.ly/discoverworkspace) を参照してください。 |
 | 短い [!DNL Analytics] レポートリンク | 2019 年 1 月 14 日 | 2019 年 1 月 17 日（木）以降、直近 1 年間に訪問されていない短い [!DNL Analytics] レポートリンクは、定期的に削除されるようになります。 |
-| TLS 1.0 のサポート終了 | 2019 年 1 月 10 日更新 | 2019 年 2 月 11 日現在、Adobe Analytics レポートで TLS（Transport Layer Security）1.0 の暗号化がサポートされなくなっています。この変更は、最高レベルのセキュリティ基準を維持して、お客様のデータの安全を確保するための継続的な取り組みの一環です。If you are unable to connect to Adobe Analytics reporting after February 11, 2019, you should upgrade your browser to the [latest version](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/server-side-forwarding/ssf-requirements.html).<br/> 2019 年 2 月 20 日以降、Adobe Analytics のデータ収集で TLS 1.0 がサポートされなくなりました。この変更により、TLS 1.1 以上をサポートしていない旧型のデバイスや Web ブラウザーを使用しているエンドユーザーの [!DNL Analytics] データは収集されなくなりました。この変更が、お客様の顧客のデータやレポートに大きな影響を及ぼすことはないと認識しています。（お客様の Web サイトが既に TLS 1.0 をサポートしていない場合、影響は一切ありません。）<br/>2019 年 4 月 11 日以降、Adobe Analytics レポート API は TLS 1.0 の暗号化をサポートしていません。API にアクセスするお客様は、この変更による影響の有無を確認してください。 <ul><li>デフォルト設定で Java 7 を使用している API クライアントは、[TLS 1.2](https://www.java.com/en/configure_crypto.html) をサポートするように変更してください（「_Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2_」を参照、ブラウザーの翻訳機能をお使いください）。 </li><li>Java 8 を使用している API クライアントは、デフォルト設定が TLS 1.2 なので、影響を受けません。</li><li> その他のフレームワークを使用している API クライアントは、TLS 1.2 のサポートについてベンダーにお問い合わせください。</li></ul> |
 | データフィード：post_product_list 列 - サイズ変更 | 2019 年 1 月 9 日 | 2019 年 2 月 7 日、post_product_list 列のサイズを 64 KB から 16 MB に拡張されました。この変更は、処理中に post_product_list に追加されるマーチャンダイジング eVar 値により、製品および売上高の値の切り捨てが発生しないようにします。post_product_list の値を取得する処理を実行する場合、これらの処理が最大 16 MB の値に対応できるようにしてください。またはデータ取得の失敗を避けるために、値が 16 KB に達した時点で値を切り捨てるようにしてください。 |
 | [!DNL Analytics Live Stream] エンドポイントの管理における変更点 | 2018 年 12 月 20 日 | 2019 年 2 月 1 日以降、顧客からのアクティブな接続が 90 日間なかった [!DNL Live Stream] エンドポイントが無効化される場合があります。使用中の [!DNL Live Stream] エンドポイントについてはサポートに問い合わせて確認でき、必要に応じて再度有効にすることができます。また、サービス規定に従って顧客のプロセスで永続的な接続が維持されるように注意し、接続が切断されたり中断されたりしたときには再接続するように実装してください。 |
 | TLS 1.0 のサポート終了に伴う Adobe [!DNL Report Builder] の更新 | 2018 年 9 月 7 日 | TLS 1.0 のサポート終了に伴い、[!DNL Report Builder] ユーザーの皆様には 2019 年 2 月までにバージョン 5.6.21 をダウンロードされることをお勧めします。この日以降、以前のバージョンの [!DNL Report Builder] は機能しなくなります。 |
 
 ### [!DNL AppMeasurement] {#appm}
 
-See AppMeasurement for Javascript release notes.[](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)
+JavaScript版AppMeasurementリ [リースノートを参照してください](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)。
 
 ## Audience Manager {#aam}
 
 Audience Manager の新機能、拡張機能および修正点です。
 
-### 新機能および機能強化 {#aam-features}
-
-| 機能 | 説明 |
-| -----------| ---------- |  
-| **[[!DNL People-Based Destinations]](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)** | [!DNL People-Based Destinations] は、有料の Audience Manager アドオンです。このアドオンは、ユーザーベースの環境（Facebook など）をまたいで、ハッシュ化された識別子（電子メールアドレスなど）を使用して、ファーストパーティのオーディエンスセグメントをアクティブ化するのに役立ちます。 |
-| **[Configuring Twitter Tailored Audiences as a Self-Service Device-Based Destination](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/device-based/twitter-tailored-audiences.html)** | Twitter の宛先をセルフサービス設定モデルに移行中です。この記事では、移行後に作業を続行するために、既存の Twitter 統合に対しておこなう必要がある操作について説明します。 |
-| **[Audience Marketplaceの請求例](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-buyer-billing.html#billing-examples)** | 新しい例、「ケース 3」を追加しました。この例では、アクティブ化とモデリングのユースケースを使用して、セグメントに対する課金のしくみについて説明します。 |
-
 **修正点および改善点**
 
-* ユーザーが Adobe Analytics の宛先を編集してセグメントを手動でマッピングできなかったバグを修正しました。（AAM-49323）
-* 1 つのデータソース ID からの Audience Marketplace フィードが重複していたバグを修正しました。データソースと [!DNL Marketplace] フィードの間には 1:1 のマッピングが必要です。（AAM-48504）
-* 特性およびセグメント作成ワークフローの機能強化をおこないました。これで、データソースをフィルタリングして、特性またはセグメントを保存し、Audience Manager 以外のデータソース（例えば、Adobe Analytics からのレポートスイートデータソース）を除外できるようになりました。（AAM-35899）
-* データソース API で、クエリパラメーター `ExcludeReportSuites=true` を設定しても Adobe Analytics からレポートスイートデータソースが除外されない問題を修正しました。（AAM-48545）
-* Audience Manager ユーザーインターフェイスのアクセシビリティに関するいくつかの改善を行いました。（AAM-49024）および（AAM-49031）
+* 2019年7月1日以降に作成されたすべての顧客アカウントには、自動的にライセンスが割り当てら [!DNL Tableau] れ、レポートにアクセスできるようになります。 アカウントが2019年7月1日より前に作成された場合でも、レポートにアクセスできない場合は、カスタマーケアにお問い [!DNL Tableau] 合わせください。
+* 特性データソースとID同期を持たない訪問者プロファイルに対して、誤って生成されたアクティビティ特性メンバーシップが削除されました。(AAM-45371)
+* 無効なグローバルデバイスIDがグローバルデータソースから削除されました。 Audience Managerで受け [](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html) 入れられる有効なデバイスIDがどのように表示されるかを確認するには、「グローバルデータソース」を参照してください(AAM-41259)。
+* 保護されたセグメントを削除しようとすると、セグメントページが応答を停止するバグを修正しました。(AAM-49881)
+* Twitter用にカスタマイズされたオーディエンスの宛先を編集する場合、 [!UICONTROL Account] Selectorがアクティブになるのは、その宛先にアカウントが割り当てられて [!DNL Twitter Ads] いない場合のみです(AAM-49975)。
+* 購読が無効な場合に [!UICONTROL Audience Marketplace] データフィードが無効にならないバグを修正しました。(AAM-49640)
+* Audience Manager ユーザーインターフェイスのアクセシビリティに関するいくつかの改善を行いました。
 
 ## Experience Manager {#aem}
 
 Adobe Experience Manager（AEM）の新機能、修正点および更新です。安定性、セキュリティ、パフォーマンスを高めるために、オンプレミス環境のお客様には最新のパッチをデプロイすることをお勧めします。
 
-### 製品リリース
-
-**Cloud Manager 2019.8.0**
-
-Cloud Manager リリース 2019.8.0 では、様々なバグの修正、ビルドパフォーマンスの向上、選択したコンテンツパッケージの選択的なサポートが追加されました。
-
-* [Cloud Manager 2019.8.0 のリリースノート](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
-
-**ソフトウェア配布**
-
-[ソフトウェア配布は](https://downloads.experiencecloud.adobe.com/) 、AEMパッケージの検索とダウンロードを簡単にするように設計された新しいユーザーインターフェイスです。 現在はベータステータスであり、Adobe Managed Services のお客様のみ利用できます。
-
-* [パッケージ共有は](https://helpx.adobe.com/experience-manager/6-5/sites/administering/using/package-manager.html#PackageShare) 、すべてのお客様がソフトウェア配布にアクセスできるまでアクセス可能です。
-* すべてのパッケージは、Package ShareとSoftware Distributionの両方から入手できます。
-
 ### 製品メンテナンス
 
-**AEM メンテナンスリリースのロードマップ**
+* **AEM 6.3.3.6**
 
-AEMメンテナンスリリースのロードマップを参照して [ください](https://helpx.adobe.com/experience-manager/maintenance-releases-roadmap.html)。
+   AEM 6.3、Service Pack 3、Cumulative Fix Pack 6（2019年9月26日リリース6.3.6）は、2017年4月のAEM 6.3の一般リリース(GA)以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
+   * [リリースノート](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)
+   * [AEM Forms CFP リリース](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+
+* **AEM 6.4.6.0**
+
+   AEM 6.4、Service Pack 6.0（2019年9月19日リリースの6.4.6.0）は、2018年4月のAEM 6.4の一般リリース(GA)以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
+   * [リリースノート](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
+   * [AEM Forms CFP リリース](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+
+* **AEM 6.5.2.0** AEM 6.5、Service Pack 2.0（2019年9月19日リリース6.5.2.0）は、2019年4月のAEM 6.5の一般リリース(GA)以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
+   * [リリースノート](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
+   * [AEM Forms CFP リリース](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 ### セルフサービス
 
-**Asset Link 1.1 プレリリース**
+* **Scene7:アセットの再処理ワークフロー**
 
-* [Adobe Asset Link Prereleaseについて](https://helpx.adobe.com/enterprise/using/adobe-asset-link-prerelease.html)
-* [プレリリース用のAEM for Adobe Assetリンクの設定](https://helpx.adobe.com/enterprise/using/configure-aem-for-aal-prerelease.html)
+   後で変更した既存の処理プロファイルが既に存在するフォルダー内のアセットを再処理できるようになりました。
+処理プ [ロファイルを編集した後のフォルダー内のアセットの再処理を参照してください](https://helpx.adobe.com/experience-manager/6-5/assets/using/processing-profiles.html#Reprocessingassetsinafolderafteryouhaveediteditsprocessingprofile)。
 
-**AEM Desktop App 2.0**
+* **Dynamic Media ViewerとAdobe AnalyticsおよびAdobe Launchの統合**
 
-Mac 版 AEM Desktop App 2.0 は 2019 年 8 月 30 日にリリースされました。Windows 版 AEM Desktop App 2.0 は 9 月上旬にリリース予定です。
+   Dynamic Media Viewers Extension for Adobe LaunchとDynamic Media Viewer 5.13のリリースにより、Dynamic Media、Adobe AnalyticsおよびAdobe Launchのお客様は、Adobe Launch設定で、Dynamic Media Viewerに固有のイベントとデータを使用できます。
+詳しくは、 [ダイナミックメディアビューアとAdobe AnalyticsおよびAdobe launchの統合を参照してください](https://helpx.adobe.com/experience-manager/6-5/assets/using/launch.html)。
 
-ドキュメントとダウンロードはこち [ら](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html)。
+* **AEMデスクトップアプリ**
 
-**アセットスマートタグ**
+   AEM Assetsで作業するクリエイティブ、マーケター、基幹業務ユーザー向けにAEMデスクトップアプリ2.0が提供されました。
+AEMデスクトップア [プリのリリースノートを参照してください。](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html)
 
-証明書の有効期限が切れた後に証明書を更新する方法については、ここを参照し [てくださ](https://helpx.adobe.com/experience-manager/6-5/assets/using/config-smart-tagging.html#Obtainpubliccertificate)い。
+* **コアコンポーネント**
+   * Learn about the localization features of Core Components and how they work with AEM templates.
+      [See the example.](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/get-started/localization.html)
+   * Core Components 2.6.0 introduces an Experience Fragment Component. The component is now available along with authoring documentation and developer details and project download available on GitHub.[](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html)[](https://github.com/adobe/aem-core-wcm-components)
 
-**AEM 6.5 Screens ユーザーガイド**
-
-_ネットワークデプロイメントのガイドライン_&#x200B;に関する新しいドキュメントがリリースされました。[ ユーザーガイド](https://helpx.adobe.com/experience-manager/6-5/screens/user-guide.html)を参照してください。
-
-**自動フォーム変換サービス**
-
-AEM Forms の自動フォーム変換機能サービスのドキュメントを利用できるようになりました。「自動フォ [ーム変換サービスの概要」を参照してください](https://helpx.adobe.com/experience-manager/Automated-Forms-Conversion-Service/introduction-to-automated-form-conversion-service.html)。
-
-### コミュニティ
-
-**AEM スキルビルダーウェビナー**
-
-* [Adobe Experience Managerサイト](https://forums.adobe.com/thread/2647742)
-
-   | ウェビナー | 日付 |
-   | -----------| ---------- |  
-   | _Web エクスペリエンスのオーサリング_ | 2019 年 8 月 27 日 |
-   | _コンテンツの検索とナビゲート_ | 2019 年 9 月 03 日 |
-   | _進化し続けるコンテンツを容易に管理_ | 2019 年 9 月 10 日 |
-   | _流動的なエクスペリエンス_ | 2019 年 9 月 17 日 |
-   | _マルチ言語、多言語のデザインを作成および管理してグローバルな Web サイトをデザインする_ | 2019 年 9 月 24 日 |
-
-* [Adobe Experience Manager Assets](https://forums.adobe.com/thread/2647743)
-
-   | ウェビナー | 日付 |
-   | -----------| ---------- |  
-   | _フォルダー構造と検索_ | 2019 年 8 月 29 日 |
-   | _メタデータ_ | 2019 年 9 月 05 日 |
-   | _Brand Portal_ | 2019 年 9 月 12 日 |
-   | _Dynamic Media_ | 2019 年 9 月 19 日 |
-   | _アセットリンク_ | 2019 年 9 月 26 日 |
-
-* [Adobe Experience Manager Forms](https://forums.adobe.com/thread/2647744)
-
-   | ウェビナー | 日付 |
-   | -----------| ---------- |  
-   | _Forms 101_ | 2019 年 9 月 04 日 |
-   | _Forms をデータベースに接続、ワークフローの構築、および Forms と E-Signatures の統合_ | 2019 年 9 月 11 日 |
-   | _モバイルレスポンシブ Web および印刷対応のインタラクティブコミュニケーションの作成_ | 2019 年 9 月 25 日 |
-
-* [Adobe Experience Manager Cloud Manager](https://forums.adobe.com/thread/2647745)
-
-   | ウェビナー | 日付 |
-   | -----------| ---------- |  
-   | _ベストプラクティスのテスト - Cloud Manager を使用したビルドの実行、監視、監査およびインサイト_ | 2019 年 9 月 18 日 |
-   | _Cloud Manager を使用した Dispatcher 設定_ | 2019 年 10 月 16 日 |
-   | _Cloud Manager およびサードパーティツールを使用したワークフローの作成_ | 2019 年 11 月 13 日 |
+* **AEM Assets**
+   * New documentation for visual/similarity search capability.
+See Find similar images.[](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html#visualsearch)
+   * Connected Assets functionality now uses documents that are available on remote DAM deployment, in addition to images file formats.
+See Use Connected Assets to share DAM assets in AEM Sites.[](https://helpx.adobe.com/experience-manager/6-5/assets/using/use-assets-across-connected-assets-instances.html)
+   * Fresh content on asset searching and discovery. The Search assets in AEM topic is your one-stop-shop for information on using, configuring, troubleshooting, limitations, and tips.
+__ See Search assets in AEM.[](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html)
 
 ### その他のリソース
 
@@ -245,45 +182,24 @@ AEM Forms の自動フォーム変換機能サービスのドキュメントを�
 * [AEM 6.2 ラーニングとサポートホーム](https://helpx.adobe.com/support/experience-manager/6-2.html)
 * [Cloud Manager ユーザーガイド](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
 * [AEMドキュメントの旧バージョン](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
-* [Dynamic Media Classicヘルプホーム](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
+* [Dynamic Media Classic Help Home](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
 * [Dynamic Media リリースノート](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
-* [Livefyre リリースノート](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
-
-### 製品のサポート終了
-
-[!DNL Digital Publishing Suite Classic]（DPSC）は、2019 年 8 月 31 日にサポートを終了します。詳しくは、 [[!DNL Digital Publishing Suite Classic]提供終了に関するFAQを参照してください](https://helpx.adobe.com/digital-publishing-suite/help/eol-statement-for-dpsc.html)。
-
-### その他のリソース
-
-* [AEM 6.5 ラーニングとサポートホーム](https://helpx.adobe.com/support/experience-manager/6-5.html)
-* [AEM 6.4 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-4.html)
-* [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-3.html)
-* [AEM 6.2 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-2.html)
-* [Cloud Manager ユーザーガイド](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [AEM ドキュメントの以前のバージョン](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
-* [Scene7 Publishing System リリースノート](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre リリースノート](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
 ## [!DNL Campaign] {#ac}
 
 Adobe Campaign は、オンラインおよびオフラインのマーケティングチャネルにわたって 1 対 1 のメッセージを届けるために直感的で自動化された方法を提供します。顧客の習慣や好みによって特定されたエクスペリエンスを利用して、顧客が欲しいものを予測できるようになりました。
 
-### Adobe Campaign Classic
+<!-- ### Adobe Campaign Classic
 
-* [Campaign Classic 19.1.4の更新](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9032) — ビルド9032
-* [Campaign Classic 19.1.5の更新](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9033) — ビルド9033
+* [Campaign Classic 19.1.4 update](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9032) – build 9032
+* [Campaign Classic 19.1.5 update](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9033) – build 9033
 
-### Adobe Campaign [!UICONTROL コントロールパネル]
+### Adobe Campaign [!UICONTROL Control Panel]
 
-管理者ユーザーが IP アドレスをホワイトリストに登録して Campaign Classic インスタンスに接続できるようにする新機能を追加しました。さらに、管理者ユーザーはインスタンス、ビルドノアップグレード実施要件のリストを表示できるようになりました。For more information, refer to the [dedicated documentation](https://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html).
+Text
 
-アドビでは、ドメインの SSL 証明書の有効期限が切れる前に管理者ユーザーが通知を受信する新しい機能を追加しました。詳しくは、[詳細ドキュメント](https://helpx.adobe.com/campaign/kb/control-panel-subdomains-certificates.html)を参照してください。
-
-さらに、管理者ユーザーは SFTP サーバーにアクセスするために追加された SSH キーを削除できるようになりました。
-
-[!UICONTROL コントロールパネル]は、AWS でホストされる Adobe Campaign Classic および Adobe Campaign Standard の両方のお客様が利用できます。[!UICONTROL コントロールパネル]にアクセスするためにアップグレードする必要はありません。
-
-### その他のリソース
+### Additional resources -->
 
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
