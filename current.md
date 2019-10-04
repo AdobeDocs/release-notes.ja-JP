@@ -2,15 +2,15 @@
 title: Adobe Experience Cloud リリースノート
 description: Experience Cloud リリースノートのテンプレート
 doc-type: リリースノート
-last-update: 2019 年 10 月 日
+last-update: 2019 年 10 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 931b5708436da144f94e47c66fb74a16817452ce
+source-git-commit: 59bbe7ddd5cbbcb653d6c44223b644257dd94cb4
 
 ---
 
 
-# 先行アクセス — Experience cloudリリースノート — 2019年10月
+# 先行公開 - Experience Cloud のリリースノート - 2019 年 10 月
 
 Adobe Experience Cloud の新機能および修正点です。
 
@@ -22,7 +22,7 @@ Adobe Experience Cloud の新機能および修正点です。
 >
 >Subscribe to the [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. リリース後に発表された新情報には、更新の日付が明記されます。
 
-## リリース日：2019 年 10 月 10 日
+## リリース日：2019 年 10 月 11 日
 
 <!-- * [Experience Cloud interface](#ecloud) -->
 * [Experience Platform](#platform)
@@ -31,7 +31,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) （ソリューションヘルプへのリンク）
 
 <!-- ## Experience Cloud interface {#ecloud}
 
@@ -67,42 +67,42 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| Privacy Service API: CCPA | The California Consumer Privacy Act (CCPA) enhances privacy rights and consumer protection for residents of California, United States. This Act is set to become effective on January 1, 2020.<br><br/>CCPAは、カリフォルニア州在住者に対し、個人データのアクセス権や削除権、個人データの販売または開示（および相手）の有無、個人データの販売を拒否する権利など、新しいデータプライバシー権を提供する。<br><br/>In anticipation of the CCPA, the Privacy Service will support requests to opt out of the selling of personal data.<br><br/>プライバシー・サービスは、以前はGDPRサービスと呼ばれ、以前のすべての機能を保持しています。現在は、CCPAをサポートするように拡張されています。<br/>AnalyticsでのCCPA:（コンテンツ提供予定）プライバ <br><br/>[シーサービス概要](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
-| プライバシーレポート：Analytics管理コンソール | Analyticsのプライバシーレポートを有効にすると、予約済み変数のセットがレポートスイートに追加されます。  これらの変数は、ヒットレベルでの消費者の同意データの収集を支援するように設計されています。<br/>新しいディメンション：<br/><ul><li>同意管理オプトアウト</li><li>同意管理オプトイン</li><li>同意管理変数： <!-- `[Link to new Consent Variables page in Analytics]()` --></li></ul> |
-| オーディオとビデオの分析：プライバシーサポート | 2つの新しい変数がメディアコレクションAPIに追加されました。<br/><ul><li>analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul>これらは、ヒット時の消費者の同意のステータスを取得するために使用できるオプションの変数です。 [メディア収集APIドキュメ](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/>ント新しいAnalytics Consent Managementコンテキストデータ変数がフェデレーテッド分析フォームに追加されました。 これらの変数を、フェデレーションの「共有からのオプトアウト」または「フェデレーションのヒットの販売」のフラグ付けに使用できるようになりました。 [フェデレーテッドフォームのダウンロード](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
-| Analysis Workspace:フリーフォームテーブルの合計の更新 | Freeform tables now include two totals, a Table total and a Grand total. ******** The Table total row accounts for [report filters](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) applied. Previously, only segmentation impacted totals. [Learn moreIn addition, Show Totals and Show Grand Total options have been added to Column Settings.](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/workspace-totals.html)<br/>************<br/>With this change to Freeform totals, dependent visualizations will be updated (e.g. linked **[!UICONTROL Summary Number]** visualizations), as well as exported CSV and PDF data. |
-| Analysis Workspace: Option to remove Unspecified/None | The ability to easily remove ‘Unspecified (None)’ has been added as an option to report filters. |
-| Analysis Workspace:紫の精度のコンポーネントの廃止 | 紫の精度の時間コンポーネント（分、時間、日、週、月、四半期、年）は廃止されました。 紫の時間コンポーネントは、常にオレンジ色の時間ディメンションとまったく同じように動作するので、この変更によってエクスペリエンスがシンプルになります。 **紫色の時間コンポーネント** 1つを以前に使用した場合は、何も行う必要はありません。<br/>この変更により、紫の時間セク **[!UICONTROL ションも]** 「日付範囲」に名前が変更 **[!UICONTROL されました]**。 |
+| プライバシーサービス AP：CCPA | カリフォルニア州消費者プライバシー法（CCPA）は、米国カリフォルニア州の居住者のプライバシー権と消費者保護を強化します。この法律は、2020 年 1 月 1 日に施行されます。<br><br/>CCPA は、カリフォルニア州の居住者に新しいプライバシー権を提供します。ｌこれには、自分たちの個人データにアクセスして削除する権利、自分たちの個人データが（誰に）販売または公開されているかどうかを知る権利、および自分たちの個人データの販売を拒否する権利が含まれます。<br><br/>CCPA を見越し、プライバシーサービスは個人データの販売のオプトアウトに対するリクエストをサポートします。<br><br/>プライバシーサービス（旧 GDPR サービス）は、以前の機能をすべて保持し、CCPA をサポートするよう拡張されました。<br/>AnalyticsでのCCPA:（コンテンツ提供予定）プライバ <br><br/>[シーサービス概要](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
+| プライバシーレポート：Analytics Admin Console | Analytics でプライバシーレポートを有効化すると、レポート層イートに一連の予約変数が追加されます。変数は、消費者の同意データをヒットレベルで収集することサポートするよう作られています。<br/>新しいディメンション：<br/><ul><li>同意管理のオプトアウト</li><li>同意管理のオプトイン</li><li>同意管理変数：<!-- `[Link to new Consent Variables page in Analytics]()` --></li></ul> |
+| オーディオとビデオの分析：プライバシーサポート | メディアコレクション API に 2 つの新しい変数が追加されました。<br/><ul><li>analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul>これらは、ヒット時の消費者の同意のステータスを取得するために使用できるオプションの変数です。[メディア収集APIドキュメ](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/>ント新しいAnalytics Consent Managementコンテキストデータ変数がフェデレーテッド分析フォームに追加されました。 これらの変数を、フェデレーションの「共有のオプトアウト」または「フェデレーションの販売ヒット数」のフラグ付けに使用できるようになりました。[フェデレーテッドフォームのダウンロード](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
+| Analysis Workspace：フリーフォームテーブルの合計の更新 | フリーフォームテーブルに、**[!UICONTROL テーブルの合計]**&#x200B;と、**[!UICONTROL 総計]**&#x200B;の 2 つの合計が含まれるようになりました。表の合計行は、適用されたレポートフィ [ルターを考慮し](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) ます。 以前は、セグメント化のみが合計に影響を与えていました。[詳細](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/workspace-totals.html)<br/>：列設定に、「合計を表 **[!UICONTROL 示]** 」オプ **[!UICONTROL ションと「総合計を表示]** 」オプションが追加さ **[!UICONTROL れました]**。<br/>フリーフォーム合計に対するこの変更により、書き出された CSV や PDF データだけでなく、依存するビジュアライゼーション（例：リンクされた **[!UICONTROL 概要番号]**&#x200B;ビジュアライゼーションなど）も更新されます。 |
+| Analysis Workspace：「未指定」または「なし」を削除するオプション | レポートフィルターのオプションに、「未指定（なし）」を簡単に削除する機能が追加されました。 |
+| Analysis Workspace：紫色の精度コンポーネントの廃止 | 紫色の精度の時間コンポーネント（分、時間、日、週、月、四半期、年）は廃止されました。紫の時間コンポーネントは常に、オレンジ色のディメンションと同じ動作をするので、この変更によってエクスペリエンスがシンプルになります。紫色の時間コンポーネントのいずれかを以前使用したことがある場合、**何もおこなう必要はありません**。<br/>この変更により、紫色の「**[!UICONTROL 時間]**」セクションの名前が、「**[!UICONTROL 日付範囲]**」に変更されました。 |
 
 #### 修正点
 
-* Analysis Workspace:左側のレールでディメンション項目を検索すると、検索結果が正しくない問題を修正しました。 （AN-185065）
-* Adobe Audience Manager(AAM)で共有セグメントを削除または非公開にできない問題を修正しました。 The fix is to not delete the segment if AAM is unresponsive. (AN-185882、AN-185883、AN-184607)
-* Ad Hoc Analysisでセグメントを読み込めない場合にタイムアウトになる問題を修正しました。 （AN-184654）
-* 最後に使用したレポートスイートがその後非表示になったり、このレポートスイートへのアクセス権限がなくなったりする問題を修正しました。 この場合、Experience cloudからログインできなくなりました。 （AN-181777）
-* Fixed a timeout issue in segments that made it difficult to create a VRS based on a segment. （AN-179684）
+* Analysis Workspace：左側のレールでディメンション項目を検索すると、間違った検索結果が表示される問題を修正しました。（AN-185065）
+* Adobe Audience Manager（AAM）で共有セグメントを削除または非公開にできない問題を修正しました。修正では、AAM が応答しない場合にセグメントを削除しないようにしました。（AN-185882、AN-185883、AN-184607）
+* Ad Hoc Analysis でセグメントを読み込めないタイムアウトの問題を修正しました。（AN-184654）
+* 最後に使用したレポートスイートがその後非表示になったり、このレポートスイートへのアクセス権限がなくなったりする問題を修正しました。この場合、Experience Cloud からログインできなくなっていました。（AN-181777）
+* セグメントに基づいて VRS を作成するのを困難にしていた、セグメントでのタイムアウトの問題を修正しました。（AN-179684）
 
 ### [!DNL Analytics] 管理者向けの重要な注意事項 {#aa-notices}
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| TLS 1.1 のサポート終了 | 2019 年 10 月 4 日 | 2020年3月31日までに、Adobe AnalyticsはTLS 1.1のサポートを削除します。この変更は、最高のセキュリティ標準を維持し、お客様データの安全性を促進するための継続的な取り組みの一部です。 |
-| San Jose FTP Broker Ending for London and Singapore | 2020 年 7 月 | For customers in London and Singapore, we will no longer be supporting brokering of data between London or Singapore and the San Jose data center ftp.omniture.com.[](ftp://ftp.omniture.com/)<br/>For London use ftp3.omniture.comFor Singapore use ftp4.omniture.com[](ftp://ftp3.omniture.com/)<br/>[](ftp://ftp4.omniture.com/) |
-| Analysis Workspace フリーフォームテーブルの合計を更新 | 2019 年 9 月 12 日 | In October 2019, freeform table total rows will begin accounting for report filters applied. [](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html)これまでは、合計はセグメント化にのみが反映されていました。この変更により、エクスポートされた CSV や PDF データだけでなく、依存するビジュアライゼーション（例：リンクされた [!UICONTROL 概要番号]ビジュアライゼーションなど）も更新されます。 |
-| Analytics ユーザーの `createDate` フィールドに関する変更予定 | 2019 年 8 月 30 日 | 2019 年 10 月または 2019 年 11 月に、Analytics ユーザーの `createDate` フィールドが米国太平洋時刻から、タイムゾーン情報を反映した正しい形式に更新されます。（AN-183468） |
+| TLS 1.1 のサポート終了 | 2019 年 10 月 4 日 | 2020 年 3 月 31 日までに、Adobe Analytics は TLS 1.1 のサポートを削除します。この変更は、最高のセキュリティ標準を維持し、顧客データの安全性を高めるアドビの継続的な取り組みの一環としておこなわれます。 |
+| ロンドンおよびシンガポールに対するサンノゼ FTP ブローカーの終了 | 2020 年 7 月 | ロンドンおよびシンガポールのお客様に対し、ロンドンまたはシンガポールとサンノゼのデータセンター [ftp.omniture.com](ftp://ftp.omniture.com/) の間での、データブローカー業務のサポートを終了します。次の FTP を使用してください。<br/><ul><li>ロンドンの場 [合は、ftp3.omniture.comを使用します。](ftp://ftp3.omniture.com/)</li><li>シンガポールの場 [合は、ftp4.omniture.comを使用します。](ftp://ftp4.omniture.com/)</li> |
+| Analysis Workspace フリーフォームテーブルの合計を更新 | 2019 年 9 月 13 日 | 2019年10月に、フリーフォームテーブルの合計行が、適用されたレポートフィルターに対す [る課金を開始し](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) ます。 これまでは、合計はセグメント化にのみが反映されていました。この変更により、エクスポートされた CSV や PDF データだけでなく、依存するビジュアライゼーション（例：リンクされた [!UICONTROL 概要番号]ビジュアライゼーションなど）も更新されます。 |
+| Analytics ユーザーの `createDate` フィールドに関する変更予定 | 2019 年 8 月 31 日 | 2019 年 10 月または 2019 年 11 月に、Analytics ユーザーの `createDate` フィールドが米国太平洋時刻から、タイムゾーン情報を反映した正しい形式に更新されます。（AN-183468） |
 | 履歴タイムゾーンオフセットのサポート | 2019 年 8 月 9 日 | Analytics は、タイムスタンプ付きのヒットに対して、タイムゾーンオフセットを自動的に処理するようになりました。この変更に従い、履歴処理用にデータで読み込むシステムは、データで送信する前にタイムゾーンオフセットを調整する必要がなくなりました。 |
-| 分類ルールビルダーの制限 | 追加日：2019 年 6 月 5 日 | These limits are not new, but have been added to the documentation here.[](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html) |
-| 新しいセグメント演算子の制限 | 追加日：2019 年 5 月 31 日 | 2019 年 7 月 18 日以降、セグメント演算子「_次のいずれかを含む_」、「_次のいずれかを含まない_」、「_次のすべてを含む_」および「_次のすべてを含まない_」は、入力フィールドあたり 100 語に制限されます。この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
-| **[!UICONTROL 日付分類]**&#x200B;および&#x200B;**[!UICONTROL 数値 2 分類]**&#x200B;に関するサポートの変更 | 2019 年 5 月 28 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。この変更は 2019 年 7 月のメンテナンスリリースから有効になりました。「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。<br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
-| _レポートの合計_&#x200B;の計算に対する変更 | 更新日：2019 年 7 月 9 日 | **2019 年 6 月 18 日**&#x200B;に、Adobe Analytics では、_レポートの合計_&#x200B;値の算出方法をすべてのディメンションおよび指標で共通化しました。これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されました。この変更以前は、レポートに&#x200B;_未指定_&#x200B;が表示されているかどうかにかかわらず、合計に&#x200B;_未指定_&#x200B;の行項目を含めるレポートと含めないレポートが混在していました。<br/>2019 年 6 月 18 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に含められるようになります。さらに、_存在する_&#x200B;または&#x200B;_存在しない_&#x200B;ロジックを使用するセグメントは、この変更後、一部のディメンションで異なる結果が表示される可能性があります（特に、_未指定_&#x200B;を特有な値としてレポートするディメンションに影響します。リファラータイプディメンションの「手動入力/ブックマーク」行項目やデバイスタイプディメンションの「その他」行項目が該当します）。この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。 |
-| Analysis Workspace CSV ダウンロード機能の更新点 | 2019 年 4 月 10 日 | 2019 年 4 月 12 日以降、Analysis Workspace からの **[!UICONTROL CSV ダウンロード]**（**[!UICONTORL クリップボードへのコピー]**）にいくつかの変更が加えられ、書き出されたデータから書式が削除されます。  <ul><li>桁区切り記号は含まれなくなりました。小数点文字は引き続き表示され、**[!UICONTROL コンポーネント／レポート設定／桁区切り記号]**&#x200B;で定義された形式が適用されます。注意：小数点を小数点区切り記号として使用する数値は、書き出された CSV では引き続き引用されます。</li><li>通貨記号は表示されません。</li><li>パーセント記号は表示されません。パーセンテージは 10 進形式になります。例：75%は 0.75 と表示されます。</li><li>時間は秒単位で表示されます。</li><li>コホートテーブルでは、生の値のみが表示され、パーセント値は削除されます。</li><li>数値が無効な場合は、空のセルが表示されます。</li></ul> |
-| Analysis Workspace Debugger コマンドの変更 | 2019 年 4 月 4 日 | Analysis Workspace Debugger をオンにするためのコンソールコマンドは、**2019 年 6 月 13 日**&#x200B;に adobeTools.debug.includeOberonXml に変更されます。この日以降、adobe.tools.debug.includeOberonXml は、機能しなくなります。 |
-| モバイルブラウザーのバージョン番号 | 2019 年 2 月 7 日 | 2019 年 1 月 8 日より、モバイルブラウザーバージョン番号を 2 桁から 1 桁に変更しました。この日以降、バージョンは先頭の 2 レベルのみ表示されます（例：_Firefox 64.0.2_ は _Firefox 64.0_ と表記されるようになりました）。 |
-| [!DNL Ad Hoc Analysis] のサポート終了  | 2019 年 1 月 29 日 | 2018 年 8 月 6 日、アドビは [!DNL Ad Hoc Analysis] のサポート終了の意向を表明しました。サポート終了日については確定次第お知らせします。<br/>サポート終了の予定や詳細については、[[!DNL Discover Workspace]](https://adobe.ly/discoverworkspace) を参照してください。 |
-| 短い [!DNL Analytics] レポートリンク | 2019 年 1 月 14 日 | 2019 年 1 月 17 日（木）以降、直近 1 年間に訪問されていない短い [!DNL Analytics] レポートリンクは、定期的に削除されるようになります。 |
-| データフィード：post_product_list 列 - サイズ変更 | 2019 年 1 月 9 日 | 2019 年 2 月 7 日、post_product_list 列のサイズを 64 KB から 16 MB に拡張されました。この変更は、処理中に post_product_list に追加されるマーチャンダイジング eVar 値により、製品および売上高の値の切り捨てが発生しないようにします。post_product_list の値を取得する処理を実行する場合、これらの処理が最大 16 MB の値に対応できるようにしてください。またはデータ取得の失敗を避けるために、値が 16 KB に達した時点で値を切り捨てるようにしてください。 |
-| [!DNL Analytics Live Stream] エンドポイントの管理における変更点 | 2018 年 12 月 20 日 | 2019 年 2 月 1 日以降、顧客からのアクティブな接続が 90 日間なかった [!DNL Live Stream] エンドポイントが無効化される場合があります。使用中の [!DNL Live Stream] エンドポイントについてはサポートに問い合わせて確認でき、必要に応じて再度有効にすることができます。また、サービス規定に従って顧客のプロセスで永続的な接続が維持されるように注意し、接続が切断されたり中断されたりしたときには再接続するように実装してください。 |
-| TLS 1.0 のサポート終了に伴う Adobe [!DNL Report Builder] の更新 | 2018 年 9 月 7 日 | TLS 1.0 のサポート終了に伴い、[!DNL Report Builder] ユーザーの皆様には 2019 年 2 月までにバージョン 5.6.21 をダウンロードされることをお勧めします。この日以降、以前のバージョンの [!DNL Report Builder] は機能しなくなります。 |
+| 分類ルールビルダーの制限 | 追加日：2019 年 6 月 6 日 | これらの制限は新しいものではありませんが、ここで説明するドキュメントに追加さ [れました](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html)。 |
+| 新しいセグメント演算子の制限 | 追加日：2019 年 6 月 1 日 | 2019 年 7 月 19 日以降、セグメント演算子「_次のいずれかを含む_」、「_次のいずれかを含まない_」、「_次のすべてを含む_」および「_次のすべてを含まない_」は、入力フィールドあたり 100 語に制限されます。この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
+| **[!UICONTROL 日付分類]**&#x200B;および&#x200B;**[!UICONTROL 数値 2 分類]**&#x200B;に関するサポートの変更 | 2019 年 5 月 29 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。この変更は 2019 年 7 月のメンテナンスリリースから有効になりました。「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。<br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
+| _レポートの合計_&#x200B;の計算に対する変更 | 更新日：2019 年 7 月 10 日 | **2019 年 6 月 19 日**&#x200B;に、Adobe Analytics では、_レポートの合計_&#x200B;値の算出方法をすべてのディメンションおよび指標で共通化しました。これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されました。この変更以前は、レポートに&#x200B;_未指定_&#x200B;が表示されているかどうかにかかわらず、合計に&#x200B;_未指定_&#x200B;の行項目を含めるレポートと含めないレポートが混在していました。<br/>2019 年 6 月 19 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に含められるようになります。さらに、_存在する_&#x200B;または&#x200B;_存在しない_&#x200B;ロジックを使用するセグメントは、この変更後、一部のディメンションで異なる結果が表示される可能性があります（特に、_未指定_&#x200B;を特有な値としてレポートするディメンションに影響します。リファラータイプディメンションの「手動入力/ブックマーク」行項目やデバイスタイプディメンションの「その他」行項目が該当します）。この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。 |
+| Analysis Workspace CSV ダウンロード機能の更新点 | 2019 年 4 月 11 日 | 2019 年 4 月 12 日以降、Analysis Workspace からの **[!UICONTROL CSV ダウンロード]**（**[!UICONTORL クリップボードへのコピー]**）にいくつかの変更が加えられ、書き出されたデータから書式が削除されます。  <ul><li>桁区切り記号は含まれなくなりました。小数点文字は引き続き表示され、**[!UICONTROL コンポーネント／レポート設定／桁区切り記号]**&#x200B;で定義された形式が適用されます。注意：小数点を小数点区切り記号として使用する数値は、書き出された CSV では引き続き引用されます。</li><li>通貨記号は表示されません。</li><li>パーセント記号は表示されません。パーセンテージは 10 進形式になります。例：75%は 0.75 と表示されます。</li><li>時間は秒単位で表示されます。</li><li>コホートテーブルでは、生の値のみが表示され、パーセント値は削除されます。</li><li>数値が無効な場合は、空のセルが表示されます。</li></ul> |
+| Analysis Workspace Debugger コマンドの変更 | 2019 年 4 月 5 日 | Analysis Workspace Debugger をオンにするためのコンソールコマンドは、**2019 年 6 月 14 日**&#x200B;に adobeTools.debug.includeOberonXml に変更されます。この日以降、adobe.tools.debug.includeOberonXml は、機能しなくなります。 |
+| モバイルブラウザーのバージョン番号 | 2019 年 2 月 8 日 | 2019 年 1 月 9 日より、モバイルブラウザーバージョン番号を 2 桁から 1 桁に変更しました。この日以降、バージョンは先頭の 2 レベルのみ表示されます（例：_Firefox 64.0.2_ は _Firefox 64.0_ と表記されるようになりました）。 |
+| [!DNL Ad Hoc Analysis] のサポート終了  | 2019 年 1 月 30 日 | 2018 年 8 月 7 日、アドビは [!DNL Ad Hoc Analysis] のサポート終了の意向を表明しました。サポート終了日については確定次第お知らせします。<br/>サポート終了の予定や詳細については、[[!DNL Discover Workspace]](https://adobe.ly/discoverworkspace) を参照してください。 |
+| 短い [!DNL Analytics] レポートリンク | 2019 年 1 月 15 日 | 2019 年 1 月 18 日（金）以降、直近 1 年間に訪問されていない短い [!DNL Analytics] レポートリンクは、定期的に削除されるようになります。 |
+| データフィード：post_product_list 列 - サイズ変更 | 2019 年 1 月 10 日 | 2019 年 2 月 8 日、post_product_list 列のサイズを 64 KB から 16 MB に拡張されました。この変更は、処理中に post_product_list に追加されるマーチャンダイジング eVar 値により、製品および売上高の値の切り捨てが発生しないようにします。post_product_list の値を取得する処理を実行する場合、これらの処理が最大 16 MB の値に対応できるようにしてください。またはデータ取得の失敗を避けるために、値が 16 KB に達した時点で値を切り捨てるようにしてください。 |
+| [!DNL Analytics Live Stream] エンドポイントの管理における変更点 | 2018 年 12 月 21 日 | 2019 年 2 月 2 日以降、顧客からのアクティブな接続が 90 日間なかった [!DNL Live Stream] エンドポイントが無効化される場合があります。使用中の [!DNL Live Stream] エンドポイントについてはサポートに問い合わせて確認でき、必要に応じて再度有効にすることができます。また、サービス規定に従って顧客のプロセスで永続的な接続が維持されるように注意し、接続が切断されたり中断されたりしたときには再接続するように実装してください。 |
+| TLS 1.0 のサポート終了に伴う Adobe [!DNL Report Builder] の更新 | 2018 年 9 月 8 日 | TLS 1.0 のサポート終了に伴い、[!DNL Report Builder] ユーザーの皆様には 2019 年 2 月までにバージョン 5.6.21 をダウンロードされることをお勧めします。この日以降、以前のバージョンの [!DNL Report Builder] は機能しなくなります。 |
 
 ### [!DNL AppMeasurement] {#appm}
 
@@ -114,12 +114,12 @@ Audience Manager の新機能、拡張機能および修正点です。
 
 **修正点および改善点**
 
-* All customer accounts created after July 1st, 2019, will automatically be assigned a  license, providing them access to their reports. [!DNL Tableau]If your account was created before July 1st, 2019, and you still do not have access to your  reports, please contact Customer Care.[!DNL Tableau]
-* 特性データソースとID同期を持たない訪問者プロファイルに対して、誤って生成されたアクティビティ特性メンバーシップが削除されました。(AAM-45371)
-* 無効なグローバルデバイスIDがグローバルデータソースから削除されました。 Audience Managerで受け [](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html) 入れられる有効なデバイスIDがどのように表示されるかを確認するには、「グローバルデータソース」を参照してください(AAM-41259)。
-* 保護されたセグメントを削除しようとすると、セグメントページが応答を停止するバグを修正しました。(AAM-49881)
-* Twitter用にカスタマイズされたオーディエンスの宛先を編集する場合、 [!UICONTROL Account] Selectorがアクティブになるのは、その宛先にアカウントが割り当てられて [!DNL Twitter Ads] いない場合のみです(AAM-49975)。
-* 購読が無効な場合に [!UICONTROL Audience Marketplace] データフィードが無効にならないバグを修正しました。(AAM-49640)
+* 2019 年 7 月 2 日以降にアカウントを作成したすべてのお客様には、自動的に [!DNL Tableau] ライセンスが割り当てられ、レポートへのアクセス権が提供されます。アカウントが 2019 年 7 月 1 日より前に作成され、まだ.[!DNL Tableau] レポートにアクセスできない場合は、カスタマーサポートにお問合せください。
+* 特性データソースとの ID同期を行っていない訪問者プロファイルに対し、アクティビティ特性メンバーシップが間違って生成されていた問題を削除しました。（AAM-45371）
+* グローバルデータソースから無効なグローバルデバイス IDを削除しました。Audience Managerで受け [](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html) 入れられる有効なデバイスIDがどのように表示されるかを確認するには、「グローバルデータソース」を参照してください(AAM-41259)。
+* 保護されているセグメントを削除しようとすると、セグメントページの応答が停止する問題を修正しました。（AAM-49881）
+* Twitter に合わせたオーディエンス用の宛先を編集した場合、宛先に [!DNL Twitter Ads] アカウントが割り当てられていない場合にのみ、「[!UICONTROL アカウント]」セレクターがアクティブになります。（AAM-49975）
+* サブスクリプションが無効化されている場合にユーザーが[!UICONTROL Audience Marketplace] データを無効にできないバグを修正しました。（AAM-49640）
 * Audience Manager ユーザーインターフェイスのアクセシビリティに関するいくつかの改善を行いました。
 
 ## Experience Manager {#aem}
@@ -130,49 +130,45 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * **AEM 6.3.3.6**
 
-   AEM 6.3、Service Pack 3、Cumulative Fix Pack 6（2019年9月26日リリース6.3.6）は、2017年4月のAEM 6.3の一般リリース(GA)以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
+   2019 年 9 月 26 日にリリースされた AEM 6.3 Service Pack 3–Cumulative Fix Pack 6（6.3.3.6）は重要なアップデートであり、2017 年 4 月の AEM 6.3 の一般リリース以降にリリースされた主なお客様向けの修正が含まれています。
    * [リリースノート](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)
    * [AEM Forms CFP リリース](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 * **AEM 6.4.6.0**
 
-   AEM 6.4、Service Pack 6.0（2019年9月19日リリースの6.4.6.0）は、2018年4月のAEM 6.4の一般リリース(GA)以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
+   2019 年 9 月 20 日にリリースされた AEM 6.4 Service Pack 4（6.4.6.0）は重要なアップデートであり、2018 年 4 月の AEM 6.4 の一般リリース以降にリリースされたお客様向けの主要な修正が含まれています。
    * [リリースノート](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
    * [AEM Forms CFP リリース](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
-* **AEM 6.5.2.0** AEM 6.5、Service Pack 2.0（2019年9月19日リリース6.5.2.0）は、2019年4月のAEM 6.5の一般リリース(GA)以降にリリースされた主なお客様向け修正を含む重要なアップデートです。
+* **AEM 6.5.2.0**
+2019 年 9 月 20 日にリリースされた AEM 6.5.2.0 Service Pack 4（6.5.2.0）は重要なアップデートであり、2019 年 4 月の AEM 6.5 の一般リリース以降にリリースされたお客様向けの主要な修正が含まれています。
    * [リリースノート](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
    * [AEM Forms CFP リリース](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 ### セルフサービス
 
-* **Scene7:アセットの再処理ワークフロー**
+* **Scene7：アセットの再処理ワークフロー**
 
-   後で変更した既存の処理プロファイルが既に存在するフォルダー内のアセットを再処理できるようになりました。
-処理プ [ロファイルを編集した後のフォルダー内のアセットの再処理を参照してください](https://helpx.adobe.com/experience-manager/6-5/assets/using/processing-profiles.html#Reprocessingassetsinafolderafteryouhaveediteditsprocessingprofile)。
+   既存の処理プロファイルを後で変更したフォルダー内のアセットを、再処理できるようになりました。処理プ [ロファイルを編集した後のフォルダー内のアセットの再処理を参照してください](https://helpx.adobe.com/experience-manager/6-5/assets/using/processing-profiles.html#Reprocessingassetsinafolderafteryouhaveediteditsprocessingprofile)。
 
-* **Dynamic Media ViewerとAdobe AnalyticsおよびAdobe Launchの統合**
+* **Dynamic Media Viewers と Adobe Analytics および Adobe Launch の統合**
 
-   Dynamic Media Viewers Extension for Adobe LaunchとDynamic Media Viewer 5.13のリリースにより、Dynamic Media、Adobe AnalyticsおよびAdobe Launchのお客様は、Adobe Launch設定で、Dynamic Media Viewerに固有のイベントとデータを使用できます。
-詳しくは、 [ダイナミックメディアビューアとAdobe AnalyticsおよびAdobe launchの統合を参照してください](https://helpx.adobe.com/experience-manager/6-5/assets/using/launch.html)。
+   Adobe Launch の Dynamic Media Viewers 拡張機能を、Dynamic Media Viewers 5.13 のリリースとともに使用することで、Dynamic Media、Adobe Analytics、および Adobe Launch のユーザーは、Adobe Launch 設定 Dynamic Media Viewers に固有のイベントやデータを使用できます。See [Integrating Dynamic Media Viewers with Adobe Analytics and Adobe Launch](https://helpx.adobe.com/experience-manager/6-5/assets/using/launch.html).
 
-* **AEMデスクトップアプリ**
+* **AEM デスクトップアプリ**
 
-   AEM Assetsで作業するクリエイティブ、マーケター、基幹業務ユーザー向けにAEMデスクトップアプリ2.0が提供されました。
-AEMデスクトップア [プリのリリースノートを参照してください。](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html)
+   AEM Assets で作業するクリエイティブ、マーケター、基幹業務ユーザー向けに AEM デスクトップアプリ 2.0 がリリースされました。
+「[AEM デスクトップアプリのリリースノート](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html)
 
 * **コアコンポーネント**
-   * コアコンポーネントのローカリゼーション機能とAEMテンプレートの使用方法について説明します。
+   * コアコンポーネントのローカライゼーション機能と AEM テンプレートのしくみについて説明します。
       [例を参照してください](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/get-started/localization.html)。
-   * コアコンポーネント2.6.0には、エクスペリエンスフラグメントコンポーネントが導入されています。 The component is now available along with authoring documentation and developer details and project download available on GitHub.[](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html)[](https://github.com/adobe/aem-core-wcm-components)
+   * コアコンポーネント 2.6.0 では、エクスペリエンスフラグメントコンポーネントを導入しています。コンポーネントが、オーサリングドキュメント [、開発者の詳細](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) 、およびGitHubで [のプロジェクトのダウンロードと共に使用できるようになりました](https://github.com/adobe/aem-core-wcm-components)。
 
 * **AEM Assets**
-   * New documentation for visual/similarity search capability.
-詳しくは、類 [似画像の検索を参照してくださ](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html#visualsearch)い。
-   * Connected Assets functionality now uses documents that are available on remote DAM deployment, in addition to images file formats.
-AEMサイト [でのDAMアセットの共有に接続されたアセットの使用を参照してください](https://helpx.adobe.com/experience-manager/6-5/assets/using/use-assets-across-connected-assets-instances.html)。
-   * アセットの検索と検出に関する新しいコンテンツ。 「AEM __ でアセットを検索」のトピックでは、使用、設定、トラブルシューティング、制限、ヒントに関する情報をワンストップで提供します。
-See Search assets in AEM.[](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html)
+   * 視覚／類似性検索機能に関する新しいドキュメント。詳しくは、類 [似画像の検索を参照してくださ](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html#visualsearch)い。
+   * Connected Asset の機能で、画像ファイル形式に加えて、リモート DAM デプロイメントで使用可能なドキュメントを使用するようになりました。AEMサイト [でのDAMアセットの共有に接続されたアセットの使用を参照してください](https://helpx.adobe.com/experience-manager/6-5/assets/using/use-assets-across-connected-assets-instances.html)。
+   * アセットの検索と検出に関する新しいコンテンツ。「_AEM でのアセット検索_」のトピックでは、使用、設定、トラブルシューティング、制限、ヒントに関する情報をワンストップで提供します。AEMでのア [セットの検索を参照してください](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html)。
 
 ### その他のリソース
 
@@ -192,8 +188,8 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### Adobe Campaign Classic
 
-* [Campaign Classic 19.1.4の更新](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9032) — ビルド9032
-* [Campaign Classic 19.1.6 update – build 9035](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-19-1-6-build-9035)
+* [Campaign Classic 19.1.4 update – build 9032](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9032)
+* [Campaign Classic 19.1.6の更新](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-19-1-6-build-9035) — ビルド9035
 
 ### その他のリソース
 
