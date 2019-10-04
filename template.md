@@ -31,7 +31,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [!DNL Campaign](#ac)
 * [Advertising Cloud](#adcloud)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) （ソリューションヘルプへのリンク）
 
 ## Experience Cloud および Experience Platform{#platform}
 
@@ -42,7 +42,7 @@ Experience Platform、Experience Cloud インターフェイス、製品管理�
 * [Mobile Services および Mobile SDK](#mobile)
 * [管理および開発者](#admin)
 * [Experience Platform Launch](#launch)
-* [Security bulletins and advisories (All Adobe products)](https://helpx.adobe.com/security.html)
+* [セキュリティ速報](https://helpx.adobe.com/security.html) （すべてのアドビ製品）
 
 ### コアサービス {#core-services}
 
@@ -54,7 +54,7 @@ For product documentation, see [Experience Cloud and Core Services](https://docs
 
 機能と修正点。
 
-For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+製品ドキュメントについては、 [Experience Cloud IDサービスを参照してください](https://marketing.adobe.com/resources/help/en_US/mcvid/)。
 
 ### Mobile Services および Mobile SDK {#mobile}
 
@@ -69,7 +69,7 @@ For product documentation, see [Experience Cloud ID service](https://marketing.a
 * 修正
 * 修正
 
-For product documentation, see [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
+製品ドキュメントについては、 [Mobile Servicesを参照してください](https://docs.adobe.com/content/help/en/mobile-services/using/home.html)。
 
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
 Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
@@ -78,7 +78,7 @@ Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.h
 
 機能と修正点。
 
-For product documentation, see [Manage user and products](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
+製品ドキュメントについては、「ユーザーと製 [品の管理」を参照してくださ](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html)い。
 
 ### Experience Platform Launch {#launch}
 
