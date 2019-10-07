@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 10 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 59bbe7ddd5cbbcb653d6c44223b644257dd94cb4
+source-git-commit: 8ef4569f130fe606dc9119a11e288f57205b7c0e
 
 ---
 
@@ -30,7 +30,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
+* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) （ソリューションヘルプへのリンク）
 
 <!-- ## Experience Cloud interface {#ecloud}
@@ -47,7 +47,7 @@ For product documentation, see [Experience Cloud](https://docs.adobe.com/content
 Experience Platform、Experience Platform Launch、ID サービスおよびセキュリティ速報のリリースノートです。
 
 * [Experience Platform Launch](#launch)
-* [セキュリティ速報および情報](https://helpx.adobe.com/security.html) (All Adobe products)
+* [セキュリティ速報および情報](https://helpx.adobe.com/security.html) （すべてのアドビ製品）
 
 ### Experience Platform Launch {#launch}
 
@@ -126,6 +126,13 @@ Audience Manager の新機能、拡張機能および修正点です。
 
 Adobe Experience Manager（AEM）の新機能、修正点および更新です。安定性、セキュリティ、パフォーマンスを高めるために、オンプレミス環境のお客様には最新のパッチをデプロイすることをお勧めします。
 
+### 製品リリース
+
+* **Cloud Manager 2019.9.0**
+
+   Cloud Manager 2019.9.0（2019年9月12日リリース）は、セキュリティテスト条件の更新、ダウンロード可能な監視グラフの追加、お客様から報告された操作性の問題の修正を行いました。
+   * [リリースノート](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
+
 ### 製品メンテナンス
 
 * **AEM 6.3.3.6**
@@ -178,7 +185,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 * [AEM 6.2 ラーニングとサポートホーム](https://helpx.adobe.com/support/experience-manager/6-2.html)
 * [Cloud Manager ユーザーガイド](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
 * [AEMドキュメントの旧バージョン](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
-* [Dynamic Media Classic Help Home](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
+* [Dynamic Media Classicヘルプホーム](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
 * [Dynamic Media リリースノート](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre リリースノート](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
@@ -188,7 +195,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### Adobe Campaign Classic
 
-* [Campaign Classic 19.1.4 update – build 9032](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9032)
+* [Campaign Classic 19.1.4の更新](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9032) — ビルド9032
 * [Campaign Classic 19.1.6の更新](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-19-1-6-build-9035) — ビルド9035
 
 ### その他のリソース
