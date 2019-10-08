@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 10 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ef4569f130fe606dc9119a11e288f57205b7c0e
+source-git-commit: 6660591c30a677b429967c0b7dbee6a306ed7f54
 
 ---
 
@@ -16,11 +16,11 @@ Adobe Experience Cloud の新機能および修正点です。
 
 >[!IMPORTANT]
 >
->このページに記載される内容は、リリース前の情報であり、リリース予定日の前に変更される可能性があります。
+>このページに記載される内容は、リリース前の情報であり、リリース日の前後に変更される可能性があります。
 
 >[!NOTE]
 >
->Subscribe to the [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. リリース後に発表された新情報には、更新の日付が明記されます。
+>Subscribe to the [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. リリース後に発表された新情報については、更新日と併せて追加公開します。
 
 ## リリース日：2019 年 10 月 11 日
 
@@ -67,28 +67,30 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| プライバシーサービス AP：CCPA | カリフォルニア州消費者プライバシー法（CCPA）は、米国カリフォルニア州の居住者のプライバシー権と消費者保護を強化します。この法律は、2020 年 1 月 1 日に施行されます。<br><br/>CCPA は、カリフォルニア州の居住者に新しいプライバシー権を提供します。ｌこれには、自分たちの個人データにアクセスして削除する権利、自分たちの個人データが（誰に）販売または公開されているかどうかを知る権利、および自分たちの個人データの販売を拒否する権利が含まれます。<br><br/>CCPA を見越し、プライバシーサービスは個人データの販売のオプトアウトに対するリクエストをサポートします。<br><br/>プライバシーサービス（旧 GDPR サービス）は、以前の機能をすべて保持し、CCPA をサポートするよう拡張されました。<br/>AnalyticsでのCCPA:（コンテンツ提供予定）プライバ <br><br/>[シーサービス概要](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
-| プライバシーレポート：Analytics Admin Console | Analytics でプライバシーレポートを有効化すると、レポート層イートに一連の予約変数が追加されます。変数は、消費者の同意データをヒットレベルで収集することサポートするよう作られています。<br/>新しいディメンション：<br/><ul><li>同意管理のオプトアウト</li><li>同意管理のオプトイン</li><li>同意管理変数：<!-- `[Link to new Consent Variables page in Analytics]()` --></li></ul> |
-| オーディオとビデオの分析：プライバシーサポート | メディアコレクション API に 2 つの新しい変数が追加されました。<br/><ul><li>analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul>これらは、ヒット時の消費者の同意のステータスを取得するために使用できるオプションの変数です。[メディア収集APIドキュメ](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/>ント新しいAnalytics Consent Managementコンテキストデータ変数がフェデレーテッド分析フォームに追加されました。 これらの変数を、フェデレーションの「共有のオプトアウト」または「フェデレーションの販売ヒット数」のフラグ付けに使用できるようになりました。[フェデレーテッドフォームのダウンロード](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
-| Analysis Workspace：フリーフォームテーブルの合計の更新 | フリーフォームテーブルに、**[!UICONTROL テーブルの合計]**&#x200B;と、**[!UICONTROL 総計]**&#x200B;の 2 つの合計が含まれるようになりました。表の合計行は、適用されたレポートフィ [ルターを考慮し](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) ます。 以前は、セグメント化のみが合計に影響を与えていました。[詳細](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/workspace-totals.html)<br/>：列設定に、「合計を表 **[!UICONTROL 示]** 」オプ **[!UICONTROL ションと「総合計を表示]** 」オプションが追加さ **[!UICONTROL れました]**。<br/>フリーフォーム合計に対するこの変更により、書き出された CSV や PDF データだけでなく、依存するビジュアライゼーション（例：リンクされた **[!UICONTROL 概要番号]**&#x200B;ビジュアライゼーションなど）も更新されます。 |
+| プライバシーサービス API：CCPA | カリフォルニア州消費者プライバシー法（CCPA）は、米国カリフォルニア州の居住者のプライバシー権と消費者保護を厳格化します。この法律は、2020 年 1 月 1 日に施行されます。<br><br/>CCPA は、カリフォルニア州の居住者に新しいプライバシー権を提供します。これには、自身の個人データにアクセスして削除する権利、自身の個人データが（誰に）販売または公開されているかどうかを知る権利、および自身の個人データの販売を拒否する権利が含まれます。<br><br/>CCPA を見越し、プライバシーサービスは個人データの販売のオプトアウトに対するリクエストをサポートします。<br><br/>プライバシーサービス（旧 GDPR サービス）は、以前の機能をすべて保持し、CCPA をサポートするよう拡張されました。<br/>AnalyticsでのCCPA:（コンテンツ提供予定）プライバ <br><br/>[シーサービス概要](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
+| プライバシーレポート：Analytics Admin Console | Analytics でプライバシーレポートを有効化すると、レポートスイートに一連の変数が追加されます。これらの変数は、消費者の同意データをヒットレベルで収集するためのものです。<br/>追加されるディメンション：<br/><ul><li>同意管理のオプトアウト</li><li>同意管理のオプトイン</li><li>同意管理変数：<!-- `[Link to new Consent Variables page in Analytics]()` --></li></ul> |
+| オーディオとビデオの分析：プライバシーサポート | メディアコレクション API に 2 つの新しい変数が追加されました。<br/><ul><li>analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul>これらは、ヒット時の消費者の同意のステータスを取得するための変数です。[メディア収集APIドキュメ](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/>ント新しいAnalytics Consent Managementコンテキストデータ変数がフェデレーテッド分析フォームに追加されました。 これらの変数を、フェデレーションの「共有のオプトアウト」または「販売ヒット数」のフラグ付けに使用できるようになりました。[フェデレーテッドフォームのダウンロード](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
+| Analysis Workspace：フリーフォームテーブルの合計の更新 | フリーフォームテーブルに、**[!UICONTROL テーブルの合計]**&#x200B;と、**[!UICONTROL 総計]**&#x200B;の 2 つの合計が表示されるようになりました。表の合計行は、適用されたレポートフィ [ルターを考慮し](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) ます。 以前は、セグメントのみが合計に影響を与えていました。[詳細](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/workspace-totals.html)<br/>：列設定に、「合計を表 **[!UICONTROL 示]** 」オプ **[!UICONTROL ションと「総合計を表示]** 」オプションが追加さ **[!UICONTROL れました]**。<br/>この変更により、出力された CSV や PDF データだけでなく、依存するビジュアライゼーション（例：リンクされた **[!UICONTROL 概要番号]**&#x200B;ビジュアライゼーションなど）も更新されます。 |
 | Analysis Workspace：「未指定」または「なし」を削除するオプション | レポートフィルターのオプションに、「未指定（なし）」を簡単に削除する機能が追加されました。 |
-| Analysis Workspace：紫色の精度コンポーネントの廃止 | 紫色の精度の時間コンポーネント（分、時間、日、週、月、四半期、年）は廃止されました。紫の時間コンポーネントは常に、オレンジ色のディメンションと同じ動作をするので、この変更によってエクスペリエンスがシンプルになります。紫色の時間コンポーネントのいずれかを以前使用したことがある場合、**何もおこなう必要はありません**。<br/>この変更により、紫色の「**[!UICONTROL 時間]**」セクションの名前が、「**[!UICONTROL 日付範囲]**」に変更されました。 |
+| Analysis Workspace：紫色の精度コンポーネントの廃止 | 紫色の精度の時間コンポーネント（分、時間、日、週、月、四半期、年）は廃止されました。紫の時間コンポーネントは常に、オレンジ色のディメンションと同じ動作をするので、この変更によって画面や操作がシンプルになります。紫色の時間コンポーネントを以前使用したことがある場合、**何もおこなう必要はありません**。<br/>この変更により、紫色の「**[!UICONTROL 日時]**」セクションの名前が、「**[!UICONTROL 日付範囲]**」に変更されました。 |
 
 #### 修正点
 
 * Analysis Workspace：左側のレールでディメンション項目を検索すると、間違った検索結果が表示される問題を修正しました。（AN-185065）
 * Adobe Audience Manager（AAM）で共有セグメントを削除または非公開にできない問題を修正しました。修正では、AAM が応答しない場合にセグメントを削除しないようにしました。（AN-185882、AN-185883、AN-184607）
-* Ad Hoc Analysis でセグメントを読み込めないタイムアウトの問題を修正しました。（AN-184654）
+* Ad Hoc Analysis でセグメントを読み込めずタイムアウトする問題を修正しました。（AN-184654）
 * 最後に使用したレポートスイートがその後非表示になったり、このレポートスイートへのアクセス権限がなくなったりする問題を修正しました。この場合、Experience Cloud からログインできなくなっていました。（AN-181777）
-* セグメントに基づいて VRS を作成するのを困難にしていた、セグメントでのタイムアウトの問題を修正しました。（AN-179684）
+* セグメントに基づいて仮想レポートスイートを作成するのを困難にしていた、セグメントでのタイムアウトの問題を修正しました。（AN-179684）
+* まれに誤ったエンコードが行われる場合にデータが切り捨てられる問題を修正しました。 （AN-186707）
+* Yandex検索エンジンが国別に適切に分類されるようになりました。 （AN-181728）
 
 ### [!DNL Analytics] 管理者向けの重要な注意事項 {#aa-notices}
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
 | TLS 1.1 のサポート終了 | 2019 年 10 月 4 日 | 2020 年 3 月 31 日までに、Adobe Analytics は TLS 1.1 のサポートを削除します。この変更は、最高のセキュリティ標準を維持し、顧客データの安全性を高めるアドビの継続的な取り組みの一環としておこなわれます。 |
-| ロンドンおよびシンガポールに対するサンノゼ FTP ブローカーの終了 | 2020 年 7 月 | ロンドンおよびシンガポールのお客様に対し、ロンドンまたはシンガポールとサンノゼのデータセンター [ftp.omniture.com](ftp://ftp.omniture.com/) の間での、データブローカー業務のサポートを終了します。次の FTP を使用してください。<br/><ul><li>ロンドンの場 [合は、ftp3.omniture.comを使用します。](ftp://ftp3.omniture.com/)</li><li>シンガポールの場 [合は、ftp4.omniture.comを使用します。](ftp://ftp4.omniture.com/)</li> |
-| Analysis Workspace フリーフォームテーブルの合計を更新 | 2019 年 9 月 13 日 | 2019年10月に、フリーフォームテーブルの合計行が、適用されたレポートフィルターに対す [る課金を開始し](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) ます。 これまでは、合計はセグメント化にのみが反映されていました。この変更により、エクスポートされた CSV や PDF データだけでなく、依存するビジュアライゼーション（例：リンクされた [!UICONTROL 概要番号]ビジュアライゼーションなど）も更新されます。 |
+| サンノゼ FTP 連携機能の終了 | 2020 年 7 月 | ロンドンおよびシンガポールデータセンターをご利用のお客様に対し、サンノゼデータセンター [ftp.omniture.com](ftp://ftp.omniture.com/) からロンドンまたはシンガポールへの、データ連携機能の提供を終了します。ftp.omniture.com をご利用中のお客様は、今後、次の FTP を使用してください。<br/><ul><li>ロンドンの場 [合は、ftp3.omniture.comを使用します。](ftp://ftp3.omniture.com/)</li><li>シンガポールの場 [合は、ftp4.omniture.comを使用します。](ftp://ftp4.omniture.com/)</li> |
+| Analysis Workspace フリーフォームテーブルの合計を更新 | 2019 年 9 月 13 日 | 2019年10月に、フリーフォームテーブルの合計行が、適用されたレポートフィルターに対す [る課金を開始し](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) ます。 これまでは、合計はセグメントのみが反映されていました。この変更により、出力された CSV や PDF データだけでなく、依存するビジュアライゼーション（例：リンクされた [!UICONTROL 概要番号]ビジュアライゼーションなど）も更新されます。 |
 | Analytics ユーザーの `createDate` フィールドに関する変更予定 | 2019 年 8 月 31 日 | 2019 年 10 月または 2019 年 11 月に、Analytics ユーザーの `createDate` フィールドが米国太平洋時刻から、タイムゾーン情報を反映した正しい形式に更新されます。（AN-183468） |
 | 履歴タイムゾーンオフセットのサポート | 2019 年 8 月 9 日 | Analytics は、タイムスタンプ付きのヒットに対して、タイムゾーンオフセットを自動的に処理するようになりました。この変更に従い、履歴処理用にデータで読み込むシステムは、データで送信する前にタイムゾーンオフセットを調整する必要がなくなりました。 |
 | 分類ルールビルダーの制限 | 追加日：2019 年 6 月 6 日 | これらの制限は新しいものではありませんが、ここで説明するドキュメントに追加さ [れました](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html)。 |
@@ -114,7 +116,7 @@ Audience Manager の新機能、拡張機能および修正点です。
 
 **修正点および改善点**
 
-* 2019 年 7 月 2 日以降にアカウントを作成したすべてのお客様には、自動的に [!DNL Tableau] ライセンスが割り当てられ、レポートへのアクセス権が提供されます。アカウントが 2019 年 7 月 1 日より前に作成され、まだ.[!DNL Tableau] レポートにアクセスできない場合は、カスタマーサポートにお問合せください。
+* 2019 年 7 月 2 日以降にアカウントを作成したすべてのお客様には、自動的に [!DNL Tableau] ライセンスが割り当てられ、レポートへのアクセス権が提供されます。アカウントが 2019 年 7 月 1 日より前に作成され、まだ。[!DNL Tableau] レポートにアクセスできない場合は、カスタマーサポートにお問合せください。
 * 特性データソースとの ID同期を行っていない訪問者プロファイルに対し、アクティビティ特性メンバーシップが間違って生成されていた問題を削除しました。（AAM-45371）
 * グローバルデータソースから無効なグローバルデバイス IDを削除しました。Audience Managerで受け [](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html) 入れられる有効なデバイスIDがどのように表示されるかを確認するには、「グローバルデータソース」を参照してください(AAM-41259)。
 * 保護されているセグメントを削除しようとすると、セグメントページの応答が停止する問題を修正しました。（AAM-49881）
