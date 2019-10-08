@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 10 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b4a973b8292ecfd8b203b7fac0b391e42924a7ca
+source-git-commit: 0b49b33936be089aaa6f910eeb1af9138a55ae17
 
 ---
 
@@ -47,7 +47,7 @@ For product documentation, see [Experience Cloud](https://docs.adobe.com/content
 Experience Platform、Experience Platform Launch、ID サービスおよびセキュリティ速報のリリースノートです。
 
 * [Experience Platform Launch](#launch)
-* [セキュリティ速報および情報](https://helpx.adobe.com/security.html) （すべてのアドビ製品）
+* [セキュリティ速報](https://helpx.adobe.com/security.html) （すべてのアドビ製品）
 
 ### Experience Platform Launch {#launch}
 
@@ -132,7 +132,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * **Cloud Manager 2019.9.0**
 
-   Cloud Manager 2019.9.0（2019年9月12日リリース）は、セキュリティテスト条件の更新、ダウンロード可能な監視グラフの追加、お客様から報告された操作性の問題の修正を行いました。
+   * Cloud Manager 2019.9.0（2019年9月12日リリース）は、セキュリティテスト条件の更新、ダウンロード可能な監視グラフの追加、お客様から報告された操作性の問題の修正を行いました。
    * [リリースノート](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 
 ### 製品メンテナンス
