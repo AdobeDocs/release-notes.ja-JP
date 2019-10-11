@@ -5,18 +5,14 @@ doc-type: リリースノート
 last-update: 2019 年 10 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3d35a004385f3e94feeb205d25e6c420e54ca835
+source-git-commit: 11f19eef3e0d5fec9b7008c51a3afbb94ec1c2c6
 
 ---
 
 
-# 先行公開 - Experience Cloud のリリースノート - 2019 年 10 月
+# Adobe Experience cloudリリースノート — 2019年10月
 
 Adobe Experience Cloud の新機能および修正点です。
-
->[!IMPORTANT]
->
->このページに記載される内容は、リリース前の情報であり、リリース日の前後に変更される可能性があります。
 
 >[!NOTE]
 >
