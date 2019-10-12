@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 10 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 0b28b2835840757a936434b28597526069e19517
+source-git-commit: 0371f31dcb1feb368bd8a2937a9f2d9583e208dc
 
 ---
 
@@ -16,7 +16,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 >[!NOTE]
 >
->Subscribe to the [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. リリース後に発表された新情報については、更新日と併せて追加公開します。
+>[[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。リリース後に発表された新情報については、更新日と併せて追加公開します。
 
 ## リリース日：2019 年 10 月 11 日
 
@@ -26,8 +26,9 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) （ソリューションヘルプへのリンク）
+* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（ソリューションヘルプへのリンク）
+* [!DNL Advertising Cloud](#adcloud)
 
 <!-- ## Experience Cloud interface {#ecloud}
 
@@ -43,11 +44,11 @@ For product documentation, see [Experience Cloud](https://docs.adobe.com/content
 Experience Platform、Experience Platform Launch、ID サービスおよびセキュリティ速報のリリースノートです。
 
 * [Experience Platform Launch](#launch)
-* [セキュリティ速報および情報](https://helpx.adobe.com/security.html) （すべてのアドビ製品）
+* [セキュリティ速報および情報](https://helpx.adobe.com/security.html)（すべてのアドビ製品）
 
 ### Experience Platform Launch {#launch}
 
-See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for release notes and product documentation.
+リリースノートおよび製品ドキュメントについては、[Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) を参照してください。
 
 ## [!DNL Analytics] {#analytics}
 
@@ -57,7 +58,7 @@ Adobe Analytics の新機能および修正点です。
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [AppMeasurement](#appm)
 
-For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
+製品ドキュメントについては、[Adobe Analytics ヘルプホーム](https://docs.adobe.com/content/help/en/analytics/landing/home.html)を参照してください。
 
 ### Adobe Analytics の新機能、機能強化および修正点{#aa-features}
 
@@ -65,8 +66,8 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 | -----------| ---------- |  
 | プライバシーサービス API：CCPA | カリフォルニア州消費者プライバシー法（CCPA）は、米国カリフォルニア州の居住者のプライバシー権と消費者保護を厳格化します。この法律は、2020 年 1 月 1 日に施行されます。<br/><br/>CCPA は、カリフォルニア州の居住者に新しいプライバシー権を提供します。これには、自身の個人データにアクセスして削除する権利、自身の個人データが（誰に）販売または公開されているかどうかを知る権利、および自身の個人データの販売を拒否する権利が含まれます。<br/><br/>CCPAに備えて、プライバシーサービスは個人データの販売を停止する要求をサポートします。<br/><br/>プライバシーサービス（旧 GDPR サービス）は、以前の機能をすべて保持し、CCPA をサポートするよう拡張されました。<br/><br/>[AnalyticsのCCPAプライバシー](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/an-ccpa-overview.html)<br/><br/>[サービスの概要](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
 | プライバシーレポート：Analytics Admin Console | Analytics でプライバシーレポートを有効化すると、レポートスイートに一連の変数が追加されます。これらの変数は、消費者の同意データをヒットレベルで収集するためのものです。<br/><br/>追加されるディメンション：<br/><ul><li>同意管理のオプトアウト</li><li>同意管理のオプトイン</li><li>[同意管理変数](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/consent-variables.html)</li></ul> |
-| オーディオとビデオの分析：プライバシーサポート | メディアコレクション API に 2 つの新しい変数が追加されました。<br/><ul><li>analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul><br/><br/>これらは、ヒット時の消費者の同意のステータスを取得するための変数です。<br/><br/>[メディア収集APIドキュメ](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/><br/>ント新しいAnalytics Consent Managementコンテキストデータ変数がフェデレーテッド分析フォームに追加されました。 これらの変数を、フェデレーションの「共有のオプトアウト」または「販売ヒット数」のフラグ付けに使用できるようになりました。<br/><br/>[フェデレーテッドフォームのダウンロード](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
-| Analysis Workspace：フリーフォームテーブルの合計の更新 | フリーフォームテーブルに、**[!UICONTROL テーブルの合計]**&#x200B;と、**[!UICONTROL 総計]**&#x200B;の 2 つの合計が表示されるようになりました。表の合計行は、適用されたレポートフィ [ルターを考慮し](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) ます。 以前は、セグメントのみが合計に影響を与えていました。[詳細](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/workspace-totals.html)<br/>：列設定に、「合計を表 **[!UICONTROL 示]** 」オプ **[!UICONTROL ションと「総合計を表示]** 」オプションが追加さ **[!UICONTROL れました]**。<br/>この変更により、出力された CSV や PDF データだけでなく、依存するビジュアライゼーション（例：リンクされた **[!UICONTROL 概要番号]**&#x200B;ビジュアライゼーションなど）も更新されます。 |
+| オーディオとビデオの分析：プライバシーサポート | メディアコレクション API に 2 つの新しい変数が追加されました。<br/><ul><li>analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul><br/><br/>これらは、ヒット時の消費者の同意のステータスを取得するための変数です。<br/><br/>[メディアコレクション API ドキュメント](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/><br/>新しい Analytics Consent Management コンテキストデータ変数が Federated Analytics フォームに追加されました。これらの変数を、フェデレーションの「共有のオプトアウト」または「販売ヒット数」のフラグ付けに使用できるようになりました。<br/><br/>[フェデレーテッドフォームのダウンロード](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
+| Analysis Workspace：フリーフォームテーブルの合計の更新 | フリーフォームテーブルに、**[!UICONTROL テーブルの合計]**&#x200B;と、**[!UICONTROL 総計]**&#x200B;の 2 つの合計が表示されるようになりました。テーブルの合計行は、適用された[レポートフィ ルター](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html)を考慮します。以前は、セグメントのみが合計に影響を与えていました。[詳細](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/workspace-totals.html)<br/>さらに、「**[!UICONTROL 列設定]**」に。「**[!UICONTROL 合計行を表示]**」および「**[!UICONTROL 総計を表示]**」オプションが追加されました。<br/>この変更により、出力された CSV や PDF データだけでなく、依存するビジュアライゼーション（例：リンクされた **[!UICONTROL 概要番号]**&#x200B;ビジュアライゼーションなど）も更新されます。 |
 | Analysis Workspace：「未指定」または「なし」を削除するオプション | レポートフィルターのオプションに、「未指定（なし）」を簡単に削除する機能が追加されました。 |
 | Analysis Workspace：紫色の精度コンポーネントの廃止 | 紫色の精度の時間コンポーネント（分、時間、日、週、月、四半期、年）は廃止されました。紫の時間コンポーネントは常に、オレンジ色のディメンションと同じ動作をするので、この変更によって画面や操作がシンプルになります。紫色の時間コンポーネントを以前使用したことがある場合、**何もおこなう必要はありません**。<br/>この変更により、紫色の「**[!UICONTROL 日時]**」セクションの名前が、「**[!UICONTROL 日付範囲]**」に変更されました。 |
 
@@ -77,8 +78,8 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 * Ad Hoc Analysis でセグメントを読み込めずタイムアウトする問題を修正しました。（AN-184654）
 * 最後に使用したレポートスイートがその後非表示になったり、このレポートスイートへのアクセス権限がなくなったりする問題を修正しました。この場合、Experience Cloud からログインできなくなっていました。（AN-181777）
 * セグメントに基づいて仮想レポートスイートを作成するのを困難にしていた、セグメントでのタイムアウトの問題を修正しました。（AN-179684）
-* まれに誤ったエンコードが行われる場合にデータが切り捨てられる問題を修正しました。 （AN-186707）
-* Yandex検索エンジンが国別に適切に分類されるようになりました。 （AN-181728）
+* まれに誤ったエンコードが存在する場合、データが切り捨てられる問題を修正しました。（AN-186707）
+* Yandex 検索エンジンが国別に適切に分類されるようになりました。（AN-181728）
 
 ### [!DNL Analytics] 管理者向けの重要な注意事項 {#aa-notices}
 
@@ -86,10 +87,10 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 | -----------| ---------- | ---------- |
 | TLS 1.1 のサポート終了 | 2019 年 10 月 4 日 | 2020 年 3 月 31 日までに、Adobe Analytics は TLS 1.1 のサポートを削除します。この変更は、最高のセキュリティ標準を維持し、顧客データの安全性を高めるアドビの継続的な取り組みの一環としておこなわれます。 |
 | サンノゼ FTP 連携機能の終了 | 2020 年 7 月 | ロンドンおよびシンガポールデータセンターをご利用のお客様に対し、サンノゼデータセンター [ftp.omniture.com](ftp://ftp.omniture.com/) からロンドンまたはシンガポールへの、データ連携機能の提供を終了します。ftp.omniture.com をご利用中のお客様は、今後、次の FTP を使用してください。<br/><ul><li>ロンドンのお客様：[ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>シンガポールのお客様：[ftp4.omniture.com](ftp://ftp4.omniture.com/)</li> |
-| Analysis Workspace フリーフォームテーブルの合計を更新 | 2019 年 9 月 13 日 | 2019年10月に、フリーフォームテーブルの合計行が、適用されたレポートフィルターに対す [る課金を開始し](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) ます。 これまでは、合計はセグメントのみが反映されていました。この変更により、出力された CSV や PDF データだけでなく、依存するビジュアライゼーション（例：リンクされた [!UICONTROL 概要番号]ビジュアライゼーションなど）も更新されます。 |
+| Analysis Workspace フリーフォームテーブルの合計を更新 | 2019 年 9 月 13 日 | 2019 年 10 月より、フリーフォームテーブルの合計行が、適用された[レポートフィルター](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html)を考慮するようになります。これまでは、合計はセグメントのみが反映されていました。この変更により、出力された CSV や PDF データだけでなく、依存するビジュアライゼーション（例：リンクされた [!UICONTROL 概要番号]ビジュアライゼーションなど）も更新されます。 |
 | Analytics ユーザーの `createDate` フィールドに関する変更予定 | 2019 年 8 月 31 日 | 2019 年 10 月または 2019 年 11 月に、Analytics ユーザーの `createDate` フィールドが米国太平洋時刻から、タイムゾーン情報を反映した正しい形式に更新されます。（AN-183468） |
 | 履歴タイムゾーンオフセットのサポート | 2019 年 8 月 9 日 | Analytics は、タイムスタンプ付きのヒットに対して、タイムゾーンオフセットを自動的に処理するようになりました。この変更に従い、履歴処理用にデータで読み込むシステムは、データで送信する前にタイムゾーンオフセットを調整する必要がなくなりました。 |
-| 分類ルールビルダーの制限 | 追加日：2019 年 6 月 6 日 | これらの制限は新しいものではありませんが、ここで説明するドキュメントに追加さ [れました](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html)。 |
+| 分類ルールビルダーの制限 | 追加日：2019 年 6 月 6 日 | これらの制限は新しいものではありませんが、[こちら](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html)のドキュメントに追加されました。 |
 | 新しいセグメント演算子の制限 | 追加日：2019 年 6 月 1 日 | 2019 年 7 月 19 日以降、セグメント演算子「_次のいずれかを含む_」、「_次のいずれかを含まない_」、「_次のすべてを含む_」および「_次のすべてを含まない_」は、入力フィールドあたり 100 語に制限されます。この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
 | **[!UICONTROL 日付分類]**&#x200B;および&#x200B;**[!UICONTROL 数値 2 分類]**&#x200B;に関するサポートの変更 | 2019 年 5 月 29 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。この変更は 2019 年 7 月のメンテナンスリリースから有効になりました。「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。<br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
 | _レポートの合計_&#x200B;の計算に対する変更 | 更新日：2019 年 7 月 10 日 | **2019 年 6 月 19 日**&#x200B;に、Adobe Analytics では、_レポートの合計_&#x200B;値の算出方法をすべてのディメンションおよび指標で共通化しました。これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されました。この変更以前は、レポートに&#x200B;_未指定_&#x200B;が表示されているかどうかにかかわらず、合計に&#x200B;_未指定_&#x200B;の行項目を含めるレポートと含めないレポートが混在していました。<br/>2019 年 6 月 19 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に含められるようになります。さらに、_存在する_&#x200B;または&#x200B;_存在しない_&#x200B;ロジックを使用するセグメントは、この変更後、一部のディメンションで異なる結果が表示される可能性があります（特に、_未指定_&#x200B;を特有な値としてレポートするディメンションに影響します。リファラータイプディメンションの「手動入力/ブックマーク」行項目やデバイスタイプディメンションの「その他」行項目が該当します）。この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。 |
@@ -104,7 +105,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### [!DNL AppMeasurement] {#appm}
 
-JavaScript版AppMeasurementリ [リースノートを参照してください](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)。
+[JavaScript 版 AppMeasurement リリースノート](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)を参照してください。
 
 ## Audience Manager {#aam}
 
@@ -113,11 +114,11 @@ Audience Manager の新機能、拡張機能および修正点です。
 **修正点および改善点**
 
 * 2019 年 7 月 2 日以降にアカウントを作成したすべてのお客様には、自動的に [!DNL Tableau] ライセンスが割り当てられ、レポートへのアクセス権が提供されます。アカウントが 2019 年 7 月 1 日より前に作成され、まだ。[!DNL Tableau] レポートにアクセスできない場合は、カスタマーサポートにお問合せください。
-* アクティビティ特性の誤った生成、および人為的な一致率とオーディエンスサイズの増加の原因となっていたバグを修正しました。 この修正に従うと、自動生成されたアクティビティ特性を使用して作成されたセグメントのサイズが小さくなる場合があります。 これは正常で、予期される動作です(AAM-45371)。
-* グローバルデータソースから無効なグローバルデバイス IDを削除しました。Audience Managerで受け [](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html) 入れられる有効なデバイスIDがどのように表示されるかを確認するには、「グローバルデータソース」を参照してください(AAM-41259)。
+* アクティビティ特性が間違って生成されたり、マッチ率やオーディエンスのサイズが人為的に増加したりする原因となっていたバグを修正しました。この修正に従うと、自動生成されたアクティビティ特性を使用して作成されたセグメントのサイズが小さくなる場合があります。これは正常な、予期される動作です。（AAM-45371）
+* グローバルデータソースから無効なグローバルデバイス IDを削除しました。Audience Manager で利用できる有効なデバイス ID については、「[グローバルデータソース](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html)」 入れられる有効なデバイスIDがどのように表示されるかを確認するには、「グローバルデータソース」を参照してください(AAM-41259)。
 * 保護されているセグメントを削除しようとすると、セグメントページの応答が停止する問題を修正しました。（AAM-49881）
 * Twitter に合わせたオーディエンス用の宛先を編集した場合、宛先に [!DNL Twitter Ads] アカウントが割り当てられていない場合にのみ、「[!UICONTROL アカウント]」セレクターがアクティブになります。（AAM-49975）
-* サブスクリプションが無効化されている場合にユーザーが[!UICONTROL Audience Marketplace] データを無効にできないバグを修正しました。（AAM-49640）
+* サブスクリプションが無効化されている場合にユーザーが [!UICONTROL Audience Marketplace] データを無効にできないバグを修正しました。（AAM-49640）
 * Audience Manager ユーザーインターフェイスのアクセシビリティに関するいくつかの改善を行いました。
 
 ## Experience Manager {#aem}
@@ -154,11 +155,11 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * **Scene7：アセットの再処理ワークフロー**
 
-   既存の処理プロファイルを後で変更したフォルダー内のアセットを、再処理できるようになりました。処理プ [ロファイルを編集した後のフォルダー内のアセットの再処理を参照してください](https://helpx.adobe.com/experience-manager/6-5/assets/using/processing-profiles.html#Reprocessingassetsinafolderafteryouhaveediteditsprocessingprofile)。
+   既存の処理プロファイルを後で変更したフォルダー内のアセットを、再処理できるようになりました。「[処理プロファイルを編集した後のフォルダー内のアセットの再処理](https://helpx.adobe.com/experience-manager/6-5/assets/using/processing-profiles.html#Reprocessingassetsinafolderafteryouhaveediteditsprocessingprofile)」を参照してください。
 
 * **Dynamic Media Viewers と Adobe Analytics および Adobe Launch の統合**
 
-   Adobe Launch の Dynamic Media Viewers 拡張機能を、Dynamic Media Viewers 5.13 のリリースとともに使用することで、Dynamic Media、Adobe Analytics、および Adobe Launch のユーザーは、Adobe Launch 設定 Dynamic Media Viewers に固有のイベントやデータを使用できます。See [Integrating Dynamic Media Viewers with Adobe Analytics and Adobe Launch](https://helpx.adobe.com/experience-manager/6-5/assets/using/launch.html).
+   Adobe Launch の Dynamic Media Viewers 拡張機能を、Dynamic Media Viewers 5.13 のリリースとともに使用することで、Dynamic Media、Adobe Analytics、および Adobe Launch のユーザーは、Adobe Launch 設定 Dynamic Media Viewers に固有のイベントやデータを使用できます。「[Dynamic Media Viewers と Adobe Analytics および Adobe Launch の統合](https://helpx.adobe.com/experience-manager/6-5/assets/using/launch.html)」を参照してください。
 
 * **AEM デスクトップアプリ**
 
@@ -168,12 +169,12 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 * **コアコンポーネント**
    * コアコンポーネントのローカライゼーション機能と AEM テンプレートのしくみについて説明します。
       [例を参照してください](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/get-started/localization.html)。
-   * コアコンポーネント 2.6.0 では、エクスペリエンスフラグメントコンポーネントを導入しています。コンポーネントが、オーサリングドキュメント [、開発者の詳細](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) 、およびGitHubで [のプロジェクトのダウンロードと共に使用できるようになりました](https://github.com/adobe/aem-core-wcm-components)。
+   * コアコンポーネント 2.6.0 では、エクスペリエンスフラグメントコンポーネントを導入しています。コンポーネントを、[オーサリングドキュメント](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html)、[開発者の詳細、および GitHub で利用可能な開発者の詳細やプロジェクトのダウンロード](https://github.com/adobe/aem-core-wcm-components)と共に使用できるようになりました。
 
 * **AEM Assets**
-   * 視覚／類似性検索機能に関する新しいドキュメント。詳しくは、類 [似画像の検索を参照してくださ](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html#visualsearch)い。
-   * Connected Asset の機能で、画像ファイル形式に加えて、リモート DAM デプロイメントで使用可能なドキュメントを使用するようになりました。AEMサイト [でのDAMアセットの共有に接続されたアセットの使用を参照してください](https://helpx.adobe.com/experience-manager/6-5/assets/using/use-assets-across-connected-assets-instances.html)。
-   * アセットの検索と検出に関する新しいコンテンツ。「_AEM でのアセット検索_」のトピックでは、使用、設定、トラブルシューティング、制限、ヒントに関する情報をワンストップで提供します。AEMでのア [セットの検索を参照してください](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html)。
+   * 視覚／類似性検索機能に関する新しいドキュメント。詳しくは、「[類似画像の検索](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html#visualsearch)」を参照してください。
+   * Connected Asset の機能で、画像ファイル形式に加えて、リモート DAM デプロイメントで使用可能なドキュメントを使用するようになりました。「[Connected Assets を使用した AEM Sites での DAM アセットの共有](https://helpx.adobe.com/experience-manager/6-5/assets/using/use-assets-across-connected-assets-instances.html)」を参照してください。
+   * アセットの検索と検出に関する新しいコンテンツ。「_AEM でのアセット検索_」のトピックでは、使用、設定、トラブルシューティング、制限、ヒントに関する情報をワンストップで提供します。「[AEM でのアセットの検索](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html)」を参照してください。
 
 ### その他のリソース
 
@@ -182,8 +183,8 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 * [AEM 6.3 ラーニングとサポートホーム](https://helpx.adobe.com/support/experience-manager/6-3.html)
 * [AEM 6.2 ラーニングとサポートホーム](https://helpx.adobe.com/support/experience-manager/6-2.html)
 * [Cloud Manager ユーザーガイド](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [AEMドキュメントの旧バージョン](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
-* [Dynamic Media Classicヘルプホーム](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
+* [AEM ドキュメントの以前のバージョン](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
+* [Dynamic Media Classic ヘルプホーム](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
 * [Dynamic Media リリースノート](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre リリースノート](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
@@ -194,9 +195,23 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 ### Adobe Campaign Classic
 
 * [Campaign Classic 19.1.4の更新](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9032) — 新しいビルド9032
-* [Campaign Classic 19.1.6の更新](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-19-1-6-build-9035) — ビルド9035
+* [Campaign Classic 19.1.6 の更新](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-19-1-6-build-9035) – ビルド 9035
 
 ### その他のリソース
 
-* Adobe Campaign Standard:ドキュメ [ント](https://helpx.adobe.com/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) — ハウツ [ービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) — リリ [ース計画](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)  — リリ [ース計画](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
+* Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+
+## Advertising Cloud {#adcloud}
+
+2019年10月12日リリース用に更新
+
+| 表示 | 機能 |
+|------|---------|
+| キャンペーンの検索 | Advertising cloudで、Yahoo！のアカウントの広告レベルの追跡機能を同期し、提供できるようになりました。 日本ディスプレイネットワーク アカウントにログインの詳細を指定した場合、アカウント内の既存のキャンペーン、広告グループおよび広告は、キャンペーン管理ビューで読み取り専用として使用できます。 クリック、コスト、コンバージョン、その他のパフォーマンスデータは、キャンペーン管理ビュー、および基本レポートと詳細レポートで使用できます。 |
+|  | （Google Analyticsの広告主）Advertising cloud検索では、特定のGoogle Analyticsアカウント、プロパティおよびビューの組み合わせのコンバージョン指標を同期して、最適化とレポートを行うことができます。 ページビュー数、セッション数、直帰率（バウンス/セッションとして計算）、セッション時間が自動的に含まれます。 1つのデータソースにつき最大16個の指標を追加できます。 |
+|  | （Advertising cloudとAdobe Analyticsの統合により、広告主の既存のGoogle広告アカウント）s_kwcidトラッキングコードで新しい形式が使用でき、Advertising cloudでAdobe Analyticsのレポート機能とアカウントに関するデータを共有できます。 最新の形式には、キャンペーンIDと広告グループIDのパラメーターが含まれます。これらのパラメーターは、AnalyticsのGoogleドラフトと実験キャンペーンのキャンペーンおよび広告グループレベルで正確にレポートするために必要です。 既存のGoogleアカウントにGoogleドラフトと実験キャンペーンが含まれる場合は、新しいs_kwcidに移行するために、各アカウントのアカウント追跡設定を編集します。 Googleドラフトと実験キャンペーンがない場合は、新しい形式への移行は任意です。 注意：新しいGoogleアカウントはすべて、自動的に新しい形式を使用します。 |
+| アドバンスキャンペーン管理（ACM）の検索 | （Google広告キャンペーン）Googleテキスト広告およびショッピング広告テンプレートに対して、キャンペーンレベルの最終URLサフィックスを設定できるようになりました。 |
+|  | （Google広告キャンペーン）Googleの拡張テキスト広告には、「ヘッドライン3」と「説明2」のオプションのフィールドを使用できます。 |
+| レポート | 以下のBing Adsインプレッション共有指標は、最新のBing Ads APIで提供が終了したので、10月11日以降は収集されません。 ランクに対する検索IS%、入札に対する検索IS%、ページ関連に対する検索IS%(Bing)、キーワード関連に対する検索IS%(Bing)に対する検索IS%(Lost to Keyword Releance)に対する検索。 以前に収集された指標は、引き続きレポートで使用できます。 |
+| Adobe Analytics との統合 | （Adobe Analyticsを使用する広告主のみ）Analysis Workspaceでは、データを収集しなかった「デバイス(AMO ID)」ディメンションは使用できなくなります。 オンラインAnalyticsデータに関するレポートを作成するには、「モバイルデバイスタイプ」ディメンションを使用します。デバイスタイプ別の検索エンジントラフィック指標（クリック数、コスト、インプレッション数など）をレポートするには、引き続きAdvertising cloud検索でレポートを使用します。 |
