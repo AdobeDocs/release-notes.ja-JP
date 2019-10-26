@@ -3,8 +3,8 @@ cloud: experience-cloud
 product: Experience Cloud
 user-guide-title: Adobe Experience Cloud リリースノート
 user-guide-url: https://www.adobe.com
-translation-type: ht
-source-git-commit: 7759ee9ded40d019321df67478cf08565f6830cc
+translation-type: tm+mt
+source-git-commit: 2c6076aa0af7b9a273e31b1f8919e006ff48e6b4
 
 ---
 
@@ -14,6 +14,7 @@ source-git-commit: 7759ee9ded40d019321df67478cf08565f6830cc
 + [リリースノート](current.md)
 + 以前のリリースノート {#previous}
    + 2019 {#2019}
+      + [2019 年 10 月](c-legacy-releases/2019/10102019.md)
       + [2019 年 9 月](c-legacy-releases/2019/09122019.md)
       + [2019 年 8 月](c-legacy-releases/2019/08082019.md)
       + [2019 年 7 月](c-legacy-releases/2019/07182019.md)
