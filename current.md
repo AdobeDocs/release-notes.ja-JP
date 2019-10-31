@@ -2,7 +2,7 @@
 title: Adobe Experience Cloud リリースノート
 description: Experience Cloud リリースノートのテンプレート
 doc-type: リリースノート
-last-update: 2019 年 11 月 日
+last-update: 2019 年 10 月 30 日
 author: mfrei
 translation-type: tm+mt
 source-git-commit: 2c6076aa0af7b9a273e31b1f8919e006ff48e6b4
@@ -18,7 +18,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 > [!NOTE][[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。リリース後に発表された新情報については、更新日と併せて追加公開します。
 
-**リリース日：2019 年 30 月 11 日**
+**リリース日：2019 年 10 月 30 日**
 
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
