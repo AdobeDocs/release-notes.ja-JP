@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 11 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 32fa8a1156cafb4a54bae4d57b125efbb781e64d
+source-git-commit: 4dbc8703a58261a57deae59effa22fc89faaad32
 
 ---
 
@@ -26,7 +26,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（ソリューションヘルプへのリンク）
-* [!DNL Advertising Cloud](#adcloud)
+* [!DNL Advertising Cloud](#adcloud) （1月11日更新）
 
 家で助けを探してる？ See [Experience Cloud Learn &amp; Support](https://helpx.adobe.com/support/experience-cloud.html).
 
@@ -113,6 +113,7 @@ Audience Manager の新機能、拡張機能および修正点です。
 | 機能 | 説明 |
 |--- |----|
 | [プロファイル結合ルールの強化](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) | [!UICONTROL プロファイル結合ルール]に関する一連の機能強化をリリースしました。 <ul><li>セグメント評価が、最大 100 台のデバイスに対してバッチでサポートされるようになりました。</li><li>特性とセグメント母集団のレポート精度が向上しました。</li><li>クロスデバイス ID を使用して生成されたバッチファイルの精度が向上しました。</li><li>各ルールの使用例をさらに詳しく説明し、ドキュメントを更新しました。詳しくは、「[プロファイル結合ルールの一般的な使用例](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html)」、「[外部デバイスグラフの使用例](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/external-graph-use-cases.html)」、および「[プロファイルリンクデバイスグラフの使用例](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/profile-link-use-case.html)」を参照してください。</li></ul> |
+| [Audience Marketplaceデータに関するインテリジェントな推奨、Adobe Sensei](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html) | 特性レコメンデーションを使用すると、 [Segment Builderでセグメントを作成または編集する際に、登録していない](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segment-builder.html)Audience Marketplace  データフィードから、追加の特徴に関するレコメンデーションを取得できるようになりました。 対象者を増やすために、推奨された Trait をセグメントに追加します。<br>  さらに、 [!UICONTROL Marketplaceページのデザインを一新し] 、類似の特徴を見つけやすくし、データフィードをフィルターしやすくしました。 |
 | [一括管理ツール](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | MacOS および Microsoft Windows オペレーティングシステムで動作し、Experience Cloud ログインをサポートする新しいバージョンの一括管理ワークシートがリリースされました。 |
 | [HTTP Strict-Transport-Security](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/data-security-and-privacy/data-security.html#hsts) | cookie のハイジャック攻撃やプロトコルダウングレード攻撃から保護する Web セキュリティポリシーである [!DNL HTTP Strict-Transport-Security] に対するサポートが追加されました。 |
 
@@ -122,7 +123,7 @@ Audience Manager の新機能、拡張機能および修正点です。
 * 派生シグナルで、短時間新しい派生シグナルを作成できないバグを修正しました。（AAM-50968）
 * People-Based Destinations で、顧客が宛先の名前を変更できなかったバグを修正しました。（AAM-51025）
 * 一部のユーザーが Audience Manager UI にログインする際にアカウントが重複していたバグを修正しました。これらのユーザーは、重複したアカウントに権限が関連付けられなかったことにより、UI の一部にアクセスして操作を実行できませんでした。（AAM-50818）
-* 引き続き、Audience Manager UI のアクセシビリティを改善します。（AAM-48932、AAM-49043、AAM-49054、AAM-49371、AAM-49375）
+* 引き続き、Audience Manager UI のアクセシビリティを改善します。(AAM-48932、AAM-48997、AAM-49043、AAM-49054、AAM-49371、AAM-49375、AAM-51313)
 
 ## Experience Manager {#aem}
 
@@ -209,14 +210,10 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ## Advertising Cloud {#adcloud}
 
-2019 年 10 月 12 日リリース用に更新
+2019年11月2日リリース用に更新
 
 | 表示 | 機能 |
 |------|---------|
-| キャンペーンの検索 | Advertising Cloud で、Yahoo! Japan ディスプレイネットワークのアカウントの広告レベルの追跡機能を同期および提供できるようになりました。アカウントにログインの詳細を提供した場合、アカウント内の既存のキャンペーン、広告グループおよび広告は、キャンペーン管理ビューで読み取り専用として使用できます。クリック、コスト、コンバージョン、その他のパフォーマンスデータは、キャンペーン管理ビュー内、および基本レポートと詳細レポートで使用できます。 |
-|  | （Google Analytics の広告主）Advertising Cloud 検索では、特定の Google Analytics アカウントと、プロパティ、ビューを組み合わせたコンバージョン指標を同期して、最適化とレポートをおこなうことができます。ページビュー数、セッション数、直帰率（バウンス／セッションとして計算）、セッション時間が自動的に含まれます。1 つのデータソースにつき最大 16 個の指標を含めることができます。 |
-|  | （Advertising Cloud と Adobe Analytics の統合を使用した、広告主の既存の Google 広告アカウント）s_kwcid トラッキングコードで新しい形式が使用できます。これにより、Advertising Cloud はアカウントに関するデータを、Adobe Analytics のレポート機能および分析機能と共有できます。最新の形式には、キャンペーン ID と広告グループ ID のパラメーターが含まれます。これらのパラメーターは、Analytics で Google ドラフト＆エクスペリメントキャンペーン用に、キャンペーンおよび広告グループレベルで正確なレポートをおこなうために必要です。既存の Google アカウントに Google ドラフト＆エクスペリメントキャンペーンが含まれる場合は、新しい s_kwcid に移行するために、各アカウントのアカウントトラッキング設定を編集します。Google ドラフト＆エクスペリメントキャンペーンがない場合は、新しい形式への移行は任意です。注：新しい Google アカウントはすべて、自動的に新しい形式を使用します。 |
-| アドバンスキャンペーン管理（ACM）の検索 | （Google 広告キャンペーン）Google テキスト広告およびショッピング広告テンプレートに対して、キャンペーンレベルで最終ページ URL のサフィックスを設定できるようになりました。 |
-|  | （Google 広告キャンペーン）Google の拡張テキスト広告で、「ヘッドライン3」と「説明2」のオプションのフィールドを使用できます。 |
-| レポート | 次の Bing Ads インプレッション共有指標は、最新の Bing Ads API で提供が終了したので、10 月 11 日以降は収集されません：Search IS% Lost to Rank、Search IS% Lost to Bid (Bing)、Search IS% Lost to Page Relevance (Bing)、および Search IS% Lost to Keyword Relevance (Bing)。以前に収集された指標は、引き続きレポートで使用できます。 |
-| Adobe Analytics との統合 | （Adobe Analytics を使用している広告主のみ）Analysis Workspace では、データを収集したことのない「デバイス（AMO ID）」ディメンションは使用できなくなります。オンライン Analytics データに関するレポートを作成するには、「モバイルデバイスタイプ」ディメンションを使用します。デバイスタイプ別の検索エンジントラフィック指標（クリック数、コスト、インプレッション数など）のレポートをおこなうには、引き続き Advertising Cloud 検索でレポートを使用します。 |
+| コンバージョンの追跡 | Advertising Cloud javaScriptベースのコンバージョンマッピングタグで、Mozilla Firefoxバージョン69以降のクリックスルーの追跡がサポートされ、デフォルトでサードパーティcookieがブロックされるようになりました。 同じタグに既にApple Safariのサポートが含まれています。<br><br/>Advertising cloudコンバージョントラッキングを使用し、Advertising cloudコンバージョンマッピングタグをまだ導入していない場合は、すべてのランディングページに次のコードを導入し<br></br>`<script src="//www.everestjs.net/static/amo-conversion-mapper.js"></script>`<br></br>ます。注：このタグは、Advertising Cloud javaScript v2およびv3のコンバージョントラッキングタグをサポートし、画像トラッキングタグはサポートしません。 |
+| ポートフォリオ | ポートフォリオオプションの「キャンペーンの最大支出%ターゲットを有効にする」が有効な場合、最大支出ターゲットを超えることはなくなりました。 以前は、最適な広告配信時にAdvertising cloudが最大支出目標を超えていました。 |
+| オーディエンスの検索 | 検索/オーディエンス/ライブラリのオーディエンスライブラリに、Bing広告とGoogle広告から毎日入力される「オーディエンスのサイズ」列が自動的に含まれるようになりました。 オプションで、この列をデータフィルターとして使用できます。 |
