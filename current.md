@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 11 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 0fba1b7a9cef1262a4fa03188ba81b1d1a15a2e4
+source-git-commit: 386664d1decd801eb894bead1afe848dfef22795
 
 ---
 
@@ -108,7 +108,7 @@ Adobe Analytics の新機能および修正点です。
 
 ## Audience Manager {#aam}
 
-Audience Manager の新機能、拡張機能および修正点です。
+### New features, enhancements, and fixes in Audience Manager {#aam-new-features}
 
 | 機能 | 説明 |
 |--- |----|
@@ -117,7 +117,20 @@ Audience Manager の新機能、拡張機能および修正点です。
 | [一括管理ツール](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | MacOS および Microsoft Windows オペレーティングシステムで動作し、Experience Cloud ログインをサポートする新しいバージョンの一括管理ワークシートがリリースされました。 |
 | [HTTP Strict-Transport-Security](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/data-security-and-privacy/data-security.html#hsts) | cookie のハイジャック攻撃やプロトコルダウングレード攻撃から保護する Web セキュリティポリシーである [!DNL HTTP Strict-Transport-Security] に対するサポートが追加されました。 |
 
-**修正点および改善点**
+### 強化された機能 {#aam-enhancements}
+
+2019年11月現在、Audience Managerは、以前にサポートされていたcookie、IDFA、GAIDデバイスIDに加え、Google Ad ManagerおよびDV360宛先へのRoku ID、Amazon Fire TV IDおよびXbox/Microsoft IDの送信もサポートしています。 既存のGoogle統合内の変更は不要です。
+
+Audience Managerでは、Roku ID、Amazon Fire TV IDおよびXbox/Microsoft IDはグローバルデバイスIDと呼ばれます。 これらのIDとそれらが関連付けられているデータソースについて詳しくは、Audience Manager製品ドキュメントを参照してください。
+
+* [グローバルデバイスID](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html#global-device-ids)
+* [グローバルデータソース](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html)
+
+Roku、Amazon Fire TVおよびXbox/Microsoftのデータソースのデータインジェストは、IDFAおよびGAIDと同様に機能します。Audience Manager IDは、キー設定されたデータを取り込むときに自動的に生成され、DAIDにリンクされます。 新しいIDは、アカウントで設定された既存のGoogle宛先と新しいGoogle宛先に自動的に送信されます。
+
+詳しくは、Audience Managerのコンサルタントまたはカスタマーケアにお問い合わせください。
+
+### 修正点および改善点 {#aam-fixes-and-improvements}
 
 * Audience Marketplace で、顧客が月別のセグメント使用状況を送信する際に UI からエラー 409 が返されるバグを修正しました。（AAM-50825）
 * 派生シグナルで、短時間新しい派生シグナルを作成できないバグを修正しました。（AAM-50968）
