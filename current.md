@@ -5,12 +5,12 @@ doc-type: リリースノート
 last-update: 2019 年 11 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 69b1516bd6bea67429843ba6a47082bf7e211a4c
+source-git-commit: 0fba1b7a9cef1262a4fa03188ba81b1d1a15a2e4
 
 ---
 
 
-# Adobe Experience cloudリリースノート — 2019年11月
+# Adobe Experience Cloud リリースノート - 2019 年 11 月
 
 Adobe Experience Cloud の新機能および修正点です。
 
@@ -28,7 +28,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（ソリューションヘルプへのリンク）
 * [!DNL Advertising Cloud](#adcloud) （11月1日更新）
 
-家で助けを探してる？ See [Experience Cloud Learn &amp; Support](https://helpx.adobe.com/support/experience-cloud.html).
+ヘルプのホームをお探しの場合は、[Experience Cloud のラーニングとサポート](https://helpx.adobe.com/support/experience-cloud.html)をご覧ください。
 
 ## Experience Cloud インターフェイス {#ecloud}
 
@@ -68,7 +68,7 @@ Adobe Analytics の新機能および修正点です。
 
 | 機能 | 説明 |
 | -----------| ---------- | 
-| カスタマージャーニー分析 | 2019 年 11 月 22 日、Adobe Analytics に対するアドオンとして[カスタマージャーニー分析](https://www.adobe.com/analytics/customer-journey-analytics.html)を利用できるようになります。<br><br/>カスタマージャーニー分析を使用すれば、あらゆるチャネルから、オンラインとオフラインの両方ですべての顧客データを Adobe Experience Platform に取り込むことができます。その後、現在 Analysis Workspace を使用して、既存のデジタルデータを分析しているのと同じようにこのデータを分析できます。カスタマージャーニー分析には、共通の顧客 ID に基づいて、Analysis Workspace のオンラインデータとオフラインデータをどのように接続するかを制御し、最終的に Adobe Analytics の顧客データセット全体をまたいでアトリビューション、セグメント化、フロー、フォールアウトなどを実行できる機能が含まれます。<br><br/>Analytics Select、Prime および Ultimate のお客様は、このアドオン製品を購入できます。詳しくは、アドビのアカウントチームにお問い合わせください。 |
+| カスタマージャーニー分析 | On November 21, 2019, [Customer Journey Analytics](https://www.adobe.com/analytics/customer-journey-analytics.html) becomes available as an add-on to Adobe Analytics.<br><br/>顧客の遍歴分析を使用すると、選択した任意のチャネルから顧客データを取り込むことができます。 オンラインとオフラインの両方 — 」をAdobe Experience Platformに追加し、今すぐAnalysis Workspaceを使用して、既存のデジタルデータと同様にこのデータを分析します。 カスタマージャーニー分析には、共通の顧客 ID に基づいて、Analysis Workspace のオンラインデータとオフラインデータをどのように接続するかを制御し、最終的に Adobe Analytics の顧客データセット全体をまたいでアトリビューション、セグメント化、フロー、フォールアウトなどを実行できる機能が含まれます。<br><br/>Analytics Select、Prime および Ultimate のお客様は、このアドオン製品を購入できます。詳しくは、アドビのアカウントチームにお問い合わせください。 |
 | プライバシーサービス API：CCPA | カリフォルニア州消費者プライバシー法（CCPA）は、米国カリフォルニア州の居住者のプライバシー権と消費者保護を厳格化します。この法律は、2020 年 1 月 1 日に施行されます。<br><br/>CCPA は、カリフォルニア州の居住者に新しいプライバシー権を提供します。これには、自身の個人データにアクセスして削除する権利、自身の個人データが（誰に）販売または公開されているかどうかを知る権利、および自身の個人データの販売を拒否する権利が含まれます。<br><br/>CCPA を見越し、プライバシーサービスは個人データの販売のオプトアウトに対するリクエストをサポートします。<br><br/>プライバシーサービス（旧 GDPR サービス）は、以前の機能をすべて保持し、CCPA をサポートするよう拡張されました。<br/><br/>[Analytics の CCPA](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/an-ccpa-overview.html)<br><br/>[プライバシーの概要](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
 | プライバシーレポート：Analytics Admin Console | Analytics でプライバシーレポートを有効化すると、レポートスイートに一連の変数が追加されます。これらの変数は、消費者の同意データをヒットレベルで収集するためのものです。<br><br/>追加されるディメンション：<br/><ul><li>同意管理のオプトアウト</li><li>同意管理のオプトイン</li><li>[同意管理変数](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/consent-variables.html)</li></ul> |
 | オーディオとビデオの分析：プライバシーサポート | メディアコレクション API に 2 つの新しい変数が追加されました。<br/><ul><li>analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul><br/><br/>これらは、ヒット時の消費者の同意のステータスを取得するための変数です。<br/><br/>[メディアコレクション API ドキュメント](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/><br/>新しい Analytics Consent Management コンテキストデータ変数が Federated Analytics フォームに追加されました。これらの変数を、フェデレーションの「共有のオプトアウト」または「販売ヒット数」のフラグ付けに使用できるようになりました。<br/><br/>[フェデレーテッドフォームのダウンロード](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
