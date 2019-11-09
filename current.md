@@ -5,7 +5,7 @@ doc-type: リリースノート
 last-update: 2019 年 11 月
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 386664d1decd801eb894bead1afe848dfef22795
+source-git-commit: 9a17edded46ddd9f95ea3c849e23bc1962075174
 
 ---
 
@@ -16,7 +16,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 > [!NOTE] [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。リリース後に発表された新情報については、更新日と併せて追加公開します。
 
-**リリース日：2019 年 31 月 11 日**
+**リリース日：2019 年 31 月 10 日**
 
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
@@ -26,7 +26,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（ソリューションヘルプへのリンク）
-* [!DNL Advertising Cloud](#adcloud) （11月1日更新）
+* [!DNL Advertising Cloud](#adcloud)（11 月 2 日更新）
 
 ヘルプのホームをお探しの場合は、[Experience Cloud のラーニングとサポート](https://helpx.adobe.com/support/experience-cloud.html)をご覧ください。
 
@@ -81,8 +81,8 @@ Adobe Analytics の新機能および修正点です。
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| 「**[!UICONTROL アーカイブを表示]**」オプションのサポート終了 | 2019 年 10 月 31 日 | 2020 年 1 月に、ダッシュボードマネージャー（**[!UICONTROL コンポーネント／ダッシュボード]**）の「**[!UICONTROL アーカイブを表示]**」オプションのサービスを終了することをお知らせします。 |
-| 「**[!UICONTROL IP ログイン制限の適用]**」オプションのサポート終了 | 2019 年 10 月 31 日 | 2020 年 1 月に、**[!UICONTROL 管理者／会社設定／セキュリティ]**&#x200B;メニューの IP ログインのホワイトリストへの追加（**[!UICONTROL IP ログイン制限の実施]**）機能のサポートを終了することをお知らせします。 |
+| **[!UICONTROL アーカイブを表示]**&#x200B;オプションのサポート終了 | 2019 年 10 月 31 日 | 2020 年 1 月に、ダッシュボードマネージャー（**[!UICONTROL コンポーネント／ダッシュボード]**）の&#x200B;**[!UICONTROL アーカイブを表示]**&#x200B;オプションのサービスを終了することをお知らせします。 |
+| **[!UICONTROL IP ログイン制限の適用]**&#x200B;オプションのサポート終了 | 2019 年 10 月 31 日 | 2020 年 1 月に、**[!UICONTROL 管理者／会社設定／セキュリティ]**&#x200B;メニューの IP ログインのホワイトリストへの追加（**[!UICONTROL IP ログイン制限の実施]**）機能のサポートを終了することをお知らせします。 |
 | Cookie の SameSite 属性の処理を更新しました | 2019 年 10 月 16 日 | 2019 年 8 月に、アドビは、Analytics で設定されるすべての cookie に SameSite cookie 設定を追加したことを発表しました。ロジックの更新は次の場合に適用されます。<ul><li>Webkit ベースでないすべてのサードパーティ Cookie の SameSite属性が `none` に設定されている。</li><li>その他のすべての Cookie には、SameSite 属性は設定されていない。</li></ul> |
 | TLS 1.1 のサポート終了 | 2019 年 10 月 4 日 | 2020 年 3 月 31 日までに、Adobe Analytics は TLS 1.1 のサポートを削除します。この変更は、最高のセキュリティ標準を維持し、顧客データの安全性を高めるアドビの継続的な取り組みの一環としておこなわれます。 |
 | サンノゼ FTP 連携機能の終了 | 2020 年 7 月 | ロンドンおよびシンガポールデータセンターをご利用のお客様に対し、サンノゼデータセンター [ftp.omniture.com](ftp://ftp.omniture.com/) からロンドンまたはシンガポールへの、データ連携機能の提供を終了します。ftp.omniture.com をご利用中のお客様は、今後、次の FTP を使用してください。<br/><ul><li>ロンドンのお客様：[ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>シンガポールのお客様：[ftp4.omniture.com](ftp://ftp4.omniture.com/)</li> |
@@ -113,7 +113,7 @@ Adobe Analytics の新機能および修正点です。
 | 機能 | 説明 |
 |--- |----|
 | [プロファイル結合ルールの強化](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) | [!UICONTROL プロファイル結合ルール]に関する一連の機能強化をリリースしました。 <ul><li>セグメント評価が、最大 100 台のデバイスに対してバッチでサポートされるようになりました。</li><li>特性とセグメント母集団のレポート精度が向上しました。</li><li>クロスデバイス ID を使用して生成されたバッチファイルの精度が向上しました。</li><li>各ルールの使用例をさらに詳しく説明し、ドキュメントを更新しました。詳しくは、「[プロファイル結合ルールの一般的な使用例](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html)」、「[外部デバイスグラフの使用例](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/external-graph-use-cases.html)」、および「[プロファイルリンクデバイスグラフの使用例](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/profile-link-use-case.html)」を参照してください。</li></ul> |
-| [Audience Marketplaceデータに関するインテリジェントな推奨、Adobe Sensei](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html) | 特性レコメンデーションを使用すると、 [Segment Builderでセグメントを作成または編集する際に、登録していない](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segment-builder.html)Audience Marketplace  データフィードから、追加の特徴に関するレコメンデーションを取得できるようになりました。 対象者を増やすために、推奨された Trait をセグメントに追加します。<br>  さらに、 [!UICONTROL Marketplaceページのデザインを一新し] 、類似の特徴を見つけやすくし、データフィードをフィルターしやすくしました。 |
+| [Adobe Sensei を活用した、Audience Marketplace データに関するインテリジェントなレコメンデーション](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html) | 特性レコメンデーションを使用した場合、[Segment Builder](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segment-builder.html) でセグメントを作成または編集すると、登録していない [!UICONTROL Audience Marketplace] データフィードから、追加の特性に関するレコメンデーションを取得できるようになりました。対象者を増やすために、推奨された Trait をセグメントに追加します。<br>さらに、[!UICONTROL Marketplace] ページのデザインを一新し、類似の特性の検索や、データフィードのフィルタリングを容易にしました。 |
 | [一括管理ツール](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | MacOS および Microsoft Windows オペレーティングシステムで動作し、Experience Cloud ログインをサポートする新しいバージョンの一括管理ワークシートがリリースされました。 |
 | [HTTP Strict-Transport-Security](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/data-security-and-privacy/data-security.html#hsts) | cookie のハイジャック攻撃やプロトコルダウングレード攻撃から保護する Web セキュリティポリシーである [!DNL HTTP Strict-Transport-Security] に対するサポートが追加されました。 |
 
@@ -136,7 +136,7 @@ Roku、Amazon Fire TVおよびXbox/Microsoftのデータソースのデータイ
 * 派生シグナルで、短時間新しい派生シグナルを作成できないバグを修正しました。（AAM-50968）
 * People-Based Destinations で、顧客が宛先の名前を変更できなかったバグを修正しました。（AAM-51025）
 * 一部のユーザーが Audience Manager UI にログインする際にアカウントが重複していたバグを修正しました。これらのユーザーは、重複したアカウントに権限が関連付けられなかったことにより、UI の一部にアクセスして操作を実行できませんでした。（AAM-50818）
-* 引き続き、Audience Manager UI のアクセシビリティを改善します。(AAM-48932、AAM-48997、AAM-49043、AAM-49054、AAM-49371、AAM-49375、AAM-51313)
+* 引き続き、Audience Manager UI のアクセシビリティを改善します。（AAM-48932、AAM-48997、AAM-49043、AAM-49054、AAM-49371、AAM-49375、AAM-51313）
 
 ## Experience Manager {#aem}
 
@@ -218,15 +218,16 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### ドキュメントのリソース
 
-* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [リリース計画](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
+* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)- [リリース計画](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
 * Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 
 ## Advertising Cloud {#adcloud}
 
-2019年11月2日リリース用に更新
+更新日2019年11月8日リリース
 
 | 表示 | 機能 |
 |------|---------|
-| コンバージョンの追跡 | Advertising Cloud javaScriptベースのコンバージョンマッピングタグで、Mozilla Firefoxバージョン69以降のクリックスルーの追跡がサポートされ、デフォルトでサードパーティcookieがブロックされるようになりました。 同じタグに既にApple Safariのサポートが含まれています。<br><br/>Advertising cloudコンバージョントラッキングを使用し、Advertising cloudコンバージョンマッピングタグをまだ導入していない場合は、すべてのランディングページに次のコードを導入し<br></br>`<script src="//www.everestjs.net/static/amo-conversion-mapper.js"></script>`<br></br>ます。注：このタグは、Advertising Cloud javaScript v2およびv3のコンバージョントラッキングタグをサポートし、画像トラッキングタグはサポートしません。 |
-| ポートフォリオ | ポートフォリオオプションの「キャンペーンの最大支出%ターゲットを有効にする」が有効な場合、最大支出ターゲットを超えることはなくなりました。 以前は、最適な広告配信時にAdvertising cloudが最大支出目標を超えていました。 |
-| オーディエンスの検索 | 検索/オーディエンス/ライブラリのオーディエンスライブラリに、Bing広告とGoogle広告から毎日入力される「オーディエンスのサイズ」列が自動的に含まれるようになりました。 オプションで、この列をデータフィルターとして使用できます。 |
+| コンバージョンの追跡 | Advertising Cloud JavaScript ベースのコンバージョンマッピングタグが、Mozilla Firefox バージョン 69 以降のクリックスルーの追跡をサポートするようになりました。これにより、サードパーティ cookie はデフォルトでブロックされます。同じタグには既に Apple Safari サポートが含まれています。<br><br/>Advertising Cloud コンバージョントラッキングを使用し、Advertising Cloud コンバージョンマッピングタグをまだデプロイしていない場合は、すべてのランディングページに次のコードをデプロイします。<br></br>`<script src="//www.everestjs.net/static/amo-conversion-mapper.js"></script>`<br></br>注：このタグは、Advertising Cloud JavaScript v2 および v3 のコンバージョントラッキングタグをサポートしますが、画像トラッキングタグはサポートしません。 |
+| ポートフォリオ | ポートフォリオオプションの「キャンペーンの最大支出 % 目標を有効にする」が有効になっている場合、最大支出目標を超えることはなくなりました。以前は、最適な広告配信時に Advertising Cloud が最大支出目標を超えることがありました。 |
+| オーディエンスの検索 | オーディエンスライブラリ（検索／オーディエンス／ライブラリ）に、Bing 広告と Google 広告から毎日入力される「オーディエンスのサイズ」列が自動的に含まれるようになりました。オプションで、この列をデータフィルターとして使用できます。 |
+| Adobe Analytics との統合 | Analyticsに、Advertising Cloud DSPキャンペーン用のディメンション「ランディングタイプ(AMO ID)」が含まれるようになりました。  このディメンションを使用して、訪問者がサイトにランディングした方法に基づいてAnalytics指標をセグメント化します。 値には、「クリックスルー」と「ビュースルー」が含まれます。<br><br/>**** 注意：2019年10月31日以前に発生したビュースルーのデータは、クリックスルーのデータとして表示されます。 したがって、2019年11月中旬より前のデータに対しては、このディメンションを使用しないことをお勧めします。 |
