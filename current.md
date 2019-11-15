@@ -1,8 +1,8 @@
 ---
 title: Adobe Experience Cloud リリースノート
 description: Experience Cloud リリースノートのテンプレート
-doc-type: リリースノート
-last-update: 2019 年 11 月
+doc-type: release notes
+last-update: November 2019
 author: mfrei
 translation-type: tm+mt
 source-git-commit: 72028146219c6244c501e55e30c03de925c54b3c
@@ -16,7 +16,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 > [!NOTE] [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。リリース後に発表された新情報については、更新日と併せて追加公開します。
 
-**リリース日：2019 年 31 月 10 日**
+**リリース日：2019 年 10 月 31 日**
 
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
@@ -68,7 +68,7 @@ Adobe Analytics の新機能および修正点です。
 
 | 機能 | 説明 |
 | -----------| ---------- | 
-| カスタマージャーニー分析 | On November 21, 2019, [Customer Journey Analytics](https://www.adobe.com/analytics/customer-journey-analytics.html) becomes available as an add-on to Adobe Analytics.<br><br/>顧客の遍歴分析を使用すると、選択した任意のチャネルから顧客データを取り込むことができます。 オンラインとオフラインの両方 — 」をAdobe Experience Platformに追加し、今すぐAnalysis Workspaceを使用して、既存のデジタルデータと同様にこのデータを分析します。 カスタマージャーニー分析には、共通の顧客 ID に基づいて、Analysis Workspace のオンラインデータとオフラインデータをどのように接続するかを制御し、最終的に Adobe Analytics の顧客データセット全体をまたいでアトリビューション、セグメント化、フロー、フォールアウトなどを実行できる機能が含まれます。<br><br/>Analytics Select、Prime および Ultimate のお客様は、このアドオン製品を購入できます。詳しくは、アドビのアカウントチームにお問い合わせください。 |
+| カスタマージャーニー分析 | 2019 年 11 月 22 日、Adobe Analytics に対するアドオンとして[カスタマージャーニー分析](https://www.adobe.com/analytics/customer-journey-analytics.html)を利用できるようになります。<br><br/>カスタマージャーニー分析を使用すれば、お好きなチャネルから、オンラインとオフラインの両方ですべての顧客データを Adobe Experience Platform に取り込むことができます。その後、現在 Analysis Workspace を使用して、既存のデジタルデータを分析しているのと同じようにこのデータを分析できます。カスタマージャーニー分析には、共通の顧客 ID に基づいて、Analysis Workspace のオンラインデータとオフラインデータをどのように接続するかを制御し、最終的に Adobe Analytics の顧客データセット全体をまたいでアトリビューション、セグメント化、フロー、フォールアウトなどを実行できる機能が含まれます。<br><br/>Analytics Select、Prime および Ultimate のお客様は、このアドオン製品を購入できます。詳しくは、アドビのアカウントチームにお問い合わせください。 |
 | プライバシーサービス API：CCPA | カリフォルニア州消費者プライバシー法（CCPA）は、米国カリフォルニア州の居住者のプライバシー権と消費者保護を厳格化します。この法律は、2020 年 1 月 1 日に施行されます。<br><br/>CCPA は、カリフォルニア州の居住者に新しいプライバシー権を提供します。これには、自身の個人データにアクセスして削除する権利、自身の個人データが（誰に）販売または公開されているかどうかを知る権利、および自身の個人データの販売を拒否する権利が含まれます。<br><br/>CCPA を見越し、プライバシーサービスは個人データの販売のオプトアウトに対するリクエストをサポートします。<br><br/>プライバシーサービス（旧 GDPR サービス）は、以前の機能をすべて保持し、CCPA をサポートするよう拡張されました。<br/><br/>[Analytics の CCPA](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/an-ccpa-overview.html)<br><br/>[プライバシーの概要](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
 | プライバシーレポート：Analytics Admin Console | Analytics でプライバシーレポートを有効化すると、レポートスイートに一連の変数が追加されます。これらの変数は、消費者の同意データをヒットレベルで収集するためのものです。<br><br/>追加されるディメンション：<br/><ul><li>同意管理のオプトアウト</li><li>同意管理のオプトイン</li><li>[同意管理変数](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/consent-variables.html)</li></ul> |
 | オーディオとビデオの分析：プライバシーサポート | メディアコレクション API に 2 つの新しい変数が追加されました。<br/><ul><li>analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul><br/><br/>これらは、ヒット時の消費者の同意のステータスを取得するための変数です。<br/><br/>[メディアコレクション API ドキュメント](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/><br/>新しい Analytics Consent Management コンテキストデータ変数が Federated Analytics フォームに追加されました。これらの変数を、フェデレーションの「共有のオプトアウト」または「販売ヒット数」のフラグ付けに使用できるようになりました。<br/><br/>[フェデレーテッドフォームのダウンロード](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
@@ -108,7 +108,7 @@ Adobe Analytics の新機能および修正点です。
 
 ## Audience Manager {#aam}
 
-### New features, enhancements, and fixes in Audience Manager {#aam-new-features}
+### Audience Manager の新機能、拡張機能および修正点です。{#aam-new-features}
 
 | 機能 | 説明 |
 |--- |----|
@@ -119,16 +119,16 @@ Adobe Analytics の新機能および修正点です。
 
 ### 強化された機能 {#aam-enhancements}
 
-2019年11月現在、Audience Managerは、以前にサポートされていたcookie、IDFA、GAIDデバイスIDに加え、Google Ad ManagerおよびDV360宛先へのRoku ID、Amazon Fire TV IDおよびXbox/Microsoft IDの送信もサポートしています。 既存のGoogle統合内の変更は不要です。
+2019 年 11 月現在、Audience Manager は、以前にサポートされていた cookie、IDFA、GAID デバイス ID に加え、Google Ad Manager や DV360 の宛先への Roku ID、Amazon Fire TV ID および Xbox／Microsoft ID の送信もサポートしています。既存の Google 統合に変更を加える必要はありません。
 
-Audience Managerでは、Roku ID、Amazon Fire TV IDおよびXbox/Microsoft IDはグローバルデバイスIDと呼ばれます。 これらのIDとそれらが関連付けられているデータソースについて詳しくは、Audience Manager製品ドキュメントを参照してください。
+Audience Manager では、Roku ID、Amazon Fire TV ID および Xbox／Microsoft ID はグローバルデバイス ID と呼ばれます。これらの ID とそれらが関連付けられているデータソースについて詳しくは、Audience Manager 製品ドキュメントを参照してください。
 
-* [グローバルデバイスID](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html#global-device-ids)
+* [グローバルデバイス　ID](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html#global-device-ids)
 * [グローバルデータソース](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html)
 
-Roku、Amazon Fire TVおよびXbox/Microsoftのデータソースのデータインジェストは、IDFAおよびGAIDと同様に機能します。Audience Manager IDは、キー設定されたデータを取り込むときに自動的に生成され、DAIDにリンクされます。 新しいIDは、アカウントで設定された既存のGoogle宛先と新しいGoogle宛先に自動的に送信されます。
+Roku、Amazon Fire TV および Xbox／Microsoft のデータソースのデータインジェストは、IDFA および GAID と同様に機能します。Audience Manager ID は、キー設定されたデータを取り込むときに自動的に生成され、DAID にリンクされます。新しい ID は、アカウントで設定された既存の Google の宛先と新しい Google の宛先に自動的に送信されます。
 
-詳しくは、Audience Managerのコンサルタントまたはカスタマーケアにお問い合わせください。
+詳しくは、Audience Manager のコンサルタントまたはカスタマーケアにお問い合わせください。
 
 ### 修正点および改善点 {#aam-fixes-and-improvements}
 
