@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: November 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 72028146219c6244c501e55e30c03de925c54b3c
+source-git-commit: 99ff53a630caedb0073076d19e306504235a98ab
 
 ---
 
@@ -26,7 +26,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（ソリューションヘルプへのリンク）
-* [!DNL Advertising Cloud](#adcloud) （11/8更新）
+* [!DNL Advertising Cloud](#adcloud)（11 月 9 日更新）
 
 ヘルプのホームをお探しの場合は、[Experience Cloud のラーニングとサポート](https://helpx.adobe.com/support/experience-cloud.html)をご覧ください。
 
@@ -81,8 +81,8 @@ Adobe Analytics の新機能および修正点です。
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
+| **[!UICONTROL IP ログイン制限の適用]**&#x200B;オプションのサポート終了 | 2019年11月21日 | Announcing the October, 2020, end-of-life date for the IP login whitelisting (**[!UICONTROL Enforce IP Login Restrictions]**) functionality under the **[!UICONTROL Admin &gt; Company Settings &gt; Security]** menu. （当初は2020年1月に発表） |
 | **[!UICONTROL アーカイブを表示]**&#x200B;オプションのサポート終了 | 2019 年 10 月 31 日 | 2020 年 1 月に、ダッシュボードマネージャー（**[!UICONTROL コンポーネント／ダッシュボード]**）の&#x200B;**[!UICONTROL アーカイブを表示]**&#x200B;オプションのサービスを終了することをお知らせします。 |
-| **[!UICONTROL IP ログイン制限の適用]**&#x200B;オプションのサポート終了 | 2019 年 10 月 31 日 | 2020 年 1 月に、**[!UICONTROL 管理者／会社設定／セキュリティ]**&#x200B;メニューの IP ログインのホワイトリストへの追加（**[!UICONTROL IP ログイン制限の実施]**）機能のサポートを終了することをお知らせします。 |
 | Cookie の SameSite 属性の処理を更新しました | 2019 年 10 月 16 日 | 2019 年 8 月に、アドビは、Analytics で設定されるすべての cookie に SameSite cookie 設定を追加したことを発表しました。ロジックの更新は次の場合に適用されます。<ul><li>Webkit ベースでないすべてのサードパーティ Cookie の SameSite属性が `none` に設定されている。</li><li>その他のすべての Cookie には、SameSite 属性は設定されていない。</li></ul> |
 | TLS 1.1 のサポート終了 | 2019 年 10 月 4 日 | 2020 年 3 月 31 日までに、Adobe Analytics は TLS 1.1 のサポートを削除します。この変更は、最高のセキュリティ標準を維持し、顧客データの安全性を高めるアドビの継続的な取り組みの一環としておこなわれます。 |
 | サンノゼ FTP 連携機能の終了 | 2020 年 7 月 | ロンドンおよびシンガポールデータセンターをご利用のお客様に対し、サンノゼデータセンター [ftp.omniture.com](ftp://ftp.omniture.com/) からロンドンまたはシンガポールへの、データ連携機能の提供を終了します。ftp.omniture.com をご利用中のお客様は、今後、次の FTP を使用してください。<br/><ul><li>ロンドンのお客様：[ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>シンガポールのお客様：[ftp4.omniture.com](ftp://ftp4.omniture.com/)</li> |
@@ -108,7 +108,7 @@ Adobe Analytics の新機能および修正点です。
 
 ## Audience Manager {#aam}
 
-### Audience Manager の新機能、拡張機能および修正点です。{#aam-new-features}
+### Audience Manager の新機能、拡張機能および修正点です {#aam-new-features}
 
 | 機能 | 説明 |
 |--- |----|
@@ -223,11 +223,11 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ## Advertising Cloud {#adcloud}
 
-更新日2019年11月8日リリース
+更新日：2019 年 11 月 9 日、リリース
 
 | 表示 | 機能 |
 |------|---------|
 | コンバージョンの追跡 | Advertising Cloud JavaScript ベースのコンバージョンマッピングタグが、Mozilla Firefox バージョン 69 以降のクリックスルーの追跡をサポートするようになりました。これにより、サードパーティ cookie はデフォルトでブロックされます。同じタグには既に Apple Safari サポートが含まれています。<br><br/>Advertising Cloud コンバージョントラッキングを使用し、Advertising Cloud コンバージョンマッピングタグをまだデプロイしていない場合は、すべてのランディングページに次のコードをデプロイします。<br></br>`<script src="//www.everestjs.net/static/amo-conversion-mapper.js"></script>`<br></br>注：このタグは、Advertising Cloud JavaScript v2 および v3 のコンバージョントラッキングタグをサポートしますが、画像トラッキングタグはサポートしません。 |
 | ポートフォリオ | ポートフォリオオプションの「キャンペーンの最大支出 % 目標を有効にする」が有効になっている場合、最大支出目標を超えることはなくなりました。以前は、最適な広告配信時に Advertising Cloud が最大支出目標を超えることがありました。 |
 | オーディエンスの検索 | オーディエンスライブラリ（検索／オーディエンス／ライブラリ）に、Bing 広告と Google 広告から毎日入力される「オーディエンスのサイズ」列が自動的に含まれるようになりました。オプションで、この列をデータフィルターとして使用できます。 |
-| Adobe Analytics との統合 | Analyticsに、Advertising Cloud DSPキャンペーン用のディメンション「ランディングタイプ(AMO ID)」が含まれるようになりました。  このディメンションを使用して、訪問者がサイトにランディングした方法に基づいてAnalytics指標をセグメント化します。 値には、「クリックスルー」と「ビュースルー」が含まれます。<br><br/>**** 注意：2019年10月31日以前に発生したビュースルーのデータは、クリックスルーのデータとして表示されます。 したがって、2019年11月中旬より前のデータに対しては、このディメンションを使用しないことをお勧めします。 |
+| Adobe Analytics との統合 | Analytics に、Advertising Cloud DSP キャンペーン用のディメンション「ランディングタイプ（AMO ID）」が含まれるようになりました。このディメンションを使用し、訪問者がサイトにランディングした方法に基づいて Analytics 指標をセグメント化します。値には、「クリックスルー」と「ビュースルー」が含まれます。<br><br/>**注意：** 2019　年　10　月　31　日より前に発生したビュースルーのデータは、クリックスルーのデータとして表示されます。したがって、2019 年 11 月中旬より前のデータに対しては、このディメンションを使用しないことをお勧めします。 |
