@@ -1,13 +1,13 @@
 ---
 cloud: experience-cloud
-solution-title: Learn & Support
+solution-title: ラーニングとサポート
 solution-hub-url: https://helpx.adobe.com/jp/support/experience-cloud.html
 solution-icon: assets/assets/experience-cloud-logo-24.png
 getting-started-title: 導入
 getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: チュートリアル
 tutorials-url: https://helpx.adobe.com/jp/experience-cloud/tutorials.html
-mini-toc-levels: '1'
+mini-toc-levels: 1
 git-repo: https://github.com/AdobeDocs/release-notes.en
 index: true
 translation-type: ht
@@ -29,7 +29,7 @@ metadata. md ファイルにはリポジトリ内のユーザーガイド TOC.md
 | getting-started-url | Helpx 開始ページへのリンク |
 | tutorials-title | チュートリアルが適切でない場合はほとんど使用されません |
 | tutorials-url | ビデオチュートリアル（ヘルプチュートリアルまたは KT チュートリアル）へのリンク |
-| mini-toc-levels | 右パネルに表示される見出しレベルの数を指定します。デフォルトは 2 です。 |
+| mini-toc-levels | 右パネルに表示される見出しレベルの数を指定します。デフォルトは 2 です |
 | git-repo | コラボレーションリポジトリの場所を指定します。公開ドキュメントに github.com のミラーを使用 |
 
 TOC.md ファイル内
