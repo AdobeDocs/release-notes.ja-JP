@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: November 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e023f8bb366a21e41013e6f94682d48e0a194ee6
+source-git-commit: 836117dd47be9051044e0c07b960361a65c7b15f
 
 ---
 
@@ -20,7 +20,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (更&#x200B;**新日2019年11月21日**)
+* [!DNL Analytics](#analytics) (更&#x200B;**新日2019年11月26日**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -59,7 +59,7 @@ Experience Platform、Experience Platform Launch、ID サービスおよびセ�
 Adobe Analytics の新機能および修正点です。
 
 * [Adobe Analytics の新機能、機能強化および修正点](#aa-features)
-* [Analytics 管理者向けの重要な注意事項](#aa-notices) (更&#x200B;**新日2019年11月21日**)
+* [Analytics 管理者向けの重要な注意事項](#aa-notices) (更&#x200B;**新日2019年11月26日**)
 * [AppMeasurement](#appm)
 
 製品ドキュメントについては、[Adobe Analytics ヘルプホーム](https://docs.adobe.com/content/help/en/analytics/landing/home.html)を参照してください。
@@ -81,7 +81,8 @@ Adobe Analytics の新機能および修正点です。
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| **[!UICONTROL IP ログイン制限の適用]**&#x200B;オプションのサポート終了 | 2019年11月21日 | Announcing the *October, 2020*, end-of-life date for the IP login whitelisting (**[!UICONTROL Enforce IP Login Restrictions]**) functionality under the **[!UICONTROL Admin &gt; Company Settings &gt; Security]** menu. （当初は2020年1月に発表されていました。） |
+| 「月」および「四半期」ディメンションラベルに更新 | 2019年11月26日 | 2020年1月16日に、標準カレンダー年を反映して、月および四半期のディメンションラベルが更新されます。 カスタムカレンダー設定( **[!UICONTROL管理者/レポートスイート/設定を編集/一般で定義)は** 、引き続きレポートに返される月を決定します。<br>例えば、2020用にカスタマイズしたカレンダーが2019年10月～2020年9月に定義されている場合、月と四半期はレポートで次のように表示されます。<ul><li>四半期 — 2019年10月 — 2019年1月、2020年1月、2020年4月、2020年6月、2020年7月、2020年9月</li><li>月 — 2019年11月、2019年11月、2019年12月、2020年1月、2020年2月、その他</li><li>以前は、上記の項目はすべて2019年を反映していたので、エンドユーザーは混乱を招きました。</li></ul>これらの値を探しているレポートフィルターまたはセグメントがある場合は、何もする必要はありません。 新しい命名規則に従って更新されます。 |
+| **[!UICONTROL IP ログイン制限の適用]**&#x200B;オプションのサポート終了 | 2019 年 11 月 22 日 | Announcing the *October, 2020*, end-of-life date for the IP login whitelisting (**[!UICONTROL Enforce IP Login Restrictions]**) functionality under the **[!UICONTROL Admin &gt; Company Settings &gt; Security]** menu. （当初は2020年1月に発表されていました。） |
 | **[!UICONTROL アーカイブを表示]**&#x200B;オプションのサポート終了 | 2019 年 10 月 31 日 | 2020 年 1 月に、ダッシュボードマネージャー（**[!UICONTROL コンポーネント／ダッシュボード]**）の&#x200B;**[!UICONTROL アーカイブを表示]**&#x200B;オプションのサービスを終了することをお知らせします。 |
 | Cookie の SameSite 属性の処理を更新しました | 2019 年 10 月 16 日 | 2019 年 8 月に、アドビは、Analytics で設定されるすべての cookie に SameSite cookie 設定を追加したことを発表しました。ロジックの更新は次の場合に適用されます。<ul><li>Webkit ベースでないすべてのサードパーティ Cookie の SameSite属性が `none` に設定されている。</li><li>その他のすべての Cookie には、SameSite 属性は設定されていない。</li></ul> |
 | TLS 1.1 のサポート終了 | 2019 年 10 月 4 日 | 2020 年 3 月 31 日までに、Adobe Analytics は TLS 1.1 のサポートを削除します。この変更は、最高のセキュリティ標準を維持し、顧客データの安全性を高めるアドビの継続的な取り組みの一環としておこなわれます。 |
@@ -123,7 +124,7 @@ Adobe Analytics の新機能および修正点です。
 
 Audience Manager では、Roku ID、Amazon Fire TV ID および Xbox／Microsoft ID はグローバルデバイス ID と呼ばれます。これらの ID とそれらが関連付けられているデータソースについて詳しくは、Audience Manager 製品ドキュメントを参照してください。
 
-* [グローバルデバイス　ID](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html#global-device-ids)
+* [グローバルデバイス ID](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html#global-device-ids)
 * [グローバルデータソース](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html)
 
 Roku、Amazon Fire TV および Xbox／Microsoft のデータソースのデータインジェストは、IDFA および GAID と同様に機能します。Audience Manager ID は、キー設定されたデータを取り込むときに自動的に生成され、DAID にリンクされます。新しい ID は、アカウントで設定された既存の Google の宛先と新しい Google の宛先に自動的に送信されます。
@@ -218,7 +219,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### ドキュメントのリソース
 
-* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)- [リリース計画](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
+* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [リリース計画](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
 * Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 
 ## Advertising Cloud {#adcloud}
@@ -230,4 +231,4 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 | コンバージョンの追跡 | Advertising Cloud JavaScript ベースのコンバージョンマッピングタグが、Mozilla Firefox バージョン 69 以降のクリックスルーの追跡をサポートするようになりました。これにより、サードパーティ cookie はデフォルトでブロックされます。同じタグには既に Apple Safari サポートが含まれています。<br><br/>Advertising Cloud コンバージョントラッキングを使用し、Advertising Cloud コンバージョンマッピングタグをまだデプロイしていない場合は、すべてのランディングページに次のコードをデプロイします。<br></br>`<script src="//www.everestjs.net/static/amo-conversion-mapper.js"></script>`<br></br>注：このタグは、Advertising Cloud JavaScript v2 および v3 のコンバージョントラッキングタグをサポートしますが、画像トラッキングタグはサポートしません。 |
 | ポートフォリオ | ポートフォリオオプションの「キャンペーンの最大支出 % 目標を有効にする」が有効になっている場合、最大支出目標を超えることはなくなりました。以前は、最適な広告配信時に Advertising Cloud が最大支出目標を超えることがありました。 |
 | オーディエンスの検索 | オーディエンスライブラリ（検索／オーディエンス／ライブラリ）に、Bing 広告と Google 広告から毎日入力される「オーディエンスのサイズ」列が自動的に含まれるようになりました。オプションで、この列をデータフィルターとして使用できます。 |
-| Adobe Analytics との統合 | Analytics に、Advertising Cloud DSP キャンペーン用のディメンション「ランディングタイプ（AMO ID）」が含まれるようになりました。このディメンションを使用し、訪問者がサイトにランディングした方法に基づいて Analytics 指標をセグメント化します。値には、「クリックスルー」と「ビュースルー」が含まれます。<br><br/>**注意：** 2019　年　10　月　31　日より前に発生したビュースルーのデータは、クリックスルーのデータとして表示されます。したがって、2019 年 11 月中旬より前のデータに対しては、このディメンションを使用しないことをお勧めします。 |
+| Adobe Analytics との統合 | Analytics に、Advertising Cloud DSP キャンペーン用のディメンション「ランディングタイプ（AMO ID）」が含まれるようになりました。このディメンションを使用し、訪問者がサイトにランディングした方法に基づいて Analytics 指標をセグメント化します。値には、「クリックスルー」と「ビュースルー」が含まれます。<br><br/>**注意：** 2019 年 10 月 31 日より前に発生したビュースルーのデータは、クリックスルーのデータとして表示されます。したがって、2019 年 11 月中旬より前のデータに対しては、このディメンションを使用しないことをお勧めします。 |
