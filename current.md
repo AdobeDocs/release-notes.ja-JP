@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: November 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8d06f199f14455854bb8f54a5699f7538a674c3c
+source-git-commit: ba99a07c966a56306daa151606f4503586cb898a
 
 ---
 
@@ -28,7 +28,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（ソリューションヘルプへのリンク）
 * [!DNL Advertising Cloud](#adcloud)（11 月 9 日更新）
 
-ヘルプのホームをお探しの場合は、[Experience Cloud のラーニングとサポート](https://helpx.adobe.com/support/experience-cloud.html)をご覧ください。
+ヘルプのホームをお探しの場合は、詳しくは、 [Adobe Experience cloudドキュメントを参照してください](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)。
 
 ## Experience Cloud インターフェイス {#ecloud}
 
