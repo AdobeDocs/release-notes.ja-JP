@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: November 2019
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b12f367551ffabf44c8f1f983acbd10afee78c3f
+source-git-commit: c8dca487e2a2f4992b7850632a8219ccca269713
 
 ---
 
@@ -29,6 +29,17 @@ Adobe Experience Cloud の新機能および修正点です。
 * [!DNL Advertising Cloud](#adcloud)（11 月 9 日更新）
 
 ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)を参照してください。
+<!-- ## Status.adobe.com
+
+Using your Adobe ID, you can subscribe to status event notifcations, based on your produts, region, and event preferences.
+
+| Feature    | Description  |
+| -----------| ---------- |
+|Self-subscription to pro-active notifications | <ul><li>Select products from Experience Cloud, Creative Cloud, Document Cloud</li><li>Item</li><li>Item</li></ul> |
+|Notifications preferences management | <ul><li>item</li><li>Item</li><li>Item</li></ul> |
+|Personalized and faster email delivery | <ul><li>item</li><li>Item</li><li>Item</li></ul> |
+|Personalized in-product notifications | <ul><li>item</li><li>Item</li><li>Item</li></ul> |
+ -->
 
 ## Experience Cloud インターフェイス {#ecloud}
 
