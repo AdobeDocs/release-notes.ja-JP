@@ -4,7 +4,7 @@ description: Experience Cloud リリースノートのテンプレート
 doc-type: release notes
 last-update: October 2019
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b12f367551ffabf44c8f1f983acbd10afee78c3f
 
 ---
@@ -30,8 +30,8 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [Advertising Cloud](#adcloud)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（ソリューションヘルプへのリンク）
+* [!DNL Target](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
+* [!DNL Primetime](https://helpx.adobe.com/jp/primetime/user-guide.html)（ソリューションヘルプへのリンク）
 
 ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)を参照してください。
 
@@ -44,19 +44,19 @@ Experience Platform、Experience Cloud インターフェイス、製品管理�
 * [Mobile Services および Mobile SDK](#mobile)
 * [管理および開発者](#admin)
 * [Experience Platform Launch](#launch)
-* [セキュリティ速報および情報](https://helpx.adobe.com/security.html)（すべてのアドビ製品）
+* [セキュリティ速報および情報](https://helpx.adobe.com/jp/security.html)（すべてのアドビ製品）
 
 ### コアサービス {#core-services}
 
 機能と修正点。
 
-製品ドキュメントについては、[Experience Cloud およびコアサービス](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)を参照してください。
+製品ドキュメントについては、[Experience Cloud およびコアサービス](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html)を参照してください。
 
 ### Experience Cloud ID サービス {#ecid}
 
 機能と修正点。
 
-製品ドキュメントについては、[Experience Cloud ID サービス](https://marketing.adobe.com/resources/help/en_US/mcvid/)を参照してください。
+製品ドキュメントについては、[Experience Cloud ID サービス](https://marketing.adobe.com/resources/help/ja_JP/mcvid/)を参照してください。
 
 ### Mobile Services および Mobile SDK {#mobile}
 
@@ -71,27 +71,27 @@ Experience Platform、Experience Cloud インターフェイス、製品管理�
 * 修正
 * 修正
 
-製品ドキュメントについては、[Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html) を参照してください。
+製品ドキュメントについては、[Mobile Services](https://docs.adobe.com/content/help/ja-JP/mobile-services/using/home.html) を参照してください。
 
-Mobile SDK について詳しくは、[Experience Solutions 用 Android SDK 4.x](https://marketing.adobe.com/resources/help/en_US/mobile/android/) および [Experience Cloud Solutions 用 iOS SDK 4.x](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html) を参照してください。
+Mobile SDK について詳しくは、[Experience Solutions 用 Android SDK 4.x](https://marketing.adobe.com/resources/help/ja_JP/mobile/android/) および [Experience Cloud Solutions 用 iOS SDK 4.x](https://docs.adobe.com/content/help/ja-JP/mobile-services/ios/overview.html) を参照してください。
 
 ### 管理および開発者 {#admin}
 
 機能と修正点。
 
-製品ドキュメントについては、「[ユーザーと製 品の管理](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html)」を参照してください。
+製品ドキュメントについては、「[ユーザーと製品の管理](https://docs.adobe.com/content/help/ja-JP/core-services/interface/manage-users-and-products/admin-getting-started.html)」を参照してください。
 
 ## Experience Platform {#platform}
 
 Experience Platform、Experience Platform Launch、ID サービスおよびセキュリティ速報のリリースノートです。
 
-* [エクスペリエンスプラットフォームリリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
+* [Experience Platform リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
-* [セキュリティ速報および情報](https://helpx.adobe.com/security.html)（すべてのアドビ製品）
+* [セキュリティ速報および情報](https://helpx.adobe.com/jp/security.html)（すべてのアドビ製品）
 
 ### Experience Platform Launch {#launch}
 
-リリースノートおよび製品ドキュメントについては、[Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) を参照してください。
+リリースノートおよび製品ドキュメントについては、[Experience Platform Launch](https://docs.adobe.com/content/help/ja-JP/launch/using/intro/release-notes/current.html) を参照してください。
 
 ## [!DNL Analytics] {#analytics}
 
@@ -101,7 +101,7 @@ Adobe Analytics の新機能および修正点です。
 * [iOS および Android 用の Media Analytics SDK （以前の VHL SDK）](#aa-va)
 * [Analytics 管理者向けの重要な注意事項](analytics-important-notices.md)
 
-製品ドキュメントについては、[Adobe Analytics ヘルプホーム](https://docs.adobe.com/content/help/en/analytics/landing/home.html)を参照してください。
+製品ドキュメントについては、[Adobe Analytics ヘルプホーム](https://docs.adobe.com/content/help/ja-JP/analytics/landing/home.html)を参照してください。
 
 ### Adobe Analytics の新機能 {#aa-features}
 
@@ -121,7 +121,7 @@ Adobe Analytics の新機能および修正点です。
 
 ### [!DNL Data Workbench] {#aa-dwb}
 
-最新のリリース情報については、[Data Workbench リリースノート](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/)を参照してください。
+最新のリリース情報については、[Data Workbench リリースノート](https://marketing.adobe.com/resources/help/ja_JP/insight/whatsnew/)を参照してください。
 
 ### AppMeasurement {#appm}
 
@@ -138,7 +138,7 @@ Adobe Analytics の新機能および修正点です。
 * 修正
 * 修正
 
-次のプラットフォームの AppMeasurement のリリース履歴については、[AppMeasurement リリース履歴](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)を参照してください。
+次のプラットフォームの AppMeasurement のリリース履歴については、[AppMeasurement リリース履歴](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)を参照してください。
 
 * JavaScript
 * iOS
@@ -199,13 +199,13 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 ### その他のリソース
 
-* [AEM 6.4 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-4.html)
-* [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-3.html)
-* [AEM 6.2 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-2.html)
-* [Cloud Manager ユーザーガイド](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [AEM ドキュメントの以前のバージョン](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
-* [Scene7 Publishing System リリースノート](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
-* [Livefyre リリースノート](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
+* [AEM 6.4 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-4.html)
+* [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-3.html)
+* [AEM 6.2 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-2.html)
+* [Cloud Manager ユーザーガイド](https://helpx.adobe.com/jp/experience-manager/cloud-manager/user-guide.html)
+* [AEM ドキュメントの以前のバージョン](https://helpx.adobe.com/jp/experience-manager/aem-previous-versions.html)
+* [Scene7 Publishing System リリースノート](https://marketing.adobe.com/resources/help/ja_JP/s7/release_notes/index.html)
+* [Livefyre リリースノート](https://docs.adobe.com/content/help/ja-JP/livefyre/using/release-notes/c-rn.html)
 
 ### Livefyre {#livefyre}
 
@@ -256,8 +256,8 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 **その他のリソース**
 
-* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [リリース計画](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)- [リリース計画](https://helpx.adobe.com/jp/campaign/kb/acs-release-planning.html)
+* Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/ja/RN.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 
 ## Advertising Cloud {#adcloud}
 
