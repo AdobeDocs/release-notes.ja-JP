@@ -2,25 +2,25 @@
 title: Adobe Experience Cloud リリースノート
 description: Experience Cloud リリースノートのテンプレート
 doc-type: release notes
-last-update: November 2019
+last-update: January 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 729d021a7bddb5d10d06f466bb7e9f141f236bd0
+source-git-commit: 8a895d104abd20910aa37ec2ec3b6eeaccd8c461
 
 ---
 
 
-# Adobe Experience Cloud リリースノート - 2019 年 11 月
+# 内部レビュー — Adobe Experience cloudリリースノート — 2020年1月
 
 Adobe Experience Cloud の新機能および修正点です。
 
 > [!NOTE] [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。リリース後に発表された新情報については、更新日と併せて追加公開します。
 
-**リリース日：2019 年 10 月 31 日**
+**リリース日：2020年1月**
 
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (更&#x200B;**新日2019年12月18日**)
+* [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -29,28 +29,24 @@ Adobe Experience Cloud の新機能および修正点です。
 * [!DNL Advertising Cloud](#adcloud)（11 月 9 日更新）
 
 ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)を参照してください。
-<!-- ## Status.adobe.com
 
-Using your Adobe ID, you can subscribe to status event notifcations, based on your produts, region, and event preferences.
+## Status.adobe.com
 
-| Feature    | Description  |
+Adobe IDを使用して、製品、地域およびイベントの環境設定に基づいて、ステータスイベント通知を購読できます。
+
+| 機能 | 説明 |
 | -----------| ---------- |
-|Subscribe to real-time email notifications | <ul><li>Support for Experience Cloud, Creative Cloud, Document Cloud, AEP, and Adobe Services</li><li>Support for region and event type preferences</li><li>UX support for Web, mobile, and tablet surfaces</li></ul> |
-|Notifications preferences management | <ul><li>Edit and save notification preferences at any time</li><li>Unsubscribe from notifications at any time</li><li>Item</li></ul> |
-|Personalized and faster email delivery | <ul><li>Event notifications are sent as soon as CSOs and CMRs are opened, updated or closed</li><li>Receive only the relevant event notifications matching your configured preferences</li><li>Received localized notifications based on the language configured in in your account preferences</li></ul> |
-|Personalized in-product notifications | Events matching your notification preferences and product entitlements appear in the Announcement panel.|
- -->
+| リアルタイム電子メール通知の購読 | <ul><li>Experience Cloud、Creative Cloud、Document Cloud、AEPおよびAdobe Servicesのサポート</li><li>地域とイベントタイプの環境設定のサポート</li><li>Web、モバイル、タブレットの各サーフェスに対するUXのサポート</li></ul> |
+| 通知設定管理 | <ul><li>通知設定の編集と保存をいつでも行う</li><li>いつでも通知を登録解除</li><li>項目</li></ul> |
+| パーソナライズされた迅速な電子メール配信 | <ul><li>イベント通知は、CSOおよびCMRが開かれた、更新された、または閉じられた直後に送信されます</li><li>設定した環境設定に一致する関連イベント通知のみを受信する</li><li>アカウントの環境設定で設定された言語に基づいてローカライズされた通知を受信しました</li></ul> |
+| 製品内通知のパーソナライズ | 通知設定と製品の権利に一致するイベントがお知らせパネルに表示されます。 |
 
 ## Experience Cloud インターフェイス {#ecloud}
 
 Experience Cloud インターフェイスおよび製品管理のリリースノートです。
 
-* フィードページは 2019 年 12 月に廃止予定です。製品内の廃止のお知らせを探してください。（MCUI-10039）
-* アプリセレクターで Adobe Campaign の「[詳細](https://www.adobe.com/marketing/campaign.html)」リンクを更新しました。（MCUI-10034）
-* Experience Cloud インターフェイスのコアプラットフォームの安定性と応答性が向上しました。（MCUI-6822）
-* Experience Cloud UI のセキュリティの脆弱性を修正しました。（MCUI-9942）
-* 一部の顧客のスキーマ検証がブロックされる顧客属性の重大な問題を修正しました。（MCUI-10024、MCUI-6479）
-* オーディエンスライブラリを改善し、リアルタイムオーディエンスの作成がサポートされていないディメンションを削除しました。（MCUI-10046）
+* 項目
+* 項目
 
 製品ドキュメントについては、[Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) を参照してください。
 
@@ -58,7 +54,7 @@ Experience Cloud インターフェイスおよび製品管理のリリースノ
 
 Experience Platform、Experience Platform Launch、ID サービスおよびセキュリティ速報のリリースノートです。
 
-* [エクスペリエンスプラットフォームリリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
+* [Experience Platform リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
 * [セキュリティ速報および情報](https://helpx.adobe.com/security.html)（すべてのアドビ製品）
 
@@ -80,22 +76,20 @@ Adobe Analytics の新機能および修正点です。
 
 | 機能 | 説明 |
 | -----------| ---------- | 
-| カスタマージャーニー分析 | 2019 年 11 月 22 日、Adobe Analytics に対するアドオンとして[カスタマージャーニー分析](https://www.adobe.com/analytics/customer-journey-analytics.html)を利用できるようになります。<br><br/>カスタマージャーニー分析を使用すれば、お好きなチャネルから、オンラインとオフラインの両方ですべての顧客データを Adobe Experience Platform に取り込むことができます。その後、現在 Analysis Workspace を使用して、既存のデジタルデータを分析しているのと同じようにこのデータを分析できます。カスタマージャーニー分析には、共通の顧客 ID に基づいて、Analysis Workspace のオンラインデータとオフラインデータをどのように接続するかを制御し、最終的に Adobe Analytics の顧客データセット全体をまたいでアトリビューション、セグメント化、フロー、フォールアウトなどを実行できる機能が含まれます。<br><br/>Analytics Select、Prime および Ultimate のお客様は、このアドオン製品を購入できます。詳しくは、アドビのアカウントチームにお問い合わせください。 |
-| プライバシーサービス API：CCPA | カリフォルニア州消費者プライバシー法（CCPA）は、米国カリフォルニア州の居住者のプライバシー権と消費者保護を厳格化します。この法律は、2020 年 1 月 1 日に施行されます。<br><br/>CCPA は、カリフォルニア州の居住者に新しいプライバシー権を提供します。これには、自身の個人データにアクセスして削除する権利、自身の個人データが（誰に）販売または公開されているかどうかを知る権利、および自身の個人データの販売を拒否する権利が含まれます。<br><br/>CCPA を見越し、プライバシーサービスは個人データの販売のオプトアウトに対するリクエストをサポートします。<br><br/>プライバシーサービス（旧 GDPR サービス）は、以前の機能をすべて保持し、CCPA をサポートするよう拡張されました。<br/><br/>[Analytics の CCPA](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/an-ccpa-overview.html)<br><br/>[プライバシーの概要](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
-| プライバシーレポート：Analytics Admin Console | Analytics でプライバシーレポートを有効化すると、レポートスイートに一連の変数が追加されます。これらの変数は、消費者の同意データをヒットレベルで収集するためのものです。<br><br/>追加されるディメンション：<br/><ul><li>同意管理のオプトアウト</li><li>同意管理のオプトイン</li><li>[同意管理変数](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/consent-variables.html)</li></ul> |
-| オーディオとビデオの分析：プライバシーサポート | メディアコレクション API に 2 つの新しい変数が追加されました。<br/><ul><li>analytics.optOutServerSideForwarding</li><li>analytics.optOutShare</li></ul><br/><br/>これらは、ヒット時の消費者の同意のステータスを取得するための変数です。<br/><br/>[メディアコレクション API ドキュメント](https://docs.adobe.com/content/help/en/media-analytics/using/media-collection-api/mc-api-overview.html)<br/><br/>新しい Analytics Consent Management コンテキストデータ変数が Federated Analytics フォームに追加されました。これらの変数を、フェデレーションの「共有のオプトアウト」または「販売ヒット数」のフラグ付けに使用できるようになりました。<br/><br/>[フェデレーテッドフォームのダウンロード](https://docs.adobe.com/content/help/en/media-analytics/using/federated-analytics.html#download-the-federated-analytics-form) |
+|  |  |
 
 #### 修正点
 
-* 不明なユーザーが所有する日付範囲を削除しようとすると、エラーが発生する問題を修正しました。（AN-185540）
+* 修正
+* 修正
 
 ### [!DNL Analytics] 管理者向けの重要な注意事項 {#aa-notices}
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
 | 新しいAdobe Analyticsドメイン | 2019年12月18日 | 2020年1月16日に、Adobe Analyticsは新しいドメイン — https://experience.adobe.com/analyticsに移行します。 この変更により、SafariでAnalyticsを読み込む際にcookieの問題が発生する可能性があります。 Safariのプライバシー設定で「クロスサイト追跡を禁止する」をオフにすると、ドメイン（およびすべてのクロスサイトエクスペリエンス）間でcookieが有効になり、Analyticsがこの新しいAdobe Experience cloudドメインで機能するようになります。 Safariユーザーのみに影響するので、ユーザーは問題なく他のブラウザーを使用できます。 |
-| **[!UICONTROL アーカイブを表示]**&#x200B;オプションのサポート終了 | 2019 年 10 月 31 日 | 2020 年 1 月に、ダッシュボードマネージャー（**[!UICONTROL コンポーネント／ダッシュボード]**）の&#x200B;**[!UICONTROL アーカイブを表示]**&#x200B;オプションのサービスを終了することをお知らせします。 |
-| **[!UICONTROL IP ログイン制限の適用]**&#x200B;オプションのサポート終了 | 2019 年 10 月 31 日 | 2020 年 1 月に、**[!UICONTROL 管理者／会社設定／セキュリティ]**&#x200B;メニューの IP ログインのホワイトリストへの追加（**[!UICONTROL IP ログイン制限の実施]**）機能のサポートを終了することをお知らせします。 |
+| **[!UICONTROL アーカイブを表示]**オプションのサポート終了 | 2019 年 10 月 31 日 | 2020 年 1 月に、ダッシュボードマネージャー（**[!UICONTROL コンポーネント／ダッシュボード]**）の**[!UICONTROL &#x200B;アーカイブを表示]**オプションのサービスを終了することをお知らせします。 |
+| **[!UICONTROL IP ログイン制限の適用]**オプションのサポート終了 | 2019 年 10 月 31 日 | 2020 年 1 月に、**[!UICONTROL 管理者／会社設定／セキュリティ]**メニューの IP ログインのホワイトリストへの追加（**[!UICONTROL  IP ログイン制限の実施]**）機能のサポートを終了することをお知らせします。 |
 | Cookie の SameSite 属性の処理を更新しました | 2019 年 10 月 16 日 | 2019 年 8 月に、アドビは、Analytics で設定されるすべての cookie に SameSite cookie 設定を追加したことを発表しました。ロジックの更新は次の場合に適用されます。<ul><li>Webkit ベースでないすべてのサードパーティ Cookie の SameSite属性が `none` に設定されている。</li><li>その他のすべての Cookie には、SameSite 属性は設定されていない。</li></ul> |
 | TLS 1.1 のサポート終了 | 2019 年 10 月 4 日 | 2020 年 3 月 31 日までに、Adobe Analytics は TLS 1.1 のサポートを削除します。この変更は、最高のセキュリティ標準を維持し、顧客データの安全性を高めるアドビの継続的な取り組みの一環としておこなわれます。 |
 | サンノゼ FTP 連携機能の終了 | 2020 年 7 月 | ロンドンおよびシンガポールデータセンターをご利用のお客様に対し、サンノゼデータセンター [ftp.omniture.com](ftp://ftp.omniture.com/) からロンドンまたはシンガポールへの、データ連携機能の提供を終了します。ftp.omniture.com をご利用中のお客様は、今後、次の FTP を使用してください。<br/><ul><li>ロンドンのお客様：[ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>シンガポールのお客様：[ftp4.omniture.com](ftp://ftp4.omniture.com/)</li> |
@@ -104,9 +98,9 @@ Adobe Analytics の新機能および修正点です。
 | 履歴タイムゾーンオフセットのサポート | 2019 年 8 月 9 日 | Analytics は、タイムスタンプ付きのヒットに対して、タイムゾーンオフセットを自動的に処理するようになりました。この変更に従い、履歴処理用にデータで読み込むシステムは、データで送信する前にタイムゾーンオフセットを調整する必要がなくなりました。 |
 | 分類ルールビルダーの制限 | 追加日：2019 年 6 月 6 日 | これらの制限は新しいものではありませんが、[こちら](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html)のドキュメントに追加されました。 |
 | 新しいセグメント演算子の制限 | 追加日：2019 年 6 月 1 日 | 2019 年 7 月 19 日以降、セグメント演算子「_次のいずれかを含む_」、「_次のいずれかを含まない_」、「_次のすべてを含む_」および「_次のすべてを含まない_」は、入力フィールドあたり 100 語に制限されます。この制限は、この日以降、すべての新しいセグメントおよび変更されたセグメントに適用されます。制限を超過している既存のセグメントは、引き続きサポートされますが、入力フィールドが減らされるまで変更または保存できません。これらの制限は、クエリパフォーマンス向上のための継続的な取り組みの一環として適用されています。 |
-| **[!UICONTROL 日付分類]**&#x200B;および&#x200B;**[!UICONTROL 数値 2 分類]**&#x200B;に関するサポートの変更 | 2019 年 5 月 29 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。この変更は 2019 年 7 月のメンテナンスリリースから有効になりました。「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。<br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
-| _レポートの合計_&#x200B;の計算に対する変更 | 更新日：2019 年 7 月 10 日 | **2019 年 6 月 19 日**&#x200B;に、Adobe Analytics では、_レポートの合計_&#x200B;値の算出方法をすべてのディメンションおよび指標で共通化しました。これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されました。この変更以前は、レポートに&#x200B;_未指定_&#x200B;が表示されているかどうかにかかわらず、合計に&#x200B;_未指定_&#x200B;の行項目を含めるレポートと含めないレポートが混在していました。<br/>2019 年 6 月 19 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に含められるようになります。さらに、_存在する_&#x200B;または&#x200B;_存在しない_&#x200B;ロジックを使用するセグメントは、この変更後、一部のディメンションで異なる結果が表示される可能性があります（特に、_未指定_&#x200B;を特有な値としてレポートするディメンションに影響します。リファラータイプディメンションの「手動入力/ブックマーク」行項目やデバイスタイプディメンションの「その他」行項目が該当します）。この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。<br>**注意**:このレ _ポート合計_ (Total)の計算は、「総合計」 _と呼ばれます_。 「分析ワークスペース：上記の「フリーフォームテーブルの合計」に更新します。 |
-| Analysis Workspace CSV ダウンロード機能の更新点 | 2019 年 4 月 11 日 | 2019 年 4 月 12 日以降、Analysis Workspace からの **[!UICONTROL CSV ダウンロード]**（**[!UICONTORL クリップボードへのコピー]**）にいくつかの変更が加えられ、書き出されたデータから書式が削除されます。  <ul><li>桁区切り記号は含まれなくなりました。小数点文字は引き続き表示され、**[!UICONTROL コンポーネント／レポート設定／桁区切り記号]**&#x200B;で定義された形式が適用されます。注意：小数点を小数点区切り記号として使用する数値は、書き出された CSV では引き続き引用されます。</li><li>通貨記号は表示されません。</li><li>パーセント記号は表示されません。パーセンテージは 10 進形式になります。例：75%は 0.75 と表示されます。</li><li>時間は秒単位で表示されます。</li><li>コホートテーブルでは、生の値のみが表示され、パーセント値は削除されます。</li><li>数値が無効な場合は、空のセルが表示されます。</li></ul> |
+| **[!UICONTROL 日付分類]**および**[!UICONTROL &#x200B;数値 2 分類]**に関するサポートの変更 | 2019 年 5 月 29 日更新 | 数値 2 分類および日付分類をインポートする機能が廃止されます。この変更は 2019 年 7 月のメンテナンスリリースから有効になりました。「Numeric（数値）」列または「Date-Enabled（日付）」列がインポートファイルにある場合、それらの値は警告なく無視され、そのファイル内の他のすべてのデータは通常どおりインポートされます。<br/>インポート済みの既存の分類は、通常の分類ワークフローで引き続きエクスポートでき、レポートで使用できます。 |
+| _レポートの合計_&#x200B;の計算に対する変更 | 更新日：2019 年 7 月 10 日 | **2019 年 6 月 19 日**&#x200B;に、Adobe Analytics では、_レポートの合計_&#x200B;値の算出方法をすべてのディメンションおよび指標で共通化しました。これにより、一部のレポート（通常、Prop または顧客属性レポート）の合計が変更されました。この変更以前は、レポートに&#x200B;_未指定_&#x200B;が表示されているかどうかにかかわらず、合計に&#x200B;_未指定_&#x200B;の行項目を含めるレポートと含めないレポートが混在していました。<br/>2019 年 6 月 19 日以降は、レポートの項目に「_未指定_」と表示されなくても、レポートの合計値に常に含められるようになります。さらに、_存在する_&#x200B;または&#x200B;_存在しない_&#x200B;ロジックを使用するセグメントは、この変更後、一部のディメンションで異なる結果が表示される可能性があります（特に、_未指定_&#x200B;を特有な値としてレポートするディメンションに影響します。リファラータイプディメンションの「手動入力/ブックマーク」行項目やデバイスタイプディメンションの「その他」行項目が該当します）。この変更は、Analysis Workspace、Reports &amp; Analytics、Ad Hoc Analysis、Report Builder およびレポート API に影響します。<br>**注意&#x200B;**:このレ&#x200B;_ポート合計_(Total)の計算は、「総合計」_と呼ばれます_。 「分析ワークスペース：上記の「フリーフォームテーブルの合計」に更新します。 |
+| Analysis Workspace CSV ダウンロード機能の更新点 | 2019 年 4 月 11 日 | 2019 年 4 月 12 日以降、Analysis Workspace からの **[!UICONTROL CSV ダウンロード]**（**[!UICONTORL &#x200B;クリップボードへのコピー]**）にいくつかの変更が加えられ、書き出されたデータから書式が削除されます。  <ul><li>桁区切り記号は含まれなくなりました。小数点文字は引き続き表示され、**[!UICONTROL コンポーネント／レポート設定／桁区切り記号]**で定義された形式が適用されます。注意：小数点を小数点区切り記号として使用する数値は、書き出された CSV では引き続き引用されます。</li><li>通貨記号は表示されません。</li><li>パーセント記号は表示されません。パーセンテージは 10 進形式になります。例：75%は 0.75 と表示されます。</li><li>時間は秒単位で表示されます。</li><li>コホートテーブルでは、生の値のみが表示され、パーセント値は削除されます。</li><li>数値が無効な場合は、空のセルが表示されます。</li></ul> |
 | Analysis Workspace Debugger コマンドの変更 | 2019 年 4 月 5 日 | Analysis Workspace Debugger をオンにするためのコンソールコマンドは、**2019 年 6 月 14 日**、adobeTools.debug.includeOberonXml に変更されます。この日以降、adobe.tools.debug.includeOberonXml は、機能しなくなります。 |
 | モバイルブラウザーのバージョン番号 | 2019 年 2 月 8 日 | 2019 年 1 月 9 日より、モバイルブラウザーバージョン番号を 2 桁から 1 桁に変更しました。この日以降、バージョンは先頭の 2 レベルのみ表示されます（例：_Firefox 64.0.2_ は _Firefox 64.0_ と表記されるようになりました）。 |
 | [!DNL Ad Hoc Analysis] のサポート終了  | 2019 年 1 月 30 日 | 2018 年 8 月 7 日、アドビは [!DNL Ad Hoc Analysis] のサポート終了の意向を表明しました。サポート終了日については確定次第お知らせします。<br/>サポート終了の予定や詳細については、[[!DNL Discover Workspace]](https://adobe.ly/discoverworkspace) を参照してください。 |
@@ -125,31 +119,16 @@ Adobe Analytics の新機能および修正点です。
 
 | 機能 | 説明 |
 |--- |----|
-| [プロファイル結合ルールの強化](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) | [!UICONTROL プロファイル結合ルール]に関する一連の機能強化をリリースしました。 <ul><li>セグメント評価が、最大 100 台のデバイスに対してバッチでサポートされるようになりました。</li><li>特性とセグメント母集団のレポート精度が向上しました。</li><li>クロスデバイス ID を使用して生成されたバッチファイルの精度が向上しました。</li><li>各ルールの使用例をさらに詳しく説明し、ドキュメントを更新しました。詳しくは、「[プロファイル結合ルールの一般的な使用例](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html)」、「[外部デバイスグラフの使用例](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/external-graph-use-cases.html)」、および「[プロファイルリンクデバイスグラフの使用例](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/profile-link-use-case.html)」を参照してください。</li></ul> |
-| [Adobe Sensei を活用した、Audience Marketplace データに関するインテリジェントなレコメンデーション](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html) | 特性レコメンデーションを使用した場合、[Segment Builder](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segment-builder.html) でセグメントを作成または編集すると、登録していない [!UICONTROL Audience Marketplace] データフィードから、追加の特性に関するレコメンデーションを取得できるようになりました。対象者を増やすために、推奨された Trait をセグメントに追加します。<br>さらに、[!UICONTROL Marketplace] ページのデザインを一新し、類似の特性の検索や、データフィードのフィルタリングを容易にしました。 |
-| [一括管理ツール](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | MacOS および Microsoft Windows オペレーティングシステムで動作し、Experience Cloud ログインをサポートする新しいバージョンの一括管理ワークシートがリリースされました。 |
-| [HTTP Strict-Transport-Security](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/data-security-and-privacy/data-security.html#hsts) | cookie のハイジャック攻撃やプロトコルダウングレード攻撃から保護する Web セキュリティポリシーである [!DNL HTTP Strict-Transport-Security] に対するサポートが追加されました。 |
+|  |  |
 
 ### 強化された機能 {#aam-enhancements}
-
-2019 年 11 月現在、Audience Manager は、以前にサポートされていた cookie、IDFA、GAID デバイス ID に加え、Google Ad Manager や DV360 の宛先への Roku ID、Amazon Fire TV ID および Xbox／Microsoft ID の送信もサポートしています。既存の Google 統合に変更を加える必要はありません。
-
-Audience Manager では、Roku ID、Amazon Fire TV ID および Xbox／Microsoft ID はグローバルデバイス ID と呼ばれます。これらの ID とそれらが関連付けられているデータソースについて詳しくは、Audience Manager 製品ドキュメントを参照してください。
-
-* [グローバルデバイス ID](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html#global-device-ids)
-* [グローバルデータソース](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html)
-
-Roku、Amazon Fire TV および Xbox／Microsoft のデータソースのデータインジェストは、IDFA および GAID と同様に機能します。Audience Manager ID は、キー設定されたデータを取り込むときに自動的に生成され、DAID にリンクされます。新しい ID は、アカウントで設定された既存の Google の宛先と新しい Google の宛先に自動的に送信されます。
 
 詳しくは、Audience Manager のコンサルタントまたはカスタマーケアにお問い合わせください。
 
 ### 修正点および改善点 {#aam-fixes-and-improvements}
 
-* Audience Marketplace で、顧客が月別のセグメント使用状況を送信する際に UI からエラー 409 が返されるバグを修正しました。（AAM-50825）
-* 派生シグナルで、短時間新しい派生シグナルを作成できないバグを修正しました。（AAM-50968）
-* People-Based Destinations で、顧客が宛先の名前を変更できなかったバグを修正しました。（AAM-51025）
-* 一部のユーザーが Audience Manager UI にログインする際にアカウントが重複していたバグを修正しました。これらのユーザーは、重複したアカウントに権限が関連付けられなかったことにより、UI の一部にアクセスして操作を実行できませんでした。（AAM-50818）
-* 引き続き、Audience Manager UI のアクセシビリティを改善します。（AAM-48932、AAM-48997、AAM-49043、AAM-49054、AAM-49371、AAM-49375、AAM-51313）
+* 修正
+* 修正
 
 ## Experience Manager {#aem}
 
@@ -157,55 +136,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 ### 製品リリース
 
-* **Brand Portal 6.4.5**
-
-   Adobe Experience Manager Assets Brand Portal 6.4.5 は、Brand Portal ユーザー（外部のエージェンシー／チーム）に対して、オーサー環境にアクセスせずに Brand Portal にコンテンツをアップロードし、AEM Assets に公開する機能を提供する機能リリースです。この機能は [Brand Portal でのアセットソーシング](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/using-asset-sourcing/brand-portal-overiew-using-asset-sourcing.html)と呼ばれ、世界中に分散した他の Brand Portal ユーザーとアセットを投稿および共有する双方向のメカニズムを提供し、顧客体験を向上させます。
-
-   [AEM Assets Brand Portal の新機能](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/whats-new.html)を参照してください。
-
-   [リリースノート](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html)を参照してください。
-
-* **AEM Forms 自動変換サービス**
-
-   自動フォーム変換サービスは、PDF フォームをアダプティブフォームに自動変換することで、データ取得エクスペリエンスのデジタル化と最新化を促進します。Adobe Sensei を活用したサービスは、PDF フォームを、デバイスに対応した、レスポンシブで HTML5 ベースのアダプティブフォームに自動的に変換します。このサービスでは、PDF フォームと XFA に対する既存の投資を活用しながら、変換時、アダプティブフォームフィールドに適切な検証、スタイル設定、レイアウトも適用します。
-
-   詳しくは、「[Adobe Experience Manager Forms 自動コンバージョンサービス](https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html)」を参照してください。
-
-* **Cloud Manager 2019.10.0**
-
-   Cloud Manager 2019.10.0 の一般的なリリースノートを利用できるようになりました。ノートには、デプロイメント手順と、maven プロジェクトバージョンのハンドリングに対する更新も記載されています。
-
-   詳しくは、「[Cloud Manager 2019.10.0 リリースノート](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)」を参照してください。
-
 ### セルフサービス
-
-* **Activity Map**
-
-   Adobe Analytics API 内のセキュリティの変更により、AEM に含まれるバージョンの Activity Map を使用できなくなりました。詳しくは、「[Adobe Analytics への接続の設定](https://helpx.adobe.com/experience-manager/6-5/sites/administering/using/adobeanalytics-connect.html#ConfiguringtheConnectiontoAdobeAnalytics)」を参照してください。
-
-   Adobe Analytics が提供する Chrome 、Firefox または Internet Explorer 用の [Activity Map ブラウザープラグイン](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html)を使用する必要があります。
-
-* **AEM Screens プロジェクトのベストプラクティスガイド**
-
-   新しい _AEM Screens のベストプラクティスガイド_&#x200B;は、デジタル署名の実装を想像、設計し、意図的な顧客体験をもたらすための、包括的なインサイトと実践的なアドバイスを提供します。また、AEM Screens にデジタル署名プロジェクトを展開しながら、ベストプラクティスを使用してビジネスに良い影響を与える方法についても説明します。
-
-   「[AEM Screens プロジェクトのベストプラクティスガイド](https://docs.adobe.com/content/help/en/experience-manager-screens/using/about-guide.html)」を参照してください。
-
-* **ヘッドレスエクスペリエンス管理**
-
-   単一ページアプリケーションのサーバーサイドレンダリングに使用される[リモートコンテンツレンダラー](https://helpx.adobe.com/experience-manager/6-5/sites/developing/using/spa-ssr.html#main-pars_header_450130848)の機能が、ドキュメントに記載されました。
-
-* **SPA とサーバーサイドレンダリング**
-
-   AEM 駆動型 SPA がサーバーサイドレンダリングに使用するリモートコンテンツレンダリングサービスを、ニーズに合わせて拡張およびカスタマイズできます。
-
-   「[SPA とサーバサイドレンダリング](https://helpx.adobe.com/experience-manager/6-5/sites/developing/using/spa-ssr.html#RemoteContentRenderer)」を参照してください。
-
-* **AEM プロジェクトアーキタイプ**
-
-   AEM プロジェクトのアーキタイプは、最小限のベストプラクティスベースの Adobe Experience Manager プロジェクトを独自の AEM プロジェクトの出発点として作成します。このアーキタイプを使用する場合に指定する必要があるプロパティを使用すると、このプロジェクトのすべての部分の名前を指定し、特定のオプション機能を制御できます。
-
-   「[AEM プロジェクトアーキタイプ](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/overview.html)」を参照してください。
 
 * **AEM のドキュメントの更新**
 
@@ -231,16 +162,11 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### ドキュメントのリソース
 
-* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [リリース計画](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
+* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)- [リリース計画](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
 * Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 
 ## Advertising Cloud {#adcloud}
 
-更新日：2019 年 11 月 9 日、リリース
-
 | 表示 | 機能 |
 |------|---------|
-| コンバージョンの追跡 | Advertising Cloud JavaScript ベースのコンバージョンマッピングタグが、Mozilla Firefox バージョン 69 以降のクリックスルーの追跡をサポートするようになりました。これにより、サードパーティ cookie はデフォルトでブロックされます。同じタグには既に Apple Safari サポートが含まれています。<br><br/>Advertising Cloud コンバージョントラッキングを使用し、Advertising Cloud コンバージョンマッピングタグをまだデプロイしていない場合は、すべてのランディングページに次のコードをデプロイします。<br></br>`<script src="//www.everestjs.net/static/amo-conversion-mapper.js"></script>`<br></br>注：このタグは、Advertising Cloud JavaScript v2 および v3 のコンバージョントラッキングタグをサポートしますが、画像トラッキングタグはサポートしません。 |
-| ポートフォリオ | ポートフォリオオプションの「キャンペーンの最大支出 % 目標を有効にする」が有効になっている場合、最大支出目標を超えることはなくなりました。以前は、最適な広告配信時に Advertising Cloud が最大支出目標を超えることがありました。 |
-| オーディエンスの検索 | オーディエンスライブラリ（検索／オーディエンス／ライブラリ）に、Bing 広告と Google 広告から毎日入力される「オーディエンスのサイズ」列が自動的に含まれるようになりました。オプションで、この列をデータフィルターとして使用できます。 |
-| Adobe Analytics との統合 | Analytics に、Advertising Cloud DSP キャンペーン用のディメンション「ランディングタイプ（AMO ID）」が含まれるようになりました。このディメンションを使用し、訪問者がサイトにランディングした方法に基づいて Analytics 指標をセグメント化します。値には、「クリックスルー」と「ビュースルー」が含まれます。<br><br/>**注意：** 2019 年 10 月 31 日より前に発生したビュースルーのデータは、クリックスルーのデータとして表示されます。したがって、2019 年 11 月中旬より前のデータに対しては、このディメンションを使用しないことをお勧めします。 |
+|  |  |
