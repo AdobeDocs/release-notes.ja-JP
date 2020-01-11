@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 51e45852d84bd30b5d0fb21640b2e9f31080840c
+source-git-commit: b0f2fe07102a20e343f69b1c156f48ca4f284966
 
 ---
 
@@ -65,7 +65,7 @@ Experience cloudインターフェイスの新機能および修正点です。�
 
 * 新しいソリューションURL:最終的 `experience.adobe.com/<application name>.` に、すべての製品でこのURLパターンが採用されます。 月を通じて有効になる新しいURLを探します。
 * 組織間または別のアプリケーション間の切り替えが容易になりました。
-* 製品ヘルプの改善：Experience Leagueは  、コミュニティフォーラムやビデオコンテンツの結果も含めるために、製品に統合されています。 この変更により、より多くのコンテンツへのアクセスが簡素化され、Experience cloudを最大限に活用できるようになります。 さらに、ヘルプ/ **[!UICONTROL フィードバ]**ック**[!UICONTROL (Feedback]** )をクリックして、問題を報告したり、アイデアをアドビの製品と共有したりします。
+* 製品ヘルプの改善：Experience Leagueは  、コミュニティフォーラムやビデオコンテンツの結果も含めるために、製品に統合されています。 この変更により、より多くのコンテンツへのアクセスが簡素化され、Experience cloudを最大限に活用できるようになります。 さらに、ヘルプ/フ **[!UICONTROL ィードバ]**ック**[!UICONTROL (Feedback]** )をクリックして、問題を報告したり、アドビとアイデアを共有したりします。
 * 通知の改善：「通知  」ドロップダウンメニューに2つのタブが追加され、1つは独自の製品通知用、もう1つはグローバル製品のお知らせ用です。
 
 **** 注意：フィー [!UICONTROL ド] ページは、2020年1月に廃止されます。 製品内の廃止のお知らせを探してください。
