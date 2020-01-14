@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7ec12529edf495c36cc153028458257939782e41
+source-git-commit: d92cffebc2db7e6a6d7d7b531390b6e307b2943e
 
 ---
 
@@ -63,8 +63,10 @@ Experience cloudインターフェイスの新機能および修正点です。�
 
 更新内容は次のとおりです。
 
-* 新しいソリューションURL:最終的 `experience.adobe.com/<application name>.` に、すべての製品でこのURLパターンが採用されます。 月を通じて有効になる新しいURLを探します。 注意：
-   * ドメインの変更により、Safariでcookieの問題が発生する場合があります。 Unchecking _Prevent cross-site tracking_ in the Safari Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Experience Cloud to function on this new domain. Safariユーザーのみに影響するので、他のブラウザーも問題なく使用できます。
+* 新しいソリューションURL: `experience.adobe.com/<application name>`:
+   * 最終的に、すべての製品でこのURLパターンが採用されます。 月を通じて有効になる新しいURLを探します。
+   * サポートされるブラウ [!DNL Microsoft Edge]ザーには、、、、、、およ [!DNL Google Chrome]び(最 [!DNL Firefox]新バージョン) [!DNL Safari][!DNL Opera] が含まれます。
+   * (の[!DNL Safari] み)ドメインの変更によって、でCookieの問題が発生する場合がありま [!DNL Safari]す。 Unchecking _Prevent cross-site tracking_ in the [!DNL Safari] Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Experience Cloud to function on this new domain.
 * 組織間または別のアプリケーション間の切り替えが容易になりました。
 * 製品ヘルプの改善：Experience Leagueは  、コミュニティフォーラムやビデオコンテンツの結果も含めるために、製品に統合されています。 この変更により、より多くのコンテンツへのアクセスが簡素化され、Experience cloudを最大限に活用できるようになります。 さらに、ヘルプ/フ **[!UICONTROL ィードバ]**ック**[!UICONTROL (Feedback]** )をクリックして、問題を報告したり、アドビとアイデアを共有したりします。
 * 通知の改善：「通知  」ドロップダウンメニューに2つのタブが追加され、1つは独自の製品通知用、もう1つはグローバル製品のお知らせ用です。
