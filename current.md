@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b0f2fe07102a20e343f69b1c156f48ca4f284966
+source-git-commit: 7ec12529edf495c36cc153028458257939782e41
 
 ---
 
@@ -63,7 +63,8 @@ Experience cloudインターフェイスの新機能および修正点です。�
 
 更新内容は次のとおりです。
 
-* 新しいソリューションURL:最終的 `experience.adobe.com/<application name>.` に、すべての製品でこのURLパターンが採用されます。 月を通じて有効になる新しいURLを探します。
+* 新しいソリューションURL:最終的 `experience.adobe.com/<application name>.` に、すべての製品でこのURLパターンが採用されます。 月を通じて有効になる新しいURLを探します。 注意：
+   * ドメインの変更により、Safariでcookieの問題が発生する場合があります。 Unchecking _Prevent cross-site tracking_ in the Safari Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Experience Cloud to function on this new domain. Safariユーザーのみに影響するので、他のブラウザーも問題なく使用できます。
 * 組織間または別のアプリケーション間の切り替えが容易になりました。
 * 製品ヘルプの改善：Experience Leagueは  、コミュニティフォーラムやビデオコンテンツの結果も含めるために、製品に統合されています。 この変更により、より多くのコンテンツへのアクセスが簡素化され、Experience cloudを最大限に活用できるようになります。 さらに、ヘルプ/フ **[!UICONTROL ィードバ]**ック**[!UICONTROL (Feedback]** )をクリックして、問題を報告したり、アドビとアイデアを共有したりします。
 * 通知の改善：「通知  」ドロップダウンメニューに2つのタブが追加され、1つは独自の製品通知用、もう1つはグローバル製品のお知らせ用です。
@@ -158,7 +159,7 @@ Audience Managerに追加された修正点および機能です。
 ### 修正点および改善点 {#aam-fixes-and-improvements}
 
 * 「宛先を作成」ワークフローで、「統合プラットフォーム  」を「カテゴリ」として選択すると **[!UICONTROL 、「基本情報」セクションが表示されなく]**なり、ワークフローを完了できなくなる問題を修正しました。 （AAM-52397、AAM-52414）
-* Apple SafariおよびMozilla Firefoxブラウザーで  、リンク先を作成/編集ページが読み込まれないバグを修正しました。 （AAM-51784）
+* We fixed a bug where the [!UICONTROL Create/edit] destinations page would not load in the Apple Safari and Mozilla Firefox browsers. （AAM-51784）
 
 ## Experience Manager {#aem}
 
@@ -194,6 +195,14 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 ### 製品リリース
 
+* **新規：クラウドサービスとしてのAEM**
+
+   [Adobe Experience Manager](https://www.adobe.com/marketing/experience-manager.html) (AEM)がクラウドサービスとして利用できるようになりました。
+
+   * [はじめに](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/overview/introduction.html)
+   * [リリース情報](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/home.html)
+   * [ドキュメント](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
+
 * **自動フォーム変換サービス**
 
    PDFフォームを美しいモバイル対応HTMLフォームに自動変換するサービスであるAutomated Forms Conversion Serviceが、2019年12月12日に一般消費で使用できるようになりました。
@@ -219,6 +228,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 ### その他のリソース
 
+* [クラウドサービスとしてのAEM](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
 * [AEM 6.5 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-5.html)
 * [AEM 6.4 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-4.html)
 * [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-3.html)
