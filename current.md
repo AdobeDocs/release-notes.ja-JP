@@ -5,17 +5,14 @@ doc-type: release notes
 last-update: January 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e49bdb89cd3cf434a4932d1669d6f3a2df973769
+source-git-commit: dec998d8e23bf8ac302d750fd36b13eb330abafe
 
 ---
 
 
-# 先行アクセス — Adobe Experience cloudリリースノート — 2020年1月
+# Adobe Experience cloudリリースノート — 2020年1月
 
 Adobe Experience Cloud の新機能および修正点です。
-
->[!IMPORTANT]
->このページには、リリース前のコンテンツが含まれ、各製品のリリース前に変更される場合があります。
 
 >[!NOTE]
 >[[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。リリース後に発表された新情報については、更新日と併せて追加公開します。
