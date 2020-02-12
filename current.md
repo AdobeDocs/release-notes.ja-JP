@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c7acef23595f68b576422738fb54a1bdf09a81c4
+source-git-commit: 99c054f82fd5ed798478330059a8f3e1f6484432
 
 ---
 
@@ -19,17 +19,19 @@ Adobe Experience Cloud の新機能および修正点です。
 
 **リリース日：2020 年 1 月 17 日**
 
+最新の更新：2020年2月10日
+
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイスとコアサービス](#ecloud)
 * [Experience Platform](#platform)
 * [Mobile Services および Mobile SDK](#mobile)
-* [!DNL Analytics](#analytics)（**更新日：2020 年 1 月 22 日**）
+* [!DNL Analytics](#analytics) **（更新日2020年1月21日）**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（ソリューションヘルプへのリンク）
-* [!DNL Advertising Cloud](#adcloud)
+* [!DNL Advertising Cloud](#adcloud) **（更新日2020年2月10日）**
 
 ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)を参照してください。
 
