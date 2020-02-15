@@ -2,22 +2,27 @@
 title: Adobe Experience Cloud リリースノート
 description: Experience Cloud リリースノートのテンプレート
 doc-type: release notes
-last-update: January 2020
+last-update: February 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 99c054f82fd5ed798478330059a8f3e1f6484432
+source-git-commit: d61884a3de7bd7c8d32fb9dc88727e82083ca5c1
 
 ---
 
 
-# Adobe Experience Cloud リリースノート - 2020 年 1 月
+# 先行アクセス — Adobe Experience cloudリリースノート — 2020年2月
 
 Adobe Experience Cloud の新機能および修正点です。
+
+>[!IMPORTANT]
+>このページに記載される内容は、リリース前の情報であり、リリース日の前後に変更される可能性があります。
 
 >[!NOTE]
 >[[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。リリース後に発表された新情報には、更新の日付が明記されます。
 
-**リリース日：2020 年 1 月 17 日**
+**リリース日：2020年2月20日**
+
+（特定の製品のリリース日は自社のみ）
 
 最新の更新：2020年2月10日
 
@@ -31,7 +36,8 @@ Adobe Experience Cloud の新機能および修正点です。
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（ソリューションヘルプへのリンク）
-* [!DNL Advertising Cloud](#adcloud) **（更新日2020年2月10日）**
+* [!DNL Advertising Cloud](#adcloud)
+* [!DNL Magento](#magento)
 
 ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)を参照してください。
 
@@ -41,20 +47,24 @@ Adobe Experience Cloud の新機能および修正点です。
 
 **最新情報**
 
-* Adobe ID を使用し、製品、地域およびイベントの環境設定に基づいてイベント通知を購読できます。購読の環境設定をおこなうユーザーは、関連する製品のインシデントとメンテナンスイベントについてのみ、それらが開始、更新、または終了されるとすぐに通知されます。はじめに [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit) をご覧ください。
+* Adobe IDを使用して、製品、地域、イベントおよび言語の環境設定に基づいてイベント通知を購読できます。 購読の環境設定を行うユーザーは、製品のインシデントとメンテナンスイベントが開かれた、更新された、または閉じられた直後に通知されます。 はじめに [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit) をご覧ください。
 
 **現在利用可能な新機能と機能強化**
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| プロアクティブなメール通知を購読する | <ul><li>Experience Cloud、Creative Cloud、Document Cloud、Adobe Experience Platform、および Adobe Servicesのサポート</li><li>地域とイベントタイプの環境設定のサポート</li></ul> |
-| 通知設定の管理 | <ul><li>いつでも通知設定を編集および保存できる</li><li>いつでも通知を登録解除できる</li></ul> |
-| パーソナライズされた迅速な電子メール配信の実現 | <ul><li>イベントが作成、更新、およびクローズされるとすぐにイベント通知が送信される</li><li>設定した環境設定と一致する関連イベント通知のみを受信する</li><li>アカウントの環境設定で設定された言語に基づいて、ローカライズされた通知を受信する</li></ul> |
-| 製品内通知をパーソナライズする | <ul><li>通知設定および製品の資格と一致するイベントがお知らせパネルに表示されます</li></ul> |
+| 製品イベントの認識の高速化 | <ul><li>今後のサービスメンテナンスの30日前に通知を受けます。 この機能により、ビジネス運営に与える潜在的な影響を評価するためのより多くのリードタイムが得られ、必要に応じて緩和計画を実装できます。</li><li>高度な通知は、Web、モバイル、タブレットの各表面で、また電子メール通知を介して使用できます。</li></ul> |
+| 好みの言語に基づいてエクスペリエンスをパーソナライズ | <ul><li>電子メール通知に使用する言語を選択します。 セルフサブスクリプション機能が19言語で使用できるようになりました。</li></ul> |
+| 購読と通知のユーザーエクスペリエンスの改善 | <ul><li>購読するすべての製品に対して、1回のクリックで地域とイベントの環境設定を指定します。</li><li>潜在的な問題がマイナー _またはメジ_ ャー _（主要問題）に進_ 化したら _、通知_ を受け取ります。</li><li>製品またはイベントのステータスが更新されると、ブラウザーページが自動的に更新されます。</li></ul> |
 
 ## Experience Cloud インターフェイスとコアサービス{#ecloud}
 
 Experience Cloud インターフェイスの新機能および修正点です。管理およびコアサービス（顧客属性、オーディエンス、トリガー、cookie など）が含まれます。
+
+**修正点**
+
+* **** 顧客属性：顧客属性UIに、Targetで同期されたプロファイルの追加のステータスが表示されるようになりました。 （MCUI-10231）
+* **** Triggersコアサービス：使用不足により、中断タイプのトリガーを作成する際の傾向スコア「30日後に戻る可能性」が削除されました。 （MCUI-10056）
 
 ### 統合製品ドメイン
 
@@ -64,8 +74,8 @@ Experience Cloud インターフェイスの新機能および修正点です。
 
 * 新しいソリューション URL`experience.adobe.com/<application name>`：
    * すべての製品で、最終的にこの URL パターンが採用されます。1 ヶ月間にわたって効果的な新しい URL を探します。
-   * ブラウザーのサポート：サポートされるブラウ ザーには、[!DNL Microsoft Edge]、[!DNL Google Chrome]、[!DNL Firefox]、[!DNL Safari]、および [!DNL Opera]（最新アバージョン）が含まれます。**メモ：** Experience Cloud インターフェイスはこれらのブラウザーをサポートしていますが、個々のソリューションがすべてのブラウザーに対応しているわけではありません。（例えば、[Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) は [!DNL Opera] をサポートしておらず、[Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) は [!DNL Safari] をサポートしていません。）
-   * （[!DNL Safari] のみ）ドメインはの変更によって、[!DNL Safari] で cookie の問題が発生する場合があります。[!DNL Safari] のプライバシー設定で「_クロスサイト追跡を禁止する_」をオフにすると、ドメイン（およびすべてのクロスサイトエクスペリエンス）間で cookie が有効になり、Experience Cloud がこの新しいドメインで機能するようになります。
+   * Browser support: Supported browsers include [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari], and [!DNL Opera] (latest versions). **メモ：** Experience Cloud インターフェイスはこれらのブラウザーをサポートしていますが、個々のソリューションがすべてのブラウザーに対応しているわけではありません。（例えば、[Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) は [!DNL Opera] をサポートしておらず、[Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) は [!DNL Safari] をサポートしていません。）
+   * （[!DNL Safari] のみ）ドメインはの変更によって、[!DNL Safari] で cookie の問題が発生する場合があります。Deselecting _Prevent cross-site tracking_ in the [!DNL Safari] Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Experience Cloud to function on this new domain.
 * 組織間または別のアプリケーション間の切り替えが容易になりました。
 * 製品ヘルプの改善：ヘルプ検索にコミュニティフォーラムやビデオコンテンツの結果も含められるよう、[!UICONTROL Experience League] は製品に統合されています。この変更により、より多くのコンテンツへのアクセスが簡素化され、Experience Cloud を最大限に活用できるようになります。さらに、**[!UICONTROL ヘルプ]**／**[!UICONTROL フィードバック]**&#x200B;をクリックして問題を報告したり、アドビとアイデアを共有したりします。
 * 通知の改善：[!UICONTROL 通知]ドロップダウンメニューに 2 つのタブが追加されました。1 つは独自の製品通知用、もう 1 つはグローバルな製品のお知らせ用です。
@@ -73,16 +83,6 @@ Experience Cloud インターフェイスの新機能および修正点です。
 **メモ：**[!UICONTROL フィード]ページは、2020 年 1 月に廃止されます。製品内の廃止のお知らせを探してください。
 
 製品ドキュメントについては、[Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) を参照してください。
-
-### Experience Cloud の cookie
-
-アドビは、Chrome 80（2020 年 2 月にリリース予定）で Chrome が予定している変更に備えて、cookie に関する `same-site` の設定を調整しています。
-
-ファーストパーティのデータ収集に CNAME を使用し、複数のドメイン（わかりやすいサードパーティドメイン）でその CNAME を使用し、Experience Cloud（訪問者）IDサービスを使用していない限り、変更をおこなう必要はありません。Chrome 80 リリースでは、Chrome は Analytics 訪問者ID cookie に SameSite 値 `Lax,` を自動的に付与し、他のドメインでの使用を禁止します。ドメイン間で CNAME を引き続き使用する場合は、アドビカスタマーケアに連絡し、CNAME の SameSite 値を `None.` に変更してもらう必要があります。
-
-Experience Cloud ID サービスを使用しているかどうかに関係なく、ドメインごとに個別の CNAME を使用することをお勧めします。
-
-[詳細情報…](https://medium.com/adobetech/adobe-experience-cloud-cookie-updates-for-google-chrome-19ad67cf1598)
 
 ## Experience Platform {#platform}
 
@@ -98,11 +98,11 @@ Experience Platform、Experience Platform Launch、ID サービスおよびセ�
 
 ## Mobile Services および Mobile SDK{#mobile}
 
-2020 年 1 月 17 日：バージョン 4.18.0
+**2020 年 2 月 5 日：バージョン 4.19.0**
 
-* 獲得 - [!DNL Google Play] によるリファラー API のインストールをサポートするため、新しい API `Analytics.processGooglePlayInstallReferrerUrl(final String url)` が追加されました。
+このリリースでは、次の更新が行われました。
 
-リファラー API のインストールについて詳しくは、「[まだ InstallBroadcast を使用している場合は、2020 年 3 月 1 日までに再生リファラー API に切り替えてください](https://android-developers.googleblog.com/2019/11/still-using-installbroadcast-switch-to.html)」を参照してください。
+**** ライフサイクル：一部の古いiOSデバイスから `pauseCollectingLifecycleData`報告されたセッションの長さの異常データを軽減するための新しいAPIが追加されました。
 
 ## [!DNL Analytics] {#analytics}
 
@@ -116,27 +116,25 @@ Adobe Analytics の新機能および修正点です。
 
 ### Adobe Analytics の新機能、機能強化および修正点 {#aa-features}
 
-| 機能 | 説明 |
-| -----------| ---------- |
-| Analysis Workspace - ユーザーインターフェイスの改善 | 2020 年 1 月 17 日に、Analysis Workspace は、数か月にわたるユーザーインターフェイスの改善を開始します。これらの変更の目的は、ユーザーがアプリケーションによりアクセスしやすくし、Adobe Experience Cloud 全体でより一貫したエクスペリエンスを提供することです。 |
-| Analysis Workspace - フリーフォームテーブルビルダー | Table Builder を有効にすれば、多くのディメンション、分類、指標およびセグメントをドラッグ＆ドロップして、より複雑なビジネスの質問に回答するテーブルを作成できます。データはすぐには更新されません。代わりに、「**[!UICONTROL ビルド]**」をクリックした後に更新がおこなわれ、どのテーブルを作成したいかがわかると時間を節約することができます。さらに、この機能では次のことが可能です。<ul><li>**プレビュー**：時間をかけて実際のデータをレンダリングする前に表形式でプレビューできます。</li><li>**柔軟な行と分類の設定**：各ディメンション行に対して行と分類レベルを設定できます。以前は、Workspace で適用されたデフォルトは、データが返されるまで変更できませんでした。</li><li>**位置で分類**：ディメンション行を、_特定の項目_&#x200B;ではなく常に&#x200B;_位置で分類_（デフォルト）するように設定できます。</li><li>**手動の静的行の並べ替え**：静的な行を手動で並べ替え、必要に応じて表示できます。以前は、静的な行は指標の列またはアルファベット順でのみ並べ替えることができました。</li></ul>[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/freeform-table.html). |
-| クロスデバイス分析（CDA）の新しい[!UICONTROL 識別状態]ディメンション。 | CDA 仮想レポートスイートに、[!UICONTROL 識別状態]という新しいディメンションを追加します。ディメンションには、「_識別済み_」と「_未識別_」の 2 つの値があります「_識別済み_」は、その人物がデバイスグラフで識別されたことを意味します。「_未識別_」は、その人物がデバイスグラフで識別されていないことを意味します。<br>つまり、CDA ユーザーは仮想レポートスイート内のユーザーのうちデバイスグラフで把握できる人数を示す[!UICONTROL デバイスグラフの範囲]などの計算指標を作成できます。この指標は、CDA 圧縮率のトラブルシューティングに役立ちます。特定されたユーザーが少ない場合は、ステッチのレベルが低くなります。 |
-| Data Warehouse API での VRS のサポート | Data Warehouse API から仮想レポートスイートを使用できるようになりました。以前は、Data Warehouse UI からしか使用できませんでした。Data Warehouse API を使用する場合、仮想レポートスイートを表示およびクエリできるようになりました（仮想レポートスイートに適用されたセグメントが Data Warehouse と互換性がある場合にのみ）。 |
-| プライバシーサービス API：CCPA | カリフォルニア州消費者プライバシー法（CCPA）は、米国カリフォルニア州の居住者のプライバシー権と消費者保護を厳格化します。この法律は、2020 年 1 月 1 日に施行されます。<br><br/>CCPA は、カリフォルニア州の居住者に新しいプライバシー権を提供します。これには、自身の個人データにアクセスして削除する権利、自身の個人データが（誰に）販売または公開されているかどうかを知る権利、および自身の個人データの販売を拒否する権利が含まれます。<br><br/>プライバシーサービスは個人データの販売のオプトアウトに対するリクエストをサポートします。<br><br/>プライバシーサービス（旧 GDPR サービス）は、以前の機能をすべて保持し、CCPA をサポートするよう拡張されました。<br/><br/>[Analytics の CCPA](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/an-ccpa-overview.html)<br><br/>[プライバシーの概要](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md) |
+<!--* **Support for multiple report suites in Workspace:** You can now bring in data from multiple report suites into a single project to view side by side. Beginning on Feb 20, 2020, the feature will roll out to all customers over the course of several weeks. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)-->
+* **デバイス間**&#x200B;分析を使用する組織向けの新しいWorkspaceテンプレート：このテンプレートは、CDAが訪問をつなぎ合わせ、CDA専用のディメンションと指標に関する教育をどの程度効果的に行うかを示します。 CDAを使用するレポートスイートが必要です。 詳しく [は、デバイス間分析の設定を参照してください](https://docs.adobe.com/content/help/en/analytics/components/cda/cda-setup.html) 。
+* **** プライベートグラフを使用する組織のCDAステッチの遅延が1日に短縮されました。プライベートグラフ機能が強化され、週別のバッチ処理から日別の更新されたグラフにグラフ生成の遅延が減少し、CDAのお客様は最新のIDグラフやリンクにより多くのアクセスできるようになりました。
+* **** ラボ（テクノロジープレビュー）:この新しいAnalytics機能を使用すると、新しい機能のプロトタイプを実稼働環境でテストし、アドビに貴重なフィードバックを提供できます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/tech-previews/overview.html)
+* **Workspaceの新しいホットキー：**<ul><li>すべてのパネルを折りたたむ/展開する： `alt + m`</li><li>アクティブパネルを折りたたみ/展開： `alt + ctrl + m`</li><li>左側のレールを検索： `ctrl + /`</li><li>次のパネルに移動： `alt + Right Key`</li><li>前のパネルに移動： `alt + Left Key`</li></ul>[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/fa-shortcut-keys.html)
+* **その他のWorkspaceの機能強化：**<ul><li>パネルまたはビジュアライゼーションを [!UICONTROL Workspaceにドロップすると]、左側のレールがコンポーネントに自動的に切り替わり、よりシームレスなワークフローが実現します。</li><li>テンプレートコンポーネントをアクションできるようになりました（例：タグ付け、お気に入りに登録、承認済み）。</li><li>フィルター適用済みの指標およびセグメントリス `+` トでは、必要な項目が見つからない場合に新しいコンポーネントを追加するボタンが提供されます。</li></ul>
+* Workspaceデバ **ッガーがヘルプメニューに追加され** 、Workspaceリクエストのデバッグに対してよりシームレスに有効にできるようになりました。 [詳細情報...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.md)
+* **** ChromiumベースのMicrosoft edgeブラウザ：このリリースには、レポート用にChromiumベースのMicrosoft edgeブラウザー（バージョン79以降）を認識するための変更が含まれています。
 
 #### 修正点
 
-* エジプトの電話番号にアラート通知が送られない問題を修正しました。（AN-197079）
-* [!DNL DFA Data Connector] に関する複数の問題を修正しまし た。（AN-193281、AN-193075、AN-193484、AN-193737）
-* [!UICONTROL Reports &amp; Analytics]：製品コンバージョンファネルレポートが途切れ、数字がわかりにくい問題を修正しました。（AN-186901）
-* 新しい分類アーキテクチャを使用して、レポートスイートに基づいた Workspace プロジェクトで、ユーザーがレポートスイートを切り替えられない問題を修正しました。（AN-199076）
-* [!UICONTROL 計算指標]の[!UICONTROL 累積]関数が正しく機能しない問題を修正しました。（AN-184257）
+* 実際にはマーケティングチャネルディメンションが [!UICONTROL Data Warehouse] と互換性があるというセグメントUIの問題を修正しました 。 今後、セグメントビルダ [!UICONTROL ーでは] 、これらのディメンションが [!UICONTROL Data Warehouseと互換性があるとして表示されなくなります] 。 （AN-202297）
+* Analyticsで更新された公開済みセグメントの名前が、24時間以内にAudience Managerで更新されなかった問題を修正しました。 （AN-199974）
 
 ### [!DNL Analytics] 管理者向けの重要な注意事項 {#aa-notices}
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| 新しい Adobe Analytics ドメイン | 2019 年 12 月 19 日 | 2020 年 1 月 17 日に、Adobe Analytics は新しいドメインへの移行を開始します。`https://experience.adobe.com/analytics.`<br>**メモ&#x200B;**：この変更は、Adobe ID または Enterprise ID を使用して Analytics にアクセスするすべてのユーザーに適用されます。<ul><li>ドメインの変更により、Safari で Analytics を読み込む際に cookie の問題が発生する可能性があります。Safari のプライバシー設定で「_クロスサイト追跡を禁止する_」をオフにすると、ドメイン（およびすべてのクロスサイトエクスペリエンス）間で cookie が有効になり、Analytics がこの新しい Adobe Experience Cloud ドメインで機能するようになります。この問題が影響するのは Safari ユーザーのみなので、ユーザーは問題なく他のブラウザーを使用できます。</li><li>ドメインの変更により、[ある特定のケースにおいて](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html)、一部の顧客に対して [!UICONTROL Activity Map] が機能しなくなる場合があります。</li></ul> |
+| 新しい Adobe Analytics ドメイン | 2019 年 12 月 19 日 | `https://experience.adobe.com/analytics.`<br>** 2020年1月16日、Adobe Analyticsは新しいドメインに移行し始めまし **た。注意：この変更は、Adobe IDまたはEnterprise IDを使用してAnalyticsにアクセスするすべてのユーザーに適用されます。<ul><li>ドメインの変更により、Safari で Analytics を読み込む際に cookie の問題が発生する可能性があります。Deselecting _Prevent cross-site tracking_ in the Safari Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Analytics to function on this new Adobe Experience Cloud domain. この問題が影響するのは Safari ユーザーのみなので、ユーザーは問題なく他のブラウザーを使用できます。</li><li>ドメインの変更により、[ある特定のケースにおいて](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html)、一部の顧客に対して [!UICONTROL Activity Map] が機能しなくなる場合があります。</li></ul> |
 | 提供終了 - Analytics レガシー API | 2020 年 1 月 10 日 | 2020 年 11 月に、以下の Analytics レガシー API サービスが提供終了となり、シャットダウンされます。これらのサービスを使用して構築された現在の統合は機能しなくなります。 <ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>ご質問に対する回答と進め方に関するガイダンスを提供するために、[従来の API EOL の FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe IO](https://console.adobe.io/home?mv=email) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API の両方にアクセスするために使用できます。 |
 | **[!UICONTROL アーカイブを表示]** オプションのサポート終了 | 2019 年 10 月 31 日 | 2020 年 1 月に、ダッシュボードマネージャー（**[!UICONTROL コンポーネント／ダッシュボード]**）の **[!UICONTROL アーカイブを表示]** オプションのサービスを終了することをお知らせします。 |
 | **[!UICONTROL IP ログイン制限の適用]** オプションのサポート終了 | 2019 年 10 月 31 日 | 2020 年 1 月に、**[!UICONTROL 管理者／会社設定／セキュリティ]** メニューの IP ログインのホワイトリストへの追加（**[!UICONTROL IP ログイン制限の実施]**）機能のサポートを終了することをお知らせします。 |
@@ -146,7 +144,7 @@ Adobe Analytics の新機能および修正点です。
 
 ### [!DNL AppMeasurement] {#appm}
 
-「[JavaScript 版 AppMeasurement リリースノート](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)」を参照してください。
+「[JavaScript 版 AppMeasurement リリースノート](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html)」を参照してください。バージョン2.18.0は2020年2月13日にリリースされました。
 
 ## Audience Manager {#aam}
 
@@ -155,78 +153,41 @@ Audience Manager に追加された修正点および機能です。
 ### Audience Manager の新機能、拡張機能および修正点です {#aam-features}
 
 | 機能 | 説明 |
-| -----------| ---------- |
-| [カリフォルニア消費者プライバシー法（CCPA）のサポートとプライバシーに関するドキュメントの見直し](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/data-privacy/data-privacy.html) | 2020 年 1 月 1 日に施行された[カリフォルニア消費者プライバシー法（CCPA）](https://www.caprivacy.org/about)は、カリフォルニア州在住者に対し、個人情報に関する新たな権利を提供し、カリフォルニア州で事業を行う特定の事業者に対してデータ保護責任を課します。<br><br>Audience Managerは、データアクセスや削除のリクエストをおこなう [Adobe Experience Platform プライバシーサービス](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html)などのプライバシーツールを使用して、ユーザーがプライバシー規制における義務を遵守できるよう支援します。<br><br>現在の[オプトアウト管理](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/data-privacy/data-privacy-requests.html#opt-out-requests)プロセスを更新し、宣言済み ID（CRM ID など）のオプトアウトを含めるようにしました。宣言済み ID によるオプトアウトの場合、宣言済み ID と最後にリンクされたデバイスは、Audience Manager のデータ収集から除外されます。また、オプトアウトリクエストでは、この機能（バッチとリアルタイムの両方）をサポートする[宛先パートナー](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/data-privacy/data-privacy-requests.html#aam-partners-with-unsegmentation)に対して、セグメント解除リクエストも送信するようになりました。<br><br> さらに、[データセキュリティ](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/data-security.html)、[データプライバシー](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/data-privacy/data-privacy.html)、および[データガバナンス](https://docs.adobe.com/content/help/en/audience-manager/user-guide/overview/data-governance.html)に関するドキュメントを作り直し、前述の規則に準拠するために必要な情報を見つけやすくしました。 |
+|----|----|
+| [アクティビティ使用状況レポート](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html) | アクテ [!UICONTROL ィビティの使用状況レポートは] 、Audience Managerインスタンスのアクティビティの使用状況を表示および追跡するのに役立ち、アクティビティの使用状況と契約上のコミットメントとの比較方法を明確に把握できます。 |
 
-### 修正点および改善点 {#aam-fixes-and-improvements}
+<!-- ### Fixes and Improvements {#aam-fixes-and-improvements}
 
-* 「[!UICONTROL 宛先を作成]」ワークフローで、「**[!UICONTROL 統合プラットフォーム]**」を「[!UICONTROL カテゴリ]」として選択すると、「[!UICONTROL 基本情報]」セクションが表示されなくなり、ワークフローを完了できなくなる問題を修正しました。（AAM-52397、AAM-52414）
-* Apple Safari および Mozilla Firefox ブラウザーで、宛先の[!UICONTROL 作成／編集]ページが読み込まれないバグを修正しました。（AAM-51784）
+* Fixes
+* Fixes -->
 
 ## Experience Manager {#aem}
 
 Adobe Experience Manager（AEM）の新機能、修正点および更新です。安定性、セキュリティ、パフォーマンスを高めるために、オンプレミス環境のお客様には最新のパッチをデプロイすることをお勧めします。
 
-### 製品メンテナンス
-
-* **AEM 6.5.3.0**
-AEM 6.5、Service Pack 3.0 （2019 年 12 月 13 日にリリースされた 6.5.3.0 ）は重要なアップデートであり、2019 年 4 月の AEM 6.5 の一般リリース以降にリリースされたお客様向けの主要な修正が含まれています。
-   * [リリースノート](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
-   * [AEM Forms CFP リリース](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
-
-* **AEM 6.4.7.0**
-
-   AEM 6.4 Service Pack 7.0（2019 年 12 月 13 日にリリースされた 6.4.7.0）は重要なアップデートであり、2018 年 4 月の AEM 6.4 の一般リリース以降にリリースされた主なお客様向けの修正が含まれています。
-   * [リリースノート](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
-   * [AEM Forms CFP リリース](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
-
-* **AEM 6.3.3.7**
-
-   AEM 6.3 Service Pack 3 Cumulative Fix Pack 7（2019 年 12 月 12 日にリリースされた 6.3.3.7）は重要なアップデートであり、2017 年 4 月の AEM 6.3 の一般リリース以降にリリースされた主なお客様向けの修正が含まれています。
-   * [リリースノート](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)
-   * [AEM Forms CFP リリース](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
-
-* **AEM Desktop App 2.0.1.1**
-
-   AEM Desktop App 2.0.1.1 では、Okta を使用したシングルサインオンの更新と、一時ファイルの場所を環境設定で指定する機能が提供されています。このリリースでは、Desktop App 2.x に対する AEM 6.3.x のサポートが廃止されました。
-   * [リリースノート](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html)
-
-* **Adobe Asset Link 1.1 は AEM 6.3.x のサポートを終了します**
-
-   AEM 6.3.x のサポートは、2019 年 4 月以降、Adobe Asset Link で非推奨となりました。2020 年 1 月 13 日現在、Adobe Asset Link 1.1 は、AEM 6.3.x のサポートを削除しています。
-   * [Adobe Asset Link](https://helpx.adobe.com/enterprise/using/adobe-asset-link.html)
-
 ### 製品リリース
 
-* **新規：クラウドサービスとしての AEM**
+* **Cloud Manager 2020.2.0**
 
-   [Adobe Experience Manager](https://www.adobe.com/marketing/experience-manager.html)（AEM）をクラウドサービスとして利用できるようになりました。
+   Cloud Manager 2020.2.0は、Adobe Experience Managerのサンドボックスをクラウドサービスとしてシンプルに管理するためのツールです。
 
-   * [はじめに](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/overview/introduction.html)
-   * [リリース情報](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/home.html)
-   * [ドキュメント](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
-
-* **自動フォーム変換サービス**
-
-   PDF フォームを美しいモバイル対応 HTML フォームに自動変換するサービスである Automated Forms Conversion Service が、2019 年 12 月 13 日に一般向けにリリースされます。
-
-   * [はじめに](https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html)
-   * [サービスの設定](https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/configure-service.html)
-   * [PDF フォームからアダプティブフォームへの変換](https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/convert-existing-forms-to-adaptive-forms.html)
+   [リリースノート](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)を参照してください。
 
 ### セルフサービス
 
-* **3D アセットのプレビュー**
+* **クラウドサービスとしてのAEMのチュートリアル**
 
-   AEM 6.5 は、オーサリングプロセスの一環として、3D アセットのアップロード、配信、およびインタラクティブプレビューをサポートします。インタラクティブ 3D ビューアは、AEM のアセットの詳細ページから利用できます。このビューアには、3D アセットをオービット、ズームおよびパンできるインタラクティブなカメラコントロールのコレクションが含まれます。詳しくは、[3D アセットのプレビュー](https://docs.adobe.com/content/help/en/experience-manager-65/assets/using/previewing-3d-assets.html)を参照してください。
+   クラウドサービスとしてのAEM [のチュートリアルを簡単に始めます](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html)。
 
-* **コアコンポーネント**
+* **AEM Formsインタラクティブ通信バッチAPI**
 
-   多数の修正が加えられたコンポーネント 2.8.0 が、[オーサリングドキュメント](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html)、[開発者の詳細、および GitHub で利用可能な開発者の詳細やプロジェクトのダウンロード](https://github.com/adobe/aem-core-wcm-components)と共にリリースされました。
+   AEM Formsのインタラクティブ通信のBatch APIを使用すると、顧客は自動的にまたはオンデマンドで複数のインタラクティブ通信を作成できます。 印刷出力とWeb出力を同時に生成できます。
+Batch APIを使 [用した複数のインタラクティブ通信の生成を参照してくださ](https://docs.adobe.com/content/help/en/experience-manager-65/forms/interactive-communications/generate-multiple-interactive-communication-using-batch-api.html)い。
 
-* **AEM プロジェクトアーキタイプ**
+* **JEE上のAEM Formsでサポートされるプラットフォーム**
 
-   [AEM Project Archetype](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/overview.html) の [ui.frontend module](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/uifrontend.html) は、AEM プロジェクトのフロントエンド開発をより簡単にする便利で柔軟なツールです。
+   JEE上のAEM Formsのお客様に対するOracle 19cのサポートを追加しました。
+「JEE上のAEM Forms [でサポートされているプラットフォーム」を参照してください](https://docs.adobe.com/content/help/en/experience-manager-65/forms/install-aem-forms/jee-installation/aem-forms-jee-supported-platforms.html)。
 
 ### その他のリソース
 
@@ -245,38 +206,13 @@ AEM 6.5、Service Pack 3.0 （2019 年 12 月 13 日にリリースされた 6.5
 
 Adobe Campaign は、オンラインおよびオフラインのマーケティングチャネルにわたって 1 対 1 のメッセージを届けるために直感的で自動化された方法を提供します。顧客の習慣や好みによって特定されたエクスペリエンスを利用して、顧客が欲しいものを予測できるようになりました。
 
-### Campaign Classic 19.2
-
-| 機能 | 説明 |
-| ------------- | ----------- |
-| カリフォルニア消費者プライバシー法（CCPA） | CCPA は 2020 年 1 月 1 日よりカリフォルニア州にて新しく施行されるプライバシー保護法律で、データ保護要件を現代の状況に調和し、近代化することを目的としています。CCPA は、カリフォルニアに居住しているデータ主体のデータを保有している Adobe Campaign の顧客に適用されます。<br>Adobe Campaign は、既に利用可能なプライバシー機能（同意管理、データ保持設定、ユーザーの役割を含む）に加えて、CCPA に備えるのに役立ちます。 <ul><li>_アクセス権_&#x200B;と&#x200B;_削除権_：GDPR 用に追加された機能を活用しています。[詳細情報](https://helpx.adobe.com/campaign/kb/acc-privacy.html#righttoaccess) </li><li>顧客が個人情報の販売をオプトアウトしたかどうかを追跡できます。この場合は、[!UICONTROL プロファイル]テーブルを拡張して、**[!UICONTROL CCPA のオプトアウト]**&#x200B;フィールドを追加する必要があります。[詳細情報](https://helpx.adobe.com/campaign/kb/acc-privacy.html#ccpa) </li></ul> [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/privacy/privacy-overview.html)を参照してください。 |
-| ワークフローのライブ監視 | 事前定義されたビューを使用して、インスタンス上のすべてのワークフローの実行ステータスを監視できるようになりました。<br>詳しくは、「[ステータスに従ったワークフローのフィルタリング](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html#filtering-workflows-status)」を参照してください。 |
-| AMP を使用したインタラクティブコンテンツ | Adobe Campaign では、新しいインタラクティブな [AMP for Email](https://amp.dev/about/email/) を試すことができます。これにより、マーケターは、メッセージ内に AMP コンポーネントを含め、メッセージ自体で直接操作できるリッチで動的なインタラクティブなコンテンツを使用して、電子メールエクスペリエンスを強化できます。<br>この機能はパブリックベータ版としてリリースされています。<br>詳しくは、[詳細なドキュメント](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html)と[チュートリアルビデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/sending-messages/email-channel/defining-interactive-email-content-with-amp.html)を参照してください。 |
-| セキュアな SMS メッセージング（TLS） | 拡張された汎用 SMPP コネクタで、セキュアな SMS がサポートされるようになりました。これにより、プロバイダーに対する暗号化された接続が可能になります。<br> **警告**：この機能を使用するには、すべてのサーバーで最新の証明書が必要です。無効な証明書、失効した証明書、または期限切れの証明書を使用すると、SMS 送信機能全体に影響を与えるエラーが発生します。<br>詳しくは、[詳細ドキュメント](https://helpx.adobe.com/campaign/kb/sms-connector-protocol-and-settings.html)を参照してください。 |
+### Campaign Classic 19.2.3
 
 修正点と機能改善については、[Adobe Campaign Classic リリースノート](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html)を参照してください。
 
-### Campaign Standard 19.4
-
-| 機能 | 説明 |
-| ------------- | ----------- |
-| カリフォルニア消費者プライバシー法（CCPA） | CCPA は 2020 年 1 月 1 日よりカリフォルニア州にて新しく施行されるプライバシー保護法律で、データ保護要件を現代の状況に調和し、近代化することを目的としています。CCPA は、カリフォルニアに居住しているデータ主体のデータを保有している Adobe Campaign の顧客に適用されます。<br>Adobe Campaign には既にプライバシー機能（同意管理、データ保持設定、ユーザーの役割など）が用意されていますが、これを機会にお客様自身が CCPA に対応できるようにする追加機能を導入しました。 <ul><li> アクセス権と削除権：GDPR 用に追加された機能を活用しています。[詳細情報](https://helpx.adobe.com/content/help/en/campaign/kb/acs-privacy.html#righttoaccess) </li><li> プライバシーリクエストを作成する際のプライバシーコアサービスに、規制のタイプ（GDPR または CCPA）が追加されました。このメソッドは、すべてのアクセスリクエストと削除リクエストに使用する必要があります。アクセスおよび削除のリクエストに対する Campaign API とインターフェイスの使用は廃止されました。[廃止および削除された機能の記事](https://helpx.adobe.com/campaign/kb/acs-deprecated-and-removed-features.html)を参照してください。 </li><li> Adobe Campaign ユーザーが個人情報の販売をオプトアウトしたかどうかを追跡できるように、プロファイルリソースに「**CCPAオプトアウト**」フィールドが追加されました。[詳細情報](https://helpx.adobe.com/content/help/en/campaign/kb/acs-privacy.html#ccpa) </li></ul> [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/privacy/privacy-overview.html)を参照してください。 |
-| Microsoft Dynamics 365 との統合（GA） | Adobe Campaign Standard と Microsoft Dynamics 365 の統合が可能になりました。Dynamics 365 から Campaign に連絡先とカスタムエンティティレコードを転送し、Campaign から Dynamics 365 に電子メールイベントデータを戻して、販売／マーケティングの連携を向上させることができます。<br>[詳細なドキュメント](https://helpx.adobe.com/campaign/kb/acs-ms-dynamics.html)を参照し、この統合を設定して[ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/integrating/microsoft-dynamics365-connector/introduction.html)を確認します。 |
+### Campaign Standard 20.1
 
 修正点と機能改善については、[Adobe Campaign Standard リリースノート](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html)を参照してください。
-
-### Adobe Campaign コントロールパネル
-
-管理者ユーザーがサブドメインを委任し、コントロールパネルから SSL 証明書を更新する新しい機能が追加されました。
-
-詳しくは、次のページを参照してください。
-
-* 新しいサブドメインの設定 - [詳細情報](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
-* サブドメインの SSL 証明書の更新 — [詳細情報](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
-
->[!CAUTION]
->
->これらの機能は、1 月末までにベータ版で提供され、予告なく頻繁に更新されたり変更されたりする場合があります。
 
 ### その他のリソース
 
@@ -291,5 +227,12 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 | 表示 | 機能 |
 |------|---------|
 | ポートフォリオ | Yahoo! YDN(Display Network)キャンペーンをポートフォリオに追加し、キャンペーン予算や広告グループレベルの入札を最適化します。 同じ入札が広告グループ内のすべての広告に適用されます。 YDNキャンペーンのデータは、ポートフォリオのシミュレーションに含まれます。 |
-| 検索/一括送信 | Googleレスポンシブ検索広告(RSA)を作成、編集、削除できるようになりました。 以前は、検索/キャンペーンの標準キャンペーン管理インターフェイスでのみサポートされていました |
-| 検索/キャンペーン、レポート | Google広告の目立つ指標「Impr」。 (絶対 Top) %&quot;と&quot;Impr. (Top) %&quot;は、買い物製品グループ、キャンペーン日別インプレッション共有レポート、キーワード日別インプレッション共有レポート、およびラベルと制約ビューを除く、すべての基本レポートとエンティティレベルキャンペーン管理ビューで使用できるようになりました。 |
+| 検索/一括送信 | Googleレスポンシブ検索広告(RSA)を作成、編集、削除できるようになりました。 以前は、検索/キャンペーンの標準キャンペーン管理インターフェイスでのみサポ **[!UICONTROL ートされ]** まし **[!UICONTROL た。]** |
+| 検索/キャンペーン、レポート | Google広告の目立つ指標と、Google広告の指標を、買い物製品グループ、 `Impr. (Abs. Top) %` Campaign Daily Impression `Impr. (Top) %` shareと  Keyword Daily Impression Shareレポート、およびラベルと制約ビューを除く、すべての基本レポートとエンティティレベルのキャンペーン管理ビューで使用できるようになりました。 |
+
+## [!DNL Magento] {#magento}
+
+Magentoのリリースノートについては、次を参照してください。
+
+* [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
+* [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
