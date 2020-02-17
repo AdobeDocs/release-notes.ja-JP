@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: February 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 0a9f95d1d9a2bba69cecada0d0c39f70e507c995
+source-git-commit: d2b03da33ea1c49d683fc9486ae8b7d7bc59c87f
 
 ---
 
@@ -156,10 +156,13 @@ Audience Manager に追加された修正点および機能です。
 |----|----|
 | [アクティビティ使用状況レポート](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html) | アクテ [!UICONTROL ィビティの使用状況レポートは] 、Audience Managerインスタンスのアクティビティの使用状況を表示および追跡するのに役立ち、アクティビティの使用状況と契約上のコミットメントとの比較方法を明確に把握できます。 |
 
-<!-- ### Fixes and Improvements {#aam-fixes-and-improvements}
+### 修正点および改善点 {#aam-fixes-and-improvements}
 
-* Fixes
-* Fixes -->
+* 宛先作成フローで、統合アカウント選択のUIが壊れる問題を修正しました。(AAM-52414)
+* アルゴリズムモデル作成フロー(AAM-37942)内を移動するとUIが壊れる問題を修正しました。
+* Adobe Experience Platform統合(AAM-52814)を使用しているお客様に対して、新しい宛先または既存の宛先用にデータエクスポートコントロールを保存する際に、データエクスポートの選択が保存されない問題を修正しました。
+* 名前にパイプ文字(AAM-51635)が含まれる特性に対して、サードパーティの特性レコメンデーションが正しく機能しない問題を修正しました。`|`
+* UI全体で複数のアクセシビリティの改善。
 
 ## Experience Manager {#aem}
 
