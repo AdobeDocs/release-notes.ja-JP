@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: February 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d2b03da33ea1c49d683fc9486ae8b7d7bc59c87f
+source-git-commit: 6ff4708a5ec57bb590e9dacc718a42d1b8f71a8f
 
 ---
 
@@ -26,13 +26,13 @@ Adobe Experience Cloud の新機能および修正点です。
 
 最新の更新：2020年2月10日
 
-* [Adobe システムステータス](#status)
+* [Adobe System Status](#status)
 * [Experience Cloud インターフェイスとコアサービス](#ecloud)
 * [Experience Platform](#platform)
 * [Mobile Services および Mobile SDK](#mobile)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
-* [Experience Manager](#aem)
+* [Adobe Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（ソリューションヘルプへのリンク）
@@ -41,7 +41,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)を参照してください。
 
-## Adobe システムステータス {#status}
+## Adobe System Status {#status}
 
 [!UICONTROL Adobe System Status] は、アドビクラウド製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/) でご確認ください。
 
@@ -72,10 +72,10 @@ Experience Cloud インターフェイスの新機能および修正点です。
 
 更新内容は次のとおりです。
 
-* 新しいソリューション URL`experience.adobe.com/<application name>`：
+* 新しいソリューション URL：`experience.adobe.com/<application name>`：
    * すべての製品で、最終的にこの URL パターンが採用されます。1 ヶ月間にわたって効果的な新しい URL を探します。
-   * Browser support: Supported browsers include [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari], and [!DNL Opera] (latest versions). **メモ：** Experience Cloud インターフェイスはこれらのブラウザーをサポートしていますが、個々のソリューションがすべてのブラウザーに対応しているわけではありません。（例えば、[Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) は [!DNL Opera] をサポートしておらず、[Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) は [!DNL Safari] をサポートしていません。）
-   * （[!DNL Safari] のみ）ドメインはの変更によって、[!DNL Safari] で cookie の問題が発生する場合があります。Deselecting _Prevent cross-site tracking_ in the [!DNL Safari] Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Experience Cloud to function on this new domain.
+   * Browser support: Supported browsers include [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari], and [!DNL Opera] (latest versions). **メモ：** Experience Cloud インターフェイスはこれらのブラウザーをサポートしていますが、個々のソリューションがすべてのブラウザーに対応しているわけではありません（例えば、[Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) は [!DNL Opera] をサポートしておらず、[Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) は [!DNL Safari] をサポートしていません）。
+   * （[!DNL Safari] のみ）ドメインの変更によって、[!DNL Safari] で cookie の問題が発生する場合があります。Deselecting _Prevent cross-site tracking_ in the [!DNL Safari] Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Experience Cloud to function on this new domain.
 * 組織間または別のアプリケーション間の切り替えが容易になりました。
 * 製品ヘルプの改善：ヘルプ検索にコミュニティフォーラムやビデオコンテンツの結果も含められるよう、[!UICONTROL Experience League] は製品に統合されています。この変更により、より多くのコンテンツへのアクセスが簡素化され、Experience Cloud を最大限に活用できるようになります。さらに、**[!UICONTROL ヘルプ]**／**[!UICONTROL フィードバック]**&#x200B;をクリックして問題を報告したり、アドビとアイデアを共有したりします。
 * 通知の改善：[!UICONTROL 通知]ドロップダウンメニューに 2 つのタブが追加されました。1 つは独自の製品通知用、もう 1 つはグローバルな製品のお知らせ用です。
@@ -108,7 +108,7 @@ Experience Platform、Experience Platform Launch、ID サービスおよびセ�
 
 Adobe Analytics の新機能および修正点です。
 
-* [Adobe Analytics の新機能、機能強化および修正点](#aa-features)     （更新日：2020 年 1 月 22 日）
+* [Adobe Analytics の新機能、機能強化および修正点](#aa-features)（更新日：2020 年 1 月 22 日）
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [AppMeasurement](#appm)
 
@@ -164,7 +164,7 @@ Audience Manager に追加された修正点および機能です。
 * 名前にパイプ文字(AAM-51635)が含まれる特性に対して、サードパーティの特性レコメンデーションが正しく機能しない問題を修正しました。`|`
 * UI全体で複数のアクセシビリティの改善。
 
-## Experience Manager {#aem}
+## Adobe Experience Manager {#aem}
 
 Adobe Experience Manager（AEM）の新機能、修正点および更新です。安定性、セキュリティ、パフォーマンスを高めるために、オンプレミス環境のお客様には最新のパッチをデプロイすることをお勧めします。
 
@@ -209,13 +209,16 @@ Batch APIを使 [用した複数のインタラクティブ通信の生成を参
 
 Adobe Campaign は、オンラインおよびオフラインのマーケティングチャネルにわたって 1 対 1 のメッセージを届けるために直感的で自動化された方法を提供します。顧客の習慣や好みによって特定されたエクスペリエンスを利用して、顧客が欲しいものを予測できるようになりました。
 
-### Campaign Classic 19.2.3
+### Campaign Classic
 
-修正点と機能改善については、[Adobe Campaign Classic リリースノート](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html)を参照してください。
+* [Campaign Classic 20.1の更新](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html)
+* [Campaign Classic 19.2.3の更新](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/previous-releases/release--19-2.html)
 
-### Campaign Standard 20.1
+### Campaign Standard
 
-修正点と機能改善については、[Adobe Campaign Standard リリースノート](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html)を参照してください。
+* [Campaign Standard 20.1.3の更新](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-20-1-3---february-2020)
+* [Campaign Standard 20.1.2の更新](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.htmll#release-20-1-2---february-2020)
+* [Campaign Standard 20.1の更新](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-20-1---february-2020)
 
 ### その他のリソース
 
@@ -225,13 +228,13 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ## Advertising Cloud {#adcloud}
 
-2020年2月10日、2月8日リリース用に更新
+更新日：2020 年 2 月 11 日（2 月 9 日のリリース）
 
 | 表示 | 機能 |
 |------|---------|
-| ポートフォリオ | Yahoo! YDN(Display Network)キャンペーンをポートフォリオに追加し、キャンペーン予算や広告グループレベルの入札を最適化します。 同じ入札が広告グループ内のすべての広告に適用されます。 YDNキャンペーンのデータは、ポートフォリオのシミュレーションに含まれます。 |
-| 検索/一括送信 | Googleレスポンシブ検索広告(RSA)を作成、編集、削除できるようになりました。 以前は、検索/キャンペーンの標準キャンペーン管理インターフェイスでのみサポ **[!UICONTROL ートされ]** まし **[!UICONTROL た。]** |
-| 検索/キャンペーン、レポート | Google広告の目立つ指標と、Google広告の指標を、買い物製品グループ、 `Impr. (Abs. Top) %` Campaign Daily Impression `Impr. (Top) %` shareと  Keyword Daily Impression Shareレポート、およびラベルと制約ビューを除く、すべての基本レポートとエンティティレベルのキャンペーン管理ビューで使用できるようになりました。 |
+| ポートフォリオ | Yahoo! ディスプレイアドネットワーク（YDN）キャンペーンをポートフォリオに追加し、キャンペーンの予算や、広告のグループレベルの入札を最適化できるようになりました。広告グループ内のすべての広告に同じ入札が適用されます。YDN キャンペーンのデータは、ポートフォリオのシミュレーションに含まれています。 |
+| Search／Bulksheets | Bulksheets を使用して、Google レスポンシブ検索広告（RSA）を作成、編集、削除できるようになりました。Previously, support was available only through the standard campaign management interface at **[!UICONTROL Search]** > **[!UICONTROL Campaigns]** |
+| Search／Campaigns, Reports | The Google Ads prominence metrics `Impr. (Abs. Top) %` and `Impr. (Top) %` are now available in all basic reports and entity-level campaign management views except for those for shopping product groups, in the [!UICONTROL Campaign Daily Impression Share] and [!UICONTROL Keyword Daily Impression Share] reports, and in the labels and constraints views. |
 
 ## [!DNL Magento] {#magento}
 
