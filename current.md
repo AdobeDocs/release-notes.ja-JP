@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: February 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6ff4708a5ec57bb590e9dacc718a42d1b8f71a8f
+source-git-commit: 71ba31c62c66771c16273131db3b72bbaa614d52
 
 ---
 
@@ -211,14 +211,14 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### Campaign Classic
 
-* [Campaign Classic 20.1の更新](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html)
+* [Campaign Classic 20.1](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html)
 * [Campaign Classic 19.2.3の更新](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/previous-releases/release--19-2.html)
 
 ### Campaign Standard
 
 * [Campaign Standard 20.1.3の更新](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-20-1-3---february-2020)
 * [Campaign Standard 20.1.2の更新](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.htmll#release-20-1-2---february-2020)
-* [Campaign Standard 20.1の更新](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-20-1---february-2020)
+* [Campaign Standard 20.1](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-20-1---february-2020)
 
 ### その他のリソース
 
