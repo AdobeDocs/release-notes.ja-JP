@@ -5,17 +5,14 @@ doc-type: release notes
 last-update: February 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 71ba31c62c66771c16273131db3b72bbaa614d52
+source-git-commit: c62d85f09ce596482a019aa5d0f1d517bf2df9fe
 
 ---
 
 
-# 先行アクセス — Adobe Experience cloudリリースノート — 2020年2月
+# Adobe Experience cloudリリースノート — 2020年2月
 
 Adobe Experience Cloud の新機能および修正点です。
-
->[!IMPORTANT]
->このページに記載される内容は、リリース前の情報であり、リリース日の前後に変更される可能性があります。
 
 >[!NOTE]
 >[[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。リリース後に発表された新情報には、更新の日付が明記されます。
@@ -162,7 +159,7 @@ Audience Manager に追加された修正点および機能です。
 * アルゴリズムモデル作成フロー(AAM-37942)内を移動するとUIが壊れる問題を修正しました。
 * Adobe Experience Platform統合(AAM-52814)を使用しているお客様に対して、新しい宛先または既存の宛先用にデータエクスポートコントロールを保存する際に、データエクスポートの選択が保存されない問題を修正しました。
 * 名前にパイプ文字(AAM-51635)が含まれる特性に対して、サードパーティの特性レコメンデーションが正しく機能しない問題を修正しました。`|`
-* UI全体で複数のアクセシビリティの改善。
+* UI全体で複数のアクセシビリティの改善が行われました。
 
 ## Adobe Experience Manager {#aem}
 
@@ -209,16 +206,13 @@ Batch APIを使 [用した複数のインタラクティブ通信の生成を参
 
 Adobe Campaign は、オンラインおよびオフラインのマーケティングチャネルにわたって 1 対 1 のメッセージを届けるために直感的で自動化された方法を提供します。顧客の習慣や好みによって特定されたエクスペリエンスを利用して、顧客が欲しいものを予測できるようになりました。
 
-### Campaign Classic
+### Campaign Classic 19.2.3
 
-* [Campaign Classic 20.1](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html)
-* [Campaign Classic 19.2.3の更新](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/previous-releases/release--19-2.html)
+修正点と機能改善については、[Adobe Campaign Classic リリースノート](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html)を参照してください。
 
-### Campaign Standard
+### Campaign Standard 20.1
 
-* [Campaign Standard 20.1.3の更新](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-20-1-3---february-2020)
-* [Campaign Standard 20.1.2の更新](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.htmll#release-20-1-2---february-2020)
-* [Campaign Standard 20.1](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-20-1---february-2020)
+修正点と機能改善については、[Adobe Campaign Standard リリースノート](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html)を参照してください。
 
 ### その他のリソース
 
