@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: February 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7a8c0c680195b5308dfb6c0214b1d56ceda88584
+source-git-commit: d6c2892cedd2641f35556f36c149b4a8a8203683
 
 ---
 
@@ -152,6 +152,7 @@ Audience Manager に追加された修正点および機能です。
 | 機能 | 説明 |
 |----|----|
 | [アクティビティ使用状況レポート](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html) | [!UICONTROL アクティビティの使用状況レポート]は、アクティビティの使用状況と契約上のコミットメントの比較方法をわかりやすく示し、Audience Manager インスタンスのアクティビティの使用状況を表示および追跡するのに役立ちます。 |
+| [DIL 9.4](https://docs.adobe.com/content/help/en/audience-manager/user-guide/dil-api/dil-release-notes.html) | バージョン9. [!DNL Data Integration Library] 4に[!DNL DIL]更新しました。この更新により、cookieとの互換性が向上 [!DNL Google Chrome] し [!DNL SameSite] ました。 |
 
 ### 修正点および改善点 {#aam-fixes-and-improvements}
 
