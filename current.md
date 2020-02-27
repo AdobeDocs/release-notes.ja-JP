@@ -5,12 +5,12 @@ doc-type: release notes
 last-update: February 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d6c2892cedd2641f35556f36c149b4a8a8203683
+source-git-commit: 8ee099db4445862bdae3c94010f70ba2696798f9
 
 ---
 
 
-# Adobe Experience cloudリリースノート — 2020年2月
+# Adobe Experience Cloud リリースノート - 2020 年 2 月
 
 Adobe Experience Cloud の新機能および修正点です。
 
@@ -21,13 +21,13 @@ Adobe Experience Cloud の新機能および修正点です。
 
 （特定の製品のリリース日は変更される場合があります）
 
-最新の更新：2020年2月21日
+最新の更新：2020年2月26日
 
 * [Adobe システムステータス](#status)
-* [Experience Cloud インターフェイスとコアサービス](#ecloud)
+* [Experience Cloud インターフェイスとコアサービス](#ecloud) (更新日：**2020 年 2 月 26 日**)
 * [Experience Platform](#platform)
 * [Mobile Services および Mobile SDK](#mobile)
-* [!DNL Analytics](#analytics) （更新日2020年2月21日）
+* [!DNL Analytics](#analytics) (更新：2020年2月21日)
 * [Audience Manager](#aam)
 * [Adobe Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -35,6 +35,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（ソリューションヘルプへのリンク）
 * [!DNL Advertising Cloud](#adcloud)
 * [!DNL Magento](#magento)
+* [!DNL Marketo](#marketo) (更新：2019 **年2月26日**)
 
 ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)を参照してください。
 
@@ -56,7 +57,13 @@ Adobe Experience Cloud の新機能および修正点です。
 
 ## Experience Cloud インターフェイスとコアサービス {#ecloud}
 
+リリースの更新：2016 **年2月27日**
+
 Experience Cloud インターフェイスの新機能および修正点です。管理およびコアサービス（顧客属性、オーディエンス、トリガー、cookie など）が含まれます。
+
+| 機能 | 説明 |
+| -----------| ---------- |
+| 管理ツール — ユーザーの詳細を表示 | 管理者は、新しい管理ツールで、すべてのExperience cloudユーザーとその詳細の並べ替え可能なフィルター可能なリストを表示できます。 ユーザーの詳細には、ユーザーの製品アクセス、ロール、最後にアクセスした情報が含まれます。 詳しくは [、Experience cloud管理ツールのヘルプ](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) を参照してください。 |
 
 **修正点**
 
@@ -95,7 +102,7 @@ Experience Platform、Experience Platform Launch、ID サービスおよびセ�
 
 ## Mobile Services および Mobile SDK {#mobile}
 
-**2020 年 2 月 5 日：バージョン 4.19.0**
+2020年2月4日：バージョン4.19.0
 
 このリリースでは、次の更新がおこなわれました。
 
@@ -160,7 +167,7 @@ Audience Manager に追加された修正点および機能です。
 * アルゴリズムモデル作成フロー（AAM-37942）内を移動すると UI が壊れる問題を修正しました。
 * Adobe Experience Platform 統合（AAM-52814）を使用しているお客様が、新しい宛先または既存の宛先用にデータの書き出しコントロールを保存する際、データの書き出しの選択が保存されない問題を修正しました。
 * 名前（AAM-51635）にパイプ文字（`|`）が含まれる特性に対して、サードパーティの特性レコメンデーションが正しく機能しない問題を修正しました。
-* UI全体で複数のアクセシビリティの改善が行われました。
+* UI 全体で複数のアクセシビリティを改善しました。
 
 ## Adobe Experience Manager {#aem}
 
@@ -236,3 +243,40 @@ Magent リリースノートについては、以下を参照してください�
 
 * [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
 * [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
+
+## [!DNL Marketo] {#marketo}
+
+[!DNL Marketo Engage] は、複雑な購入の遍歴を通じて顧客体験を変えようとしているリード管理とB2Bマーケター向けの完全なソリューションです。
+
+### コアマーケティングの更新
+
+リリース日：2020 年 2 月 21 日
+
+* **_Microsoft_** flowアクションのMicrosoft Dynamics Change Owner:リードまたは連絡先の所有者をMarketo Engageから直接変更します。
+* **API呼び出しの機能強化：**
+   * ユーザー管理API
+   * カスタムオブジェクトスキーマAPI
+   * ランディングページリダイレクトルールAPI
+* **** フォーム記述子のキャッシュ：ランディングページとフォームの改善。
+
+See [!DNL Marketo] release notes for [February 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) for more information.
+
+### 今後の機能
+
+この四半期を通じて、以下の機能がリリースされます。
+
+| 表示 | 機能 |
+|------|---------|
+| [!DNL Bizible] | <ul><li>新しいアカウントベースのセグメント化</li><li>ダッシュボード固有のフィルタの保存</li><li>BizbileダッシュボードをPDFとしてエクスポート</li></ul> |
+| 販売コネクト | ウィンドウとコマンドセンターを構成の更新/拡張 |
+
+### 発表
+
+**・ Marketto Engage Success** Center:2020年2月に公開。 サクセスセンターは製品内ヘルプセンターで、製品ドキュメントとコミュニティの検索、ハウツーガイドの起動、採用コンテンツへのアクセスなどを行うことができます。 注意：この機能はANZでベータ版として開始され、四半期の後半に北米に公開されます。
+
+### 廃止
+
+* **** アセットAPI &quot;_method&quot;パラメータ：2020年9月以降、アセットAPIエンドポイントは、URIの長さ制限を回避するために、POST本文にクエリパラメーターを渡す「_method」を受け入れなくなります。
+* **** Internet Explorerのサポートの廃止：2020年7月31日のリリース以降、Marketo EngageユーザーインターフェイスはInternet Explorerでサポートされなくなります。
+
+これまでのリリースノートと過去のリリースノートについては、「 [Marketoのリリースノート」を参照してくださ](https://docs.marketo.com/x/CgA6Ag)い。
