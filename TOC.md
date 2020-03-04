@@ -4,7 +4,7 @@ product: Experience Cloud
 user-guide-title: Adobe Experience Cloud Release Notes
 user-guide-url: https://www.adobe.com
 translation-type: tm+mt
-source-git-commit: 9ed727b23cbc90965f44c4bb914728bbc2394d6b
+source-git-commit: 2363a9f58f658e49054e3ac7a63083925a381eec
 
 ---
 
@@ -16,7 +16,6 @@ source-git-commit: 9ed727b23cbc90965f44c4bb914728bbc2394d6b
    + 2020 {#2020}
       + [2020 年 2 月](c-legacy-releases/2020/02202020.md)
       + [2020 年 1 月](c-legacy-releases/2020/01162020.md)
-      + [2020 年 2 月](c-legacy-releases/2020/02202020.md)
    + 2019 {#2019}
       + [2019 年 11 月](c-legacy-releases/2019/10312019.md)
       + [2019 年 10 月](c-legacy-releases/2019/10102019.md)
