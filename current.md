@@ -4,7 +4,7 @@ description: Experience Cloud リリースノートのテンプレート
 doc-type: release notes
 last-update: February 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2363a9f58f658e49054e3ac7a63083925a381eec
 
 ---
@@ -31,13 +31,13 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Audience Manager](#aam)
 * [Adobe Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（ソリューションヘルプへのリンク）
+* [!DNL Target](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
+* [!DNL Primetime](https://helpx.adobe.com/jp/primetime/user-guide.html)（ソリューションヘルプへのリンク）
 * [!DNL Advertising Cloud](#adcloud)
 * [!DNL Magento](#magento)
 * [!DNL Marketo](#marketo) (更新日：**2019 年 2 月 27 日**)
 
-ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)を参照してください。
+ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.html)を参照してください。
 
 ## Adobe システムステータス {#status}
 
@@ -78,7 +78,7 @@ Experience Cloud インターフェイスの新機能および修正点です。
 
 * 新しいソリューション URL：`experience.adobe.com/<application name>`：
    * すべての製品で、最終的にこの URL パターンが採用されます。1 ヶ月間にわたって効果的な新しい URL を探します。
-   * ブラウザーのサポート：サポートされるブラウザーには、[!DNL Microsoft Edge]、[!DNL Google Chrome]、[!DNL Firefox]、[!DNL Safari]、および [!DNL Opera]（最新バージョン）が含まれます。**メモ：** Experience Cloud インターフェイスはこれらのブラウザーをサポートしていますが、個々のソリューションがすべてのブラウザーに対応しているわけではありません（例えば、[Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) は [!DNL Opera] をサポートしておらず、[Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) は [!DNL Safari] をサポートしていません）。
+   * ブラウザーのサポート：サポートされるブラウザーには、[!DNL Microsoft Edge]、[!DNL Google Chrome]、[!DNL Firefox]、[!DNL Safari]、および [!DNL Opera]（最新バージョン）が含まれます。**メモ：** Experience Cloud インターフェイスはこれらのブラウザーをサポートしていますが、個々のソリューションがすべてのブラウザーに対応しているわけではありません（例えば、[Analytics](https://docs.adobe.com/content/help/ja-JP/analytics/admin/sys-reqs.html) は [!DNL Opera] をサポートしておらず、[Target](https://docs.adobe.com/help/ja-JP/target/using/implement-target/before-implement/supported-browsers.html) は [!DNL Safari] をサポートしていません）。
    * （[!DNL Safari] のみ）ドメインの変更によって、[!DNL Safari] で cookie の問題が発生する場合があります。[!DNL Safari] のプライバシー設定で「_サイト越えトラッキングを防ぐ_」をオフにすると、ドメイン（およびすべてのクロスサイトエクスペリエンス）間で cookie が有効になり、Experience Cloud がこの新しいドメインで機能するようになります。
 * 組織間または別のアプリケーション間の切り替えが容易になりました。
 * 製品ヘルプの改善：ヘルプ検索にコミュニティフォーラムやビデオコンテンツの結果も含められるよう、[!UICONTROL Experience League] は製品に統合されています。この変更により、より多くのコンテンツへのアクセスが簡素化され、Experience Cloud を最大限に活用できるようになります。さらに、**[!UICONTROL ヘルプ]**／**[!UICONTROL フィードバック]**&#x200B;をクリックして問題を報告したり、アドビとアイデアを共有したりします。
@@ -86,7 +86,7 @@ Experience Cloud インターフェイスの新機能および修正点です。
 
 **メモ：**[!UICONTROL フィード]ページは、2020 年 1 月に廃止されます。製品内の廃止のお知らせを探してください。
 
-製品ドキュメントについては、[Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) を参照してください。
+製品ドキュメントについては、[Experience Cloud](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html) を参照してください。
 
 ## Experience Platform {#platform}
 
@@ -94,11 +94,11 @@ Experience Platform、Experience Platform Launch、ID サービスおよびセ�
 
 * [Experience Platform リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
-* [セキュリティ速報および情報](https://helpx.adobe.com/security.html)（すべてのアドビ製品）
+* [セキュリティ速報および情報](https://helpx.adobe.com/jp/security.html)（すべてのアドビ製品）
 
 ### Experience Platform Launch {#launch}
 
-リリースノートおよび製品ドキュメントについては、[Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) を参照してください。
+リリースノートおよび製品ドキュメントについては、[Experience Platform Launch](https://docs.adobe.com/content/help/ja-JP/launch/using/intro/release-notes/current.html) を参照してください。
 
 ## Mobile Services および Mobile SDK {#mobile}
 
@@ -116,15 +116,15 @@ Adobe Analytics の新機能および修正点です。
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [AppMeasurement](#appm)（更新日：2020 年 2 月 22 日）
 
-製品ドキュメントについては、[Adobe Analytics ヘルプホーム](https://docs.adobe.com/content/help/en/analytics/landing/home.html)を参照してください。
+製品ドキュメントについては、[Adobe Analytics ヘルプホーム](https://docs.adobe.com/content/help/ja-JP/analytics/landing/home.html)を参照してください。
 
 ### Adobe Analytics の新機能、機能強化および修正点 {#aa-features}
 
 <!--* **Support for multiple report suites in Workspace:** You can now bring in data from multiple report suites into a single project to view side by side. Beginning on Feb 20, 2020, the feature will roll out to all customers over the course of several weeks. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)-->
-* **新しいデバイス間分析を使用する組織向け Workspace テンプレート：**&#x200B;このテンプレートは、訪問を結び付ける際の CDA の有効性を示し、CDA 専用のディメンションと指標について説明します。CDA を使用するレポートスイートが必要です。詳しくは、[デバイス間分析の設定](https://docs.adobe.com/content/help/en/analytics/components/cda/cda-setup.html)を参照してください。
+* **新しいデバイス間分析を使用する組織向け Workspace テンプレート：**&#x200B;このテンプレートは、訪問を結び付ける際の CDA の有効性を示し、CDA 専用のディメンションと指標について説明します。CDA を使用するレポートスイートが必要です。詳しくは、[デバイス間分析の設定](https://docs.adobe.com/content/help/ja-JP/analytics/components/cda/cda-setup.html)を参照してください。
 * **プライベートグラフを使用する組織の CDA ステッチの遅延が 1 日に短縮されました：**&#x200B;プライベートグラフ機能が強化され、週次バッチ処理から毎日更新されるグラフへとグラフ生成の遅延が減少し、CDA のお客様はより新しい ID グラフやリンクを利用できるようになりました。
-* **ラボ（テクノロジープレビュー）：**&#x200B;この新しい Analytics 機能を使用すると、新しい機能のプロトタイプを実稼働環境でテストし、アドビに貴重なフィードバックを提供できます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/tech-previews/overview.html)
-* **ワークスペースの新しいアイコン：**<ul><li>すべてのパネルを折りたたむ／展開する：`alt + m`</li><li>アクティブパネルを折りたたみ／展開：`alt + ctrl + m`</li><li>左パネルを検索：`ctrl + /`</li><li>次のパネルに移動：`alt + Right Key`</li><li>前のパネルに移動：`alt + Left Key`</li></ul>[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/fa-shortcut-keys.html)
+* **ラボ（テクノロジープレビュー）：**&#x200B;この新しい Analytics 機能を使用すると、新しい機能のプロトタイプを実稼働環境でテストし、アドビに貴重なフィードバックを提供できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/tech-previews/overview.html)
+* **ワークスペースの新しいアイコン：**<ul><li>すべてのパネルを折りたたむ／展開する：`alt + m`</li><li>アクティブパネルを折りたたみ／展開：`alt + ctrl + m`</li><li>左パネルを検索：`ctrl + /`</li><li>次のパネルに移動：`alt + Right Key`</li><li>前のパネルに移動：`alt + Left Key`</li></ul>[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/build-workspace-project/fa-shortcut-keys.html)
 * **Workspace のその他の機能拡張**<ul><li>パネルまたはビジュアライゼーションを [!UICONTROL Workspace] にドロップすると、左パネルがコンポーネントへと自動的に切り替わり、よりシームレスなワークフローが実現します。</li><li>テンプレートコンポーネントに対するアクションを実行できるようになりました（例：タグ付け、お気に入りに登録、承認）。</li><li>フィルター適用済みの指標およびセグメントリストには、必要な項目が見つからない場合に新しいコンポーネントを追加する `+` ボタンが表示されます。</li></ul>
 * **Workspace デバッガー**&#x200B;がヘルプメニューに追加され、よりシームレスに有効化して Workspace リクエストをデバッグできるようになりました。[詳細情報...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.md)
 * **Chromium ベースの Microsoft Edge ブラザー：**&#x200B;このリリースには、レポート目的で Chromium ベースの Microsoft Edge ブラウザー（バージョン 79 以降）を認識するための変更が含まれています。
@@ -138,7 +138,7 @@ Adobe Analytics の新機能および修正点です。
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| 新しい Adobe Analytics ドメイン | 2019 年 12 月 19 日 | 2020 年 1 月 17 日に、Adobe Analytics は新しいドメインへの移行を開始しました。`https://experience.adobe.com/analytics.`<br>**メモ&#x200B;**：この変更は、Adobe ID または Enterprise ID を使用して Analytics にアクセスするすべてのユーザーに適用されます。<ul><li>ドメインの変更により、Safari で Analytics を読み込む際に cookie の問題が発生する可能性があります。Safari のプライバシー設定で「_サイト越えトラッキングを防ぐ_」をオフにすると、ドメイン（およびすべてのクロスサイトエクスペリエンス）間で cookie が有効になり、Analytics がこの新しい Adobe Experience Cloud ドメインで機能するようになります。この問題が影響するのは Safari ユーザーのみなので、ユーザーは問題なく他のブラウザーを使用できます。</li><li>ドメインの変更により、[ある特定のケースにおいて](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html)、一部の顧客に対して [!UICONTROL Activity Map] が機能しなくなる場合があります。</li></ul> |
+| 新しい Adobe Analytics ドメイン | 2019 年 12 月 19 日 | 2020 年 1 月 17 日に、Adobe Analytics は新しいドメインへの移行を開始しました。`https://experience.adobe.com/analytics.`<br>**メモ&#x200B;**：この変更は、Adobe ID または Enterprise ID を使用して Analytics にアクセスするすべてのユーザーに適用されます。<ul><li>ドメインの変更により、Safari で Analytics を読み込む際に cookie の問題が発生する可能性があります。Safari のプライバシー設定で「_サイト越えトラッキングを防ぐ_」をオフにすると、ドメイン（およびすべてのクロスサイトエクスペリエンス）間で cookie が有効になり、Analytics がこの新しい Adobe Experience Cloud ドメインで機能するようになります。この問題が影響するのは Safari ユーザーのみなので、ユーザーは問題なく他のブラウザーを使用できます。</li><li>ドメインの変更により、[ある特定のケースにおいて](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/activity-map/activity-map.html)、一部の顧客に対して [!UICONTROL Activity Map] が機能しなくなる場合があります。</li></ul> |
 | 提供終了 - Analytics レガシー API | 2020 年 1 月 10 日 | 2020 年 11 月に、以下の Analytics レガシー API サービスが提供終了となり、シャットダウンされます。これらのサービスを使用して構築された現在の統合は機能しなくなります。 <ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>ご質問に対する回答と進め方に関するガイダンスを提供するために、[従来の API EOL の FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe IO](https://console.adobe.io/home?mv=email) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API の両方にアクセスするために使用できます。 |
 | **[!UICONTROL アーカイブを表示]** オプションのサポート終了 | 2019 年 10 月 31 日 | 2020 年 1 月に、ダッシュボードマネージャー（**[!UICONTROL コンポーネント／ダッシュボード]**）の **[!UICONTROL アーカイブを表示]** オプションのサービスを終了することをお知らせします。 |
 | **[!UICONTROL IP ログイン制限の適用]** オプションのサポート終了 | 2019 年 10 月 31 日 | 2020 年 1 月に、**[!UICONTROL 管理者／会社設定／セキュリティ]** メニューの IP ログインのホワイトリストへの追加（**[!UICONTROL IP ログイン制限の実施]**）機能のサポートを終了することをお知らせします。 |
@@ -148,7 +148,7 @@ Adobe Analytics の新機能および修正点です。
 
 ### [!DNL AppMeasurement] {#appm}
 
-「[JavaScript 版 AppMeasurement リリースノート](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html)」を参照してください。バージョン 2.19.0 は 2020 年 2 月 22 日にリリースされました。
+「[JavaScript 版 AppMeasurement リリースノート](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/appmeasurement-updates.html)」を参照してください。バージョン 2.19.0 は 2020 年 2 月 22 日にリリースされました。
 
 ## Audience Manager {#aam}
 
@@ -158,8 +158,8 @@ Audience Manager に追加された修正点および機能です。
 
 | 機能 | 説明 |
 |----|----|
-| [アクティビティ使用状況レポート](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html) | [!UICONTROL アクティビティの使用状況レポート]は、アクティビティの使用状況と契約上のコミットメントの比較方法をわかりやすく示し、Audience Manager インスタンスのアクティビティの使用状況を表示および追跡するのに役立ちます。 |
-| [DIL 9.4](https://docs.adobe.com/content/help/en/audience-manager/user-guide/dil-api/dil-release-notes.html) | [!DNL Data Integration Library]（[!DNL DIL]）をバージョン 9.4 に更新しました。この更新により、[!DNL Google Chrome] [!DNL SameSite] cookies との互換性が向上しました。 |
+| [アクティビティ使用状況レポート](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/features/administration/activity-usage-reporting.html) | [!UICONTROL アクティビティの使用状況レポート]は、アクティビティの使用状況と契約上のコミットメントの比較方法をわかりやすく示し、Audience Manager インスタンスのアクティビティの使用状況を表示および追跡するのに役立ちます。 |
+| [DIL 9.4](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/dil-api/dil-release-notes.html) | [!DNL Data Integration Library]（[!DNL DIL]）をバージョン 9.4 に更新しました。この更新により、[!DNL Google Chrome] [!DNL SameSite] cookies との互換性が向上しました。 |
 
 ### 修正点および改善点 {#aam-fixes-and-improvements}
 
@@ -179,7 +179,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
    Cloud Manager 2020.2.0 は、Adobe Experience Manager のサンドボックスをクラウドサービスとしてシンプルに管理するためのツールです。
 
-   [リリースノート](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)を参照してください。
+   [リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)を参照してください。
 
 ### セルフサービス
 
@@ -199,15 +199,15 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 ### その他のリソース
 
 * [クラウドサービスとしての AEM](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
-* [AEM 6.5 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-5.html)
-* [AEM 6.4 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-4.html)
-* [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-3.html)
-* [AEM 6.2 ラーニングとサポートのホーム](https://helpx.adobe.com/support/experience-manager/6-2.html)
-* [Cloud Manager ユーザーガイド](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [AEM ドキュメントの以前のバージョン](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
-* [Dynamic Media Classic ヘルプホーム](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
+* [AEM 6.5 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-5.html)
+* [AEM 6.4 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-4.html)
+* [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-3.html)
+* [AEM 6.2 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-2.html)
+* [Cloud Manager ユーザーガイド](https://helpx.adobe.com/jp/experience-manager/cloud-manager/user-guide.html)
+* [AEM ドキュメントの以前のバージョン](https://helpx.adobe.com/jp/experience-manager/aem-previous-versions.html)
+* [Dynamic Media Classic ヘルプホーム](https://docs.adobe.com/content/help/ja-JP/dynamic-media-classic/using/home.html)
 * [Dynamic Media リリースノート](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
-* [Livefyre リリースノート](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
+* [Livefyre リリースノート](https://docs.adobe.com/content/help/ja-JP/livefyre/using/release-notes/c-rn.html)
 
 ## [!DNL Campaign] {#ac}
 
@@ -215,17 +215,17 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### Campaign Classic 19.2.3
 
-修正点と機能改善については、[Adobe Campaign Classic リリースノート](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html)を参照してください。
+修正点と機能改善については、[Adobe Campaign Classic リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html)を参照してください。
 
 ### Campaign Standard 20.1
 
-修正点と機能改善については、[Adobe Campaign Standard リリースノート](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html)を参照してください。
+修正点と機能改善については、[Adobe Campaign Standard リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html)を参照してください。
 
 ### その他のリソース
 
-* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)- [リリース計画](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
-* Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
+* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)- [リリース計画](https://helpx.adobe.com/jp/campaign/kb/acs-release-planning.html)
+* Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/classic.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.translate.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/control-panel/using/release-notes.html)
 
 ## Advertising Cloud {#adcloud}
 
@@ -272,7 +272,7 @@ Magent リリースノートについては、以下を参照してください�
 
 ### 発表
 
-**** Marketing Success Center:2020年2月に公開。 サクセスセンターは製品内ヘルプセンターで、製品ドキュメントとコミュニティの検索、ハウツーガイドの起動、導入コンテンツへのアクセスなどをおこなうことができます。注意：この機能は ANZ でベータ版として開始され、四半期の後半に北米で公開予定です。
+**Marketo Engage サクセスセンター：** 2020 年 2 月に立ち上げ予定。サクセスセンターは製品内ヘルプセンターで、製品ドキュメントとコミュニティの検索、ハウツーガイドの起動、導入コンテンツへのアクセスなどをおこなうことができます。注意：この機能は ANZ でベータ版として開始され、四半期の後半に北米で公開予定です。
 
 ### 廃止
 
