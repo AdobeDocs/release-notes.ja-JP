@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: ecee1c664485d710a62c9455e64eea3a16966780
+source-git-commit: e9fdb1166b47f17256afeaa7bced60f884de8d16
 
 ---
 
@@ -128,6 +128,12 @@ Adobe Analytics の新機能および修正点です。
 
 * Reports &amp; Analyticsで、レポートをダ [!UICONTROL ウンロードできない] 、問題を修正し `.xls` ました。（AN-206541、AN-204008）
 * 新しいシェルの展開で、Experience Cloud組織の切り替えに関する顧客の問題がいくつか修正されました。（AN-200844、AN-186920）
+* 分類の検索フィルターに「未指定（なし） ____ 」を含めずに「未指定（未指定）」の行項目（またはその他のレポート行項目）を分類しても、分類の結果が返されない問題を修正しました。
+* 分類されたディメンションを使用する場合、入口指標または出口指標の合計が、分類の行項目の合計と一致しない問題を修正しました。
+* アトリビューションIQのファーストタッチモデルとラストタッチモデルで、あらかじめ用意されているディメンションの一部の行項目のクレジットが正しく計算されない問題を修正しました。
+* ある日付ディメンションを別の日付ディメンションで分類すると、誤った結果が返される問題を修正しました。
+* 分類されたディメンションレポートで「未指定」に適用した場合に、入口指標または出口指標が正しくカウントされないことがある問題を修正しました。
+
 
 ### [!DNL Analytics] 管理者向けの重要な注意事項 {#aa-notices}
 
@@ -192,7 +198,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * **クラウドサービスとしてのAEM — ディスパッチャー**
 
-   ディスパッ [チャー、CDN](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#dispatcher-cdn) 、および [](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#explicit-invalidation) Explicit Dispatcherのキャッシュの無効化セクションが更新され、使用可能なオプションとその動作方法が明確になりました。
+   ディスパッ [チャー、CDN](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#dispatcher-cdn) 、および [](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#explicit-invalidation) Explicit Dispatcherキャッシュの無効化の各セクションが更新され、使用可能なオプションとその動作方法が明確になりました。
 
 * **Brand PortalでのAEM Assetsの設定**
 
