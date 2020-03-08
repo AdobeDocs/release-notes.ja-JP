@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: dcbcc2fff5026c07898e7887b837767e9a71dbf3
+source-git-commit: 897f8d8138403d42ee0387d3582464b41fd1a54c
 
 ---
 
@@ -27,6 +27,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイスとコアサービス](#ecloud)
 * [Experience Platform](#platform)
+* [旅のオーケストレーション](#journey)
 * [Mobile Services および Mobile SDK](#mobile)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
@@ -103,11 +104,7 @@ Adobe Experience Platformを使用すると、各顧客のニーズをリアル�
 
 ### その他のリソース
 
-[ドキュメント](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-
-[リリースノート](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html)
-
-[ハウツービデオ](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
+[ドキュメント](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [リリースノート](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) — 使い方 [に関するビデオ](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ## Mobile Services および Mobile SDK {#mobile}
 
@@ -343,7 +340,7 @@ Magent リリースノートについては、以下を参照してください�
 | Adobe Analytics | ビデオ — Adobe Analysis Workspace [によるビジネスの変更方法](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html) | Analysis Workspaceを使用して、Ad Hoc Analysis、柔軟な分析、コホート分析およびフォールアウト分析を実行する方法につい [!UICONTROL て説明します]。 また、分析作業環境を社内の全員と共有でき、ドラッグ&amp;ドロップ機能を使用すると、全員がデータを簡単に分析し、インサイトを迅速に得ることができます。 |
 | Adobe Analytics | ビデオ — お [客様の使用例：Home DepotがCustomer Experience Managementを革新](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.html) | アドビのソリューショ [!DNL Home Depot] ンを使用して、カスタマイズされた買い物体験でブランドへの忠誠度と顧客満足度を得る方法を説明します。 |
 | Adobe Analytics | プレゼンテーション — [顧客の遍歴分析について](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/understanding-customer-journey-analytics.html) | Adobeのアプリケーションサービスである [!UICONTROL Adobe Customer Jeurney]Analyticsが、 [!DNL Adobe Experience Platform]Analysis WorkspaceをExperience Platform  に組み込む方法を説明します。 この機能を使用すると、任意のデータセットに対するマルチチャネル分析を [!DNL Adobe Experience Platform] 有効にできます。 |
-| Adobe Analytics | ビデオ — CJA [でのチャネル間アトリビューション](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/cross-channel-attribution-in-customer-journey-analytics.html) | ビジュアライゼーションを使用して、Customer Jeurney Analyticsのチャネル間でアトリビューションを表示（クレジットを与える）する方 [!UICONTROL 法を説明します]。 |
+| Adobe Analytics | ビデオ — CJA [でのチャネル間アトリビューション](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/cross-channel-attribution-in-customer-journey-analytics.html) | ビジュアライゼーションを使用して、Customer Jeurney Analyticsのチャネル間でアトリビューションを表示（クレジットを付与）する方 [!UICONTROL 法を説明します]。 |
 | Adobe Analytics | 記事 — Adobe Analytics [の学習の遍歴を継続するための顧客のヒント](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.html) | Adobe Analyticsから最大の価値を得る方法に関するヒントやテクニックをお持ちのアドビの3人のお客様にお会いします。 |
 | Adobe Analytics | ビデオ — CJAでの [チャネル間ビジュアライゼーションの作成](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/creating-cross-channel-visualizations-in-customer-journey-analytics.html) | 顧客の遍歴分析 [!UICONTROL を使用すると] 、複数のチャネルにわたる複数のデータセットからのデータを含むビジュアライゼーション（訪問者あたりのデータの結合を含む）を作成できます。 |
 | Adobe Analytics | ビデオ — 計 [算指標をAdobe Analyticsから顧客の遍歴分析に移動](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.html) | Analytics計算指標を再作成する際のヒ [!UICONTROLCントを] Customer Jeurney Analytics [!UICONTROL で確認します]。 |
