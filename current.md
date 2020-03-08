@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 101b94ed00ae148e946f17c134037ae880badc5d
+source-git-commit: dcbcc2fff5026c07898e7887b837767e9a71dbf3
 
 ---
 
@@ -94,6 +94,20 @@ Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience P
 ### Experience Platform Launch {#launch}
 
 リリースノートおよび製品ドキュメントについては、[Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) を参照してください。
+
+## 旅のオーケストレーション {#journey}
+
+Adobe Experience Platformを使用すると、各顧客のニーズをリアルタイムでインテリジェントに予測し、各顧客の遍歴がどこに到達しても、顧客の個々のジャーニーをエクスペリエンスチャネル全体にわたって拡張できます。
+
+第1四半期のリリースが公開されました。 [詳細情報](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html#q1-release---march-2020)
+
+### その他のリソース
+
+[ドキュメント](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
+
+[リリースノート](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html)
+
+[ハウツービデオ](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ## Mobile Services および Mobile SDK {#mobile}
 
@@ -197,7 +211,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * **クラウドサービスとしてのAEM — ディスパッチャー**
 
-   ディスパッ [チャー、CDN](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#dispatcher-cdn) 、および [](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#explicit-invalidation) Explicit Dispatcherのキャッシュの無効化セクションが更新され、使用可能なオプションとその動作方法が明確になりました。
+   ディスパッ [チャー、CDN](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#dispatcher-cdn) 、および [](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#explicit-invalidation) Explicit Dispatcherキャッシュの無効化の各セクションが更新され、使用可能なオプションとその動作方法が明確になりました。
 
 * **Brand PortalでのAEM Assetsの設定**
 
