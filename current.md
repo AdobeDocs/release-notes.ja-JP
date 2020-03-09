@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 897f8d8138403d42ee0387d3582464b41fd1a54c
+source-git-commit: 8cfd93b9e4e5800eb9222a78571ec89e546e6a6f
 
 ---
 
@@ -137,7 +137,7 @@ Adobe Analytics の新機能および修正点です。
 
 #### 修正点
 
-* Reports &amp; Analyticsで、レポートをダ [!UICONTROL ウンロードできない] 、問題を修正し `.xls` ました。（AN-206541、AN-204008）
+* Reports &amp; Analyticsで、レポートをダ [!UICONTROL ウンロードできない] 、問題を修正し `.xls` ました。 この問題は、米ドルおよびユーロ以外の通貨を使用しているお客様に影響を与えました。 （AN-206541、AN-204008）
 * 新しいシェルの展開で、Experience Cloud組織の切り替えに関する顧客の問題がいくつか修正されました。（AN-200844、AN-186920）
 * 分類の検索フィルターに「未指定（なし） ____ 」を含めずに「未指定（未指定）」の行項目（またはその他のレポート行項目）を分類しても、分類の結果が返されない問題を修正しました。
 * 分類されたディメンションを使用する場合、入口指標または出口指標の合計が、分類の行項目の合計と一致しない問題を修正しました。
@@ -149,8 +149,8 @@ Adobe Analytics の新機能および修正点です。
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| EOL of **[!UICONTROL Conversion Level]** setting | 2020年3月3日 | 管理ツール/レポートスイート [](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html)**[!UICONTROL /アカウン]** ト設定一般のUIが機能しないコンバージョンレベル設定は、2020年3月12日に削除されます。 |
-| ダッシュボードアー **[!UICONTROL カイブのEOL]** | 2020年3月3日 | **** Reports &amp; Analyticsの「ダッシュボードを管理 **[!UICONTROL 」の「アーカイブを表示]** 」設定は、2020年3月12日から使用できなくなります。 |
+| EOL of **[!UICONTROL Conversion Level]** setting | 2020 年 3 月 4 日 | 管理ツール/レポートスイート [](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html)**[!UICONTROL /アカウン]** ト設定一般のUIが機能しないコンバージョンレベル設定は、2020年3月12日に削除されます。 |
+| ダッシュボードアー **[!UICONTROL カイブのEOL]** | 2020 年 3 月 4 日 | **** Reports &amp; Analyticsの「ダッシュボードを管理 **[!UICONTROL 」の「アーカイブを表示]** 」設定は、2020年3月12日から使用できなくなります。 |
 | TLS 1.1 のサポート終了 | 2019 年 10 月 4 日 | 2020 年 3 月 31 日までに、Adobe Analytics は TLS 1.1 のサポートを削除します。この変更は、最高のセキュリティ標準を維持し、顧客データの安全性を高めるアドビの継続的な取り組みの一環としておこなわれます。 |
 | 新しい Adobe Analytics ドメイン | 2019 年 12 月 19 日 | 2020 年 1 月 17 日に、Adobe Analytics は新しいドメインへの移行を開始しました。`https://experience.adobe.com/analytics.`<br>**メモ&#x200B;**：この変更は、Adobe ID または Enterprise ID を使用して Analytics にアクセスするすべてのユーザーに適用されます。<ul><li>ドメインの変更により、Safari で Analytics を読み込む際に cookie の問題が発生する可能性があります。 のプライバシー設定で「_サイト越えトラッキングを防ぐ_」をオフにすると、ドメイン（およびすべてのクロスサイトエクスペリエンス）間で cookie が有効になり、Analytics がこの新しい Adobe Experience Cloud ドメインで機能するようになります。[!DNL Safari]You can use other browsers without issue because this affects only [!DNL Safari] users.</li><li>ドメインの変更により、[ある特定のケースにおいて](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html)、一部の顧客に対して [!UICONTROL Activity Map] が機能しなくなる場合があります。</li></ul> |
 | 提供終了 - Analytics レガシー API | 2020 年 1 月 10 日 | 2020 年 11 月に、以下の Analytics レガシー API サービスが提供終了となり、シャットダウンされます。これらのサービスを使用して構築された現在の統合は機能しなくなります。 <ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>ご質問に対する回答と進め方に関するガイダンスを提供するために、[従来の API EOL の FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe IO](https://console.adobe.io/home?mv=email) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API の両方にアクセスするために使用できます。 |
@@ -208,7 +208,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * **クラウドサービスとしてのAEM — ディスパッチャー**
 
-   ディスパッ [チャー、CDN](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#dispatcher-cdn) 、および [](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#explicit-invalidation) Explicit Dispatcherキャッシュの無効化の各セクションが更新され、使用可能なオプションとその動作方法が明確になりました。
+   ディスパッ [チャー、CDN](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#dispatcher-cdn) 、および [](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#explicit-invalidation) Explicit Dispatcherのキャッシュの無効化セクションが更新され、使用可能なオプションとその動作方法が明確になりました。
 
 * **Brand PortalでのAEM Assetsの設定**
 
