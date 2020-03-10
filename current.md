@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b58151e366ba9aef341a8bd6742d6275d5cd8b30
+source-git-commit: 2282dd7a9b0575021f2262e43f644af4b1dc3f0b
 
 ---
 
@@ -131,7 +131,7 @@ Adobe Analytics の新機能および修正点です。
 
 ### Adobe Analytics の新機能、機能強化および修正点 {#aa-features}
 
-* **Analysis Workspaceの複数のレポー[!UICONTROL トスイート&#x200B;]**:複数のレポートスイートのデータを単一の[!UICONTROL Analysis Workspaceプロジェクトに取り込んで]、並べて表示できるようになりました。 この機能は、数週間の間にすべてのお客様に提供されます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)
+* **Analysis Workspaceの複数のレポー[!UICONTROL トスイート&#x200B;]**:複数のレポートスイートのデータを単一の[!UICONTROL Analysis Workspace]Projectに取り込んで、並べて表示できるようになりました。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)
 * **Experience Cloudオーディエンスの最適化**:この機能を使用すると、以前の48時間の処理時間ではなく、8時間以内にセグメントをExperience Cloudに公開できます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-publish.html)
 * **Analysis Workspace — トレーニングチュートリアルテンプレート**:この新しい標準テンプレートでは、Workspaceで最初の分析を作成するための一般的な用語と手順を順を追って説明します。 これは、「新規プロジェクト」モーダルの標準テンプレートとして使用でき  、リストに他のプロジェクトを含まない新規ユーザー向けに、現在存在するサンプルプロジェクトを置き換えます。
 
