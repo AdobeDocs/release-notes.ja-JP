@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8cfd93b9e4e5800eb9222a78571ec89e546e6a6f
+source-git-commit: b58151e366ba9aef341a8bd6742d6275d5cd8b30
 
 ---
 
@@ -208,7 +208,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * **クラウドサービスとしてのAEM — ディスパッチャー**
 
-   ディスパッ [チャー、CDN](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#dispatcher-cdn) 、および [](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#explicit-invalidation) Explicit Dispatcherのキャッシュの無効化セクションが更新され、使用可能なオプションとその動作方法が明確になりました。
+   ディスパッ [チャー、CDN](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#dispatcher-cdn) 、および [](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#explicit-invalidation) Explicit Dispatcherキャッシュの無効化の各セクションが更新され、使用可能なオプションとその動作方法が明確になりました。
 
 * **Brand PortalでのAEM Assetsの設定**
 
@@ -245,6 +245,10 @@ Brand Portalで [のAEM Assetsの設定を参照してください](https://docs
 ## [!DNL Campaign] {#ac}
 
 Adobe Campaign は、オンラインおよびオフラインのマーケティングチャネルにわたって 1 対 1 のメッセージを届けるために直感的で自動化された方法を提供します。顧客の習慣や好みによって特定されたエクスペリエンスを利用して、顧客が欲しいものを予測できるようになりました。
+
+### Campaign Classic
+
+* [Campaign Classic 19.1.4の更新](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/previous-releases/release--19-1.html#release-19-1-4-build-9032)
 
 ### その他のリソース
 
