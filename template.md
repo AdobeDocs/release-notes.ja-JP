@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8486e0014a6ea57fca43ce2e95e0ac9762c170f7
+source-git-commit: 2fca65aeb62ff60e4776492857af064ec3ef707f
 
 ---
 
@@ -26,6 +26,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 * [Adobe System Status](#status)
 * [Experience Cloud および Experience Platform](#platform)
+* [旅のオーケストレーション](#journey)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -103,6 +104,14 @@ Experience Platform、Experience Platform Launch、ID サービスおよびセ�
 ### Experience Platform Launch {#launch}
 
 リリースノートおよび製品ドキュメントについては、[Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) を参照してください。
+
+## 旅のオーケストレーション {#journey}
+
+Adobe Experience Platformを使用すると、各顧客のニーズをリアルタイムでインテリジェントに予測し、旅程がどこまで行っても、顧客の個々のジャーニーをエクスペリエンスチャネル全体にわたって拡張できます。
+
+### その他のリソース
+
+[ドキュメント](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [リリースノート](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) — 使い方 [に関するビデオ](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ## [!DNL Analytics] {#analytics}
 
@@ -248,27 +257,15 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 * 修正
 * 修正
 
-## [!DNL Campaign {#ac}
+## [!DNL Campaign] {#ac}
 
 Adobe Campaign は、オンラインおよびオフラインのマーケティングチャネルにわたって 1 対 1 のメッセージを届けるために直感的で自動化された方法を提供します。顧客の習慣や好みによって特定されたエクスペリエンスを利用して、顧客が欲しいものを予測できるようになりました。
 
-| 機能 | 説明 |
-| -----------| ---------- |  
-| 機能 A | テキスト |
-| 機能 B | テキスト |
-| 機能 C | テキスト |
-
-**修正点**
-
-* 修正
-* 修正
-* 修正
-* 修正
-
-**その他のリソース**
+### その他のリソース
 
 * Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)- [リリース計画](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
 * Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
 ## Advertising Cloud {#adcloud}
 
@@ -363,7 +360,7 @@ Magent リリースノートについては、以下を参照してください�
 | Adobe Analytics | ビデオ — Adobe Analysis Workspace [によるビジネスの変更方法](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html) | Analysis Workspaceを使用して、Ad Hoc Analysis、柔軟な分析、コホート分析およびフォールアウト分析を実行する方法につい [!UICONTROL て説明します]。 また、分析作業環境を社内の全員と共有でき、ドラッグ&amp;ドロップ機能を使用すると、全員がデータを簡単に分析し、インサイトを迅速に得ることができます。 |
 | Adobe Analytics | ビデオ — お [客様の使用例：Home DepotがCustomer Experience Managementを革新](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.html) | アドビのソリューショ [!DNL Home Depot] ンを使用して、カスタマイズされた買い物体験でブランドへの忠誠度と顧客満足度を得る方法を説明します。 |
 | Adobe Analytics | プレゼンテーション — [顧客の遍歴分析について](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/understanding-customer-journey-analytics.html) | Adobeのアプリケーションサービスである [!UICONTROL Adobe Customer Jeurney]Analyticsが、 [!DNL Adobe Experience Platform]Analysis WorkspaceをExperience Platform  に組み込む方法を説明します。 この機能を使用すると、任意のデータセットに対するマルチチャネル分析を [!DNL Adobe Experience Platform] 有効にできます。 |
-| Adobe Analytics | ビデオ — CJA [でのチャネル間アトリビューション](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/cross-channel-attribution-in-customer-journey-analytics.html) | ビジュアライゼーションを使用して、Customer Jeurney Analyticsのチャネル間でアトリビューションを表示（クレジットを付与）する方 [!UICONTROL 法を説明します]。 |
+| Adobe Analytics | ビデオ — CJA [でのチャネル間アトリビューション](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/cross-channel-attribution-in-customer-journey-analytics.html) | ビジュアライゼーションを使用して、Customer Jeurney Analyticsのチャネル間でアトリビューションを表示（クレジットを与える）する方 [!UICONTROL 法を説明します]。 |
 | Adobe Analytics | 記事 — Adobe Analytics [の学習の遍歴を継続するための顧客のヒント](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.html) | Adobe Analyticsから最大の価値を得る方法に関するヒントやテクニックをお持ちのアドビの3人のお客様にお会いします。 |
 | Adobe Analytics | ビデオ — CJAでの [チャネル間ビジュアライゼーションの作成](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/creating-cross-channel-visualizations-in-customer-journey-analytics.html) | 顧客の遍歴分析 [!UICONTROL を使用すると] 、複数のチャネルにわたる複数のデータセットからのデータを含むビジュアライゼーション（訪問者あたりのデータの結合を含む）を作成できます。 |
 | Adobe Analytics | ビデオ — 計 [算指標をAdobe Analyticsから顧客の遍歴分析に移動](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.html) | Analytics計算指標を再作成する際のヒ [!UICONTROLCントを] Customer Jeurney Analytics [!UICONTROL で確認します]。 |
