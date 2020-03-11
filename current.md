@@ -5,12 +5,14 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e2cb2ca3bd773fb8d8de24142c876e5ed1f32e97
+source-git-commit: 6fa8ddb48734849f15490dce814b1fd8763051d3
 
 ---
 
 
 # 先行アクセス — Adobe Experience Cloudリリースノート — 2020年3月
+
+![バナー](/assets/experience-cloud-banner-3.png)
 
 [!DNL Adobe Experience Cloud] の新機能および修正点です。
 
@@ -22,13 +24,11 @@ source-git-commit: e2cb2ca3bd773fb8d8de24142c876e5ed1f32e97
 
 **リリース日：3 月 2020 日**
 
-（特定の製品のリリース日は変更される場合があります）
+最新の更新：2020年3月11日
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイスとコアサービス](#ecloud)
 * [Experience Platform](#platform)
-* [旅のオーケストレーション](#journey)
-* [Mobile Services および Mobile SDK](#mobile)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Adobe Experience Manager](#aem)
@@ -42,7 +42,9 @@ source-git-commit: e2cb2ca3bd773fb8d8de24142c876e5ed1f32e97
 
 ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)を参照してください。
 
-## Adobe システムステータス {#status}
+（特定の製品のリリース日は私の日付と異なります）。
+
+## ![Icon](/assets/adobe.png) Adobe System Status {#status}
 
 [!UICONTROL Adobe システムステータス] は、アドビクラウド製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/) でご確認ください。
 
@@ -58,7 +60,7 @@ source-git-commit: e2cb2ca3bd773fb8d8de24142c876e5ed1f32e97
 | ユーザーの好みに基づくパーソナライズされたエクスペリエンス | <ul><li>ブラウザーの設定に基づくタイムゾーンの設定は、電子メール通知で使用されます。</li><li>選択したすべての環境設定で、購読/登録解除時に電子メールの確認が送信されました。</li></ul> |
 | イベントメッセージの配信の向上 | <ul><li>イベント履歴を時系列のイベントの更新に基づいて並べ替えました。</li><li>メジャー/マイナークローズド雑誌号に追加されたイベント解決のタイムスタンプ。</li></ul> |
 
-## Experience Cloud インターフェイスとコアサービス {#ecloud}
+## ![Icon](/assets/experience-cloud.png) Experience Cloudインターフェイスとコアサービス {#ecloud}
 
 Experience Cloud インターフェイスの新機能および修正点です。管理およびコアサービス（顧客属性、オーディエンス、トリガー、cookie など）が含まれます。
 
@@ -84,29 +86,31 @@ Experience Cloud インターフェイスの新機能および修正点です。
 
 For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) help.
 
-## Experience Platform {#platform}
+## ![Icon](/assets/platform.png) Experience Platform {#platform}
 
 Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] and security bulletins.
 
 * [Experience Platform リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
+* [旅のオーケストレーション](#journey)
+* [Mobile Services および Mobile SDK](#mobile)
 * [セキュリティ速報および情報](https://helpx.adobe.com/security.html)（すべてのアドビ製品）
 
 ### Experience Platform Launch {#launch}
 
 リリースノートおよび製品ドキュメントについては、[Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) を参照してください。
 
-## 旅のオーケストレーション {#journey}
+### 旅のオーケストレーション {#journey}
 
 Adobe Experience Platformを使用すると、各顧客のニーズをリアルタイムでインテリジェントに予測し、各顧客の遍歴がどこに到達しても、顧客の個々のジャーニーをエクスペリエンスチャネル全体にわたって拡張できます。
 
 第1四半期のリリースが公開されました。 [詳細情報](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html#q1-release---march-2020)
 
-### その他のリソース
+**その他のリソース**
 
 [ドキュメント](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [リリースノート](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) — 使い方 [に関するビデオ](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
-## Mobile Services および Mobile SDK {#mobile}
+### Mobile Services および Mobile SDK {#mobile}
 
 **iOS v4.19.1**
 
@@ -117,7 +121,7 @@ Adobe Experience Platformを使用すると、各顧客のニーズをリアル�
 
 * [!DNL Target]  — セ [!DNL Target] ッションIDは、Adobe Analyticsに送信される内部 [!UICONTROL Analytics-for-Targetヒットに、コンテキストデータパラメーター「a.target.sessionId] 」として追加されます。
 
-## [!DNL Analytics] {#analytics}
+## ![アイコン](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
 リリース日：**2020 年 3 月 12 日**
 
@@ -160,7 +164,7 @@ Adobe Analytics の新機能および修正点です。
 
 「[JavaScript 版 AppMeasurement リリースノート](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html)」を参照してください。バージョン2.20.0は、2020年3月5日にリリースされました。
 
-## Audience Manager {#aam}
+## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
 Audience Managerの新機能と更新点：
 
@@ -172,7 +176,7 @@ Audience Managerの新機能と更新点：
 * セグメントAPIで、説明のない一部のセグメントが原因で  、ユーザーがこれらのセグメントにアクセスしようとするとインターフェイスがフリーズし、そのページから移動しないというバグを修正しました。 （AAM-53071）
 * インターフェイス全体で複数のアクセシビリティの改善が行われました。 (AAM-48952、AAM-48969、AAM-48979、AAM-48993、AAM-49048、AAM-49057、AAM-49058,AAM-49392)
 
-## Adobe Experience Manager {#aem}
+## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
 Adobe Experience Manager（AEM）の新機能、修正点および更新です。安定性、セキュリティ、パフォーマンスを高めるために、オンプレミス環境のお客様には最新のパッチをデプロイすることをお勧めします。
 
@@ -208,7 +212,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * **クラウドサービスとしてのAEM — ディスパッチャー**
 
-   ディスパッ [チャー、CDN](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#dispatcher-cdn) 、および [](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#explicit-invalidation) Explicit Dispatcherのキャッシュの無効化セクションが更新され、使用可能なオプションとその動作方法が明確になりました。
+   ディスパッ [チャー、CDN](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#dispatcher-cdn) 、および [](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/dispatcher/overview.html#explicit-invalidation) Explicit Dispatcherキャッシュの無効化の各セクションが更新され、使用可能なオプションとその動作方法が明確になりました。
 
 * **Brand PortalでのAEM Assetsの設定**
 
@@ -242,7 +246,7 @@ Brand Portalで [のAEM Assetsの設定を参照してください](https://docs
 * [Dynamic Media リリースノート](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre リリースノート](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
-## [!DNL Campaign] {#ac}
+## ![アイコン](/assets/campaign.png) [!DNL Campaign] {#ac}
 
 Adobe Campaign は、オンラインおよびオフラインのマーケティングチャネルにわたって 1 対 1 のメッセージを届けるために直感的で自動化された方法を提供します。顧客の習慣や好みによって特定されたエクスペリエンスを利用して、顧客が欲しいものを予測できるようになりました。
 
@@ -256,7 +260,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 * Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
-## Advertising Cloud {#adcloud}
+## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
 更新日：2020 年 2 月 11 日（2 月 9 日のリリース）:
 
@@ -266,14 +270,14 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 | [!UICONTROL 検索] /一括 [!UICONTROL シート] | Bulksheets を使用して、Google レスポンシブ検索広告（RSA）を作成、編集、削除できるようになりました。以前は、標準キャンペーン管理インターフェイスの&#x200B;**[!UICONTROL 検索]**／**[!UICONTROL キャンペーンで]**&#x200B;のみサポートされていました。 |
 | [!UICONTROL 検索] /キャ [!UICONTROL ンペーン、レポート] | Google 広告の掲載順位の指標「`Impr. (Top) %` および `Impr. (Abs. Top) %`」をすべての基本レポート、およびエンティティレベルのキャンペーン管理ビューで使用できるようになりました（ただし、買い物製品グループの場合や、[!UICONTROL Campaign Daily Impression Share] レポート、[!UICONTROL Keyword Daily Impression Share] レポート、およびラベルビューと制約ビューを除く）。 |
 
-## [!DNL Magento] {#magento}
+## ![アイコン](/assets/magento.png) [!DNL Magento] {#magento}
 
 Magent リリースノートについては、以下を参照してください。
 
 * [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
 * [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
 
-## [!DNL Marketo] {#marketo}
+## ![アイコン](/assets/marketo.png) [!DNL Marketo] {#marketo}
 
 [!DNL Marketo Engage] は、複雑な購入ジャーニーの各ステージを通じてエンゲージメントをおこなうことで顧客体験を変えようとしているリード管理や B2B マーケター向けの完全なソリューションです。
 
@@ -310,7 +314,7 @@ Magent リリースノートについては、以下を参照してください�
 
 これまでのリリースノートと過去のリリースノートについては、[Marketo リリースノート](https://docs.marketo.com/x/CgA6Ag)を参照してください。
 
-## 新しいドキュメントとチュートリアル {#selfhelp}
+## ![Icon](/assets/experience-cloud.png) New documentation and tutorials {#selfhelp}
 
 新しいおよび最近のセルフヘルプ記事とビデオ。 <!--`https://jira.corp.adobe.com/secure/Dashboard.jspa?selectPageId=60327`-->
 
