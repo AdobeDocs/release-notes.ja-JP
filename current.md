@@ -10,7 +10,7 @@ source-git-commit: 01f2d4ae03be92da8d5d6feb1900cd4901a1b142
 ---
 
 
-# Adobe Experience Cloudリリースノート — 2020年3月
+# Adobe Experience Cloudリリースノート — 2020 年 3 月
 
 ![バナー](/assets/experience-cloud-banner-3.png)
 
@@ -22,9 +22,9 @@ source-git-commit: 01f2d4ae03be92da8d5d6feb1900cd4901a1b142
 >[!NOTE]
 >[[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。リリース後に発表された新情報には、更新の日付が明記されます。
 
-**リリース日：3 月 2020 日**
+**リリース日：2020 年 3 月**
 
-最新の更新：2020年3月11日
+最新の更新：2020 年 3 月 11 日
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイスとコアサービス](#ecloud)
