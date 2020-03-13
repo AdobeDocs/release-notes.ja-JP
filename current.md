@@ -34,10 +34,10 @@ source-git-commit: 01f2d4ae03be92da8d5d6feb1900cd4901a1b142
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（ソリューションヘルプへのリンク）
 * [!DNL Advertising Cloud](#adcloud)
 * [!DNL Magento](#magento)
 * [!DNL Marketo](#marketo)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（ソリューションヘルプへのリンク）
 * [新しいドキュメントとチュートリアル](#selfhelp)
 
 ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)を参照してください。
@@ -88,7 +88,7 @@ Experience Cloud インターフェイスの新機能および修正点です。
 
 ## ![Icon](/assets/platform.png) Experience Platform {#platform}
 
-[!UICONTROL Experience Platform]、[!UICONTROL Experience Platform Launch]、[!UICONTROL ID サービス]およびセキュリティ速報のリリースノートです。
+Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] Journey Orchestration, Mobile Services, and security bulletins.
 
 * [Experience Platform リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
@@ -106,7 +106,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 第 1 四半期のリリースが公開されました。[詳細を表示](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html#q1-release---march-2020)
 
-**その他のリソース**
+#### その他のリソース 旅のオーケストレーション
 
 [ドキュメント](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [リリースノート](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
