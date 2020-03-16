@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 01f2d4ae03be92da8d5d6feb1900cd4901a1b142
+source-git-commit: 53e2135044074e22470887540fb641262c607bd3
 
 ---
 
@@ -26,12 +26,12 @@ Adobe Experience Cloud の新機能および修正点です。
 
 **リリース日：2020 年**
 
-* [Adobe システムステータス](#status)
-* [Experience Cloudとコアサービス](#ecloud)
+* [[!DNL Adobe]システムステータス](#status)
+* [[!DNL Experience Cloud]とコアサ [!UICONTROL ービス]](#ecloud)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics)
-* [Audience Manager](#aam)
-* [Experience Manager](#aem)
+* [[!DNL Audience Manager]](#aam)
+* [[!DNL Experience Manager]](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
 * [!DNL Advertising Cloud](#adcloud)
@@ -48,14 +48,14 @@ Adobe Experience Cloud の新機能および修正点です。
 
 [Adobe システムステータス](https://status.adobe.com/)を参照してください。
 
-## Experience Cloud and core services{#ecloud}
+## [!DNL Experience Cloud] およびコ [!UICONTROL アサービス]{#ecloud}
 
 Experience Cloud インターフェイスの新機能および修正点です。管理およびコアサービス（顧客属性、オーディエンス、トリガー、cookie など）が含まれます。
 
-* [Experience Cloud コアサービス](#core-services)
+* [[!UICONTROL コアサービス]](#core-services)
 * [管理および開発者](#admin)
 
-### Experience Cloud Core services {#core-services}
+### [!UICONTROL コアサービス] {#core-services}
 
 機能と修正点。
 
@@ -67,9 +67,9 @@ Experience Cloud インターフェイスの新機能および修正点です。
 
 製品ドキュメントについては、「[ユーザーと製品の管理](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html)」を参照してください。
 
-## Experience Platform {#platform}
+## [!UICONTROL Experience Platform] {#platform}
 
-Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] Journey Orchestration, Mobile Services, and security bulletins.
+Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] [!UICONTROL Journey Orchestration,] [!UICONTROL Mobile Services,] and security bulletins.
 
 * [Experience Cloud ID サービス](#ecid)
 * [Experience Platform リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
@@ -78,25 +78,25 @@ Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience P
 * [Mobile Services および Mobile SDK](#mobile)
 * [セキュリティ速報および情報](https://helpx.adobe.com/security.html)（すべてのアドビ製品）
 
-### Experience Cloud ID サービス {#ecid}
+### [!UICONTROL Experience Cloud ID サービス] {#ecid}
 
 機能と修正点。
 
 製品ドキュメントについては、[Experience Cloud ID サービス](https://marketing.adobe.com/resources/help/en_US/mcvid/)を参照してください。
 
-### Experience Platform Launch {#launch}
+### [!UICONTROL Experience Platform Launch] {#launch}
 
 リリースノートおよび製品ドキュメントについては、[Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) を参照してください。
 
-### ジャーニーオーケストレーション {#journey}
+### [!UICONTROL ジャーニーオーケストレーション] {#journey}
 
-Adobe Experience Platform を使用すると、それぞれの顧客のニーズをリアルタイムでインテリジェントに予測し、どのようなジャーニーをたどっていても、個別カスタマージャーニーをエクスペリエンスチャネル全体で大規模に編成することができます。
+Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual&#39;s needs in real time, wherever their journey takes them.
 
-#### Jargeny Orchestrationの追加リソース
+#### Jargeny Orchestrationの追加リ [!UICONTROL ソース]
 
 [ドキュメント](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [リリースノート](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
-### Mobile Services および Mobile SDK {#mobile}
+### [!UICONTROL Mobile Services および Mobile SDK] {#mobile}
 
 **機能**
 
@@ -131,7 +131,7 @@ Adobe Analytics の新機能および修正点です。
 | 機能 B | テキスト |
 | 機能 C | テキスト |
 
-### [!DNL Media Analytics]iOS および Android 用の SDK（以前の VHL SDK） {#aa-va}
+### [!DNL Media Analytics] SDK for [!DNL iOS] &amp; [!DNL Android] （旧称VHL SDK） {#aa-va}
 
 | 機能 | 説明 |
 | -----------| ---------- |  
@@ -160,18 +160,18 @@ Adobe Analytics の新機能および修正点です。
 
 次のプラットフォームの AppMeasurement のリリース履歴については、[AppMeasurement リリース履歴](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html)を参照してください。
 
-* JavaScript
-* iOS
-* Android
-* Flash-Flex
-* OSX
-* Windows Phone、Xbox、Silverlight および .NET
+* [!DNL JavaScript]
+* [!DNL iOS]
+* [!DNL Android]
+* [!DNL Flash-Flex]
+* [!DNL OSX]
+* [!DNL Windows Phone,] [!DNL XBOX,] お [!DNL Silverlight,] よび [!DNL .NET]
 * [!DNL BlackBerry]
 * Java
 * PHP
 * Symbian
 
-## Audience Manager {#aam}
+## [!DNL Audience Manager] {#aam}
 
 | 機能 | 説明 |
 | -----------| ---------- |  
@@ -186,7 +186,7 @@ Adobe Analytics の新機能および修正点です。
 * 修正
 * 修正
 
-## Experience Manager {#aem}
+## [!DNL Experience Manager] {#aem}
 
 Adobe Experience Manager（AEM）の新機能、修正点および更新です。安定性、セキュリティ、パフォーマンスを高めるために、オンプレミス環境のお客様には最新のパッチをデプロイすることをお勧めします。
 
@@ -227,7 +227,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 * [Scene7 Publishing System リリースノート](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre リリースノート](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
-### Livefyre {#livefyre}
+### [!DNL Livefyre] {#livefyre}
 
 | 機能 | 説明 |
 | -----------| ---------- |  
@@ -267,7 +267,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 * Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
-## Advertising Cloud {#adcloud}
+## [!DNL Advertising Cloud] {#adcloud}
 
 | 機能 | 説明 |
 | -----------| ---------- |  
@@ -284,7 +284,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ## [!DNL Magento] {#magento}
 
-Magent リリースノートについては、以下を参照してください。
+For [!DNL Magento] release notes, see:
 
 * [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
 * [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
@@ -293,7 +293,7 @@ Magent リリースノートについては、以下を参照してください�
 
 [!DNL Marketo Engage] は、複雑な購入ジャーニーの各ステージを通じてエンゲージメントをおこなうことで顧客体験を変えようとしているリード管理や B2B マーケター向けの完全なソリューションです。
 
-### Core Marketo Engage の更新
+### コアの更 [!DNL Marketo Engage] 新
 
 リリース日：2020 年 2 月 22 日
 
@@ -359,7 +359,7 @@ Magent リリースノートについては、以下を参照してください�
 | Adobe Analytics | ビデオ - [Adobe Sensei と Adobe Analytics - 拡張バージョン](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.html) | Adobe [!DNL Sensei,] を活用した Adobe Analytics の主な機能（[!UICONTROL 以上値検出]、[!UICONTROL 貢献度分析、][!UICONTROL インテリジェントアラート、][!UICONTROL クラスタリング]、[!UICONTROL Segment IQ、]および[!UICONTROL 傾向モデル]）を見る |
 | Adobe Analytics | ビデオ - [Adobe Analysis Workspace によってビジネスが変わる仕組み](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html) | [!UICONTROL Analysis Workspace] を使用して、Ad Hoc Analysis、柔軟な分析、コホート分析、およびフォールアウト分析を実行する方法について説明します。また、分析作業環境を社内の全員と共有でき、ドラッグ&amp;ドロップ機能を使用すると、全員がデータを簡単に分析し、インサイトを迅速に得ることができます。 |
 | Adobe Analytics | ビデオ - [お客様の使用例：Home Depot が Customer Experience Management を使用して革新](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.html) | [!DNL Home Depot] アドビのソリューションを使用して、パーソナライズされたカスタムのショッピングエクスペリエンスにより、ブランドのロイヤルティと顧客満足度を生み出した方法を説明します。 |
-| Adobe Analytics | プレゼンテーション - [カスタマージャーニー分析について](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/understanding-customer-journey-analytics.html) | [!DNL Adobe Experience Platform] を元に構築された Adobe のアプリケーションサービスである[!UICONTROL カスタマージャーニー分析]によって、エクスペリエンスプラットフォームに [!UICONTROL Analysis Workspace] を組み込む方法について説明します。この機能を使用すると、[!DNL Adobe Experience Platform] データセットでマルチチャネル分析を使用できるようになります。 |
+| Adobe Analytics | プレゼンテーション - [カスタマージャーニー分析について](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/understanding-customer-journey-analytics.html) | [!DNL Adobe Experience Platform] を元に構築された Adobe のアプリケーションサービスである[!UICONTROL カスタマージャーニー分析]によって、Experience Platformに [!UICONTROL Analysis Workspace] を組み込む方法について説明します。この機能を使用すると、[!DNL Adobe Experience Platform] データセットでマルチチャネル分析を使用できるようになります。 |
 | Adobe Analytics | ビデオ - [CJA でのクロスチャネルアトリビューション](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/cross-channel-attribution-in-customer-journey-analytics.html) | ビジュアライゼーションを使用して、[!UICONTROL カスタマージャーニー分析]のチャネル間でアトリビューションを表示する（クレジットを与える）方法について説明します。 |
 | Adobe Analytics | 記事 - [Adobe Analytics のラーニングジャーニーを継続するためのお客様向けヒント](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.html) | Adobe Analytics を最大限活用する方法に関するヒントやテクニックをお持ちの、アドビの 3 人のお客様を紹介します。 |
 | Adobe Analytics | ビデオ - [CJA でのクロスチャネルビジュアライゼーションの作成](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/creating-cross-channel-visualizations-in-customer-journey-analytics.html) | [!UICONTROL カスタマージャーニー分析]を使用すれば、複数のチャネルをまたいだ複数のデータセットのデータを含むビジュアライゼーション（訪問者あたりのデータの結合を含む）を作成できます。 |
