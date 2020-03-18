@@ -5,12 +5,12 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 01f2d4ae03be92da8d5d6feb1900cd4901a1b142
+source-git-commit: e73b72e29cc5b953fe908623d54a9daf486a7ffc
 
 ---
 
 
-# Adobe Experience Cloudリリースノート — 2020 年 3 月
+# Adobe Experience Cloud リリースノート - 2020 年 3 月
 
 ![バナー](/assets/experience-cloud-banner-3.png)
 
@@ -22,9 +22,9 @@ source-git-commit: 01f2d4ae03be92da8d5d6feb1900cd4901a1b142
 >[!NOTE]
 >[[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。リリース後に発表された新情報には、更新の日付が明記されます。
 
-**リリース日：2020 年 3 月**
+**リリース日：3 月 2020 日**
 
-最新の更新：2020 年 3 月 11 日
+最終更新日：2020 年 3 月 11 日
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイスとコアサービス](#ecloud)
@@ -42,11 +42,11 @@ source-git-commit: 01f2d4ae03be92da8d5d6feb1900cd4901a1b142
 
 ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)を参照してください。
 
-（特定の製品のリリース日は私の日付と異なります）。
+（特定の製品のリリース日は変更される場合があります）
 
-## ![Icon](/assets/adobe.png) Adobe System Status {#status}
+## ![アイコン](/assets/adobe.png) Adobe システムステータス{#status}
 
-[!UICONTROL Adobe システムステータス] は、アドビクラウド製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/) でご確認ください。
+[!UICONTROL Adobe システムステータス]は、アドビクラウド製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/) でご確認ください。
 
 **最新情報**
 
@@ -60,7 +60,7 @@ source-git-commit: 01f2d4ae03be92da8d5d6feb1900cd4901a1b142
 | ユーザーの好みに基づいてパーソナライズされたエクスペリエンス | <ul><li>電子メール通知では、ブラウザーの設定に基づいたタイムゾーン設定を使用します。</li><li>選択したすべての環境設定で、登録／登録解除時に電子メールの確認が送信されていました。</li></ul> |
 | イベントメッセージの配信の向上 | <ul><li>時系列のイベントの更新に基づいてイベント履歴を並べ替えました。</li><li>大規模／小規模な解決済みの問題に、イベント解決のタイムスタンプを追加しました。</li></ul> |
 
-## ![Icon](/assets/experience-cloud.png) Experience Cloudインターフェイスとコアサービス {#ecloud}
+## ![アイコン](/assets/experience-cloud.png) Experience Cloud インターフェイスとコアサービス{#ecloud}
 
 Experience Cloud インターフェイスの新機能および修正点です。管理およびコアサービス（顧客属性、オーディエンス、トリガー、cookie など）が含まれます。
 
@@ -135,8 +135,8 @@ Adobe Analytics の新機能および修正点です。
 
 ### Adobe Analytics の新機能、機能強化および修正点 {#aa-features}
 
-* **Analysis Workspaceの複数のレポー[!UICONTROL トスイート&#x200B;]**:複数のレポートスイートのデータを単一の[!UICONTROL Analysis Workspace]Projectに取り込んで、並べて表示できるようになりました。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)
-* **Experience Cloud オーディエンスの最適化**：この機能を使用すると、8 時間以内にセグメントを Experience Cloud に公開できます（以前は処理に 48 時間かかっていました）。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-publish.html)
+* **[!UICONTROL Analysis Workspace ]** の複数のレポートスイート：複数のレポートスイートのデータを単一の[!UICONTROL Analysis Workspace]プロジェクトに取り込み、パネルを横に並べて表示できるようになりました。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)
+* **Experience Cloud Audience Optimization**：この機能を使用すると、8 時間以内にセグメントを Experience Cloud に公開できます（以前は処理に 48 時間かかっていました）。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-publish.html)
 * **Analysis Workspace - トレーニングチュートリアルテンプレート**：この新しい標準テンプレートでは、Workspace で最初の分析を作成するための一般的な用語と手順を順に説明します。これは、「[!UICONTROL 新規プロジェクト]」モーダルの標準テンプレートとして使用でき、リストに他のプロジェクトがない新規ユーザー向けにある、サンプルプロジェクトを置き換えます。
 
 #### 修正点
@@ -167,6 +167,10 @@ Adobe Analytics の新機能および修正点です。
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
 Audience Manager の新機能とアップデート：
+
+| 機能 | 説明 |
+| -----------| ---------- |
+| [バルク管理ツールのワークシート](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | 新しいバージョンのワークシートを利用できるので、Windows 64ビットオペレーティングシステムでアルゴリズムモデルを作成する際に、一部のお客様が直面していた問題を修正できます。 最新バージョンはこちらからダウンロ [ードしま](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/assets/BAAAM_V2_20200311.xlsm)す。 |
 
 ### 修正点および改善点 {#aam-fixes-and-improvements}
 
@@ -232,7 +236,7 @@ AEM 6.5、Service Pack 4.0（2020 年 3 月 5 日リリース 6.5.4.0）は、20
 * **AEM スキルビルダーウェビナー**
 
    * AEM Sites - 2020 年 3 月 18 日開始。コンテンツオーサリングの構成要素、および AEM Sites の基本概念と操作について学習します。[今すぐ登録](https://aemskillbuilder-sites.experienceleague.adobeevents.com/register)。
-   * AEM Assets - 2020 年 3 月 20 日開始。デジタルアセット管理に関する専門知識を磨くだけでなく、ブランドポータル、[!UICONTROL Dynamic Media、][!UICONTROL Asset Link] などの基本的な機能を習得します。[今すぐ登録](https://aemskillbuilder-assets.experienceleague.adobeevents.com/register)。
+   * AEM Assets - 2020 年 3 月 20 日開始。デジタルアセット管理に関する専門知識を磨くだけでなく、ブランドポータル、[!UICONTROL Dynamic Media]、[!UICONTROL Asset Link] などの基本的な機能を習得します。[今すぐ登録](https://aemskillbuilder-assets.experienceleague.adobeevents.com/register)。
 
 ### その他のリソース
 
@@ -315,7 +319,7 @@ Magent リリースノートについては、以下を参照してください�
 
 これまでのリリースノートと過去のリリースノートについては、[Marketo リリースノート](https://docs.marketo.com/x/CgA6Ag)を参照してください。
 
-## ![Icon](/assets/experience-cloud.png) New documentation and tutorials {#selfhelp}
+## ![アイコン](/assets/experience-cloud.png)新しいドキュメントとチュートリアル {#selfhelp}
 
 新着および最近のセルフヘルプ記事とビデオ。<!--`https://jira.corp.adobe.com/secure/Dashboard.jspa?selectPageId=60327`-->
 
@@ -348,7 +352,7 @@ Magent リリースノートについては、以下を参照してください�
 | Adobe Analytics | ビデオ - [Adobe Sensei と Adobe Analytics - 拡張バージョン](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.html) | Adobe [!DNL Sensei,] を活用した Adobe Analytics の主な機能（[!UICONTROL 以上値検出]、[!UICONTROL 貢献度分析、][!UICONTROL インテリジェントアラート、][!UICONTROL クラスタリング]、[!UICONTROL Segment IQ、]および[!UICONTROL 傾向モデル]）を見る |
 | Adobe Analytics | ビデオ - [Adobe Analysis Workspace によってビジネスが変わる仕組み](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html) | [!UICONTROL Analysis Workspace] を使用して、Ad Hoc Analysis、柔軟な分析、コホート分析、およびフォールアウト分析を実行する方法について説明します。また、分析作業環境を社内の全員と共有でき、ドラッグ&amp;ドロップ機能を使用すると、全員がデータを簡単に分析し、インサイトを迅速に得ることができます。 |
 | Adobe Analytics | ビデオ - [お客様の使用例：Home Depot が Customer Experience Management を使用して革新](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.html) | [!DNL Home Depot] アドビのソリューションを使用して、パーソナライズされたカスタムのショッピングエクスペリエンスにより、ブランドのロイヤルティと顧客満足度を生み出した方法を説明します。 |
-| Adobe Analytics | プレゼンテーション - [カスタマージャーニー分析について](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/understanding-customer-journey-analytics.html) | [!DNL Adobe Experience Platform] を元に構築された Adobe のアプリケーションサービスである[!UICONTROL カスタマージャーニー分析]によって、エクスペリエンスプラットフォームに [!UICONTROL Analysis Workspace] を組み込む方法について説明します。この機能を使用すると、[!DNL Adobe Experience Platform] データセットでマルチチャネル分析を使用できるようになります。 |
+| Adobe Analytics | プレゼンテーション - [カスタマージャーニー分析について](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/understanding-customer-journey-analytics.html) | [!DNL Adobe Experience Platform] を元に構築された Adobe のアプリケーションサービスである[!UICONTROL カスタマージャーニー分析]によって、Experience Platformに [!UICONTROL Analysis Workspace] を組み込む方法について説明します。この機能を使用すると、[!DNL Adobe Experience Platform] データセットでマルチチャネル分析を使用できるようになります。 |
 | Adobe Analytics | ビデオ - [CJA でのクロスチャネルアトリビューション](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/cross-channel-attribution-in-customer-journey-analytics.html) | ビジュアライゼーションを使用して、[!UICONTROL カスタマージャーニー分析]のチャネル間でアトリビューションを表示する（クレジットを与える）方法について説明します。 |
 | Adobe Analytics | 記事 - [Adobe Analytics のラーニングジャーニーを継続するためのお客様向けヒント](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.html) | Adobe Analytics を最大限活用する方法に関するヒントやテクニックをお持ちの、アドビの 3 人のお客様を紹介します。 |
 | Adobe Analytics | ビデオ - [CJA でのクロスチャネルビジュアライゼーションの作成](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/creating-cross-channel-visualizations-in-customer-journey-analytics.html) | [!UICONTROL カスタマージャーニー分析]を使用すれば、複数のチャネルをまたいだ複数のデータセットのデータを含むビジュアライゼーション（訪問者あたりのデータの結合を含む）を作成できます。 |
