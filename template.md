@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 53e2135044074e22470887540fb641262c607bd3
+source-git-commit: 78a2b7841c4b404cc96b912cef2a3702c7e29ec8
 
 ---
 
@@ -26,18 +26,18 @@ Adobe Experience Cloud の新機能および修正点です。
 
 **リリース日：2020 年**
 
-* [[!DNL Adobe]システムステータス](#status)
-* [[!DNL Experience Cloud]とコアサ [!UICONTROL ービス]](#ecloud)
+* [Adobe システムステータス](#status)
+* [Experience Cloudとコアサ [!UICONTROL ービス]](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics)
-* [[!DNL Audience Manager]](#aam)
-* [[!DNL Experience Manager]](#aem)
-* [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
-* [!DNL Advertising Cloud](#adcloud)
-* [!DNL Magento](#magento)
-* [!DNL Marketo](#marketo)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（ソリューションヘルプへのリンク）
+* [Analytics](#analytics)
+* [Audience Manager](#aam)
+* [Experience Manager](#aem)
+* [Campaign](#ac)
+* [Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
+* [Advertising Cloud](#adcloud)
+* [Magento](#magento)
+* [マーケト](#marketo)
+* [Primetime](https://helpx.adobe.com/primetime/user-guide.html)（ソリューションヘルプへのリンク）
 * [新しいドキュメントとチュートリアル](#selfhelp)
 
 ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html)を参照してください。
@@ -48,7 +48,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 [Adobe システムステータス](https://status.adobe.com/)を参照してください。
 
-## [!DNL Experience Cloud] およびコ [!UICONTROL アサービス]{#ecloud}
+## Experience Cloud and [!UICONTROL core services]{#ecloud}
 
 Experience Cloud インターフェイスの新機能および修正点です。管理およびコアサービス（顧客属性、オーディエンス、トリガー、cookie など）が含まれます。
 
@@ -113,7 +113,7 @@ Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer jo
 
 Mobile SDK について詳しくは、[Experience Solutions 用 Android SDK 4.x](https://marketing.adobe.com/resources/help/en_US/mobile/android/) および [Experience Cloud Solutions 用 iOS SDK 4.x](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html) を参照してください。
 
-## [!DNL Analytics] {#analytics}
+## Analytics {#analytics}
 
 Adobe Analytics の新機能および修正点です。
 
@@ -139,7 +139,7 @@ Adobe Analytics の新機能および修正点です。
 | 機能 B | テキスト |
 | 機能 C | テキスト |
 
-### [!DNL Data Workbench] {#aa-dwb}
+### Data Workbench {#aa-dwb}
 
 最新のリリース情報については、[Data Workbench リリースノート](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/)を参照してください。
 
@@ -171,7 +171,7 @@ Adobe Analytics の新機能および修正点です。
 * PHP
 * Symbian
 
-## [!DNL Audience Manager] {#aam}
+## Audience Manager {#aam}
 
 | 機能 | 説明 |
 | -----------| ---------- |  
@@ -186,7 +186,7 @@ Adobe Analytics の新機能および修正点です。
 * 修正
 * 修正
 
-## [!DNL Experience Manager] {#aem}
+## Experience Manager {#aem}
 
 Adobe Experience Manager（AEM）の新機能、修正点および更新です。安定性、セキュリティ、パフォーマンスを高めるために、オンプレミス環境のお客様には最新のパッチをデプロイすることをお勧めします。
 
@@ -242,7 +242,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 * 修正
 * 修正
 
-## [!DNL Social] {#soc}
+## Social {#soc}
 
 | 機能 | 説明 |
 | -----------| ---------- |  
@@ -257,7 +257,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 * 修正
 * 修正
 
-## [!DNL Campaign] {#ac}
+## Campaign {#ac}
 
 Adobe Campaign は、オンラインおよびオフラインのマーケティングチャネルにわたって 1 対 1 のメッセージを届けるために直感的で自動化された方法を提供します。顧客の習慣や好みによって特定されたエクスペリエンスを利用して、顧客が欲しいものを予測できるようになりました。
 
@@ -267,7 +267,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 * Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
-## [!DNL Advertising Cloud] {#adcloud}
+## Advertising Cloud {#adcloud}
 
 | 機能 | 説明 |
 | -----------| ---------- |  
@@ -282,18 +282,18 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 * 修正
 * 修正
 
-## [!DNL Magento] {#magento}
+## Magento {#magento}
 
-For [!DNL Magento] release notes, see:
+Magent リリースノートについては、以下を参照してください。
 
 * [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
 * [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
 
-## [!DNL Marketo] {#marketo}
+## マーケト {#marketo}
 
-[!DNL Marketo Engage] は、複雑な購入ジャーニーの各ステージを通じてエンゲージメントをおこなうことで顧客体験を変えようとしているリード管理や B2B マーケター向けの完全なソリューションです。
+Marketo Engageは、複雑な購入の遍歴のあらゆる段階を通じて顧客体験を変えることを目指す、リード管理とB2Bマーケター向けの包括的なソリューションです。
 
-### コアの更 [!DNL Marketo Engage] 新
+### Core Marketo Engage の更新
 
 リリース日：2020 年 2 月 22 日
 
@@ -304,7 +304,7 @@ For [!DNL Magento] release notes, see:
    * ランディングページリダイレクトルール API
 * **フォーム記述子のキャッシュ：**&#x200B;ランディングページとフォームの改善を改善しました。
 
-詳しくは、[2020 年 2 月](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720)の [!DNL Marketo] リリースノートを参照してください。
+See Marketo release notes for [February 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) for more information.
 
 ### 予定されている機能
 
