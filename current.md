@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5246ec08b9a04fcbdfff401dc214256185faaf2d
+source-git-commit: 745a054c15f05d7957e8c98b8adfa41b665b6fa6
 
 ---
 
@@ -268,7 +268,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
-更新日：2020 年 2 月 11 日（2 月 9 日のリリース）:
+2020年3月20日、3月21日リリース用に更新：
 
 | 表示 | 機能 |
 |------|---------|
