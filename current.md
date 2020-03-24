@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 745a054c15f05d7957e8c98b8adfa41b665b6fa6
+source-git-commit: 11dd1c361df84ef52b54734e2cbd231fce0cfda3
 
 ---
 
@@ -151,7 +151,7 @@ Adobe Analytics の新機能および修正点です。
 
 ### [!DNL Analytics] 管理者向けの重要な注意事項 {#aa-notices}
 
-| 通知 | 追加日または更新日 | 説明 |
+| 通知 | 追加または更新日 | 説明 |
 | -----------| ---------- | ---------- |
 | **[!UICONTROL コンバージョンレベル]**&#x200B;設定のサポート終了 | 2020 年 3 月 4 日 | **[!UICONTROL 管理ツール]／[!UICONTROL レポートスイート]／[!UICONTROL 一般的なアカウント設定]**&#x200B;で、機能しない[コンバージョンレベル](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html)設定は、2020 年 3 月 13 日に UI から削除されます。 |
 | **[!UICONTROL ダッシュボードアーカイブ]**&#x200B;のサービス終了 | 2020 年 3 月 4 日 | [!UICONTROL Reports &amp; Analytics] の「**[!UICONTROL ダッシュボードを管理]**」の「**[!UICONTROL アーカイブを表示]**」設定は、2020 年 3 月 13 日から使用できなくなります。 |
@@ -272,9 +272,11 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | 表示 | 機能 |
 |------|---------|
-| [!UICONTROL ポートフォリオ] | [!DNL Yahoo!] ディスプレイアドネットワーク（YDN）キャンペーンをポートフォリオに追加し、キャンペーンの予算や、広告のグループレベルの入札を最適化できるようになりました。広告グループ内のすべての広告に同じ入札が適用されます。Japan ディスプレイネットワークキャンペーンのデータは、ポートフォリオのシミュレーションに含まれています。 |
-| [!UICONTROL Search]／[!UICONTROL Bulksheets] | Bulksheets を使用して、Google レスポンシブ検索広告（RSA）を作成、編集、削除できるようになりました。以前は、標準キャンペーン管理インターフェイスの **[!UICONTROL Search]**／**[!UICONTROL Campaigns]** でのみサポートされていました。 |
-| [!UICONTROL Search]／[!UICONTROL Campaigns、Reports] | Google 広告の掲載順位の指標「`Impr. (Top) %` および `Impr. (Abs. Top) %`」をすべての基本レポート、およびエンティティレベルのキャンペーン管理ビューで使用できるようになりました（ただし、買い物製品グループの場合や、[!UICONTROL Campaign Daily Impression Share] レポート、[!UICONTROL Keyword Daily Impression Share] レポート、およびラベルビューと制約ビューを除く）。 |
+| [!UICONTROL ポートフォリオ] | COVID-19によるトラフィックの変化を考慮したポートフォリオの管理方法のガイドラインについては、担当のアカウントマネージャーにお問い合わせください。 |
+|  | （Google広告とMicrosoft広告キャンペーン）「入札調整値を自動最適化」オプションを使用して最適化されたポートフォリオで、Advertising Cloudは、強化されたコストパークリック(eCPC)入札戦略を使用してキャンペーンの入札調整設定を自動的に最適化しなくなりました。 検索エンジンは、オークション時のすべての入札調整を最適化します。 Advertising Cloudは、ベース入札を最適化し、 「キャンペーン予算の制限を自動調整」オプションが有効な場合 — キャンペーンの予算。 |
+| [!UICONTROL アラートベータ版] | （ベータ版機能）ポートフォリオが特定の条件を満たす場合に識別するためのアラートテンプレートを作成できるようになりました。 （パフォーマンス指標など） 指定した期間中にアラートを生成した場合。 ポートフォリオレベルのアラートは、 **[!UICONTROL Optimization]** / **[!UICONTROL Portfoliosのインサイトから作成できますが、]** Optimization **[!UICONTROL /Portfoliosのインサイトからは作成]******&#x200B;できません。 **注意：** 1月に置き換えられた従来のバージョンのアラートベータ版から作成されたアラートは、使用できなくなりました。 |
+|  |
+| [!UICONTROL 管理者] /トランザク [!UICONTROL ションのプロパティ] | 新しい「プロパティID」列に、各トランザクションプロパティの固有のプロパティIDが表示されます。 列の値に含まれる任意の文字列を検索できます。 |
 
 ## ![アイコン](/assets/magento.png) [!DNL Magento] {#magento}
 
