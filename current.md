@@ -4,8 +4,8 @@ description: Experience Cloud リリースノートのテンプレート
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: ht
-source-git-commit: abf763ddf0ed4ae9d8df5b7dcef4e664db4cf682
+translation-type: tm+mt
+source-git-commit: 870c6694107d7ca60a4b9c20031fb0e6c6d68645
 
 ---
 
@@ -60,7 +60,7 @@ source-git-commit: abf763ddf0ed4ae9d8df5b7dcef4e664db4cf682
 | ユーザーの好みに基づいてパーソナライズされたエクスペリエンス | <ul><li>電子メール通知では、ブラウザーの設定に基づいたタイムゾーン設定を使用します。</li><li>選択したすべての環境設定で、登録／登録解除時に電子メールの確認が送信されていました。</li></ul> |
 | イベントメッセージの配信の向上 | <ul><li>時系列のイベントの更新に基づいてイベント履歴を並べ替えました。</li><li>大規模／小規模な解決済みの問題に、イベント解決のタイムスタンプを追加しました。</li></ul> |
 
-## ![アイコン](/assets/experience-cloud.png) Experience Cloud インターフェイスとコアサービス{#ecloud}
+## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud インターフェイスとコアサービス{#ecloud}
 
 Experience Cloud インターフェイスの新機能および修正点です。管理およびコアサービス（顧客属性、オーディエンス、トリガー、cookie など）が含まれます。
 
@@ -86,7 +86,7 @@ Experience Cloud インターフェイスの新機能および修正点です。
 
 製品ドキュメントについては、[Experience Cloud](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html) のヘルプを参照してください。
 
-## ![アイコン](/assets/platform.png) Experience Platform {#platform}
+## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 [!UICONTROL Experience Platform]、[!UICONTROL Experience Platform Launch]、[!UICONTROL ID サービス]、Journey Orchestration、Mobile Services およびセキュリティ速報のリリースノートです。
 
@@ -321,7 +321,7 @@ Magent リリースノートについては、以下を参照してください�
 
 これまでのリリースノートと過去のリリースノートについては、[Marketo リリースノート](https://docs.marketo.com/x/CgA6Ag)を参照してください。
 
-## ![アイコン](/assets/experience-cloud.png)新しいドキュメントとチュートリアル {#selfhelp}
+## ![アイコン](/assets/ec_appicon_24.png)新しいドキュメントとチュートリアル {#selfhelp}
 
 新着および最近のセルフヘルプ記事とビデオ。<!--`https://jira.corp.adobe.com/secure/Dashboard.jspa?selectPageId=60327`-->
 
