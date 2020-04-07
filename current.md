@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5147d6252a3bf0bcf0426490c3d3bd96cb1739d5
+source-git-commit: 96d931c9b5001ddbaf9887b45a95adcc468a0376
 
 ---
 
@@ -273,10 +273,10 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | 表示 | 機能 |
 |------|---------|
-| [!UICONTROL ポートフォリオ] | COVID-19 によるトラフィックの変化を考慮したポートフォリオの管理方法のガイドラインについては、担当のアカウントマネージャーにお問い合わせください。 |
-| Google 広告と Microsoft 広告キャンペーン | 「入札調整値を自動最適化」オプションを使用して最適化されたポートフォリオでは、Advertising Cloud は、拡張クリック単価（eCPC）入札戦略を使用して、キャンペーンの入札調整設定を自動的に最適化しなくなりました。検索エンジンは、オークションの時点ですべての入札調整を最適化します。Advertising Cloud は引き続き、ベース入札と、キャンペーンの予算（「キャンペーン予算の制限を自動調整」オプションが有効な場合）を最適化します。 |
+| [!UICONTROL ポートフォリオ] | For guidelines on how to manage your portfolios to account for traffic changes resulting from [!DNL COVID-19], contact your account manager. |
+| Google 広告と Microsoft 広告キャンペーン | In optimized portfolios with the [!UICONTROL Auto-optimize Bid Adjustment Values] option, Advertising Cloud no longer automatically optimizes the bid adjustment settings for campaigns using the enhanced cost per click (eCPC) bid strategy. 検索エンジンは、オークションの時点ですべての入札調整を最適化します。Advertising Cloud still optimizes the base bids and — when the [!UICONTROL Auto adjust campaign budget limits] option is enabled — the campaign budget. |
 | [!UICONTROL アラート（ベータ版）] | （ベータ版機能）ポートフォリオが指定した期間に特定の条件（パフォーマンス指標など）を満たしたタイミングを特定し、アラートを生成するためのアラートテンプレートを作成できるようになりました。ポートフォリオレベルのアラートは、**[!UICONTROL 最適化]** ／ **[!UICONTROL ポートフォリオ]**&#x200B;ではなく、**[!UICONTROL インサイトとレポート]** ／ **[!UICONTROL アラート（ベータ版）]**&#x200B;から作成できます。**注意：** 1 月に置き換えられた従来のバージョンのアラートベータ版から作成されたアラートは、使用できなくなりました。 |
-| [!UICONTROL 管理者] ／ [!UICONTROL トランザクションのプロパティ] | 新しい「プロパティ ID」列に、各トランザクションプロパティに固有のプロパティ ID が表示されます。列の値に含まれる任意の文字列を検索できます。 |
+| [!UICONTROL 管理者] ／ [!UICONTROL トランザクションのプロパティ] | A new [!UICONTROL Property ID] column shows the unique property ID for each transaction property. 列の値に含まれる任意の文字列を検索できます。 |
 
 ## ![アイコン](/assets/magento.png) [!DNL Magento] {#magento}
 
