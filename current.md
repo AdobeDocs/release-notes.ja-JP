@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 870c6694107d7ca60a4b9c20031fb0e6c6d68645
+source-git-commit: 5147d6252a3bf0bcf0426490c3d3bd96cb1739d5
 
 ---
 
@@ -29,7 +29,7 @@ source-git-commit: 870c6694107d7ca60a4b9c20031fb0e6c6d68645
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイスとコアサービス](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) - リリース日：**2020 年 3 月 12 日**(更新日：2020 年 3 月 27 日)
+* [!DNL Analytics](#analytics) - リリース日：**2020 年 3 月 12 日** （更新日2020年4月7日）
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -128,7 +128,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 Adobe Analytics の新機能および修正点です。
 
 * [Adobe Analytics の新機能、機能強化および修正点](#aa-features)
-* [Analytics 管理者向けの重要な注意事項](#aa-notices)(更新日：2020 年 3 月 27 日)
+* [Analytics 管理者向けの重要な注意事項](#aa-notices) （更新日2020年4月7日）
 * [AppMeasurement](#appm)
 
 製品ドキュメントについては、[Adobe Analytics ヘルプホーム](https://docs.adobe.com/content/help/ja-JP/analytics/landing/home.html)を参照してください。
@@ -153,6 +153,7 @@ Adobe Analytics の新機能および修正点です。
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
+| Workspaceでの入口/出口の計算方法の変更 | 2020年4月7日 | 2020年3月の分析ワークスペースで、「なし」の値と入口/出口との相互作用を変更しました。 分析ワークスペースで「Nones」をオン/オフにできるようになったので、（eVarの場合）以前に適用されていたのに対し、入口または出口の後に「None」を適用します。 例えば、訪問の最初のヒットにeVarxの値がないが、2番目のヒットにeVarxの値がないとします。 Reports &amp; Analyticsでは、エントリに対して「未指定」と表示されますが、分析ワークスペースでは2回目のヒットの値として表示されます。 |
 | **[!UICONTROL コンバージョンレベル]**&#x200B;設定のサポート終了 | 2020 年 3 月 4 日 | **[!UICONTROL 管理ツール] ／ [!UICONTROL レポートスイート] ／ [!UICONTROL 一般的なアカウント設定]**&#x200B;で、機能しない[コンバージョンレベル](https://docs.adobe.com/content/help/ja-JP/analytics/admin/admin-tools/general-acct-settings-admin.html)設定は、2020 年 3 月 13 日に UI から削除されます。 |
 | **[!UICONTROL ダッシュボードアーカイブ]**&#x200B;のサービス終了 | 2020 年 3 月 28 日 | [!UICONTROL Reports &amp; Analytics] の「**[!UICONTROL ダッシュボードを管理]**」の「**[!UICONTROL アーカイブを表示]**」設定は、2020 年 10 月から使用できなくなります。 |
 | TLS 1.1 のサポート終了 | 2019 年 10 月 4 日 | 2020 年 3 月 31 日までに、Adobe Analytics は TLS 1.1 のサポートを削除します。この変更は、最高のセキュリティ標準を維持し、顧客データの安全性を高めるアドビの継続的な取り組みの一環としておこなわれます。 |
