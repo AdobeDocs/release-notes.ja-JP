@@ -63,7 +63,7 @@ Experience Cloud インターフェイスの新機能および修正点です。
 
 | 機能 | リリース日 | 説明 |
 | ----|----|---- |
-| 管理ツール - ユーザーの詳細を表示 | 2020 年 2 月 27 日 | 管理者は、新しい管理ツールで、すべての Experience Cloud ユーザーとその詳細に関する、並べ替え可能でフィルタリング可能なリストを表示できます。ユーザーの詳細には、ユーザーの製品アクセス、ロール、最終アクセス日が含まれます。詳しくは、[Experience Cloud 管理ツール](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html)のヘルプを参照してください。 |
+| 管理ツール - ユーザーの詳細を表示 | 2020 年 2 月 27 日 | 管理者は、新しい管理ツールで、すべての Experience Cloud ユーザーとその詳細に関する、並べ替え可能でフィルタリング可能なリストを表示できます。ユーザーの詳細には、ユーザーの製品アクセス、ロール、最終アクセス日が含まれます。詳しくは、[Experience Cloud 管理ツール](https://docs.adobe.com/content/help/ja-JP/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html)のヘルプを参照してください。 |
 
 ### 統合製品ドメイン
 
