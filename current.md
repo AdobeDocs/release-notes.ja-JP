@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3e124e820e573047298f878cf8cb2bf2a6b7f7dd
+source-git-commit: 87f42aedd2b8c987b092c614468d536fa48ae724
 
 ---
 
@@ -165,6 +165,10 @@ AN-212151;AN-214343;AN-215017;AN-115525;AN-123869;AN-101871;AN-152580;AN-160480;
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
 Adobe Digital Managerの新機能および修正点：
+
+| 機能 | 説明 |
+| -----------| ---------- |  
+| [最も多いカスタマーサポートの問題](../support-issues/support-issues-overview.md) | ドキュメントポータルに新しいセクションを追加しました。このセクションには、カスタマーサポートチームが最も頻繁に寄せる質問に対する回答が含まれています。 |
 
 * 「  重複テスト [!UICONTROL 」ボタンと「] 重複割り当て [!UICONTROL オーディエンス] 」ボタンが機能しない問題を修正しました。 （AAM-53388）
 * 宛先がUUIDをエクスポートするように設定さ [!UICONTROL れている場合] 、「一致率」と「セグメントアドレス可能なオーディエンス  」が「0」と表示される問題を修正しました。 一致率 [!UICONTROL とセグメン] トアドレス可能なオーディエンス  (Match Rate)が100%と表示されるようになりました。 （AAM-51615）
