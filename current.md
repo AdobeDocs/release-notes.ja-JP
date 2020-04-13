@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 80852c2797ad1a26b6c4a806fa2cf3ef59f84707
+source-git-commit: 1cbba06183a2cd2897303e99dd7da89041a2d106
 
 ---
 
@@ -181,7 +181,7 @@ Adobe Digital Managerの新機能および修正点：
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| [最も多いカスタマーサポートの問題](../support-issues/support-issues-overview.md) | ドキュメントポータルに新しいセクションを追加しました。このセクションには、カスタマーサポートチームが最も頻繁に寄せる質問に対する回答が含まれています。 |
+| 最も多いカスタマーサポートの問題 | ドキュメントポータルに新しいセクションを追加しました。このセクションには、カスタマーサポートチームが最も頻繁に寄せる質問に対する回答が含まれています。 |
 
 * 「  重複テスト [!UICONTROL 」ボタンと「] 重複割り当て [!UICONTROL オーディエンス] 」ボタンが機能しない問題を修正しました。 （AAM-53388）
 * 宛先がUUIDをエクスポートするように設定さ [!UICONTROL れている場合] 、「一致率」と「セグメントアドレス可能なオーディエンス  」が「0」と表示される問題を修正しました。 一致率 [!UICONTROL とセグメン] トアドレス可能なオーディエンス  (Match Rate)が100%と表示されるようになりました。 （AAM-51615）
@@ -224,7 +224,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
    AEM AssetsからクラウドサービスとしてAEM Assets Brand Portalにアセットを公開できるようになりました。
 
-   Brand PortalでのAEM [アセットの設定および](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) Brand Portalへのアセ [ットの公開を参照してください](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html)。
+   Brand PortalでのAEM [アセットの設定](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) 、Brand Portalでのアセ [ットの公開を参照してください](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html)。
 
 * **Adobe Asset Link 2.0のリリース**
 
