@@ -121,6 +121,7 @@ Unity 4.19.0（2020年3月10日）:
 <!-- * [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
 * [Important notices for Analytics administrators](#aa-notices) (Updated April 7, 2020)
 * [AppMeasurement](#appm) -->
+
 * [新しいAnalyticsチュートリアル](#tutorials-analytics)
 
 <!-- ### New features, enhancements, and fixes in Adobe Analytics {#aa-features}
