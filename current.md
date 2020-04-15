@@ -116,7 +116,7 @@ Unity 4.19.0（2020年3月10日）:
 
 >[!IMPORTANT]
 >
->Adobe Analyticsの4月のメンテナンスリリースは、2020年5月22日に移行されました。 Analyticsの最新のリリース情報について詳しくは、3月のリリースノ [ートを参照してください](c-legacy-releases\2020\03122020.md)
+>Adobe Analyticsの4月のメンテナンスリリースは、2020年5月22日に移行されました。 Analyticsの最新のリリース情報について詳しくは、3月のリリースノ [ートを参照してください](c-legacy-releases/2020/03122020.md)
 
 <!-- * [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
 * [Important notices for Analytics administrators](#aa-notices) (Updated April 7, 2020)
@@ -234,7 +234,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
    AEM AssetsからクラウドサービスとしてAEM Assets Brand Portalにアセットを公開できるようになりました。
 
-   Brand PortalでのAEM [アセットの設定および](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) Brand Portalへのアセ [ットの公開を参照してください](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html)。
+   Brand PortalでのAEM [アセットの設定](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) 、Brand Portalでのアセ [ットの公開を参照してください](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html)。
 
 * **Adobe Asset Link 2.0のリリース**
 
