@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: be1e03f7420ea4a1bd9c2797a087cbb42246049c
+source-git-commit: 6bd8e1af2afa691e6796769ad1f8cb5f29433d8e
 
 ---
 
@@ -116,7 +116,7 @@ Unity 4.19.0（2020年3月10日）:
 
 >[!IMPORTANT]
 >
->Adobe Analyticsの4月のメンテナンスリリースのほとんどが、2020年5月22日に移行されました。 Analyticsの最新のリリース情報について詳しくは、3月のリリースノ [ートを参照してください](c-legacy-releases/2020/03122020.md)
+>Adobe Analyticsの4月のメンテナンスリリースは、2020年5月22日に移行されました。 Analyticsの最新のリリース情報について詳しくは、3月のリリースノ [ートを参照してください](c-legacy-releases/2020/03122020.md)
 
 * [Customer Journey Analytics](#cust-journey)
 <!--* [New features in Adobe Analytics](#aa-features)-->
