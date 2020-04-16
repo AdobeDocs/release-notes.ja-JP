@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5f42fc9ac718298602c7c02897b38a5e6009b893
+source-git-commit: 41c551a6c2e3e8b621abacb5afe2240c30b851da
 
 ---
 
@@ -119,9 +119,9 @@ Unity 4.19.0（2020年3月10日）:
 >Adobe Analyticsの4月のメンテナンスリリースのほとんどが、2020年5月22日に移行されました。 Analyticsの最新のリリース情報について詳しくは、3月のリリースノ [ートを参照してください](c-legacy-releases/2020/03122020.md)
 
 * [Customer Journey Analytics](#cust-journey)
-* [Adobe Analytics の新機能](#aa-features)
+<!--* [New features in Adobe Analytics](#aa-features)-->
 * [Analytics管理者向けの重要な注意](#aa-notices) （更新日2020年4月7日）
-* [AppMeasurement](#appm) -->
+* [AppMeasurement](#appm)
 * [新しいAnalyticsチュートリアル](#tutorials-analytics)
 
 ### Customer Journey Analytics {#cust-journey}
@@ -130,12 +130,12 @@ Unity 4.19.0（2020年3月10日）:
 | -----------| ---------- |
 | [!UICONTROL 顧客の遍歴分析]:自動データセットのバックフィル | この新しいオプションを使用すると、 [!UICONTROL Customer Jeurney Analyticsの接続に関するすべての履歴データをインポートできます]。 [詳細情報](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html) |
 
-### Adobe Analytics の新機能 {#aa-features}
+<!--### New features in Adobe Analytics {#aa-features}
 
-| 機能 | 説明 |
+| Feature    | Description  |
 | -----------| ---------- |
-| Analyticsでの [!UICONTROL Experience Edgeのサポート] | Experience Edgeに送信されたデータを [!UICONTROL Analyticsに転送できるようになりました] 。 |
-<!-- |[!UICONTROL Workspace]: Automatically build Freeform Tables from a blank state|Previously, you could not drop components directly into a blank project or blank panel; you had to add a freeform table first. You can now drop components directly into a blank project or panel, and a freeform table will automatically be built for you in a recommended format. Additionally, improvements were made to how mixed component types (e.g. dimensions & metrics) are handled when dropped into a blank freeform table together.|
+|Analytics support for [!UICONTROL Experience Edge] |You can now forward data that was sent to [!UICONTROL Experience Edge] to Analytics.|
+ |[!UICONTROL Workspace]: Automatically build Freeform Tables from a blank state|Previously, you could not drop components directly into a blank project or blank panel; you had to add a freeform table first. You can now drop components directly into a blank project or panel, and a freeform table will automatically be built for you in a recommended format. Additionally, improvements were made to how mixed component types (e.g. dimensions & metrics) are handled when dropped into a blank freeform table together.|
 
 #### Analytics fixes
 
