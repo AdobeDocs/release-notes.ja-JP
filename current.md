@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8b516bbbc35cd7cbf450ac423b05ea69ded4b091
+source-git-commit: f2687895a6795bb636ddb5c10f60fe9d6231e8c5
 
 ---
 
@@ -29,7 +29,6 @@ source-git-commit: 8b516bbbc35cd7cbf450ac423b05ea69ded4b091
 （特定のソリューションのリリース日は私の日が異なります）。
 
 * [Adobe システムステータス](#status)
-* [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics) **（リリース日の変更 — 4月15日の更新を参照）**
 * [Audience Manager](#aam)
@@ -59,7 +58,7 @@ source-git-commit: 8b516bbbc35cd7cbf450ac423b05ea69ded4b091
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloudインターフェイス {#ecloud}
 
-Experience Cloudインターフェイスの新機能および修正点です。これには、顧客属性、オーディエンス、トリガーなどの管理およびサービスが含まれます。
+Experience Cloudインターフェイスの新機能および修正点：
 
 * Experience Cloud [!UICONTROL Feed] (Experience Cloud Feed)ページは非推奨になりました。 (EXC-8505)
 * 新しいブランド要素を反映して、Experience Cloudのログインページが更新されました。 (EXC-10747)
@@ -81,7 +80,7 @@ Experience Cloudインターフェイスの新機能および修正点です。�
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-[!UICONTROL Experience Platform]、[!UICONTROL Experience Platform Launch]、[!UICONTROL ID サービス]、Journey Orchestration、Mobile Services およびセキュリティ速報のリリースノートです。
+Javerny Orchestration [!DNL Experience Platform,] 、People [!DNL Experience Platform Launch,] 、Pople、Places、Mobile Services、Security Bullinsを含むリリースノート [!UICONTROL を]参 照してください。
 
 ### ジャーニーオーケストレーション {#journey}
 
@@ -233,7 +232,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
    AEM AssetsからクラウドサービスとしてAEM Assets Brand Portalにアセットを公開できるようになりました。
 
-   Brand PortalでのAEM [アセットの設定](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) 、Brand Portalでのアセ [ットの公開を参照してください](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html)。
+   Brand PortalでのAEM [アセットの設定および](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) Brand Portalへのアセ [ットの公開を参照してください](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html)。
 
 * **Adobe Asset Link 2.0のリリース**
 
