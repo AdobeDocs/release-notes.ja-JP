@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6bd8e1af2afa691e6796769ad1f8cb5f29433d8e
+source-git-commit: 8b516bbbc35cd7cbf450ac423b05ea69ded4b091
 
 ---
 
@@ -29,7 +29,7 @@ source-git-commit: 6bd8e1af2afa691e6796769ad1f8cb5f29433d8e
 （特定のソリューションのリリース日は私の日が異なります）。
 
 * [Adobe システムステータス](#status)
-* [Experience Cloud インターフェイスとコアサービス](#ecloud)
+* [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics) **（リリース日の変更 — 4月15日の更新を参照）**
 * [Audience Manager](#aam)
@@ -57,9 +57,9 @@ source-git-commit: 6bd8e1af2afa691e6796769ad1f8cb5f29433d8e
 | 権限に基づく購読のパーソナライズ | <ul><li>ユーザーのDX購読に基づいて事前に選択されたユーザーの推奨事項。</li><li>推奨購読は、すばやく視覚化するために、製品リストの上部にハイライト表示されます。</li><li>受け取った電子メール通知は、ユーザーの製品の権利付与に関連します。</li></ul> |
 | 管理の容易化購読 | <ul><li>**[!UICONTROL 「購読の管理]** 」は、製品とイベントの両方の購読を管理する新しいユーザーエクスペリエンスです。</li><li>製品とイベントの表示と編集を個別に行う新しい購読。</li><li>「削除」 **[!UICONTROL オプションを使用すると]** 、製品またはイベント購読の購読を解除できます。</li><li>「すべてを購読解除」(Unsubscribe all **** )を1回クリックすると、製品購読で使用できます。</li><li>UXのサポートは、Web/モバイル/タブレットの表面と19言語のローカライゼーションで利用できます。</li></ul> |
 
-## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud インターフェイスとコアサービス{#ecloud}
+## ![Icon](/assets/ec_appicon_24.png) Experience Cloudインターフェイス {#ecloud}
 
-Experience Cloudインターフェイスの新機能および修正点です。これには、管理およびコアサービス(顧客属性、オーディエンス、トリガー、cookieなど)が含まれます。
+Experience Cloudインターフェイスの新機能および修正点です。これには、顧客属性、オーディエンス、トリガーなどの管理およびサービスが含まれます。
 
 * Experience Cloud [!UICONTROL Feed] (Experience Cloud Feed)ページは非推奨になりました。 (EXC-8505)
 * 新しいブランド要素を反映して、Experience Cloudのログインページが更新されました。 (EXC-10747)
@@ -233,7 +233,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
    AEM AssetsからクラウドサービスとしてAEM Assets Brand Portalにアセットを公開できるようになりました。
 
-   Brand PortalでのAEM [アセットの設定および](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) Brand Portalへのアセ [ットの公開を参照してください](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html)。
+   Brand PortalでのAEM [アセットの設定](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) 、Brand Portalでのアセ [ットの公開を参照してください](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html)。
 
 * **Adobe Asset Link 2.0のリリース**
 
