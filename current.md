@@ -5,12 +5,12 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f2687895a6795bb636ddb5c10f60fe9d6231e8c5
+source-git-commit: 8ae9a44aa90a578b681ec1449d65781d3e3b7b65
 
 ---
 
 
-# 先行アクセス — Adobe Experience Cloudリリースノート — 2020年4月
+# Adobe Experience Cloudリリースノート — 2020年4月
 
 ![バナー](/assets/experience-cloud-banner-3.png)
 
@@ -232,7 +232,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
    AEM AssetsからクラウドサービスとしてAEM Assets Brand Portalにアセットを公開できるようになりました。
 
-   Brand PortalでのAEM [アセットの設定および](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) Brand Portalへのアセ [ットの公開を参照してください](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html)。
+   Brand PortalでのAEM [アセットの設定](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) 、Brand Portalでのアセ [ットの公開を参照してください](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html)。
 
 * **Adobe Asset Link 2.0のリリース**
 
