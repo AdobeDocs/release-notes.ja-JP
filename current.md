@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ae9a44aa90a578b681ec1449d65781d3e3b7b65
+source-git-commit: 16804e8f1eeb1d836b904c85a8c538077166242b
 
 ---
 
@@ -26,7 +26,7 @@ source-git-commit: 8ae9a44aa90a578b681ec1449d65781d3e3b7b65
 
 **リリース日： 年 4 月 2020 日**
 
-（特定のソリューションのリリース日は私の日が異なります）。
+（特定のリリース日は私の変わります）。
 
 * [Adobe システムステータス](#status)
 * [Experience Platform](#platform)
@@ -34,10 +34,10 @@ source-git-commit: 8ae9a44aa90a578b681ec1449d65781d3e3b7b65
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html) （ソリューションのヘルプページへのリンク）
+* [!DNL Target](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html) (ターゲットのヘルプページへのリンク)
 * [!DNL Magento](#magento)
 * [!DNL Marketo](#marketo)
-* [!DNL Primetime](https://helpx.adobe.com/jp/primetime/user-guide.html) （ソリューションのヘルプページへのリンク）
+* [!DNL Primetime](https://helpx.adobe.com/jp/primetime/user-guide.html) （Primetimeのヘルプページへのリンク）
 
 ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.html)を参照してください。
 
@@ -71,9 +71,9 @@ Experience Cloudインターフェイスの新機能および修正点：
 
 更新内容は次のとおりです。
 
-* 新しいソリューション URL：`experience.adobe.com/<application name>`：
+* 新しいアプリケーションURL: `experience.adobe.com/<application name>`:
    * すべての製品で、最終的にこの URL パターンが採用されます。1 ヶ月間にわたって効果的な新しい URL を探します。
-   * ブラウザーのサポート：サポートされるブラウザーには、[!DNL Microsoft Edge]、[!DNL Google Chrome]、[!DNL Firefox]、[!DNL Safari]、および [!DNL Opera]（最新バージョン）が含まれます。**メモ：** Experience Cloud インターフェイスはこれらのブラウザーをサポートしていますが、個々のソリューションがすべてのブラウザーに対応しているわけではありません（例えば、[Analytics](https://docs.adobe.com/content/help/ja-JP/analytics/admin/sys-reqs.html) は [!DNL Opera] をサポートしておらず、[Target](https://docs.adobe.com/help/ja-JP/target/using/implement-target/before-implement/supported-browsers.html) は [!DNL Safari] をサポートしていません）。
+   * ブラウザーのサポート：サポートされるブラウザーには、[!DNL Microsoft Edge]、[!DNL Google Chrome]、[!DNL Firefox]、[!DNL Safari]、および [!DNL Opera]（最新バージョン）が含まれます。**注意：** Experience Cloudインターフェイスはこれらのブラウザーをサポートしていますが、個々のアプリケーションがすべてのブラウザーをサポートしているとは限りません。 （例えば、[Analytics](https://docs.adobe.com/content/help/ja-JP/analytics/admin/sys-reqs.html) は [!DNL Opera] をサポートしておらず、[Target](https://docs.adobe.com/help/ja-JP/target/using/implement-target/before-implement/supported-browsers.html) は [!DNL Safari] をサポートしていません）。
    * （[!DNL Safari] のみ）ドメインの変更によって、[!DNL Safari] で cookie の問題が発生する場合があります。[!DNL Safari] のプライバシー設定で「_サイト越えトラッキングを防ぐ_」をオフにすると、ドメイン（およびすべてのクロスサイトエクスペリエンス）間で cookie が有効になり、Experience Cloud がこの新しいドメインで機能するようになります。
 * 組織間または別のアプリケーション間の切り替えが容易になりました。
 * 製品ヘルプの改善：ヘルプ検索にコミュニティフォーラムやビデオコンテンツの結果も含められるよう、[!UICONTROL Experience League] は製品に統合されています。この変更により、より多くのコンテンツへのアクセスが簡素化され、Experience Cloud を最大限に活用できるようになります。さらに、**[!UICONTROL ヘルプ]** ／ **[!UICONTROL フィードバック]**&#x200B;をクリックして問題を報告したり、アドビとアイデアを共有したりします。
@@ -194,7 +194,7 @@ Adobe Digital Managerの新機能および修正点：
 * 「  重複テスト [!UICONTROL 」ボタンと「] 重複割り当て [!UICONTROL オーディエンス] 」ボタンが機能しない問題を修正しました。 （AAM-53388）
 * 宛先がUUIDをエクスポートするように設定さ [!UICONTROL れている場合] 、「一致率」と「セグメントアドレス可能なオーディエンス  」が「0」と表示される問題を修正しました。 一致率 [!UICONTROL とセグメン] トアドレス可能なオーディエンス  (Match Rate)が100%と表示されるようになりました。 （AAM-51615）
 * 特殊文字を含む特性名が2回HTMLエンコードされる問題を修正しました。 （AAM-54001）
-* 一部のユーザーがユーザーインターフェイスから他のAdobe Experience Cloudソリューションに切り替えられない問題を修 [!DNL Audience Manager] 正しました。 （AAM-52917）
+* 一部のユーザーがユーザーインターフェイスから他のAdobe Experience Cloudアプリケーションに切り替えられない問題を修 [!DNL Audience Manager] 正しました。 （AAM-52917）
 * 一部のユーザーがPeopleベースの宛先用にSHA256データソースを作成できない問題を修正しました。 （AAM-53525）
 * インターフェイス全体で複数のアクセシビリティの改善。 （AAM-48986、AAM-49009、AAM-48984、AAM-48939、AAM-48940、AAM-48964、AAM-49032、AAM-49360）
 
@@ -307,7 +307,7 @@ Magent リリースノートについては、以下を参照してください�
 
 ## ![アイコン](/assets/marketo.png) [!DNL Marketo] {#marketo}
 
-[!DNL Marketo Engage] は、複雑な購入ジャーニーの各ステージを通じてエンゲージメントをおこなうことで顧客体験を変えようとしているリード管理や B2B マーケター向けの完全なソリューションです。
+[!DNL Marketo Engage] は、複雑な購入の遍歴のあらゆる段階を通じて顧客体験を変えようとしている、リード管理とB2Bマーケター向けの完全なアプリケーションです。
 
 ### Core Marketo Engage の更新
 
