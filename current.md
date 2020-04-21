@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2d9a0e6ae9e796bdb09ce7d27e4e4a765462283a
+source-git-commit: 3a66c0ee04a336a702ea9ff502a0f2ce6c5b2109
 
 ---
 
@@ -20,13 +20,13 @@ source-git-commit: 2d9a0e6ae9e796bdb09ce7d27e4e4a765462283a
 >
 >[[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。リリース後に発表された新情報には、更新の日付が明記されます。
 
-**リリース日： 年 4 月 2020 日**
+**リリース日：2020 年 4 月**
 
 （特定のリリース日は私の変わります）。
 
 * [Adobe システムステータス](#status)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) **（リリース日の変更 — 4月15日の更新を参照）**
+* [!DNL Analytics](#analytics) **（更新日4月16日）**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -37,27 +37,27 @@ source-git-commit: 2d9a0e6ae9e796bdb09ce7d27e4e4a765462283a
 
 ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.html)を参照してください。
 
-## ![アイコン](/assets/adobe.png) Adobe システムステータス{#status}
+## ![アイコン](/assets/adobe.png) Adobe システムステータス {#status}
 
 [!UICONTROL Adobe システムステータス]は、アドビクラウド製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/) でご確認ください。
 
 **最新情報**
 
-* Adobe ID を使用して、製品オファーやアドオンレベルまで掘り下げた、より精度の高いイベント通知を登録できます。さらに、最新のリリースでは、セルフ購読プロセスで、製品の使用権限に基づいた製品とサービスの選択が推奨されるようになりました。 これにより、購読の作成に必要な決定やクリックの数を減らし、購読プロセスを合理化し、最も重要なのは、インボックスにより関連性の高い通知を配信することです。 はじめに [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit) をご覧ください。
+* Adobe ID を使用して、製品オファーやアドオンレベルまで掘り下げた、より精度の高いイベント通知を登録できます。さらに、最新のリリースでは、セルフサブスクリプションプロセスで、製品の使用権限に基づいてお勧めの製品とサービスが表示されるようになりました。これにより、購読の作成に必要な決定やクリックの数を減らし、購読プロセスを合理化し、最も重要なのは、インボックスにより関連性の高い通知を配信することです。はじめに [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit) をご覧ください。
 
 **現在利用可能な新機能と機能強化**
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| 権限に基づく購読のパーソナライズ | <ul><li>ユーザーのDX購読に基づいて事前に選択されたユーザーの推奨事項。</li><li>推奨購読は、すばやく視覚化するために、製品リストの上部にハイライト表示されます。</li><li>受け取った電子メール通知は、ユーザーの製品の権利付与に関連します。</li></ul> |
-| 管理の容易化購読 | <ul><li>**[!UICONTROL 「購読の管理]** 」は、製品とイベントの両方の購読を管理する新しいユーザーエクスペリエンスです。</li><li>製品とイベントの表示と編集を個別に行う新しい購読。</li><li>「削除」 **[!UICONTROL オプションを使用すると]** 、製品またはイベント購読の購読を解除できます。</li><li>「すべてを購読解除」(Unsubscribe all **** )を1回クリックすると、製品購読で使用できます。</li><li>UXのサポートは、Web/モバイル/タブレットの表面と19言語のローカライゼーションで利用できます。</li></ul> |
+| 使用権限に基づいた購読のパーソナライズ | <ul><li>ユーザーの DX 使用権限に基づいて事前に選択されたユーザーのレコメンデーション。</li><li>推奨された購読は、素早く視覚化できるよう、製品リストの上部にハイライト表示されます。</li><li>ユーザーの製品使用権限と関連した電子メール通知が送られます。</li></ul> |
+| 購読管理を簡易化 | <ul><li>「**[!UICONTROL 購読管理]**」は、製品とイベントの両方の購読を管理する新しいユーザーエクスペリエンスです。</li><li>製品とイベント購読の表示と編集を個別におこなう新しいオプション。</li><li>「**[!UICONTROL 削除]**」オプションを使用すると、製品またはイベントの購読を登録解除できます。</li><li>ワンクリックでの「**[!UICONTROL すべてを購読解除]**」オプションは、製品購読で使用できます。</li><li>UX のサポートは Web／モバイル／タブレットで利用でき、19 の言語にローカライズされています。</li></ul> |
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloudインターフェイス {#ecloud}
 
 Experience Cloudインターフェイスの新機能および修正点：
 
-* Experience Cloud [!UICONTROL Feed] (Experience Cloud Feed)ページは非推奨になりました。 (EXC-8505)
-* 新しいブランド要素を反映して、Experience Cloudのログインページが更新されました。 (EXC-10747)
+* Experience Cloud [!UICONTROL フィード]ページは非推奨になりました。（EXC-8505）
+* 新しいブランディング要素を反映するよう、Experience Cloud のログインページが更新されました。（EXC-10747）
 
 For product documentation, see [Experience Cloud interface help](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html).
 
@@ -88,23 +88,23 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 ### Mobile Services および Mobile SDK {#mobile}
 
-Android 4.18.2（2020年4月3日）:
+Android 4.18.2（2020 年 4 月 4 日）:
 
-* アプリ内メッセージ：セキュリティ上の理由から [!UICONTROL 、SDK] によって作成された `setAllowFileAccess` WebViewsは、プロパティを _falseに設定するようになりました_。
+* アプリ内メッセージ：セキュリティ上の理由から、SDK によって作成された[!UICONTROL WebViews] で、プロパティを `setAllowFileAccess` が _false_ に設定されるようになりました。
 
-iOS 4.19.2（2020年3月24日）:
+iOS 4.19.2（2020 年 3 月 25 日）:
 
-* 一般：コードの漏れを修正し [!DNL Target] ました。
+* 一般：[!DNL Target] コードの漏れを修正しました。
 
-Unity 4.19.0（2020年3月10日）:
+Unity 4.19.0（2020 年 3 月 11 日）:
 
-* iOSのバ [!UICONTROL ージョン4.19.0および4.18.0またはを使用するようにUnity Pluginを更新しまし][!DNL Android]た。
-* 新しい獲得方法が公開され、 [!DNL Android] 転送者APIが提供するURLの処理を可能に [!DNL Google Play] します。
+* iOS のバージョン 4.19.0 および 4.18.0 または [!DNL Android] を使用するように [!UICONTROL Unity Plugin] を更新しました。
+* [!DNL Android] の新しい獲得方法が公開され、[!DNL Google Play] リファラー API から提供された URL を処理できるようになりました。
 
-### Experience Platformのその他のリリース情報
+### その他の Experience Platform のリリース情報
 
-* [Experience Platform Launchリリースノート](https://docs.adobe.com/content/help/ja-JP/launch/using/intro/release-notes/current.html)。
-* [Experience Platformリリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
+* [Experience Platform Launch リリースノート](https://docs.adobe.com/content/help/ja-JP/launch/using/intro/release-notes/current.html)。
+* [Experience Platform リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [セキュリティ速報および情報](https://helpx.adobe.com/jp/security.html)（すべてのアドビ製品）
 
 ## ![アイコン](/assets/analytics.png) [!DNL Analytics] {#analytics}
@@ -115,15 +115,15 @@ Unity 4.19.0（2020年3月10日）:
 
 * [Customer Journey Analytics](#cust-journey)
 <!--* [New features in Adobe Analytics](#aa-features)-->
-* [Analytics管理者向けの重要な注意](#aa-notices) （更新日2020年4月7日）
+* [Analytics管理者向けの重要な注意](#aa-notices) （更新日2020年4月17日）
 * [AppMeasurement](#appm)
-* [新しいAnalyticsチュートリアル](#tutorials-analytics)
+* [新しい Analytics チュートリアル](#tutorials-analytics)
 
 ### Customer Journey Analytics {#cust-journey}
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| [!UICONTROL 顧客の遍歴分析]:自動データセットのバックフィル | この新しいオプションを使用すると、 [!UICONTROL Customer Jeurney Analyticsの接続に関するすべての履歴データをインポートできます]。 [詳細情報](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html) |
+| [!UICONTROL Customer Journey Analytics]：自動データセットバックフィル | この新しいオプションを使用すると、[!UICONTROL Customer Journey Analytics] の接続に関するすべての履歴データを読み込むことができます。[詳細情報](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html) |
 
 <!--### New features in Adobe Analytics {#aa-features}
 
@@ -155,8 +155,9 @@ AN-212151; AN-214343; AN-215017; AN-115525; AN-123869; AN-101871; AN-152580; AN-
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| Change to how [!UICONTROL Entries/Exits] are calculated in [!UICONTROL Workspace] | 2020 年 4 月 8 日 | [!UICONTROL 分析ワークスペース]（2020年3月現在）では、「なし」の値と入口 _/出口との相互作用方法を_ 変更しました 。 Because you can now turn _Nones_ on and off in [!UICONTROL Analysis Workspace], we apply the _None_ value after the entry or exit, whereas (for eVars) it used to be applied before. 例えば、訪問の最初のヒットにeVarの値がなく、2番目のヒットにeVarの値がないとします。 [!UICONTROL Reports &amp; Analytics] (Reports &amp; Analytics _)ではエントリに対して「未指定」と表示されますが、_ 分析ワークスペースでは  2回目のヒットの値として表示されます。 |
-| **[!UICONTROL コンバージョンレベル]**&#x200B;設定のサポート終了 | 2020 年 3 月 4 日 | The non-functioning [Conversion Level](https://docs.adobe.com/content/help/ja-JP/analytics/admin/admin-tools/general-acct-settings-admin.html) setting in **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL General Account Settings]** will be removed from the interface on March 12, 2020. |
+| 「Data Warehouseで適用されたセグメント」チェックを削除しました。 | 2020 年 4 月 17 日 | 2020年4月17日以降、セグメントビルダー内から、Data Warehouseリクエストでセグメントが適用されているかどうかを確認する必要はなくなりました。 以前は、このチェックでは、Data Warehouseリクエストに適用された単一のセグメント（複数のセグメントが適用された場合は除外された）を探し、trueの場合は警告通知を返していました。 この変更は、セグメントのData Warehouse製品の互換性チェックには影響しません。 |
+| [!UICONTROL Workspace] での[!UICONTROL 入口／出口]の計算方法の変更 | 2020 年 4 月 8 日 | 2020 年 3 月の時点で、[!UICONTROL Analysis Workspace] における「_なし_」の値と[!UICONTROL 入口／出口]との相互作用を変更しました。[!UICONTROL Analysis Workspace] で「_なし_」をオン／オフにできるようになったので、入口または出口の後に「_なし_」を適用します。（eVar の場合）以前は、これらの前に適用されていました。例えば、訪問の最初のヒットに eVar の値がないが、2 回目のヒットに eVarx の値があるとします。[!UICONTROL Reports &amp; Analytics] では、そのエントリに対して「_未指定_」と表示されますが、[!UICONTROL Analysis Workspace] では 2 回目のヒットの値が表示されます。 |
+| **[!UICONTROL コンバージョンレベル]**&#x200B;設定のサポート終了 | 2020 年 3 月 4 日 | **[!UICONTROL 管理ツール]**／**[!UICONTROL レポートスイート]**／**[!UICONTROL 一般的なアカウント設定]**&#x200B;で、機能しない[コンバージョンレベル](https://docs.adobe.com/content/help/ja-JP/analytics/admin/admin-tools/general-acct-settings-admin.html)設定は、2020 年 3 月 13 日にユーザーインターフェイスから削除されます。 |
 | **[!UICONTROL ダッシュボードアーカイブ]**&#x200B;のサービス終了 | 2020 年 3 月 28 日 | [!UICONTROL Reports &amp; Analytics] の「**[!UICONTROL ダッシュボードを管理]**」の「**[!UICONTROL アーカイブを表示]**」設定は、2020 年 10 月から使用できなくなります。 |
 | TLS 1.1 のサポート終了 | 2019 年 10 月 4 日 | 2020 年 3 月 31 日までに、Adobe Analytics は TLS 1.1 のサポートを削除します。この変更は、最高のセキュリティ標準を維持し、顧客データの安全性を高めるアドビの継続的な取り組みの一環としておこなわれます。 |
 | 新しい Adobe Analytics ドメイン | 2019 年 12 月 19 日 | 2020 年 1 月 17 日に、Adobe Analytics は新しいドメインへの移行を開始しました。`https://experience.adobe.com/analytics.`<br>**メモ&#x200B;**：この変更は、Adobe ID または Enterprise ID を使用して Analytics にアクセスするすべてのユーザーに適用されます。<ul><li>ドメインの変更により、Safari で Analytics を読み込む際に cookie の問題が発生する可能性があります。[!DNL Safari] のプライバシー設定で「_サイト越えトラッキングを防ぐ_」をオフにすると、ドメイン（およびすべてのクロスサイトエクスペリエンス）間で cookie が有効になり、Analytics がこの新しい Adobe Experience Cloud ドメインで機能するようになります。この問題が影響するのは [!DNL Safari] ユーザーのみなので、ユーザーは問題なく他のブラウザーを使用できます。</li><li>ドメインの変更により、[ある特定のケースにおいて](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/activity-map/activity-map.html)、一部の顧客に対して [!UICONTROL Activity Map] が機能しなくなる場合があります。</li></ul> |
@@ -168,31 +169,31 @@ AN-212151; AN-214343; AN-215017; AN-115525; AN-123869; AN-101871; AN-152580; AN-
 
 「[JavaScript 版 AppMeasurement リリースノート](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/appmeasurement-updates.html)」を参照してください。バージョン 2.20.0 は 2020 年 3 月 6 日にリリースされました。
 
-### 新しいAnalyticsチュートリアル {#tutorials-analytics}
+### 新しい Analytics チュートリアル {#tutorials-analytics}
 
 | コンテンツ | 説明 |
 | -----------| ---------- |
-| [Adobe Labs(テクノロジープレビュー)とAdobe Analytics](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/analytics-basics/adobe-labs-technology-previews.html) | Adobe Labs(テクノロジープレビュー)を使用すると、新しいテクノロジーとの関わり合い、貴重な洞察の発見、将来の機能の開発と優先 [!DNL Analytics] 順位への影響を実現できます。 |
-| [Experience Cloudオーディエンスの投稿の改善](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/integrations/experience-cloud/improved-experience-cloud-audience-publishing.html) | Experience Cloudオーディエンスの公開 [!UICONTROL が改善されました]。 オーディエンス（セグメント）を公開し、6倍の速さで利用できるようになりました。 これにより、現在の待ち時間が48時間から約8時間に短縮され、トラフィックやセグメントのサイズに応じて、場合によっては速くなります。 |
-| [分析ワークスペース内の複数のレポートスイート](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.html) | パネルレベルでレポートスイートを選択することで、1つの [!UICONTROL Workspace] Projectで複数のレポートスイートを分析できます。 これにより、異なるデータセット間で並べてパネルの分析を行うことができます。 |
+| [Adobe Labs（テクノロジープレビュー）と Adobe Analytics](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/intro-to-analytics/analytics-basics/adobe-labs-technology-previews.html) | Adobe Labs（テクノロジープレビュー）を使用すると、新しいテクノロジーとの関わり合い、貴重なインサイトの発見、将来の [!DNL Analytics] 機能の開発と優先順位に影響を与えることができます。 |
+| [Experience Cloud オーディエンスパブリッシングの改善](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/integrations/experience-cloud/improved-experience-cloud-audience-publishing.html) | [!UICONTROL Experience Cloud オーディエンスパブリッシング]が改善されました。オーディエンス（セグメント）をパブリッシュし、6 倍の速さで利用できるようになりました。これにより、現在の待ち時間が 48 時間から約 8 時間に短縮されました。トラフィックやセグメントのサイズによってはこれより早くなることもあります。 |
+| [Analysis Workspace の複数のレポートスイート](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.html) | パネルレベルでレポートスイートを選択すれば、1 つの [!UICONTROL Workspace] プロジェクトで複数のレポートスイートを分析できます。これにより、異なるデータセットをまたぎ、横に並べてパネルを分析できます。 |
 
-製品ドキュメ [ントについては、Adobe Analyticsヘルプホーム](https://docs.adobe.com/content/help/ja-JP/analytics/landing/home.html) （英語のみ）を参照してください。
+製品ドキュメントについては、[Adobe Analytics ヘルプホーム](https://docs.adobe.com/content/help/ja-JP/analytics/landing/home.html)を参照してください。
 
 ## ![アイコン](/assets/audience-manager.png) Audience Manager {#aam}
 
-Adobe Digital Managerの新機能および修正点：
+Adobe Audience Manager の新機能および修正点です。
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| [最も多いカスタマーサポートの問題](https://docs.adobe.com/content/help/en/audience-manager/user-guide/top-support-issues/support-issues-overview.html) | ドキュメントポータルに新しいセクションを追加しました。このセクションには、カスタマーサポートチームが最も頻繁に寄せる質問に対する回答が含まれています。 |
+| [最も多いカスタマーサポートの問題](https://docs.adobe.com/content/help/en/audience-manager/user-guide/top-support-issues/support-issues-overview.html) | ドキュメントポータルに新しいセクションを追加しました。このセクションには、カスタマーサポートチームが最も頻繁に寄せられる質問に対する回答が含まれています。 |
 
-* モバイルデバイスIDを含むセグメントのアドレス可能な [オーディエンスのレポート](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/addressable-audiences.html) が正しくない問題を修正しました。 この更新後、アドレス指定可能なオーディエンスが増える場合があ [ります](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/addressable-audiences.html)。
-* 「  重複テスト [!UICONTROL 」ボタンと「] 重複割り当て [!UICONTROL オーディエンス] 」ボタンが機能しない問題を修正しました。 （AAM-53388）
-* 宛先がUUIDをエクスポートするように設定さ [!UICONTROL れている場合] 、「一致率」と「セグメントアドレス可能なオーディエンス  」が「0」と表示される問題を修正しました。 一致率 [!UICONTROL とセグメン] トアドレス可能なオーディエンス  (Match Rate)が100%と表示されるようになりました。 （AAM-51615）
-* 特殊文字を含む特性名が2回HTMLエンコードされる問題を修正しました。 （AAM-54001）
-* 一部のユーザーがユーザーインターフェイスから他のAdobe Experience Cloudアプリケーションに切り替えられない問題を修 [!DNL Audience Manager] 正しました。 （AAM-52917）
-* 一部のユーザーがPeopleベースの宛先用にSHA256データソースを作成できない問題を修正しました。 （AAM-53525）
-* インターフェイス全体で複数のアクセシビリティの改善。 （AAM-48986、AAM-49009、AAM-48984、AAM-48939、AAM-48940、AAM-48964、AAM-49032、AAM-49360）
+* モバイルデバイス ID を含むセグメントで、[アドレス指定可能なオーディエンス](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/features/addressable-audiences.html)のレポートが不正確となる問題を修正しました。この更新後、[アドレス指定可能なオーディエンス](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/features/addressable-audiences.html)が増加する場合があります。
+* [!UICONTROL Audience Lab] の「[!UICONTROL 重複テスト]」ボタンと「[!UICONTROL 重複割り当てテンプレート]」ボタンが機能しない問題を修正しました。（AAM-53388）
+* 宛先で UUID を書き出すように設定されている場合、「[!UICONTROL 一致率]」と「[!UICONTROL セグメントアドレス指定可能なオーディエンス]」が「0」と表示される問題を修正しました。[!UICONTROL 一致率]と[!UICONTROL セグメントアドレス指定可能なオーディエンス ]が「100％」と表示されるようになりました。（AAM-51615）
+* 特殊文字を含む特性名が 2 回 HTML エンコード化される問題を修正しました。（AAM-54001）
+* Fixed an issue blocking some users from switching to other Adobe Experience Cloud applications from the [!DNL Audience Manager] user interface. （AAM-52917）
+* 一部のユーザーが People ベースの宛先用に SHA256 データソースを作成できない問題を修正しました。（AAM-53525）
+* インターフェイス全体で複数のアクセシビリティを改善しました。（AAM-48986、AAM-49009、AAM-48984、AAM-48939、AAM-48940、AAM-48964、AAM-49032、AAM-49360）
 
 ## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
@@ -200,62 +201,62 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 ### セルフサービス
 
-* **AEMニュースレター**
+* **AEM ニュースレター**
 
-   最新の [Adobe Experience Managerニュースレターを参照してください](https://expleague.azureedge.net/assets/aem/Experience-Insider-vol.30.html)。
+   最新の [Adobe Experience Manager](https://expleague.azureedge.net/assets/aem/Experience-Insider-vol.30.html) ニュースレターを参照してください。
 
-* **AEMをクラウドサービスとして — ダイナミックメディアクラウドサービスの設定**
+* **AEM as a Cloud Service - Dynamic Media クラウドサービスの設定**
 
-   ダイナミックメディアクラウドサービスを設定する際に、次の新しいオプションを使用できます。
+   Dynamic Media クラウドサービスを設定する際には、次の新しいオプションを使用できます。
 
-   **一部のみの公開** — このオプションを選択すると、アセットは安全なプレビューのためにのみ自動公開され、公開ドメイン内の配信用にDMS7に公開することなく、AEMに明示的に公開できます。
+   **一部のみ公開** - このオプションを選択すると、アセットは安全なプレビュー用にのみ自動公開され、パブリックドメイン内の配信用に DMS7 に公開することなく、AEM へ明示的に公開できます。
 
-   See [Configuring Dynamic Media Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#configuring-dynamic-media-cloud-services).
+   [Dynamic Media クラウドサービスの設定](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html#configuring-dynamic-media-cloud-services)を参照してください。
 
-* **ダイナミックメディア — スマートイメージング**
+* **Dynamic Media - スマートイメージング**
 
-   スマートイメージングのヘルプトピック全体が更新され、追加されたスマートイメージングの最適化を示す画像アセットの例を含む新しい情報が追加されました。
+   スマートイメージングのヘルプトピック全体が更新され、追加されたスマートイメージングの最適化について説明する画像アセットの例など、新しい情報が追加されました。
 
-   スマートイメ [ージングを参照](https://docs.adobe.com/content/help/en/experience-manager-65/assets/dynamic/imaging-faq.html)。
+   [スマートイメージング](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/assets/dynamic/imaging-faq.html)を参照してください。
 
-* **ダイナミックメディアの設定 — Scene7モード**
+* **Dynamic Media - Scene7 モード**
 
-   新しい「すべてのコンテンツを同期」オプションが、ツール/クラウドサービスのダイナミックメディア設定ペ **[!UICONTROL ージで使用できるようになりました]**。
+   **[!UICONTROL ツール／Cloud Services]** の Dynamic Media 設定ページで、新しい「すべてのコンテンツを同期」オプションを使用できるようになりました。
 
-   ダイナミック [メディア設定の作成を参照してください](https://docs.adobe.com/content/help/en/experience-manager-65/assets/dynamic/config-dms7.html#configuring-dynamic-media-cloud-services)。
+   [Dynamic Media 設定の作成](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/assets/dynamic/config-dms7.html#configuring-dynamic-media-cloud-services)を参照してください。
 
-* **AEM Assets Brand Portalは、AEM Assetsをクラウドサービスとしてサポートします。**
+* **AEM Assets Brand Portal は、AEM Assets as a Cloud Service をサポートします**
 
-   AEM AssetsからクラウドサービスとしてAEM Assets Brand Portalにアセットを公開できるようになりました。
+   AEM Assets as a Cloud Service から AEM Assets ブランドポータルにアセットを公開できるようになりました。
 
-   Brand PortalでのAEM [アセットの設定および](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html) Brand Portalへのアセ [ットの公開を参照してください](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html)。
+   [ブランドポータルでの AEM Assets の設定](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html)および[ブランドポータルへのアセットの公開](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html)を参照してください。
 
-* **Adobe Asset Link 2.0のリリース**
+* **Adobe Asset Link 2.0 のリリース**
 
-   Adobe Asset Link 2.0は、複数のAEM環境の操作をサポートし、AEMをクラウドサービスとしてサポートします。 AEMは、Adobe Asset Linkを使用してアセットをフォルダーにアップロードする場合、マーケターがアセット処理ワークフローの自動実行を設定する必要があることをサポートしています。
+   Adobe Asset Link 2.0 は、複数の AEM 環境の操作をサポートし、AEM as a Cloud Service をサポートします。AEM は、Adobe Asset Link を使用してアセットをフォルダーにアップロードする際の、アセット処理ワークフローの自動実行を設定したいというユーザーのニーズをサポートします。
 
-   See [Adobe Asset Link](https://helpx.adobe.com/jp/enterprise/using/adobe-asset-link.html).
+   [Adobe Asset Link](https://helpx.adobe.com/jp/enterprise/using/adobe-asset-link.html)を参照してください。
 
-### Experience Managerの新しいチュートリアル
+### Experience Manager の新しいチュートリアル
 
 | コンテンツ | 説明 |
 | -----------| ---------- |  
-| [ローカルディスパッチャーツールの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/dispatcher-tools.html) | ディスパッチャーをローカルで設定、検証、シミュレーションする方法につ [!UICONTROL いて] 、説明します。 |
-| [AEMプロジェクトの開発ツールの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/development-tools.html) | Adobe Experience Manager (AEM)の開発では、開発者用マシンに最低限の開発ツールのセットをインストールして設定する必要があります。 これらのツールは、AEMプロジェクトの開発と構築をサポートします。 |
-| [ローカルAEMランタイムの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager(AEM)は、AEMをクラウドサービスSDKの [!UICONTROL QuickStart Jarとして使用して、ローカルで実行できます]。 これにより、開発者は、カスタムコード、設定およびコンテンツをソース管理にコミットする前に、そのコード、設定およびコンテンツをデプロイおよびテストし、クラウドサービス環境としてAEMにデプロイできます。 |
-| [ナビゲーション](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/authoring/navigation.html) | AEM Assetsのナビゲーションの基本を学びます。 |
-| [バージョン](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/collaboration/versions.html) | AEMがアセットのバージョンを作成し、維持する方法を確認します。 |
-| [AEM - [!DNL Magento] [!UICONTROL Commerce Integration Frameworkを使用した統合]](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/getting-started.html) | このビデオでは、AEMとの統合の設定手順を説明します [!DNL Magento]。 |
-| [AEMアーキテクチャスタックの概要](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-architecture.html) | CIFプロジェクトのアーキタイプは、CIFコアコンポーネントを使用する顧客プロジェクトの出発点として、最小限のAdobe Experience Manager(AEM)CIFプロジェクトを作成します。 |
-| [OSGiの概要](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-osgi.html) | Adobe Experience Managerの基盤となるJavaアプリケーション用の動的なモジュラーアーキテクチャであるOSGiの紹介です。 |
-| [Java Content Repository(JCR)の概要](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-jcr.html) | Adobe Experience Managerで使用される[Java Content Repository(JCR)の概要です。 |
-| [Slingの概要](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-sling.html) | Adobe Experience Managerの基盤と [!DNL Sling]なるテクノロジースタックの一部である、オープンソースのRESTful Webフレームワークの紹介です。 |
-| [作成者と公開層の概要](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-author-publish.html) | Adobe Experience Managerのアーキテクチャ [!UICONTROL の一部と] して  、作成者層と発行層の概要を説明します。 |
-| [ディスパッチャーの概要](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html) | AEMアーキテクチャの一部としてのディスパッチャーの機能と機能の紹介です。 |
-| [コンポーネント開発の概要](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/components/component-development.html) | Adobe Experience Manager Sitesを使用したコンポーネントの開発の概要です。 ダイアログ、Slingモデル [!UICONTROL 、]HTLスクリプト [!UICONTROL 、および]Side Librariesクライアントの概要が含まれます。 |
-| [AEM プロジェクトアーキタイプ](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/developing/aem-project-archetype.html) | AEMプロジェクトには、実装のすべてのコードと設定が含まれています。 The AEM [!UICONTROL Project Archetype] creates a minimal, best-practices-based Adobe Experience Manager project as a starting point for your own AEM projects. |
-| [コアコンポーネントについて](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/components/core-components-feature-video-understand.html) | AEMコア [!UICONTROL コンポーネント] は、Adobe Experience Managerで使用する標準セットコンポーネントです。 |
-| [AEM Quickstart Jarの使用](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/developing/quickstart-jar.html) | [!UICONTROL AEM Quickstart jarを使用して、Adobe Experience Managerのローカルインスタンスを数分でインストールし、実行する方法を説明します]。 |
+| [ローカル Dispatcher ツールの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/dispatcher-tools.html) | [!UICONTROL Dispatcher] をローカルで設定、検証、シミュレーションする方法について説明します。 |
+| [AEM プロジェクト用開発ツールの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/development-tools.html) | Adobe Experience Manager（AEM）を開発する際には、開発者用マシンに最低限の開発ツールのセットをインストールして設定する必要があります。これらのツールは、AEM プロジェクトの開発と構築をサポートします。 |
+| [ローカル AEM ランタイムの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager（AEM）は、AEM を Cloud Service SDK の [!UICONTROL QuickStart Jar] として使用して、ローカルで実行できます。これにより、開発者は、カスタムコード、設定およびコンテンツをソース管理にコミットする前に、それらをデプロイおよびテストし、AEM as a Cloud Service 環境にデプロイできます。 |
+| [ナビゲーション](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/authoring/navigation.html) | AEM Assets のナビゲーションの基本を確認します。 |
+| [バージョン](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/collaboration/versions.html) | AEM によってアセットのバージョンを作成し、維持する方法を確認します。 |
+| [AEM - [!DNL Magento] [!UICONTROL コマース統合フレームワーク]を使用した統合](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/getting-started.html) | このビデオでは、AEM と [!DNL Magento] の統合の設定手順を説明します 。 |
+| [AEM アーキテクチャスタックの概要](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-architecture.html) | CIF コアコンポーネントをカスタマープロジェクトの出発点として使用して、最小限の Adobe Experience Manager（AEM）CIF プロジェクトを作成する方法について説明します。 |
+| [OSGi の概要](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-osgi.html) | Adobe Experience Manager の基盤となる Java アプリケーション用の動的なモジュラーアーキテクチャである OSGi の紹介です。 |
+| [Java コンテンツリポジトリー（JCR）の概要](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-jcr.html) | Adobe Experience Manager で使用される Java コンテンツリポジトリー（JCR）の概要です。 |
+| [Sling の概要](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-sling.html) | Adobe Experience Manager の基盤と なるテクノロジースタックの一部である、オープンソースの RESTful Web フレームワーク、[!DNL Sling] の紹介です。 |
+| [オーサー階層とパブリッシュ階層の概要](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-author-publish.html) | Adobe Experience Manager アーキテクチャの一部としての、[!UICONTROL オーサー]階層と[!UICONTROL パブリッシュ]階層の概要を説明します。 |
+| [Dispatcher の概要](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-dispatcher.html) | AEM アーキテクチャの一部としてのディスパッチャーの機能の紹介です。 |
+| [コンポーネント開発の概要](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/components/component-development.html) | Adobe Experience Manager Sites を使用したコンポーネント開発の概要です。[!UICONTROL ダイアログ]、[!UICONTROL Sling モデル]、[!UICONTROL HTL スクリプト]、および[!UICONTROL クライアントサイドクライアント]の概要が含まれます。 |
+| [AEM プロジェクトアーキタイプ](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/developing/aem-project-archetype.html) | AEM プロジェクトには、実装のすべてのコードと設定が含まれています。AEM [!UICONTROL プロジェクトのアーキタイプ]は、最小限のベストプラクティスベースの Adobe Experience Manager プロジェクトを独自の AEM プロジェクトの出発点として作成します。 |
+| [コアコンポーネントについて](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/components/core-components-feature-video-understand.html) | AEM [!UICONTROL コアコンポーネント]は、Adobe Experience Manager で使用する標準セットコンポーネントです。 |
+| [AEM Quickstart Jar の使用](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/developing/quickstart-jar.html) | [!UICONTROL AEM Quickstart jar] を使用して、Adobe Experience Manager のローカルインスタンスを数分でインストールし、実行する方法について説明します。 |
 
 ### その他のヘルプリソース
 
@@ -278,13 +279,13 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 * [Adobe Campaign Standard 20.2](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html)
 
-### 新しいキャンペーン標準のチュートリアル {#tutorials-acs}
+### 新しい Campaign Standard のチュートリアル {#tutorials-acs}
 
 | コンテンツ | 説明 |
 | -----------| ---------- |  
-| [プロファイルの置き換え — ターゲットを設定したメッセージを使用した電子メールプロファイルのテスト](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/profile-substitution.html) | 電子メールメッセージの置き換え機能を使用してプロファイルをテストします。 |
+| [プロファイルの置き換え - ターゲットを絞ったプロファイルを使用した電子メールメッセージのテスト](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/profile-substitution.html) | プロファイルの置き換え機能を使用して電子メールメッセージをテストします。 |
 
-### その他のキャンペーンヘルプリソース
+### その他の Campaign ヘルプリソース
 
 * Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)- [リリース計画](https://helpx.adobe.com/jp/campaign/kb/acs-release-planning.html)
 * Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/ja-JP/RN.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
@@ -307,7 +308,7 @@ Magent リリースノートについては、以下を参照してください�
 
 ### Core Marketo Engage の更新
 
-詳しくは、 [!DNL Marketo] リリ [ースノート](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) を参照してください。
+詳しくは、[!DNL Marketo] [リリースノート](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720)を参照してください。
 
 ### 予定されている機能
 
@@ -324,7 +325,7 @@ Magent リリースノートについては、以下を参照してください�
 
 ### 廃止
 
-* **アセットAPI &quot;_method&quot;パラメータ：** 2020年9月以降、アセットAPIエンドポイントは、URIの長さ制限を回避す `_method` るために、POST本文でクエリパラメーターを渡すことを受け入れなくなります。
+* **アセットAPI &quot;_method&quot; パラメーター：** 2020 年 9 月以降、アセット API エンドポイントでは、URI の長さ制限を回避するために、POST 本文にクエリパラメーターを渡す `_method` を使用できなくなります。
 * **Internet Explorer のサポートの廃止：** 2020 年 7 月 31 日のリリース以降、Marketo Engage ユーザーインターフェイスは Internet Explorer でサポートされなくなります。
 
 これまでのリリースノートと過去のリリースノートについては、[Marketo リリースノート](https://docs.marketo.com/x/CgA6Ag)を参照してください。
