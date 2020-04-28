@@ -4,13 +4,13 @@ description: Experience Cloud リリースノートのテンプレート
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3a66c0ee04a336a702ea9ff502a0f2ce6c5b2109
 
 ---
 
 
-# Adobe Experience Cloudリリースノート — 2020年4月
+# Adobe Experience Cloud リリースノート - 2020 年 4 月
 
 ![バナー](/assets/experience-cloud-banner-3.png)
 
@@ -22,18 +22,18 @@ source-git-commit: 3a66c0ee04a336a702ea9ff502a0f2ce6c5b2109
 
 **リリース日：2020 年 4 月**
 
-（特定のリリース日は私の変わります）。
+（特定のリリース日は変更される場合があります）
 
 * [Adobe システムステータス](#status)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) **（更新日4月16日）**
+* [!DNL Analytics](#analytics)**（更新日：4 月 17 日）**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html) (ターゲットのヘルプページへのリンク)
+* [!DNL Target](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)（Target のヘルプページへのリンク）
 * [!DNL Magento](#magento)
 * [!DNL Marketo](#marketo)
-* [!DNL Primetime](https://helpx.adobe.com/jp/primetime/user-guide.html) （Primetimeのヘルプページへのリンク）
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（Primetime のヘルプページへのリンク）
 
 ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.html)を参照してください。
 
@@ -52,14 +52,14 @@ source-git-commit: 3a66c0ee04a336a702ea9ff502a0f2ce6c5b2109
 | 使用権限に基づいた購読のパーソナライズ | <ul><li>ユーザーの DX 使用権限に基づいて事前に選択されたユーザーのレコメンデーション。</li><li>推奨された購読は、素早く視覚化できるよう、製品リストの上部にハイライト表示されます。</li><li>ユーザーの製品使用権限と関連した電子メール通知が送られます。</li></ul> |
 | 購読管理を簡易化 | <ul><li>「**[!UICONTROL 購読管理]**」は、製品とイベントの両方の購読を管理する新しいユーザーエクスペリエンスです。</li><li>製品とイベント購読の表示と編集を個別におこなう新しいオプション。</li><li>「**[!UICONTROL 削除]**」オプションを使用すると、製品またはイベントの購読を登録解除できます。</li><li>ワンクリックでの「**[!UICONTROL すべてを購読解除]**」オプションは、製品購読で使用できます。</li><li>UX のサポートは Web／モバイル／タブレットで利用でき、19 の言語にローカライズされています。</li></ul> |
 
-## ![Icon](/assets/ec_appicon_24.png) Experience Cloudインターフェイス {#ecloud}
+## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud インターフェイス {#ecloud}
 
-Experience Cloudインターフェイスの新機能および修正点：
+Experience Cloud インターフェイスの新機能および修正点です。
 
 * Experience Cloud [!UICONTROL フィード]ページは非推奨になりました。（EXC-8505）
 * 新しいブランディング要素を反映するよう、Experience Cloud のログインページが更新されました。（EXC-10747）
 
-For product documentation, see [Experience Cloud interface help](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html).
+製品ドキュメントについては、[Experience Cloud インターフェイスのヘルプ](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html)を参照してください。
 
 ### 統合製品ドメイン
 
@@ -67,16 +67,16 @@ For product documentation, see [Experience Cloud interface help](https://docs.ad
 
 更新内容は次のとおりです。
 
-* 新しいアプリケーションURL: `experience.adobe.com/<application name>`:
+* 新しいアプリケーション URL：`experience.adobe.com/<application name>`：
    * すべての製品で、最終的にこの URL パターンが採用されます。1 ヶ月間にわたって効果的な新しい URL を探します。
-   * ブラウザーのサポート：サポートされるブラウザーには、[!DNL Microsoft Edge]、[!DNL Google Chrome]、[!DNL Firefox]、[!DNL Safari]、および [!DNL Opera]（最新バージョン）が含まれます。**注意：** Experience Cloudインターフェイスはこれらのブラウザーをサポートしていますが、個々のアプリケーションがすべてのブラウザーをサポートしているとは限りません。 （例えば、[Analytics](https://docs.adobe.com/content/help/ja-JP/analytics/admin/sys-reqs.html) は [!DNL Opera] をサポートしておらず、[Target](https://docs.adobe.com/help/ja-JP/target/using/implement-target/before-implement/supported-browsers.html) は [!DNL Safari] をサポートしていません）。
+   * ブラウザーのサポート：サポートされるブラウザーには、[!DNL Microsoft Edge]、[!DNL Google Chrome]、[!DNL Firefox]、[!DNL Safari]、および [!DNL Opera]（最新バージョン）が含まれます。**メモ：** Experience Cloud インターフェイスはこれらのブラウザーをサポートしていますが、個々のアプリケーションがすべてのブラウザーに対応しているわけではありません（例えば、[Analytics](https://docs.adobe.com/content/help/ja-JP/analytics/admin/sys-reqs.html) は [!DNL Opera] をサポートしておらず、[Target](https://docs.adobe.com/help/ja-JP/target/using/implement-target/before-implement/supported-browsers.html) は [!DNL Safari] をサポートしていません）。
    * （[!DNL Safari] のみ）ドメインの変更によって、[!DNL Safari] で cookie の問題が発生する場合があります。[!DNL Safari] のプライバシー設定で「_サイト越えトラッキングを防ぐ_」をオフにすると、ドメイン（およびすべてのクロスサイトエクスペリエンス）間で cookie が有効になり、Experience Cloud がこの新しいドメインで機能するようになります。
 * 組織間または別のアプリケーション間の切り替えが容易になりました。
 * 製品ヘルプの改善：ヘルプ検索にコミュニティフォーラムやビデオコンテンツの結果も含められるよう、[!UICONTROL Experience League] は製品に統合されています。この変更により、より多くのコンテンツへのアクセスが簡素化され、Experience Cloud を最大限に活用できるようになります。さらに、**[!UICONTROL ヘルプ]** ／ **[!UICONTROL フィードバック]**&#x200B;をクリックして問題を報告したり、アドビとアイデアを共有したりします。
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-Javerny Orchestration [!DNL Experience Platform,] 、People [!DNL Experience Platform Launch,] 、Pople、Places、Mobile Services、Security Bullinsを含むリリースノート [!UICONTROL を]参 照してください。
+[!DNL Experience Platform,] のリリースノート（[!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration]、[!UICONTROL Offers]、[!UICONTROL People]、[!UICONTROL Places]、[!UICONTROL Mobile Services]、およびセキュリティ速報を含む）。
 
 ### ジャーニーオーケストレーション {#journey}
 
@@ -103,7 +103,7 @@ Unity 4.19.0（2020 年 3 月 11 日）:
 
 ### その他の Experience Platform のリリース情報
 
-* [Experience Platform Launch リリースノート](https://docs.adobe.com/content/help/ja-JP/launch/using/intro/release-notes/current.html)。
+* [Experience Platform Launch リリースノート](https://docs.adobe.com/content/help/ja-JP/launch/using/intro/release-notes/current.html)
 * [Experience Platform リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [セキュリティ速報および情報](https://helpx.adobe.com/jp/security.html)（すべてのアドビ製品）
 
@@ -111,11 +111,11 @@ Unity 4.19.0（2020 年 3 月 11 日）:
 
 >[!IMPORTANT]
 >
->Adobe Analyticsの4月のメンテナンスリリースは、2020年5月22日に移行されました。 Analyticsの最新のリリース情報について詳しくは、3月のリリースノ [ートを参照してください](c-legacy-releases/2020/03122020.md)
+>Adobe Analytics の 4 月のメンテナンスリリースは、2020 年 5 月 22 日へと変更されました。Analytics の最新のリリース情報について詳しくは、[3 月のリリースノート](c-legacy-releases/2020/03122020.md)を参照してください
 
 * [Customer Journey Analytics](#cust-journey)
 <!--* [New features in Adobe Analytics](#aa-features)-->
-* [Analytics管理者向けの重要な注意](#aa-notices) （更新日2020年4月17日）
+* [Analytics 管理者向けの重要な注意事項](#aa-notices)（2020 年 4 月 17 日更新）
 * [AppMeasurement](#appm)
 * [新しい Analytics チュートリアル](#tutorials-analytics)
 
@@ -123,7 +123,7 @@ Unity 4.19.0（2020 年 3 月 11 日）:
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| [!UICONTROL Customer Journey Analytics]：自動データセットバックフィル | この新しいオプションを使用すると、[!UICONTROL Customer Journey Analytics] の接続に関するすべての履歴データを読み込むことができます。[詳細情報](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html) |
+| [!UICONTROL Customer Journey Analytics]：自動データセットバックフィル | この新しいオプションを使用すると、[!UICONTROL Customer Journey Analytics] の接続に関するすべての履歴データを読み込むことができます。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-connections/create-connection.translate.html) |
 
 <!--### New features in Adobe Analytics {#aa-features}
 
@@ -155,7 +155,7 @@ AN-212151; AN-214343; AN-215017; AN-115525; AN-123869; AN-101871; AN-152580; AN-
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| 「Data Warehouseで適用されたセグメント」チェックを削除しました。 | 2020 年 4 月 17 日 | 2020年4月17日以降、セグメントビルダー内から、Data Warehouseリクエストでセグメントが適用されているかどうかを確認する必要はなくなりました。 以前は、このチェックでは、Data Warehouseリクエストに適用された単一のセグメント（複数のセグメントが適用された場合は除外された）を探し、trueの場合は警告通知を返していました。 この変更は、セグメントのData Warehouse製品の互換性チェックには影響しません。 |
+| 「Data Warehouse で適用されたセグメント」チェックを削除しました。 | 2020 年 4 月 17 日 | 2020年 4 月 17 日以降、セグメントビルダー内から、Data Warehouse リクエストでセグメントが適用されているかどうかを確認する必要はなくなりました。以前は、このチェックでは、Data Warehouse リクエストで適用された単一のセグメントを探し（複数のセグメントが適用された場合は除外）、true の場合は警告通知を返していました。この変更は、セグメントの Data Warehouse 製品の互換性チェックには影響しません。 |
 | [!UICONTROL Workspace] での[!UICONTROL 入口／出口]の計算方法の変更 | 2020 年 4 月 8 日 | 2020 年 3 月の時点で、[!UICONTROL Analysis Workspace] における「_なし_」の値と[!UICONTROL 入口／出口]との相互作用を変更しました。[!UICONTROL Analysis Workspace] で「_なし_」をオン／オフにできるようになったので、入口または出口の後に「_なし_」を適用します。（eVar の場合）以前は、これらの前に適用されていました。例えば、訪問の最初のヒットに eVar の値がないが、2 回目のヒットに eVarx の値があるとします。[!UICONTROL Reports &amp; Analytics] では、そのエントリに対して「_未指定_」と表示されますが、[!UICONTROL Analysis Workspace] では 2 回目のヒットの値が表示されます。 |
 | **[!UICONTROL コンバージョンレベル]**&#x200B;設定のサポート終了 | 2020 年 3 月 4 日 | **[!UICONTROL 管理ツール]**／**[!UICONTROL レポートスイート]**／**[!UICONTROL 一般的なアカウント設定]**&#x200B;で、機能しない[コンバージョンレベル](https://docs.adobe.com/content/help/ja-JP/analytics/admin/admin-tools/general-acct-settings-admin.html)設定は、2020 年 3 月 13 日にユーザーインターフェイスから削除されます。 |
 | **[!UICONTROL ダッシュボードアーカイブ]**&#x200B;のサービス終了 | 2020 年 3 月 28 日 | [!UICONTROL Reports &amp; Analytics] の「**[!UICONTROL ダッシュボードを管理]**」の「**[!UICONTROL アーカイブを表示]**」設定は、2020 年 10 月から使用できなくなります。 |
@@ -191,7 +191,7 @@ Adobe Audience Manager の新機能および修正点です。
 * [!UICONTROL Audience Lab] の「[!UICONTROL 重複テスト]」ボタンと「[!UICONTROL 重複割り当てテンプレート]」ボタンが機能しない問題を修正しました。（AAM-53388）
 * 宛先で UUID を書き出すように設定されている場合、「[!UICONTROL 一致率]」と「[!UICONTROL セグメントアドレス指定可能なオーディエンス]」が「0」と表示される問題を修正しました。[!UICONTROL 一致率]と[!UICONTROL セグメントアドレス指定可能なオーディエンス ]が「100％」と表示されるようになりました。（AAM-51615）
 * 特殊文字を含む特性名が 2 回 HTML エンコード化される問題を修正しました。（AAM-54001）
-* Fixed an issue blocking some users from switching to other Adobe Experience Cloud applications from the [!DNL Audience Manager] user interface. （AAM-52917）
+* 一部のユーザーが [!DNL Audience Manager] ユーザーインターフェイスから他の Adobe Experience Cloud アプリケーションに切り替えられない問題を修正しました。（AAM-52917）
 * 一部のユーザーが People ベースの宛先用に SHA256 データソースを作成できない問題を修正しました。（AAM-53525）
 * インターフェイス全体で複数のアクセシビリティを改善しました。（AAM-48986、AAM-49009、AAM-48984、AAM-48939、AAM-48940、AAM-48964、AAM-49032、AAM-49360）
 
@@ -265,10 +265,10 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 * [AEM 6.4 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-4.html)
 * [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-3.html)
 * [AEM 6.2 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-2.html)
-* [Cloud Manager ユーザーガイド](https://helpx.adobe.com/jp/experience-manager/cloud-manager/user-guide.html)
+* [Cloud Manager ユーザーガイド](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
 * [AEM ドキュメントの以前のバージョン](https://helpx.adobe.com/jp/experience-manager/aem-previous-versions.html)
 * [Dynamic Media Classic ヘルプホーム](https://docs.adobe.com/content/help/ja-JP/dynamic-media-classic/using/home.html)
-* [Dynamic Media リリースノート](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
+* [Dynamic Media リリースノート](https://docs.adobe.com/content/help/ja-JP/dynamic-media-developer-resources/release-notes/s7rn2017.html)
 * [Livefyre リリースノート](https://docs.adobe.com/content/help/ja-JP/livefyre/using/release-notes/c-rn.html)
 
 ## ![アイコン](/assets/campaign.png) [!DNL Campaign] {#ac}
@@ -304,7 +304,7 @@ Magent リリースノートについては、以下を参照してください�
 
 ## ![アイコン](/assets/marketo.png) [!DNL Marketo] {#marketo}
 
-[!DNL Marketo Engage] は、複雑な購入の遍歴のあらゆる段階を通じて顧客体験を変えようとしている、リード管理とB2Bマーケター向けの完全なアプリケーションです。
+[!DNL Marketo Engage] は、複雑な購入ジャーニーの各ステージを通じてエンゲージメントをおこなうことで顧客体験を変えようとしているリード管理や B2B マーケター向けの完全なアプリケーションです。
 
 ### Core Marketo Engage の更新
 
