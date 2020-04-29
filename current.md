@@ -4,8 +4,8 @@ description: Experience Cloud リリースノートのテンプレート
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: ht
-source-git-commit: 3a66c0ee04a336a702ea9ff502a0f2ce6c5b2109
+translation-type: tm+mt
+source-git-commit: bdd987971b9bb9afbc97847642c5d797f122e67d
 
 ---
 
@@ -22,11 +22,13 @@ source-git-commit: 3a66c0ee04a336a702ea9ff502a0f2ce6c5b2109
 
 **リリース日：2020 年 4 月**
 
+最新の更新：2020 **年4月29日**
+
 （特定のリリース日は変更される場合があります）
 
 * [Adobe システムステータス](#status)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics)**（更新日：4 月 17 日）**
+* [!DNL Analytics](#analytics) **（更新日4月29日）**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -123,6 +125,7 @@ Unity 4.19.0（2020 年 3 月 11 日）:
 
 | 機能 | 説明 |
 | -----------| ---------- |
+| Data Workbench 6.74 (**Update 4/29/2020**) | サーバー実装でのIMS(Identity Management Service)TLS証明書解析の更新。 この更新により、解析が文字列一致から通常の式に拡張され、サブジェクト代替名(SAN)証明書の処理機能が追加されました。 See [Data Workbench release notes](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html) for more information. |
 | [!UICONTROL Customer Journey Analytics]：自動データセットバックフィル | この新しいオプションを使用すると、[!UICONTROL Customer Journey Analytics] の接続に関するすべての履歴データを読み込むことができます。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-connections/create-connection.translate.html) |
 
 <!--### New features in Adobe Analytics {#aa-features}
