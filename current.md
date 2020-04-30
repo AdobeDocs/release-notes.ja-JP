@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bdd987971b9bb9afbc97847642c5d797f122e67d
+source-git-commit: a9f229b5766e90c4fef37d5c35f055856aa42f5a
 
 ---
 
@@ -188,6 +188,8 @@ Adobe Audience Manager の新機能および修正点です。
 
 | 機能 | 説明 |
 | -----------| ---------- |  
+| [予測オーディエンス](../features/algorithmic-models/predictive-audiences.md) | [!UICONTROL 予測オーディエンスは] 、高度なデータ科学技術を使用して、不明なオーディエンスを別の個人にリアルタイムで分類するのに役立ちます。 <br><br> マーケティングコンテキストで、個人とは、訪問者、ユーザー、または潜在的な購入者が定義したオーディエンスセグメントで、人口統計、閲覧習慣、買い物履歴などの特定の特性を共有します。<br><br>[!UICONTROL 予測オーディエンスモデルは] 、オーディエンスマネージャの機械学習機能を使用して、未知のオーディエンスを別の個人に分類できるようにすることで、この概念をさらに一歩進めます。 <br><br>オーディエンスマネージャーは、既知のファーストパーティオーディエンスのセットに対する未知のファーストパーティオーディエンスの傾向を計算することで、これを達成するのに役立ちます。 |
+| Additional [!UICONTROL Profile Merge Rules] Enhancements | [!UICONTROL プロファイルの結合ルール] :オーディエンスマネージャのお客様は、デバイスではなく、IDに基づいてオーディエンスセグメントを定義、管理およびアクティブ化できます。 <br><br> 4月29日以降、オーディエンスマネージャーのお客様は、オーディエンスマネージャーのUIで、個々のセグメント化と一括レポートの両方で、特性とセグメントに関するデバイスおよびデバイス間IDの訪問者の分類をより深く理解できるようになります。 <br><br> これにより、オーディエンスマネージャ内のIDに対する洞察が向上し、デバイス別、個人別、および家族別のセグメント全体の訪問者に関する総合的な表示が得られます。 デバイス間およびデバイスIDの一括特性エクスポートも、これらの強化を反映して更新されます。<br><br>  特定の更新には、次の機能が含まれます。 <ul><li>一般レポー [トとトレンドレポートでの](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html) 、デバイス間 [のID](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/general-reports.html)[に対するレポート](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/trend-reports.html) 、</li><li>セグメントビ [!UICONTROL ルダーの] 「特性セレクタ [ー」を強化して](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/features/segments/segment-builder.html) 、 [CRM IDからキー設定された特性の母集団を含めます](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html)。</li><li>デバイス間IDをキーにした正確な特 [性エクスポートを作成](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html)、</li><li>デバイスIDをキーにした正確な特 [性のエクスポートを作成](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html) （認証済みの特性を除外する必要があります）。</li><li>BAAAMツールを使用して要求された場合、 [CRM IDに関連付け](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html) られた特性に [、正しい数を返](https://docs.adobe.com/help/ja-JP/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) します。</li></ul> |
 | [最も多いカスタマーサポートの問題](https://docs.adobe.com/content/help/en/audience-manager/user-guide/top-support-issues/support-issues-overview.html) | ドキュメントポータルに新しいセクションを追加しました。このセクションには、カスタマーサポートチームが最も頻繁に寄せられる質問に対する回答が含まれています。 |
 
 * モバイルデバイス ID を含むセグメントで、[アドレス指定可能なオーディエンス](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/features/addressable-audiences.html)のレポートが不正確となる問題を修正しました。この更新後、[アドレス指定可能なオーディエンス](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/features/addressable-audiences.html)が増加する場合があります。
