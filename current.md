@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a9f229b5766e90c4fef37d5c35f055856aa42f5a
+source-git-commit: d3802d290f1d5192e5bc31f4003ee12fd0ad1ff4
 
 ---
 
@@ -22,14 +22,14 @@ source-git-commit: a9f229b5766e90c4fef37d5c35f055856aa42f5a
 
 **リリース日：2020 年 4 月**
 
-最新の更新：2020 **年4月29日**
+最新の更新：2020 **年4月31日**
 
 （特定のリリース日は変更される場合があります）
 
 * [Adobe システムステータス](#status)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics) **（更新日4月29日）**
-* [Audience Manager](#aam)
+* [オーディエンスマネ](#aam)**ージャ（4月30日更新）**
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)（Target のヘルプページへのリンク）
@@ -185,6 +185,8 @@ AN-212151; AN-214343; AN-215017; AN-115525; AN-123869; AN-101871; AN-152580; AN-
 ## ![アイコン](/assets/audience-manager.png) Audience Manager {#aam}
 
 Adobe Audience Manager の新機能および修正点です。
+
+**（4月30日更新）**
 
 | 機能 | 説明 |
 | -----------| ---------- |  
