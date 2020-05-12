@@ -4,7 +4,7 @@ description: Experience Cloud リリースノートのテンプレート
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: bf3e1b2ed24c2f106ee3e6bfcc888ffa7eda7ba0
 
 ---
@@ -22,20 +22,20 @@ source-git-commit: bf3e1b2ed24c2f106ee3e6bfcc888ffa7eda7ba0
 
 **リリース日：2020 年 4 月**
 
-最新の更新： **2020年4月30日**
+最終更新日：**2020 年 5 月 1 日**
 
 （特定のリリース日は変更される場合があります）
 
 * [Adobe システムステータス](#status)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) **（更新日4月29日）**
-* [オーディエンスマネージャ](#aam)**（更新日4月30日）**
+* [!DNL Analytics](#analytics)**（更新日：4 月 30 日）**
+* [Audience Manager](#aam) **（更新日：5 月 1 日）**
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)（Target のヘルプページへのリンク）
 * [!DNL Magento](#magento)
 * [!DNL Marketo](#marketo)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html)（Primetime のヘルプページへのリンク）
+* [!DNL Primetime](https://helpx.adobe.com/jp/primetime/user-guide.html)（Primetime のヘルプページへのリンク）
 
 ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://docs.adobe.com/content/help/ja-JP/experience-cloud/user-guides/home.html)を参照してください。
 
@@ -125,7 +125,7 @@ Unity 4.19.0（2020 年 3 月 11 日）:
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| Data Workbench 6.74 (**Update 4/29/2020**) | サーバー実装でのID管理サービス(IMS)のTLS証明書解析の更新。 この更新により、文字列の一致から正規式への解析が拡張され、サブジェクト代替名(SAN)証明書の処理機能が追加されました。 See [Data Workbench release notes](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html) for more information. |
+| Data Workbench 6.74（**更新日：2020 年 4 月 30 日**） | サーバー実装での IMS（Identity Management Service）TLS 証明書解析の更新。この更新により、解析が文字列一致から、サブジェクト代替名（SAN）証明書の処理機能を含めた正規表現へと拡張されました。詳細については、[Data Workbench リリースノート](https://docs.adobe.com/content/help/ja-JP/data-workbench/using/release-notes/release-notes.html)を参照してください。 |
 | [!UICONTROL Customer Journey Analytics]：自動データセットバックフィル | この新しいオプションを使用すると、[!UICONTROL Customer Journey Analytics] の接続に関するすべての履歴データを読み込むことができます。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-connections/create-connection.translate.html) |
 
 <!--### New features in Adobe Analytics {#aa-features}
@@ -159,7 +159,7 @@ AN-212151; AN-214343; AN-215017; AN-115525; AN-123869; AN-101871; AN-152580; AN-
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
 | 「Data Warehouse で適用されたセグメント」チェックを削除しました。 | 2020 年 4 月 17 日 | 2020年 4 月 17 日以降、セグメントビルダー内から、Data Warehouse リクエストでセグメントが適用されているかどうかを確認する必要はなくなりました。以前は、このチェックでは、Data Warehouse リクエストで適用された単一のセグメントを探し（複数のセグメントが適用された場合は除外）、true の場合は警告通知を返していました。この変更は、セグメントの Data Warehouse 製品の互換性チェックには影響しません。 |
-| [!UICONTROL Workspace] での[!UICONTROL 入口／出口]の計算方法の変更 | 2020 年 4 月 8 日 | 2020 年 3 月の時点で、[!UICONTROL Analysis Workspace] における「_なし_」の値と[!UICONTROL 入口／出口]との相互作用を変更しました。[!UICONTROL Analysis Workspace] で「_なし_」をオン／オフにできるようになったので、入口または出口の後に「_なし_」を適用します。（eVar の場合）以前は、これらの前に適用されていました。例えば、訪問の最初のヒットに eVar の値がないが、2 回目のヒットに eVarx の値があるとします。[!UICONTROL Reports &amp; Analytics] では、そのエントリに対して「_未指定_」と表示されますが、[!UICONTROL Analysis Workspace] では 2 回目のヒットの値が表示されます。 |
+| [!UICONTROL Workspace] での[!UICONTROL 入口／出口]の計算方法の変更 | 2020 年 4 月 8 日 | 2020 年 3 月の時点で、[!UICONTROL Analysis Workspace] における「_なし_」の値と[!UICONTROL 入口／出口]との相互作用を変更しました。[!UICONTROL Analysis Workspace] で「_なし_」をオン／オフにできるようになったので、入口または出口の後に「_なし_」を適用します。（eVar の場合）以前は、これらの前に適用されていました。例えば、訪問の最初のヒットに eVar の値がないが、2 回目のヒットに eVar の値があるとします。[!UICONTROL Reports &amp; Analytics] では、そのエントリに対して「_未指定_」と表示されますが、[!UICONTROL Analysis Workspace] では 2 回目のヒットの値が表示されます。 |
 | **[!UICONTROL コンバージョンレベル]**&#x200B;設定のサポート終了 | 2020 年 3 月 4 日 | **[!UICONTROL 管理ツール]**／**[!UICONTROL レポートスイート]**／**[!UICONTROL 一般的なアカウント設定]**&#x200B;で、機能しない[コンバージョンレベル](https://docs.adobe.com/content/help/ja-JP/analytics/admin/admin-tools/general-acct-settings-admin.html)設定は、2020 年 3 月 13 日にユーザーインターフェイスから削除されます。 |
 | **[!UICONTROL ダッシュボードアーカイブ]**&#x200B;のサービス終了 | 2020 年 3 月 28 日 | [!UICONTROL Reports &amp; Analytics] の「**[!UICONTROL ダッシュボードを管理]**」の「**[!UICONTROL アーカイブを表示]**」設定は、2020 年 10 月から使用できなくなります。 |
 | TLS 1.1 のサポート終了 | 2019 年 10 月 4 日 | 2020 年 3 月 31 日までに、Adobe Analytics は TLS 1.1 のサポートを削除します。この変更は、最高のセキュリティ標準を維持し、顧客データの安全性を高めるアドビの継続的な取り組みの一環としておこなわれます。 |
@@ -186,13 +186,13 @@ AN-212151; AN-214343; AN-215017; AN-115525; AN-123869; AN-101871; AN-152580; AN-
 
 Adobe Audience Manager の新機能および修正点です。
 
-**（更新日4月30日）**
+**（更新日：5 月 1 日）**
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| [予測オーディエンス](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) | [!UICONTROL 予測オーディエンス] （予測）を使用すると、不明なオーディエンスを、高度なデータ科学技術を使用して、リアルタイムで個別の人物に分類できます。 <br><br> マーケティングコンテキストで、個人とは、訪問者、ユーザー、または潜在的な購入者が定義したオーディエンスセグメントで、人口統計、閲覧習慣、買い物履歴などの特定の特性のセットを共有します。<br><br>[!UICONTROL 予測オーディエンスモデルでは] 、Adobe Managerの機械学習機能を使用して、未知のオーディエンスを別々の人物に分類できるので、この概念は一歩先を行います。 <br><br>オーディエンスマネージャーを使用すると、既知のファーストパーティオーディエンスのセットに対する未知のファーストパーティオーディエンスの傾向を計算することで、これを実現できます。 |
-| Additional [!UICONTROL Profile Merge Rules] Enhancements | [!UICONTROL プロファイル結合ルール] :オーディエンスマネージャのお客様は、デバイスではなく、IDに基づいてオーディエンスセグメントを定義、管理およびアクティブ化できます。 <br><br> 4月29日より、オーディエンスマネージャーのお客様は、オーディエンスマネージャーUIの個々のセグメント化と一括レポートの両方で、特性とセグメントに対するデバイスID訪問者とクロスデバイスID訪問者の分類をより深く理解できるようになります。 <br><br> これにより、オーディエンスマネージャ内のIDに対するより優れたインサイトが得られ、デバイス別、個人別、および家族別の合計セグメント母集団に関する全体的な表示が得られます。 また、デバイス間およびデバイスIDの一括特性エクスポートも更新され、これらの機能強化が反映されます。<br><br>  特定の更新には、次の機能が含まれます。 <ul><li>[一般レポートと](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html) トレンドレポートのデバイス間ID [](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/general-reports.html)[](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/trend-reports.html) 、</li><li>セグメントビルダーの [!UICONTROL 特性セレクター] を拡張して、 [CRM IDでキー設定された特性母集団を含める](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/features/segments/segment-builder.html)[](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html)。</li><li>デバイス [間のIDをキーにした正確な特性エクスポートを作成](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html)、</li><li>デ [バイスIDをキーにした正確な特性エクスポートを作成します](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html) （認証された特性を除外する必要があります）。</li><li>[BAAM](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html) ツールを使用して要求された場合、 [](https://docs.adobe.com/help/ja-JP/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) CRM IDに関連付けられた特性に対して正しい数を返します。</li></ul> |
-| [最も多いカスタマーサポートの問題](https://docs.adobe.com/content/help/en/audience-manager/user-guide/top-support-issues/support-issues-overview.html) | ドキュメントポータルに新しいセクションを追加しました。このセクションには、カスタマーサポートチームが最も頻繁に寄せられる質問に対する回答が含まれています。 |
+| [Predictive Audiences](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) | [!UICONTROL Predictive Audiences] を使用すれば、高度なデータサイエンス技術を使用して、不明なオーディエンスを個別のペルソナへとリアルタイムで分類できます。<br><br>マーケティングにおいてペルソナとは、共通の特性セット（人口統計、閲覧習慣、購入履歴など）を持つ訪問者、ユーザー、または潜在的購入者によって定義されるたオーディエンスセグメントです。<br><br>[!UICONTROL Predictive Audiences] モデルでは、Audience Managerの機械学習機能を使用して不明なオーディエンスを個別のペルソナに分類し、この概念をさらに前進させます。<br><br>Audience Manager は既知のファーストパーティオーディエンスのセットに対する不明なファーストパーティオーディエンスの傾向を計算することで、これを実現できるようサポートします。 |
+| その他の[!UICONTROL プロファイル結合ルール]の強化 | [!UICONTROL プロファイル結合ルール]：Audience Manager のお客様は、デバイスではなく、ID に基づいてオーディエンスセグメントを定義、管理およびアクティブ化できます。<br><br>4 月 30 日以降、Audience Manager のお客様は、Audience Manager UI の個別セグメント化と一括レポートの両方で、特性とセグメントに対するデバイスとクロスデバイス ID 母集団の分類をより深く理解できるようになります。<br><br>これにより、Audience Manager 内の ID に対する深いインサイトが得られ、デバイス別、ユーザー別、および世帯別の合計セグメント母集団の全体像を把握できます。また、これらの機能強化を反映するため、デバイス間およびデバイス ID の一括特性エクスポートも更新されます。<br><br>具体的な更新には、次の機能が含まれます。 <ul><li>[一般](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html)レポートと[トレンド](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reporting/trend-reports.html)レポートの[クロスデバイス ID](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reporting/general-reports.html) に対するレポート。</li><li>[CRM ID](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html) をキーにした特性母集団を含めるよう、[セグメントビルダー](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/features/segments/segment-builder.html)の[!UICONTROL 特性セレクター]を強化する。</li><li>[クロスデバイス ID](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html) をキーにした正確な特性エクスポートを作成する</li><li>[デバイス ID ](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html)をキーにした正確な特性エクスポートを作成する（認証された特性を除外する必要があります）。</li><li>[BAAAM](https://docs.adobe.com/help/ja-JP/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) ツールを使用して要求された場合、[CRM ID](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/reference/ids-in-aam.html) と関連付けられた特性に対して正しいカウントを返します。</li></ul> |
+| [最も多いカスタマーサポートの問題](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/top-support-issues/support-issues-overview.html) | ドキュメントポータルに新しいセクションを追加しました。このセクションには、カスタマーサポートチームが最も頻繁に寄せられる質問に対する回答が含まれています。 |
 
 * モバイルデバイス ID を含むセグメントで、[アドレス指定可能なオーディエンス](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/features/addressable-audiences.html)のレポートが不正確となる問題を修正しました。この更新後、[アドレス指定可能なオーディエンス](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/features/addressable-audiences.html)が増加する場合があります。
 * [!UICONTROL Audience Lab] の「[!UICONTROL 重複テスト]」ボタンと「[!UICONTROL 重複割り当てテンプレート]」ボタンが機能しない問題を修正しました。（AAM-53388）
@@ -202,7 +202,7 @@ Adobe Audience Manager の新機能および修正点です。
 * 一部のユーザーが People ベースの宛先用に SHA256 データソースを作成できない問題を修正しました。（AAM-53525）
 * インターフェイス全体で複数のアクセシビリティを改善しました。（AAM-48986、AAM-49009、AAM-48984、AAM-48939、AAM-48940、AAM-48964、AAM-49032、AAM-49360）
 
-## ![Icon](/assets/aem.png) Experience Manager {#aem}
+## ![アイコン](/assets/aem.png) Experience Manager {#aem}
 
 Adobe Experience Manager（AEM）の新機能、修正点および更新です。安定性、セキュリティ、パフォーマンスを高めるために、オンプレミス環境のお客様には最新のパッチをデプロイすることをお勧めします。
 
@@ -236,7 +236,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
    AEM Assets as a Cloud Service から AEM Assets ブランドポータルにアセットを公開できるようになりました。
 
-   [ブランドポータルでの AEM Assets の設定](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html)および[ブランドポータルへのアセットの公開](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html)を参照してください。
+   [ブランドポータルでの AEM Assets の設定](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html)および[ブランドポータルへのアセットの公開](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/assets/brand-portal/publish-to-brand-portal.html)を参照してください。
 
 * **Adobe Asset Link 2.0 のリリース**
 
@@ -272,7 +272,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 * [AEM 6.4 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-4.html)
 * [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-3.html)
 * [AEM 6.2 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-2.html)
-* [Cloud Manager ユーザーガイド](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
+* [Cloud Manager ユーザーガイド](https://helpx.adobe.com/jp/experience-manager/cloud-manager/user-guide.html)
 * [AEM ドキュメントの以前のバージョン](https://helpx.adobe.com/jp/experience-manager/aem-previous-versions.html)
 * [Dynamic Media Classic ヘルプホーム](https://docs.adobe.com/content/help/ja-JP/dynamic-media-classic/using/home.html)
 * [Dynamic Media リリースノート](https://docs.adobe.com/content/help/ja-JP/dynamic-media-developer-resources/release-notes/s7rn2017.html)
