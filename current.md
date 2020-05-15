@@ -4,11 +4,11 @@ description: Experience Cloud リリースノートのテンプレート
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 77e4ac05707d9aa42ddf2e7fb93027b3226058e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3632'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -88,7 +88,7 @@ Experience Cloud インターフェイスの新機能および修正点です。
 Adobe Experience Platform を使用すると、それぞれの顧客のニーズをリアルタイムでインテリジェントに予測し、どのようなジャーニーをたどっていても、個別カスタマージャーニーをエクスペリエンスチャネル全体で大規模に編成することができます。
 
 * [ドキュメント](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html)
-* [リリースノート](http://www.adobe.com/go/platform-release-notes-en)
+* [リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.translate.html)
 * [ハウツービデオ](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ### Mobile Services および Mobile SDK {#mobile}
@@ -256,7 +256,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 | [ローカル AEM ランタイムの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/aem-runtime.html) | Adobe Experience Manager（AEM）は、AEM を Cloud Service SDK の [!UICONTROL QuickStart Jar] として使用して、ローカルで実行できます。これにより、開発者は、カスタムコード、設定およびコンテンツをソース管理にコミットする前に、それらをデプロイおよびテストし、AEM as a Cloud Service 環境にデプロイできます。 |
 | [ナビゲーション](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/authoring/navigation.html) | AEM Assets のナビゲーションの基本を確認します。 |
 | [バージョン](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/collaboration/versions.html) | AEM によってアセットのバージョンを作成し、維持する方法を確認します。 |
-| [AEM - [!DNL Magento] Commerce Integration Frameworkを使用した [!UICONTROL 統合]](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/getting-started.html) | このビデオでは、AEM と [!DNL Magento] の統合の設定手順を説明します 。 |
+| [AEM -  [!DNL Magento] [!UICONTROL コマース統合フレームワーク]を使用した統合](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/getting-started.html) | このビデオでは、AEM と [!DNL Magento] の統合の設定手順を説明します 。 |
 | [AEM アーキテクチャスタックの概要](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-architecture.html) | CIF コアコンポーネントをカスタマープロジェクトの出発点として使用して、最小限の Adobe Experience Manager（AEM）CIF プロジェクトを作成する方法について説明します。 |
 | [OSGi の概要](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-osgi.html) | Adobe Experience Manager の基盤となる Java アプリケーション用の動的なモジュラーアーキテクチャである OSGi の紹介です。 |
 | [Java コンテンツリポジトリー（JCR）の概要](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/underlying-technology/introduction-jcr.html) | Adobe Experience Manager で使用される Java コンテンツリポジトリー（JCR）の概要です。 |
@@ -298,7 +298,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 ### その他の Campaign ヘルプリソース
 
 * Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)- [リリース計画](https://helpx.adobe.com/jp/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/ja-JP/RN.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/classic.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.translate.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/control-panel/using/release-notes.html)
 
 <!-- ## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
