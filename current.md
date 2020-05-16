@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: ea42901b975981a10d42b9681d494604c385018c
+source-git-commit: 8ed0b98440cd68357d792abaec2a99dccbfa47dc
 workflow-type: tm+mt
 source-wordcount: '4766'
 ht-degree: 39%
@@ -29,7 +29,7 @@ ht-degree: 39%
 
 **リリース日：2020 年 5 月**
 
-最新の更新： **2020年5月15日**
+最新の更新： **2020年5月16日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
