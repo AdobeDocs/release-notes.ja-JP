@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b41cdd18c7e3251218bf41aee62979e5f79a4c2a
+source-git-commit: de8c5772f391dffac4458a736f0e0ea38c53c701
 workflow-type: tm+mt
-source-wordcount: '4722'
+source-wordcount: '4764'
 ht-degree: 39%
 
 ---
@@ -345,39 +345,41 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### Campaign Standard
 
-コントロールパネルのリリース：
-
-| 機能 | 説明 |
-| -----------| ---------- |  
-| GPG キー管理 | キャンペーンから送信されるデータを暗号化し、受信データを復号化するために、マーケティングインスタンスにGPGキーをインストールまたは生成します。 |
-| CNAMEサブドメインの証明書管理 | コントロールパネルで、CNAMEメソッドで委任されたサブドメインのSSL証明書を更新できるようになりました。 |
-
-* [Adobe Campaign Standard 20.3](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html)
+* [Adobe Campaign標準20.3リリース](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html)
 
 ### Campaign Classic
 
 * [Adobe Campaign Classic 20.1.3](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-20-1-3-build-9124)
 * [Adobe Campaign Classic 19.1.4](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/previous-releases/release--19-1.html#release-19-1-4-build-9032)
 
-### 新しい Campaign Standard のチュートリアル {#tutorials-acs}
+### キャンペーンコントロールパネル
+
+| 機能 | 説明 |
+| -----------| ---------- |  
+| GPG キー管理 | キャンペーンから送信されるデータを暗号化し、受信データを復号化するために、マーケティングインスタンスにGPGキーをインストールまたは生成します。 |
+| CNAMEサブドメインの証明書管理 | コントロールパネルで、CNAMEメソッドで委任されたサブドメインのSSL証明書を更新できるようになりました。 |
+
+### 新しいキャンペーンチュートリアル
+
+* 新しい Campaign Standard のチュートリアル
 
 | コンテンツ | 説明 |
 | -----------| ---------- |  
 | [コントロールパネル — Google TXTレコード管理](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/administrating/control-panel/google-txt-record-management.html) | キャンペーンコントロールパネルで、電子メールをGMAILアドレスに送信するために使用するすべてのサブドメインに、Google TXTサイト検証レコードを追加する方法を説明します。 |
 | [External APIアクティビティを使用したワークフローの設定と実行](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) | External APIアクティビティを使用して外部REST APIエンドポイントを呼び出す方法を説明します。 |
-| (ACS)Androidのプッシュ通知の使い [始めに — チュートリアル](https://jira.corp.adobe.com/browse/KT-3846) | このチュートリアルでは、ACSおよびAndroid Appでプッシュ通知を設定する手順を説明します。 |
+| (ACS)Androidのプッシュ通知の使い [始めに — チュートリアル](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | このチュートリアルでは、Campaign StandardおよびAndroid Appでプッシュ通知を設定する手順について説明します。 |
 
-### New Campaign Classic tutorials {#tutorials-acc}
+* 新しいCampaign Classicチュートリアル
 
 | コンテンツ | 説明 |
 | -----------| ---------- |  
 | [雪片の大データ管理](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Adobe Campaignクラシックの雪片コネクタを利用する方法を説明します。 |
 | [コントロールパネル — Google TXTレコード管理](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html) | キャンペーンコントロールパネルで、電子メールをGMAILアドレスに送信するために使用するすべてのサブドメインに、Google TXTサイト検証レコードを追加する方法を説明します。 |
 
-### その他の Campaign ヘルプリソース
+### キャンペーンのヘルプリソース
 
-* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)- [リリース計画](https://helpx.adobe.com/jp/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/classic.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.translate.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign標準： [ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [使い方ビデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [リリース計画](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-planning.htmll)[] — 最新ドキュメントの更新(https://docs.adobe.com/content/help/en/campaign-standard/using/documentation-updates.html)
+* Adobe Campaignクラシック： [ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/campaign-classic-home.html) - [](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.translate.html) リリースノート [-](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)ハウツービデオ [-] 最新のドキュメント更新(https://docs.adobe.com/content/help/en/campaign-classic/using/documentation-updates.html)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/control-panel/using/release-notes.html)
 
 ## ![アイコン](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
