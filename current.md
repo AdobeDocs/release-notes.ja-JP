@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: de8c5772f391dffac4458a736f0e0ea38c53c701
+source-git-commit: ea42901b975981a10d42b9681d494604c385018c
 workflow-type: tm+mt
-source-wordcount: '4764'
+source-wordcount: '4766'
 ht-degree: 39%
 
 ---
@@ -50,6 +50,8 @@ ht-degree: 39%
 
 [!UICONTROL Adobe システムステータス]は、アドビクラウド製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/) でご確認ください。
 
+リリース日：**2020 年 5 月 21 日**
+
 **最新情報**
 
 * Adobe ID を使用して、製品オファーやアドオンレベルまで掘り下げた、より精度の高いイベント通知を登録できます。購読のセットアップを迅速に行うために、購読プロセスでは、製品の権利付与に基づく製品とサービスの選択をお勧めします。 これにより、受信する電子メールの数が減り、インボックス内でより適切な通知を配信できます。 はじめに [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit) をご覧ください。
@@ -58,7 +60,7 @@ ht-degree: 39%
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| 購読と通知に関するユーザーエクスペリエンスを改善 | <ul><li>[!DNL Marketo Engage] 地域別の場所が、選択した商品のリストに基づいてフィルタリングされるようになりました。</li><li>[!DNL Marketo Engage] 電子メール通知は、ユーザーの地域、場所および環境の環境設定に関連します。</li></ul> |
+| 購読と通知に関するユーザーエクスペリエンスを改善 | <ul><li>[!DNL Marketo Engage] 地域別の場所が、選択した商品のリストに基づいてフィルタリングされるようになりました。</li><li>[!DNL Marketo Engage] 電子メール通知は、地域、場所および環境の環境設定に関連します。</li></ul> |
 | イベント購読確認 | <ul><li>進行中の単一イベントの更新を購読する際に、電子メールによる確認を受け取れるようになりました。</li></ul> |
 | グローバルナビゲーションの操作性の強化 | <ul><li>トップレベルのナビゲーションメニュー `Adobe.com` でのユーザーエクスペリエンスとの一貫性。</li></ul> |
 
