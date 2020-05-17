@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ed0b98440cd68357d792abaec2a99dccbfa47dc
+source-git-commit: 2cd60d72cfd5fa7d7ab0a17ba230162601f69b13
 workflow-type: tm+mt
-source-wordcount: '4766'
+source-wordcount: '4768'
 ht-degree: 39%
 
 ---
@@ -369,7 +369,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 | -----------| ---------- |  
 | [コントロールパネル — Google TXTレコード管理](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/administrating/control-panel/google-txt-record-management.html) | キャンペーンコントロールパネルで、電子メールをGMAILアドレスに送信するために使用するすべてのサブドメインに、Google TXTサイト検証レコードを追加する方法を説明します。 |
 | [External APIアクティビティを使用したワークフローの設定と実行](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) | External APIアクティビティを使用して外部REST APIエンドポイントを呼び出す方法を説明します。 |
-| (ACS)Androidのプッシュ通知の使い [始めに — チュートリアル](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | このチュートリアルでは、Campaign StandardおよびAndroid Appでプッシュ通知を設定する手順について説明します。 |
+| [Android向けプッシュ通知の使用の手引き（チュートリアル）](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | このチュートリアルでは、Campaign StandardおよびAndroid Appでプッシュ通知を設定する手順について説明します。 |
 
 * 新しいCampaign Classicチュートリアル
 
@@ -380,8 +380,8 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### キャンペーンのヘルプリソース
 
-* Adobe Campaign標準： [ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [使い方ビデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [リリース計画](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-planning.htmll)[] — 最新ドキュメントの更新(https://docs.adobe.com/content/help/en/campaign-standard/using/documentation-updates.html)
-* Adobe Campaignクラシック： [ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/campaign-classic-home.html) - [](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.translate.html) リリースノート [-](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)ハウツービデオ [-] 最新のドキュメント更新(https://docs.adobe.com/content/help/en/campaign-classic/using/documentation-updates.html)
+* Adobe Campaign標準： [ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) — リリース計画 [](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-planning.html)[— 最新ドキュメントの更新](https://docs.adobe.com/content/help/en/campaign-standard/using/documentation-updates.html)
+* Adobe Campaignクラシック： [ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/campaign-classic-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)- [最新のドキュメント更新](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/documentation-updates.html)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/control-panel/using/release-notes.html)
 
 ## ![アイコン](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
