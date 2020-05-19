@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e10656f2a2d2180295c61b7aad9e75391e23ccbd
+source-git-commit: 99e67d659f3da76d0613629dfc7e7d853a9e1349
 workflow-type: tm+mt
-source-wordcount: '4800'
+source-wordcount: '4798'
 ht-degree: 39%
 
 ---
@@ -160,7 +160,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | Adobe Experience Platform Edge Networkの解析サポート  | 1つのタグを使用して、Adobe Analytics、Adobeターゲット、Adobeオーディエンスマネージャー、Adobe Experience Platform Data Lake、統合プロファイル、Experience Cloud IDサービスなど、複数のアドビソリューションにデータを送信できます。 [詳細情報...](https://docs.adobe.com/content/help/ja-JP/experience-platform/edge/home.html) |
 | [!UICONTROL Adobe Analyticsダッシュボード] | [!UICONTROL Adobe Analyticsダッシュボード] は、Adobe Analyticsからのインサイトに、いつでもどこでもアクセスできるモバイルアプリです。 このアプリは、主要指標に対して外出先でアクセスを求めているエグゼクティブ向けです。 キュレーションされたインタラクティブスコアカードにアクセスでき、iOSとAndroidの両方のオペレーティングシステムで使用できます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html) |
 | [!UICONTROL Workspace][!UICONTROL ：空白の状態からフリーフォームテーブルを自動的に作成する] | Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. また、空のフリーフォームテーブルにドロップした場合の混合コンポーネントタイプ（ディメンションや指標など）の処理方法も改善されました。 |
-| [!UICONTROL 「] 機能アクセスレベル  」ページに追加されたAdobe Analyticsパッケージ | これで、 [!UICONTROL 会社に対して、管理者/] 会社設定 [!UICONTROL /アクセスレベル機能ページで権利を付与された] Adobe Analyticsパッケージ  (SKU)を表示できるようになりました。 |
+| [!UICONTROL 「] 機能アクセスレベル  」ページに追加されたAdobe Analyticsパッケージ | 会社にどの [!UICONTROL Adobe Analyticsパッケージ] (SKU)の権利を付与されているかを、管理者 **[!UICONTROL /]** 会社設定 **[!UICONTROL /]******&#x200B;アクセスレベル機能で表示できるようになりました。 |
 
 #### Adobe Analyticsの修正点
 
