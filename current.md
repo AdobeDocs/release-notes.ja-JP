@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 99e67d659f3da76d0613629dfc7e7d853a9e1349
+source-git-commit: 16d1b900c55d8e9674275c4113298a109de09df6
 workflow-type: tm+mt
-source-wordcount: '4798'
-ht-degree: 39%
+source-wordcount: '4811'
+ht-degree: 40%
 
 ---
 
@@ -97,6 +97,10 @@ Experience Cloudインターフェイスの一般的なアップデートです�
 | Places サービス | `experience.adobe.com/places` |
 | ソフトウェア配布 | `experience.adobe.com/downloads` |
 | 管理ツール（ベータ版） | `experience.adobe.com/admin` |
+
+>[!NOTE]
+>
+>**[!UICONTROL 「ボードとコレクション]**」は、 [!UICONTROL Marketing Cloud Assets] Selectorのレガシーフィルターで、廃止されます。
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
@@ -251,7 +255,7 @@ AN-101871、AN-115525、 AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; 
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| [バルク管理ツール(BAAM)](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html#download) | 以下の新しいバルク管理ツールのワークシートをアップロードしました。 <br><br><ul><li>特性階層のサブフォルダーをリストできます。(AAM-51528)</li><li>CRM IDに関連付けられた特性（デバイス間ID）の入力を求められた場合に指標を取得します(AAM-52135)</li><li>韓国語文字の言語エンコードの問題を修正しました。(AAM-AAM-54006)</li></ul> |
+| [バルク管理ツール(BAAM)](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html#download) | 次の新しい一括管理ツールワークシートをアップロードしました。<br><br><ul><li>特性階層のサブフォルダーをリストできます。(AAM-51528)</li><li>CRM IDに関連付けられた特性（デバイス間ID）の入力を求められた場合に指標を取得します(AAM-52135)</li><li>韓国語文字の言語エンコードの問題を修正しました。(AAM-AAM-54006)</li></ul> |
 
 **修正点**
 
@@ -359,8 +363,8 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| GPG キー管理 | キャンペーンから送信されるデータを暗号化し、受信データを復号化するために、マーケティングインスタンスにGPGキーをインストールまたは生成します。 |
-| CNAMEサブドメインの証明書管理 | コントロールパネルで、CNAMEメソッドで委任されたサブドメインのSSL証明書を更新できるようになりました。 |
+| GPG キー管理 | キャンペーンから送信されるデータを暗号化し、受信データを復号化するには、マーケティングインスタンスに GPG キーをインストールまたは生成します。 |
+| CNAME サブドメインの証明書管理 | コントロールパネルで、CNAME メソッドでデリゲートされたサブドメインの SSL 証明書を更新できるようになりました。 |
 
 ### 新しいキャンペーンチュートリアル
 
