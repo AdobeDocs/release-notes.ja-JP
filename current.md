@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c0a5d3cca0320f8459aeb4ee34bfd655d032c23c
+source-git-commit: 2a41fbc7e69c9c2a262c71e20808e6b672037c6a
 workflow-type: tm+mt
-source-wordcount: '4895'
-ht-degree: 39%
+source-wordcount: '5024'
+ht-degree: 38%
 
 ---
 
@@ -144,6 +144,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 * [カスタマージャーニー分析の新機能](#cust-journey)
 * [Adobe Analytics の新機能](#aa-features)
 * [Analytics管理者向けの重要な注意事項](#aa-notices) (**更新日2020年5月21日**)
+* [Adobe Analyticsの修正](#aa-fixes) (**更新日2020年5月21日**)
 * [AppMeasurement](#appm)
 * [新しい Analytics チュートリアル](#tutorials-analytics)
 
@@ -167,8 +168,10 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL 「] 機能アクセスレベル  」ページに追加されたAdobe Analyticsパッケージ | 会社にどの [!UICONTROL Adobe Analyticsパッケージ] (SKU)の権利を付与されているかを、管理者 **[!UICONTROL /]** 会社設定 **[!UICONTROL /]******&#x200B;アクセスレベル機能で表示できるようになりました。 |
 | アクセシビリティの強化 | Adobe Analyticsチームでは、キーボードナビゲーション、カラーコントラスト、スクリーンリーダーのサポートの強化など、分析ワークスペースに対していくつかのアクセシビリティの改善を行っています。 |
 
-#### Adobe Analyticsの修正点
+#### Adobe Analyticsの修正(#aa-fixes)
 
+* 滞在 [!UICONTROL 時間指標が「なし] 」を含まないように変更されました。 つまり、UIが「なし」と呼ぶかどうかに関係なく、 [!UICONTROL 滞在時間] (Time Spent)の計算に常に「なし」を除外する特別な例外を作成します。 したがって、滞在  時間指標を含むレポートを「なしを含む」に設定した場合でも、「なし」の行項目に対しては常に0滞在時間が返されます。 これにより、Reports &amp; AnalyticsおよびレポートAPI v1.4の履歴レポートが変更される可能性があります。 （AN-197958）
+* インスタンス/訪問/訪問者が滞在 [!UICONTROL 時間] 指標の分母としてカウントされない問題を修正しました。  これは、ディメンションの値を持たないヒット( [!UICONTROL Pagename]など)が同じ秒間に続いた場合に発生します。 （AN-211074）
 * Fixed an issue that caused missing [!DNL Analytics] segment data in Audience Manager. （AN-206221）
 * [!UICONTROL データソース]の処理で日付が正しく表示されない問題を修正しました。（AN-213604）
 * 分類ファイルが FTP に正しくアップロードされない問題を修正しました。（AN-214102）
