@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4ad9ee85f4eba950bf6cc1a6a18ece9d3eb5e61a
+source-git-commit: c0a5d3cca0320f8459aeb4ee34bfd655d032c23c
 workflow-type: tm+mt
-source-wordcount: '4835'
-ht-degree: 40%
+source-wordcount: '4895'
+ht-degree: 39%
 
 ---
 
@@ -29,12 +29,12 @@ ht-degree: 40%
 
 **リリース日：2020 年 5 月**
 
-最新の更新： **2020年5月20日**
+最新の更新： **2020年5月21日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) (**更新日2020年5月21日**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -143,7 +143,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 * [カスタマージャーニー分析の新機能](#cust-journey)
 * [Adobe Analytics の新機能](#aa-features)
-* [Analytics 管理者向けの重要な注意事項](#aa-notices)
+* [Analytics管理者向けの重要な注意事項](#aa-notices) (**更新日2020年5月21日**)
 * [AppMeasurement](#appm)
 * [新しい Analytics チュートリアル](#tutorials-analytics)
 
@@ -161,7 +161,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| Adobe Experience Platform Edge Networkの解析サポート  | 1つのタグを使用して、Adobe Analytics、Adobeターゲット、Adobeオーディエンスマネージャー、Adobe Experience Platform Data Lake、統合プロファイル、Experience Cloud IDサービスなど、複数のアドビソリューションにデータを送信できます。 [詳細情報...](https://docs.adobe.com/content/help/ja-JP/experience-platform/edge/home.html) |
+| Adobe Experience Platform Edge Networkの解析サポート  | 1つのタグを使用して、Adobe Analytics、Adobeターゲット、Adobeオーディエンスマネージャー、Adobe Experience Platform Data Lake、統合プロファイル、Experience Cloud IDサービスなど、複数のアドビソリューションにデータを送信できます。 [詳細情報...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
 | [!UICONTROL Adobe Analyticsダッシュボード] | [!UICONTROL Adobe Analyticsダッシュボード] は、Adobe Analyticsからのインサイトに、いつでもどこでもアクセスできるモバイルアプリです。 このアプリは、主要指標に対して外出先でアクセスを求めているエグゼクティブ向けです。 キュレーションされたインタラクティブスコアカードにアクセスでき、iOSとAndroidの両方のオペレーティングシステムで使用できます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html) |
 | [!UICONTROL Workspace][!UICONTROL ：空白の状態からフリーフォームテーブルを自動的に作成する] | Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. また、空のフリーフォームテーブルにドロップした場合の混合コンポーネントタイプ（ディメンションや指標など）の処理方法も改善されました。 |
 | [!UICONTROL 「] 機能アクセスレベル  」ページに追加されたAdobe Analyticsパッケージ | 会社にどの [!UICONTROL Adobe Analyticsパッケージ] (SKU)の権利を付与されているかを、管理者 **[!UICONTROL /]** 会社設定 **[!UICONTROL /]******&#x200B;アクセスレベル機能で表示できるようになりました。 |
@@ -210,6 +210,7 @@ AN-101871、AN-115525、 AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; 
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
+| 分析ワークスペースの可用性に対する冗長性の向上 | 2020 年 5 月 22 日 | 分析ワークスペースの可用性を確保するために、冗長性を高めるためにセカンダリCDN(コンテンツ配信ネットワーク)を追加します。 必要なネットワークファイアウォールのホワイトリストには、次のURLを追加する必要があります。<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
 | [!UICONTROL Workspace] での[!UICONTROL 入口／出口]の計算方法の変更 | 2020 年 4 月 8 日 | 2020 年 3 月の時点で、[!UICONTROL Analysis Workspace] における「_なし_」の値と[!UICONTROL 入口／出口]との相互作用を変更しました。Because you can now turn _Nones_ on and off in [!UICONTROL Analysis Workspace], we apply the _None_ value after the entry or exit, whereas (for eVars) it used to be applied before entry or exit. 例えば、訪問の最初のヒットにeVarの値がなく、2番目のヒットに値がないとします。 In [!UICONTROL Reports &amp; Analytics] the first hit will show as _Unspecified_ for the Entry, but in [!UICONTROL Analysis Workspace] it will show up as the value on the second hit. |
 | **[!UICONTROL コンバージョンレベル]**&#x200B;設定のサポート終了 | 2020 年 3 月 4 日 | **[!UICONTROL 管理ツール]**／**[!UICONTROL レポートスイート]**／**[!UICONTROL 一般的なアカウント設定]**&#x200B;で、機能しない[コンバージョンレベル](https://docs.adobe.com/content/help/ja-JP/analytics/admin/admin-tools/general-acct-settings-admin.html)設定は、2020 年 3 月 13 日にユーザーインターフェイスから削除されます。 |
 | **[!UICONTROL ダッシュボードアーカイブ]**&#x200B;のサービス終了 | 2020 年 3 月 28 日 | [!UICONTROL Reports &amp; Analytics] の「**[!UICONTROL ダッシュボードを管理]**」の「**[!UICONTROL アーカイブを表示]**」設定は、2020 年 10 月から使用できなくなります。 |
