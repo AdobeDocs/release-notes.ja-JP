@@ -5,23 +5,19 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2a41fbc7e69c9c2a262c71e20808e6b672037c6a
+source-git-commit: 36c098558e178fdaea0bab49528e54a93980ac0b
 workflow-type: tm+mt
-source-wordcount: '5024'
+source-wordcount: '4998'
 ht-degree: 38%
 
 ---
 
 
-# 先行アクセス — Adobe Experience Cloudリリースノート（2020年5月）
+# Adobe Experience Cloudリリースノート — 2020年5月
 
 ![バナー](/assets/experience-cloud-banner-3.png)
 
 このページには、の新機能、修正、重要な注意事項が記載されてい [!DNL Adobe Experience Cloud]ます。 ソリューションのリリース日は異なる場合があります。 最新の更新については、頻繁に再度確認してください。
-
->[!IMPORTANT]
->
->このページにはプレリリースコンテンツが含まれており、2020年5月21日より前に変更される可能性があります。 以降に公開される新しい情報は、追加日と共に記録されます。
 
 >[!NOTE]
 >
