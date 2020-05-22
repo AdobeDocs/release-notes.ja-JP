@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 36c098558e178fdaea0bab49528e54a93980ac0b
+source-git-commit: 4bdb8dde04f55703e52aca1295aad03374f3eb25
 workflow-type: tm+mt
 source-wordcount: '4998'
 ht-degree: 38%
@@ -166,7 +166,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 
 #### Adobe Analyticsの修正(#aa-fixes)
 
-* 滞在 [!UICONTROL 時間指標が「なし] 」を含まないように変更されました。 つまり、UIが「なし」と呼ぶかどうかに関係なく、 [!UICONTROL 滞在時間] (Time Spent)の計算に常に「なし」を除外する特別な例外を作成します。 したがって、滞在  時間指標を含むレポートを「なしを含む」に設定した場合でも、「なし」の行項目に対しては常に0滞在時間が返されます。 これにより、Reports &amp; AnalyticsおよびレポートAPI v1.4の履歴レポートが変更される可能性があります。 （AN-197958）
+* 滞在  時間指標が変更され、計算に「未指定」が含まれないようになりました。 つまり、UIが「未指定」と呼ぶかどうかに関係なく、 [!UICONTROL 滞在時間] (Time Spent)の計算に常に「未指定」を除外する特別な例外を設定します。 したがって、滞在  時間指標を含むレポートを「未指定」に設定した場合でも、「未指定」の行項目に対しては常に0時間が返されます。 これにより、Reports &amp; AnalyticsおよびレポートAPI v1.4での履歴レポートが変更される場合があります。 （AN-197958）
 * インスタンス/訪問/訪問者が滞在 [!UICONTROL 時間] 指標の分母としてカウントされない問題を修正しました。  これは、ディメンションの値を持たないヒット( [!UICONTROL Pagename]など)が同じ秒間に続いた場合に発生します。 （AN-211074）
 * Fixed an issue that caused missing [!DNL Analytics] segment data in Audience Manager. （AN-206221）
 * [!UICONTROL データソース]の処理で日付が正しく表示されない問題を修正しました。（AN-213604）
@@ -364,8 +364,8 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| GPG キー管理 | キャンペーンから送信されるデータを暗号化し、受信データを復号化するには、マーケティングインスタンスに GPG キーをインストールまたは生成します。 |
-| CNAME サブドメインの証明書管理 | コントロールパネルで、CNAME メソッドでデリゲートされたサブドメインの SSL 証明書を更新できるようになりました。 |
+| GPG キー管理 | Campaign からの送信データを暗号化し、受信データを復号化するには、マーケティングインスタンスに GPG キーをインストールまたは生成します。 |
+| CNAME サブドメインの証明書管理 | CNAME メソッドでデリゲートされたサブドメインの SSL 証明書をコントロールパネルで更新できるようになりました。 |
 
 ### 新しいキャンペーンチュートリアル
 
