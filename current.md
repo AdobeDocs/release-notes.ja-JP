@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4bdb8dde04f55703e52aca1295aad03374f3eb25
+source-git-commit: 1784b66efbcd85c25145fbf5b84f95c0285412ab
 workflow-type: tm+mt
-source-wordcount: '4998'
+source-wordcount: '4997'
 ht-degree: 38%
 
 ---
@@ -164,7 +164,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL 「] 機能アクセスレベル  」ページに追加されたAdobe Analyticsパッケージ | 会社にどの [!UICONTROL Adobe Analyticsパッケージ] (SKU)の権利を付与されているかを、管理者 **[!UICONTROL /]** 会社設定 **[!UICONTROL /]******&#x200B;アクセスレベル機能で表示できるようになりました。 |
 | アクセシビリティの強化 | Adobe Analyticsチームでは、キーボードナビゲーション、カラーコントラスト、スクリーンリーダーのサポートの強化など、分析ワークスペースに対していくつかのアクセシビリティの改善を行っています。 |
 
-#### Adobe Analyticsの修正(#aa-fixes)
+#### Adobe Analyticsの修正点 {#aa-fixes}
 
 * 滞在  時間指標が変更され、計算に「未指定」が含まれないようになりました。 つまり、UIが「未指定」と呼ぶかどうかに関係なく、 [!UICONTROL 滞在時間] (Time Spent)の計算に常に「未指定」を除外する特別な例外を設定します。 したがって、滞在  時間指標を含むレポートを「未指定」に設定した場合でも、「未指定」の行項目に対しては常に0時間が返されます。 これにより、Reports &amp; AnalyticsおよびレポートAPI v1.4での履歴レポートが変更される場合があります。 （AN-197958）
 * インスタンス/訪問/訪問者が滞在 [!UICONTROL 時間] 指標の分母としてカウントされない問題を修正しました。  これは、ディメンションの値を持たないヒット( [!UICONTROL Pagename]など)が同じ秒間に続いた場合に発生します。 （AN-211074）
