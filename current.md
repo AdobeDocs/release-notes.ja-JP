@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1784b66efbcd85c25145fbf5b84f95c0285412ab
+source-git-commit: be366e4ce14fe1f095ba60b85cc9adcd633cb3eb
 workflow-type: tm+mt
-source-wordcount: '4997'
+source-wordcount: '5040'
 ht-degree: 38%
 
 ---
@@ -25,12 +25,12 @@ ht-degree: 38%
 
 **リリース日：2020 年 5 月**
 
-最新の更新： **2020年5月21日**
+最新の更新： **2020年5月26日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**更新日2020年5月21日**)
+* [!DNL Analytics](#analytics) (**更新日2020年5月26日**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -139,7 +139,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 * [カスタマージャーニー分析の新機能](#cust-journey)
 * [Adobe Analytics の新機能](#aa-features)
-* [Analytics管理者向けの重要な注意事項](#aa-notices) (**更新日2020年5月21日**)
+* [Analytics管理者向けの重要な注意事項](#aa-notices) (**更新日2020年5月26日**)
 * [Adobe Analyticsの修正](#aa-fixes) (**更新日2020年5月21日**)
 * [AppMeasurement](#appm)
 * [新しい Analytics チュートリアル](#tutorials-analytics)
@@ -209,6 +209,7 @@ AN-101871、AN-115525、 AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; 
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
+| サードパーティのテクノロジーホワイトリスト | 2020年3月12日（施行日） | Adobe Analyticsは、サードパーティのテクノロジーを活用して、機能の展開管理と製品内サポートを開始しました。 機能に完全にアクセスできるように、必要なネットワークファイアウォールのホワイトリストに次のURLを追加する必要があります。<ul><li>勝者： https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul> |
 | 分析ワークスペースの可用性に対する冗長性の向上 | 2020 年 5 月 22 日 | 分析ワークスペースの可用性を確保するために、冗長性を高めるためにセカンダリCDN(コンテンツ配信ネットワーク)を追加します。 必要なネットワークファイアウォールのホワイトリストには、次のURLを追加する必要があります。<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
 | [!UICONTROL Workspace] での[!UICONTROL 入口／出口]の計算方法の変更 | 2020 年 4 月 8 日 | 2020 年 3 月の時点で、[!UICONTROL Analysis Workspace] における「_なし_」の値と[!UICONTROL 入口／出口]との相互作用を変更しました。Because you can now turn _Nones_ on and off in [!UICONTROL Analysis Workspace], we apply the _None_ value after the entry or exit, whereas (for eVars) it used to be applied before entry or exit. 例えば、訪問の最初のヒットにeVarの値がなく、2番目のヒットに値がないとします。 In [!UICONTROL Reports &amp; Analytics] the first hit will show as _Unspecified_ for the Entry, but in [!UICONTROL Analysis Workspace] it will show up as the value on the second hit. |
 | **[!UICONTROL コンバージョンレベル]**&#x200B;設定のサポート終了 | 2020 年 3 月 4 日 | **[!UICONTROL 管理ツール]**／**[!UICONTROL レポートスイート]**／**[!UICONTROL 一般的なアカウント設定]**&#x200B;で、機能しない[コンバージョンレベル](https://docs.adobe.com/content/help/ja-JP/analytics/admin/admin-tools/general-acct-settings-admin.html)設定は、2020 年 3 月 13 日にユーザーインターフェイスから削除されます。 |
