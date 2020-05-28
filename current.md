@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: be366e4ce14fe1f095ba60b85cc9adcd633cb3eb
+source-git-commit: fd2f8976431bd49e32939414b71f08edbe9e245e
 workflow-type: tm+mt
-source-wordcount: '5040'
-ht-degree: 38%
+source-wordcount: '5159'
+ht-degree: 37%
 
 ---
 
@@ -25,12 +25,12 @@ ht-degree: 38%
 
 **リリース日：2020 年 5 月**
 
-最新の更新： **2020年5月26日**
+最新の更新： **2020年5月27日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**更新日2020年5月26日**)
+* [!DNL Analytics](#analytics) (**更新日2020年5月27日**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -137,8 +137,11 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 ## ![アイコン](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
+Updated **May 27, 2020**
+
 * [カスタマージャーニー分析の新機能](#cust-journey)
 * [Adobe Analytics の新機能](#aa-features)
+* [Media Analyticsの新機能](#media-aa) (**更新日2020年5月27日**)
 * [Analytics管理者向けの重要な注意事項](#aa-notices) (**更新日2020年5月26日**)
 * [Adobe Analyticsの修正](#aa-fixes) (**更新日2020年5月21日**)
 * [AppMeasurement](#appm)
@@ -163,6 +166,18 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Workspace][!UICONTROL ：空白の状態からフリーフォームテーブルを自動的に作成する] | Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. また、空のフリーフォームテーブルにドロップした場合の混合コンポーネントタイプ（ディメンションや指標など）の処理方法も改善されました。 |
 | [!UICONTROL 「] 機能アクセスレベル  」ページに追加されたAdobe Analyticsパッケージ | 会社にどの [!UICONTROL Adobe Analyticsパッケージ] (SKU)の権利を付与されているかを、管理者 **[!UICONTROL /]** 会社設定 **[!UICONTROL /]******&#x200B;アクセスレベル機能で表示できるようになりました。 |
 | アクセシビリティの強化 | Adobe Analyticsチームでは、キーボードナビゲーション、カラーコントラスト、スクリーンリーダーのサポートの強化など、分析ワークスペースに対していくつかのアクセシビリティの改善を行っています。 |
+
+#### [!UICONTROL Media Analyticsの新機能] {#media-aa}
+
+Date added: **May 27, 2020**
+
+**プレイヤー状態の追跡：** [!UICONTROL Media Analytics] のお客様は、フルスクリーン、クローズドキャプション、ミュート、ピクチャインピクチャ、インフォーカスの標準的なソリューション変数のセットを使用して、再生中のビューアのインタラクションをキャプチャできます。 また、カスタムプレーヤー状態を柔軟に作成することもできます。 プレイヤー状態追跡変数が [!UICONTROL 分析ワークスペースでレポートできるようになりました]。 この機能を使用するには、次のいずれかが必要です。
+
+* メディア [!DNL JavaScript] SDK 3.0以降
+* ( [!DNL Adobe Experience Platform] AEP) SDKで使用する場合：
+   * [!UICONTROL Media Analytics Extension] （Web用）: [!UICONTROL オーディオおよびビデオ用Adobe Media Analytics] (3.x SDK)v1.0以降
+   * [!UICONTROL Media Analytics Extension] （モバイル用）: [!UICONTROL オーディオ] &amp;ビデオ用Adobe Media Analytics v2.0以降
+* [!UICONTROL メディアコレクション API]
 
 #### Adobe Analyticsの修正点 {#aa-fixes}
 
