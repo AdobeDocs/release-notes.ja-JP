@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: fd2f8976431bd49e32939414b71f08edbe9e245e
+source-git-commit: 0256f7a16a4a3b0909d83256d82e5f44cafa43da
 workflow-type: tm+mt
-source-wordcount: '5159'
-ht-degree: 37%
+source-wordcount: '5042'
+ht-degree: 38%
 
 ---
 
@@ -141,7 +141,7 @@ Updated **May 27, 2020**
 
 * [カスタマージャーニー分析の新機能](#cust-journey)
 * [Adobe Analytics の新機能](#aa-features)
-* [Media Analyticsの新機能](#media-aa) (**更新日2020年5月27日**)
+<!-- * [New features in Media Analytics](#media-aa) (**Updated May 27, 2020**) -->
 * [Analytics管理者向けの重要な注意事項](#aa-notices) (**更新日2020年5月26日**)
 * [Adobe Analyticsの修正](#aa-fixes) (**更新日2020年5月21日**)
 * [AppMeasurement](#appm)
@@ -167,17 +167,17 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL 「] 機能アクセスレベル  」ページに追加されたAdobe Analyticsパッケージ | 会社にどの [!UICONTROL Adobe Analyticsパッケージ] (SKU)の権利を付与されているかを、管理者 **[!UICONTROL /]** 会社設定 **[!UICONTROL /]******&#x200B;アクセスレベル機能で表示できるようになりました。 |
 | アクセシビリティの強化 | Adobe Analyticsチームでは、キーボードナビゲーション、カラーコントラスト、スクリーンリーダーのサポートの強化など、分析ワークスペースに対していくつかのアクセシビリティの改善を行っています。 |
 
-#### [!UICONTROL Media Analyticsの新機能] {#media-aa}
+<!-- #### New features in [!UICONTROL Media Analytics] {#media-aa}
 
 Date added: **May 27, 2020**
 
-**プレイヤー状態の追跡：** [!UICONTROL Media Analytics] のお客様は、フルスクリーン、クローズドキャプション、ミュート、ピクチャインピクチャ、インフォーカスの標準的なソリューション変数のセットを使用して、再生中のビューアのインタラクションをキャプチャできます。 また、カスタムプレーヤー状態を柔軟に作成することもできます。 プレイヤー状態追跡変数が [!UICONTROL 分析ワークスペースでレポートできるようになりました]。 この機能を使用するには、次のいずれかが必要です。
+**Player State Tracking:** [!UICONTROL Media Analytics] customers can capture viewer interaction during playback using a standard set of solution variables for full screen, closed captioning, mute, picture-in-picture, and in-focus. You also have the flexibility to create custom player states. Player State Tracking variables are now available for reporting in [!UICONTROL Analysis Workspace]. This feature requires one of the following:
 
-* メディア [!DNL JavaScript] SDK 3.0以降
-* ( [!DNL Adobe Experience Platform] AEP) SDKで使用する場合：
-   * [!UICONTROL Media Analytics Extension] （Web用）: [!UICONTROL オーディオおよびビデオ用Adobe Media Analytics] (3.x SDK)v1.0以降
-   * [!UICONTROL Media Analytics Extension] （モバイル用）: [!UICONTROL オーディオ] &amp;ビデオ用Adobe Media Analytics v2.0以降
-* [!UICONTROL メディアコレクション API]
+* Media [!DNL JavaScript] SDK 3.0 or higher
+* For use with the [!DNL Adobe Experience Platform] (AEP) SDK:
+  * [!UICONTROL Media Analytics Extension] (for web): [!UICONTROL Adobe Media Analytics] (3.x SDK) for Audio and Video v1.0 or higher
+  * [!UICONTROL Media Analytics Extension] (for mobile): [!UICONTROL Adobe Media Analytics for Audio] and Video v2.0 or higher
+* [!UICONTROL Media Collection] API -->
 
 #### Adobe Analyticsの修正点 {#aa-fixes}
 
