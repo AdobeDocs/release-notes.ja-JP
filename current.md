@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5283f48c529ee5d1eca229bbd0164bb9e8864aa6
+source-git-commit: 8e6be9e0d672aceac0cb99ec0973de6122e3ad51
 workflow-type: tm+mt
-source-wordcount: '5201'
+source-wordcount: '5212'
 ht-degree: 88%
 
 ---
@@ -25,12 +25,12 @@ ht-degree: 88%
 
 **リリース日：2020 年 5 月**
 
-Latest update: **May 27, 2020**
+Latest update: **May 29, 2020**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**更新日2020年5月27日**)
+* [!DNL Analytics](#analytics) (**更新日2020年5月29日**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -137,11 +137,11 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 ## ![アイコン](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
-Updated **May 27, 2020**
+Updated **May 29, 2020**
 
 * [Customer Journey Analytics の新機能](#cust-journey)
 * [Adobe Analytics の新機能](#aa-features)
-* [Media Analyticsの新機能](#media-aa) (**更新日2020年5月27日**)
+* [Media Analyticsの新機能](#media-aa) (**更新日2020年5月29日**)
 * [Analytics管理者向けの重要な注意事項](#aa-notices) (**更新日2020年5月26日**)
 * [Adobe Analyticsの修正](#aa-fixes) (**更新日2020年5月21日**)
 * [AppMeasurement](#appm)
@@ -169,7 +169,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 
 #### [!UICONTROL Media Analyticsの新機能] {#media-aa}
 
-Date added: **May 27, 2020**
+更新日： **2020年5月29日**
 
 **プレイヤー状態の追跡：** [!UICONTROL Media Analytics] のお客様は、フルスクリーン、クローズドキャプション、ミュート、ピクチャインピクチャ、インフォーカスの標準的なソリューション変数のセットを使用して、再生中のビューアのインタラクションをキャプチャできます。 また、カスタムプレーヤー状態を柔軟に作成することもできます。 プレイヤー状態追跡変数が [!UICONTROL 分析ワークスペースでレポートできるようになりました]。 この機能を使用するには、次のいずれかが必要です。
 
@@ -179,7 +179,7 @@ Date added: **May 27, 2020**
    * [!UICONTROL Media Analytics Extension] （モバイル用）: [!UICONTROL オーディオ] &amp;ビデオ用Adobe Media Analytics v2.0以降
 * [!UICONTROL メディアコレクション]
 
-コンテンツのリンクが提供されます。
+プレイヤー状態 [の追跡についてを参照してください](https://docs.adobe.com/content/help/en/media-analytics/using/player-state-tracking/player-state-overview.html)。
 
 #### Adobe Analytics の修正点 {#aa-fixes}
 
