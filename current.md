@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8e6be9e0d672aceac0cb99ec0973de6122e3ad51
+source-git-commit: 6c9c4b782fdf3dc9283d98d78d459bd38fef648d
 workflow-type: tm+mt
-source-wordcount: '5212'
-ht-degree: 88%
+source-wordcount: '5322'
+ht-degree: 86%
 
 ---
 
@@ -25,12 +25,12 @@ ht-degree: 88%
 
 **リリース日：2020 年 5 月**
 
-Latest update: **May 29, 2020**
+最新の更新： **2020年6月1日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**更新日2020年5月29日**)
+* [!DNL Analytics](#analytics) (**更新日2020年6月1日**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -142,7 +142,7 @@ Updated **May 29, 2020**
 * [Customer Journey Analytics の新機能](#cust-journey)
 * [Adobe Analytics の新機能](#aa-features)
 * [Media Analyticsの新機能](#media-aa) (**更新日2020年5月29日**)
-* [Analytics管理者向けの重要な注意事項](#aa-notices) (**更新日2020年5月26日**)
+* [Analytics管理者向けの重要な注意事項](#aa-notices) (**更新日2020年6月1日**)
 * [Adobe Analyticsの修正](#aa-fixes) (**更新日2020年5月21日**)
 * [AppMeasurement](#appm)
 * [新しい Analytics チュートリアル](#tutorials-analytics)
@@ -226,6 +226,7 @@ AN-101871、AN-115525、AN-123869、AN-152580、AN-160480、AN-178128、AN-18690
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
+| 統合製品ドメインへの移行 | 発効日： 2020年5月28日 | Adobe Analyticsの統合製品ドメインへの移行は2020年1月に開始され、2020年5月28日に完了しました。 Adobe Analyticsはアーキテクチャからすべての `omniture.com` ドメイン参照を削除しますが、サードパーティCookieとしてホワイトリスト `omniture.com` を作成することは重要です。 アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。このホワイトリストの手順は不要になります。 [ホワイトリストに登録する必要のある推奨IPアドレスとドメインの完全なリストを以下に示します](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) 。<br>組織でサードパーティCookieがブロックされている場合は、カスタマーケアに連絡して、Adobe Analyticsへのアクセスを回復してください。 |
 | 新しいAdobe Analyticsデフォルトランディングページ | 発効日： 2020年6月18日 | 2020年6月18日に、Adobe Analyticsのデフォルトのランディングページが [!UICONTROL レポート] から [!UICONTROL Workspace]に変更されます。 この変更は、以前にカスタムランディングページを設定していないユーザーに対して適用されます。 |
 | サードパーティのテクノロジーホワイトリスト | (施行日： 2020年3月12日 | Adobe Analyticsは、サードパーティのテクノロジーを活用して、機能の展開管理と製品内サポートを開始しました。 機能に完全にアクセスできるように、必要なネットワークファイアウォールのホワイトリストに次のURLを追加する必要があります。<ul><li>勝者： https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul> |
 | 分析ワークスペースの可用性に対する冗長性の向上 | 2020 年 5 月 22 日 | 分析ワークスペースの可用性を確保するために、冗長性を高めるためにセカンダリCDN(コンテンツ配信ネットワーク)を追加します。 必要なネットワークファイアウォールのホワイトリストには、次のURLを追加する必要があります。<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
