@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6c9c4b782fdf3dc9283d98d78d459bd38fef648d
+source-git-commit: 02f473e0c7908d44aa0444ce99f4540d9e79b254
 workflow-type: tm+mt
-source-wordcount: '5322'
+source-wordcount: '5368'
 ht-degree: 86%
 
 ---
@@ -25,12 +25,12 @@ ht-degree: 86%
 
 **リリース日：2020 年 5 月**
 
-最新の更新： **2020年6月1日**
+最新の更新： **2020年6月2日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**更新日2020年6月1日**)
+* [!DNL Analytics](#analytics) (**更新日2020年6月2日**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -140,7 +140,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 Updated **May 29, 2020**
 
 * [Customer Journey Analytics の新機能](#cust-journey)
-* [Adobe Analytics の新機能](#aa-features)
+* [Adobe Analytics の新機能](#aa-features) (**Updated June 2, 2020**)
 * [Media Analyticsの新機能](#media-aa) (**更新日2020年5月29日**)
 * [Analytics管理者向けの重要な注意事項](#aa-notices) (**更新日2020年6月1日**)
 * [Adobe Analyticsの修正](#aa-fixes) (**更新日2020年5月21日**)
@@ -156,16 +156,16 @@ Updated **May 29, 2020**
 
 ### Adobe Analytics の新機能 {#aa-features}
 
-<!-- Bulk Ingest: Enables you to ingest batches of Analytics data. Useful for server-side and offline data. Learn more...
-First-Party Domains Available in China RDC: Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... -->
+<!--First-Party Domains Available in China RDC: Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... -->
 
-| 機能 | 説明 |
-| -----------| ---------- |
-| Analytics による [!UICONTROL Adobe Experience Platform Edge ネットワーク]のサポート | 1 つのタグを使用して、Adobe Analytics、Adobe Target、Adobe Audience Manager、Adobe Experience Platform Data Lake、統合プロファイルおよび Experience Cloud ID サービスなど、複数のアドビソリューションにデータを送信できます。[詳細情報...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
-| [!UICONTROL Adobe Analytics ダッシュボード] | [!UICONTROL Adobe Analytics ダッシュボード]は、ユーザーがいつでもどこからでも Adobe Analytics にアクセスしてインサイトを得ることが可能なモバイルアプリです。このアプリは、主要指標への外部からのアクセスを求めるエグゼクティブを対象にしています。キュレーションされたインタラクティブなスコアカードにアクセスでき、iOS と Android の両方のオペレーティングシステムで使用できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/mobapp/home.html) |
-| [!UICONTROL Workspace]：空白の状態から[!UICONTROL フリーフォームテーブル]を自動的に作成 | 以前は、空のプロジェクトや空のパネルにコンポーネントを直接ドロップすることはできず、最初に[!UICONTROL フリーフォームテーブル]を追加する必要がありました。現在は、空のプロジェクトまたはパネルにコンポーネントを直接ドロップできるようになりました。[!UICONTROL フリーフォームテーブル]は推奨される形式で自動的に作成されます。また、空のフリーフォームテーブルにドロップした場合の混合コンポーネントタイプ（ディメンションや指標など）の処理方法も強化されました。 |
-| [!UICONTROL 「] 機能アクセスレベル  」ページに追加されたAdobe Analyticsパッケージ | 会社にどの [!UICONTROL Adobe Analyticsパッケージ] (SKU)の権利を付与されているかを、管理者 **[!UICONTROL /]** 会社設定 **[!UICONTROL /]******&#x200B;アクセスレベル機能で表示できるようになりました。 |
-| アクセシビリティの強化 | Adobe Analyticsチームでは、キーボードナビゲーション、カラーコントラスト、スクリーンリーダーのサポートの強化など、分析ワークスペースに対していくつかのアクセシビリティの改善を行っています。 |
+| 機能 | 一般公開日 | 説明 |
+| -----------| ------------ | ---------- |
+| Bulk Data Insertion API | 2020 年 6 月 1 日 | Analyticsデータのバッチを簡単かつ独立して取り込むことができます。 サーバー側データとオフラインデータに役立ちます。 [詳細情報...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
+| Analytics による [!UICONTROL Adobe Experience Platform Edge ネットワーク]のサポート | 2020 年 6 月 1 日 | 1 つのタグを使用して、Adobe Analytics、Adobe Target、Adobe Audience Manager、Adobe Experience Platform Data Lake、統合プロファイルおよび Experience Cloud ID サービスなど、複数のアドビソリューションにデータを送信できます。[詳細情報...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
+| [!UICONTROL Adobe Analytics ダッシュボード] | 2020 年 6 月 1 日 | [!UICONTROL Adobe Analytics ダッシュボード]は、ユーザーがいつでもどこからでも Adobe Analytics にアクセスしてインサイトを得ることが可能なモバイルアプリです。このアプリは、主要指標への外部からのアクセスを求めるエグゼクティブを対象にしています。キュレーションされたインタラクティブなスコアカードにアクセスでき、iOS と Android の両方のオペレーティングシステムで使用できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/mobapp/home.html) |
+| [!UICONTROL ワークスペース]: 2020 [年5月21日に自動的に作成！UICONTROLフリーフォームテーブル] （空白の状態） | 以前は、空のプロジェクトや空のパネルにコンポーネントを直接ドロップすることはできず、最初に[!UICONTROL フリーフォームテーブル]を追加する必要がありました。現在は、空のプロジェクトまたはパネルにコンポーネントを直接ドロップできるようになりました。[!UICONTROL フリーフォームテーブル]は推奨される形式で自動的に作成されます。また、空のフリーフォームテーブルにドロップした場合の混合コンポーネントタイプ（ディメンションや指標など）の処理方法も強化されました。 |
+| [!UICONTROL 「] 機能アクセスレベル  」ページに追加されたAdobe Analyticsパッケージ | 2020 年 5 月 22 日 | 会社にどの [!UICONTROL Adobe Analyticsパッケージ] (SKU)の権利を付与されているかを、管理者 **[!UICONTROL /]** 会社設定 **[!UICONTROL /]******&#x200B;アクセスレベル機能で表示できるようになりました。 |
+| アクセシビリティの強化 | 2020 年 5 月 22 日 | Adobe Analyticsチームでは、キーボードナビゲーション、カラーコントラスト、スクリーンリーダーのサポートの強化など、分析ワークスペースに対していくつかのアクセシビリティの改善を行っています。 |
 
 #### [!UICONTROL Media Analyticsの新機能] {#media-aa}
 
@@ -380,7 +380,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 * [Adobe Campaign Classic 20.1.3](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html#release-20-1-3-build-9124)
 * [Adobe Campaign Classic 19.1.4](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/previous-releases/release--19-1.html#release-19-1-4-build-9032)
 
-### キャンペーンコントロールパネル
+### Campaign コントロールパネル
 
 | 機能 | 説明 |
 | -----------| ---------- |  
