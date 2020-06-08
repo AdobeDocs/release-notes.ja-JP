@@ -5,15 +5,15 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9ca2b181b020052ec1f2cc968e9c2cf1bdfa7fdc
+source-git-commit: feb921205059c7ab4ba9d59964fae9b1954d12a0
 workflow-type: tm+mt
-source-wordcount: '5386'
-ht-degree: 86%
+source-wordcount: '5640'
+ht-degree: 92%
 
 ---
 
 
-# Adobe Experience Cloudリリースノート — 2020年5月
+# Adobe Experience Cloud リリースノート - 2020 年 5 月
 
 ![バナー](/assets/experience-cloud-banner-3.png)
 
@@ -25,12 +25,12 @@ ht-degree: 86%
 
 **リリース日：2020 年 5 月**
 
-最新の更新： **2020年6月2日**
+最新の更新： **2020年6月4日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**更新日2020年6月2日**)
+* [!DNL Analytics](#analytics) (**更新日2020年6月4日**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -56,7 +56,7 @@ ht-degree: 86%
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| 購読と通知に関するユーザーエクスペリエンスを改善 | <ul><li>[!DNL Marketo Engage] の地域は、選択した製品やサービスのリストに基づいてフィルタリングされるようになりました。</li><li>[!DNL Marketo Engage] 電子メール通知は、地域、場所および環境の環境設定に関連します。</li></ul> |
+| 購読と通知に関するユーザーエクスペリエンスを改善 | <ul><li>[!DNL Marketo Engage] の地域は、選択した製品やサービスのリストに基づいてフィルタリングされるようになりました。</li><li>[!DNL Marketo Engage] の電子メール通知は、ユーザーの地域、場所および環境の設定に関連します。</li></ul> |
 | イベント購読の確認 | <ul><li>進行中の単一イベントの更新を購読する際に、電子メールによる確認を受け取れるようになりました。</li></ul> |
 | グローバルナビゲーションのユーザビリティの強化 | <ul><li>`Adobe.com` のトップレベルナビゲーションメニューの操作の一貫性が向上しました。</li></ul> |
 
@@ -96,7 +96,7 @@ Experience Cloud インターフェイスに対する一般的なアップデー
 
 >[!NOTE]
 >
->**[!UICONTROL 「ボードとコレクション]**」は、 [!UICONTROL Marketing Cloud Assets] Selectorのレガシーフィルターで、廃止されます。
+>**[!UICONTROL ボードとコレクション]**（[!UICONTROL Experience Cloud Assets] セレクターのレガシーフィルター）は廃止されます。
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
@@ -137,52 +137,58 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 ## ![アイコン](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
-* [Customer Journey Analytics の新機能](#cust-journey)
-* [Adobe Analytics の新機能](#aa-features) (**Updated June 2, 2020**)
+* [Adobe Analytics](#aa-features) (**更新日2020年6月4日**)の新機能
+* [Customer Jeurney Analytics](#cust-journey) (**更新日2020年6月4日**)の新機能
 * [Media Analyticsの新機能](#media-aa) (**更新日2020年5月29日**)
 * [Analytics管理者向けの重要な注意事項](#aa-notices) (**更新日2020年6月1日**)
-* [Adobe Analyticsの修正](#aa-fixes) (**更新日2020年5月21日**)
+* [Adobe Analytics の修正](#aa-fixes)（**更新日：2020 年 5 月 22 日**）
 * [AppMeasurement](#appm)
 * [新しい Analytics チュートリアル](#tutorials-analytics)
 
-### Customer Journey Analytics の新機能 {#cust-journey}
-
-| 機能 | 説明 |
-| -----------| ---------- |
-| [!UICONTROL Customer Journey Analytics]：グローバルに利用可能 | EMEA および APAC のお客様は、[!UICONTROL Customer Journey Analytics] を利用できるようになります。 |
-| [!UICONTROL Customer Journey Analytics]：[!UICONTROL Adobe Experience Platform サンドボックス]のサポート | CJA 接続を構築するための特定の [!UICONTROL Adobe Experience Platform サンドボックス]を選択できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-connections/create-connection.translate.html) |
-
 ### Adobe Analytics の新機能 {#aa-features}
 
-<!--First-Party Domains Available in China RDC: Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... -->
+<!--First-Party Domains Available in China RDC: June 18 - Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... 
+Anomaly det. support in CJA - June 18; Project Sharing Roles - June 18; Blank panel in WS now includes panels and vizs - June 18; -->
 
-| 機能 | [ターゲット一般公開日](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) | 説明 |
+| 機能 | [一般公開日](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) -ターゲット日 | 説明 |
 | -----------| ------------ | ---------- |
-| Bulk Data Insertion API | 2020 年 6 月 1 日 | Analyticsデータのバッチを簡単かつ独立して取り込むことができます。 サーバー側データとオフラインデータに役立ちます。 [詳細情報...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
-| Analytics による [!UICONTROL Adobe Experience Platform Edge ネットワーク]のサポート | 2020 年 6 月 1 日 | 1 つのタグを使用して、Adobe Analytics、Adobe Target、Adobe Audience Manager、Adobe Experience Platform Data Lake、統合プロファイルおよび Experience Cloud ID サービスなど、複数のアドビソリューションにデータを送信できます。[詳細情報...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html) |
+| [!UICONTROL Workspaceのターゲット用Analytics][!UICONTROL パネル] | 2020年6月25日 | [!UICONTROL Analytics forターゲット] (A4T)パネルを使用すると、 [!UICONTROL 分析ワークスペースでAdobeターゲットのアクティビティとエクスペリエンスを分析できます。] [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
+| [!UICONTROL ワークス][!UICONTROL ペースのクイックインサイトパネル] | 2020年6月25日 | [!UICONTROL クイックインサイト] (Quick Insights [!UICONTROL )では、] 分析ワークスペースのアナリストでないユーザーおよび新しいユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。 [詳細情報](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
+| [!UICONTROL Bulk Data Insertion] API | 2020 年 6 月 1 日 | Analyticsデータのバッチを簡単かつ独立して取り込むことができます。 サーバー側データとオフラインデータに役立ちます。 [詳細情報...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
+| Adobe Analytics support for [!UICONTROL Adobe Experience Platform Edge Network] | 2020 年 6 月 1 日 | 1 つのタグを使用して、Adobe Analytics、Adobe Target、Adobe Audience Manager、Adobe Experience Platform Data Lake、統合プロファイルおよび Experience Cloud ID サービスなど、複数のアドビソリューションにデータを送信できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/experience-platform/edge/solutions/analytics/analytics-overview.html) |
 | [!UICONTROL Adobe Analytics ダッシュボード] | 2020 年 5 月 22 日 | [!UICONTROL Adobe Analytics ダッシュボード]は、ユーザーがいつでもどこからでも Adobe Analytics にアクセスしてインサイトを得ることが可能なモバイルアプリです。このアプリは、主要指標への外部からのアクセスを求めるエグゼクティブを対象にしています。キュレーションされたインタラクティブなスコアカードにアクセスでき、iOS と Android の両方のオペレーティングシステムで使用できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/mobapp/home.html) |
 | [!UICONTROL Workspace]：空白の状態から[!UICONTROL フリーフォームテーブル]を自動的に作成 | [2020 年 5 月 22 日 | 以前は、空のプロジェクトや空のパネルにコンポーネントを直接ドロップすることはできず、最初に[!UICONTROL フリーフォームテーブル]を追加する必要がありました。現在は、空のプロジェクトまたはパネルにコンポーネントを直接ドロップできるようになりました。[!UICONTROL フリーフォームテーブル]は推奨される形式で自動的に作成されます。また、空のフリーフォームテーブルにドロップした場合の混合コンポーネントタイプ（ディメンションや指標など）の処理方法も強化されました。 |
-| [!UICONTROL 「] 機能アクセスレベル  」ページに追加されたAdobe Analyticsパッケージ | 2020 年 5 月 22 日 | 会社にどの [!UICONTROL Adobe Analyticsパッケージ] (SKU)の権利を付与されているかを、管理者 **[!UICONTROL /]** 会社設定 **[!UICONTROL /]******&#x200B;アクセスレベル機能で表示できるようになりました。 |
-| アクセシビリティの強化 | 2020 年 5 月 22 日 | Adobe Analyticsチームでは、キーボードナビゲーション、カラーコントラスト、スクリーンリーダーのサポートの強化など、分析ワークスペースに対していくつかのアクセシビリティの改善を行っています。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
+| [!UICONTROL Adobe Analytics パッケージ]に機能[!UICONTROL アクセスレベル]ページが追加されました。 | 2020 年 5 月 22 日 | 会社に使用権原が付与されている [!UICONTROL Adobe Analytics パッケージ]（SKU）を、**[!UICONTROL 管理者]**／**[!UICONTROL 会社設定]**／**[!UICONTROL アクセスレベル機能]**&#x200B;で表示できるようになりました。 |
+| アクセシビリティの強化 | 2020 年 5 月 22 日 | Adobe Analytics チームでは、キーボードナビゲーション、カラーコントラスト、スクリーンリーダーのサポートの強化など、Analysis Workspace に関していくつかのアクセシビリティの改善をおこないました。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
 
-#### [!UICONTROL Media Analyticsの新機能] {#media-aa}
+### Customer Journey Analytics の新機能 {#cust-journey}
+
+| 機能 | [一般公開日](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) -ターゲット日 | 説明 |
+| -----------| --------- | ---------- |
+| [!UICONTROL ワークス][!UICONTROL ペースのクイックインサイトパネル] | 2020年6月25日 | [!UICONTROL クイックインサイト] (Quick Insights [!UICONTROL )では、] 分析ワークスペースのアナリストでないユーザーおよび新しいユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。 [詳細情報](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
+| [!UICONTROL Customer Journey Analytics]：グローバルに利用可能 | 2020 年 5 月 22 日 | EMEA および APAC のお客様は、[!UICONTROL Customer Journey Analytics] を利用できるようになります。 |
+| [!UICONTROL Customer Journey Analytics]：[!UICONTROL Adobe Experience Platform サンドボックス]のサポート | 2020 年 5 月 22 日 | CJA 接続を構築するための特定の [!UICONTROL Adobe Experience Platform サンドボックス]を選択できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-connections/create-connection.html) |
+| [!UICONTROL Workspace]：空白の状態から[!UICONTROL フリーフォームテーブル]を自動的に作成 | [2020 年 5 月 22 日 | 以前は、空のプロジェクトや空のパネルにコンポーネントを直接ドロップすることはできず、最初に[!UICONTROL フリーフォームテーブル]を追加する必要がありました。現在は、空のプロジェクトまたはパネルにコンポーネントを直接ドロップできるようになりました。[!UICONTROL フリーフォームテーブル]は推奨される形式で自動的に作成されます。また、空のフリーフォームテーブルにドロップした場合の混合コンポーネントタイプ（ディメンションや指標など）の処理方法も強化されました。 |
+| アクセシビリティの強化 | 2020 年 5 月 22 日 | Adobe Analytics チームでは、キーボードナビゲーション、カラーコントラスト、スクリーンリーダーのサポートの強化など、Analysis Workspace に関していくつかのアクセシビリティの改善をおこないました。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
+
+#### [!UICONTROL Media Analytics] の新機能です。{#media-aa}
 
 更新日： **2020年5月29日**
 
-**プレイヤー状態の追跡：** [!UICONTROL Media Analytics] のお客様は、フルスクリーン、クローズドキャプション、ミュート、ピクチャインピクチャ、インフォーカスの標準的なソリューション変数のセットを使用して、再生中のビューアのインタラクションをキャプチャできます。 また、カスタムプレーヤー状態を柔軟に作成することもできます。 プレイヤー状態追跡変数が [!UICONTROL 分析ワークスペースでレポートできるようになりました]。 この機能を使用するには、次のいずれかが必要です。
+**プレイヤー状態の追跡：** [!UICONTROL Media Analytics] のお客様は、標準的なソリューション変数のセット（フルスクリーン、クローズドキャプション、ミュート、ピクチャインピクチャ、インフォーカス）を使用して、再生中の閲覧者のインタラクションをキャプチャできます。また、カスタムプレーヤー状態を柔軟に作成することもできます。[!UICONTROL Analysis Workspace] のレポートで、プレイヤー状態追跡変数を使用できるようになりました。この機能を使用するには、次のいずれかが必要です。
 
-* メディア [!DNL JavaScript] SDK 3.0以降
-* ( [!DNL Adobe Experience Platform] AEP) SDKで使用する場合：
-   * [!UICONTROL Media Analytics Extension] （Web用）: [!UICONTROL オーディオおよびビデオ用Adobe Media Analytics] (3.x SDK)v1.0以降
-   * [!UICONTROL Media Analytics Extension] （モバイル用）: [!UICONTROL オーディオ] &amp;ビデオ用Adobe Media Analytics v2.0以降
+* Media [!DNL JavaScript] SDK 3.0 以降
+* [!DNL Adobe Experience Platform]（AEP）SDK で使用する場合：
+   * [!UICONTROL Media Analytics 拡張機能]（Web 用）：[!UICONTROL Adobe Media Analytics]（3.x SDK）for Audio および Adobe Media Analytics for Video v1.0 以降
+   * [!UICONTROL Media Analytics Extension]（モバイル用）：[!UICONTROL Adobe Media Analytics for Audio] および Adobe Media Analytics for Video v2.0 以降
 * [!UICONTROL メディアコレクション]
 
 プレイヤー状態 [の追跡についてを参照してください](https://docs.adobe.com/content/help/en/media-analytics/using/player-state-tracking/player-state-overview.html)。
 
 #### Adobe Analytics の修正点 {#aa-fixes}
 
-* 滞在  時間指標が変更され、計算に「未指定」が含まれないようになりました。 つまり、UIが「未指定」と呼ぶかどうかに関係なく、 [!UICONTROL 滞在時間] (Time Spent)の計算に常に「未指定」を除外する特別な例外を設定します。 したがって、滞在  時間指標を含むレポートを「未指定」に設定した場合でも、「未指定」の行項目に対しては常に0時間が返されます。 これにより、Reports &amp; AnalyticsおよびレポートAPI v1.4での履歴レポートが変更される場合があります。 （AN-197958）
-* インスタンス/訪問/訪問者が滞在 [!UICONTROL 時間] 指標の分母としてカウントされない問題を修正しました。  これは、ディメンションの値を持たないヒット( [!UICONTROL Pagename]など)が同じ秒間に続いた場合に発生します。 （AN-211074）
+* [!UICONTROL 滞在時間]指標が変更され、計算に「未指定」が含まれなくなりました。つまり、UI に「未指定」を含めると表示されているどうかに関係なく、[!UICONTROL 滞在時間]の計算で常に「未指定」を除外する特別な例外を設定します。したがって、[!UICONTROL 滞在時間]指標を含むレポートを「未指定」に設定した場合でも、「未指定」の行項目の滞在時間には常に「0」が返されます。これにより、Reports &amp; Analytics およびレポート API v1.4 での履歴レポートが変更される場合があります。（AN-197958）
+* インスタンス／訪問／訪問者が[!UICONTROL 滞在時間]指標の分母としてカウントされない問題を修正しました。この問題は、同じ時間（秒）にディメンションの値を持たないヒット（[!UICONTROL Pagename]など）が続いた場合に発生していました。（AN-211074）
 * Audience Manager で [!DNL Analytics] のセグメントデータが欠落する問題を修正しました。（AN-206221）
 * [!UICONTROL データソース]の処理で日付が正しく表示されない問題を修正しました。（AN-213604）
 * 分類ファイルが FTP に正しくアップロードされない問題を修正しました。（AN-214102）
@@ -226,8 +232,8 @@ AN-101871、AN-115525、AN-123869、AN-152580、AN-160480、AN-178128、AN-18690
 | -----------| ---------- | ---------- |
 | 統合製品ドメインへの移行 | 発効日： 2020年5月28日 | Adobe Analyticsの統合製品ドメインへの移行は2020年1月に開始され、2020年5月28日に完了しました。 Adobe Analyticsはアーキテクチャからすべての `omniture.com` ドメイン参照を削除しますが、サードパーティCookieとしてホワイトリスト `omniture.com` を作成することは重要です。 アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。このホワイトリストの手順は不要になります。 [ホワイトリストに登録する必要のある推奨IPアドレスとドメインの完全なリストを以下に示します](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) 。<br>組織でサードパーティCookieがブロックされている場合は、カスタマーケアに連絡して、Adobe Analyticsへのアクセスを回復してください。 |
 | 新しいAdobe Analyticsデフォルトランディングページ | 発効日： 2020年6月18日 | 2020年6月18日に、Adobe Analyticsのデフォルトのランディングページが [!UICONTROL レポート] から [!UICONTROL Workspace]に変更されます。 この変更は、以前にカスタムランディングページを設定していないユーザーに対して適用されます。 |
-| サードパーティのテクノロジーホワイトリスト | (施行日： 2020年3月12日 | Adobe Analyticsは、サードパーティのテクノロジーを活用して、機能の展開管理と製品内サポートを開始しました。 機能に完全にアクセスできるように、必要なネットワークファイアウォールのホワイトリストに次のURLを追加する必要があります。<ul><li>勝者： https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul> |
-| 分析ワークスペースの可用性に対する冗長性の向上 | 2020 年 5 月 22 日 | 分析ワークスペースの可用性を確保するために、冗長性を高めるためにセカンダリCDN(コンテンツ配信ネットワーク)を追加します。 必要なネットワークファイアウォールのホワイトリストには、次のURLを追加する必要があります。<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
+| サードパーティのテクノロジーホワイトリスト | (施行日： 2020年3月12日 | Adobe Analytics は、サードパーティのテクノロジーを活用して、機能のロールアウト管理と製品内サポートを開始しました。すべての機能にアクセスできるよう、必要なネットワークファイアウォールのホワイトリストに、次の URL を追加する必要があります。<ul><li>Gainsight：https://esp.aptrinsic.com</li><li>LaunchDarkly：https://app.launchdarkly.com</li></ul> |
+| Analysis Workspace の可用性に対する冗長性の向上 | 2020 年 5 月 22 日 | Analysis Workspace の可用性を確保するために、セカンダリ CDN（コンテンツ配信ネットワーク）を追加し、冗長性を高めます。必要なネットワークファイアウォールのホワイトリストに、次の URL を追加する必要があります。<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
 | [!UICONTROL Workspace] での[!UICONTROL 入口／出口]の計算方法の変更 | 2020 年 4 月 8 日 | 2020 年 3 月の時点で、[!UICONTROL Analysis Workspace] における「_なし_」の値と[!UICONTROL 入口／出口]との相互作用を変更しました。[!UICONTROL Analysis Workspace] で「_なし_」をオン／オフにできるようになったので、入口または出口の後に「_なし_」を適用します。（eVar の場合）以前は、これらの前に適用されていました。例えば、訪問の最初のヒットに eVar の値がないが、2 回目のヒットに eVar の値があるとします。[!UICONTROL Reports &amp; Analytics] では、最初のヒットがそのエントリに対して「_未指定_」と表示されますが、[!UICONTROL Analysis Workspace] では 2 回目のヒットの値が表示されます。 |
 | **[!UICONTROL コンバージョンレベル]**&#x200B;設定のサポート終了 | 2020 年 3 月 4 日 | **[!UICONTROL 管理ツール]**／**[!UICONTROL レポートスイート]**／**[!UICONTROL 一般的なアカウント設定]**&#x200B;で、機能しない[コンバージョンレベル](https://docs.adobe.com/content/help/ja-JP/analytics/admin/admin-tools/general-acct-settings-admin.html)設定は、2020 年 3 月 13 日にユーザーインターフェイスから削除されます。 |
 | **[!UICONTROL ダッシュボードアーカイブ]**&#x200B;のサービス終了 | 2020 年 3 月 28 日 | [!UICONTROL Reports &amp; Analytics] の「**[!UICONTROL ダッシュボードを管理]**」の「**[!UICONTROL アーカイブを表示]**」設定は、2020 年 10 月から使用できなくなります。 |
@@ -358,7 +364,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 * [AEM 6.4 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-4.html)
 * [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-3.html)
 * [AEM 6.2 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-2.html)
-* [Cloud Manager ユーザーガイド](https://helpx.adobe.com/jp/experience-manager/cloud-manager/user-guide.html)
+* [Cloud Manager ユーザーガイド](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
 * [AEM Cloud Manager リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 * [AEM ドキュメントの以前のバージョン](https://helpx.adobe.com/jp/experience-manager/aem-previous-versions.html)
 * [Dynamic Media Classic ヘルプホーム](https://docs.adobe.com/content/help/ja-JP/dynamic-media-classic/using/home.html)
@@ -371,7 +377,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### Campaign Standard
 
-* [Adobe Campaign標準20.3リリース](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html)
+* [Adobe Campaign Standard 20.3 リリース](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html)
 
 ### Campaign Classic
 
@@ -385,7 +391,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 | GPG キー管理 | Campaign から送信したデータを暗号化したり、受信データを復号化したりするために、マーケティングインスタンスに GPG キーをインストール／生成します。 |
 | CNAME サブドメインの証明書管理 | コントロールパネルを使用して、CNAME メソッドでデリゲートされたサブドメインの SSL 証明書を更新できるようになりました。 |
 
-### 新しいキャンペーンチュートリアル
+### Campaign の新しいチュートリアル
 
 * 新しい Campaign Standard のチュートリアル
 
@@ -393,7 +399,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 | -----------| ---------- |  
 | [コントロールパネル - Google TXT レコード管理](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/administrating/control-panel/google-txt-record-management.html) | Campaign コントロールパネルを使用して、Gmail アドレス宛ての E メール送信に使用するすべてのサブドメインに Google TXT サイト検証レコードを追加する方法を説明します。 |
 | [外部 API アクティビティを含むワークフローの設定と実行](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) | 外部 API アクティビティを使用した外部 REST API エンドポイントの呼び出し方法を説明します。 |
-| [Android向けプッシュ通知の使用の手引き（チュートリアル）](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | このチュートリアルでは、Campaign StandardおよびAndroid Appでプッシュ通知を設定する手順について説明します。 |
+| [Android 用プッシュ通知使用の手引き - チュートリアル](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | このチュートリアルでは、Campaign Standard および Android アプリケーションでプッシュ通知を設定するために必要な手順を説明します。 |
 
 * Campaign Classic の新しいチュートリアル
 
@@ -402,10 +408,10 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 | [Snowflake のビッグデータ管理](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Adobe Campaign Classic の Snowflake コネクタの活用方法を説明します。 |
 | [コントロールパネル - Google TXT レコード管理](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html) | Campaign コントロールパネルを使用して、Gmail アドレス宛ての E メール送信に使用するすべてのサブドメインに Google TXT サイト検証レコードを追加する方法を説明します。 |
 
-### キャンペーンのヘルプリソース
+### Campaign ヘルプリソース
 
-* Adobe Campaign標準： [ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) — リリース計画 [](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-planning.html)[— 最新ドキュメントの更新](https://docs.adobe.com/content/help/en/campaign-standard/using/documentation-updates.html)
-* Adobe Campaignクラシック： [ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/campaign-classic-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)- [最新のドキュメント更新](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/documentation-updates.html)
+* Adobe Campaign Standard：[ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [リリース計画](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-planning.html) - [最新ドキュメントの更新](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/documentation-updates.html)
+* Adobe Campaign Classic：[ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/campaign-classic-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html) - [最新ドキュメントの更新](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/documentation-updates.html)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/control-panel/using/release-notes.html)
 
 ## ![アイコン](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
