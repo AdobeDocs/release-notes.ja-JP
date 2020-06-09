@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: feb921205059c7ab4ba9d59964fae9b1954d12a0
 workflow-type: tm+mt
 source-wordcount: '5640'
-ht-degree: 92%
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 92%
 
 **リリース日：2020 年 5 月**
 
-最新の更新： **2020年6月4日**
+Latest update: **June 4, 2020**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
@@ -71,7 +71,7 @@ Experience Cloud インターフェイスに対する一般的なアップデー
 更新内容は次のとおりです。
 
 * 新しいアプリケーション URL：`experience.adobe.com/<application name>`：
-   * すべての製品で、最終的にこの URL パターンが採用されます。1 ヶ月間にわたって効果的な新しい URL を探します。
+   * すべての製品で、最終的にこの URL パターンが採用されます。1 か月間にわたって効果的な新しい URL を探します。
    * ブラウザーのサポート：サポートされるブラウザーには、[!DNL Microsoft Edge]、[!DNL Google Chrome]、[!DNL Firefox]、[!DNL Safari]、および [!DNL Opera]（最新バージョン）が含まれます。**メモ：** Experience Cloud インターフェイスはこれらのブラウザーをサポートしていますが、個々のアプリケーションがすべてのブラウザーに対応しているわけではありません（例えば、[Analytics](https://docs.adobe.com/content/help/ja-JP/analytics/admin/sys-reqs.html) は [!DNL Opera] をサポートしておらず、[Target](https://docs.adobe.com/help/ja-JP/target/using/implement-target/before-implement/supported-browsers.html) は [!DNL Safari] をサポートしていません）。
    * （[!DNL Safari] のみ）ドメインの変更によって、[!DNL Safari] で cookie の問題が発生する場合があります。[!DNL Safari] のプライバシー設定で「_サイト越えトラッキングを防ぐ_」をオフにすると、ドメイン（およびすべてのクロスサイトエクスペリエンス）間で cookie が有効になり、Experience Cloud がこの新しいドメインで機能するようになります。
 * 組織間または別のアプリケーション間の切り替えが容易になりました。
@@ -112,7 +112,7 @@ Experience Cloud インターフェイスに対する一般的なアップデー
 * ヘルプメニューの特集記事やコンテキストの関連するドキュメントなど、ユーザーヘルプが強化されました。
 * Experience Platform およびファイルサポートチケットに関するフィードバックを提供する機能が追加されました。
 
-詳しくは、[Experience Platform リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)を参照してください。
+詳しくは、[Experience Platform リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md)を参照してください。
 
 ### 顧客属性 - 新規ドキュメント
 
@@ -132,15 +132,15 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 ### その他の Experience Platform のリリース情報
 
 * [Experience Platform Launch リリースノート](https://docs.adobe.com/content/help/ja-JP/launch/using/intro/release-notes/current.html)
-* [Experience Platform リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
+* [Experience Platform リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md)
 * [セキュリティ速報および情報](https://helpx.adobe.com/jp/security.html)（すべてのアドビ製品）
 
 ## ![アイコン](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
 * [Adobe Analytics](#aa-features) (**更新日2020年6月4日**)の新機能
 * [Customer Jeurney Analytics](#cust-journey) (**更新日2020年6月4日**)の新機能
-* [Media Analyticsの新機能](#media-aa) (**更新日2020年5月29日**)
-* [Analytics管理者向けの重要な注意事項](#aa-notices) (**更新日2020年6月1日**)
+* [Media Analytics の新機能](#media-aa)（**更新日：2020 年 5 月 30 日**）
+* [Analytics 管理者向けの重要な注意事項](#aa-notices)（**更新日：2020 年 6 月 2 日**）
 * [Adobe Analytics の修正](#aa-fixes)（**更新日：2020 年 5 月 22 日**）
 * [AppMeasurement](#appm)
 * [新しい Analytics チュートリアル](#tutorials-analytics)
@@ -150,30 +150,30 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 <!--First-Party Domains Available in China RDC: June 18 - Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... 
 Anomaly det. support in CJA - June 18; Project Sharing Roles - June 18; Blank panel in WS now includes panels and vizs - June 18; -->
 
-| 機能 | [一般公開日](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) -ターゲット日 | 説明 |
+| 機能 | [一般公開日](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) -ターゲット日 | 説明 |
 | -----------| ------------ | ---------- |
 | [!UICONTROL Workspaceのターゲット用Analytics][!UICONTROL パネル] | 2020年6月25日 | [!UICONTROL Analytics forターゲット] (A4T)パネルを使用すると、 [!UICONTROL 分析ワークスペースでAdobeターゲットのアクティビティとエクスペリエンスを分析できます。] [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
 | [!UICONTROL ワークス][!UICONTROL ペースのクイックインサイトパネル] | 2020年6月25日 | [!UICONTROL クイックインサイト] (Quick Insights [!UICONTROL )では、] 分析ワークスペースのアナリストでないユーザーおよび新しいユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。 [詳細情報](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
-| [!UICONTROL Bulk Data Insertion] API | 2020 年 6 月 1 日 | Analyticsデータのバッチを簡単かつ独立して取り込むことができます。 サーバー側データとオフラインデータに役立ちます。 [詳細情報...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
+| [!UICONTROL 一括データ挿入 API] | 2020 年 6 月 1 日 | Analytics データのバッチを容易かつ独立して取り込むことができます。サーバーサイドデータとオフラインデータに役立ちます。[詳細情報...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
 | Adobe Analytics support for [!UICONTROL Adobe Experience Platform Edge Network] | 2020 年 6 月 1 日 | 1 つのタグを使用して、Adobe Analytics、Adobe Target、Adobe Audience Manager、Adobe Experience Platform Data Lake、統合プロファイルおよび Experience Cloud ID サービスなど、複数のアドビソリューションにデータを送信できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/experience-platform/edge/solutions/analytics/analytics-overview.html) |
 | [!UICONTROL Adobe Analytics ダッシュボード] | 2020 年 5 月 22 日 | [!UICONTROL Adobe Analytics ダッシュボード]は、ユーザーがいつでもどこからでも Adobe Analytics にアクセスしてインサイトを得ることが可能なモバイルアプリです。このアプリは、主要指標への外部からのアクセスを求めるエグゼクティブを対象にしています。キュレーションされたインタラクティブなスコアカードにアクセスでき、iOS と Android の両方のオペレーティングシステムで使用できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/mobapp/home.html) |
-| [!UICONTROL Workspace]：空白の状態から[!UICONTROL フリーフォームテーブル]を自動的に作成 | [2020 年 5 月 22 日 | 以前は、空のプロジェクトや空のパネルにコンポーネントを直接ドロップすることはできず、最初に[!UICONTROL フリーフォームテーブル]を追加する必要がありました。現在は、空のプロジェクトまたはパネルにコンポーネントを直接ドロップできるようになりました。[!UICONTROL フリーフォームテーブル]は推奨される形式で自動的に作成されます。また、空のフリーフォームテーブルにドロップした場合の混合コンポーネントタイプ（ディメンションや指標など）の処理方法も強化されました。 |
+| [!UICONTROL Workspace]：空白の状態から[!UICONTROL フリーフォームテーブル]を自動的に作成 | 2020 年 5 月 22 日 | 以前は、空のプロジェクトや空のパネルにコンポーネントを直接ドロップすることはできず、最初に[!UICONTROL フリーフォームテーブル]を追加する必要がありました。現在は、空のプロジェクトまたはパネルにコンポーネントを直接ドロップできるようになりました。[!UICONTROL フリーフォームテーブル]は推奨される形式で自動的に作成されます。また、空のフリーフォームテーブルにドロップした場合の混合コンポーネントタイプ（ディメンションや指標など）の処理方法も強化されました。 |
 | [!UICONTROL Adobe Analytics パッケージ]に機能[!UICONTROL アクセスレベル]ページが追加されました。 | 2020 年 5 月 22 日 | 会社に使用権原が付与されている [!UICONTROL Adobe Analytics パッケージ]（SKU）を、**[!UICONTROL 管理者]**／**[!UICONTROL 会社設定]**／**[!UICONTROL アクセスレベル機能]**&#x200B;で表示できるようになりました。 |
-| アクセシビリティの強化 | 2020 年 5 月 22 日 | Adobe Analytics チームでは、キーボードナビゲーション、カラーコントラスト、スクリーンリーダーのサポートの強化など、Analysis Workspace に関していくつかのアクセシビリティの改善をおこないました。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
+| アクセシビリティの強化 | 2020 年 5 月 22 日 | Adobe Analytics チームでは、キーボードナビゲーション、カラーコントラスト、スクリーンリーダーのサポートの強化など、Analysis Workspace に関していくつかのアクセシビリティの改善をおこないました。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
-| 機能 | [一般公開日](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) -ターゲット日 | 説明 |
+| 機能 | [一般公開日](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) -ターゲット日 | 説明 |
 | -----------| --------- | ---------- |
 | [!UICONTROL ワークス][!UICONTROL ペースのクイックインサイトパネル] | 2020年6月25日 | [!UICONTROL クイックインサイト] (Quick Insights [!UICONTROL )では、] 分析ワークスペースのアナリストでないユーザーおよび新しいユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。 [詳細情報](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
 | [!UICONTROL Customer Journey Analytics]：グローバルに利用可能 | 2020 年 5 月 22 日 | EMEA および APAC のお客様は、[!UICONTROL Customer Journey Analytics] を利用できるようになります。 |
 | [!UICONTROL Customer Journey Analytics]：[!UICONTROL Adobe Experience Platform サンドボックス]のサポート | 2020 年 5 月 22 日 | CJA 接続を構築するための特定の [!UICONTROL Adobe Experience Platform サンドボックス]を選択できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-connections/create-connection.html) |
-| [!UICONTROL Workspace]：空白の状態から[!UICONTROL フリーフォームテーブル]を自動的に作成 | [2020 年 5 月 22 日 | 以前は、空のプロジェクトや空のパネルにコンポーネントを直接ドロップすることはできず、最初に[!UICONTROL フリーフォームテーブル]を追加する必要がありました。現在は、空のプロジェクトまたはパネルにコンポーネントを直接ドロップできるようになりました。[!UICONTROL フリーフォームテーブル]は推奨される形式で自動的に作成されます。また、空のフリーフォームテーブルにドロップした場合の混合コンポーネントタイプ（ディメンションや指標など）の処理方法も強化されました。 |
-| アクセシビリティの強化 | 2020 年 5 月 22 日 | Adobe Analytics チームでは、キーボードナビゲーション、カラーコントラスト、スクリーンリーダーのサポートの強化など、Analysis Workspace に関していくつかのアクセシビリティの改善をおこないました。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
+| [!UICONTROL Workspace]：空白の状態から[!UICONTROL フリーフォームテーブル]を自動的に作成 | 2020 年 5 月 22 日 | 以前は、空のプロジェクトや空のパネルにコンポーネントを直接ドロップすることはできず、最初に[!UICONTROL フリーフォームテーブル]を追加する必要がありました。現在は、空のプロジェクトまたはパネルにコンポーネントを直接ドロップできるようになりました。[!UICONTROL フリーフォームテーブル]は推奨される形式で自動的に作成されます。また、空のフリーフォームテーブルにドロップした場合の混合コンポーネントタイプ（ディメンションや指標など）の処理方法も強化されました。 |
+| アクセシビリティの強化 | 2020 年 5 月 22 日 | Adobe Analytics チームでは、キーボードナビゲーション、カラーコントラスト、スクリーンリーダーのサポートの強化など、Analysis Workspace に関していくつかのアクセシビリティの改善をおこないました。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
 
 #### [!UICONTROL Media Analytics] の新機能です。{#media-aa}
 
-更新日： **2020年5月29日**
+更新日：**2020 年 5 月 30 日**
 
 **プレイヤー状態の追跡：** [!UICONTROL Media Analytics] のお客様は、標準的なソリューション変数のセット（フルスクリーン、クローズドキャプション、ミュート、ピクチャインピクチャ、インフォーカス）を使用して、再生中の閲覧者のインタラクションをキャプチャできます。また、カスタムプレーヤー状態を柔軟に作成することもできます。[!UICONTROL Analysis Workspace] のレポートで、プレイヤー状態追跡変数を使用できるようになりました。この機能を使用するには、次のいずれかが必要です。
 
@@ -183,7 +183,7 @@ Anomaly det. support in CJA - June 18; Project Sharing Roles - June 18; Blank pa
    * [!UICONTROL Media Analytics Extension]（モバイル用）：[!UICONTROL Adobe Media Analytics for Audio] および Adobe Media Analytics for Video v2.0 以降
 * [!UICONTROL メディアコレクション]
 
-プレイヤー状態 [の追跡についてを参照してください](https://docs.adobe.com/content/help/en/media-analytics/using/player-state-tracking/player-state-overview.html)。
+[プレイヤーステートトラッキングについて](https://docs.adobe.com/content/help/ja-JP/media-analytics/using/player-state-tracking/player-state-overview.html)を参照してください。
 
 #### Adobe Analytics の修正点 {#aa-fixes}
 
@@ -196,7 +196,7 @@ Anomaly det. support in CJA - June 18; Project Sharing Roles - June 18; Blank pa
 * [!DNL Workspace] PDF をダウンロードする際、テーブルの行項目が特殊文字に変換される問題を修正しました。（AN-196153）
 * Adobe Analytics API 1.4 の呼び出し `visattrcustomeridcustomerattributes` が正常に機能しない問題を修正しました。（AN-186873）
 * レポートにデータが表示されるけれど、[!UICONTROL データフィード]に表示されない問題を修正しました。（AN-211923）
-* [!UICONTROL 製品プロファイル]をコピーできない問題を修 正しました。（AN-211113）
+* [!UICONTROL 製品プロファイル]をコピーできない問題を修正しました。（AN-211113）
 * Federated ID を持つユーザーが [!UICONTROL Report Builder] にログインできない問題を修正しました。（AN-207750）
 * [!UICONTROL AdWords] データが [!UICONTROL Advertising Analytics] に表示されない問題を修正しました。（AN-213249）
 * 分類データがトレンドビューに表示されない問題を修正しました。（AN-212761）
@@ -220,7 +220,7 @@ Anomaly det. support in CJA - June 18; Project Sharing Roles - June 18; Blank pa
 * [!UICONTROL Workspace] の[!UICONTROL プロジェクトが表示されました]イベントがログに表示されなかった問題を修正しました。（AN-214134）
 * [!UICONTROL Workspace] で日付範囲を変更して「**[!UICONTROL すべてのパネルに適用]**」を選択した場合に発生していた問題を修正しました。一部のパネルで日付が変更されませんでした。（AN-214944）
 * アラートを作成または編集できなかった問題を修正しました。（AN-215920）
-* 週の最初を月曜日から日曜日に散発的に切り替えることが原因で、[!UICONTROL Workspace] のすべての動的な日付範囲が間違った日付を表示していた問題を修正しました。た。（AN-218835）
+* 週の最初を月曜日から日曜日に散発的に切り替えることが原因で、[!UICONTROL Workspace] のすべての動的な日付範囲が間違った日付を表示していた問題を修正しました。（AN-218835）
 
 #### その他の Adobe Analytics の修正点
 
@@ -230,9 +230,9 @@ AN-101871、AN-115525、AN-123869、AN-152580、AN-160480、AN-178128、AN-18690
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| 統合製品ドメインへの移行 | 発効日： 2020年5月28日 | Adobe Analyticsの統合製品ドメインへの移行は2020年1月に開始され、2020年5月28日に完了しました。 Adobe Analyticsはアーキテクチャからすべての `omniture.com` ドメイン参照を削除しますが、サードパーティCookieとしてホワイトリスト `omniture.com` を作成することは重要です。 アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。このホワイトリストの手順は不要になります。 [ホワイトリストに登録する必要のある推奨IPアドレスとドメインの完全なリストを以下に示します](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) 。<br>組織でサードパーティCookieがブロックされている場合は、カスタマーケアに連絡して、Adobe Analyticsへのアクセスを回復してください。 |
-| 新しいAdobe Analyticsデフォルトランディングページ | 発効日： 2020年6月18日 | 2020年6月18日に、Adobe Analyticsのデフォルトのランディングページが [!UICONTROL レポート] から [!UICONTROL Workspace]に変更されます。 この変更は、以前にカスタムランディングページを設定していないユーザーに対して適用されます。 |
-| サードパーティのテクノロジーホワイトリスト | (施行日： 2020年3月12日 | Adobe Analytics は、サードパーティのテクノロジーを活用して、機能のロールアウト管理と製品内サポートを開始しました。すべての機能にアクセスできるよう、必要なネットワークファイアウォールのホワイトリストに、次の URL を追加する必要があります。<ul><li>Gainsight：https://esp.aptrinsic.com</li><li>LaunchDarkly：https://app.launchdarkly.com</li></ul> |
+| 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。Adobe Analytics はアーキテクチャからすべての `omniture.com` ドメイン参照を削除しますが、サードパーティ Cookie としてホワイトリスト `omniture.com` を作成することが重要です。アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。すると、このホワイトリストの手順は不要になります。ホワイトリストに登録する必要のある推奨 IP アドレスとドメインの完全なリストは、[こちら](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html)をご覧ください。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
+| 新しい Adobe Analytics のデフォルトランディングページ | 発効日：2020 年 6 月 19 日 | 2020 年 6 月 19 日に、Adobe Analytics のデフォルトのランディングページが[!UICONTROL レポート]から [!UICONTROL Workspace] に変更されます。この変更は、過去にカスタムランディングページを設定していないユーザーに対して適用されます。 |
+| サードパーティのテクノロジーホワイトリスト | （発効日： 2020 年 3 月 13 日 | Adobe Analytics は、サードパーティのテクノロジーを活用して、機能のロールアウト管理と製品内サポートを開始しました。すべての機能にアクセスできるよう、必要なネットワークファイアウォールのホワイトリストに、次の URL を追加する必要があります。<ul><li>Gainsight：https://esp.aptrinsic.com</li><li>LaunchDarkly：https://app.launchdarkly.com</li></ul> |
 | Analysis Workspace の可用性に対する冗長性の向上 | 2020 年 5 月 22 日 | Analysis Workspace の可用性を確保するために、セカンダリ CDN（コンテンツ配信ネットワーク）を追加し、冗長性を高めます。必要なネットワークファイアウォールのホワイトリストに、次の URL を追加する必要があります。<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
 | [!UICONTROL Workspace] での[!UICONTROL 入口／出口]の計算方法の変更 | 2020 年 4 月 8 日 | 2020 年 3 月の時点で、[!UICONTROL Analysis Workspace] における「_なし_」の値と[!UICONTROL 入口／出口]との相互作用を変更しました。[!UICONTROL Analysis Workspace] で「_なし_」をオン／オフにできるようになったので、入口または出口の後に「_なし_」を適用します。（eVar の場合）以前は、これらの前に適用されていました。例えば、訪問の最初のヒットに eVar の値がないが、2 回目のヒットに eVar の値があるとします。[!UICONTROL Reports &amp; Analytics] では、最初のヒットがそのエントリに対して「_未指定_」と表示されますが、[!UICONTROL Analysis Workspace] では 2 回目のヒットの値が表示されます。 |
 | **[!UICONTROL コンバージョンレベル]**&#x200B;設定のサポート終了 | 2020 年 3 月 4 日 | **[!UICONTROL 管理ツール]**／**[!UICONTROL レポートスイート]**／**[!UICONTROL 一般的なアカウント設定]**&#x200B;で、機能しない[コンバージョンレベル](https://docs.adobe.com/content/help/ja-JP/analytics/admin/admin-tools/general-acct-settings-admin.html)設定は、2020 年 3 月 13 日にユーザーインターフェイスから削除されます。 |
@@ -397,9 +397,9 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | コンテンツ | 説明 |
 | -----------| ---------- |  
-| [コントロールパネル - Google TXT レコード管理](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/administrating/control-panel/google-txt-record-management.html) | Campaign コントロールパネルを使用して、Gmail アドレス宛ての E メール送信に使用するすべてのサブドメインに Google TXT サイト検証レコードを追加する方法を説明します。 |
-| [外部 API アクティビティを含むワークフローの設定と実行](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) | 外部 API アクティビティを使用した外部 REST API エンドポイントの呼び出し方法を説明します。 |
-| [Android 用プッシュ通知使用の手引き - チュートリアル](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | このチュートリアルでは、Campaign Standard および Android アプリケーションでプッシュ通知を設定するために必要な手順を説明します。 |
+| [コントロールパネル - Google TXT レコード管理](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/administrating/control-panel/google-txt-record-management.html) | Campaign コントロールパネルを使用して、Gmail アドレス宛ての E メール送信に使用するすべてのサブドメインに Google TXT サイト検証レコードを追加する方法を説明します。 |
+| [外部 API アクティビティを含むワークフローの設定と実行](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/managing-processes-and-data/data-management-activities/external-api-activity.html) | 外部 API アクティビティを使用した外部 REST API エンドポイントの呼び出し方法を説明します。 |
+| [Android 用プッシュ通知使用の手引き - チュートリアル](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html) | このチュートリアルでは、Campaign Standard および Android アプリケーションでプッシュ通知を設定するために必要な手順を説明します。 |
 
 * Campaign Classic の新しいチュートリアル
 
@@ -410,7 +410,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### Campaign ヘルプリソース
 
-* Adobe Campaign Standard：[ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [リリース計画](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-planning.html) - [最新ドキュメントの更新](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/documentation-updates.html)
+* Adobe Campaign Standard：[ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/overview.html) - [リリース計画](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-planning.html) - [最新ドキュメントの更新](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic：[ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/campaign-classic-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html) - [最新ドキュメントの更新](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/documentation-updates.html)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/control-panel/using/release-notes.html)
 
