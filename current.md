@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: be2f2b5ad468ad63bfcb2fdd67d063203ac08654
+source-git-commit: 1afcf2185512cf05aa2fd7444c5835186681432e
 workflow-type: tm+mt
-source-wordcount: '5030'
-ht-degree: 79%
+source-wordcount: '5640'
+ht-degree: 97%
 
 ---
 
@@ -137,40 +137,41 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 ## ![アイコン](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
-Updated **June, 2020**
-
-* [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey)
-* [Media Analytics](#media-aa) の新機能です。
-* [Adobe Analytics の修正点](#aa-fixes)
-* [Analytics 管理者向けの重要な注意事項](#aa-notices)
+* [Adobe Analytics](#aa-features) (**更新日2020年6月4日**)の新機能
+* [Customer Jeurney Analytics](#cust-journey) (**更新日2020年6月4日**)の新機能
+* [Media Analytics の新機能](#media-aa)（**更新日：2020 年 5 月 30 日**）
+* [Analytics 管理者向けの重要な注意事項](#aa-notices)（**更新日：2020 年 6 月 2 日**）
+* [Adobe Analytics の修正](#aa-fixes)（**更新日：2020 年 5 月 22 日**）
 * [AppMeasurement](#appm)
 * [新しい Analytics チュートリアル](#tutorials-analytics)
 
 ### Adobe Analytics の新機能 {#aa-features}
 
-| 機能 | [一般公開日](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html)-ターゲット日 | 説明 |
-| -----------| ---------- |-------|
-| アトリビューションIQ: アルゴリズムアトリビューション | 2020 年 6 月 19 日 | 分析ワークスペースの [!UICONTROL アルゴリズムアトリビューション] モデルでは、統計的な手法を使用して、選択した指標に対するクレジットの最適な配分を動的に決定します。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
-| アトリビューションIQ: カスタムのルックバックウィンドウ | 2020 年 6 月 19 日 | アトリビューションIQ  の任意のアトリビューションモデルを設定して、レポート期間の最大90日前のタッチポイントを含めることができるようになりました。 これは、通常、前月に発生したインタラクションを考慮することで、レポートの初期に発生するイベントのアトリビューション精度を高めます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
-| 共有Workspaceプロジェクトのプロジェクトロール | 2020 年 6 月 19 日 | Workspaceプロジェクトを共有する際、受信者を、使用するプロジェクトの経験に応じて、次の3つのプロジェクトの役割のいずれかに配置できるようになりました。 編集、重複、表示。 [詳細情報…]((https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| 表示のみのWorkspaceプロジェクト | 2020 年 6 月 19 日 | Workspaceプロジェクトは、「表示可能」としてのみユーザーに共有できます。 表示受信者が共有プロジェクトを開くと、より制限の多いプロジェクト操作が得られ、左側のレールも操作の制限もありません。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
-| Workspaceプロジェクトの共同編集機能 | 2020 年 6 月 19 日 | 「編集可能」ロールに追加された受信者は、共有されたプロジェクトを保存できます。 これは、管理者と非管理者の両方に適用されます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| Workspaceの空白パネルの更新 | 2020 年 6 月 19 日 | Workspaceの空のパネルにパネルとビジュアライゼーションが追加され、最適な分析ワークフローをよりシームレスに選択できるようになりました。 |
-| 中国のRDCで使用可能なファーストパーティドメイン | 2020 年 6 月 19 日 | ドメインを持つお客様が、中国本土内での使用をファーストパーティドメインにリクエストできるようにします。 `.cn` （「中国パフォーマンス最適化」 SKUの購入時に入手可能なドキュメント） |
-| Workspaceのクイックインサイトパネル | 2020年6月25日 | クイックインサイトでは、分析ワークスペースのアナリストでないユーザーおよび新規ユーザーに対して、ビジネスの質問にすばやく簡単に答える方法に関するガイダンスを提供します。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
-| Workspaceのターゲット用のAnalyticsパネル | 2020年6月25日 | Analytics forターゲット(A4T)パネルを使用すると、Adobe WorkspaceでのAdobeターゲットのアクティビティとエクスペリエンスを分析できます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
+<!--First-Party Domains Available in China RDC: June 18 - Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... 
+Anomaly det. support in CJA - June 18; Project Sharing Roles - June 18; Blank panel in WS now includes panels and vizs - June 18; -->
+
+| 機能 | [一般公開日](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) -ターゲット日 | 説明 |
+| -----------| ------------ | ---------- |
+| [!UICONTROL Workspaceのターゲット用Analytics][!UICONTROL パネル] | 2020年6月25日 | [!UICONTROL Analytics forターゲット] (A4T)パネルを使用すると、 [!UICONTROL 分析ワークスペースでAdobeターゲットのアクティビティとエクスペリエンスを分析できます。] [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
+| [!UICONTROL ワークス][!UICONTROL ペースのクイックインサイトパネル] | 2020年6月25日 | [!UICONTROL クイックインサイト] (Quick Insights [!UICONTROL )では、] 分析ワークスペースのアナリストでないユーザーおよび新しいユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。 [詳細情報](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
+| [!UICONTROL 一括データ挿入 API] | 2020 年 6 月 1 日 | Analytics データのバッチを容易かつ独立して取り込むことができます。サーバーサイドデータとオフラインデータに役立ちます。[詳細情報...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) |
+| Adobe Analytics support for [!UICONTROL Adobe Experience Platform Edge Network] | 2020 年 6 月 1 日 | 1 つのタグを使用して、Adobe Analytics、Adobe Target、Adobe Audience Manager、Adobe Experience Platform Data Lake、統合プロファイルおよび Experience Cloud ID サービスなど、複数のアドビソリューションにデータを送信できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/experience-platform/edge/solutions/analytics/analytics-overview.html) |
+| [!UICONTROL Adobe Analytics ダッシュボード] | 2020 年 5 月 22 日 | [!UICONTROL Adobe Analytics ダッシュボード]は、ユーザーがいつでもどこからでも Adobe Analytics にアクセスしてインサイトを得ることが可能なモバイルアプリです。このアプリは、主要指標への外部からのアクセスを求めるエグゼクティブを対象にしています。キュレーションされたインタラクティブなスコアカードにアクセスでき、iOS と Android の両方のオペレーティングシステムで使用できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/mobapp/home.html) |
+| [!UICONTROL Workspace]：空白の状態から[!UICONTROL フリーフォームテーブル]を自動的に作成 | 2020 年 5 月 22 日 | 以前は、空のプロジェクトや空のパネルにコンポーネントを直接ドロップすることはできず、最初に[!UICONTROL フリーフォームテーブル]を追加する必要がありました。現在は、空のプロジェクトまたはパネルにコンポーネントを直接ドロップできるようになりました。[!UICONTROL フリーフォームテーブル]は推奨される形式で自動的に作成されます。また、空のフリーフォームテーブルにドロップした場合の混合コンポーネントタイプ（ディメンションや指標など）の処理方法も強化されました。 |
+| [!UICONTROL Adobe Analytics パッケージ]に機能[!UICONTROL アクセスレベル]ページが追加されました。 | 2020 年 5 月 22 日 | 会社に使用権原が付与されている [!UICONTROL Adobe Analytics パッケージ]（SKU）を、**[!UICONTROL 管理者]**／**[!UICONTROL 会社設定]**／**[!UICONTROL アクセスレベル機能]**&#x200B;で表示できるようになりました。 |
+| アクセシビリティの強化 | 2020 年 5 月 22 日 | Adobe Analytics チームでは、キーボードナビゲーション、カラーコントラスト、スクリーンリーダーのサポートの強化など、Analysis Workspace に関していくつかのアクセシビリティの改善をおこないました。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
-| 機能 | [一般公開日](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html)-ターゲット日 | 説明 |
-| -----------| ---------- |-----|
-| 異常値検出のサポート | 2020 年 6 月 19 日 | 異常値検出は、以前のデータに関連して特定の指標がどのように変化したかを判定するための統計的手法です。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html) |
-| 共有Workspaceプロジェクトのプロジェクトロール | 2020 年 6 月 19 日 | Workspaceプロジェクトを共有する際、受信者を、使用するプロジェクトの経験に応じて、次の3つのプロジェクトの役割のいずれかに配置できるようになりました。 編集、重複、表示。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| 表示のみのWorkspaceプロジェクト | 2020 年 6 月 19 日 | Workspaceプロジェクトは、「表示可能」としてのみユーザーに共有できます。 表示受信者が共有プロジェクトを開くと、より制限の多いプロジェクト操作が得られ、左側のレールも操作の制限もありません。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
-| Workspaceプロジェクトの共同編集機能 | 2020 年 6 月 19 日 | 「編集可能」ロールに追加された受信者は、共有されたプロジェクトを保存できます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| 機能 | [一般公開日](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) -ターゲット日 | 説明 |
+| -----------| --------- | ---------- |
+| [!UICONTROL ワークス][!UICONTROL ペースのクイックインサイトパネル] | 2020年6月25日 | [!UICONTROL クイックインサイト] (Quick Insights [!UICONTROL )では、] 分析ワークスペースのアナリストでないユーザーおよび新しいユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。 [詳細情報](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
+| [!UICONTROL Customer Journey Analytics]：グローバルに利用可能 | 2020 年 5 月 22 日 | EMEA および APAC のお客様は、[!UICONTROL Customer Journey Analytics] を利用できるようになります。 |
+| [!UICONTROL Customer Journey Analytics]：[!UICONTROL Adobe Experience Platform サンドボックス]のサポート | 2020 年 5 月 22 日 | CJA 接続を構築するための特定の [!UICONTROL Adobe Experience Platform サンドボックス]を選択できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-connections/create-connection.html) |
+| [!UICONTROL Workspace]：空白の状態から[!UICONTROL フリーフォームテーブル]を自動的に作成 | 2020 年 5 月 22 日 | 以前は、空のプロジェクトや空のパネルにコンポーネントを直接ドロップすることはできず、最初に[!UICONTROL フリーフォームテーブル]を追加する必要がありました。現在は、空のプロジェクトまたはパネルにコンポーネントを直接ドロップできるようになりました。[!UICONTROL フリーフォームテーブル]は推奨される形式で自動的に作成されます。また、空のフリーフォームテーブルにドロップした場合の混合コンポーネントタイプ（ディメンションや指標など）の処理方法も強化されました。 |
+| アクセシビリティの強化 | 2020 年 5 月 22 日 | Adobe Analytics チームでは、キーボードナビゲーション、カラーコントラスト、スクリーンリーダーのサポートの強化など、Analysis Workspace に関していくつかのアクセシビリティの改善をおこないました。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html) |
 
-### [!UICONTROL Media Analytics] の新機能です。{#media-aa}
+#### [!UICONTROL Media Analytics] の新機能です。{#media-aa}
 
 更新日：**2020 年 5 月 30 日**
 
@@ -184,40 +185,63 @@ Updated **June, 2020**
 
 [プレイヤーステートトラッキングについて](https://docs.adobe.com/content/help/ja-JP/media-analytics/using/player-state-tracking/player-state-overview.html)を参照してください。
 
-### Adobe Analytics Fixes {#aa-fixes}
+#### Adobe Analytics の修正点 {#aa-fixes}
 
-* 特定のレポートスイートに対してマルチバイト検索を行うセグメントが何も一致しない問題を修正しました。 現在は、正しい文字列と一致します。 AN-220043
-* Reports &amp; Analyticsの項目フィルターが機能しない問題を修正しました。 AN-206132
-* スケジュールされたプロジェクトUIでの応答時間の遅さを修正。 AN-214837
-* AnalyticsレポートAPI 2.0で日付範囲エラーが発生する問題を修正しました。 AN-215087
-* 滞在時間指標の分母でインスタンス/訪問/訪問者がカウントされない問題を修正しました。 これは、ディメンションの値を持たないヒット（Pagenameなど）が同じ秒に続いた場合に発生します。 AN-211074
-* ユーザーが共有するWorkspaceプロジェクトにアクセスできない問題が修正されました。 AN-217561
-* 分類ルールビルダーでキーが分類されない問題を修正しました。 AN-221538
-* サーバーコールの使用状況で、使用状況データがレポートされない問題を修正しました。 AN-210452
-* 公開したAdobe AnalyticsセグメントでAAMにデータがない問題を修正しました。 AN-220208、AN-220659
-* レポートにデータが表示されるが、データフィードのログに「データウェアハウスデータがありません」と表示されていた問題を修正しました。 AN-220784、AN-220858
-* ドメインからアドホック分析を起動できない問題を修正し `experiencecloud.com` ました。 AN-219680、AN-221629
-* 「Ctrl（またはCommand）+ C」ホットキーの使用に関する問題を修正しました。 AN-221101、AN-221537
-* アクティビティマップの有効化ページの問題を修正しました。 AN-222029、AN-221242
-* フォールアウトビジュアライゼーションの中央にタッチポイントを追加できなかった問題を修正しました。 AN-221648
+* [!UICONTROL 滞在時間]指標が変更され、計算に「未指定」が含まれなくなりました。つまり、UI に「未指定」を含めると表示されているどうかに関係なく、[!UICONTROL 滞在時間]の計算で常に「未指定」を除外する特別な例外を設定します。したがって、[!UICONTROL 滞在時間]指標を含むレポートを「未指定」に設定した場合でも、「未指定」の行項目の滞在時間には常に「0」が返されます。これにより、Reports &amp; Analytics およびレポート API v1.4 での履歴レポートが変更される場合があります。（AN-197958）
+* インスタンス／訪問／訪問者が[!UICONTROL 滞在時間]指標の分母としてカウントされない問題を修正しました。この問題は、同じ時間（秒）にディメンションの値を持たないヒット（[!UICONTROL Pagename]など）が続いた場合に発生していました。（AN-211074）
+* Audience Manager で [!DNL Analytics] のセグメントデータが欠落する問題を修正しました。（AN-206221）
+* [!UICONTROL データソース]の処理で日付が正しく表示されない問題を修正しました。（AN-213604）
+* 分類ファイルが FTP に正しくアップロードされない問題を修正しました。（AN-214102）
+* API メソッド `Segments.Get` で完全な応答が返されなかった問題を修正しました。（AN-206210）
+* [!DNL Workspace] PDF をダウンロードする際、テーブルの行項目が特殊文字に変換される問題を修正しました。（AN-196153）
+* Adobe Analytics API 1.4 の呼び出し `visattrcustomeridcustomerattributes` が正常に機能しない問題を修正しました。（AN-186873）
+* レポートにデータが表示されるけれど、[!UICONTROL データフィード]に表示されない問題を修正しました。（AN-211923）
+* [!UICONTROL 製品プロファイル]をコピーできない問題を修正しました。（AN-211113）
+* Federated ID を持つユーザーが [!UICONTROL Report Builder] にログインできない問題を修正しました。（AN-207750）
+* [!UICONTROL AdWords] データが [!UICONTROL Advertising Analytics] に表示されない問題を修正しました。（AN-213249）
+* 分類データがトレンドビューに表示されない問題を修正しました。（AN-212761）
+* [!UICONTROL セグメントマネージャー]で、パブリッシュされたセグメントの数が間違った数になる問題を修正しました。（AN-213374）
+* [!UICONTROL 計算指標エディター]の「**[!UICONTROL 上昇傾向を次の形式で表示]**」オプションで、フィルターを適用すると機能しなかった問題を修正しました。（AN-214223）
+* [!UICONTROL 分類]の読み込みおよび書き出しでの複数の問題を修正しました。（AN-213488、AN-215309、AN-216345、AN-215307、AN-216671）
+* [!UICONTROL 分類ルールビルダー]の複数の問題を修正しました。（AN-213826、AN-213550、AN-213095）
+* [!UICONTROL データソース]処理の問題を修正しました。（AN-218083、AN-213604、AN-214102、AN-215485、AN-215339、AN-212911、AN-217551、AN-217947、AN-219018、AN-214691、AN-218401）
+* FTP 接続の問題を修正しました。（AN-115525）
+* 複数の [!DNL Analytics] [!UICONTROL データフィード]の問題を修正しました。（AN-176769、AN-160480、AN-211923、AN-204286、AN-212977、AN-214528、AN-215080、AN-217784、AN-219093、AN-218817、AN-217798、AN-218267、AN-218382）
+* [!UICONTROL Data Warehouse] リクエストの問題を修正しました。（AN-181836）
+* PDF ダウンロードした [!UICONTROL Workspace] プロジェクトで、値が特殊文字に変換されていた問題を修正しました。（AN-196153）
+* [!UICONTROL Admin Console] で[!UICONTROL 製品プロファイル]権限をコピーできない問題を修 正しました。（AN-211113）
+* 計算指標の時刻の形式が壊れて負の値になっていた問題を修正しました。（AN-210900）
+* ユーザーが静的な行指標の[!UICONTROL アトリビューションモデル]を変更できなかった問題を修正しました。（AN-207872）
+* [!UICONTROL 予定レポート]ビルダーが原因で、待機中ステータスのままになっていた問題を修正しました。（AN-215317）
+* [!UICONTROL ExactTarget データコネクタ]を修正しました。（AN-210794）
+* [!UICONTROL Bulk Ingestion API] の遅延の問題を修正しました。（AN-210165）
+* ユーザーが Federated ID を使用して [!UICONTROL Report Builder] にログインできなかった問題を修正しました。（AN-207750）
+* [!UICONTROL Advertising Analytics] で [!DNL Google AdWords] データが表示されなかった問題を修正しました。（AN-213249）
+* [!UICONTROL Workspace] の[!UICONTROL プロジェクトが表示されました]イベントがログに表示されなかった問題を修正しました。（AN-214134）
+* [!UICONTROL Workspace] で日付範囲を変更して「**[!UICONTROL すべてのパネルに適用]**」を選択した場合に発生していた問題を修正しました。一部のパネルで日付が変更されませんでした。（AN-214944）
+* アラートを作成または編集できなかった問題を修正しました。（AN-215920）
+* 週の最初を月曜日から日曜日に散発的に切り替えることが原因で、[!UICONTROL Workspace] のすべての動的な日付範囲が間違った日付を表示していた問題を修正しました。（AN-218835）
 
 #### その他の Adobe Analytics の修正点
 
-AN-218269; AN-218455; AN-218492; AN-219888; AN-220447; AN-220546; AN-220788; AN-220866; AN-221165; AN-221545; AN-221712; AN-221832; AN-221853; AN-222000; AN-222505; AN-222559
+AN-101871、AN-115525、AN-123869、AN-152580、AN-160480、AN-178128、AN-186907、AN-199299、AN-201342、AN-201397、AN-204286、AN-204518、AN-206045、AN-206948、AN-208607、AN-209486、AN-210743、AN-211550、AN-211539、AN-211826、AN-211943、AN-212130、AN-212151、AN-212653、AN-212673、AN-212709、AN-212833、AN-212961、AN-212977、AN-213095、AN-213422、AN-213450、AN-213490、AN-213752、AN-213827、AN-214094、AN-214153、AN-214214、AN-214234、AN-214253、 AN-214255、AN-214343、AN-214355、AN-214401、AN-214427、AN-214528、AN-214642、AN-214691、AN-214772、AN-214793、AN-214924、AN-215017、AN-215080、AN-215212、AN-215312、AN-215377、AN-215402、AN-215545、AN-215905、AN-215963、AN-216447、AN-216676、AN-216880、AN-216999、AN-217245、AN-218450、AN-218899、AN-219487、AN-219677
 
 ### [!DNL Analytics] 管理者向けの重要な注意事項 {#aa-notices}
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to allowlist `omniture.com` as a third-party cookie. アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。すると、このホワイトリストの手順は不要になります。[次に](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html) 、許可する必要がある推奨IPアドレスとドメインの完全なリストを示します。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
-組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。|新しいAdobe Analyticsのデフォルトランディングページ|有効日： 2020年6月18日|2020年6月18日に、Adobe AnalyticsのデフォルトのランディングページがReportsからWorkspaceに変更されます。 この変更は、過去にカスタムランディングページを設定していないユーザーに対して適用されます。|
-|サードパーティ製テクノロジーの許可リスト|2020年3月12日（発効日）|Adobe Analyticsは、サードパーティ製テクノロジーを利用して、機能の展開管理と製品内サポートを開始しました。 機能に完全にアクセスできるように、必要なネットワークファイアウォールの許可リストに次のURLを追加する必要があります。<ul><li>Gainsight：https://esp.aptrinsic.com</li><li>LaunchDarkly：https://app.launchdarkly.com</li></ul>|
-|分析ワークスペースの可用性に対する冗長性の向上|2020年5月21日|分析ワークスペースの可用性を確保するため、冗長性を高めるためにセカンダリCDN(コンテンツ配信ネットワーク)を追加します。 必要なネットワークファイアウォールのホワイトリストに、次の URL を追加する必要があります。<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul>|
-| [!UICONTROL Workspaceでの入口数/出口数の計算方法の変更] |2020年4月7日 [!UICONTROL |]分析ワークスペースでは、2020年3月現在 __、入口数/出口数を入口数/出口数と相互に作用させる方法を変更しました。 [!UICONTROL Analysis Workspace] で「_なし_」をオン／オフにできるようになったので、入口または出口の後に「_なし_」を適用します。（eVar の場合）以前は、これらの前に適用されていました。例えば、訪問の最初のヒットに eVar の値がないが、2 回目のヒットに eVar の値があるとします。[!UICONTROL Reports &amp; Analytics] では、最初のヒットがそのエントリに対して「_未指定_」と表示されますが、[!UICONTROL Analysis Workspace] では 2 回目のヒットの値が表示されます。|
-|EOL of **[!UICONTROL Dashboard Archive]**|March 27, 2020|The **[!UICONTROL View Archive]** setting under **[!UICONTROL Manage Dashboards]** in [!UICONTROL Reports &amp; Analytics] will no longer be available as of October, 2020.|
-|提供終了 — AnalyticsレガシーAPI|2020年1月9日|2020年11月9日|以下のAnalyticsレガシーAPIサービスは提供終了に達し、停止されます。 これらのサービスを使用して構築された現在の統合は機能しなくなります。 <ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>ご質問に対する回答と進め方に関するガイダンスを提供するために、[従来の API EOL の FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe IO](https://console.adobe.io/home?mv=email) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API の両方にアクセスするために使用できます。|
-|サンノゼFTPブローカー（ロンドンおよびシンガポールで終了）|2020年7月|ロンドンおよびシンガポールのお客様は、ロンドンまたはシンガポールとサンノゼのデータセンター [ftp.omniture.comとの間のデータのブローカリングをサポートしなくなります](ftp://ftp.omniture.com/)。<br/><ul><li>ロンドンのお客様：[ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>シンガポールのお客様：[ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul>|
-|Ad Hoc分析のEOL|2018年8月6日|アドビがアドホック分析の提供終了の意向を発表 サポート終了日については確定次第お知らせします。詳しくは、[Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) を参照してください。|
+| 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。Adobe Analytics はアーキテクチャからすべての `omniture.com` ドメイン参照を削除しますが、サードパーティ Cookie としてホワイトリスト `omniture.com` を作成することが重要です。アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。すると、このホワイトリストの手順は不要になります。ホワイトリストに登録する必要のある推奨 IP アドレスとドメインの完全なリストは、[こちら](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html)をご覧ください。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
+| 新しい Adobe Analytics のデフォルトランディングページ | 発効日：2020 年 6 月 19 日 | 2020 年 6 月 19 日に、Adobe Analytics のデフォルトのランディングページが[!UICONTROL レポート]から [!UICONTROL Workspace] に変更されます。この変更は、過去にカスタムランディングページを設定していないユーザーに対して適用されます。 |
+| サードパーティのテクノロジーホワイトリスト | （発効日： 2020 年 3 月 13 日 | Adobe Analytics は、サードパーティのテクノロジーを活用して、機能のロールアウト管理と製品内サポートを開始しました。すべての機能にアクセスできるよう、必要なネットワークファイアウォールのホワイトリストに、次の URL を追加する必要があります。<ul><li>Gainsight：https://esp.aptrinsic.com</li><li>LaunchDarkly：https://app.launchdarkly.com</li></ul> |
+| Analysis Workspace の可用性に対する冗長性の向上 | 2020 年 5 月 22 日 | Analysis Workspace の可用性を確保するために、セカンダリ CDN（コンテンツ配信ネットワーク）を追加し、冗長性を高めます。必要なネットワークファイアウォールのホワイトリストに、次の URL を追加する必要があります。<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
+| [!UICONTROL Workspace] での[!UICONTROL 入口／出口]の計算方法の変更 | 2020 年 4 月 8 日 | 2020 年 3 月の時点で、[!UICONTROL Analysis Workspace] における「_なし_」の値と[!UICONTROL 入口／出口]との相互作用を変更しました。[!UICONTROL Analysis Workspace] で「_なし_」をオン／オフにできるようになったので、入口または出口の後に「_なし_」を適用します。（eVar の場合）以前は、これらの前に適用されていました。例えば、訪問の最初のヒットに eVar の値がないが、2 回目のヒットに eVar の値があるとします。[!UICONTROL Reports &amp; Analytics] では、最初のヒットがそのエントリに対して「_未指定_」と表示されますが、[!UICONTROL Analysis Workspace] では 2 回目のヒットの値が表示されます。 |
+| **[!UICONTROL コンバージョンレベル]**&#x200B;設定のサポート終了 | 2020 年 3 月 4 日 | **[!UICONTROL 管理ツール]**／**[!UICONTROL レポートスイート]**／**[!UICONTROL 一般的なアカウント設定]**&#x200B;で、機能しない[コンバージョンレベル](https://docs.adobe.com/content/help/ja-JP/analytics/admin/admin-tools/general-acct-settings-admin.html)設定は、2020 年 3 月 13 日にユーザーインターフェイスから削除されます。 |
+| **[!UICONTROL ダッシュボードアーカイブ]**&#x200B;のサービス終了 | 2020 年 3 月 28 日 | [!UICONTROL Reports &amp; Analytics] の「**[!UICONTROL ダッシュボードを管理]**」の「**[!UICONTROL アーカイブを表示]**」設定は、2020 年 10 月から使用できなくなります。 |
+| TLS 1.1 のサポート終了 | 2019 年 10 月 4 日 | 2020 年 3 月 31 日までに、Adobe Analytics は TLS 1.1 のサポートを削除します。この変更は、最高のセキュリティ標準を維持し、顧客データの安全性を高めるアドビの継続的な取り組みの一環としておこなわれます。 |
+| 新しい Adobe Analytics ドメイン | 2019 年 12 月 19 日 | 2020 年 1 月 17 日に、Adobe Analytics は新しいドメインへの移行を開始しました。`https://experience.adobe.com/analytics.`<br>**メモ&#x200B;**：この変更は、Adobe ID または Enterprise ID を使用して Analytics にアクセスするすべてのユーザーに適用されます。<ul><li>ドメインの変更により、Safari で Analytics を読み込む際に cookie の問題が発生する可能性があります。[!DNL Safari] のプライバシー設定で「_サイト越えトラッキングを防ぐ_」をオフにすると、ドメイン（およびすべてのクロスサイトエクスペリエンス）間で cookie が有効になり、Analytics がこの新しい Adobe Experience Cloud ドメインで機能するようになります。この問題が影響するのは [!DNL Safari] ユーザーのみなので、ユーザーは問題なく他のブラウザーを使用できます。</li><li>ドメインの変更により、[ある特定のケースにおいて](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/activity-map/activity-map.html)、一部の顧客に対して [!UICONTROL Activity Map] が機能しなくなる場合があります。</li></ul> |
+| 提供終了 - Analytics レガシー API | 2020 年 1 月 10 日 | 2020 年 11 月に、以下の Analytics レガシー API サービスが提供終了となり、シャットダウンされます。これらのサービスを使用して構築された現在の統合は機能しなくなります。 <ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>ご質問に対する回答と進め方に関するガイダンスを提供するために、[従来の API EOL の FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe IO](https://console.adobe.io/home?mv=email) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API の両方にアクセスするために使用できます。 |
+| サンノゼ FTP 連携機能の終了 | 2020 年 7 月 | ロンドンおよびシンガポールデータセンターをご利用のお客様に対し、サンノゼデータセンター [ftp.omniture.com](ftp://ftp.omniture.com/) からロンドンまたはシンガポールへの、データ連携機能の提供を終了します。ftp.omniture.com をご利用中のお客様は、今後、次の FTP を使用してください。<br/><ul><li>ロンドンのお客様：[ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>シンガポールのお客様：[ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul> |
+| Ad Hoc Analysis のサポート終了 | 2018 年 8 月 7 日 | アドビは Ad Hoc Analysis のサポート終了の意向を表明しました。サポート終了日については確定次第お知らせします。詳しくは、[Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) を参照してください。 |
 
 ### [!DNL AppMeasurement] {#appm}
 
