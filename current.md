@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e239cc0afb9ebde272f37fa0181b1454412ac2ae
+source-git-commit: dd357da4e362c01ab350891b1082020c90eb77fe
 workflow-type: tm+mt
-source-wordcount: '6520'
+source-wordcount: '6522'
 ht-degree: 36%
 
 ---
@@ -406,7 +406,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 | [AEM Webコンソールのコンポーネント](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/osgi-web-consoles.html#components) | ビデオチュートリアル | コンポーネントWebコンソールを使用したクラウドサービスSDKのローカルクイックスタートとしてのAEMのデバッグについて説明します。 |
 | [ログを使用したAEM SDKのローカルクイックスタートのデバッグ](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html) | ビデオチュートリアル | Bundles Webコンソールを使用したクラウドサービスSDKのローカルクイックスタートとしてのAEMのデバッグについて説明します。 |
 | [クラウドサービスSDKのローカルクイックスタートとしてのAEMのリモートデバッグ](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/remote-debugging.html) | ビデオチュートリアル | IDEからのリモートJavaデバッグについて学習します。AEMでのライブコードの実行手順を実行し、正確な実行フローを理解できます。 |
-| [スマートタグの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/smart-tags-technical-video-setup.html) | Adobe I/Oを使用してAdobe Experience Manager(AEM)をSmart Content Serviceに統合する手順を説明します。 |
+| [スマートタグの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/smart-tags-technical-video-setup.html) | ビデオチュートリアル | Adobe I/Oを使用してAdobe Experience Manager(AEM)をSmart Content Serviceに統合する手順を説明します。 |
 | [ドキュメントのバッチ生成](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/interactive-communications/batch-generation-interactive-communications.html) | 記事 | Batch APIを使用して、テンプレートから複数のインタラクティブな通信を作成する方法について説明します。 |
 | [AEM Formsでの印刷チャネルドキュメントの作成](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/ic-print-channel-tutorial/introduction.html) | 記事 | 印刷チャネル用のインタラクティブな通信を作成するために必要な手順を説明します。 |
 | [Adobe Assetリンクにアクセス](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html) | ビデオチュートリアル | Creative Cloudデスクトップアプリケーションを使い慣れていない状態で、Adobe Experience Manager Assets(AEM Assets)に保存されたコンテンツにアクセスする方法を説明します。 |
