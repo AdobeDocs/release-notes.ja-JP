@@ -4,7 +4,7 @@ product: Experience Cloud
 user-guide-title: Adobe Experience Cloud リリースノート
 user-guide-url: https://www.adobe.com
 translation-type: tm+mt
-source-git-commit: c794742334033a11c712fd6cabfcc1b382fbefce
+source-git-commit: bb83a8031e9f82a957fc95057f92d36c92502e3e
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 96%
@@ -14,7 +14,7 @@ ht-degree: 96%
 
 # Experience Cloud リリースノート {#experience-cloud}
 
-+ Adobe Experience Cloud リリースノート
++ Adobe Experience Cloud リリースノート{#exl-rns}
    + [最新のリリースノート](current.md)
 + 以前のリリースノート {#previous}
    + 2020 {#2020}
