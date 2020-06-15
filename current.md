@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: dd357da4e362c01ab350891b1082020c90eb77fe
 workflow-type: tm+mt
 source-wordcount: '6522'
-ht-degree: 36%
+ht-degree: 38%
 
 ---
 
@@ -69,7 +69,7 @@ Latest update: **June 12, 2020**
 
 ## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud インターフェイス {#ecloud}
 
-Experience Cloudインターフェイスの一般的なアップデートです。
+Experience Cloudインターフェイスの一般的な更新。
 
 **統合製品ドメイン**
 
@@ -98,7 +98,7 @@ Experience Cloudインターフェイスの一般的なアップデートです�
 | Customer Journey Analytics | `experience.adobe.com/platform/analytics` |
 | Adobe Campaign コントロールパネル | `experience.adobe.com/controlpanel` |
 | Cloud Manager | `experience.adobe.com/cloud-manager` |
-| Places サービス | `experience.adobe.com/places` |
+| Places Service | `experience.adobe.com/places` |
 | ソフトウェア配布 | `experience.adobe.com/downloads` |
 | 管理ツール（ベータ版） | `experience.adobe.com/admin` |
 
@@ -118,21 +118,21 @@ Release notes for the [!DNL Experience Platform] and application services, inclu
 * **セグメント：** 日付関数の「記念日」フィールドが追加され、年を含まない日付を評価できるようになりました。
 * **資料：** および用の新しいソースコネクタ [!DNL Apache HDFS] で [!DNL Couchbase]す。
 
-これらの機能について詳しくは、「 [エクスペリエンスプラットフォームリリースノート](https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md)」を参照してください。
+これらの機能について詳しくは、「 [Experience Platformリリースノート](https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md)」を参照してください。
 
 ### その他の Experience Platform のリリース情報
 
-* [Experience Platform Launchリリースノート](https://docs.adobe.com/content/help/ja-JP/launch/using/intro/release-notes/current.html)
+* [Experience Platform Launchのリリースノート](https://docs.adobe.com/content/help/ja-JP/launch/using/intro/release-notes/current.html)
 * [セキュリティ速報および情報](https://helpx.adobe.com/jp/security.html)（すべてのアドビ製品）
 
-### 新しいエクスペリエンスプラットフォームのコースとチュートリアル {#tutorials-plat}
+### 新しいExperience Platformコースとチュートリアル {#tutorials-plat}
 
 | コンテンツ | コンテンツタイプ | 説明 |
 | -----------| ---------- | ---------- |
-| [Adobe Experience Platformの概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1) | コース | Adobe Experience Platformが、データを各チャネルでアクティブ化できる堅牢なリアルタイムの顧客プロファイルとAI主導のインサイトに変換し、適切なエクスペリエンスを提供する方法を説明します。 この入門レベルのコースでは、Experience Platformの機能、使用例、Adobe Experience Cloudとの関係、基本的なアーキテクチャ、インターフェイス、プロジェクトの役割の概要を説明します。 |
-| [Web SDKとEdgeネットワークの概要](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/web-sdk/introduction-to-web-sdk-and-edge-network.html) | ビデオチュートリアル | Adobe Experience Platform SDKとEdge Networkの概要を示します。 Experience Platform Web SDKは、1つのJavaScriptライブラリ、1つのビーコンタイプ、1つのデータストリーム、1つのサーバー側の宛先を使用して、すべてのアドビアプリケーションとサードパーティの宛先にデータを送信できるクライアント側のJavaScriptライブラリです。 |
-| [Web SDKとEdgeネットワークのデモ](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/web-sdk/demo-of-web-sdk-and-edge-network.html) | ビデオチュートリアル | Adobe Experience Platform、Analytics、Audience Managerおよびターゲットにデータを送信するアドビへの1回の呼び出しで、Adobe Experience Platform Web SDKおよびEdge Networkの動作を視聴します。 |
-| [リアルタイム顧客データプラットフォームのデモ](https://docs.adobe.com/content/help/en/platform-learn/tutorials/rtcdp/demo.html) | ビデオチュートリアル | リアルタイムCDPを使用して複数のソースからデータを収集する方法を説明します。 このデータを1つのリアルタイム顧客プロファイルに統合し、そのデータをアクティブ化して、パーソナライズされた顧客エクスペリエンスを作成できます。 |
+| [Adobe Experience Platformの概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1) | コース | データを各チャネルでアクティブ化できる堅牢なリアルタイムの顧客プロファイルとAIに基づくインサイトに変換することで、Adobe Experience Platformが適切なエクスペリエンスを提供する方法を説明します。 この入門レベルのコースでは、Experience Platformの機能、使用例、Adobe Experience Cloudとの関係、基本的なアーキテクチャ、インターフェイス、プロジェクトの役割について概要を説明します。 |
+| [Web SDKとEdgeネットワークの概要](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/web-sdk/introduction-to-web-sdk-and-edge-network.html) | ビデオチュートリアル | Adobe Experience PlatformSDKとEdge Networkの概要を示します。 Experience PlatformWeb SDKは、1つのJavaScriptライブラリ、1つのビーコンタイプ、1つのデータストリーム、1つのサーバー側宛先を使用して、すべてのアドビアプリケーションとサードパーティの宛先にデータを送信できるクライアント側のJavaScriptライブラリです。 |
+| [Web SDKとEdgeネットワークのデモ](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/web-sdk/demo-of-web-sdk-and-edge-network.html) | ビデオチュートリアル | Adobe Experience Platform、Analytics、Audience ManagerおよびTargetにデータを送信するアドビへの1回の呼び出しで、Experience PlatformのWeb SDKおよびEdgeネットワークの動作を視聴します。 |
+| [リアルタイム顧客データPlatformのデモ](https://docs.adobe.com/content/help/en/platform-learn/tutorials/rtcdp/demo.html) | ビデオチュートリアル | リアルタイムCDPを使用して複数のソースからデータを収集する方法を説明します。 このデータを1つのリアルタイム顧客プロファイルに統合し、そのデータをアクティブ化して、パーソナライズされた顧客エクスペリエンスを作成できます。 |
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
@@ -160,36 +160,36 @@ Updated **June 10, 2020**
 * [Adobe Analytics の新機能](#aa-features)
 * [Customer Journey Analytics の新機能](#cust-journey)
 * [Media Analytics](#media-aa) の新機能です。
-* [Adobe Analyticsの修正点](#aa-fixes)
+* [アドビAnalyticsの修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
-* [新しいAdobe Analyticsコースとチュートリアル](#tutorials-analytics)
+* [新しいアドビAnalyticsコースとチュートリアル](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
 ### Adobe Analytics の新機能 {#aa-features}
 
-| 機能 | [一般公開日](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html)-ターゲット日 | 説明 |
+| 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- |-------|
-| アトリビューションIQ: [!UICONTROL アルゴリズムアトリビューション] | 2020 年 6 月 19 日 | [!UICONTROL Analysis Workspaceの] アルゴリズムアトリビューション  モデルでは、統計的手法を使用して、選択した指標に対する最適なクレジットの配分を動的に決定します。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
+| アトリビューションIQ: [!UICONTROL アルゴリズムアトリビューション] | 2020 年 6 月 19 日 | [!UICONTROL Analysis Workspaceの] アルゴリズムアトリビューション  モデルでは、統計的手法を使用して、選択した指標に対するクレジットの最適な配分を動的に決定します。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
 | アトリビューションIQ: カスタムのルックバックウィンドウ | 2020 年 6 月 19 日 | アトリビューションIQ  の任意のアトリビューションモデルを設定して、レポート期間の最大90日前のタッチポイントを含めることができるようになりました。 これは、通常、前月に発生したインタラクションを考慮することで、レポートの初期に発生するイベントのアトリビューション精度を高めます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
 | 共有 [!UICONTROL Workspace] プロジェクトのプロジェクトロール | 2020 年 6 月 19 日 | [!UICONTROL Workspace] プロジェクトを共有する際に、受信者を、使用するプロジェクトの経験に応じて、次の3つのプロジェクトの役割のいずれかに配置できるようになりました。 編集、重複、表示。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | 表示のみの [!UICONTROL Workspace] プロジェクト | 2020 年 6 月 19 日 | [!UICONTROL Workspace] プロジェクトは、 _[!UICONTROL Can表示のみとしてユーザーに共有できます]_。 表示受信者が共有プロジェクトを開くと、左側のパネルがなく、操作が制限される、より厳しいプロジェクト操作を受け取ります。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
 | Workspace [!UICONTROL プロジェクトの共同編集] | 2020 年 6 月 19 日 | 「編集 _[!UICONTROL 可能]_」ロールに追加された受信者は、共有されているプロジェクトに保存できます。 これは、管理者と非管理者の両方に適用されます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | ワー [!UICONTROL クスペースの空白パネルの更新] | 2020 年 6 月 19 日 | [!UICONTROL Workspaceの空白パネルにパネルとビジュアライゼーションが追加され] 、最適な分析ワークフローをよりシームレスに選択できるようになりました。 |
 | 中国のRDCで使用可能なファーストパーティドメイン | 2020 年 6 月 19 日 | ドメインを持つお客様が、中国本土内での使用をファーストパーティドメインにリクエストできるようにします。 `.cn` （中国のパフォーマンス最適化SKUの購入に関するドキュメント） |
-| ワー [!UICONTROL クスペースのクイックインサイトパネル] | 2020年6月25日 | クイックインサイトでは、 [!UICONTROL Analysis Workspaceのアナリストでないユーザーおよび新しいユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します] 。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
-| [!UICONTROL Workspaceのターゲット用Analytics][!UICONTROL パネル] | 2020年6月25日 | [!UICONTROL Analytics forターゲット] (A4T)パネルを使用すると、 [!UICONTROL Analysis Workspace]でAdobe Targetのアクティビティとエクスペリエンスを分析できます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
+| [!UICONTROL ワークスペース]のクイックインサイトパネル | 2020 年 6 月 26 日 | クイックインサイトは、[!UICONTROL Analysis Workspace] のアナリスト以外のユーザーと新規ユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
+| [!UICONTROL ワークスペース] の [!UICONTROL Analytics for Target] パネル | 2020 年 6 月 26 日 | The [!UICONTROL Analytics for Target] (A4T) panel lets you analyze your Adobe Target activities and experiences in [!UICONTROL Analysis Workspace]. [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
-| 機能 | [一般公開日](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html)-ターゲット日 | 説明 |
+| 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- |-----|
-| アトリビューションIQ: [!UICONTROL アルゴリズムアトリビューション] | 2020 年 6 月 19 日 | [!UICONTROL Analysis Workspaceの] アルゴリズムアトリビューション  モデルでは、統計的手法を使用して、選択した指標に対する最適なクレジットの配分を動的に決定します。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
+| アトリビューションIQ: [!UICONTROL アルゴリズムアトリビューション] | 2020 年 6 月 19 日 | [!UICONTROL Analysis Workspaceの] アルゴリズムアトリビューション  モデルでは、統計的手法を使用して、選択した指標に対するクレジットの最適な配分を動的に決定します。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
 | アトリビューションIQ: カスタムのルックバックウィンドウ | 2020 年 6 月 19 日 | アトリビューションIQ  の任意のアトリビューションモデルを設定して、レポート期間の最大90日前のタッチポイントを含めることができるようになりました。 これは、通常、前月に発生したインタラクションを考慮することで、レポートの初期に発生するイベントのアトリビューション精度を高めます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
 | [!UICONTROL 異常値検出のサポート] | 2020 年 6 月 19 日 | [!UICONTROL 異常値検出は、以前のデータに関連して特定の指標がどのように変化したかを判定するための統計的手法です。][詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html) |
 | 共有 [!UICONTROL Workspace] プロジェクトのプロジェクトロール | 2020 年 6 月 19 日 | [!UICONTROL Workspace] プロジェクトを共有する際に、受信者を、使用するプロジェクトの経験に応じて、次の3つのプロジェクトの役割のいずれかに配置できるようになりました。 編集、重複、表示。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
 | 表示のみの [!UICONTROL Workspace] プロジェクト | 2020 年 6 月 19 日 | [!UICONTROL Workspace] プロジェクトは、 _[!UICONTROL Can表示のみとしてユーザーに共有できます]_。 表示受信者が共有プロジェクトを開くと、左側のパネルがなく、操作が制限される、より厳しいプロジェクト操作を受け取ります。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
 | Workspace [!UICONTROL プロジェクトの共同編集] | 2020 年 6 月 19 日 | 「編集 _[!UICONTROL 可能]_」ロールに追加された受信者は、共有されているプロジェクトに保存できます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| ワー [!UICONTROL クスペースのクイックインサイトパネル] | 2020年6月25日 | クイックインサイトでは、 [!UICONTROL Analysis Workspaceのアナリストでないユーザーおよび新しいユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します] 。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
+| [!UICONTROL ワークスペース]のクイックインサイトパネル | 2020 年 6 月 26 日 | クイックインサイトは、[!UICONTROL Analysis Workspace] のアナリスト以外のユーザーと新規ユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
 
 ### [!UICONTROL Media Analytics] の新機能です。{#media-aa}
 
@@ -205,21 +205,21 @@ Updated **June 10, 2020**
 
 [プレイヤーステートトラッキングについて](https://docs.adobe.com/content/help/ja-JP/media-analytics/using/player-state-tracking/player-state-overview.html)を参照してください。
 
-### Adobe Analyticsの修正点 {#aa-fixes}
+### アドビAnalyticsの修正点 {#aa-fixes}
 
 * 特定のレポートスイートに対してマルチバイト検索を行うセグメントが何も一致しない問題を修正しました。 現在は、正しい文字列と一致します。 （AN-220043）
-* [!UICONTROL Reports &amp; Analyticsの] 項目フィルター  が機能しない問題を修正しました。 （AN-206132）
+* 「 [!UICONTROL レポートとAnalytics] 」の「 [!UICONTROL 項目フィルタ] 」が機能しない問題を修正しました。 （AN-206132）
 * スケジュールされたプロジェクト [!UICONTROL インターフェイスの応答時間の遅さを修正] 。 （AN-214837）
 * AnalyticsレポートAPI 2.0で日付範囲エラーが発生する問題を修正しました。 （AN-215087）
 * Fixed a case in which the instance/visit/visitor wasn&#39;t being counted in the denominator for the [!UICONTROL Time Spent] metrics. これは、ディメンションの値を持たないヒット（Pagenameなど）が同じ秒に続いた場合に発生します。 （AN-211074）
 * ユーザーが共有している [!UICONTROL Workspace] プロジェクトにアクセスできない問題を修正しました。 （AN-217561）
 * キーが [!UICONTROL 分類ルールビルダーで分類されない問題を修正しました]。 （AN-221538）
 * 「 [!UICONTROL サーバーコールの使用状況] 」で使用状況データがレポートされない問題を修正しました。 （AN-210452）
-* 公開したAdobe AnalyticsセグメントでAudience Managerにデータがない問題を修正しました。 （AN-220208、AN-220659）
-* レポートにデータが表示されるが、 [!UICONTROL データフィード] （Data Warehouseデータがない）がログに記録される問題を修正しました。 （AN-220784、AN-220858）
-* ドメインから [!UICONTROL Ad Hoc Analysis]`experiencecloud.com` を起動できない問題を修正しました。 （AN-219680、AN-221629）
+* 公開したAdobe ServerセグメントでAudience Managerにデータがない問題を修正しました。 （AN-220208、AN-220659）
+* レポートにデータが表示されるが、 [!UICONTROL データフィード] (ログには「Data warehouseデータがありません」と表示されていた問題を修正しました。 （AN-220784、AN-220858）
+* ド [!UICONTROL メインからの起動を妨げていた]`experiencecloud.com` Ad hoc analysis問題を修正しました。 （AN-219680、AN-221629）
 * 「Ctrl（またはCommand）+ C」ホットキーの使用に関する問題を修正しました。 （AN-221101、AN-221537）
-* Activity Map [!UICONTROL 有効化ページの問題を修正しました] 。 （AN-222029、AN-221242）
+* [!UICONTROL Activity Map] 有効化ページの問題を修正しました。 （AN-222029、AN-221242）
 * フォールアウトビジュアライゼーションの途中にタッチポイントを追加できなかった問題を修正し [!UICONTROL ました] 。 （AN-221648）
 
 #### その他の Adobe Analytics の修正点
@@ -230,11 +230,11 @@ AN-218269; AN-218455; AN-218492; AN-219888; AN-220447; AN-220546; AN-220788; AN-
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to allowlist (formerly, allowlist) `omniture.com` as a third-party cookie. アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。この許可リスト手順は不要になります。 [次に](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html) 、許可する必要がある推奨IPアドレスとドメインの完全なリストを示します。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
-| 新しい Adobe Analytics のデフォルトランディングページ | 発効日：2020 年 6 月 19 日 | 2020 年 6 月 19 日に、Adobe Analytics のデフォルトのランディングページが[!UICONTROL レポート]から [!UICONTROL Workspace] に変更されます。この変更は、過去にカスタムランディングページを設定していないユーザーに対して適用されます。 |
-| サードパーティのテクノロジー許可リスト | 2020 年 3 月 13 日（発効日） | Adobe Analytics は、サードパーティのテクノロジーを活用して、機能のロールアウト管理と製品内サポートを開始しました。機能に完全にアクセスできるように、必要なネットワークファイアウォールの許可リストに次のURLを追加する必要があります。<ul><li>Gainsight：https://esp.aptrinsic.com</li><li>LaunchDarkly：https://app.launchdarkly.com</li></ul> |
-| [!UICONTROL Analysis Workspaceの可用性に対する冗長性の向上] | 2020 年 5 月 22 日 | [!UICONTROL Analysis Workspaceの可用性を確保するために、冗長性を高めるためにセカンダリCDN(コンテンツ配信ネットワーク])を追加します。 必要なネットワークファイアウォールの許可一覧には、次のURLを追加する必要があります。<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
-| [!UICONTROL Workspace] での[!UICONTROL 入口／出口]の計算方法の変更 | 2020 年 4 月 8 日 | 2020 年 3 月の時点で、[!UICONTROL Analysis Workspace] における「_なし_」の値と[!UICONTROL 入口／出口]との相互作用を変更しました。[!UICONTROL Analysis Workspace] で「_なし_」をオン／オフにできるようになったので、入口または出口の後に「_なし_」を適用します。（eVar の場合）以前は、これらの前に適用されていました。例えば、訪問の最初のヒットに eVar の値がないが、2 回目のヒットに eVar の値があるとします。[!UICONTROL Reports &amp; Analytics] では、最初のヒットがそのエントリに対して「_未指定_」と表示されますが、[!UICONTROL Analysis Workspace] では 2 回目のヒットの値が表示されます。 |
+| 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to allowlist (formerly, allowlist) `omniture.com` as a third-party cookie. アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。この許可リスト手順は必要ありません。 [許可リストが必要な推奨IPアドレスとドメインの完全なリストを以下に示します](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html) 。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
+| 新しい Adobe Analytics のデフォルトランディングページ | 発効日：2020 年 6 月 19 日 | 2020 年 6 月 19 日に、Adobe Analytics のデフォルトのランディングページが[!UICONTROL レポート]から [!UICONTROL ワークスペース] に変更されます。この変更は、過去にカスタムランディングページを設定していないユーザーに対して適用されます。 |
+| サードパーティのテクノロジー許可リスト | 2020 年 3 月 13 日（発効日） | Adobe Analytics は、サードパーティのテクノロジーを活用して、機能のロールアウト管理と製品内サポートを開始しました。機能に完全にアクセスできるように、必要なネットワークファイアウォール許可リストに次のURLを追加する必要があります。<ul><li>Gainsight：https://esp.aptrinsic.com</li><li>LaunchDarkly：https://app.launchdarkly.com</li></ul> |
+| Improved redundancy for [!UICONTROL Analysis Workspace] availability | 2020 年 5 月 22 日 | [!UICONTROL Analysis Workspaceの可用性を確保するために]、冗長性を高めるためにセカンダリCDN(コンテンツ配信ネットワーク)を追加しています。 必要なネットワークファイアウォール許可リストには、次のURLを追加する必要があります。<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
+| [!UICONTROL ワークスペース] での[!UICONTROL 入口／出口]の計算方法の変更 | 2020 年 4 月 8 日 | 2020 年 3 月の時点で、[!UICONTROL Analysis Workspace] における「_なし_」の値と[!UICONTROL 入口／出口]との相互作用を変更しました。[!UICONTROL Analysis Workspace] で「_なし_」をオン／オフにできるようになったので、入口または出口の後に「_なし_」を適用します。（eVar の場合）以前は、これらの前に適用されていました。例えば、訪問の最初のヒットに eVar の値がないが、2 回目のヒットに eVar の値があるとします。[!UICONTROL Reports &amp; Analytics] では、最初のヒットがそのエントリに対して「_未指定_」と表示されますが、[!UICONTROL Analysis Workspace] では 2 回目のヒットの値が表示されます。 |
 | **[!UICONTROL ダッシュボードアーカイブ]**&#x200B;のサービス終了 | 2020 年 3 月 28 日 | [!UICONTROL Reports &amp; Analytics] の「**[!UICONTROL ダッシュボードを管理]**」の「**[!UICONTROL アーカイブを表示]**」設定は、2020 年 10 月から使用できなくなります。 |
 | 提供終了 - Analytics レガシー API | 2020 年 1 月 10 日 | 2020 年 11 月に、以下の Analytics レガシー API サービスが提供終了となり、シャットダウンされます。これらのサービスを使用して構築された現在の統合は機能しなくなります。 <ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>ご質問に対する回答と進め方に関するガイダンスを提供するために、[従来の API EOL の FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe IO](https://console.adobe.io/home?mv=email) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API の両方にアクセスするために使用できます。 |
 | サンノゼ FTP 連携機能の終了 | 2020 年 7 月 | ロンドンおよびシンガポールデータセンターをご利用のお客様に対し、サンノゼデータセンター [ftp.omniture.com](ftp://ftp.omniture.com/) からロンドンまたはシンガポールへの、データ連携機能の提供を終了します。ftp.omniture.com をご利用中のお客様は、今後、次の FTP を使用してください。<br/><ul><li>ロンドンのお客様：[ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>シンガポールのお客様：[ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul> |
@@ -242,19 +242,19 @@ AN-218269; AN-218455; AN-218492; AN-219888; AN-220447; AN-220546; AN-220788; AN-
 
 #### 新しいAnalyticsコースとチュートリアル {#tutorials-analytics}
 
-Analyticsとカスタマージャーニー分析の新しいコース、チュートリアルビデオおよび記事です。
+AnalyticsとCustomer Journey Analyticsの新しいコース、チュートリアルビデオ、記事。
 
 | コンテンツ | コンテンツタイプ | 説明 |
 | -----------| ---------- | ---------- | 
-| [ユーザー向けカスタマージャーニー分析の概要](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-U-1-2020.1) | コース | このコースでは、Customer Jeurney Analytics(CJA)を使用して様々なデータソースのデータを分析する方法を学びます。 Adobe Analyticsと顧客の遍歴分析の違い、およびCJAでのデータの処理方法について学びます。 このコースを受講した後は、クロスチャネルのビジュアライゼーションを作成およびカスタマイズして、顧客の理解を深めることができます。 |
-| [管理者向けカスタマージャーニー分析の概要](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-A-1-2020.1) | コース | [!UICONTROL Journey Orchestrationを設定および使用する方法を説明します]。 このコースでは、ジャーニーの調整を有効にするために必要な主要概念と構成手順について説明します。 ここでは、調整されたジャーニーを作成、公開し、レポートおよび分析する方法について学びます。 |
-| [データエンジニア向けAnalyticsユーザーの遍歴分析の概要](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-D-1-2020.1) | コース | このコースでは、Customer Jeurney Analyticsに取り込まれるデータと、それがアナリストのレポートに与える影響について学びます。 このコースは、Adobe Experience Platformの一般的な知識に基づいて構築されます。 |
-| [管理者向けカスタマージャーニー分析の概要](https://video.tv.adobe.com/v/34349?captions=jpn) | ビデオチュートリアル | Customer Jeurney Analytics for Administratorsの紹介ビデオです。 |
-| [ガイド付き分析の導入](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1) | コース | このコースでは、Adobe Analyticsの導入を開始する方法、Analyticsの概念を理解する方法、計画を作成する方法およびエクスペリエンスプラットフォームの起動を使用したAdobe Analyticsの導入方法を学びます。 |
-| [リーダー向けAdobe Analyticsの基本事項](https://experienceleague.adobe.com/?recommended=Analytics-L-1-2020.1) | コース | このコースでは、Analyticsの基本事項と、Analysis Workspaceがビジネスを変更する方法について説明します。 Adobe Sensieの洞察を明らかにする方法、お客様の声を聞く方法、Summit 2019で業界の専門家から強みを得る方法を説明します。 |
-| [Analysis Workspaceの概要](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) | コース | Analysis Workspaceの使用を開始する方法を説明します。 最初のプロジェクトを作成し、日付範囲を定義し、セグメントを適用し、プロジェクトで共有および共同作業する方法を学びます。 |
-| [Adobe Analyticsダッシュボードスコアカードビルダー](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html) | ビデオチュートリアル | このビデオでは、Adobe Analyticsダッシュボード（モバイルアプリ）で表示する [!UICONTROL Analysis Workspace] ( [!UICONTROL Scorecards] )を作成して共有する方法を説明します。 |
-| [Adobe Analyticsダッシュボードのアプリ内エクスペリエンス](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.html) | ビデオチュートリアル | このビデオでは、Adobe Analyticsダッシュボード（モバイルアプリ）を使用して、自分が作成または共有した [!UICONTROL 表示スコアカードにアクセスする方法を説明します] 。 |
+| [Customer Journey Analytics使用の手引き](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-U-1-2020.1) | コース | このコースでは、Customer Journey Analytics(CJA)を使用して様々なデータソースのデータを分析する方法を学びます。 アドビのAnalyticsとCustomer Journey Analyticsの違い、およびCJAでのデータの処理方法について学習します。 このコースを受講した後は、クロスチャネルのビジュアライゼーションを作成およびカスタマイズして、顧客の理解を深めることができます。 |
+| [管理者向けCustomer Journey Analytics — はじめに](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-A-1-2020.1) | コース | [!UICONTROL Journey Orchestrationを設定および使用する方法を説明します]。 このコースでは、ジャーニーの調整を有効にするために必要な主要概念と構成手順について説明します。 ここでは、調整されたジャーニーを作成、公開し、レポートおよび分析する方法について学びます。 |
+| [データエンジニア向けCustomer Journey Analyticsの概要](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-D-1-2020.1) | コース | このコースでは、Customer Journey Analyticsに入るデータと、そのデータがアナリストのレポートに与える影響について学びます。 このコースは、Adobe Experience Platformに関する一般的な知識に基づいて構築されます。 |
+| [管理者向けCustomer Journey Analytics — はじめに](https://video.tv.adobe.com/v/34349?captions=jpn) | ビデオチュートリアル | 管理者向けのCustomer Journey Analytics向けの紹介ビデオです。 |
+| [ガイド付きAnalytics導入](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1) | コース | このコースでは、アドビAnalyticsの実装を開始する方法、Analyticsの概念を理解する方法、計画を作成する方法、Experience Platform Launchを使用したアドビAnalyticsの実装方法を学びます。 |
+| [リーダー向けアドビAnalytics基本原則](https://experienceleague.adobe.com/?recommended=Analytics-L-1-2020.1) | コース | このコースでは、Analyticsの基本原則とAnalysis Workspaceがビジネスを変える方法について説明します。 Adobe Sensieの洞察を明らかにする方法、お客様の声を聞く方法、Summit 2019で業界の専門家から強みを得る方法を説明します。 |
+| [Analysis Workspace使用の手引き](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) | コース | Analysis Workspaceの使用を開始する方法を説明します。 最初のプロジェクトを作成し、日付範囲を定義し、セグメントを適用し、プロジェクトで共有および共同作業する方法を学びます。 |
+| [AdobeAnalyticsダッシュボードスコアカードビルダー](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html) | ビデオチュートリアル | このビデオでは、アドビの [!UICONTROL Analyticsダッシュボード（モバイルアプリ）で表示する] Analysis Workspaceのスコアカードを作成して共有する方法 [!UICONTROL (] )を説明します。 |
+| [AdobeAnalyticsダッシュボードのアプリ内エクスペリエンス](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.html) | ビデオチュートリアル | このビデオでは、AdobeAnalyticsダッシュボード（モバイルアプリ）を使用して、自分が作成または共有した [!UICONTROL 表示スコアカードにアクセスする方法を説明します] 。 |
 
 #### Analytics ヘルプリソース
 
@@ -273,7 +273,7 @@ Audience Manager では、エクスペリエンスを向上し、他の Experien
 
 * 組織間または別のアプリケーション間の切り替えが容易になりました。
 * ヘルプメニューの特集記事やコンテキストの関連するビデオなど、ユーザーヘルプが強化されました。
-* エクスペリエンスプラットフォームとファイルサポートチケットに関するフィードバックを提供する機能。
+* Experience Platformおよびファイルサポートのチケットに関するフィードバックを提供する機能。
 * 新しいより簡単な URL パターン。新しい URL、`experience.adobe.com/audience-manager` にブックマークを更新してください。
 
 これらの更新は、Adobe ID を使用してログインしているユーザーのみ利用できます。Adobe ID ログインに切り替えるには、[Experience Cloud ユーザーと製品の管理](https://docs.adobe.com/content/help/ja-JP/core-services/interface/manage-users-and-products/admin-getting-started.html)を参照してください。
@@ -282,11 +282,11 @@ Audience Manager では、エクスペリエンスを向上し、他の Experien
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| [IAB TCF v2.0用Audience Managerプラグイン ](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html) | アドビでは、設計別プライバシーに焦点を当てています。2020年6月10日から、IAB TCF用Audience ManagerプラグインをIAB Transparency &amp; Consent Framework(TCF)バージョン2.0にアップグレードします。 IAB TCF用のAudience Managerプラグインを実装したお客様は、この機能を引き続き使用するために、2020年8月16日までにバージョン2.0にアップグレードする必要があります。 2020年8月15日以降、バージョン1.1は非推奨となり、サポートは終了します。 |
+| [IAB TCF v2.0用Audience Managerプラグイン ](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html) | アドビでは、IAB TCF向けAudience Managerプラグインを2020年6月10日からIAB Transparency &amp; Consent Framework(TCF)バージョン2.0にアップグレードします。 IAB TCF用のAudience Managerプラグインを実装したお客様は、この機能を引き続き使用するために、2020年8月15日までにバージョン2.0にアップグレードする必要があります。 2020年8月15日以降、バージョン1.1は非推奨となり、サポートは終了します。 |
 
 **修正点**
 
-* 特定の地域の法的要件を反映するように [!UICONTROL Audience Marketplace利用条件] を更新しました。 （AAM-54518）
+* 特定の地域の法的要件を反映するように [!UICONTROL Audience Marketplace利用条件] （英語）を更新しました。 （AAM-54518）
 * ブックマークから [!UICONTROL 特性] ページにアクセスすると404エラーが発生する問題を修正しました。 （AAM-54768）
 * アルゴリズムのモデルの取得中に宛先の更新APIがタイムアウトする問題が修正され [!UICONTROL ました]。 （AAM-54342）
 * ユーザーは、 [!UICONTROL スマートパーソナのモデル分類精度インジケーターを表示できるようになりました]。 （AAM-54847）
@@ -299,16 +299,16 @@ Audience Manager では、エクスペリエンスを向上し、他の Experien
 * セグメントビルダーでセグメントにバルク特性を追加できなかった [!UICONTROL 問題を修正しました]。 （AAM-55033）
 * インターフェイス全体で複数のアクセシビリティを改善しました。(AAM-47269、AAM-48966、AAM-48976、AAM-49369、AAM-49023、AAM-49042)。
 
-### 新しいAudience Managerのコースとチュートリアル {#tutorials-aam}
+### 新しいAudience Managerコースとチュートリアル {#tutorials-aam}
 
 | コンテンツ | コンテンツタイプ | 説明 |
 | -----------| ---------- | ---------- |  
-| [Audience Managerの概要](https://experienceleague.adobe.com/?recommended=AudienceManager-U-1-2020.1) | コース | このコースでは、Audience Managerの基本事項と、それを使用して解決できる問題について説明します。 一般的な使用例とAudience Managerの主な用語と概念について説明します。 |
-| [Audience ManagerでのIDの概要](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/intro-to-audience-manager/introduction-to-identity-in-audience-manager.html) | ビデオチュートリアル | Adobe Audience ManagerでのIDの管理方法を説明します。内部プロファイルやプロファイル結合、パートナーとのID同期などがあります。 |
+| [Audience Managerの概要](https://experienceleague.adobe.com/?recommended=AudienceManager-U-1-2020.1) | コース | このコースでは、Audience Managerの基本と、それを使って解決できる問題について説明します。 一般的な使用例と主なAudience Manager用語と概念について説明します。 |
+| [Audience ManagerでのIDの概要](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/intro-to-audience-manager/introduction-to-identity-in-audience-manager.html) | ビデオチュートリアル | 内部プロファイルやプロファイルの結合、パートナーとのID同期など、Adobe Audience ManagerがIDを管理する方法を説明します。 |
 | [LinkedInの人ベースの宛先についてと設定](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.html) | コース | このビデオでは、LinkedInへの人物ベースのリンク先を作成するための概念と手順について説明します。 これは、人ベースの宛先に関する追加のビデオおよびドキュメントに基づいて構築されます。 |
-| [ルールに基づく特性の作成](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-rule-based-traits.html) | ビデオチュートリアル | Audience Managerインターフェイスの  特性ビルダーを使用して、Audience Managerプロファイルにリアルタイムのアクティビティを取り込めるルールベースの特性を作成する方法について説明します。 |
-| [IAB TCF 2.0向けAudience Managerプラグインの有効化](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/setup-and-admin/data-governance-and-privacy/iab-tcf-support.html#enabling-iab-tcf) | ビデオチュートリアル | IAB TCF用のAudience Managerプラグインを有効にする方法を説明します。 Adobe Experience Platform Launchを使用している場合は、このプラグインを有効にするのは簡単です。 |
-| [IAB TCF 2.0向けAudience Managerプラグインのデモ](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/setup-and-admin/data-governance-and-privacy/iab-tcf-support.html#demo) | ビデオチュートリアル | このビデオでは、Experience Cloud IDサービスおよびソリューションがIABのユーザー選択によって与えるcookieとビーコンへの影響を確認します。 |
+| [ルールに基づく特性の作成](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-rule-based-traits.html) | ビデオチュートリアル | Audience Managerインターフェイスの [!UICONTROL 特性ビルダー] (Trait Builder)を使用してルールベースの特性を作成し、Audience Managerプロファイルにリアルタイムのアクティビティを取り込む方法について説明します。 |
+| [IAB TCF 2.0用Audience Managerプラグインの有効化](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/setup-and-admin/data-governance-and-privacy/iab-tcf-support.html#enabling-iab-tcf) | ビデオチュートリアル | IAB TCF用Audience Managerプラグインを有効にする方法を説明します。 Adobe Experience Platform起動を使用している場合は、このプラグインを有効にするのは簡単です。 |
+| [IAB TCF 2.0のAudience Managerプラグインのデモ](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/setup-and-admin/data-governance-and-privacy/iab-tcf-support.html#demo) | ビデオチュートリアル | このビデオでは、Experience CloudIDサービスおよびソリューションのcookieとビーコンがIABユーザー選択によってどのように影響を受けるかを確認します。 |
 
 ## ![アイコン](/assets/aem.png) Adobe Experience Manager {#aem}
 
@@ -334,25 +334,25 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * **AEM as a Cloud Service**
 
-   クラウドサービスとしてのAEMの新機能
+   Cloud ServiceとしてのAEMの新機能
 
    主な機能は次のとおりです。
 
-   * AEM Sites Commerce Integration Framework。
+   * AEM Sitesコマース統合フレームワークを参照してください。
    * スマートタグが強化され、UIのガイド付きトレーニングエクスペリエンスが新たに追加されました。
    * Adobe XdでのAdobe Asset Linkのサポート。
-   * AEM Assetsダイナミックメディア3Dのサポート。
+   * AEM AssetsDynamic Media3Dのサポート。
    * 新しいセルフサービスの強化により、サンドボックス操作に対するアドビへの依存性が低下しました。
       * Cloud Managerのセルフサービスサンドボックスのサポートが強化され、権利を付与されたユーザーはサンドボックス内のすべての環境を削除してクレジットを受け取ることができます。
-      * 自動休止サンドボックス環境は、無操作状態が続くと、自動的にサンドボックスを「休止」します。 お客様は、「休止解除」を積極的にトリガーできます。
+      * 自動休止サンドボックス環境は、無操作状態が続くと、自動的にサンドボックスを「休止状態」にします。 お客様は、「休止解除」を積極的にトリガーできます。
    * クラウドアクセラレーションをサポートするトランジションツール
 
-   オンプレミスからクラウドサービスへのトランジションに要する時間とコストを削減するという目標を持って、今月から2つのトランジションツールが開始されました。 これらのツールは、トランジションプロセス中の主要タスクの一部を自動化するように設計されており、その結果、全体的な作業を削減します。 .
+   オンプレミスからCloud Serviceまでのトランジションに要する時間とコストを削減する目的で、今月は2つのトランジションツールが開始されました。 これらのツールは、トランジションプロセス中の主要タスクの一部を自動化するように設計されており、その結果、全体的な作業を削減します。 .
 
-   1. [コンテンツ転送ツール](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) （SDで利用可能）を使用すると、コンテンツ転送アクティビティが合理化され、拡張性が向上します。 ユーザーにわかりやすいUIを使用する場合、このツールは、既存のお客様およびパートナー（オンプレミス/AMS）向けのセルフサービスで、クラウドサービスとしてAEMに移行します。
-   1. [AMS Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter) （オープンソース）ツールを使用して、AMSディスパッチャーの設定をクラウドサービスディスパッチャーの設定に自動変換できます。
+   1. [コンテンツ転送ツール](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) （SDで利用可能）を使用すると、コンテンツ転送アクティビティが合理化され、拡張性が向上します。 ユーザーにわかりやすいUIを使用すると、このツールは、既存のお客様およびパートナー（オンプレミス/AMS）がCloud ServiceとしてAEMに移行する際のセルフサービスとなります。
+   1. [AMSDispatcherコンバータ](https://github.com/adobe/aem-cloud-service-dispatcher-converter) （オープンソース）ツールを使用して、AMSDispatcher設定からCloud ServiceDispatcher設定への変換を自動化できます。
 
-   [クラウドサービス2020.6.0としてのAEMのリリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
+   [Cloud Service2020.6.0としてのAEMのリリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    トランジションツール：
 
@@ -366,11 +366,11 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * **AEM as a Cloud Service への移行**
 
-   [クラウドサービスとしてのAEMへの移行](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/moving/home.html) ：既存のAEM顧客がクラウドサービスに移行する際に推奨されるトランジションの遍歴について説明します。 このドキュメントの目標は、お客様がこのトランジションに備え、構造化され予測可能な方法でこの遍歴を作成できるように、情報、ガイダンス、ベストプラクティスを提供することです。
+   [AEMへのCloud Service移行：既存のAEMトランジションがCloud Serviceに移行する際に推奨される方法について説明します](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/moving/home.html) 。 このドキュメントの目標は、お客様がこのトランジションに備え、構造化され予測可能な方法でこの遍歴を作成できるように、情報、ガイダンス、ベストプラクティスを提供することです。
 
-   クラウドトランジションツールの1つであるコンテンツ転送ツールがリリースされました。 [コンテンツ転送ツール](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/overview-content-transfer-tool.html) (Content Transfer Tool)はアドビが開発したもので、既存のコンテンツをソースAEMインスタンス（オンプレミスまたはAMS）からターゲットAEM Cloud Serviceインスタンスに移動するのに使用できます。
+   クラウドトランジションツールの1つであるコンテンツ転送ツールがリリースされました。 [コンテンツ転送ツール](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/overview-content-transfer-tool.html) はアドビが開発したもので、既存のコンテンツをソースAEMインスタンス（オンプレミスまたはAMS）からターゲットAEMCloud Serviceインスタンスに移動するのに使用できます。
 
-   コードリファクタリングツールの1つ — AEM Dispatcher Converterがリリースされました。 [AEM Dispatcher Converter](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/refactoring-tools/dispatcher-transformation-utility-tools.html) は、既存のAEM Dispatcherの設定をクラウドサービスディスパッチャーの設定としてAEMに変換するツールで、ご利用いただけます。
+   コードリファクタリングツールの1つ — AEMDispatcherコンバーターがリリースされました。 [AEMDispatcherコンバーター](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/refactoring-tools/dispatcher-transformation-utility-tools.html) は、既存のAEMDispatcherーの設定をCloud ServiceDispatcherの設定としてAEMに変換するためのツールです。
 
 * **アクセシビリティとWCAG 2.1ガイドライン**
 
@@ -394,30 +394,30 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
    AEMのすべてのお知らせと、内外のブロガーに対する興味深い言及を一か所で見ることができます。 AEMコミュニティの [ディスカッションの節を参照してください。](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/bd-p/adobe-experience-manager-discussions)
 
-### Experience Managerの新しいコースとチュートリアル
+### 新しいExperience Managerコースとチュートリアル
 
 | コンテンツ | コンテンツタイプ | 説明 |
 | -----------| ---------- | ---------- |
-| [ビジネスユーザー向けAdobe Asset Linkはじめに](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.asset.link) | コース | このコースでは、Adobe Experience Manager Assetsに保存されたコンテンツを使用して、Adobe Asset Linkの機能と機能を使用してクリエイティブデザインを強化する方法を学びます。 このコースでは、アドビのアセットリンクの起動方法、基本的なアセット操作、検索と参照のオプション、他のユーザーとの効率的な共同作業方法など、あらゆる内容について説明します。 |
-| [ビジネスユーザー向けAEM Assetsファーストステップガイド](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.assets) | コース | ビジネスユーザー向けのAEM Assetsの使用を開始する方法について説明します。 AEM Assetsの基本事項、コラボレーション機能、アセットの検索、編成、アセットとレンディションのダウンロードについて説明します。 |
-| [ビジネスユーザー向けAEM Sitesファーストステップガイド](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites) | コース | AEMサイトのコア機能と機能を使用して組織のWebページを管理する方法を学びます。 このコースでは、AEM Sitesの紹介、オーサリングの基本概念、高度なオーサリング機能、ページ管理機能について説明します。 |
-| [AEM プロジェクトの構造](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/implementing/developing/aem-project-content-package-structure.translate.html) | 記事 | AEM Cloud Serviceと互換性を持つようにAdobe Experience Manager Mavenプロジェクトに必要な変更について説明します。 |
-| [Sling Model](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/osgi-web-consoles.html#sling-models) | ビデオチュートリアル | SlingモデルWebコンソールを使用した、クラウドサービスSDKのローカルクイックスタートとしてのAEMのデバッグについて説明します。 |
-| [AEM Webコンソールのコンポーネント](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/osgi-web-consoles.html#components) | ビデオチュートリアル | コンポーネントWebコンソールを使用したクラウドサービスSDKのローカルクイックスタートとしてのAEMのデバッグについて説明します。 |
-| [ログを使用したAEM SDKのローカルクイックスタートのデバッグ](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html) | ビデオチュートリアル | Bundles Webコンソールを使用したクラウドサービスSDKのローカルクイックスタートとしてのAEMのデバッグについて説明します。 |
-| [クラウドサービスSDKのローカルクイックスタートとしてのAEMのリモートデバッグ](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/remote-debugging.html) | ビデオチュートリアル | IDEからのリモートJavaデバッグについて学習します。AEMでのライブコードの実行手順を実行し、正確な実行フローを理解できます。 |
+| [ビジネスユーザー向けAdobe Asset Linkはじめに](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.asset.link) | コース | このコースでは、Adobe Asset Linkの機能を使用して、Adobe Experience Managerアセットに保存されたコンテンツをクリエイティブなデザインに反映させる方法について説明します。 このコースでは、アドビのアセットリンクの起動方法、基本的なアセット操作、検索と参照のオプション、他のユーザーとの効率的な共同作業方法など、あらゆる内容について説明します。 |
+| [ビジネスユーザー向けAEM Assetsの概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.assets) | コース | ビジネスユーザー向けのAEM Assetsを使い始める方法を説明します。 AEM Assets、コラボレーション機能、アセットの検索、編成、アセットとレンディションのダウンロードの基本について説明します。 |
+| [ビジネスユーザー向けAEM Sitesの概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites) | コース | AEM Sitesの主な機能を使用して組織のWebページを管理する方法を学びます。 このコースでは、AEM Sitesの紹介、オーサリングの基本概念、高度なオーサリング機能、ページ管理機能など、あらゆる内容について説明します。 |
+| [AEM プロジェクトの構造](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/implementing/developing/aem-project-content-package-structure.translate.html) | 記事 | AEMCloud Serviceと互換性があるように、Adobe Experience ManagerMavenプロジェクトに必要な変更について説明します。 |
+| [Sling Model](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/osgi-web-consoles.html#sling-models) | ビデオチュートリアル | SlingモデルWebコンソールを使用した、Cloud ServiceSDKのローカルクイックスタートとしてのAEMのデバッグについて説明します。 |
+| [AEM Webコンソールのコンポーネント](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/osgi-web-consoles.html#components) | ビデオチュートリアル | コンポーネントWebコンソールを使用したCloud ServiceSDKのローカルクイックスタートとしてのAEMのデバッグについて説明します。 |
+| [ログを使用したAEM SDKのローカルクイックスタートのデバッグ](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html) | ビデオチュートリアル | Bundles Webコンソールを使用した、Cloud ServiceSDKのローカルクイックスタートとしてのAEMのデバッグについて説明します。 |
+| [Cloud ServiceSDKのローカルクイックスタートとしてのAEMのリモートデバッグ](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/remote-debugging.html) | ビデオチュートリアル | IDEからのリモートJavaデバッグについて学習します。AEMでのライブコードの実行手順を実行し、正確な実行フローを理解できます。 |
 | [スマートタグの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/smart-tags-technical-video-setup.html) | ビデオチュートリアル | Adobe I/Oを使用してAdobe Experience Manager(AEM)をSmart Content Serviceに統合する手順を説明します。 |
 | [ドキュメントのバッチ生成](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/interactive-communications/batch-generation-interactive-communications.html) | 記事 | Batch APIを使用して、テンプレートから複数のインタラクティブな通信を作成する方法について説明します。 |
 | [AEM Formsでの印刷チャネルドキュメントの作成](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/ic-print-channel-tutorial/introduction.html) | 記事 | 印刷チャネル用のインタラクティブな通信を作成するために必要な手順を説明します。 |
-| [Adobe Assetリンクにアクセス](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html) | ビデオチュートリアル | Creative Cloudデスクトップアプリケーションを使い慣れていない状態で、Adobe Experience Manager Assets(AEM Assets)に保存されたコンテンツにアクセスする方法を説明します。 |
-| [アセットリンクパネルの概要](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/panel-overview.html) | ビデオチュートリアル | Adobe Asset Linkを使用すると、クリエイティブユーザーは、InDesign、PhotoshopおよびIllustratorのアプリケーション内パネルを使用して、AEM Assetsに保存されたアセットを参照、検索、チェックアウトおよびチェックインできます。 AdobeアセットリンクパネルのUIとその機能について説明します。 |
-| [アセットの検索](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/asset-search.html) | ビデオチュートリアル | クリエイティブユーザーは、AEM Assetsに保存されたアセットをキーワードを使用して検索したり、特定の場所で検索を実行したりできます。 |
-| [ファイルのバージョン管理とコメント](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/file-versioning-and-comments.html) | ビデオチュートリアル | Adobe Asset Linkパネルを使用すると、AEM Assets内のアセット（サムネール、基本メタデータ、バージョンなど）のファイルの詳細に、パネル内からアクセスできます。 |
+| [Adobe Assetリンクにアクセス](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html) | ビデオチュートリアル | Creative Cloudデスクトップアプリケーションを使い慣れている場合でも、Adobe Experience Managerアセット(AEM Assets)に保存されたコンテンツにアクセスする方法を説明します。 |
+| [アセットリンクパネルの概要](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/panel-overview.html) | ビデオチュートリアル | Adobe Asset Linkを使用すると、クリエイティブユーザーは、InDesign、PhotoshopおよびIllustratorのアプリケーション内パネルを使用して、AEM Assetsに保存されたアセットの参照、検索、チェックアウトおよびチェックインを実行できます。 AdobeアセットリンクパネルのUIとその機能について説明します。 |
+| [アセットの検索](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/asset-search.html) | ビデオチュートリアル | Creative Usersでは、AEM Assetsーに保存されたアセットをキーワードを使用して検索したり、特定の場所で検索を実行したりできます。 |
+| [ファイルのバージョン管理とコメント](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/file-versioning-and-comments.html) | ビデオチュートリアル | Adobeアセットリンクパネルを使用すると、サムネール、基本メタデータ、バージョンなど、AEM Assets内のアセットに関するファイルの詳細にパネル内からアクセスできます。 |
 | [Check-In Check-Out](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/check-in-check-out.html) | ビデオチュートリアル | Adobe Assetを使用すると、作業中のクリエイティブアプリケーションからAEM Assetsを直接チェックアウトでき、すぐに編集を開始できます。 |
-| [AEMアセット用のレンディションの配置のみ](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/for-placement-only.html) | ビデオチュートリアル | AEMアセット用のFor Placement Only(FPO)レンディションの作成方法と使用方法を学びます。 |
-| [コピーを配置](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/place-copy.html) | ビデオチュートリアル | 「Place Copy」操作を使用してAEM Assetsのアセットを使用する方法を説明します。 |
-| [ダウンロードとアップロード](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/download-and-upload.html) | ビデオチュートリアル | アセットリンクパネルを使用して、アセットファイルをダウンロードし、AEMアセットにアップロードする方法を説明します。 |
-| [ファイルとコレクション](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/files-and-collections.html) | ビデオチュートリアル | アセットリンクパネルからAEMアセットファイルやコレクションにすばやく簡単にアクセスする方法を説明します。 |
+| [AEM Assets用のレンディションのみ配置](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/for-placement-only.html) | ビデオチュートリアル | AEMアセット用のFor Placement Only(FPO)レンディションの作成方法と使用方法を学びます。 |
+| [コピーを配置](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/place-copy.html) | ビデオチュートリアル | 「コピーを配置」操作を使用して、AEM Assetsのアセットを使用する方法を説明します。 |
+| [ダウンロードとアップロード](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/download-and-upload.html) | ビデオチュートリアル | アセットリンクパネルを使用して、アセットファイルをダウンロードし、AEM Assetsにアップロードする方法を説明します。 |
+| [ファイルとコレクション](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/files-and-collections.html) | ビデオチュートリアル | アセットリンクパネルからAEM Assetsファイルやコレクションにすばやく簡単にアクセスする方法を説明します。 |
 | [ダウンロード](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/sharing/download.html) | ビデオチュートリアル | アセットとそのレンディションをローカルマシンにダウンロードして、使用および共有する方法を説明します。 |
 
 ### その他のリソース
@@ -443,7 +443,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | コンテンツ | コンテンツタイプ | 説明 |
 | -----------| ---------- | ---------- |  
-| [ビジネスユーザー向けAdobe Campaign Standardはじめに](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2020.1.standard) | コース | インターフェイスを操作する方法、配信を使用する方法、受信者データを作成および管理する方法について説明します。 |
+| [ビジネスユーザー向けAdobe Campaign Standardの概要](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2020.1.standard) | コース | インターフェイスを操作する方法、配信を使用する方法、受信者データを作成および管理する方法について説明します。 |
 
 ### Campaign Classic
 
@@ -489,7 +489,7 @@ Updated **June 3, 2020**
 | 機能 | 説明 |
 | -----------| ---------- |
 | [!UICONTROL キャンペーン] | Microsoft Advertising（旧称Bing Ads）では、2020年9月30日以降の平均掲載順位指標は非推奨となります。 これに備えて、7月11日から、位置に基づく制約は無視され、どのタイプの制約でも位置に基づく条件は無視されます。 |
-| [!UICONTROL 広告インサイト] | （6月13日リリース）次のインサイトが削除されました。<br/><br/><ul><li>オーディエンスターゲットのパフォーマンス（新しいバージョン）</li><li>過去のパフォーマンス（新しいバージョン）</li><li>一致タイプ（新しいバージョン）</li><li>監査の設定（新しいバージョン）</li><li>ポートフォリオ事前投稿（レガシー）</li></ul><br/>残りのインサイトは従来のバージョンで、 _レガシー_ ラベルは名前から削除されました。 さらに、ライブ/編集モードが削除されました。 |
+| [!UICONTROL 広告インサイト] | （6月13日リリース）次のインサイトが削除されました。<br/><br/><ul><li>オーディエンスTargetのパフォーマンス（新しいバージョン）</li><li>過去のパフォーマンス（新しいバージョン）</li><li>一致タイプ（新しいバージョン）</li><li>監査の設定（新しいバージョン）</li><li>ポートフォリオ事前投稿（レガシー）</li></ul><br/>残りのインサイトは従来のバージョンで、 _レガシー_ ラベルは名前から削除されました。 さらに、ライブ/編集モードが削除されました。 |
 
 ## ![アイコン](/assets/magento.png) [!DNL Magento] {#magento}
 
