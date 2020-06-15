@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7f127b38a8c27f5e7a439d7130dd2577d987bf0d
+source-git-commit: d5f592e1e804a94619ccf3ce34a4a310867f9f70
 workflow-type: tm+mt
-source-wordcount: '6484'
+source-wordcount: '6487'
 ht-degree: 38%
 
 ---
@@ -140,7 +140,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 ### 最新リリース
 
-第 2 四半期のリリースが公開されました。[詳細情報](https://docs.adobe.com/content/help/ja-JP/journeys/using/release-notes/release-notes.html)
+最新のリリースのアップデートについて詳しくは、 [Journey Orchestrationリリースノートを参照してください](https://docs.adobe.com/content/help/ja-JP/journeys/using/release-notes/release-notes.html)
 
 ### 新しいJourney Orchestrationコースとチュートリアル {#jo-tutorials}
 
@@ -346,10 +346,12 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
       * Cloud Managerのセルフサービスサンドボックスのサポートが強化され、権利を付与されたユーザーはサンドボックス内のすべての環境を削除してクレジットを受け取ることができます。
       * 自動休止サンドボックス環境は、無操作状態が続くと、自動的にサンドボックスを「休止」します。 お客様は、「休止解除」を積極的にトリガーできます。
    * クラウドアクセラレーションをサポートするトランジションツール
+
    オンプレミスからCloud Serviceまでのトランジションに要する時間とコストを削減する目的で、今月は2つのトランジションツールが開始されました。 これらのツールは、トランジションプロセス中の主要タスクの一部を自動化するように設計されており、その結果、全体的な作業を削減します。 .
 
    1. [コンテンツ転送ツール](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) （SDで利用可能）を使用すると、コンテンツ転送アクティビティが合理化され、拡張性が向上します。 ユーザーにわかりやすいUIを使用すると、このツールは、既存のお客様およびパートナー（オンプレミス/AMS）がCloud ServiceとしてAEMに移行する際のセルフサービスとなります。
    1. [AMSDispatcherコンバータ](https://github.com/adobe/aem-cloud-service-dispatcher-converter) （オープンソース）ツールを使用して、AMSDispatcher設定からCloud ServiceDispatcher設定への変換を自動化できます。
+
    [Cloud Service2020.6.0としてのAEMのリリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    トランジションツール：
@@ -396,7 +398,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 | コンテンツ | コンテンツタイプ | 説明 |
 | -----------| ---------- | ---------- |
-| [ビジネスユーザー向けAdobe Asset Linkはじめに](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.asset.link) | コース | このコースでは、Adobe Asset Linkの機能を使用して、Adobe Experience Managerアセットに保存されたコンテンツをクリエイティブなデザインに反映させる方法について説明します。 このコースでは、アドビのアセットリンクの起動方法、基本的なアセット操作、検索と参照のオプション、他のユーザーとの効率的な共同作業方法など、あらゆる内容について説明します。 |
+| [ビジネスユーザー向けAdobe Asset Linkはじめに](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.asset.link) | コース | このコースでは、Adobe Asset Linkの機能を使用して、クリエイティブデザインをAdobe Experience Managerアセットに保存されたコンテンツで強化する方法について説明します。 このコースでは、アドビのアセットリンクの起動方法、基本的なアセット操作、検索と参照のオプション、他のユーザーとの効率的な共同作業方法など、あらゆる内容について説明します。 |
 | [ビジネスユーザー向けAEM Assetsの概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.assets) | コース | ビジネスユーザー向けのAEM Assetsを使い始める方法を説明します。 AEM Assets、コラボレーション機能、アセットの検索、編成、アセットとレンディションのダウンロードの基本について説明します。 |
 | [ビジネスユーザー向けAEM Sitesの概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites) | コース | AEM Sitesの主な機能を使用して組織のWebページを管理する方法を学びます。 このコースでは、AEM Sitesの紹介、オーサリングの基本概念、高度なオーサリング機能、ページ管理機能など、あらゆる内容について説明します。 |
 | [AEM プロジェクトの構造](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/implementing/developing/aem-project-content-package-structure.translate.html) | 記事 | AEMCloud Serviceと互換性があるように、Adobe Experience ManagerMavenプロジェクトに必要な変更について説明します。 |
