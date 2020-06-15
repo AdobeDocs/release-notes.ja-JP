@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: dd357da4e362c01ab350891b1082020c90eb77fe
+source-git-commit: 233093d41875b9fba88afefa0ecbfc9ace21a900
 workflow-type: tm+mt
-source-wordcount: '6522'
+source-wordcount: '6530'
 ht-degree: 38%
 
 ---
@@ -31,13 +31,13 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 製品リリース日は異なる場合があります。 頻繁にチェックバックして更新を確認してください。
 
-Latest update: **June 12, 2020**
+Latest update: **June 15, 2020**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
 * [ジャーニーオーケストレーション](#journey-orch)
-* [Analytics](#analytics)
+* [Analytics](#analytics) (および [Customer Journey Analytics](#cust-journey))
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -169,15 +169,15 @@ Updated **June 10, 2020**
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- |-------|
-| アトリビューションIQ: [!UICONTROL アルゴリズムアトリビューション] | 2020 年 6 月 19 日 | [!UICONTROL Analysis Workspaceの] アルゴリズムアトリビューション  モデルでは、統計的手法を使用して、選択した指標に対するクレジットの最適な配分を動的に決定します。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
+| アトリビューションIQ: アルゴリズムアトリビューション | 2020 年 6 月 19 日 | Analysis Workspaceの [!UICONTROL アルゴリズムアトリビューション] モデルでは、統計的手法を使用して、選択した指標に対する最適なクレジットの配分を動的に決定します。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
 | アトリビューションIQ: カスタムのルックバックウィンドウ | 2020 年 6 月 19 日 | アトリビューションIQ  の任意のアトリビューションモデルを設定して、レポート期間の最大90日前のタッチポイントを含めることができるようになりました。 これは、通常、前月に発生したインタラクションを考慮することで、レポートの初期に発生するイベントのアトリビューション精度を高めます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows) |
-| 共有 [!UICONTROL Workspace] プロジェクトのプロジェクトロール | 2020 年 6 月 19 日 | [!UICONTROL Workspace] プロジェクトを共有する際に、受信者を、使用するプロジェクトの経験に応じて、次の3つのプロジェクトの役割のいずれかに配置できるようになりました。 編集、重複、表示。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| 表示のみの [!UICONTROL Workspace] プロジェクト | 2020 年 6 月 19 日 | [!UICONTROL Workspace] プロジェクトは、 _[!UICONTROL Can表示のみとしてユーザーに共有できます]_。 表示受信者が共有プロジェクトを開くと、左側のパネルがなく、操作が制限される、より厳しいプロジェクト操作を受け取ります。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
-| Workspace [!UICONTROL プロジェクトの共同編集] | 2020 年 6 月 19 日 | 「編集 _[!UICONTROL 可能]_」ロールに追加された受信者は、共有されているプロジェクトに保存できます。 これは、管理者と非管理者の両方に適用されます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| ワー [!UICONTROL クスペースの空白パネルの更新] | 2020 年 6 月 19 日 | [!UICONTROL Workspaceの空白パネルにパネルとビジュアライゼーションが追加され] 、最適な分析ワークフローをよりシームレスに選択できるようになりました。 |
-| 中国のRDCで使用可能なファーストパーティドメイン | 2020 年 6 月 19 日 | ドメインを持つお客様が、中国本土内での使用をファーストパーティドメインにリクエストできるようにします。 `.cn` （中国のパフォーマンス最適化SKUの購入に関するドキュメント） |
-| [!UICONTROL ワークスペース]のクイックインサイトパネル | 2020 年 6 月 26 日 | クイックインサイトは、[!UICONTROL Analysis Workspace] のアナリスト以外のユーザーと新規ユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
-| [!UICONTROL ワークスペース] の [!UICONTROL Analytics for Target] パネル | 2020 年 6 月 26 日 | The [!UICONTROL Analytics for Target] (A4T) panel lets you analyze your Adobe Target activities and experiences in [!UICONTROL Analysis Workspace]. [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
+| 共有Workspaceプロジェクトのプロジェクトロール | 2020 年 6 月 19 日 | Workspaceプロジェクトを共有する際、受信者を、使用するプロジェクトの経験に応じて、次の3つのプロジェクトの役割のいずれかに配置できるようになりました。 編集、重複、表示。 [詳細情報…]((https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| 表示のみのWorkspaceプロジェクト | 2020 年 6 月 19 日 | Workspaceプロジェクトは、「表示可能」としてのみユーザーに共有できます。 表示受信者が共有プロジェクトを開くと、より制限の多いプロジェクト操作が得られ、左側のレールも操作の制限もありません。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
+| Workspaceプロジェクトの共同編集機能 | 2020 年 6 月 19 日 | 「編集可能」ロールに追加された受信者は、共有されたプロジェクトを保存できます。 これは、管理者と非管理者の両方に適用されます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| Workspaceの空白パネルの更新 | 2020 年 6 月 19 日 | Workspaceの空のパネルにパネルとビジュアライゼーションが追加され、最適な分析ワークフローをよりシームレスに選択できるようになりました。 |
+| 中国のRDCで使用可能なファーストパーティドメイン | 2020 年 6 月 19 日 | ドメインを持つお客様が、中国本土内での使用をファーストパーティドメインにリクエストできるようにします。 `.cn` （「中国パフォーマンス最適化」 SKUの購入時に入手可能なドキュメント） |
+| ワークスペースのクイックインサイトパネル | 2020 年 6 月 26 日 | クイックインサイトは、Analysis Workspace のアナリスト以外のユーザーと新規ユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
+| ワークスペース の Analytics for Target パネル | 2020 年 6 月 26 日 | Target用Analytics(A4T)パネルを使用すると、Adobe Targetのアクティビティとエクスペリエンスを、上昇率と信頼性を持つAnalysis Workspaceで分析できます。 [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
@@ -344,7 +344,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
    * AEM AssetsDynamic Media3Dのサポート。
    * 新しいセルフサービスの強化により、サンドボックス操作に対するアドビへの依存性が低下しました。
       * Cloud Managerのセルフサービスサンドボックスのサポートが強化され、権利を付与されたユーザーはサンドボックス内のすべての環境を削除してクレジットを受け取ることができます。
-      * 自動休止サンドボックス環境は、無操作状態が続くと、自動的にサンドボックスを「休止状態」にします。 お客様は、「休止解除」を積極的にトリガーできます。
+      * 自動休止サンドボックス環境は、無操作状態が続くと、自動的にサンドボックスを「休止」します。 お客様は、「休止解除」を積極的にトリガーできます。
    * クラウドアクセラレーションをサポートするトランジションツール
 
    オンプレミスからCloud Serviceまでのトランジションに要する時間とコストを削減する目的で、今月は2つのトランジションツールが開始されました。 これらのツールは、トランジションプロセス中の主要タスクの一部を自動化するように設計されており、その結果、全体的な作業を削減します。 .
@@ -398,7 +398,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 | コンテンツ | コンテンツタイプ | 説明 |
 | -----------| ---------- | ---------- |
-| [ビジネスユーザー向けAdobe Asset Linkはじめに](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.asset.link) | コース | このコースでは、Adobe Asset Linkの機能を使用して、Adobe Experience Managerアセットに保存されたコンテンツをクリエイティブなデザインに反映させる方法について説明します。 このコースでは、アドビのアセットリンクの起動方法、基本的なアセット操作、検索と参照のオプション、他のユーザーとの効率的な共同作業方法など、あらゆる内容について説明します。 |
+| [ビジネスユーザー向けAdobe Asset Linkはじめに](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.asset.link) | コース | このコースでは、Adobe Asset Linkの機能を使用して、クリエイティブデザインをAdobe Experience Managerアセットに保存されたコンテンツで強化する方法について説明します。 このコースでは、アドビのアセットリンクの起動方法、基本的なアセット操作、検索と参照のオプション、他のユーザーとの効率的な共同作業方法など、あらゆる内容について説明します。 |
 | [ビジネスユーザー向けAEM Assetsの概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.assets) | コース | ビジネスユーザー向けのAEM Assetsを使い始める方法を説明します。 AEM Assets、コラボレーション機能、アセットの検索、編成、アセットとレンディションのダウンロードの基本について説明します。 |
 | [ビジネスユーザー向けAEM Sitesの概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites) | コース | AEM Sitesの主な機能を使用して組織のWebページを管理する方法を学びます。 このコースでは、AEM Sitesの紹介、オーサリングの基本概念、高度なオーサリング機能、ページ管理機能など、あらゆる内容について説明します。 |
 | [AEM プロジェクトの構造](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/implementing/developing/aem-project-content-package-structure.translate.html) | 記事 | AEMCloud Serviceと互換性があるように、Adobe Experience ManagerMavenプロジェクトに必要な変更について説明します。 |
