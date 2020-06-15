@@ -398,7 +398,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 | コンテンツ | コンテンツタイプ | 説明 |
 | -----------| ---------- | ---------- |
-| [ビジネスユーザー向けAdobe Asset Linkはじめに](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.asset.link) | コース | このコースでは、Adobe Asset Linkの機能を使用して、クリエイティブデザインをAdobe Experience Managerアセットに保存されたコンテンツで強化する方法について説明します。 このコースでは、アドビのアセットリンクの起動方法、基本的なアセット操作、検索と参照のオプション、他のユーザーとの効率的な共同作業方法など、あらゆる内容について説明します。 |
+| [ビジネスユーザー向けAdobe Asset Linkはじめに](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.asset.link) | コース | このコースでは、Adobe Asset Linkの機能を使用して、Adobe Experience Managerアセットに保存されたコンテンツをクリエイティブなデザインに反映させる方法について説明します。 このコースでは、アドビのアセットリンクの起動方法、基本的なアセット操作、検索と参照のオプション、他のユーザーとの効率的な共同作業方法など、あらゆる内容について説明します。 |
 | [ビジネスユーザー向けAEM Assetsの概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.assets) | コース | ビジネスユーザー向けのAEM Assetsを使い始める方法を説明します。 AEM Assets、コラボレーション機能、アセットの検索、編成、アセットとレンディションのダウンロードの基本について説明します。 |
 | [ビジネスユーザー向けAEM Sitesの概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites) | コース | AEM Sitesの主な機能を使用して組織のWebページを管理する方法を学びます。 このコースでは、AEM Sitesの紹介、オーサリングの基本概念、高度なオーサリング機能、ページ管理機能など、あらゆる内容について説明します。 |
 | [AEM プロジェクトの構造](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/implementing/developing/aem-project-content-package-structure.translate.html) | 記事 | AEMCloud Serviceと互換性があるように、Adobe Experience ManagerMavenプロジェクトに必要な変更について説明します。 |
