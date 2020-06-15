@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: acbbe734e4d1e6881b32a6ef33439eeac6e92715
+source-git-commit: c794742334033a11c712fd6cabfcc1b382fbefce
 workflow-type: tm+mt
-source-wordcount: '6531'
+source-wordcount: '6530'
 ht-degree: 38%
 
 ---
@@ -67,7 +67,7 @@ Latest update: **June 15, 2020**
 | イベント購読の確認 | <ul><li>進行中の単一イベントの更新を購読する際に、電子メールによる確認を受け取れるようになりました。</li></ul> |
 | グローバルナビゲーションのユーザビリティの強化 | <ul><li>`Adobe.com` のトップレベルナビゲーションメニューの操作の一貫性が向上しました。</li></ul> |
 
-## ![Icon](/assets/ec_appicon_24.png) Adobe Experience Cloudインターフェイス {#ecloud}
+## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud インターフェイス {#ecloud}
 
 Experience Cloudインターフェイスの一般的な更新。
 
@@ -344,7 +344,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
    * AEM AssetsDynamic Media3Dのサポート。
    * 新しいセルフサービスの強化により、サンドボックス操作に対するアドビへの依存性が低下しました。
       * Cloud Managerのセルフサービスサンドボックスのサポートが強化され、権利を付与されたユーザーはサンドボックス内のすべての環境を削除してクレジットを受け取ることができます。
-      * 自動休止サンドボックス環境は、無操作状態が続くと、自動的にサンドボックスを「休止状態」にします。 お客様は、「休止解除」を積極的にトリガーできます。
+      * 自動休止サンドボックス環境は、無操作状態が続くと、自動的にサンドボックスを「休止」します。 お客様は、「休止解除」を積極的にトリガーできます。
    * クラウドアクセラレーションをサポートするトランジションツール
    オンプレミスからCloud Serviceまでのトランジションに要する時間とコストを削減する目的で、今月は2つのトランジションツールが開始されました。 これらのツールは、トランジションプロセス中の主要タスクの一部を自動化するように設計されており、その結果、全体的な作業を削減します。 .
 
