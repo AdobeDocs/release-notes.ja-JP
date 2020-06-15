@@ -4,17 +4,17 @@ product: Experience Cloud
 user-guide-title: Adobe Experience Cloud リリースノート
 user-guide-url: https://www.adobe.com
 translation-type: tm+mt
-source-git-commit: 3dd0f7e9f8712786acc31a01dc0fdece9f4004b9
+source-git-commit: 515812727fbc95bb787ec092eed719ad2b2d9171
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 93%
+source-wordcount: '92'
+ht-degree: 96%
 
 ---
 
 
 # Experience Cloud リリースノート {#experience-cloud}
 
-+ Adobe Experience Cloud リリースノート{#exl-rns}
++ Adobe Experience Cloud リリースノート {#exl-rns}
    + [最新のリリースノート](current.md)
 + 以前のリリースノート {#previous}
    + 2020 {#2020}
@@ -35,7 +35,7 @@ ht-degree: 93%
       + [2019 年 3 月](c-legacy-releases/2019/03072019.md)
       + [2019 年 2 月](c-legacy-releases/2019/02072019.md)
       + [2019 年 1 月](c-legacy-releases/2019/01172019.md)
-   + [2018以前]{#legacy-rns)
+   + 2018 年以前 {#legacy-rns}
       + 2018 {#2018}
          + [2018 年 11 月](c-legacy-releases/2018/11012018.md)
          + [2018 年 10 月](c-legacy-releases/2018/10112018.md)
@@ -84,4 +84,5 @@ ht-degree: 93%
          + [2015 年 3 月](c-legacy-releases/2015/03192015.md)
          + [2015 年 2 月](c-legacy-releases/2015/02192015.md)
          + [2015 年 1 月](c-legacy-releases/2015/01152015.md)
-      + [2014 年以前](c-legacy-releases/2014-earlier.md)
+      + 2014 年以前 {#2014-earlier}
+         + [2014 年以前](c-legacy-releases/2014-earlier.md)
