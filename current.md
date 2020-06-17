@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d5f592e1e804a94619ccf3ce34a4a310867f9f70
+source-git-commit: 2a69ecde6ebbe9ffbb67d6a82daf7d026e28ed19
 workflow-type: tm+mt
 source-wordcount: '6487'
-ht-degree: 38%
+ht-degree: 39%
 
 ---
 
@@ -282,7 +282,7 @@ Audience Manager では、エクスペリエンスを向上し、他の Experien
 
 | 機能 | 説明 |
 | -----------| ---------- |  
-| [IAB TCF v2.0用Audience Managerプラグイン ](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html) | アドビでは、IAB TCF向けAudience Managerプラグインを2020年6月10日からIAB Transparency &amp; Consent Framework(TCF)バージョン2.0にアップグレードします。 IAB TCF用のAudience Managerプラグインを実装したお客様は、この機能を引き続き使用するために、2020年8月15日までにバージョン2.0にアップグレードする必要があります。 2020年8月15日以降、バージョン1.1は非推奨となり、サポートは終了します。 |
+| [IAB TCF v2.0 用 Audience Manager プラグイン ](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html) | アドビでは、2020 年 6 月 10 日より、IAB TCF 用 Audience Manager プラグインを IAB の透明性および同意フレームワーク（TCF）バージョン 2.0 にアップグレードします。IAB TCF 用 Audience Manager プラグインを実装したお客様がこの機能を引き続き使用するためには、2020 年 8 月 16 日までにバージョン 2.0 にアップグレードする必要があります。2020年8月15日以降、バージョン1.1は非推奨となり、サポートは終了します。 |
 
 **修正点**
 
@@ -398,7 +398,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 | コンテンツ | コンテンツタイプ | 説明 |
 | -----------| ---------- | ---------- |
-| [ビジネスユーザー向けAdobe Asset Linkはじめに](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.asset.link) | コース | このコースでは、Adobe Asset Linkの機能を使用して、クリエイティブデザインをAdobe Experience Managerアセットに保存されたコンテンツで強化する方法について説明します。 このコースでは、アドビのアセットリンクの起動方法、基本的なアセット操作、検索と参照のオプション、他のユーザーとの効率的な共同作業方法など、あらゆる内容について説明します。 |
+| [ビジネスユーザー向けAdobe Asset Linkはじめに](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.asset.link) | コース | このコースでは、Adobe Asset Linkの機能を使用して、Adobe Experience Managerアセットに保存されたコンテンツをクリエイティブなデザインに反映させる方法について説明します。 このコースでは、アドビのアセットリンクの起動方法、基本的なアセット操作、検索と参照のオプション、他のユーザーとの効率的な共同作業方法など、あらゆる内容について説明します。 |
 | [ビジネスユーザー向けAEM Assetsの概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.assets) | コース | ビジネスユーザー向けのAEM Assetsを使い始める方法を説明します。 AEM Assets、コラボレーション機能、アセットの検索、編成、アセットとレンディションのダウンロードの基本について説明します。 |
 | [ビジネスユーザー向けAEM Sitesの概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites) | コース | AEM Sitesの主な機能を使用して組織のWebページを管理する方法を学びます。 このコースでは、AEM Sitesの紹介、オーサリングの基本概念、高度なオーサリング機能、ページ管理機能など、あらゆる内容について説明します。 |
 | [AEM プロジェクトの構造](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/implementing/developing/aem-project-content-package-structure.translate.html) | 記事 | AEMCloud Serviceと互換性があるように、Adobe Experience ManagerMavenプロジェクトに必要な変更について説明します。 |
