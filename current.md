@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2a69ecde6ebbe9ffbb67d6a82daf7d026e28ed19
+source-git-commit: 0c5c9f6f0c03b68eb4c5695db71fca94afc9141b
 workflow-type: tm+mt
-source-wordcount: '6487'
+source-wordcount: '6486'
 ht-degree: 39%
 
 ---
@@ -362,7 +362,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * **コアコンポーネント**
 
-   コアコンポーネントリリース2.9.0では、 [Adobe Client Data Layer](https://github.com/adobe/adobe-client-data-layer) と新しいProgress Barコンポーネントとの統合が導入され、GitHubで入手可能な [オーサリングドキュメント](https://docs.adobe.com/content/help/ja-JP/experience-manager-core-components/using/introduction.html) 、 [開発者の詳細](https://github.com/adobe/aem-core-wcm-components)、プロジェクトのダウンロードと共に利用できるようになりました。
+   Core Components 2.9.0は、 [Adobe Client Data Layer](https://github.com/adobe/adobe-client-data-layer) と新しいProgress Barコンポーネントとの統合を導入し、GitHubで入手可能な [オーサリングドキュメント](https://docs.adobe.com/content/help/ja-JP/experience-manager-core-components/using/introduction.html) 、 [開発者の詳細](https://github.com/adobe/aem-core-wcm-components)、プロジェクトのダウンロードと共に利用できるようになりました。
 
 * **AEM as a Cloud Service への移行**
 
