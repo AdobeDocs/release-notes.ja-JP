@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: af0ded4b9a09349d811a998a002b0f1c0f72403f
+source-git-commit: 1f0caf618aad2dd27a0642852a7a45c20b76bf07
 workflow-type: tm+mt
-source-wordcount: '6486'
+source-wordcount: '6484'
 ht-degree: 39%
 
 ---
@@ -230,7 +230,7 @@ AN-218269; AN-218455; AN-218492; AN-219888; AN-220447; AN-220546; AN-220788; AN-
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to allowlist (formerly, allowlist) `omniture.com` as a third-party cookie. アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。この許可リスト手順は必要ありません。 [許可リストが必要な推奨IPアドレスとドメインの完全なリストを以下に示します](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html) 。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
+| 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to allowlist `omniture.com` as a third-party cookie. アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。この許可リスト手順は必要ありません。 [許可リストが必要な推奨IPアドレスとドメインの完全なリストを以下に示します](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html) 。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
 | 新しい Adobe Analytics のデフォルトランディングページ | 発効日：2020 年 6 月 19 日 | 2020 年 6 月 19 日に、Adobe Analytics のデフォルトのランディングページが[!UICONTROL レポート]から [!UICONTROL ワークスペース] に変更されます。この変更は、過去にカスタムランディングページを設定していないユーザーに対して適用されます。 |
 | サードパーティのテクノロジー許可リスト | 2020 年 3 月 13 日（発効日） | Adobe Analytics は、サードパーティのテクノロジーを活用して、機能のロールアウト管理と製品内サポートを開始しました。機能に完全にアクセスできるように、必要なネットワークファイアウォール許可リストに次のURLを追加する必要があります。<ul><li>Gainsight：https://esp.aptrinsic.com</li><li>LaunchDarkly：https://app.launchdarkly.com</li></ul> |
 | Improved redundancy for [!UICONTROL Analysis Workspace] availability | 2020 年 5 月 22 日 | [!UICONTROL Analysis Workspaceの可用性を確保するために]、冗長性を高めるためにセカンダリCDN(コンテンツ配信ネットワーク)を追加しています。 必要なネットワークファイアウォール許可リストには、次のURLを追加する必要があります。<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
