@@ -1,11 +1,14 @@
 ---
 title: Adobe Experience Cloud リリースノート
-description: Experience Cloud リリースノートのテンプレート
+description: Experience Cloud リリースノート
 doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8ae9a44aa90a578b681ec1449d65781d3e3b7b65
+source-git-commit: b99aa5d06316964f374b99547215643ad8208bbf
+workflow-type: tm+mt
+source-wordcount: '2537'
+ht-degree: 96%
 
 ---
 
@@ -33,7 +36,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
-* [ターゲット](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
+* [Target](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
 * [Advertising Cloud](#adcloud)
 * [Magento](#magento)
 * [Marketo](#marketo)
@@ -71,7 +74,7 @@ For product documentation, see [Experience Cloud interface](https://docs.adobe.c
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-Javerny Orchestration [!DNL Experience Platform,] 、People [!DNL Experience Platform Launch,] 、Pople、Places、Mobile Services、Security Bullinsを含むリリースノート [!UICONTROL を]参 照してください。
+[!DNL Experience Platform,] のリリースノート（[!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration]、[!UICONTROL Offers]、[!UICONTROL People]、[!UICONTROL Places]、[!UICONTROL Mobile Services]、およびセキュリティ速報を含む）。
 
 * [Experience Cloud ID サービス](#ecid)
 * [Experience Platform リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
@@ -90,7 +93,7 @@ Javerny Orchestration [!DNL Experience Platform,] 、People [!DNL Experience Pla
 
 リリースノートおよび製品ドキュメントについては、[Experience Platform Launch](https://docs.adobe.com/content/help/ja-JP/launch/using/intro/release-notes/current.html) を参照してください。
 
-### [!UICONTROL ジャーニーオーケストレーション] {#journey}
+### [!UICONTROL Journey Orchestration] {#journey}
 
 Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual&#39;s needs in real time, wherever their journey takes them.
 
@@ -167,7 +170,7 @@ Adobe Analytics の新機能および修正点です。
 * [!DNL Android]
 * [!DNL Flash-Flex]
 * [!DNL OSX]
-* [!DNL Windows Phone,][!DNL XBOX,][!DNL Silverlight,] および [!DNL .NET]
+* [!DNL Windows Phone,] [!DNL XBOX,] [!DNL Silverlight,] と [!DNL .NET]
 * [!DNL BlackBerry]
 * Java
 * PHP
@@ -224,7 +227,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 * [AEM 6.4 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-4.html)
 * [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-3.html)
 * [AEM 6.2 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-2.html)
-* [Cloud Manager ユーザーガイド](https://helpx.adobe.com/jp/experience-manager/cloud-manager/user-guide.html)
+* [Cloud Manager ユーザーガイド](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
 * [AEM ドキュメントの以前のバージョン](https://helpx.adobe.com/jp/experience-manager/aem-previous-versions.html)
 * [Scene7 Publishing System リリースノート](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre リリースノート](https://docs.adobe.com/content/help/ja-JP/livefyre/using/release-notes/c-rn.html)
@@ -266,7 +269,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 ### その他のリソース
 
 * Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)- [リリース計画](https://helpx.adobe.com/jp/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/classic.html) - [リリースノート](https://docs.campaign.adobe.com/doc/AC/ja-JP/RN.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/classic.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/control-panel/using/release-notes.html)
 
 ## Advertising Cloud {#adcloud}
@@ -293,7 +296,7 @@ Magent リリースノートについては、以下を参照してください�
 
 ## Marketo {#marketo}
 
-Marketo Engageは、複雑な購入の遍歴のあらゆる段階を通じて顧客体験を変えることを目指す、リード管理とB2Bマーケター向けの包括的なソリューションです。
+Marketo Engageは、複雑な購入の遍歴のあらゆる段階を通じて顧客体験を変えようと考えているリード管理とB2Bマーケター向けの包括的なソリューションです。
 
 ### Core Marketo Engage の更新
 
