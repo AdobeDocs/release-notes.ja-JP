@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b909c99b4389be6ad67536e49224d33b3fb10af8
+source-git-commit: a88748f592df569028641cd53d563e3b6c1d1201
 workflow-type: tm+mt
 source-wordcount: '6688'
 ht-degree: 37%
@@ -155,7 +155,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 * [Adobe Analytics の新機能](#aa-features)
 * [Customer Journey Analytics の新機能](#cust-journey)
-* [Media Analytics の新機能です](#media-aa)
+* [Media Analytics](#media-aa) の新機能です。
 * [アドビAnalyticsの修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [新しいアドビAnalyticsコースとチュートリアル](#tutorials-analytics)
@@ -183,7 +183,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | オブジェクト配列のサポート | 2020 年 6 月 19 日 | CJAのお客様は、Adobe Experience Platformデータセットスキーマ内のオブジェクト配列に表示されるディメンションと指標についてレポートできるようになりました。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-usecases/object-arrays.html) |
 | アトリビューションIQ: [!UICONTROL アルゴリズムアトリビューション] | 2020 年 6 月 19 日 | [!UICONTROL Analysis Workspaceの] アルゴリズムアトリビューション  モデルでは、統計的手法を使用して、選択した指標に対するクレジットの最適な配分を動的に決定します。 Adobe Trast Ultimateのお客様が利用できます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/algorithmic.html) |
 | アトリビューションIQ: カスタムのルックバックウィンドウ | 2020 年 6 月 19 日 | アトリビューションIQ  の任意のアトリビューションモデルを設定して、レポート期間の最大90日前のタッチポイントを含めることができるようになりました。 これは、通常、前月に発生したインタラクションを考慮することで、レポートの初期に発生するイベントのアトリビューション精度を高めます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/models.html) |
-| [!UICONTROL 異常値検出]のサポート | 2020 年 6 月 19 日 | [!UICONTROL 異常値検出]は、以前のデータに関連して特定の指標がどのように変化したかを判定するための統計的手法です。[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html) |
+| [!UICONTROL 異常値検出のサポート] | 2020 年 6 月 19 日 | [!UICONTROL 異常値検出は、以前のデータに関連して特定の指標がどのように変化したかを判定するための統計的手法です。][詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html) |
 | 共有 [!UICONTROL Workspace] プロジェクトのプロジェクトロール | 2020 年 6 月 19 日 | [!UICONTROL Workspace] プロジェクトを共有する際に、受信者を、使用するプロジェクトの経験に応じて、次の3つのプロジェクトの役割のいずれかに配置できるようになりました。 編集、重複、表示。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
 | 表示のみの [!UICONTROL Workspace] プロジェクト | 2020 年 6 月 19 日 | [!UICONTROL Workspace] プロジェクトは、 _[!UICONTROL Can表示のみとしてユーザーに共有できます]_。 表示受信者が共有プロジェクトを開くと、左側のパネルがなく、操作が制限される、より厳しいプロジェクト操作を受け取ります。[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/view-only-projects.html) |
 | Workspace [!UICONTROL プロジェクトの共同編集] | 2020 年 6 月 19 日 | 「編集 _[!UICONTROL 可能]_」ロールに追加された受信者は、共有されているプロジェクトに保存できます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
@@ -392,7 +392,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 | コンテンツ | コンテンツタイプ | 説明 |
 | -----------| ---------- | ---------- |
-| [ビジネスユーザー向けAdobe Asset Linkはじめに](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.asset.link) | コース | このコースでは、Adobe Asset Linkの機能を使用して、Adobe Experience Managerアセットに保存されたコンテンツをクリエイティブなデザインに反映させる方法について説明します。 このコースでは、アドビのアセットリンクの起動方法、基本的なアセット操作、検索と参照のオプション、他のユーザーとの効率的な共同作業方法など、あらゆる内容について説明します。 |
+| [ビジネスユーザー向けAdobe Asset Linkはじめに](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.asset.link) | コース | このコースでは、Adobe Asset Linkの機能を使用して、クリエイティブデザインをAdobe Experience Managerアセットに保存されたコンテンツで強化する方法について説明します。 このコースでは、アドビのアセットリンクの起動方法、基本的なアセット操作、検索と参照のオプション、他のユーザーとの効率的な共同作業方法など、あらゆる内容について説明します。 |
 | [ビジネスユーザー向けAEM Assetsの概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.assets) | コース | ビジネスユーザー向けのAEM Assetsを使い始める方法を説明します。 AEM Assets、コラボレーション機能、アセットの検索、編成、アセットとレンディションのダウンロードの基本について説明します。 |
 | [ビジネスユーザー向けAEM Sitesの概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites) | コース | AEM Sitesの主な機能を使用して組織のWebページを管理する方法を学びます。 このコースでは、AEM Sitesの紹介、オーサリングの基本概念、高度なオーサリング機能、ページ管理機能など、あらゆる内容について説明します。 |
 | [AEM プロジェクトの構造](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/implementing/developing/aem-project-content-package-structure.translate.html) | 記事 | AEMCloud Serviceと互換性があるように、Adobe Experience ManagerMavenプロジェクトに必要な変更について説明します。 |
