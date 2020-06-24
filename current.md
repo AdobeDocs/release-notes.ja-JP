@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a88748f592df569028641cd53d563e3b6c1d1201
+source-git-commit: 1fe0c0a5b892802837115df53c2f178e6e0ee81c
 workflow-type: tm+mt
-source-wordcount: '6688'
-ht-degree: 37%
+source-wordcount: '7082'
+ht-degree: 35%
 
 ---
 
@@ -338,7 +338,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
    * AEM AssetsDynamic Media3Dのサポート。
    * 新しいセルフサービスの強化により、サンドボックス操作に対するアドビへの依存性が低下しました。
       * Cloud Managerのセルフサービスサンドボックスのサポートが強化され、権利を付与されたユーザーはサンドボックス内のすべての環境を削除してクレジットを受け取ることができます。
-      * 自動休止サンドボックス環境は、無操作状態が続くと、自動的にサンドボックスを「休止」します。 お客様は、「休止解除」を積極的にトリガーできます。
+      * 自動休止サンドボックス環境は、無操作状態が続くと、自動的にサンドボックスを「休止状態」にします。 お客様は、「休止解除」を積極的にトリガーできます。
    * クラウドアクセラレーションをサポートするトランジションツール
 
    オンプレミスからCloud Serviceまでのトランジションに要する時間とコストを削減する目的で、今月は2つのトランジションツールが開始されました。 これらのツールは、トランジションプロセス中の主要タスクの一部を自動化するように設計されており、その結果、全体的な作業を削減します。 .
@@ -392,7 +392,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 | コンテンツ | コンテンツタイプ | 説明 |
 | -----------| ---------- | ---------- |
-| [ビジネスユーザー向けAdobe Asset Linkはじめに](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.asset.link) | コース | このコースでは、Adobe Asset Linkの機能を使用して、クリエイティブデザインをAdobe Experience Managerアセットに保存されたコンテンツで強化する方法について説明します。 このコースでは、アドビのアセットリンクの起動方法、基本的なアセット操作、検索と参照のオプション、他のユーザーとの効率的な共同作業方法など、あらゆる内容について説明します。 |
+| [ビジネスユーザー向けAdobe Asset Linkはじめに](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.asset.link) | コース | このコースでは、Adobe Asset Linkの機能を使用して、Adobe Experience Managerアセットに保存されたコンテンツをクリエイティブなデザインに反映させる方法について説明します。 このコースでは、アドビのアセットリンクの起動方法、基本的なアセット操作、検索と参照のオプション、他のユーザーとの効率的な共同作業方法など、あらゆる内容について説明します。 |
 | [ビジネスユーザー向けAEM Assetsの概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.assets) | コース | ビジネスユーザー向けのAEM Assetsを使い始める方法を説明します。 AEM Assets、コラボレーション機能、アセットの検索、編成、アセットとレンディションのダウンロードの基本について説明します。 |
 | [ビジネスユーザー向けAEM Sitesの概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites) | コース | AEM Sitesの主な機能を使用して組織のWebページを管理する方法を学びます。 このコースでは、AEM Sitesの紹介、オーサリングの基本概念、高度なオーサリング機能、ページ管理機能など、あらゆる内容について説明します。 |
 | [AEM プロジェクトの構造](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/implementing/developing/aem-project-content-package-structure.translate.html) | 記事 | AEMCloud Serviceと互換性があるように、Adobe Experience ManagerMavenプロジェクトに必要な変更について説明します。 |
@@ -460,11 +460,23 @@ Updated **June 3, 2020**
 
 ### Advertising Cloud DSP の新機能 {#adcloud-dsp}
 
+Updated **June 23, 2020**
+
 | 機能 | 説明 |
 | -----------| ---------- |
+| ドメインの移行 | （6月22日リリース）Advertising CloudDSPは、https://www.tubemogul.comからhttps://advertising.adobe.comに移行しました [](https://advertising.adobe.com)。 |
+| Adobe Analytics の統合 | （6月18日リリース）DSPで、DSPがAnalyticsに送信するデータからAMOコスト指標をオプションで抑制できるようになりました。 指標を表示しない場合は、アドビのアカウントマネージャーにお問い合わせください。 |
+| 人物ベースのデバイスグラフ | （6月22日リリース）セルフサービスのDSPのお客様は、新しいキャンペーンにわたって、ユーザーベースのターゲティングと頻度管理を行う際に、デバイスグラフ（Adobe Experience Cloud Device Co-opまたはLiveRamp）を利用できるようになりました。 これにより、所有するデバイス間でオーディエンスに到達でき、ユーザーの広告公開を制限できます。 |
+| CCPAオプトアウトオブセール | （6月22日リリース）新しいCCPAオプトアウトオブセールセグメントを使用して、CCPAオプトアウトオブセールの要求をAdvertising Cloudに伝えることができるようになりました。このセグメントは、 [!UICONTROL オーディエンス/セグメントから作成できます]。 また、Advertising Cloud取引APIを使用して、顧客がアカウントaに対してオプトアウト販売のリクエストとして送信したIDの月別レポートを [!UICONTROL オーディエンス/セグメント] (b)から取得できます。 詳しくは、https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.htmlを参照してくだ [さい。](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html) |
+| DoubleVerify Authentic Brand Safety | （6月22日リリース）広告主は、包括的なブランド安全フィルターを使用して、DoubleVerifyを使用した入札後のブロックルールを模倣できる、単一のDoubleVerifyセグメントID事前入札をターゲットできるようになりました。 これは、 [!UICONTROL 設定/広告主で、広告主設定の「メディアの質をターゲットにする」セクションで行えるようにな]りました。 このサービスについて詳しくは、programmaticsales@doubleverify.comにお問い合わせください。 この機能には追加料金が適用されます。 |
+| CPA/ROASの最適化 | （5月20日リリース）キャンペーン管理者は、予算の割り当て超過を防ぐために、パッケージ内の新しい配置を制限する必要がなくなりました。 プレースメントには、CPMまたはCPA/ROASのパフォーマンスに基づく動的な予算配分が適用されるようになりました。 |
 | [!UICONTROL キャンペーン] ホーム | （6月3日リリース）提供されたキャンペーン予算と経過時間に基づく新しいキャンペーンレベルのぺーシング指標が利用できます。 |
+| [!UICONTROL 配置] | （6月22日リリース）サイトの多様性とプレイヤーのサイズのフィルターが削除され、配置のセットアップが簡単になりました。 |
 | 配置予測 | （6月3日リリース）配置レベルの最適化を伴うCTVおよびビデオ配置の場合、配置設定に複数の広告の長さ（15秒および30秒）の予測が含まれるようになりました。 また、VAST在庫とVPAID在庫の両方に対する予測も含まれます。 |
 | CPA/ROASの最適化 | （5月20日リリース）キャンペーン管理者は、予算の割り当て超過を防ぐために、パッケージ内の新しい配置を制限する必要がなくなりました。 プレースメントには、CPMまたはCPA/ROASのパフォーマンスに基づく動的な予算配分が適用されるようになりました。 |
+| [!UICONTROL 在庫] | （6月22日のベータリリース）新しいディールIDフォームを使用すると、既にネゴシエートした個人取引をすばやく設定できます。 |
+|  | （6月22日ベータ版リリース）VASTインベントリでインタラクティブプリロールが利用できるようになりました。 単一のインタラクティブプリロール広告と配置を設定して、広告と配置の数を減らすことができます。 |
+| ACTVオーディエンスレンズ | （6月18日リリース）オーディエンスレンズを使用すると、計画、注文、レポートワークフローに二次オーディエンスの読み取りを作成し、適用できます。 これにより、(1)セカンダリオーディエンスに対する迅速な洞察を得ることができ、(2)好みのオーディエンス上で取引する柔軟性を持ち、(3)複数のオーディエンスの「レンズ」を通してキャンペーンの実行を測定することができます。 |
 
 ### [!UICONTROL Advertising Cloud Search] の新機能 {#adcloud-search}
 
