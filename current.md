@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 504a9a00daef04e57c5662d0a4e3e92920b40ccd
+source-git-commit: bcf089494e56dd5ece46bd7575bf661e352dc9f0
 workflow-type: tm+mt
-source-wordcount: '7037'
+source-wordcount: '7035'
 ht-degree: 35%
 
 ---
@@ -340,12 +340,10 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
       * Cloud Managerのセルフサービスサンドボックスのサポートが強化され、権利を付与されたユーザーはサンドボックス内のすべての環境を削除してクレジットを受け取ることができます。
       * 自動休止サンドボックス環境は、無操作状態が続くと、自動的にサンドボックスを「休止状態」にします。 お客様は、「休止解除」を積極的にトリガーできます。
    * クラウドアクセラレーションをサポートするトランジションツール
-
    オンプレミスからCloud Serviceまでのトランジションに要する時間とコストを削減する目的で、今月は2つのトランジションツールが開始されました。 これらのツールは、トランジションプロセス中の主要タスクの一部を自動化するように設計されており、その結果、全体的な作業を削減します。 .
 
    1. [コンテンツ転送ツール](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) （SDで利用可能）を使用すると、コンテンツ転送アクティビティが合理化され、拡張性が向上します。 ユーザーにわかりやすいUIを使用すると、このツールは、既存のお客様およびパートナー（オンプレミス/AMS）がCloud ServiceとしてAEMに移行する際のセルフサービスとなります。
    1. [AMSDispatcherコンバータ](https://github.com/adobe/aem-cloud-service-dispatcher-converter) （オープンソース）ツールを使用して、AMSDispatcher設定からCloud ServiceDispatcher設定への変換を自動化できます。
-
    [Cloud Service2020.6.0としてのAEMのリリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    トランジションツール：
@@ -453,8 +451,6 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ## ![アイコン](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
-Updated **June 3, 2020**
-
 * [Advertising Cloud DSP の新機能](#adcloud-dsp)
 * [Advertising Cloud Search の新機能](#adcloud-search)
 
@@ -466,8 +462,7 @@ Updated **June 23, 2020**
 | -----------| ---------- |
 | ドメインの移行 | （6月22日リリース）Advertising CloudDSPは、https://www.tubemogul.comからhttps://advertising.adobe.comに移行しました [](https://advertising.adobe.com)。 |
 | Adobe Analytics の統合 | （6月18日リリース）DSPで、DSPがAnalyticsに送信するデータからAMOコスト指標をオプションで抑制できるようになりました。 指標を表示しない場合は、アドビのアカウントマネージャーにお問い合わせください。 |
-| 人物ベースのデバイスグラフ | （6月22日リリース）セルフサービスのDSPをご利用のお客様は、デバイスグラフ(Adobe Experience Cloud Device Co-op |
-| またはLiveRamp)を使用して、新しいキャンペーンでのユーザーベースのターゲティングと頻度管理を行うことができます。 これにより、所有するデバイス間でオーディエンスに到達でき、ユーザーの広告公開を制限できます。 |
+| 人物ベースのデバイスグラフ | （6月22日リリース）セルフサービスのDSPのお客様は、新しいキャンペーンにわたって、ユーザーベースのターゲティングと頻度管理を行う際に、デバイスグラフ（Adobe Experience Cloud Device Co-opまたはLiveRamp）を利用できるようになりました。 これにより、所有するデバイス間でオーディエンスに到達でき、ユーザーの広告公開を制限できます。 |
 | CCPAオプトアウトオブセール | （6月22日リリース）新しいCCPAオプトアウトオブセールセグメントを使用して、CCPAオプトアウトオブセールの要求をAdvertising Cloudに伝えることができるようになりました。このセグメントは、 [!UICONTROL オーディエンス/セグメントから作成できます]。 また、Advertising Cloud取引APIを使用して、顧客がアカウントaに対してオプトアウト販売のリクエストとして送信したIDの月別レポートを [!UICONTROL オーディエンス/セグメント] (b)から取得できます。 詳しくは、https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.htmlを参照してください。 |
 | DoubleVerify Authentic Brand Safety | （6月22日リリース）広告主は、包括的なブランド安全フィルターを使用して、DoubleVerifyを使用した入札後のブロックルールを模倣できる、単一のDoubleVerifyセグメントID事前入札をターゲットできるようになりました。 これは、 [!UICONTROL 設定/広告主で、広告主設定の「メディアの質をターゲットにする」セクションで行えるようにな]りました。 このサービスについて詳しくは、programmaticsales@doubleverify.comにお問い合わせください。 この機能には追加料金が適用されます。 |
 | CPA/ROASの最適化 | （5月20日リリース）キャンペーン管理者は、予算の割り当て超過を防ぐために、パッケージ内の新しい配置を制限する必要がなくなりました。 プレースメントには、CPMまたはCPA/ROASのパフォーマンスに基づく動的な予算配分が適用されるようになりました。 |
