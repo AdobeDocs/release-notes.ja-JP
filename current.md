@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1fe0c0a5b892802837115df53c2f178e6e0ee81c
+source-git-commit: 504a9a00daef04e57c5662d0a4e3e92920b40ccd
 workflow-type: tm+mt
-source-wordcount: '7082'
+source-wordcount: '7037'
 ht-degree: 35%
 
 ---
@@ -466,14 +466,14 @@ Updated **June 23, 2020**
 | -----------| ---------- |
 | ドメインの移行 | （6月22日リリース）Advertising CloudDSPは、https://www.tubemogul.comからhttps://advertising.adobe.comに移行しました [](https://advertising.adobe.com)。 |
 | Adobe Analytics の統合 | （6月18日リリース）DSPで、DSPがAnalyticsに送信するデータからAMOコスト指標をオプションで抑制できるようになりました。 指標を表示しない場合は、アドビのアカウントマネージャーにお問い合わせください。 |
-| 人物ベースのデバイスグラフ | （6月22日リリース）セルフサービスのDSPのお客様は、新しいキャンペーンにわたって、ユーザーベースのターゲティングと頻度管理を行う際に、デバイスグラフ（Adobe Experience Cloud Device Co-opまたはLiveRamp）を利用できるようになりました。 これにより、所有するデバイス間でオーディエンスに到達でき、ユーザーの広告公開を制限できます。 |
-| CCPAオプトアウトオブセール | （6月22日リリース）新しいCCPAオプトアウトオブセールセグメントを使用して、CCPAオプトアウトオブセールの要求をAdvertising Cloudに伝えることができるようになりました。このセグメントは、 [!UICONTROL オーディエンス/セグメントから作成できます]。 また、Advertising Cloud取引APIを使用して、顧客がアカウントaに対してオプトアウト販売のリクエストとして送信したIDの月別レポートを [!UICONTROL オーディエンス/セグメント] (b)から取得できます。 詳しくは、https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.htmlを参照してくだ [さい。](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html) |
+| 人物ベースのデバイスグラフ | （6月22日リリース）セルフサービスのDSPをご利用のお客様は、デバイスグラフ(Adobe Experience Cloud Device Co-op |
+| またはLiveRamp)を使用して、新しいキャンペーンでのユーザーベースのターゲティングと頻度管理を行うことができます。 これにより、所有するデバイス間でオーディエンスに到達でき、ユーザーの広告公開を制限できます。 |
+| CCPAオプトアウトオブセール | （6月22日リリース）新しいCCPAオプトアウトオブセールセグメントを使用して、CCPAオプトアウトオブセールの要求をAdvertising Cloudに伝えることができるようになりました。このセグメントは、 [!UICONTROL オーディエンス/セグメントから作成できます]。 また、Advertising Cloud取引APIを使用して、顧客がアカウントaに対してオプトアウト販売のリクエストとして送信したIDの月別レポートを [!UICONTROL オーディエンス/セグメント] (b)から取得できます。 詳しくは、https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.htmlを参照してください。 |
 | DoubleVerify Authentic Brand Safety | （6月22日リリース）広告主は、包括的なブランド安全フィルターを使用して、DoubleVerifyを使用した入札後のブロックルールを模倣できる、単一のDoubleVerifyセグメントID事前入札をターゲットできるようになりました。 これは、 [!UICONTROL 設定/広告主で、広告主設定の「メディアの質をターゲットにする」セクションで行えるようにな]りました。 このサービスについて詳しくは、programmaticsales@doubleverify.comにお問い合わせください。 この機能には追加料金が適用されます。 |
 | CPA/ROASの最適化 | （5月20日リリース）キャンペーン管理者は、予算の割り当て超過を防ぐために、パッケージ内の新しい配置を制限する必要がなくなりました。 プレースメントには、CPMまたはCPA/ROASのパフォーマンスに基づく動的な予算配分が適用されるようになりました。 |
 | [!UICONTROL キャンペーン] ホーム | （6月3日リリース）提供されたキャンペーン予算と経過時間に基づく新しいキャンペーンレベルのぺーシング指標が利用できます。 |
 | [!UICONTROL 配置] | （6月22日リリース）サイトの多様性とプレイヤーのサイズのフィルターが削除され、配置のセットアップが簡単になりました。 |
 | 配置予測 | （6月3日リリース）配置レベルの最適化を伴うCTVおよびビデオ配置の場合、配置設定に複数の広告の長さ（15秒および30秒）の予測が含まれるようになりました。 また、VAST在庫とVPAID在庫の両方に対する予測も含まれます。 |
-| CPA/ROASの最適化 | （5月20日リリース）キャンペーン管理者は、予算の割り当て超過を防ぐために、パッケージ内の新しい配置を制限する必要がなくなりました。 プレースメントには、CPMまたはCPA/ROASのパフォーマンスに基づく動的な予算配分が適用されるようになりました。 |
 | [!UICONTROL 在庫] | （6月22日のベータリリース）新しいディールIDフォームを使用すると、既にネゴシエートした個人取引をすばやく設定できます。 |
 |  | （6月22日ベータ版リリース）VASTインベントリでインタラクティブプリロールが利用できるようになりました。 単一のインタラクティブプリロール広告と配置を設定して、広告と配置の数を減らすことができます。 |
 | ACTVオーディエンスレンズ | （6月18日リリース）オーディエンスレンズを使用すると、計画、注文、レポートワークフローに二次オーディエンスの読み取りを作成し、適用できます。 これにより、(1)セカンダリオーディエンスに対する迅速な洞察を得ることができ、(2)好みのオーディエンス上で取引する柔軟性を持ち、(3)複数のオーディエンスの「レンズ」を通してキャンペーンの実行を測定することができます。 |
