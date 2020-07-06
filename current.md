@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bcf089494e56dd5ece46bd7575bf661e352dc9f0
+source-git-commit: d081c9c185e4709eb758c1562466af2f92af593e
 workflow-type: tm+mt
-source-wordcount: '7035'
+source-wordcount: '6998'
 ht-degree: 87%
 
 ---
@@ -183,12 +183,13 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | オブジェクト配列のサポート | 2020 年 6 月 19 日 | CJAのお客様は、Adobe Experience Platformデータセットスキーマ内のオブジェクト配列に表示されるディメンションと指標についてレポートできるようになりました。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-usecases/object-arrays.html) |
 | Attribution IQ：[!UICONTROL アルゴリズムアトリビューション] | 2020 年 6 月 19 日 | [!UICONTROL Analysis Workspace] の [!UICONTROL アルゴリズムアトリビューション]モデルでは、統計的手法を使用して、選択した指標に対するクレジットの最適な配分を動的に決定します。Adobe Trast Ultimateのお客様が利用できます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/algorithmic.html) |
 | Attribution IQ：カスタムルックバックウィンドウ | 2020 年 6 月 19 日 | [!UICONTROL Attribution IQ] で任意のアトリビューションモデルを設定して、レポート期間の最大 90 日前のタッチポイントを含められるようになりました。これにより、通常、前月（または過去数か月）に発生したインタラクションを考慮することで、レポートの初期に発生するイベントのアトリビューション精度を高めます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/models.html) |
-| [!UICONTROL 異常値検出]のサポート | 2020 年 6 月 19 日 | [!UICONTROL 異常値検出]は、以前のデータに関連して特定の指標がどのように変化したかを判定するための統計的手法です。[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html) |
 | 共有 [!UICONTROL Workspace] プロジェクトのプロジェクトロール | 2020 年 6 月 19 日 | [!UICONTROL Workspace] プロジェクトを共有する際は、受信者を、使用するプロジェクトエクスペリエンスに応じて、編集、複製、表示の 3 つのプロジェクトの役割のいずれかに受信者を配置できるようになりました。[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
 | 表示専用 [!UICONTROL Workspace] プロジェクト | 2020 年 6 月 19 日 | [!UICONTROL Workspace] プロジェクトは、「_[!UICONTROL 表示可能]_」としてのみユーザーに共有できます。「表示」受信者が共有プロジェクトを開くと、左側のパネルが表示されず、操作が制限された状態となる、より制限が厳格なプロジェクトエクスペリエンスが提供されます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/view-only-projects.html) |
 | [!UICONTROL Workspace] プロジェクトを共同編集できる機能 | 2020 年 6 月 19 日 | _[!UICONTROL 編集可能]_ 役割に追加された受信者は、それらのユーザーと共有されているプロジェクトを上書き保存できます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
 | [!UICONTROL Workspace] のクイックインサイトパネル | 2020 年 6 月 26 日 | クイックインサイトは、[!UICONTROL Analysis Workspace] のアナリスト以外のユーザーと新規ユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/panels/quickinsight.html) |
 | [!UICONTROL Workspace] ページについて | 18,2020 年 6 月 | Workspace [!UICONTROL について] ページには、Analysis Workspace環境、AdobeAnalytics管理者（サポートが必要な場合）に関する情報、および製品内のフィードバックを提供する方法が記載されています。 これは、 **[!UICONTROL Workspace]** / **[!UICONTROL Help]** /Workspace **[!UICONTROL についてで確認できます]**。 |
+
+<!-->Support for [!UICONTROL Anomaly Detection] - July ??, 2020 - [!UICONTROL Anomaly Detection] provides a statistical method to determine how a given metric has changed in relation to previous data. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html)<-->
 
 ### [!UICONTROL Media Analytics] の新機能です {#media-aa}
 
@@ -197,7 +198,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- | ---------- |
 | [サポートされるデバイスとプラットフォーム](https://docs.adobe.com/content/help/en/media-analytics/using/supported-devices.html) | 2020 年 6 月 19 日 | AEP SDKを含むメディア起動拡張で、以下のOTTデバイスがサポートされるようになりました。<ul><li>Apple TV（tvOS）</li><li>Fire TV（Fire OS）</li><li>Android TV</li></ul> |  | [サポートされるデバイスとプラットフォーム](https://docs.adobe.com/content/help/en/media-analytics/using/supported-devices.html) | 2020 年 6 月 19 日 | AEP SDKを含むメディア起動拡張で、以下のOTTデバイスがサポートされるようになりました。<ul><li>Apple TV（tvOS）</li><li>Fire TV（Fire OS）</li><li>Android TV</li></ul> |
-| [プレイヤー状態の追跡](https://docs.adobe.com/content/help/ja-JP/media-analytics/using/player-state-tracking/player-state-overview.html) | 2020 年 5 月 30 日 | [!UICONTROL メディアAnalytics] のお客様は、フルスクリーン、クローズドキャプション、ミュート、ピクチャインピクチャ、インフォーカスの標準的なソリューション変数のセットを使用して、再生中のビューアのインタラクションをキャプチャできます。 また、カスタムプレーヤー状態を柔軟に作成することもできます。[!UICONTROL Analysis Workspace] のレポートで、プレイヤー状態追跡変数を使用できるようになりました。この機能を使用するには、次のいずれかが必要です。 <ul><li>Media [!DNL JavaScript] SDK 3.0 以降</li><li>[!DNL Adobe Experience Platform]（AEP）SDK で使用する場合：</li><li>[!UICONTROL Media Analytics 拡張機能]（Web 用）：[!UICONTROL Adobe Media Analytics]（3.x SDK）for Audio および Adobe Media Analytics for Video v1.0 以降</li><li>[!UICONTROL Media Analytics Extension]（モバイル用）：[!UICONTROL Adobe Media Analytics for Audio] および Adobe Media Analytics for Video v2.0 以降</li><li>[!UICONTROL メディアコレクション]</li></ul> |
+| [プレーヤーステートトラッキング](https://docs.adobe.com/content/help/ja-JP/media-analytics/using/player-state-tracking/player-state-overview.html) | 2020 年 5 月 30 日 | [!UICONTROL メディアAnalytics] のお客様は、フルスクリーン、クローズドキャプション、ミュート、ピクチャインピクチャ、インフォーカスの標準的なソリューション変数のセットを使用して、再生中のビューアのインタラクションをキャプチャできます。 また、カスタムプレーヤー状態を柔軟に作成することもできます。[!UICONTROL Analysis Workspace] のレポートで、プレイヤー状態追跡変数を使用できるようになりました。この機能を使用するには、次のいずれかが必要です。 <ul><li>Media [!DNL JavaScript] SDK 3.0 以降</li><li>[!DNL Adobe Experience Platform]（AEP）SDK で使用する場合：</li><li>[!UICONTROL Media Analytics 拡張機能]（Web 用）：[!UICONTROL Adobe Media Analytics]（3.x SDK）for Audio および Adobe Media Analytics for Video v1.0 以降</li><li>[!UICONTROL Media Analytics Extension]（モバイル用）：[!UICONTROL Adobe Media Analytics for Audio] および Adobe Media Analytics for Video v2.0 以降</li><li>[!UICONTROL メディアコレクション]</li></ul> |
 
 ### Adobe Analytics の修正点 {#aa-fixes}
 
@@ -340,10 +341,12 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
       * Cloud Manager のセルフサービスサンドボックスのサポートが強化され、権利を付与されたユーザーはサンドボックス内のすべての環境を削除してクレジットを受け取ることができるようになりました。
       * 自動休止サンドボックス環境は、無操作状態が続くと、自動的にサンドボックスを「休止」します。お客様は、「休止解除」を積極的にトリガーできます。
    * クラウドアクセラレーションをサポートするトランジションツール。
+
    オンプレミスから Cloud Service へのトランジションにかかる時間とコストを削減するため、今月 2 つのトランジションツールが立ち上げられました。これらのツールは、トランジションプロセス中の主要タスクの一部を自動化するように設計されており、結果として、全体的な作業を削減します。
 
    1. [コンテンツ転送ツール](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html)（SD で利用可能）を使用すると、コンテンツ転送アクティビティが効率化され、拡張性が向上します。ユーザーにわかりやすい UI を備えたこのツールは、既存のお客様およびパートナー（オンプレミス/AMS）が AEM as a Cloud Service に変換される既存の顧客やパートナー（オンプレミス／AMS）用のセルフサービスです。
    1. AMS Dispatcher 設定から Cloud Service Dispatcher 設定への変換を自動化する [AMS Dispatcher コンバーター](https://github.com/adobe/aem-cloud-service-dispatcher-converter)（オープンソース）ツール。
+
    [AEM as a Cloud Service 2020.6.0 のリリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    トランジションツール：
