@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d081c9c185e4709eb758c1562466af2f92af593e
+source-git-commit: efd848cda1046613c889825fff57b868b67e1c80
 workflow-type: tm+mt
-source-wordcount: '6998'
-ht-degree: 100%
+source-wordcount: '7021'
+ht-degree: 99%
 
 ---
 
@@ -251,6 +251,10 @@ Analytics と Customer Journey Analytics の新しいコース、チュートリ
 | [Adobe Analytics ダッシュボードのスコアカードビルダー](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html) | ビデオチュートリアル | このビデオでは、[!UICONTROL Analysis Workspace] で[!UICONTROL スコアカード]を作成および共有し、Adobe Analytics ダッシュボード（モバイルアプリ）で表示する方法について説明します。 |
 | [Adobe Analytics ダッシュボードのアプリ内エクスペリエンス](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.html) | ビデオチュートリアル | このビデオでは、Adobe Analytics ダッシュボード（モバイルアプリケーション）を使用して、自分が作成または共有した表示[!UICONTROL スコアカード]にアクセスする方法について説明します。 |
 
+#### AppMeasurement {#appm}
+
+AppMeasurementリリースの最新の更新については、AppMeasurement for JavaScriptリリースノートを参照して [ください](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/appmeasurement-updates.html)。
+
 #### Analytics ヘルプリソース
 
 * [Adobe Analytics チュートリアル](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html)
@@ -465,7 +469,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 | -----------| ---------- |
 | ドメインの移行 | （6 月 23 日リリース）Advertising Cloud DSP は、https://www.tubemogul.com から [https://advertising.adobe.com](https://advertising.adobe.com) に移行されました。 |
 | Adobe Analytics の統合 | （6 月 19 日リリース）オプションとして、DSP で、Analytics に送信するデータから AMO コスト指標を抑制できるようになりました。指標を抑制しない場合は、アドビのアカウントマネージャーにお問い合わせください。 |
-| 人ベースのデバイスグラフ | （6 月 23 日リリース）セルフサービス DSP のお客様は、任意の新しいキャンペーンをまたいでユーザーベースのターゲティングと頻度管理をおこなう際に、デバイスグラフ（Adobe Experience Cloud Device Co-op または LiveRamp）を利用できるようになりました。これにより、所有するデバイス間でオーディエンスに到達して、ユーザーの広告公開を制限できます。 |
+| 人物ベースのデバイスグラフ | （6 月 23 日リリース）セルフサービス DSP のお客様は、任意の新しいキャンペーンをまたいでユーザーベースのターゲティングと頻度管理をおこなう際に、デバイスグラフ（Adobe Experience Cloud Device Co-op または LiveRamp）を利用できるようになりました。これにより、所有するデバイス間でオーディエンスに到達して、ユーザーの広告公開を制限できます。 |
 | CCPA オプトアウトオブセール | （6 月 23 日リリース）新しい CCPA オプトアウトオブセールセグメントを使用して、CCPA オプトアウトオブセールの要求を Advertising Cloud に伝えられるようになりました。このセグメントは、[!UICONTROL オーディエンス／セグメント]から作成できます。また、a）[!UICONTROL オーディエンス／セグメント]から、または b）Advertising Cloud トラフィック指定 API を使用して、顧客がアカウントに対してオプトアウトオブセールのリクエストとして送信した ID の月別レポートを取得できます。詳しくは、https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html を参照してください。 |
 | DoubleVerify Authentic Brand Safety | （6 月 23 日リリース）広告主は、DoubleVerify での入札後のブロックルールを模倣できる包括的な Brand Safety フィルターを使用して、入札前に単一の DoubleVerify セグメント ID をターゲットに設定できるようになりました。これは、[!UICONTROL 設定／広告主]で、広告主設定の「メディア品質のターゲティング」セクションでおこなえるようになりました。このサービスについて詳しくは、programmaticsales@doubleverify.com にお問い合わせください。この機能には追加料金が適用されます。 |
 | CPA/ROAS の最適化 | （5 月 20 日リリース）Campaign 管理者は、予算の割り当て超過を防ぐために、パッケージ内の新しい配置を制限する必要がなくなりました。配置には、CPM または CPA／ROAS のパフォーマンスに基づいた動的な予算配分が適用されるようになりました。 |
