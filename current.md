@@ -345,12 +345,10 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
       * Cloud Manager のセルフサービスサンドボックスのサポートが強化され、権利を付与されたユーザーはサンドボックス内のすべての環境を削除してクレジットを受け取ることができるようになりました。
       * 自動休止サンドボックス環境は、無操作状態が続くと、自動的にサンドボックスを「休止」します。お客様は、「休止解除」を積極的にトリガーできます。
    * クラウドアクセラレーションをサポートするトランジションツール。
-
    オンプレミスから Cloud Service へのトランジションにかかる時間とコストを削減するため、今月 2 つのトランジションツールが立ち上げられました。これらのツールは、トランジションプロセス中の主要タスクの一部を自動化するように設計されており、結果として、全体的な作業を削減します。
 
    1. [コンテンツ転送ツール](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html)（SD で利用可能）を使用すると、コンテンツ転送アクティビティが効率化され、拡張性が向上します。ユーザーにわかりやすい UI を備えたこのツールは、既存のお客様およびパートナー（オンプレミス/AMS）が AEM as a Cloud Service に変換される既存の顧客やパートナー（オンプレミス／AMS）用のセルフサービスです。
    1. AMS Dispatcher 設定から Cloud Service Dispatcher 設定への変換を自動化する [AMS Dispatcher コンバーター](https://github.com/adobe/aem-cloud-service-dispatcher-converter)（オープンソース）ツール。
-
    [AEM as a Cloud Service 2020.6.0 のリリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    トランジションツール：
