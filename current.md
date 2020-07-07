@@ -8,12 +8,12 @@ translation-type: tm+mt
 source-git-commit: d081c9c185e4709eb758c1562466af2f92af593e
 workflow-type: tm+mt
 source-wordcount: '6998'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Experience Cloudリリースノート — 2020年6月
+# Adobe Experience Cloud リリースノート - 2020 年 6 月
 
 ![バナー](/assets/experience-cloud-banner-3.png)
 
@@ -27,13 +27,13 @@ ht-degree: 87%
 
 製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
 
-Latest update: **June 18, 2020**
+最終更新日：**2020 年 6 月 19 日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
 * [ジャーニーオーケストレーション](#journey-orch)
-* [Analytics](#analytics) (および [Customer Journey Analytics](#cust-journey))
+* [Analytics](#analytics)（および [Customer Journey Analytics](#cust-journey)）
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -136,7 +136,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 ### 最新リリース
 
-最新のリリースのアップデートについて詳しくは、 [Journey Orchestrationリリースノートを参照してください](https://docs.adobe.com/content/help/ja-JP/journeys/using/release-notes/release-notes.html)
+最新のリリースのアップデートについて詳しくは、[Journey Orchestration](https://docs.adobe.com/content/help/ja-JP/journeys/using/release-notes/release-notes.html) リリースノートを参照してください
 
 ### 新しい Journey Orchestration コースとチュートリアル {#jo-tutorials}
 
@@ -165,40 +165,40 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- |-------|
-| Attribution IQ：アルゴリズムアトリビューション | 2020 年 6 月 19 日 | Analysis Workspace の [!UICONTROL アルゴリズムアトリビューション]モデルでは、統計的手法を使用して、選択した指標に対するクレジットの最適な配分を動的に決定します。Adobe Trast Ultimateのお客様が利用できます。 [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/attribution/algorithmic.html) |
-| Attribution IQ：カスタムルックバックウィンドウ | 2020 年 6 月 19 日 | You can now configure any attribution model in [!UICONTROL Attribution IQ] to include touchpoints from up to 90 days before the reporting time period. これにより、通常、前月（または過去数か月）に発生したインタラクションを考慮することで、レポートの初期に発生するイベントのアトリビューション精度を高めます。Adobe Select、Prime、Premium、Premium Attribution、Premium Complete、Ultimateのお客様が利用できます。 [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/attribution/models.html#ルックバックウィンドウ) |
+| Attribution IQ：アルゴリズムアトリビューション | 2020 年 6 月 19 日 | Analysis Workspace の [!UICONTROL アルゴリズムアトリビューション]モデルでは、統計的手法を使用して、選択した指標に対するクレジットの最適な配分を動的に決定します。Adobe Analytics Ultimate のお客様が利用できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/attribution/algorithmic.html) |
+| Attribution IQ：カスタムルックバックウィンドウ | 2020 年 6 月 19 日 | [!UICONTROL Attribution IQ] で任意のアトリビューションモデルを設定して、レポート期間の最大 90 日前のタッチポイントを含められるようになりました。これにより、通常、前月（または過去数か月）に発生したインタラクションを考慮することで、レポートの初期に発生するイベントのアトリビューション精度を高めます。Adobe Analytics Foundation、Select、Prime、Premium、Premium Attribution、Premium Complete、および Ultimate のお客様が利用できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/attribution/models.html#ルックバックウィンドウ) |
 | 共有 Workspace プロジェクトのプロジェクトロール | 2020 年 6 月 19 日 | Workspace プロジェクトを共有する際は、受信者を、使用するプロジェクトエクスペリエンスに応じて、編集、複製、表示の 3 つのプロジェクトの役割のいずれかに受信者を配置できるようになりました。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| 表示専用 Workspace プロジェクト | 2020 年 6 月 19 日 | Workspaceプロジェクトは、「表示可能」としてのみユーザーに共有できます。 表示受信者が共有プロジェクトを開くと、より制限の多いプロジェクト操作が得られ、左側のレールも操作の制限もありません。 [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
-| Workspace プロジェクトを共同編集できる機能 | 2020 年 6 月 19 日 | 「編集可能」ロールに追加された受信者は、共有されたプロジェクトを保存できます。 これは、管理者と非管理者の両方に適用されます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
-| Workspace の空白パネルの更新 | 2020 年 6 月 19 日 | Workspaceの空のパネルにパネルとビジュアライゼーションが追加され、最適な分析ワークフローをよりシームレスに選択できるようになりました。 |
-| 中国で使用可能なファーストパーティドメイン | 2020 年 6 月 19 日 | `.cn` ドメインを持つお客様が、中国本土内での使用をファーストパーティドメインにリクエストできるようになります。（「中国パフォーマンス最適化」 SKUの購入時に入手可能なドキュメント） |
+| 表示専用 Workspace プロジェクト | 2020 年 6 月 19 日 | Workspace プロジェクトは、「表示可能」としてのみユーザーに共有できます。「表示」受信者が共有プロジェクトを開くと、左側のパネルが表示されず、操作が制限された状態となる、より制限が厳格なプロジェクトエクスペリエンスが提供されます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html) |
+| Workspace プロジェクトを共同編集できる機能 | 2020 年 6 月 19 日 | 「編集可能」の役割に追加された受信者は、それらのユーザーと共有されているプロジェクトを上書き保存できます。これは、管理者と非管理者の両方に適用されます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/curate-share/share-projects.html) |
+| Workspace の空白パネルの更新 | 2020 年 6 月 19 日 | Workspace の空白パネルにパネルとビジュアライゼーションが追加され、最適な分析ワークフローを、よりシームレスに選択できるようになりました。 |
+| 中国で使用可能なファーストパーティドメイン | 2020 年 6 月 19 日 | `.cn` ドメインを持つお客様が、中国本土内での使用をファーストパーティドメインにリクエストできるようになります。（中国のパフォーマンス最適化 SKU の購入に関するドキュメント） |
 | Workspace のクイックインサイトパネル | 2020 年 6 月 26 日 | クイックインサイトは、Analysis Workspace のアナリスト以外のユーザーと新規ユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
-| ワークスペース の Analytics for Target パネル | 2020 年 6 月 26 日 | Target用Analytics(A4T)パネルを使用すると、Adobe Targetのアクティビティとエクスペリエンスを、上昇率と信頼性を持つAnalysis Workspaceで分析できます。 [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
-| [!UICONTROL Workspace] ページについて | 18,2020 年 6 月 | Workspace [!UICONTROL について] ページには、Analysis Workspace環境、AdobeAnalytics管理者（サポートが必要な場合）に関する情報、および製品内のフィードバックを提供する方法が記載されています。 これは、 **[!UICONTROL Workspace]** / **[!UICONTROL Help]** /Workspace **[!UICONTROL についてで確認できます]**。 |
+| ワークスペース の Analytics for Target パネル | 2020 年 6 月 26 日 | Analytics for Target（A4T）パネルを使用すると、Analysis Workspace で上昇率と信頼性を使用して Adobe Target のアクティビティとエクスペリエンスを分析できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
+| [!UICONTROL Workspace について]ページ | 2020 年 6 月 19 日 | [!UICONTROL Workspace について]ページには、Analysis Workspace 環境や Adobe Analytics 管理者（サポートが必要な場合）に関する情報、および製品内でフィードバックを提供する方法が記載されています。**[!UICONTROL Workspace]**／**[!UICONTROL ヘルプ]**／**[!UICONTROL Workspace について]**&#x200B;で確認できます。 |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- |-----|
-| オブジェクト配列のサポート | 2020 年 6 月 19 日 | CJAのお客様は、Adobe Experience Platformデータセットスキーマ内のオブジェクト配列に表示されるディメンションと指標についてレポートできるようになりました。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-usecases/object-arrays.html) |
-| Attribution IQ：[!UICONTROL アルゴリズムアトリビューション] | 2020 年 6 月 19 日 | [!UICONTROL Analysis Workspace] の [!UICONTROL アルゴリズムアトリビューション]モデルでは、統計的手法を使用して、選択した指標に対するクレジットの最適な配分を動的に決定します。Adobe Trast Ultimateのお客様が利用できます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/algorithmic.html) |
-| Attribution IQ：カスタムルックバックウィンドウ | 2020 年 6 月 19 日 | [!UICONTROL Attribution IQ] で任意のアトリビューションモデルを設定して、レポート期間の最大 90 日前のタッチポイントを含められるようになりました。これにより、通常、前月（または過去数か月）に発生したインタラクションを考慮することで、レポートの初期に発生するイベントのアトリビューション精度を高めます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/models.html) |
-| 共有 [!UICONTROL Workspace] プロジェクトのプロジェクトロール | 2020 年 6 月 19 日 | [!UICONTROL Workspace] プロジェクトを共有する際は、受信者を、使用するプロジェクトエクスペリエンスに応じて、編集、複製、表示の 3 つのプロジェクトの役割のいずれかに受信者を配置できるようになりました。[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
-| 表示専用 [!UICONTROL Workspace] プロジェクト | 2020 年 6 月 19 日 | [!UICONTROL Workspace] プロジェクトは、「_[!UICONTROL 表示可能]_」としてのみユーザーに共有できます。「表示」受信者が共有プロジェクトを開くと、左側のパネルが表示されず、操作が制限された状態となる、より制限が厳格なプロジェクトエクスペリエンスが提供されます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/view-only-projects.html) |
-| [!UICONTROL Workspace] プロジェクトを共同編集できる機能 | 2020 年 6 月 19 日 | _[!UICONTROL 編集可能]_ 役割に追加された受信者は、それらのユーザーと共有されているプロジェクトを上書き保存できます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
-| [!UICONTROL Workspace] のクイックインサイトパネル | 2020 年 6 月 26 日 | クイックインサイトは、[!UICONTROL Analysis Workspace] のアナリスト以外のユーザーと新規ユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/panels/quickinsight.html) |
-| [!UICONTROL Workspace] ページについて | 18,2020 年 6 月 | Workspace [!UICONTROL について] ページには、Analysis Workspace環境、AdobeAnalytics管理者（サポートが必要な場合）に関する情報、および製品内のフィードバックを提供する方法が記載されています。 これは、 **[!UICONTROL Workspace]** / **[!UICONTROL Help]** /Workspace **[!UICONTROL についてで確認できます]**。 |
+| オブジェクト配列のサポート | 2020 年 6 月 19 日 | CJA のお客様は、Adobe Experience Platform データセットスキーマ内のオブジェクト配列に表示されるディメンションと指標についてレポートできるようになりました。[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-usecases/object-arrays.html) |
+| Attribution IQ：[!UICONTROL アルゴリズムアトリビューション] | 2020 年 6 月 19 日 | [!UICONTROL Analysis Workspace] の [!UICONTROL アルゴリズムアトリビューション]モデルでは、統計的手法を使用して、選択した指標に対するクレジットの最適な配分を動的に決定します。Adobe Analytics Ultimate のお客様が利用できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-workspace/attribution/algorithmic.html) |
+| Attribution IQ：カスタムルックバックウィンドウ | 2020 年 6 月 19 日 | [!UICONTROL Attribution IQ] で任意のアトリビューションモデルを設定して、レポート期間の最大 90 日前のタッチポイントを含められるようになりました。これにより、通常、前月（または過去数か月）に発生したインタラクションを考慮することで、レポートの初期に発生するイベントのアトリビューション精度を高めます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-workspace/attribution/models.html) |
+| 共有 [!UICONTROL Workspace] プロジェクトのプロジェクトロール | 2020 年 6 月 19 日 | [!UICONTROL Workspace] プロジェクトを共有する際は、受信者を、使用するプロジェクトエクスペリエンスに応じて、編集、複製、表示の 3 つのプロジェクトの役割のいずれかに受信者を配置できるようになりました。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
+| 表示専用 [!UICONTROL Workspace] プロジェクト | 2020 年 6 月 19 日 | [!UICONTROL Workspace] プロジェクトは、「_[!UICONTROL 表示可能]_」としてのみユーザーに共有できます。「表示」受信者が共有プロジェクトを開くと、左側のパネルが表示されず、操作が制限された状態となる、より制限が厳格なプロジェクトエクスペリエンスが提供されます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-workspace/curate-share/view-only-projects.html) |
+| [!UICONTROL Workspace] プロジェクトを共同編集できる機能 | 2020 年 6 月 19 日 | _[!UICONTROL 編集可能]_ 役割に追加された受信者は、それらのユーザーと共有されているプロジェクトを上書き保存できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-workspace/curate-share/share-projects.html) |
+| [!UICONTROL Workspace] のクイックインサイトパネル | 2020 年 6 月 26 日 | クイックインサイトは、[!UICONTROL Analysis Workspace] のアナリスト以外のユーザーと新規ユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-workspace/panels/quickinsight.html) |
+| [!UICONTROL Workspace について]ページ | 2020 年 6 月 19 日 | [!UICONTROL Workspace について]ページには、Analysis Workspace 環境や Adobe Analytics 管理者（サポートが必要な場合）に関する情報、および製品内でフィードバックを提供する方法が記載されています。**[!UICONTROL Workspace]**／**[!UICONTROL ヘルプ]**／**[!UICONTROL Workspace について]**&#x200B;で確認できます。 |
 
 <!-->Support for [!UICONTROL Anomaly Detection] - July ??, 2020 - [!UICONTROL Anomaly Detection] provides a statistical method to determine how a given metric has changed in relation to previous data. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html)<-->
 
 ### [!UICONTROL Media Analytics] の新機能です {#media-aa}
 
-更新日： **2020年6月18日**
+更新日：**2020 年 6 月 19 日**
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- | ---------- |
-| [サポートされるデバイスとプラットフォーム](https://docs.adobe.com/content/help/en/media-analytics/using/supported-devices.html) | 2020 年 6 月 19 日 | AEP SDKを含むメディア起動拡張で、以下のOTTデバイスがサポートされるようになりました。<ul><li>Apple TV（tvOS）</li><li>Fire TV（Fire OS）</li><li>Android TV</li></ul> |  | [サポートされるデバイスとプラットフォーム](https://docs.adobe.com/content/help/en/media-analytics/using/supported-devices.html) | 2020 年 6 月 19 日 | AEP SDKを含むメディア起動拡張で、以下のOTTデバイスがサポートされるようになりました。<ul><li>Apple TV（tvOS）</li><li>Fire TV（Fire OS）</li><li>Android TV</li></ul> |
-| [プレーヤーステートトラッキング](https://docs.adobe.com/content/help/ja-JP/media-analytics/using/player-state-tracking/player-state-overview.html) | 2020 年 5 月 30 日 | [!UICONTROL メディアAnalytics] のお客様は、フルスクリーン、クローズドキャプション、ミュート、ピクチャインピクチャ、インフォーカスの標準的なソリューション変数のセットを使用して、再生中のビューアのインタラクションをキャプチャできます。 また、カスタムプレーヤー状態を柔軟に作成することもできます。[!UICONTROL Analysis Workspace] のレポートで、プレイヤー状態追跡変数を使用できるようになりました。この機能を使用するには、次のいずれかが必要です。 <ul><li>Media [!DNL JavaScript] SDK 3.0 以降</li><li>[!DNL Adobe Experience Platform]（AEP）SDK で使用する場合：</li><li>[!UICONTROL Media Analytics 拡張機能]（Web 用）：[!UICONTROL Adobe Media Analytics]（3.x SDK）for Audio および Adobe Media Analytics for Video v1.0 以降</li><li>[!UICONTROL Media Analytics Extension]（モバイル用）：[!UICONTROL Adobe Media Analytics for Audio] および Adobe Media Analytics for Video v2.0 以降</li><li>[!UICONTROL メディアコレクション]</li></ul> |
+| [サポートされるデバイスとプラットフォーム](https://docs.adobe.com/content/help/ja-JP/media-analytics/using/supported-devices.html) | 2020 年 6 月 19 日 | AEP SDK を含むメディア Launch 拡張機能で、以下の OTT デバイスがサポートされるようになりました。<ul><li>Apple TV（tvOS）</li><li>Fire TV（Fire OS）</li><li>Android TV</li></ul> |  | [サポートされるデバイスとプラットフォーム](https://docs.adobe.com/content/help/ja-JP/media-analytics/using/supported-devices.html) | 2020 年 6 月 19 日 | AEP SDK を含むメディア Launch 拡張機能で、以下の OTT デバイスがサポートされるようになりました。<ul><li>Apple TV（tvOS）</li><li>Fire TV（Fire OS）</li><li>Android TV</li></ul> |
+| [プレーヤーステートトラッキング](https://docs.adobe.com/content/help/ja-JP/media-analytics/using/player-state-tracking/player-state-overview.html) | 2020 年 5 月 30 日 | [!UICONTROL Media Analytics] のお客様は、標準的なソリューション変数のセット（フルスクリーン、クローズドキャプション、ミュート、ピクチャインピクチャ、インフォーカス）を使用して、再生中の閲覧者のインタラクションをキャプチャできます。また、カスタムプレーヤー状態を柔軟に作成することもできます。[!UICONTROL Analysis Workspace] のレポートで、プレイヤー状態追跡変数を使用できるようになりました。この機能を使用するには、次のいずれかが必要です。 <ul><li>Media [!DNL JavaScript] SDK 3.0 以降</li><li>[!DNL Adobe Experience Platform]（AEP）SDK で使用する場合：</li><li>[!UICONTROL Media Analytics 拡張機能]（Web 用）：[!UICONTROL Adobe Media Analytics]（3.x SDK）for Audio および Adobe Media Analytics for Video v1.0 以降</li><li>[!UICONTROL Media Analytics Extension]（モバイル用）：[!UICONTROL Adobe Media Analytics for Audio] および Adobe Media Analytics for Video v2.0 以降</li><li>[!UICONTROL メディアコレクション]</li></ul> |
 
 ### Adobe Analytics の修正点 {#aa-fixes}
 
@@ -225,7 +225,7 @@ AN-218269、AN-218455、AN-218492、AN-219888、AN-220447、AN-220546、AN-22078
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to allowlist `omniture.com` as a third-party cookie. アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。すると、この許可リストの手順は不要になります。許可リストに登録する必要のある推奨 IP アドレスとドメインの完全なリストは、[こちら](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html)をご覧ください。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
+| 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。Adobe Analytics はアーキテクチャからすべての `omniture.com` ドメイン参照を削除しますが、サードパーティ Cookie として許可リスト `omniture.com` を作成することが重要です。アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。すると、この許可リストの手順は不要になります。許可リストに登録する必要のある推奨 IP アドレスとドメインの完全なリストは、[こちら](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html)をご覧ください。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
 | 新しい Adobe Analytics のデフォルトランディングページ | 発効日：2020 年 6 月 19 日 | 2020 年 6 月 19 日に、Adobe Analytics のデフォルトのランディングページが[!UICONTROL レポート]から [!UICONTROL ワークスペース] に変更されます。この変更は、過去にカスタムランディングページを設定していないユーザーに対して適用されます。 |
 | サードパーティのテクノロジー許可リスト | 2020 年 3 月 13 日（発効日） | Adobe Analytics は、サードパーティのテクノロジーを活用して、機能のロールアウト管理と製品内サポートを開始しました。すべての機能にアクセスできるよう、必要なネットワークファイアウォールの許可リストに、次の URL を追加する必要があります。<ul><li>Gainsight：https://esp.aptrinsic.com</li><li>LaunchDarkly：https://app.launchdarkly.com</li></ul> |
 | [!UICONTROL Analysis Workspace] の可用性に対する冗長性の向上 | 2020 年 5 月 22 日 | [!UICONTROL Analysis Workspace] の可用性を確保するために、セカンダリ CDN（コンテンツ配信ネットワーク）を追加し、冗長性を高めます。必要なネットワークファイアウォールの許可リストに、次の URL を追加する必要があります。<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
@@ -256,7 +256,7 @@ Analytics と Customer Journey Analytics の新しいコース、チュートリ
 * [Adobe Analytics チュートリアル](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html)
 * [Adobe Analytics 製品ドキュメント](https://docs.adobe.com/content/help/ja-JP/analytics/landing/home.html)
 
-## ![Icon](/assets/audience-manager.png) Adobe Audience Manager {#aam}
+## ![アイコン](/assets/audience-manager.png) Adobe Audience Manager {#aam}
 
 Audience Manager の新機能、修正点、ドキュメントおよびチュートリアルです。
 
@@ -302,7 +302,7 @@ Audience Manager では、エクスペリエンスを向上し、他の Experien
 | [Audience Manager での ID の概要](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/intro-to-audience-manager/introduction-to-identity-in-audience-manager.html) | ビデオチュートリアル | 内部プロファイルやプロファイルの結合、パートナーとの ID 同期など、Adobe Audience Manager による ID の管理方法について説明します。 |
 | [LinkedIn の人ベースの宛先の概要と設定](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.html) | コース | このビデオでは、LinkedIn への人ベースの宛先を作成するための概念と手順について説明します。人ベースの宛先に関する追加のビデオおよびドキュメントを基に構築されます。 |
 | [ルールに基づく特性の作成](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/creating-rule-based-traits.html) | ビデオチュートリアル | Audience Managerインターフェイスの [!UICONTROL 特性ビルダー]を使用してルールベースの特性を作成し、リアルタイムのアクティビティを Audience Manager プロファイルに取り込む方法について説明します。 |
-| [IAB TCF 用 Audience Manager プラグインの有効化](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/setup-and-admin/data-governance-and-privacy/iab-tcf-support.html#enabling-iab-tcf) | ビデオチュートリアル | IAB TCF 用 Audience Manager プラグインを有効にする方法について説明します。Adobe Experience Platform Launch を使用している場合は、このプラグインは簡単に有効化できます。 |
+| [IAB TCF 2.0 用 Audience Manager プラグインの有効化](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/setup-and-admin/data-governance-and-privacy/iab-tcf-support.html#enabling-iab-tcf) | ビデオチュートリアル | IAB TCF 用 Audience Manager プラグインを有効にする方法について説明します。Adobe Experience Platform Launch を使用している場合は、このプラグインは簡単に有効化できます。 |
 | [IAB TCF 2.0 用 Audience Manager プラグインのデモ](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/setup-and-admin/data-governance-and-privacy/iab-tcf-support.html#demo) | ビデオチュートリアル | このビデオでは、Experience Cloud ID サービスおよびソリューションの cookie とビーコンが、IAB ユーザーによる選択の影響を受けるしくみについて説明します。 |
 
 ## ![アイコン](/assets/aem.png) Adobe Experience Manager {#aem}
@@ -357,7 +357,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * **コアコンポーネント**
 
-   Core Components 2.9.0 introduces integration with the [Adobe Client Data Layer](https://github.com/adobe/adobe-client-data-layer) and a new Progress Bar Component and is now available along with [authoring documentation](https://docs.adobe.com/content/help/ja-JP/experience-manager-core-components/using/introduction.html) and [developer details and project download available on GitHub](https://github.com/adobe/aem-core-wcm-components).
+   コアコンポーネント 2.9.0 では、[Adobe Client Data Layer](https://github.com/adobe/adobe-client-data-layer) と新しいプログレスバーコンポーネントの統合を導入し、[オーサリングドキュメント](https://docs.adobe.com/content/help/ja-JP/experience-manager-core-components/using/introduction.html)および [GitHub で入手可能な オーサリングドキュメント開発者の詳細](https://github.com/adobe/aem-core-wcm-components)とともにリリースしました。
 
 * **AEM as a Cloud Service への移行**
 
@@ -432,25 +432,25 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 Adobe Campaign は、オンラインおよびオフラインのマーケティングチャネルにわたって 1 対 1 のメッセージを届けるために直感的で自動化された方法を提供します。顧客の習慣や好みによって特定されたエクスペリエンスを利用して、顧客が欲しいものを予測できるようになりました。
 
-### 新製品リリース
+### 新しい製品リリース
 
-[Adobe Campaignクラシック20.2リリースには](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html) 、次の機能が含まれます。
+[Adobe Campaign Classic 20.2 リリース](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html)には、以下が含まれます：
 
-* _絵文字のサポート_ - _Azure SynapseFDAコネクタ_ - _新しいプライバシー規制_
-* キャンペーンコントロールパネル： [アクティブなプロファイル監視](https://docs.adobe.com/content/help/ja-JP/control-panel/using/performance-monitoring/active-profiles-monitoring.html)
+* _絵文字のサポート_ - _Azure Synapse FDA コネクタ_ - _新しいプライバシー規制_
+* キャンペーンコントロールパネル：[アクティブなプロファイル監視](https://docs.adobe.com/content/help/ja-JP/control-panel/using/performance-monitoring/active-profiles-monitoring.html)
 
 ### 新しい Campaign コースとチュートリアル
 
 | コンテンツ | コンテンツタイプ | 説明 |
 | -----------| ---------- | ---------- |  
 | [Adobe Campaign Standard の概要（ビジネスユーザー向け）](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2020.1.standard) | コース | インターフェイスをナビゲート、配信を操作、受信者データを作成および管理する方法について説明します。 |
-| [Adobe Campaign クライアントのインストールとセットアップ](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2020.1.standard) | Video | Adobe Campaignクライアントコンソールをダウンロードしてインストールし、複数の環境への接続を作成して管理し、Adobe Campaignクライアントコンソールへのアクセスを確認する方法を説明します。 |
+| [Adobe Campaign クライアントのインストールとセットアップ](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2020.1.standard) | ビデオ | Adobe Campaign クライアントコンソールをダウンロードしてインストールする方法、複数の環境への接続を作成して管理する方法、および Adobe Campaign クライアントコンソールへのアクセスの検証方法について説明します。 |
 
 ### ヘルプリソース
 
 * Adobe Campaign Standard：[ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/overview.html) - [リリース計画](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-planning.html) - [最新ドキュメントの更新](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic：[ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/campaign-classic-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html) - [最新ドキュメントの更新](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/documentation-updates.html)
-* Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/control-panel/using/release-notes.html) - [Campaign Standard](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html) のハウツービデオ
+* Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/control-panel/using/release-notes.html)- [Campaign Standard](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html) のハウツービデオ
 
 ## ![アイコン](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
@@ -459,29 +459,29 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### Advertising Cloud DSP の新機能 {#adcloud-dsp}
 
-Updated **June 23, 2020**
+更新日：**2020 年 6 月 24 日**
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| ドメインの移行 | （6月22日リリース）Advertising CloudDSPは、https://www.tubemogul.comからhttps://advertising.adobe.comに移行しました [](https://advertising.adobe.com)。 |
-| Adobe Analytics の統合 | （6月18日リリース）DSPで、DSPがAnalyticsに送信するデータからAMOコスト指標をオプションで抑制できるようになりました。 指標を表示しない場合は、アドビのアカウントマネージャーにお問い合わせください。 |
-| 人物ベースのデバイスグラフ | （6月22日リリース）セルフサービスのDSPのお客様は、新しいキャンペーンにわたって、ユーザーベースのターゲティングと頻度管理を行う際に、デバイスグラフ（Adobe Experience Cloud Device Co-opまたはLiveRamp）を利用できるようになりました。 これにより、所有するデバイス間でオーディエンスに到達でき、ユーザーの広告公開を制限できます。 |
-| CCPAオプトアウトオブセール | （6月22日リリース）新しいCCPAオプトアウトオブセールセグメントを使用して、CCPAオプトアウトオブセールの要求をAdvertising Cloudに伝えることができるようになりました。このセグメントは、 [!UICONTROL オーディエンス/セグメントから作成できます]。 また、Advertising Cloud取引APIを使用して、顧客がアカウントaに対してオプトアウト販売のリクエストとして送信したIDの月別レポートを [!UICONTROL オーディエンス/セグメント] (b)から取得できます。 詳しくは、https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.htmlを参照してください。 |
-| DoubleVerify Authentic Brand Safety | （6月22日リリース）広告主は、包括的なブランド安全フィルターを使用して、DoubleVerifyを使用した入札後のブロックルールを模倣できる、単一のDoubleVerifyセグメントID事前入札をターゲットできるようになりました。 これは、 [!UICONTROL 設定/広告主で、広告主設定の「メディアの質をターゲットにする」セクションで行えるようにな]りました。 このサービスについて詳しくは、programmaticsales@doubleverify.comにお問い合わせください。 この機能には追加料金が適用されます。 |
-| CPA/ROAS の最適化 | （5 月 20 日リリース）Campaign 管理者は、予算の割り当て超過を防ぐために、パッケージ内の新しい配置を制限する必要がなくなりました。プレースメントには、CPMまたはCPA/ROASのパフォーマンスに基づく動的な予算配分が適用されるようになりました。 |
+| ドメインの移行 | （6 月 23 日リリース）Advertising Cloud DSP は、https://www.tubemogul.com から [https://advertising.adobe.com](https://advertising.adobe.com) に移行されました。 |
+| Adobe Analytics の統合 | （6 月 19 日リリース）オプションとして、DSP で、Analytics に送信するデータから AMO コスト指標を抑制できるようになりました。指標を抑制しない場合は、アドビのアカウントマネージャーにお問い合わせください。 |
+| 人ベースのデバイスグラフ | （6 月 23 日リリース）セルフサービス DSP のお客様は、任意の新しいキャンペーンをまたいでユーザーベースのターゲティングと頻度管理をおこなう際に、デバイスグラフ（Adobe Experience Cloud Device Co-op または LiveRamp）を利用できるようになりました。これにより、所有するデバイス間でオーディエンスに到達して、ユーザーの広告公開を制限できます。 |
+| CCPA オプトアウトオブセール | （6 月 23 日リリース）新しい CCPA オプトアウトオブセールセグメントを使用して、CCPA オプトアウトオブセールの要求を Advertising Cloud に伝えられるようになりました。このセグメントは、[!UICONTROL オーディエンス／セグメント]から作成できます。また、a）[!UICONTROL オーディエンス／セグメント]から、または b）Advertising Cloud トラフィック指定 API を使用して、顧客がアカウントに対してオプトアウトオブセールのリクエストとして送信した ID の月別レポートを取得できます。詳しくは、https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html を参照してください。 |
+| DoubleVerify Authentic Brand Safety | （6 月 23 日リリース）広告主は、DoubleVerify での入札後のブロックルールを模倣できる包括的な Brand Safety フィルターを使用して、入札前に単一の DoubleVerify セグメント ID をターゲットに設定できるようになりました。これは、[!UICONTROL 設定／広告主]で、広告主設定の「メディア品質のターゲティング」セクションでおこなえるようになりました。このサービスについて詳しくは、programmaticsales@doubleverify.com にお問い合わせください。この機能には追加料金が適用されます。 |
+| CPA/ROAS の最適化 | （5 月 20 日リリース）Campaign 管理者は、予算の割り当て超過を防ぐために、パッケージ内の新しい配置を制限する必要がなくなりました。配置には、CPM または CPA／ROAS のパフォーマンスに基づいた動的な予算配分が適用されるようになりました。 |
 | [!UICONTROL Campaign] ホーム | （6 月 3 日リリース）提供されたキャンペーン予算と経過時間に基づいた、新しいキャンペーンレベルのペーシング指標を利用できます。 |
-| [!UICONTROL 配置] | （6月22日リリース）サイトの多様性とプレイヤーのサイズのフィルターが削除され、配置のセットアップが簡単になりました。 |
+| [!UICONTROL 配置] | （6 月 23 日リリース）サイトの多様性とプレイヤーのサイズのフィルターが削除され、配置の設定が簡単になりました。 |
 | 配置の予測 | （6 月 3 日リリース）配置レベルで最適化をおこなう CTV およびビデオ配置の場合、配置設定に複数の広告の長さ（15 秒および 30 秒）の予測が含まれるようになりました。また、VAST と VPAID の両方の在庫に対する予測も含まれます。 |
-| [!UICONTROL 在庫] | （6月22日のベータリリース）新しいディールIDフォームを使用すると、既にネゴシエートした個人取引をすばやく設定できます。 |
-|  | （6月22日ベータ版リリース）VASTインベントリでインタラクティブプリロールが利用できるようになりました。 単一のインタラクティブプリロール広告と配置を設定して、広告と配置の数を減らすことができます。 |
-| ACTVオーディエンスレンズ | （6月18日リリース）オーディエンスレンズを使用すると、計画、注文、レポートワークフローに二次オーディエンスの読み取りを作成し、適用できます。 これにより、(1)セカンダリオーディエンスに対する迅速な洞察を得ることができ、(2)好みのオーディエンス上で取引する柔軟性を持ち、(3)複数のオーディエンスの「レンズ」を通してキャンペーンの実行を測定することができます。 |
+| [!UICONTROL 在庫] | （6 月 23 日のベータリリース）新しい取引 ID フォームを使用すると、既にネゴシエート済みの個人取引をすばやく設定できます。 |
+|  | （6 月 23 日ベータ版リリース）VAST インベントリでインタラクティブプリロールを利用できるようになりました。単一のインタラクティブプリロール広告と配置を設定して、広告と配置の数を減らすことができます。 |
+| ACTV オーディエンスレンズ | （6 月 19 日リリース）オーディエンスレンズを使用すると、セカンダリオーディエンスの読み取りを作成して、計画、注文、レポートワークフローに適用できます。これにより、（1）セカンダリオーディエンスに対する迅速なインサイトを得て、（2）希望するオーディエンス上で柔軟に取引し、（3）複数のオーディエンスの「レンズ」を通してキャンペーンの実行を測定することができます。 |
 
 ### [!UICONTROL Advertising Cloud Search] の新機能 {#adcloud-search}
 
 | 機能 | 説明 |
 | -----------| ---------- |
 | [!UICONTROL Campaigns] | Microsoft Advertising（旧称 Bing Ads）では、2020 年 10 月 1 日以降、平均順位指標は非推奨となります。これに備え、7 月 11 日から位置に基づく制約は無視され、すべてのタイプの制約で、位置に基づく条件が無視されるようになります。 |
-| [!UICONTROL 広告インサイト] | （6 月 13 日リリース）次のインサイトが削除されました。<br/><br/><ul><li>Audience Target のパフォーマンス（新しいバージョン）</li><li>過去のパフォーマンス（新しいバージョン）</li><li>一致タイプ（新しいバージョン）</li><li>監査の設定（新しいバージョン）</li><li>ポートフォリオの事前投稿（レガシー）</li></ul><br/>残りのインサイトは従来のバージョンで、「_レガシー_」ラベルは名前から削除されました。さらに、ライブ／編集モードが削除されました。 |
+| [!UICONTROL 広告インサイト] | （6 月 14 日リリース）次のインサイトが削除されました。<br/><br/><ul><li>Audience Target のパフォーマンス（新しいバージョン）</li><li>過去のパフォーマンス（新しいバージョン）</li><li>一致タイプ（新しいバージョン）</li><li>監査の設定（新しいバージョン）</li><li>ポートフォリオの事前投稿（レガシー）</li></ul><br/>残りのインサイトは従来のバージョンで、「_レガシー_」ラベルは名前から削除されました。さらに、ライブ／編集モードが削除されました。 |
 
 ## ![アイコン](/assets/magento.png) [!DNL Magento] {#magento}
 
