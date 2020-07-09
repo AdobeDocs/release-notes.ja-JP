@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: efd848cda1046613c889825fff57b868b67e1c80
 workflow-type: tm+mt
 source-wordcount: '7021'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -104,7 +104,7 @@ Experience Cloud インターフェイスに対する一般的なアップデー
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
-[!DNL Experience Platform] およびアプリケーションサービスのリリースノート（[!DNL Experience Platform Launch,] [!UICONTROL 、Offers]、[!UICONTROL People]、[!UICONTROL Places]、[!UICONTROL Mobile Services]、およびセキュリティ速報を含む）。
+[!DNL Experience Platform] およびアプリケーションサービスのリリースノート（[!DNL Experience Platform Launch,] [!UICONTROL Offers]、[!UICONTROL People]、[!UICONTROL Places]、[!UICONTROL Mobile Services]、およびセキュリティ速報を含む）。
 
 リリース日：**2020 年 6 月 10 日**
 
@@ -151,7 +151,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 ## ![アイコン](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-リリース日：**2020 年 6 月 18 日**
+リリース日：**2020 年 6 月 19 日**
 
 * [Adobe Analytics の新機能](#aa-features)
 * [Customer Journey Analytics の新機能](#cust-journey)
@@ -173,7 +173,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | Workspace の空白パネルの更新 | 2020 年 6 月 19 日 | Workspace の空白パネルにパネルとビジュアライゼーションが追加され、最適な分析ワークフローを、よりシームレスに選択できるようになりました。 |
 | 中国で使用可能なファーストパーティドメイン | 2020 年 6 月 19 日 | `.cn` ドメインを持つお客様が、中国本土内での使用をファーストパーティドメインにリクエストできるようになります。（中国のパフォーマンス最適化 SKU の購入に関するドキュメント） |
 | Workspace のクイックインサイトパネル | 2020 年 6 月 26 日 | クイックインサイトは、Analysis Workspace のアナリスト以外のユーザーと新規ユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/panels/quickinsight.html) |
-| ワークスペース の Analytics for Target パネル | 2020 年 6 月 26 日 | Analytics for Target（A4T）パネルを使用すると、Analysis Workspace で上昇率と信頼性を使用して Adobe Target のアクティビティとエクスペリエンスを分析できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
+| Workspace の Analytics for Target パネル | 2020 年 6 月 26 日 | Analytics for Target（A4T）パネルを使用すると、Analysis Workspace で上昇率と信頼性を使用して Adobe Target のアクティビティとエクスペリエンスを分析できます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/panels/a4t-panel.html) |
 | [!UICONTROL Workspace について]ページ | 2020 年 6 月 19 日 | [!UICONTROL Workspace について]ページには、Analysis Workspace 環境や Adobe Analytics 管理者（サポートが必要な場合）に関する情報、および製品内でフィードバックを提供する方法が記載されています。**[!UICONTROL Workspace]**／**[!UICONTROL ヘルプ]**／**[!UICONTROL Workspace について]**&#x200B;で確認できます。 |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
@@ -226,10 +226,10 @@ AN-218269、AN-218455、AN-218492、AN-219888、AN-220447、AN-220546、AN-22078
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
 | 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。Adobe Analytics はアーキテクチャからすべての `omniture.com` ドメイン参照を削除しますが、サードパーティ Cookie として許可リスト `omniture.com` を作成することが重要です。アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。すると、この許可リストの手順は不要になります。許可リストに登録する必要のある推奨 IP アドレスとドメインの完全なリストは、[こちら](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html)をご覧ください。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
-| 新しい Adobe Analytics のデフォルトランディングページ | 発効日：2020 年 6 月 19 日 | 2020 年 6 月 19 日に、Adobe Analytics のデフォルトのランディングページが[!UICONTROL レポート]から [!UICONTROL ワークスペース] に変更されます。この変更は、過去にカスタムランディングページを設定していないユーザーに対して適用されます。 |
+| 新しい Adobe Analytics のデフォルトランディングページ | 発効日：2020 年 6 月 19 日 | 2020 年 6 月 19 日に、Adobe Analytics のデフォルトのランディングページが[!UICONTROL レポート]から [!UICONTROL Workspace] に変更されます。この変更は、過去にカスタムランディングページを設定していないユーザーに対して適用されます。 |
 | サードパーティのテクノロジー許可リスト | 2020 年 3 月 13 日（発効日） | Adobe Analytics は、サードパーティのテクノロジーを活用して、機能のロールアウト管理と製品内サポートを開始しました。すべての機能にアクセスできるよう、必要なネットワークファイアウォールの許可リストに、次の URL を追加する必要があります。<ul><li>Gainsight：https://esp.aptrinsic.com</li><li>LaunchDarkly：https://app.launchdarkly.com</li></ul> |
 | [!UICONTROL Analysis Workspace] の可用性に対する冗長性の向上 | 2020 年 5 月 22 日 | [!UICONTROL Analysis Workspace] の可用性を確保するために、セカンダリ CDN（コンテンツ配信ネットワーク）を追加し、冗長性を高めます。必要なネットワークファイアウォールの許可リストに、次の URL を追加する必要があります。<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
-| [!UICONTROL ワークスペース] での[!UICONTROL 入口／出口]の計算方法の変更 | 2020 年 4 月 8 日 | 2020 年 3 月の時点で、[!UICONTROL Analysis Workspace] における「_なし_」の値と[!UICONTROL 入口／出口]との相互作用を変更しました。[!UICONTROL Analysis Workspace] で「_なし_」をオン／オフにできるようになったので、入口または出口の後に「_なし_」を適用します。（eVar の場合）以前は、これらの前に適用されていました。例えば、訪問の最初のヒットに eVar の値がないが、2 回目のヒットに eVar の値があるとします。[!UICONTROL Reports &amp; Analytics] では、最初のヒットがそのエントリに対して「_未指定_」と表示されますが、[!UICONTROL Analysis Workspace] では 2 回目のヒットの値が表示されます。 |
+| [!UICONTROL Workspace] での[!UICONTROL 入口／出口]の計算方法の変更 | 2020 年 4 月 8 日 | 2020 年 3 月の時点で、[!UICONTROL Analysis Workspace] における「_なし_」の値と[!UICONTROL 入口／出口]との相互作用を変更しました。[!UICONTROL Analysis Workspace] で「_なし_」をオン／オフにできるようになったので、入口または出口の後に「_なし_」を適用します。（eVar の場合）以前は、これらの前に適用されていました。例えば、訪問の最初のヒットに eVar の値がないが、2 回目のヒットに eVar の値があるとします。[!UICONTROL Reports &amp; Analytics] では、最初のヒットがそのエントリに対して「_未指定_」と表示されますが、[!UICONTROL Analysis Workspace] では 2 回目のヒットの値が表示されます。 |
 | **[!UICONTROL ダッシュボードアーカイブ]**&#x200B;のサービス終了 | 2020 年 3 月 28 日 | [!UICONTROL Reports &amp; Analytics] の「**[!UICONTROL ダッシュボードを管理]**」の「**[!UICONTROL アーカイブを表示]**」設定は、2020 年 10 月から使用できなくなります。 |
 | 提供終了 - Analytics レガシー API | 2020 年 1 月 10 日 | 2020 年 11 月に、以下の Analytics レガシー API サービスが提供終了となり、シャットダウンされます。これらのサービスを使用して構築された現在の統合は機能しなくなります。 <ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>ご質問に対する回答と進め方に関するガイダンスを提供するために、[従来の API EOL の FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe IO](https://console.adobe.io/home?mv=email) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API の両方にアクセスするために使用できます。 |
 | サンノゼ FTP 連携機能の終了 | 2020 年 7 月 | ロンドンおよびシンガポールデータセンターをご利用のお客様に対し、サンノゼデータセンター [ftp.omniture.com](ftp://ftp.omniture.com/) からロンドンまたはシンガポールへの、データ連携機能の提供を終了します。ftp.omniture.com をご利用中のお客様は、今後、次の FTP を使用してください。<br/><ul><li>ロンドンのお客様：[ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>シンガポールのお客様：[ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul> |
@@ -253,7 +253,7 @@ Analytics と Customer Journey Analytics の新しいコース、チュートリ
 
 #### AppMeasurement {#appm}
 
-AppMeasurementリリースの最新の更新については、AppMeasurement for JavaScriptリリースノートを参照して [ください](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/appmeasurement-updates.html)。
+AppMeasurement リリースの最新の更新については、[AppMeasurement for JavaScript リリースノート](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/appmeasurement-updates.html)を参照してください。
 
 #### Analytics ヘルプリソース
 
@@ -324,7 +324,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * **AEM 6.4.8.1**
 
-   AEM 6.4、Service Pack 8、Cumulative Fix Pack （2020 年 6 月 4 日リリース）は重要なアップデートです。2020 年 3 月の AEM 6.4、Service Pack 8（6.4.8.0）の一般リリース以降におこなわれた複数の内部修正やお客様向けの修正が含まれています。
+   AEM 6.4、Service Pack 8、Cumulative Fix Pack （2020 年 6 月 5 日リリース）は重要なアップデートです。2020 年 3 月の AEM 6.4、Service Pack 8（6.4.8.0）の一般リリース以降におこなわれた複数の内部修正やお客様向けの修正が含まれています。
 
    * [リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-64/release-notes/cfp-release-notes.html)
    * [AEM Forms リリース成果物](https://helpx.adobe.com/jp/aem-forms/kb/aem-forms-releases.html)
@@ -345,10 +345,12 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
       * Cloud Manager のセルフサービスサンドボックスのサポートが強化され、権利を付与されたユーザーはサンドボックス内のすべての環境を削除してクレジットを受け取ることができるようになりました。
       * 自動休止サンドボックス環境は、無操作状態が続くと、自動的にサンドボックスを「休止」します。お客様は、「休止解除」を積極的にトリガーできます。
    * クラウドアクセラレーションをサポートするトランジションツール。
+
    オンプレミスから Cloud Service へのトランジションにかかる時間とコストを削減するため、今月 2 つのトランジションツールが立ち上げられました。これらのツールは、トランジションプロセス中の主要タスクの一部を自動化するように設計されており、結果として、全体的な作業を削減します。
 
    1. [コンテンツ転送ツール](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html)（SD で利用可能）を使用すると、コンテンツ転送アクティビティが効率化され、拡張性が向上します。ユーザーにわかりやすい UI を備えたこのツールは、既存のお客様およびパートナー（オンプレミス/AMS）が AEM as a Cloud Service に変換される既存の顧客やパートナー（オンプレミス／AMS）用のセルフサービスです。
    1. AMS Dispatcher 設定から Cloud Service Dispatcher 設定への変換を自動化する [AMS Dispatcher コンバーター](https://github.com/adobe/aem-cloud-service-dispatcher-converter)（オープンソース）ツール。
+
    [AEM as a Cloud Service 2020.6.0 のリリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
    トランジションツール：
@@ -467,7 +469,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 | -----------| ---------- |
 | ドメインの移行 | （6 月 23 日リリース）Advertising Cloud DSP は、https://www.tubemogul.com から [https://advertising.adobe.com](https://advertising.adobe.com) に移行されました。 |
 | Adobe Analytics の統合 | （6 月 19 日リリース）オプションとして、DSP で、Analytics に送信するデータから AMO コスト指標を抑制できるようになりました。指標を抑制しない場合は、アドビのアカウントマネージャーにお問い合わせください。 |
-| 人物ベースのデバイスグラフ | （6 月 23 日リリース）セルフサービス DSP のお客様は、任意の新しいキャンペーンをまたいでユーザーベースのターゲティングと頻度管理をおこなう際に、デバイスグラフ（Adobe Experience Cloud Device Co-op または LiveRamp）を利用できるようになりました。これにより、所有するデバイス間でオーディエンスに到達して、ユーザーの広告公開を制限できます。 |
+| 人ベースのデバイスグラフ | （6 月 23 日リリース）セルフサービス DSP のお客様は、任意の新しいキャンペーンをまたいでユーザーベースのターゲティングと頻度管理をおこなう際に、デバイスグラフ（Adobe Experience Cloud Device Co-op または LiveRamp）を利用できるようになりました。これにより、所有するデバイス間でオーディエンスに到達して、ユーザーの広告公開を制限できます。 |
 | CCPA オプトアウトオブセール | （6 月 23 日リリース）新しい CCPA オプトアウトオブセールセグメントを使用して、CCPA オプトアウトオブセールの要求を Advertising Cloud に伝えられるようになりました。このセグメントは、[!UICONTROL オーディエンス／セグメント]から作成できます。また、a）[!UICONTROL オーディエンス／セグメント]から、または b）Advertising Cloud トラフィック指定 API を使用して、顧客がアカウントに対してオプトアウトオブセールのリクエストとして送信した ID の月別レポートを取得できます。詳しくは、https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html を参照してください。 |
 | DoubleVerify Authentic Brand Safety | （6 月 23 日リリース）広告主は、DoubleVerify での入札後のブロックルールを模倣できる包括的な Brand Safety フィルターを使用して、入札前に単一の DoubleVerify セグメント ID をターゲットに設定できるようになりました。これは、[!UICONTROL 設定／広告主]で、広告主設定の「メディア品質のターゲティング」セクションでおこなえるようになりました。このサービスについて詳しくは、programmaticsales@doubleverify.com にお問い合わせください。この機能には追加料金が適用されます。 |
 | CPA/ROAS の最適化 | （5 月 20 日リリース）Campaign 管理者は、予算の割り当て超過を防ぐために、パッケージ内の新しい配置を制限する必要がなくなりました。配置には、CPM または CPA／ROAS のパフォーマンスに基づいた動的な予算配分が適用されるようになりました。 |
