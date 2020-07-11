@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c6a73c783440eeeedcb612a1ea898271766684b0
+source-git-commit: 65fea3351137d311bbda846058bea34284b0054e
 workflow-type: tm+mt
-source-wordcount: '4154'
+source-wordcount: '4205'
 ht-degree: 59%
 
 ---
@@ -35,7 +35,8 @@ ht-degree: 59%
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
-* [Journey Orchestration](#journey-orch)
+* [Experience Platform](#platform)
+* [ジャーニーオーケストレーション](#journey-orch)
 * [Analytics](#analytics) と [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -110,6 +111,14 @@ Experience Cloudでは、2020 **年7月16日** リリースでApplication Switch
 >[!NOTE]
 >
 >**[!UICONTROL ボードとコレクション]**（[!UICONTROL Experience Cloud Assets] セレクターのレガシーフィルター）は廃止されます。
+
+## ![アイコン](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
+
+[!DNL Experience Platform] およびアプリケーションサービスのリリースノート（[!DNL Experience Platform Launch,] [!UICONTROL Offers]、[!UICONTROL People]、[!UICONTROL Places]、[!UICONTROL Mobile Services]、およびセキュリティ速報を含む）。
+
+未更新最新のリリース日： **2020年6月10日**
+
+Experience Platformに関する最新情報については、 [Experience Platformリリースノート](https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md) を参照してください。
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
