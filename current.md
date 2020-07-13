@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 19591a3d807cd772df0eb20e457d94cc9f7d5cfb
+source-git-commit: 5022132f52411a07b6e91a8bc0d8da400464c143
 workflow-type: tm+mt
-source-wordcount: '4203'
-ht-degree: 59%
+source-wordcount: '4281'
+ht-degree: 58%
 
 ---
 
@@ -31,13 +31,13 @@ ht-degree: 59%
 
 製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
 
-最新の更新： **2020年7月10日**
+最新の更新： **2020年7月13日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
 * [ジャーニーオーケストレーション](#journey-orch)
-* [Analytics](#analytics) と [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) &amp; [Customer Journey Analytics](#cust-journey) （更新日2020年7月13日）
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -136,7 +136,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 * [Customer Journey Analytics の新機能](#cust-journey)
 * [Media Analytics](#media-aa) の新機能です。
 * [Adobe Analytics の修正点](#aa-fixes)
-* [Analytics 管理者向けの重要な注意事項](#aa-notices)
+* [Analytics 管理者向けの重要な注意事項](#aa-notices) (更新日：2020 年 7 月 13 日)
 * [新しい Adobe Analytics コースとチュートリアル](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -184,6 +184,7 @@ AN-222672、AN-222813; AN-222892; AN-223272、AN-223432、 AN-224062; AN-224108;
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
+| 提供終了： Adobe Data Connectors | 2020年7月13日 | Adobe Data Connectorsは、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。 Adobe Exchangeパートナープログラムには、引き続き提供およびサポートを希望する [統合に対して採用する新しい標準があります](https://partners.adobe.com/jp/exchangeprogram/experiencecloud) 。 正式な終了日はまだ決定していないが、今後12～18か月（2021年中旬～2021年末）になると予想している。 |
 | IMS組織へのレポートスイートのマッピング | 2020 年 7 月 | レポートスイートマッピングツールは2020年11月に廃止されます。 この機能は、広告AnalyticsやアドビAnalyticsでのExperience Cloudセグメント公開などの統合を強化します。 これらのサービスおよび他のサービスを有効にするには、レポートスイートをIMS組織にマッピングする必要があります。 新しいレポートスイートは、作成時に自動的にマッピングされます。 ただし、古いレポートスイートは、IMS組織に手動でマッピングする必要があります。 すべてのレポートスイートがIMS組織に属していることを確認するには、 [コアサービスユーザーガイドの「レポートスイートを組織にマップする](https://docs.adobe.com/content/help/ja-JP/core-services/interface/about-core-services/report-suite-mapping.html) 」を参照してください。 |
 | 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。Adobe Analytics はアーキテクチャからすべての `omniture.com` ドメイン参照を削除しますが、サードパーティ Cookie として許可リスト `omniture.com` を作成することが重要です。アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。すると、この許可リストの手順は不要になります。許可リストに登録する必要のある推奨 IP アドレスとドメインの完全なリストは、[こちら](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html)をご覧ください。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
 | 新しい Adobe Analytics のデフォルトランディングページ | 発効日：2020 年 6 月 19 日 | 2020 年 6 月 19 日に、Adobe Analytics のデフォルトのランディングページが[!UICONTROL レポート]から [!UICONTROL Workspace] に変更されます。この変更は、過去にカスタムランディングページを設定していないユーザーに対して適用されます。 |
