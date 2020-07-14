@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 079138eeaeb4a61ab892abaff66b15d51b751bf4
+source-git-commit: 985ec5f911f0cfa433e12abb5e55724dbecadb2e
 workflow-type: tm+mt
-source-wordcount: '4321'
-ht-degree: 58%
+source-wordcount: '4373'
+ht-degree: 57%
 
 ---
 
@@ -31,13 +31,13 @@ ht-degree: 58%
 
 製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
 
-最新の更新： **2020年7月13日**
+最新の更新： **2020年7月14日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
 * [ジャーニーオーケストレーション](#journey-orch)
-* [Analytics](#analytics) &amp; [Customer Journey Analytics](#cust-journey) （更新日2020年7月13日）
+* [Analytics](#analytics) &amp; [Customer Journey Analytics](#cust-journey) （更新日2020年7月14日）
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -145,7 +145,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- |-------|
 | ワークスペース： 新しい日付範囲プリセット | 4つの新しい日付範囲(_今週/月/四半期/年_ （今日を除く）が追加されました。これにより、今日の日付の一部を含まない日付範囲から選択できるようになりました。 |
-| データ修復API — パブリックベータ版 | Data Repair APIは、AdobeAnalyticsデータの列を削除するセルフサービスオプションを提供します。 パブリックベータ版のリリース時に、APIはActivity Mapデータの削除をサポートします。 その他の機能は、後で展開します。 このAPIへのアクセスについては、カスタマーケアにお問い合わせください。 |
+| データ修復API — パブリックベータ版(更新 **日2020年7月14日**) | データ修復APIには、既存のアドビAnalyticsの特定のデータを削除または編集するメカニズムが用意されています。 データ修復のリクエストは、ジョブ定義をデータ修復APIに送信することで行われます。このデータ修復APIには、レポートスイート、日付範囲、変数、データに適用するアクションが含まれます。 パブリックベータ版の開始時に、データ修復APIはActivity Mapデータの削除をサポートします。 追加機能は、今後展開される予定です。 データ修復APIパブリックベータ版に参加する場合は、カスタマーケアにお問い合わせください。 [詳細情報...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
