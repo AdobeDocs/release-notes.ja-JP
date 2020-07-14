@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 985ec5f911f0cfa433e12abb5e55724dbecadb2e
+source-git-commit: 64307f885074b216956a8711384b60a4806a13a3
 workflow-type: tm+mt
 source-wordcount: '4373'
 ht-degree: 57%
@@ -144,8 +144,8 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- |-------|
-| ワークスペース： 新しい日付範囲プリセット | 4つの新しい日付範囲(_今週/月/四半期/年_ （今日を除く）が追加されました。これにより、今日の日付の一部を含まない日付範囲から選択できるようになりました。 |
-| データ修復API — パブリックベータ版(更新 **日2020年7月14日**) | データ修復APIには、既存のアドビAnalyticsの特定のデータを削除または編集するメカニズムが用意されています。 データ修復のリクエストは、ジョブ定義をデータ修復APIに送信することで行われます。このデータ修復APIには、レポートスイート、日付範囲、変数、データに適用するアクションが含まれます。 パブリックベータ版の開始時に、データ修復APIはActivity Mapデータの削除をサポートします。 追加機能は、今後展開される予定です。 データ修復APIパブリックベータ版に参加する場合は、カスタマーケアにお問い合わせください。 [詳細情報...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
+| ワークスペース： 新しい日付範囲プリセット | 2020年7月16日 | 4つの新しい日付範囲(_今週/月/四半期/年_ （今日を除く）が追加されました。これにより、今日の日付の一部を含まない日付範囲から選択できるようになりました。 |
+| データ修復APIパブリックベータ版 | 2020年7月15日 | [!UICONTROL データ修復API] (Data Repair API)には、既存のアドビAnalyticsのデータを削除または編集するメカニズムが用意されています。 [!UICONTROL データ修復] リクエストは、ジョブ定義を データ修復APIに送信することで行われます。この送信には、レポートスイート、日付範囲、変数、データに適用するアクションが含まれます。 パブリックベータ版の開始時に、 [!UICONTROL データ修復API] ( [!UICONTROL Activity Mapデータの削除)がサポートされます] 。 追加機能は、今後展開される予定です。 データ修復APIパブリックベータ版に参加する場合は、カスタマーケアにお問い合わせください。 [詳細情報...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
@@ -155,7 +155,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 ### [!UICONTROL Media Analytics] の新機能です {#media-aa}
 
-更新日： **2020年7月16日**
+リリース日：**2020 年 7 月 16 日**
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- | ---------- |
