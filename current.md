@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: fbe2b9ebb091c2898c97a205fcee480143f540e4
+source-git-commit: 2de2c1053df1b2e243efc3e918c0cc27612d040b
 workflow-type: tm+mt
 source-wordcount: '4292'
 ht-degree: 58%
@@ -184,7 +184,7 @@ AN-222672、AN-222813; AN-222892; AN-223272、AN-223432、 AN-224062; AN-224108;
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
-| 提供終了： Adobe Data Connectors | 2020年7月13日 | Adobe Data Connectorsは、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。 Adobe Exchangeパートナープログラムには、引き続き提供およびサポートを希望する [統合に対して採用する新しい標準があります](https://partners.adobe.com/jp/exchangeprogram/experiencecloud) 。 正式な終了日はまだ決定していないが、今後12～18か月（2021年中旬～2021年末）になると予想している。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/import/dataconnectors/data-connectors-eol.md) |
+| 提供終了： Adobe Data Connectors | 2020年7月13日 | Adobe Data Connectorsは、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。 Adobe Exchangeパートナープログラムには、引き続き提供およびサポートを希望する [統合に対して採用する新しい標準があります](https://partners.adobe.com/jp/exchangeprogram/experiencecloud) 。 正式な終了日はまだ決定していないが、今後12～18か月（2021年中旬～2021年末）になると予想している。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/import/dataconnectors/data-connectors-eol.html) |
 | IMS組織へのレポートスイートのマッピング | 2020 年 7 月 | レポートスイートマッピングツールは2020年11月に廃止されます。 この機能は、広告AnalyticsやアドビAnalyticsでのExperience Cloudセグメント公開などの統合を強化します。 これらのサービスおよび他のサービスを有効にするには、レポートスイートをIMS組織にマッピングする必要があります。 新しいレポートスイートは、作成時に自動的にマッピングされます。 ただし、古いレポートスイートは、IMS組織に手動でマッピングする必要があります。 すべてのレポートスイートがIMS組織に属していることを確認するには、 [コアサービスユーザーガイドの「レポートスイートを組織にマップする](https://docs.adobe.com/content/help/ja-JP/core-services/interface/about-core-services/report-suite-mapping.html) 」を参照してください。 |
 | 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。Adobe Analytics はアーキテクチャからすべての `omniture.com` ドメイン参照を削除しますが、サードパーティ Cookie として許可リスト `omniture.com` を作成することが重要です。アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。すると、この許可リストの手順は不要になります。許可リストに登録する必要のある推奨 IP アドレスとドメインの完全なリストは、[こちら](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html)をご覧ください。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
 | 新しい Adobe Analytics のデフォルトランディングページ | 発効日：2020 年 6 月 19 日 | 2020 年 6 月 19 日に、Adobe Analytics のデフォルトのランディングページが[!UICONTROL レポート]から [!UICONTROL Workspace] に変更されます。この変更は、過去にカスタムランディングページを設定していないユーザーに対して適用されます。 |
