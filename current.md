@@ -8,12 +8,12 @@ translation-type: tm+mt
 source-git-commit: 64307f885074b216956a8711384b60a4806a13a3
 workflow-type: tm+mt
 source-wordcount: '4373'
-ht-degree: 57%
+ht-degree: 94%
 
 ---
 
 
-# 先行アクセス — Adobe Experience Cloudリリースノート — 2020年7月
+# Early Access - Adobe Experience Cloud リリースノート - 2020 年 7 月
 
 ![バナー](/assets/experience-cloud-banner-3.png)
 
@@ -31,13 +31,13 @@ ht-degree: 57%
 
 製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
 
-最新の更新： **2020年7月14日**
+最終更新：**2020 年 7 月 14 日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
-* [ジャーニーオーケストレーション](#journey-orch)
-* [Analytics](#analytics) &amp; [Customer Journey Analytics](#cust-journey) （更新日2020年7月14日）
+* [Journey Orchestration](#journey-orch)
+* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) (更新日：2020 年 7 月 14 日)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -71,11 +71,11 @@ ht-degree: 57%
 
 Experience Cloud インターフェイスに対する一般的なアップデートです。
 
-**更新されたインターフェイスメニュー**
+**インターフェイスメニューの更新**
 
-Experience Cloudでは、2020 **年7月16日** リリースでApplication Switcherドロップダウンメニューが更新されました。 流線型化され、ソリューションロゴが削除され、メニューにはアクセス権のあるアプリケーションとサービスのみが表示されます。
+Experience Cloud の **2020 年 7 月 16 日**&#x200B;リリースでは Application Switcher ドロップダウンメニューが更新されました。メニューが簡素化され、ソリューションロゴが削除され、アクセス権のあるアプリケーションとサービスのみが表示されるようになりました。
 
-例については、Experience Cloudインターフェイス [製品ドキュメント](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html) を参照してください。
+例については、Experience Cloud インターフェイス[製品ドキュメント](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html)を参照してください。
 
 **統合製品ドメイン**
 
@@ -144,8 +144,8 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- |-------|
-| ワークスペース： 新しい日付範囲プリセット | 2020年7月16日 | 4つの新しい日付範囲(_今週/月/四半期/年_ （今日を除く）が追加されました。これにより、今日の日付の一部を含まない日付範囲から選択できるようになりました。 |
-| データ修復APIパブリックベータ版 | 2020年7月15日 | [!UICONTROL データ修復API] (Data Repair API)には、既存のアドビAnalyticsのデータを削除または編集するメカニズムが用意されています。 [!UICONTROL データ修復] リクエストは、ジョブ定義を データ修復APIに送信することで行われます。この送信には、レポートスイート、日付範囲、変数、データに適用するアクションが含まれます。 パブリックベータ版の開始時に、 [!UICONTROL データ修復API] ( [!UICONTROL Activity Mapデータの削除)がサポートされます] 。 追加機能は、今後展開される予定です。 データ修復APIパブリックベータ版に参加する場合は、カスタマーケアにお問い合わせください。 [詳細情報...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
+| Workspace：新しい日付範囲プリセット | 2020年7月16日 | 4 つの新しい日付範囲（_今週/月/四半期/年_（今日を除く））が追加されました。これにより、今日の部分的データを含まない日付範囲から選択できるようになりました。 |
+| データ修復APIパブリックベータ版 | 2020年7月15日 | [!UICONTROL データ修復API] (Data Repair API)には、既存のアドビAnalyticsのデータを削除または編集するメカニズムが用意されています。 [!UICONTROL データ修復] リクエストは、ジョブ定義を データ修復APIに送信することで行われます。この送信には、レポートスイート、日付範囲、変数、データに適用するアクションが含まれます。 Upon commencement of the public beta, the [!UICONTROL Data Repair API] will support deletion of [!UICONTROL Activity Map] data. 追加機能は、今後展開される予定です。 データ修復APIパブリックベータ版に参加する場合は、カスタマーケアにお問い合わせください。 [詳細情報...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
@@ -153,7 +153,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | -----------| ---------- |-----|
 | 今月は新機能はありません |  |  |
 
-### [!UICONTROL Media Analytics] の新機能です {#media-aa}
+### [!UICONTROL Media Analytics] の新機能 {#media-aa}
 
 リリース日：**2020 年 7 月 16 日**
 
@@ -164,29 +164,29 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 ### Adobe Analytics の修正点 {#aa-fixes}
 
-* 異なる通貨のレポートスイートに切り替えた後に発生していた問題を修正しました。 [!UICONTROL Workspace] 折れ線グラフに正しい通貨が反映されていません。 （AN-216655）
-* ダウンロードしたPDFでビジュアライゼーションが読み取れない問題が修正されました。 （AN-217949）
-* 階層変数をレポートスイートに追加するとエラーが発生する問題を修正しました。 （AN-211974）
-* 現在選択されている [!UICONTROL レポート&amp;Analyticsレポートスイートとは異なるタイムゾーンのレポートスイートに関連付けられたデータフィードを編集する際に発生していた問題を修正しました] 。 （AN-222474）
-* 分 [!UICONTROL 類ルールビルダーが機能しない問題を修正しました] 。 （AN-219662）
-* 分類と分類ルールに関する複数の問題を修正しました。 （AN-223492、AN-220654、AN-219662、AN-223260）
-* 親レポートスイートと比較して仮想レポートスイートのデータが異なる、同じセグメントに関する問題を修正しました。 （AN-201074）
-* レポートスイート設定をダウンロードできない問題を修正しました。 （AN-223690）
-* イン [!UICONTROL テリジェントアラートで] 、このスケジュール __ ・電子メール・リンクが機能しない問題を修正しました。 （AN-223875）
-* 仮想レポートスイートに正しくない通貨が表示される問題を修正しました。 （AN-224781）
-* 仮想レポートスイートで _見つからないコンポーネント_ エラーが発生する問題を修正しました。 （AN-224782）
-* パーティシペーション配分セットを持つ計算指標と共に使用すると、ディメンションの分類を別のディメンションで分類した場合に、空の結果が返される問題を修正しました。 （AN-214089）
+* 通貨が異なるレポートスイートに切り替えた後に発生していた問題を修正しました。[!UICONTROL Workspace] 折れ線グラフに正しい通貨が反映されていませんでした（AN-216655）。
+* ダウンロードした PDF でビジュアライゼーションが読み取れない問題が修正されました（AN-217949）。
+* Hierarchy 変数をレポートスイートに追加するとエラーが発生する問題を修正しました（AN-211974）。
+* 現在選択されている[!UICONTROL Reports &amp; Analytics] レポートスイートとは異なるタイムゾーンのレポートスイートに関連付けられたデータフィードを編集する際に発生していた問題を修正しました（AN-222474）。
+* [!UICONTROL 分類ルールビルダー]が機能しない問題を修正しました（AN-219662）。
+* 分類と分類ルールに関する複数の問題を修正しました（AN-223492、AN-220654、AN-219662、AN-223260）。
+* 同じセグメントの返すデータが、親レポートスイートと仮想レポートスイートで異なる問題を修正しました（AN-201074）。
+* レポートスイート設定をダウンロードできない問題を修正しました（AN-223690）。
+* [!UICONTROL インテリジェントアラート]で、_このスケジュールからオプトアウト_&#x200B;する電子メールリンクが機能しない問題を修正しました（AN-223875）。
+* 仮想レポートスイートに正しくない通貨が表示される問題を修正しました（AN-224781）。
+* 仮想レポートスイートで&#x200B;_不在コンポーネント_&#x200B;エラーが発生する問題を修正しました（AN-224782）。
+* パーティシペーション配分セットを持つ計算指標と共に使用すると、ディメンションの分類を別のディメンションで分類した場合に、空の結果が返される問題を修正しました。 （AN-214089）。
 
 #### その他の Adobe Analytics の修正点
 
-AN-222672、AN-222813; AN-222892; AN-223272、AN-223432、 AN-224062; AN-224108; AN-224163; AN-224339; AN-224456; AN-224449; AN-224552; AN-224553; AN-224786
+AN-222672、AN-222813、AN-222892、AN-223272、AN-223432、AN-224062、AN-224108、AN-224163、AN-224339、AN-224456、AN-224449、AN-224552、AN-224553、AN-224786
 
 ### [!DNL Analytics] 管理者向けの重要な注意事項 {#aa-notices}
 
 | 通知 | 追加日または更新日 | 説明 |
 | -----------| ---------- | ---------- |
 | Adobe Data ConnectorsのEOL | 2020年7月13日 | Adobe Data Connectorsは、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。 Adobe Exchangeパートナープログラムには、引き続き提供およびサポートを希望する [統合に対して採用する新しい標準があります](https://partners.adobe.com/jp/exchangeprogram/experiencecloud) 。 正式な終了日はまだ決定していないが、今後12～18か月（2021年中旬～2021年末）になると予想している。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/import/dataconnectors/data-connectors-eol.html) |
-| IMS組織へのレポートスイートのマッピング | 2020 年 7 月 | レポートスイートマッピングツールは2020年11月に廃止されます。 この機能は、広告AnalyticsやアドビAnalyticsでのExperience Cloudセグメント公開などの統合を強化します。 これらのサービスおよび他のサービスを有効にするには、レポートスイートをIMS組織にマッピングする必要があります。 新しいレポートスイートは、作成時に自動的にマッピングされます。 ただし、古いレポートスイートは、IMS組織に手動でマッピングする必要があります。 すべてのレポートスイートがIMS組織に属していることを確認するには、 [コアサービスユーザーガイドの「レポートスイートを組織にマップする](https://docs.adobe.com/content/help/ja-JP/core-services/interface/about-core-services/report-suite-mapping.html) 」を参照してください。 |
+| IMS 組織へのレポートスイートのマッピング | 2020 年 7 月 | レポートスイートマッピングツールは 2020 年 11 月に廃止されます。この機能は、Advertising Analytics や Adobe Analytics での Experience Cloud セグメント公開などの統合を強化します。これらのサービスおよび他のサービスを有効にするには、レポートスイートを IMS 組織にマッピングする必要があります。新しいレポートスイートは、作成時に自動的にマッピングされますが、古いレポートスイートは、IMS 組織に手動でマッピングする必要があります。すべてのレポートスイートが IMS 組織に属していることを確認するには、『コアサービスユーザガイド』の「[レポートスイートを組織にマップする](https://docs.adobe.com/content/help/ja-JP/core-services/interface/about-core-services/report-suite-mapping.html)」を参照してください。 |
 | 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。Adobe Analytics はアーキテクチャからすべての `omniture.com` ドメイン参照を削除しますが、サードパーティ Cookie として許可リスト `omniture.com` を作成することが重要です。アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。すると、この許可リストの手順は不要になります。許可リストに登録する必要のある推奨 IP アドレスとドメインの完全なリストは、[こちら](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html)をご覧ください。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
 | 新しい Adobe Analytics のデフォルトランディングページ | 発効日：2020 年 6 月 19 日 | 2020 年 6 月 19 日に、Adobe Analytics のデフォルトのランディングページが[!UICONTROL レポート]から [!UICONTROL Workspace] に変更されます。この変更は、過去にカスタムランディングページを設定していないユーザーに対して適用されます。 |
 | サードパーティのテクノロジー許可リスト | 2020 年 3 月 13 日（発効日） | Adobe Analytics は、サードパーティのテクノロジーを活用して、機能のロールアウト管理と製品内サポートを開始しました。すべての機能にアクセスできるよう、必要なネットワークファイアウォールの許可リストに、次の URL を追加する必要があります。<ul><li>Gainsight：https://esp.aptrinsic.com</li><li>LaunchDarkly：https://app.launchdarkly.com</li></ul> |
@@ -214,13 +214,13 @@ Audience Manager の新機能、修正点、ドキュメントおよびチュー
 
 ### Adobe Audience Manager の新機能および修正点
 
-* 一部のセグメントをAmazonの宛先にマッピングできない問題を修正しました。 （AAM-54373）
-* 顧客が新しいタブでセグメントを開くと、ブラウザー画面がフリーズする問題を修正しました。 （AAM-55213）
-* オンボーディングステータスレポート [(グラフの棒をクリックしたときに日付と表の日付が一致しない場合がある](https://docs.adobe.com/help/en/audience-manager/user-guide/reporting/onboarding-status-report.html))の問題を修正しました。 （AAM-55235）
-* ユーザーを削除しようとすると、ユーザーインターフェイスに確認メッセージではなくエラーアイコンが表示されるという管理セクションのバグを修正しました。 （AAM-55186）
-* Swagger APIで、 `x-api-key` ヘッダーがカール要求に追加されない問題を修正しました。 （AAM-55392）
-* 宛先表示ーの宛先にマッピングされたセグメントのデフォルトの並べ替え順を改善しました。 マッピングされたセグメントは、セグメントマッピングの開始日別、次にセグメントID別に並べ替えられるようになりました。 （AAM-38494）
-* インターフェイス全体で複数のアクセシビリティを改善しました。(AAM-48956、AAM-49012、AAM-49364、AAM-49363、AAM-49374、AAM-49579、AAM-55)037)。
+* 一部のセグメントを Amazon の宛先にマッピングできない問題を修正しました（AAM-54373）。
+* 新しいタブでセグメントを開くとブラウザー画面がフリーズする問題を修正しました（AAM-55213）。
+* [オンボーディングステータスレポート](https://docs.adobe.com/help/ja-JP/audience-manager/user-guide/reporting/onboarding-status-report.html)の問題（グラフの棒をクリックしたときに日付が表の日付と一致しない場合がある）を修正しました（AAM-55235）。
+* ユーザーを削除しようとするとユーザーインターフェイスに確認メッセージではなくエラーアイコンが表示されるという管理セクションのバグを修正しました（AAM-55186）。
+* Swagger API で、`x-api-key` ヘッダーが curl 要求に追加されない問題を修正しました（AAM-55392）。
+* 宛先ビューで宛先にマップされたセグメントのデフォルトの並び替え順を改善しました。マッピングされたセグメントは、セグメントマッピングの開始日別、次にセグメント ID 別に並べ替えられるようになりました（AAM-38494）。
+* インターフェイス全体で複数のアクセシビリティを改善しました（AAM-48956、AAM-49012、AAM-49364、AAM-49363、AAM-49374、AAM-49579、AAM-55037）。
 
 ## ![アイコン](/assets/aem.png) Adobe Experience Manager {#aem}
 
@@ -228,35 +228,35 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 ### 製品のアップデート
 
-* **Dynamic Media クラシック**
+* **Dynamic Media Classic**
 
-   Dynamic Mediaクラシックのユーザーは、ブラウザーのAdobe Flashテクノロジーに依存しなくなった新しいデスクトップアプリケーションエクスペリエンスにアクセスできるようになりました。 WindowsとmacOSで新しいアプリケーションが利用できるようになりました。
+   Dynamic Media Classic のユーザーは、ブラウザーの Adobe Flash テクノロジーに依存しない新しいデスクトップアプリケーションエクスペリエンスにアクセスできるようになりました。Windows と macOS で新しいアプリケーションが利用できるようになりました。
 
-   詳しくは、 [AdobeDynamic Mediaクラシックデスクトップアプリ — 利用可能になりました。](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/new-ui-2020.html)
+   詳しくは、『[Adobe Dynamic Media Classic デスクトップアプリが利用可能になりました](https://docs.adobe.com/content/help/ja-JP/dynamic-media-classic/using/new-ui-2020.html)』を参照してください。
 
-* **3DアセットのサポートをDynamic Mediaに追加**
+* **Dynamic Media への 3D アセットサポートの追加**
 
-   AEM 6.5およびAEMのCloud ServiceとしてのDynamic Mediaにより、3Dアセットをイマーシブなエクスペリエンスとしてアップロード、管理、表示、配信できるようになりました。
+   AEM 6.5 および AEM as a Cloud Service の Dynamic Media で、3D アセットをイマーシブなエクスペリエンスとしてアップロード、管理、表示、配信できるようになりました。
 
-   * AEMでのCloud Serviceとしての詳細は、「Dynamic Mediaでの3Dアセットの [操作」を参照してください。](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/assets-3d.html)
-   * In AEM 6.5, see [Working with 3D assets in Dynamic Media.](https://docs.adobe.com/content/help/en/experience-manager-65/assets/dynamic/assets-3d.html)
+   * AEM as a Cloud Service の詳細は、『[Dynamic Media での 3D アセット操作](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/assets-3d.html)』を参照してください。
+   * AEM 6.5 については、『[Dynamic Media での 3D アセット操作](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/assets/dynamic/assets-3d.html)』を参照してください。
 
 ### セルフサービス
 
-* **AEM 6.5.5 Formsドキュメントの更新**
+* **AEM 6.5.5 Forms ドキュメントの更新**
 
-   * 6.5.5リリースの新機能と改善点：
+   * 以下は、6.5.5 リリースの新機能と改善点です。
 
-      * [Adobe Experience Manager受信トレイの列をカスタマイズします](https://docs.adobe.com/content/help/en/experience-manager-65/authoring/essentials/inbox.html#inbox-admin-control)。
-      * [Interactive Communicationsをドラフトとして保存します。](https://docs.adobe.com/content/help/en/experience-manager-65/forms/interactive-communications/prepare-send-interactive-communication.html#save-as-draft)
-      * Oracle WebLogic Application Serverでの [単一サーバー](https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf) および [クラスタ](https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-cluster.pdf) ・インストールのサポート。
-      * [アクセシビリティの強化.](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html#accessibility-improvements)
-      * [フォームデータモデルのSOAPベースWebサービス用のX-509証明書ベースの認証。](https://docs.adobe.com/content/help/en/experience-manager-65/forms/form-data-model/configure-data-sources.html#configure-soap-web-services)
-      * [Oracle RACのサポート](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html#other-improvements)
-      * [トランザクションレポートのエラーログを改善。](https://docs.adobe.com/content/help/en/experience-manager-65/forms/transaction-reports/viewing-and-understanding-transaction-reports.html#view-transaction-reporting-logs)
-   * 6.4.8.1リリースの新機能と改善点：
-      * [フォームデータモデルのSOAPベースWebサービス用のX-509証明書ベースの認証。](https://docs.adobe.com/content/help/en/experience-manager-64/forms/form-data-model/configure-data-sources.html#configure-soap-web-services)
-      * [トランザクションレポートのエラーログを改善。](https://docs.adobe.com/content/help/en/experience-manager-64/forms/transaction-reports/viewing-and-understanding-transaction-reports.html#view-transaction-reporting-logs)
+      * [Adobe Experience Manager 受信トレイの列のカスタマイズ](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/authoring/essentials/inbox.html#inbox-admin-control)。
+      * [Interactive Communications を下書きとして保存](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/forms/interactive-communications/prepare-send-interactive-communication.html#save-as-draft)
+      * Oracle WebLogic アプリケーションサーバーでの[単一サーバー](https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf)および[クラスター](https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-cluster.pdf)インストールのサポート
+      * [アクセシビリティの強化](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html#accessibility-improvements)
+      * [フォームデータモデルの SOAP ベース Web サービス用の X-509 証明書ベースの認証](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/forms/form-data-model/configure-data-sources.html#configure-soap-web-services)
+      * [Oracle RAC のサポート](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/release-notes/service-pack/new-features-latest-service-pack.html#other-improvements)
+      * [トランザクションレポートのエラーログの改善](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/forms/transaction-reports/viewing-and-understanding-transaction-reports.html#view-transaction-reporting-logs)
+   * 以下は、6.4.8.1 リリースの新機能と改善点です。
+      * [フォームデータモデルの SOAP ベース Web サービス用の X-509 証明書ベースの認証](https://docs.adobe.com/content/help/ja-JP/experience-manager-64/forms/form-data-model/configure-data-sources.html#configure-soap-web-services)
+      * [トランザクションレポートのエラーログの改善](https://docs.adobe.com/content/help/ja-JP/experience-manager-64/forms/transaction-reports/viewing-and-understanding-transaction-reports.html#view-transaction-reporting-logs)
 
 ### **コミュニティ**
 
@@ -266,44 +266,44 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 ### 新しい Experience Manager コースとチュートリアル
 
-過去1か月間に公開された新しいビデオ、チュートリアル、またはコース。
+以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
 
-| パブリッシュ済み | 名前 | タイプ | 説明 |
+| 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 6 月 26 日 | [アダプティブフォームの概要](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | これらのチュートリアルでは、複数のタブを持つアダプティブフォームの作成に関する手順を順を追って説明します。 テーブル、アコーディオンレイアウト、ルールエディターを使用して、ビジネスルールを作成する方法を説明します。 |
-| 2020 年 6 月 26 日 | [AEM Formsでのレビューワークフローの作成](https://video.tv.adobe.com/v/35821/quality=9?captions=jpn) | ビデオ | アクティブなフォーム送信から送信されたデータを確認するためのワークフローの作成について説明します。 |
-| 2020年6月23日 | [処理プロファイル](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/processing-profiles.html) | ビデオ | 処理プロファイルでは、AEM内のアセットに対して作成されるレンディションをCloud Serviceとして定義します。 |
-| 2020年6月23日 | [Dynamic Mediaクラシックのベストプラクティス](https://docs.adobe.com/content/help/en/experience-manager-learn/dynamic-media-classic-tutorial/overview.html) | 記事 | 現在および新規ユーザーは、Dynamic MediaClassic、その中核機能、 _作成_、 _作成_、 __ 提供のワークフローについて学習できます。 |
-| 2020年6月23日 | [Cloud Serviceの構築とデプロイメントとしてのAEMのデバッグ](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/build-and-deployment.html) | 記事 | AEMのビルドおよびデプロイメントをCloud Serviceとしてデバッグする方法について説明します。 |
-| 2020年6月16日 | [ログを使用したCloud ServiceとしてのAEMのデバッグ](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html) | 記事 | ログを使用してAEMをCloud Serviceとしてデバッグする方法を学びます。 ログはAEMアプリケーションのデバッグの最前線として機能しますが、デプロイ済みのAEMアプリケーションでの適切なログの記録に依存します。 |
-| 2020 年 6 月 11 日 | [AEM AssetsでのDynamic Media3Dの使用](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/dynamic-media/dynamic-media-3d-feature-video.html) | ビデオ | Dynamic Media3DでのAdobe Experience Managerのサポートにより、インタラクティブな3Dパワーエクスペリエンスを容易にスケール設定して提供できます。 |
-| 2020 年 6 月 6 日 | [SPAエディタプロジェクト](https://docs.adobe.com/content/help/en/experience-manager-learn/spa-react-tutorial/create-project.html) | 記事 | Adobe Experience Manager(AEM)プロジェクトのアーキタイプを使用して、AEM SPAエディターと統合されたReactアプリケーションの起点として、マルチモジュールのMavenプロジェクトを生成する方法を学びます。 |
-| 2020 年 6 月 4 日 | [HTML5フォームの送信の処理 — チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/html5-forms/handle-mobile-form-submission.html) | 記事 | カスタム送信ハンドラーで送信データにアクセスする方法を説明します。 |
+| 2020 年 6 月 26 日 | [アダプティブフォームの概要](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | これらのチュートリアルでは、複数のタブを持つアダプティブフォームの作成に関する手順を順を追って説明します。テーブル、アコーディオンレイアウト、ルールエディターを使用して、ビジネスルールを作成する方法を説明します。 |
+| 2020 年 6 月 26 日 | [AEM Forms でのレビューワークフローの作成](https://video.tv.adobe.com/v/35821/quality=9?captions=jpn) | ビデオ | アクティブなフォーム送信から送信されたデータを確認するためのワークフローの作成について説明します。 |
+| 2020 年 6 月 23 日 | [処理プロファイル](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/processing-profiles.html) | ビデオ | 処理プロファイルは、AEM as a Cloud Service のアセットに対して作成されるレンディションを定義します。 |
+| 2020 年 6 月 23 日 | [Dynamic Media Classic のベストプラクティス](https://docs.adobe.com/content/help/en/experience-manager-learn/dynamic-media-classic-tutorial/overview.html) | 記事 | 現在および新規ユーザーは、Dynamic Media Classic、その中核機能、_作成_、_著作_、_提供_&#x200B;のワークフローについて学習できます。 |
+| 2020 年 6 月 23 日 | [AEM as a Cloud Service ビルドとデプロイメントのデバッグ](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/build-and-deployment.html) | 記事 | AEM as a Cloud Service ビルドとデプロイメントをデバッグする方法について説明します。 |
+| 2020 年 6 月 16 日 | [ログを使用した AEM as a Cloud Service のデバッグ](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-as-a-cloud-service/logs.html) | 記事 | ログを使用して AEM as a Cloud Service をデバッグする方法を学びます。ログは AEM アプリケーションのデバッグの最前線として機能しますが、デプロイされる AEM アプリケーションでの適切なログの記録に依存します。 |
+| 2020 年 6 月 11 日 | [AEM Assets での Dynamic Media 3D の使用](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/dynamic-media/dynamic-media-3d-feature-video.html) | ビデオ | Dynamic Media 3D での Adobe Experience Manager のサポートにより、インタラクティブな 3D パワーエクスペリエンスを容易にスケール設定して提供できます。 |
+| 2020 年 6 月 6 日 | [SPA エディタープロジェクト](https://docs.adobe.com/content/help/en/experience-manager-learn/spa-react-tutorial/create-project.html) | 記事 | Adobe Experience Manager（AEM）プロジェクトのアーキタイプを使用して、AEM SPA エディターと統合された React アプリケーションの起点として、マルチモジュールの Maven プロジェクトを生成する方法を学びます。 |
+| 2020 年 6 月 4 日 | [HTML5 フォームの送信の処理 — チュートリアル](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/html5-forms/handle-mobile-form-submission.html) | 記事 | カスタム送信ハンドラーで送信データにアクセスする方法を説明します。 |
 
-### Experience Managerリリース情報
+### Experience Manager リリース情報
 
-Experience Managerのリリースノートはすべて次のページに記載されています。
+Experience Manager のリリースノートはすべて次のページに記載されています。
 
-* [Cloud Serviceリリース情報としてのAEM](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/release-notes/home.html)
+* [AEM as a Cloud Service リリース情報](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/release-notes/home.html)
 * [AEM Cloud Manager リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
-* [Automated Forms Conversion Serviceリリースノート](https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/using/release-notes.html)
-* [AEM 6.5 Service Packリリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
-* [AEM 6.4累積Fix Packリリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-64/release-notes/cfp-release-notes.html)
-* [AEM AssetsDynamic Mediaリリースノート](https://docs.adobe.com/content/help/ja-JP/dynamic-media-developer-resources/release-notes/s7rn2017.html)
-* [AEM Brand Portalリリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html)
+* [自動フォーム変換サービスリリースノート](https://docs.adobe.com/content/help/ja-JP/aem-forms-automated-conversion-service/using/release-notes.html)
+* [AEM 6.5 Service Pack リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
+* [AEM 6.4 Cumulative Fix Pack リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-64/release-notes/cfp-release-notes.html)
+* [AEM Assets Dynamic Media リリースノート](https://docs.adobe.com/content/help/ja-JP/dynamic-media-developer-resources/release-notes/s7rn2017.html)
+* [AEM Brand Portal リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html)
 * [AEM デスクトップアプリケーションリリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-desktop-app/using/release-notes.html)
-* [AEMDispatcherリリースノート](https://docs.adobe.com/content/help/en/experience-manager-dispatcher/using/getting-started/release-notes.html)
-* [Adobe Primetimeリリースノート](https://docs.adobe.com/content/help/ja-JP/primetime/release-notes/home.translate.html)
+* [AEM Dispatcher リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-dispatcher/using/getting-started/release-notes.html)
+* [Adobe Primetime リリースノート](https://docs.adobe.com/content/help/ja-JP/primetime/release-notes/home.translate.html)
 * [Livefyre リリースノート](https://docs.adobe.com/content/help/ja-JP/livefyre/using/release-notes/c-rn.html)
 
-### AEMのその他のヘルプリソース
+### AEM のその他のヘルプリソース
 
-* [Cloud ServiceユーザーガイドとしてのAEM](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/landing/home.html)
+* [AEM as a Cloud Service ユーザガイド](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/landing/home.html)
 * [AEM 6.5 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-5.html)
 * [AEM 6.4 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-4.html)
 * [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-3.html)
 * [AEM 6.2 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-2.html)
-* [Cloud Manager ユーザーガイド](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
+* [Cloud Manager ユーザガイド](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html)
 * [AEM ドキュメントの以前のバージョン](https://helpx.adobe.com/jp/experience-manager/aem-previous-versions.html)
 * [Dynamic Media Classic ヘルプホーム](https://docs.adobe.com/content/help/ja-JP/dynamic-media-classic/using/home.html)
 
@@ -317,29 +317,29 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 #### Campaign Classic
 
-* 新しいGold Standardの安定したビルド。 [詳細を表示](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/previous-releases/release--19-1.html#release-19-1-4-build-9032)
+* 新しい Gold Standard の安定したビルド。[詳細を表示](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/previous-releases/release--19-1.html#release-19-1-4-build-9032)
 
 #### Campaign コントロールパネル
 
 * サブドメイン配信品質の監査 — [詳細情報](https://docs.adobe.com/content/help/ja-JP/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
 
-* GPG鍵管理 — [詳細情報](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* GPG 鍵管理 — [詳細情報](https://docs.adobe.com/content/help/ja-JP/control-panel/using/instances-settings/gpg-keys-management.html)
 
 ### 新しい Campaign コースとチュートリアル
 
-過去1か月間に公開された新しいビデオ、チュートリアル、またはコース。
+以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
 
-| パブリッシュ済み | 名前 | ソリューション | 説明 |
+| 公開日 | 名前 | ソリューション | 説明 |
 | ----------- | ----------- | ---------- | ---------- |  
-| 2020 年 6 月 27 日 | [Adobe CampaignクラシックUIの参照](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/exploring-the-adobe-campaign-classic-user-interface.html) | Campaign Classic | このビデオでは、Classicの主なAdobe Campaignインターフェイスを説明し、主な機能の操作方法を説明します。 |
+| 2020 年 6 月 27 日 | [Adobe Campaign Classic UI の参照](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/exploring-the-adobe-campaign-classic-user-interface.html) | Campaign Classic | このビデオでは、Adobe Campaign Classic の主なインターフェイスを説明し、主な機能の操作方法を説明します。 |
 | 2020 年 7 月 9 日 | [Adobe Campaign クライアントのインストールとセットアップ](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/install-and-setup-the-adobe-campaign-client.html) | Campaign Classic | Adobe Campaign クライアントコンソールをダウンロードしてインストールする方法、複数の環境への接続を作成して管理する方法、および Adobe Campaign クライアントコンソールへのアクセスの検証方法について説明します。 |
-| 2020 年 6 月 20 日 | [Adobe Campaignクラシックの概要](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/introduction-to-adobe-campaign-classic.html) | Campaign Classic | Adobe Digital Experience PortfolioにClassicをどのように適合させるか、および主な機能について説明します。 |
-| 2020年6月12日 | [アドホック電子メール配信テンプレートのデプロイ](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.html) | Campaign Classic | アドホック電子メールテンプレートをデプロイする方法について説明します。 |
-| 2020年6月12日 | [配信テンプレートの設定](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/sending-messages/using-delivery-templates/configuring-a-delivery-template.html) | Campaign Classic | 電子メールテンプレートの設定方法を学びます。 |
-| 2020年6月12日 | [配信テンプレートプロパティの設定](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/sending-messages/using-delivery-templates/setting-delivery-template-properties.html) | Campaign Classic | 電子メールテンプレートプロパティを設定する方法について説明します。 |
-| 2020年6月12日 | [GPGキー管理](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management-overview.html) | Campaign Classic/コントロールパネル | データ暗号化用の公開/秘密GPGキーペアを生成してインストールする方法、およびデータ復号化用の公開キーを読み込んでインストールする方法を説明します。 |
-| 2020 年 6 月 27 日 | [Adobe Campaign StandardのUI使用の手引き](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/getting-started/getting-started-with-the-ui.html) | Campaign Standard | このビデオでは、Adobe Campaign Standardのユーザーインターフェイスの概要と、主な機能やコア機能に移動する方法を説明します。 |
-| 2020 年 6 月 27 日 | [GPGキー管理](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/administrating/control-panel/gpg-key-management/gpg-key-management-overview.html) | Campaign Standard/コントロールパネル | データ暗号化用の公開/秘密GPGキーペアを生成してインストールする方法、およびデータ復号化用の公開キーを読み込んでインストールする方法を説明します。 |
+| 2020 年 6 月 20 日 | [Adobe Campaign Classic の概要](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/introduction-to-adobe-campaign-classic.html) | Campaign Classic | Adobe Digital Experience Portfolio に Adobe Campaign Classic をどのように適合させるか、および主な機能について説明します。 |
+| 2020 年 6 月 12 日 | [アドホック電子メール配信テンプレートのデプロイ](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.html) | Campaign Classic | アドホック電子メールテンプレートをデプロイする方法について説明します。 |
+| 2020 年 6 月 12 日 | [配信テンプレートの設定](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/sending-messages/using-delivery-templates/configuring-a-delivery-template.html) | Campaign Classic | 電子メールテンプレートの設定方法を学びます。 |
+| 2020 年 6 月 12 日 | [配信テンプレートプロパティの設定](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/sending-messages/using-delivery-templates/setting-delivery-template-properties.html) | Campaign Classic | 電子メールテンプレートプロパティを設定する方法について説明します。 |
+| 2020 年 6 月 12 日 | [GPG キー管理](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management-overview.html) | Campaign Classic／コントロールパネル | データ暗号化用の公開／秘密 GPG キーペアを生成してインストールする方法、およびデータ復号化用の公開キーを読み込んでインストールする方法を説明します。 |
+| 2020 年 6 月 27 日 | [Adobe Campaign Standard の UI 使用の手引き](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/getting-started/getting-started-with-the-ui.html) | Campaign Standard | このビデオでは、Adobe Campaign Standard のユーザーインターフェイスの概要と、主な機能やコア機能に移動する方法を説明します。 |
+| 2020 年 6 月 27 日 | [GPG キー管理](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/administrating/control-panel/gpg-key-management/gpg-key-management-overview.html) | Campaign Standard／コントロールパネル | データ暗号化用の公開／秘密 GPG キーペアを生成してインストールする方法、およびデータ復号化用の公開キーを読み込んでインストールする方法を説明します。 |
 
 ### ヘルプリソース
 
@@ -349,16 +349,16 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 ## ![アイコン](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
-アドビAdvertising Cloudのリリースノートです。
+以下は、Adobe Advertising Cloud のリリースノートです。
 
 ### [!UICONTROL Advertising Cloud Search] の新機能 {#adcloud-search}
 
-Updated **July 8, 2020** for the July 11 release.
+**2020 年 7 月 8 日**&#x200B;更新（7 月 11 日リリース）。
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| [!UICONTROL アラート（ベータ版）] | 任意のアラートのデータを含む読み取り専用のフィルタされた表示を開き、関連するキャンペーン管理表示でフィルタされた表示のエンティティを開き、そのエンティティのレコードを編集できます。 |
-| [!UICONTROL ポートフォリオ] | 制約とポートフォリオ設定における位置ベースの指標の廃止は、8月8日に延期されました。 |
+| [!UICONTROL アラート（ベータ版）] | 任意のアラートのデータを含む読み取り専用のフィルターされた表示を開き、関連するキャンペーン管理表示でフィルターされた表示のエンティティを開いて、そのエンティティのレコードを編集できるようになりました。 |
+| [!UICONTROL ポートフォリオ] | 制約とポートフォリオ設定における位置ベースの指標の廃止は、8 月 8 日に延期されました。 |
 
 ## ![アイコン](/assets/magento.png) [!DNL Magento] {#magento}
 
@@ -390,7 +390,7 @@ Magent リリースノートについては、以下を参照してください�
 
 ### 廃止
 
-* **アセットAPI &quot;_method&quot; パラメーター：** 2020 年 9 月以降、アセット API エンドポイントでは、URI の長さ制限を回避するために、POST 本文にクエリパラメーターを渡す `_method` を使用できなくなります。
+* **アセット API &quot;_method&quot; パラメーター：** 2020 年 9 月以降、アセット API エンドポイントでは、URI の長さ制限を回避するために、POST 本文にクエリパラメーターを渡す `_method` を使用できなくなります。
 * **Internet Explorer のサポートの廃止：** 2020 年 7 月 31 日のリリース以降、Marketo Engage ユーザーインターフェイスは Internet Explorer でサポートされなくなります。
 
 これまでのリリースノートと過去のリリースノートについては、[Marketo リリースノート](https://docs.marketo.com/x/CgA6Ag)を参照してください。
