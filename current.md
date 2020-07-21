@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3947290a3d13ab4cef1d6d9ec639fa70a250c36a
+source-git-commit: bfcc23bd8eaf02956fd2dacf711ce774d6bddb85
 workflow-type: tm+mt
 source-wordcount: '4377'
 ht-degree: 99%
@@ -187,7 +187,7 @@ AN-222672、AN-222813、AN-222892、AN-223272、AN-223432、AN-224062、AN-22410
 | 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。Adobe Analytics はアーキテクチャからすべての `omniture.com` ドメイン参照を削除しますが、サードパーティ Cookie として許可リスト `omniture.com` を作成することが重要です。アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。すると、この許可リストの手順は不要になります。許可リストに登録する必要のある推奨 IP アドレスとドメインの完全なリストは、[こちら](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html)をご覧ください。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
 | 新しい Adobe Analytics のデフォルトランディングページ | 発効日：2020 年 6 月 19 日 | 2020 年 6 月 19 日に、Adobe Analytics のデフォルトのランディングページが[!UICONTROL レポート]から [!UICONTROL Workspace] に変更されます。この変更は、過去にカスタムランディングページを設定していないユーザーに対して適用されます。 |
 | サードパーティのテクノロジー許可リスト | 2020 年 3 月 13 日（発効日） | Adobe Analytics は、サードパーティのテクノロジーを活用して、機能のロールアウト管理と製品内サポートを開始しました。すべての機能にアクセスできるよう、必要なネットワークファイアウォールの許可リストに、次の URL を追加する必要があります。<ul><li>Gainsight：https://esp.aptrinsic.com</li><li>LaunchDarkly：https://app.launchdarkly.com</li></ul> |
-| [!UICONTROL Analysis Workspace] の可用性に対する冗長性の向上 | 2020 年 5 月 22 日 | [!UICONTROL Analysis Workspace] の可用性を確保するために、セカンダリ CDN（コンテンツ配信ネットワーク）を追加し、冗長性を高めます。必要なネットワークファイアウォールの許可リストに、次の URL を追加する必要があります。<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
+| [!UICONTROL Analysis Workspace] の可用性に対する冗長性の向上 | 2020 年 5 月 22 日 | [!UICONTROL Analysis Workspace] の可用性を確保するために、セカンダリ CDN（コンテンツ配信ネットワーク）を追加し、冗長性を高めます。必要なネットワークファイアウォールの許可リストに、次の URL を追加する必要があります。<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws.com</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
 | [!UICONTROL Workspace] での[!UICONTROL 入口／出口]の計算方法の変更 | 2020 年 4 月 8 日 | 2020 年 3 月の時点で、[!UICONTROL Analysis Workspace] における「_なし_」の値と[!UICONTROL 入口／出口]との相互作用を変更しました。[!UICONTROL Analysis Workspace] で「_なし_」をオン／オフにできるようになったので、入口または出口の後に「_なし_」を適用します。（eVar の場合）以前は、これらの前に適用されていました。例えば、訪問の最初のヒットに eVar の値がないが、2 回目のヒットに eVar の値があるとします。[!UICONTROL Reports &amp; Analytics] では、最初のヒットがそのエントリに対して「_未指定_」と表示されますが、[!UICONTROL Analysis Workspace] では 2 回目のヒットの値が表示されます。 |
 | **[!UICONTROL ダッシュボードアーカイブ]**&#x200B;のサービス終了 | 2020 年 3 月 28 日 | [!UICONTROL Reports &amp; Analytics] の「**[!UICONTROL ダッシュボードを管理]**」の「**[!UICONTROL アーカイブを表示]**」設定は、2020 年 10 月から使用できなくなります。 |
 | Analytics レガシー API の EOL | 2020 年 1 月 10 日 | 2020 年 11 月に、以下の Analytics レガシー API サービスが提供終了となり、シャットダウンされます。これらのサービスを使用して構築された現在の統合は機能しなくなります。 <ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>ご質問に対する回答と進め方に関するガイダンスを提供するために、[従来の API EOL の FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe IO](https://console.adobe.io/home?mv=email) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API の両方にアクセスするために使用できます。 |
