@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 156d25a099ea7bf1a0f8b7fff148dbfdd615f69e
+source-git-commit: 3947290a3d13ab4cef1d6d9ec639fa70a250c36a
 workflow-type: tm+mt
-source-wordcount: '4356'
-ht-degree: 100%
+source-wordcount: '4377'
+ht-degree: 99%
 
 ---
 
@@ -140,6 +140,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- |-------|
+| CDA: フィールドベースのステッチ | 2020 年 7 月 27 日 | 訪問者を識別するためにカスタム変数を使用できる、デバイス間のAnalyticsの新しい方法です。 |
 | Workspace：新しい日付範囲プリセット | 2020 年 7 月 16 日 | 4 つの新しい日付範囲（_今週／月／四半期／年_（今日を除く））が追加されました。これにより、今日の部分的データを含まない日付範囲から選択できるようになりました。 |
 | データ修復 API — 公開ベータ版 | 2020 年 7 月 14 日 | [!UICONTROL データ修復 API]（Data Repair API）には、特定の既存アドビ Analytics のデータを削除または編集するメカニズムが用意されています。[!UICONTROL データ修復]リクエストは、ジョブ定義を[!UICONTROL データ修復 API] に送信することでおこなわれます。この送信には、レポートスイート、日付範囲、変数、データに適用するアクションが含まれます。リリースされる公開ベータ版では、[!UICONTROL データ修復 API] は [!UICONTROL Activity Map] データの削除をサポートするようになります。追加機能は、今後展開される予定です。データ修復 API 公開ベータ版に参加する場合は、サポートにお問い合わせください。[詳細情報...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
