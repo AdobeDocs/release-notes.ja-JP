@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bfcc23bd8eaf02956fd2dacf711ce774d6bddb85
+source-git-commit: 07dd75d1b05e0768cf41934eaf40b5460ca85696
 workflow-type: tm+mt
-source-wordcount: '4377'
+source-wordcount: '4388'
 ht-degree: 99%
 
 ---
@@ -27,13 +27,13 @@ ht-degree: 99%
 
 製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
 
-最終更新：**2020 年 7 月 14 日**
+最終更新：**2020 年 7 月 21 日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)(更新日：2020 年 7 月 14 日)
+* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)(更新日：2020 年 7 月 21 日)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -128,11 +128,11 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 リリース日：**2020 年 7 月 16 日**
 
-* [Adobe Analytics の新機能](#aa-features)
+* [アドビAnalytics](#aa-features) （更新日2020年7月21日）の新機能
 * [Customer Journey Analytics の新機能](#cust-journey)
 * [Media Analytics](#media-aa) の新機能です。
 * [Adobe Analytics の修正点](#aa-fixes)
-* [Analytics 管理者向けの重要な注意事項](#aa-notices)(更新日：2020 年 7 月 13 日)
+* [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [新しい Adobe Analytics コースとチュートリアル](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -140,7 +140,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- |-------|
-| CDA: フィールドベースのステッチ | 2020 年 7 月 27 日 | 訪問者を識別するためにカスタム変数を使用できる、デバイス間のAnalyticsの新しい方法です。 |
+| CDA: フィールドベースのステッチ | 2020 年 7 月 27 日 | 訪問者を識別するためにカスタム変数を使用できる、デバイス間のAnalyticsの新しい方法です。 &lt;!-->[詳細情報...](https://docs.adobe.com/content/help/en/analytics/components/cda/field-based-stitching.html)&lt;--> |
 | Workspace：新しい日付範囲プリセット | 2020 年 7 月 16 日 | 4 つの新しい日付範囲（_今週／月／四半期／年_（今日を除く））が追加されました。これにより、今日の部分的データを含まない日付範囲から選択できるようになりました。 |
 | データ修復 API — 公開ベータ版 | 2020 年 7 月 14 日 | [!UICONTROL データ修復 API]（Data Repair API）には、特定の既存アドビ Analytics のデータを削除または編集するメカニズムが用意されています。[!UICONTROL データ修復]リクエストは、ジョブ定義を[!UICONTROL データ修復 API] に送信することでおこなわれます。この送信には、レポートスイート、日付範囲、変数、データに適用するアクションが含まれます。リリースされる公開ベータ版では、[!UICONTROL データ修復 API] は [!UICONTROL Activity Map] データの削除をサポートするようになります。追加機能は、今後展開される予定です。データ修復 API 公開ベータ版に参加する場合は、サポートにお問い合わせください。[詳細情報...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
