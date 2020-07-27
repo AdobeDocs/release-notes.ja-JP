@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9f46f208d31ffea1d637bcffb02d869eb0f29974
+source-git-commit: 6f1be637b529833baf987c4727ec2d7e4980b779
 workflow-type: tm+mt
-source-wordcount: '4563'
+source-wordcount: '4561'
 ht-degree: 96%
 
 ---
@@ -73,7 +73,7 @@ Experience Cloud インターフェイスに対する一般的なアップデー
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 7 月 27 日 | [Digital ExperiencesとAdobeドキュメントクラウドの連携](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | 記事 | このラボでは、デジタル化の方法やPDFをより多く使用する方法を学習し、顧客と従業員の体験を変換することで、生産性と創造性を次のレベルに引き上げます。 |
+| 2020 年 7 月 27 日 | [Digital Experiences with Adobe Document Cloudのリリース](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | 記事 | このラボでは、デジタル化の方法やPDFをより多く使用する方法を学習し、顧客と従業員の体験を変換することで、生産性と創造性を次のレベルに引き上げます。 |
 
 **インターフェイスメニューの更新**
 
@@ -136,7 +136,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 リリース日：**2020 年 7 月 16 日**
 
-* [アドビAnalytics](#aa-features) （更新日2020年7月21日）の新機能
+* [Adobe Analytics](#aa-features) （更新日2020年7月21日）の新機能
 * [Customer Journey Analytics の新機能](#cust-journey)
 * [Media Analytics の新機能です。](#media-aa)
 * [Adobe Analytics の修正点](#aa-fixes)
@@ -380,8 +380,6 @@ Magent リリースノートについては、以下を参照してください�
 
 ### Core Marketo Engage の更新
 
-[!UICONTROL Marketo Skyのドキュメントは、] こちらからご覧いただけます [](https://docs.adobe.com/content/help/en/marketo/sky/home.html)。
-
 最新のリリース情報については、[!DNL Marketo] [リリースノート](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720)を参照してください。
 
 ### 予定されている機能
@@ -401,5 +399,9 @@ Magent リリースノートについては、以下を参照してください�
 
 * **アセット API &quot;_method&quot; パラメーター：** 2020 年 9 月以降、アセット API エンドポイントでは、URI の長さ制限を回避するために、POST 本文にクエリパラメーターを渡す `_method` を使用できなくなります。
 * **Internet Explorer のサポートの廃止：** 2020 年 7 月 31 日のリリース以降、Marketo Engage ユーザーインターフェイスは Internet Explorer でサポートされなくなります。
+
+>[!NOTE]
+>
+>Marketo Sky [!UICONTROL インターフェイスのドキュメントは] 、 [こちらから参照できます](https://docs.adobe.com/content/help/en/marketo/sky/home.html)。
 
 これまでのリリースノートと過去のリリースノートについては、[Marketo リリースノート](https://docs.marketo.com/x/CgA6Ag)を参照してください。
