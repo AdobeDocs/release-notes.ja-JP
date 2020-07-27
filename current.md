@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 07dd75d1b05e0768cf41934eaf40b5460ca85696
+source-git-commit: 9f46f208d31ffea1d637bcffb02d869eb0f29974
 workflow-type: tm+mt
-source-wordcount: '4388'
-ht-degree: 99%
+source-wordcount: '4563'
+ht-degree: 96%
 
 ---
 
@@ -30,12 +30,12 @@ ht-degree: 99%
 最終更新：**2020 年 7 月 21 日**
 
 * [Adobe システムステータス](#status)
-* [Experience Cloud インターフェイス](#ecloud)
+* [Experience Cloud インターフェイス](#ecloud)（更新日：2020 年 7 月 27 日）
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)（更新日：2020 年 7 月 21 日）
 * [Audience Manager](#aam)
-* [Experience Manager](#aem)
+* [Experience Manager](#aem) （更新日2020年7月27日）
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
 * [!DNL Target](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)
@@ -66,6 +66,14 @@ ht-degree: 99%
 ## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud インターフェイス {#ecloud}
 
 Experience Cloud インターフェイスに対する一般的なアップデートです。
+
+### Adobe Summit Labの新しいドキュメント
+
+2020年にAdobe Summit labsから公開された新しいコンテンツ。
+
+| 公開日 | 名前 | タイプ | 説明 |
+| -----------| ---------- | ---------- | ---------- |
+| 2020 年 7 月 27 日 | [Digital ExperiencesとAdobeドキュメントクラウドの連携](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | 記事 | このラボでは、デジタル化の方法やPDFをより多く使用する方法を学習し、顧客と従業員の体験を変換することで、生産性と創造性を次のレベルに引き上げます。 |
 
 **インターフェイスメニューの更新**
 
@@ -267,6 +275,8 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2020 年 7 月 27 日 | [パターン検出](https://docs.adobe.com/content/help/en/experience-manager-pattern-detection/table-of-contents/aso.html) | リファレンス | Experience Managerのアップグレード `upgrade.log` 時にのみ使用できます。 |
+| 2020 年 7 月 27 日 | [ソフトウェア配布](https://docs.adobe.com/content/help/ja-JP/experience-cloud/software-distribution/home.html) | 記事 | As of June 2020, the Experience Cloud solution Software Distribution replaces the download platforms [!UICONTROL PackageShare] for AEM and [!DNL Neolane] for [!DNL Campaign] and provides a more efficient experience to find and download your software. 直観的なユーザーインターフェイスとシンプルな検索を備え、ダウンロード速度が大幅に向上したことで、Experience Cloud 製品のソフトウェアパッケージを快適にダウンロードできます。 |
 | 2020 年 6 月 26 日 | [アダプティブフォームの概要](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | これらのチュートリアルでは、複数のタブを持つアダプティブフォームの作成に関する手順を順を追って説明します。テーブル、アコーディオンレイアウト、ルールエディターを使用して、ビジネスルールを作成する方法を説明します。 |
 | 2020 年 6 月 26 日 | [AEM Forms でのレビューワークフローの作成](https://video.tv.adobe.com/v/35821/quality=9?captions=jpn) | ビデオ | アクティブなフォーム送信から送信されたデータを確認するためのワークフローの作成について説明します。 |
 | 2020 年 6 月 23 日 | [処理プロファイル](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/processing-profiles.html) | ビデオ | 処理プロファイルは、AEM as a Cloud Service のアセットに対して作成されるレンディションを定義します。 |
@@ -370,7 +380,9 @@ Magent リリースノートについては、以下を参照してください�
 
 ### Core Marketo Engage の更新
 
-最新のリリース情報については、[!DNL Marketo] [リリースノート](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720)を参照してください。
+[!UICONTROL Marketo Skyのドキュメントは、] こちらからご覧いただけます [](https://docs.adobe.com/content/help/en/marketo/sky/home.html)。
+
+最新のリリース情報については、[!DNL Marketo] [リリースノート](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720)を参照してください。
 
 ### 予定されている機能
 
