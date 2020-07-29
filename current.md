@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6f1be637b529833baf987c4727ec2d7e4980b779
+source-git-commit: b5109b2b7d98da696cbd397ab9358daf843c8e4b
 workflow-type: tm+mt
-source-wordcount: '4561'
-ht-degree: 96%
+source-wordcount: '4618'
+ht-degree: 95%
 
 ---
 
@@ -27,13 +27,13 @@ ht-degree: 96%
 
 製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
 
-最終更新：**2020 年 7 月 21 日**
+最終更新：**2020 年 7 月 29 日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)（更新日：2020 年 7 月 27 日）
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)（更新日：2020 年 7 月 21 日）
+* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)（更新日：2020 年 7 月 29 日）
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) （更新日2020年7月27日）
 * [Campaign](#ac)
@@ -67,13 +67,13 @@ ht-degree: 96%
 
 Experience Cloud インターフェイスに対する一般的なアップデートです。
 
-### Adobe Summit Labの新しいドキュメント
+### Adobeサミットラボの新ドキュメント
 
-2020年にAdobe Summit labsから公開された新しいコンテンツ。
+2020年にAdobe・サミット・ラボから公開された新しいコンテンツ。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 7 月 27 日 | [Digital Experiences with Adobe Document Cloudのリリース](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | 記事 | このラボでは、デジタル化の方法やPDFをより多く使用する方法を学習し、顧客と従業員の体験を変換することで、生産性と創造性を次のレベルに引き上げます。 |
+| 2020 年 7 月 27 日 | [Adobe Document Cloudとのデジタルエクスペリエンスの発信](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | 記事 | このラボでは、デジタル化の方法やPDFをより多く使用する方法を学習し、顧客と従業員の体験を変換することで、生産性と創造性を次のレベルに引き上げます。 |
 
 **インターフェイスメニューの更新**
 
@@ -136,8 +136,8 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 リリース日：**2020 年 7 月 16 日**
 
-* [Adobe Analytics](#aa-features) （更新日2020年7月21日）の新機能
-* [Customer Journey Analytics の新機能](#cust-journey)
+* [Adobe Analyticsの新機能](#aa-features) （更新日2020年7月21日）
+* [Customer Journey Analyticsの新機能](#cust-journey) （更新日2020年7月29日）
 * [Media Analytics の新機能です。](#media-aa)
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
@@ -148,7 +148,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- |-------|
-| CDA：フィールドベースのステッチ | 2020 年 7 月 27 日 | カスタム変数を使用して訪問者を識別できる、クロスデバイス分析の新しい手法です。&lt;!-->[詳細情報...](https://docs.adobe.com/content/help/en/analytics/components/cda/field-based-stitching.html)&lt;--> |
+| CDA：フィールドベースのステッチ | 2020 年 7 月 27 日 | カスタム変数を使用して訪問者を識別できる、クロスデバイス分析の新しい手法です。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/components/cda/field-based-stitching.html) |
 | Workspace：新しい日付範囲プリセット | 2020 年 7 月 16 日 | 4 つの新しい日付範囲（_今週／月／四半期／年_（今日を除く））が追加されました。これにより、今日の部分的データを含まない日付範囲から選択できるようになりました。 |
 | データ修復 API — 公開ベータ版 | 2020 年 7 月 14 日 | [!UICONTROL データ修復 API]（Data Repair API）には、特定の既存アドビ Analytics のデータを削除または編集するメカニズムが用意されています。[!UICONTROL データ修復]リクエストは、ジョブ定義を[!UICONTROL データ修復 API] に送信することでおこなわれます。この送信には、レポートスイート、日付範囲、変数、データに適用するアクションが含まれます。リリースされる公開ベータ版では、[!UICONTROL データ修復 API] は [!UICONTROL Activity Map] データの削除をサポートするようになります。追加機能は、今後展開される予定です。データ修復 API 公開ベータ版に参加する場合は、サポートにお問い合わせください。[詳細情報...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
@@ -156,9 +156,9 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- |-----|
-| 今月は新機能はありません |  |  |
+| 個人IDの「IDマップ」オプション | 2020 年 6 月 27 日 | IDマップは、Customer Journey Analyticsでの接続の作成の一環として —>値のペアをアップロードできるマップデータ構造です。 キーはID名前空間で、値はID値を保持する構造体です。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
 
-### [!UICONTROL Media Analytics] の新機能 {#media-aa}
+### [!UICONTROL Media Analytics] の新機能です {#media-aa}
 
 リリース日：**2020 年 7 月 16 日**
 
@@ -402,6 +402,6 @@ Magent リリースノートについては、以下を参照してください�
 
 >[!NOTE]
 >
->Marketo Sky [!UICONTROL インターフェイスのドキュメントは] 、 [こちらから参照できます](https://docs.adobe.com/content/help/en/marketo/sky/home.html)。
+>[!UICONTROL Marketo Skyインターフェースのドキュメントは] 、 [こちらから参照できます](https://docs.adobe.com/content/help/en/marketo/sky/home.html)。
 
 これまでのリリースノートと過去のリリースノートについては、[Marketo リリースノート](https://docs.marketo.com/x/CgA6Ag)を参照してください。
