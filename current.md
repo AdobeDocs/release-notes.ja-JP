@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b5109b2b7d98da696cbd397ab9358daf843c8e4b
+source-git-commit: 5bbdf099a039991d51b2f0735a3766d2f7525f3d
 workflow-type: tm+mt
-source-wordcount: '4618'
+source-wordcount: '4597'
 ht-degree: 95%
 
 ---
@@ -275,7 +275,6 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 7 月 27 日 | [パターン検出](https://docs.adobe.com/content/help/en/experience-manager-pattern-detection/table-of-contents/aso.html) | リファレンス | Experience Managerのアップグレード `upgrade.log` 時にのみ使用できます。 |
 | 2020 年 7 月 27 日 | [ソフトウェア配布](https://docs.adobe.com/content/help/ja-JP/experience-cloud/software-distribution/home.html) | 記事 | As of June 2020, the Experience Cloud solution Software Distribution replaces the download platforms [!UICONTROL PackageShare] for AEM and [!DNL Neolane] for [!DNL Campaign] and provides a more efficient experience to find and download your software. 直観的なユーザーインターフェイスとシンプルな検索を備え、ダウンロード速度が大幅に向上したことで、Experience Cloud 製品のソフトウェアパッケージを快適にダウンロードできます。 |
 | 2020 年 6 月 26 日 | [アダプティブフォームの概要](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | これらのチュートリアルでは、複数のタブを持つアダプティブフォームの作成に関する手順を順を追って説明します。テーブル、アコーディオンレイアウト、ルールエディターを使用して、ビジネスルールを作成する方法を説明します。 |
 | 2020 年 6 月 26 日 | [AEM Forms でのレビューワークフローの作成](https://video.tv.adobe.com/v/35821/quality=9?captions=jpn) | ビデオ | アクティブなフォーム送信から送信されたデータを確認するためのワークフローの作成について説明します。 |
