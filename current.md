@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 5bbdf099a039991d51b2f0735a3766d2f7525f3d
 workflow-type: tm+mt
 source-wordcount: '4597'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -136,7 +136,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 リリース日：**2020 年 7 月 16 日**
 
-* [Adobe Analyticsの新機能](#aa-features) （更新日2020年7月21日）
+* [Adobe Analytics の新機能](#aa-features)（更新日：2020 年 7 月 21 日）
 * [Customer Journey Analyticsの新機能](#cust-journey) （更新日2020年7月29日）
 * [Media Analytics の新機能です。](#media-aa)
 * [Adobe Analytics の修正点](#aa-fixes)
@@ -148,7 +148,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- |-------|
-| CDA：フィールドベースのステッチ | 2020 年 7 月 27 日 | カスタム変数を使用して訪問者を識別できる、クロスデバイス分析の新しい手法です。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/components/cda/field-based-stitching.html) |
+| CDA：フィールドベースのステッチ | 2020 年 7 月 27 日 | カスタム変数を使用して訪問者を識別できる、クロスデバイス分析の新しい手法です。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/components/cda/field-based-stitching.html) |
 | Workspace：新しい日付範囲プリセット | 2020 年 7 月 16 日 | 4 つの新しい日付範囲（_今週／月／四半期／年_（今日を除く））が追加されました。これにより、今日の部分的データを含まない日付範囲から選択できるようになりました。 |
 | データ修復 API — 公開ベータ版 | 2020 年 7 月 14 日 | [!UICONTROL データ修復 API]（Data Repair API）には、特定の既存アドビ Analytics のデータを削除または編集するメカニズムが用意されています。[!UICONTROL データ修復]リクエストは、ジョブ定義を[!UICONTROL データ修復 API] に送信することでおこなわれます。この送信には、レポートスイート、日付範囲、変数、データに適用するアクションが含まれます。リリースされる公開ベータ版では、[!UICONTROL データ修復 API] は [!UICONTROL Activity Map] データの削除をサポートするようになります。追加機能は、今後展開される予定です。データ修復 API 公開ベータ版に参加する場合は、サポートにお問い合わせください。[詳細情報...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md) |
 
