@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 5bbdf099a039991d51b2f0735a3766d2f7525f3d
 workflow-type: tm+mt
 source-wordcount: '4597'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 96%
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)（更新日：2020 年 7 月 29 日）
 * [Audience Manager](#aam)
-* [Experience Manager](#aem) （更新日2020年7月27日）
+* [Experience Manager](#aem)（更新日 2020 年 7 月 27 日）
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
 * [!DNL Target](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)
@@ -67,13 +67,13 @@ ht-degree: 96%
 
 Experience Cloud インターフェイスに対する一般的なアップデートです。
 
-### Adobeサミットラボの新ドキュメント
+### Adobe サミットラボの新ドキュメント
 
-2020年にAdobe・サミット・ラボから公開された新しいコンテンツ。
+2020 年に Adobe サミットラボから公開された新しいコンテンツ。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 7 月 27 日 | [Adobe Document Cloudとのデジタルエクスペリエンスの発信](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | 記事 | このラボでは、デジタル化の方法やPDFをより多く使用する方法を学習し、顧客と従業員の体験を変換することで、生産性と創造性を次のレベルに引き上げます。 |
+| 2020 年 7 月 27 日 | [Adobe Document Cloud とのデジタルエクスペリエンスの発信](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html) | 記事 | このラボでは、デジタル化の方法や PDF をより多く使用する方法を学習し、顧客と従業員の体験を変換することで、生産性と創造性を次のレベルに引き上げます。 |
 
 **インターフェイスメニューの更新**
 
@@ -137,7 +137,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 リリース日：**2020 年 7 月 16 日**
 
 * [Adobe Analytics の新機能](#aa-features)（更新日：2020 年 7 月 21 日）
-* [Customer Journey Analyticsの新機能](#cust-journey) （更新日2020年7月29日）
+* [Customer Journey Analytics の新機能](#cust-journey)（更新日：2020 年 7 月 29 日）
 * [Media Analytics の新機能です。](#media-aa)
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
@@ -156,7 +156,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- |-----|
-| 個人IDの「IDマップ」オプション | 2020 年 6 月 27 日 | IDマップは、Customer Journey Analyticsでの接続の作成の一環として —>値のペアをアップロードできるマップデータ構造です。 キーはID名前空間で、値はID値を保持する構造体です。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
+| ユーザー ID の「ID マップ」オプション | 2020 年 6 月 27 日 | ID マップは、Customer Journey Analytics での接続の作成の一環としてキー —>値のペアをアップロードできるマップデータ構造体です。キーは ID 名前空間で、値は ID 値を保持する構造体です。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
 
 ### [!UICONTROL Media Analytics] の新機能です {#media-aa}
 
@@ -275,7 +275,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 7 月 27 日 | [ソフトウェア配布](https://docs.adobe.com/content/help/ja-JP/experience-cloud/software-distribution/home.html) | 記事 | As of June 2020, the Experience Cloud solution Software Distribution replaces the download platforms [!UICONTROL PackageShare] for AEM and [!DNL Neolane] for [!DNL Campaign] and provides a more efficient experience to find and download your software. 直観的なユーザーインターフェイスとシンプルな検索を備え、ダウンロード速度が大幅に向上したことで、Experience Cloud 製品のソフトウェアパッケージを快適にダウンロードできます。 |
+| 2020 年 7 月 27 日 | [ソフトウェア配布](https://docs.adobe.com/content/help/ja-JP/experience-cloud/software-distribution/home.html) | 記事 | 2020 年 6 月以降、Experience Cloud ソリューションの「ソフトウェア配布」は、[!UICONTROL Package Share]（AEM の場合）、および [!DNL Neolane]（[!DNL Campaign] の場合）のダウンロードプラットフォームに代わり、より効率的なソフトウェアの検索とダウンロードを実現します。直観的なユーザーインターフェイスとシンプルな検索を備え、ダウンロード速度が大幅に向上したことで、Experience Cloud 製品のソフトウェアパッケージを快適にダウンロードできます。 |
 | 2020 年 6 月 26 日 | [アダプティブフォームの概要](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | これらのチュートリアルでは、複数のタブを持つアダプティブフォームの作成に関する手順を順を追って説明します。テーブル、アコーディオンレイアウト、ルールエディターを使用して、ビジネスルールを作成する方法を説明します。 |
 | 2020 年 6 月 26 日 | [AEM Forms でのレビューワークフローの作成](https://video.tv.adobe.com/v/35821/quality=9?captions=jpn) | ビデオ | アクティブなフォーム送信から送信されたデータを確認するためのワークフローの作成について説明します。 |
 | 2020 年 6 月 23 日 | [処理プロファイル](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/processing-profiles.html) | ビデオ | 処理プロファイルは、AEM as a Cloud Service のアセットに対して作成されるレンディションを定義します。 |
@@ -401,6 +401,6 @@ Magent リリースノートについては、以下を参照してください�
 
 >[!NOTE]
 >
->[!UICONTROL Marketo Skyインターフェースのドキュメントは] 、 [こちらから参照できます](https://docs.adobe.com/content/help/en/marketo/sky/home.html)。
+>[!UICONTROL Marketo Sky] インターフェースのドキュメントは 、 [こちら](https://docs.adobe.com/content/help/en/marketo/sky/home.html)から参照できます。
 
 これまでのリリースノートと過去のリリースノートについては、[Marketo リリースノート](https://docs.marketo.com/x/CgA6Ag)を参照してください。
