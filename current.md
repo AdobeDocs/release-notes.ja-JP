@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5bbdf099a039991d51b2f0735a3766d2f7525f3d
+source-git-commit: f7bd407c120932f7c51ccc77d5e72f72a2d38014
 workflow-type: tm+mt
-source-wordcount: '4597'
+source-wordcount: '4591'
 ht-degree: 100%
 
 ---
@@ -141,7 +141,6 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 * [Media Analytics の新機能です。](#media-aa)
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
-* [新しい Adobe Analytics コースとチュートリアル](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
 ### Adobe Analytics の新機能 {#aa-features}
