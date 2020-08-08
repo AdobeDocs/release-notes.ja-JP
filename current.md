@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4692634440160952dc46ee85c9dbdb77b9778fbf
+source-git-commit: c3d6d35f2a56d003514549150db7b060440389f9
 workflow-type: tm+mt
-source-wordcount: '6174'
+source-wordcount: '6287'
 ht-degree: 42%
 
 ---
@@ -228,6 +228,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
    * AEMコマースがCloud Serviceで利用できるようになりました。 詳しくは、 [「AEM CommerceをCloud Serviceとして使用する前に」を参照してください。](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/commerce/getting-started.html)
    * Adobe TargetとAdobe Analyticsのコネクタの機能強化には、ユーザーインターフェイスの強化、クラシックUIの置き換え、Adobe起動の統合が含まれます。 「 [Adobe Analyticsの統合](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/sites/integrations/integrating-adobe-analytics.html) 」および「Adobe Targetの [統合」を参照してください。](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html)
    * Asset Compute Serviceは、アセットを処理するための拡張可能なサービスです。 管理者は、Asset Compute Serviceを使用して作成されたカスタムワーカーを呼び出すようにExperience Managerを設定できます。 開発者はこのサービスを使用して、複雑な使用例に対応する特殊なカスタムワーカーを作成できます。 このWebサービスでは、様々なファイルタイプのサムネールを生成したり、Adobeファイル形式から高品質な画像レンダリングを生成したり、ビデオのエンコード（将来）、メタデータの抽出、インデックス作成の前駆としてのフルテキストの抽出を行ったりできます。 詳しくは、アセットマイクロサービスと処理プロファイルの [使用を参照してください。](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/manage/asset-microservices-configure-and-use.html)
+   * [Asset Compute Service](https://docs.adobe.com/content/help/en/asset-compute/using/home.html) は拡張可能になり、カスタムアプリケーションを作成できます。 これは、デジタルアセットを処理するためのスケーラブルで拡張可能なサービス [!DNL Adobe Experience Cloud] です。 画像、ビデオ、ドキュメントおよびその他のファイル形式を、サムネール、抽出したテキストおよびメタデータ、アーカイブなど、様々なレンディションに変換できます。 開発者は、カスタム使用事例に対処するためにカスタムアプリケーション（カスタムワーカーとも呼ばれます）を作成できます。 Project Fireflyを使用して構築され、サーバレス [Adobe I/O Runtime](https://www.adobe.io/apis/experienceplatform/project-firefly/docs.html)[](https://www.adobe.io/apis/experienceplatform/runtime.html)で動作します。
    * Cloud ServiceとしてのAEMのワークフローモデルとダイナミックメディアに対して、複数の機能強化が行われました。
    * Release 2.11.0 of the [AEM Core Components](https://docs.adobe.com/content/help/ja-JP/experience-manager-core-components/using/introduction.html) is now available as part of AEM Sites including the following:
       * 新しい [PDF Viewerコンポーネントの紹介。](https://aemcomponents.dev/content/core-components-examples/library/page-authoring/pdf-viewer.html)
@@ -242,6 +243,10 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
    * Cloud ServiceとしてのAEMの [完全なリリースノートを参照してください。](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?mkt_tok=eyJpIjoiWm1SallqTmtOekF6WldZMCIsInQiOiJoTTZ3Qm9LNVRXc1lsbjExdlpNMGdQNFE2UGM5ejZob1EwZXlPZHp2MEZJa1BPTHhybHBYcUxFWTgwVjNFajlzYU1Fb1NoVXRwMTc3U2IrbHZKeTVSOG02MUErbWpIb1pjNU8zYkdTbW5MZHVIRUUyNk9vUU9SckdOeUJmbXlObSJ9)
 
 ### セルフサービス
+
+* **AEM Assets**
+
+   * Experience Managerのデスクトップアプリケーションの [トラブルシューティングのヒント](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/troubleshoot.html) （英語）を追加しました。
 
 * **AEM Forms**
 
