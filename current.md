@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: dab2c3fb8b9920f079195693a584f7c48b813e23
+source-git-commit: 94f346f9c1f7f23630c731769e4457bc5e0b7222
 workflow-type: tm+mt
-source-wordcount: '6207'
-ht-degree: 42%
+source-wordcount: '6209'
+ht-degree: 43%
 
 ---
 
@@ -75,9 +75,9 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
 
-| 公開日 | 名前 | 説明 |
-| ----------- | ---------- | ---------- |  
-| 2020 年 7 月 10 日 | [Adobe Experience Platformへのレポート遍歴ステップイベント](https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/reporting-step-events-to-adobe-experience-platform.html) | Experience Platform上で自動的に作成されるデータステップのジャーニーステップのイベントと、それらを調べる方法について説明します。 |
+| 公開日 | 名前 | タイプ | 説明 |
+| ----------- | ---------- | ---------- |---------- |  
+| 2020 年 7 月 10 日 | [Adobe Experience Platformへのレポート遍歴ステップイベント](https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/reporting-step-events-to-adobe-experience-platform.html) | チュートリアル | Experience Platform上で自動的に作成されるデータステップのジャーニーステップのイベントと、それらを調べる方法について説明します。 |
 
 ### Jargeny Orchestration の追加リソース
 
@@ -159,7 +159,7 @@ AppMeasurement リリースの最新の更新については、[AppMeasurement f
 
 Analytics と Customer Journey Analytics の新しいコース、チュートリアルビデオ、記事。
 
-| 公開日 | 名前 | ソリューション | 説明 |
+| 公開日 | 名前 | タイプ | 説明 |
 | ----------- | ----------- | ---------- | ---------- |  
 | 2020 年 7 月 30 日 | [Admin Consoleでのレポートスイートへのアクセス制限](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/administration/user-management/limit-report-suite-access-in-the-admin-console.html) | チュートリアル | この [!UICONTROL Admin Consoleを使用して、自分の役割に必要なレポートスイートにのみアクセスできるようにする方法を説明します] 。 |
 | 2020 年 7 月 24 日 | [管理者をAdobe Analyticsに追加する](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/administration/user-management/adding-an-administrator-to-adobe-analytics.html) | チュートリアル | Adobe [!UICONTROL Admin Consoleで管理者としてユーザーを追加する方法を説明します]。 |
@@ -203,7 +203,7 @@ Audience Manager の新機能、修正点、ドキュメントおよびチュー
 
 ### Audience Manager の新しいチュートリアル {#tutorials-aam}
 
-| 公開日 | 名前 | ソリューション | 説明 |
+| 公開日 | 名前 | タイプ | 説明 |
 | ----------- | ----------- | ---------- | ---------- |
 | 2020 年 8 月 8 日 | [広告をコンバータに変換するのを抑制し、コストを節約し、顧客体験を最適化する](https://experienceleague.adobe.com/?recommended=AudienceManager-A-1-2020.1) | チュートリアル | このコースでは、既存の顧客をリーチキャンペーンから削除して、費用を節約し、顧客体験を最適化する使用例について、開始から終了するまでに必要なすべての概念について説明します。 特徴やセグメントの作成、適切なプロファイルの結合ルールの追加、宛先へのセグメントの追加、この使用例でのROIの計算などが含まれます。 |
 | 2020 年 8 月 8 日 | [適切なプロファイル結合ルールの選択](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/choosing-the-right-profile-merge-rule.html) | チュートリアル | このビデオでは、 [!UICONTROL プロファイルの結合ルールの最も一般的な使用例を3つ見つけ]、それらの使用例がマーケティング活動に役立つかどうかを確認します。 |
@@ -342,7 +342,7 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
 
-| 公開日 | 名前 | ソリューション | 説明 |
+| 公開日 | 名前 | タイプ | 説明 |
 | ----------- | ----------- | ---------- | ---------- |  
 | 2020 年 7 月 10 日 | [Campaign コントロールパネル- GPG鍵管理 — データの復号化](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html) | Campaign Classic | 公開鍵を作成し、Campaign インスタンスに読み込んでインストールし、受信データを復号化する方法を説明します。 |
 | 2020 年 7 月 10 日 | [Campaign コントロールパネル- GPGキー管理 — GPGキーを使用したデータの暗号化](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html) | Campaign Classic | Campaign コントロールパネルにインストールされた GPG キーを使用してデータを書き出す方法を説明します。 |
