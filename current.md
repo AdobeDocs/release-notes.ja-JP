@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1a9860da58454f3e23650b8cf98e20f2819ac3be
+source-git-commit: 8eec282ba5b97526aecf904b58819b446be35db0
 workflow-type: tm+mt
-source-wordcount: '6333'
+source-wordcount: '6337'
 ht-degree: 41%
 
 ---
@@ -31,13 +31,13 @@ ht-degree: 41%
 
 製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
 
-最新の更新： **2020年8月7日**
+最新の更新： **2020年8月11日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
-* [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)
+* [ジャーニーオーケストレーション](#journey-orch)
+* [Analytics](#analytics) （更新日2020年8月11日）および [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -93,6 +93,8 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 * [AppMeasurement](#appm)
 
 ### Adobe Analytics の新機能 {#aa-features}
+
+（更新日2020年8月11日）
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- |-------|
