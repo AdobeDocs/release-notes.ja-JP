@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bc30808217e8734e639246602be45efd02d2dc60
+source-git-commit: 5fa62cfefa6118c72d3c997c198f9f5ad7123b6d
 workflow-type: tm+mt
-source-wordcount: '6402'
+source-wordcount: '6371'
 ht-degree: 41%
 
 ---
@@ -31,13 +31,13 @@ ht-degree: 41%
 
 製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
 
-最新の更新： **2020年8月11日**
+最新の更新： **2020年8月13日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
 * [ジャーニーオーケストレーション](#journey-orch)
-* [Analytics](#analytics) （更新日2020年8月11日）および [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) （更新日2020年8月13日）および [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -94,13 +94,12 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 ### Adobe Analytics の新機能 {#aa-features}
 
-（更新日2020年8月11日）
+（更新日2020年8月13日）
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | -----------| ---------- |-------|
-| 中国のデータ収集機能の強化 | 2020年8月13日 | 次の点が強化されました。Experience CloudIDサービスのサポートファーストパーティSSLのサポートおよびサーバー側転送のサポートを追加しました。 ドキュメントについては、Adobeのセールス担当者にお問い合わせください。 |
 | [!UICONTROL デバイス間の分析]:EMEAおよびAPACでの可用性 | 2020年8月31日 | [デバイス間の分析](https://docs.adobe.com/content/help/en/analytics/components/cda/overview.html) およびプライベートグラフは、ヨーロッパ、中東、アフリカおよびAPACのお客様が利用できます。 |
-| デバイス [!UICONTROL 間の分析でのフィールドベースのステッチの強化] （南北アメリカおよびEMEAで利用可能） | 2020年8月17日 | 新しい [!UICONTROL クロスデバイス分析] (Cross-Device Analytics)のお客様向けにシンプル化されたこの実装により、デバイスグラフ（co-opまたはprivate）を使用する代わりに、Analyticsフィールド(propまたはeVar)に保存されたユーザーIDに基づいてステッチするオプションが提供されます。 この機能強化により、ECIDの実装は不要になり、CDA用にID同期を実装する必要がなくなりました。 （他の特定の機能を使用するには、ECIDとIDの同期が必要です）。 |
+| デバイス [!UICONTROL 間の分析でのフィールドベースのステッチの強化] （南北アメリカおよびEMEAで利用可能） | 2020年8月31日 | 新しい [!UICONTROL クロスデバイス分析] (Cross-Device Analytics)のお客様向けにシンプル化されたこの実装により、デバイスグラフ（co-opまたはprivate）を使用する代わりに、Analyticsフィールド(propまたはeVar)に保存されたユーザーIDに基づいてステッチするオプションが提供されます。 この機能強化により、ECIDの実装は不要になり、CDA用にID同期を実装する必要がなくなりました。 （他の特定の機能を使用するには、ECIDとIDの同期が必要です）。 |
 | （早期発表）ワークスペース：単一のディメンションに対して50,000個の項目をダウンロード | 2020年9月17日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して50,000個の項目をダウンロードできます。 これにより、Analysis Workspace外の400行を超えるデータにアクセスできます。 |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
