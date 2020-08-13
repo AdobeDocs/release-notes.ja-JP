@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8eec282ba5b97526aecf904b58819b446be35db0
+source-git-commit: 287bdc8c8460e9700474bb0bf1e79631182945bb
 workflow-type: tm+mt
-source-wordcount: '6337'
+source-wordcount: '6402'
 ht-degree: 41%
 
 ---
@@ -190,6 +190,7 @@ Audience Manager の新機能、修正点、ドキュメントおよびチュー
 
 ### Adobe Audience Manager の新機能および修正点
 
+* を介して、 [人ベースの宛先をターゲットユーザーに使用できるようにな](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html)[!DNL Google Customer Match]りました。 「 [!UICONTROL 人ベースの宛先] 」を使用してファーストパーティのオーディエンスセグメントを宛先に送信する前に [!DNL Google Customer Match][!DNL Google] 、ユーザーの許可リストにユーザーを追加する必要があります。 詳しくは、 [人物ベースの宛先に関するドキュメントを参照してください](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) 。 (PLAT-53962)
 * [予測オーディエンス](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) では、モデル作成時に、モデルごとの  プロファイル結合ルールの選択がサポートされるようになりました。 （AAM-55178）。
 * 宛先マッピング開始と終了日が各セグメントのページに表示されるようになりました。 （AAM-40056）。
 * 特性の「 [!UICONTROL デバイスタイプ] 」が、新しい特性の作成時に自動的に「 [!UICONTROL デバイス間] 」に設定される問題を修正しました。 （AAM-55368）。
@@ -351,8 +352,8 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | ----------- | ----------- | ---------- | ---------- |  
-| 2020 年 7 月 10 日 | [Campaign コントロールパネル- GPG鍵管理 — データの復号化](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html) | Campaign Classic | 公開鍵を作成し、Campaign インスタンスに読み込んでインストールし、受信データを復号化する方法を説明します。 |
-| 2020 年 7 月 10 日 | [Campaign コントロールパネル- GPGキー管理 — GPGキーを使用したデータの暗号化](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html) | Campaign Classic | Campaign コントロールパネルにインストールされた GPG キーを使用してデータを書き出す方法を説明します。 |
+| 2020 年 7 月 10 日 | [Campaign コントロールパネル- GPG鍵管理 — データの復号化](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html) | Campaign Classic | 公開鍵を作成し、Campaign インスタンスに読み込んでインストールし、受信データを復号化する方法を説明します。 |
+| 2020 年 7 月 10 日 | [Campaign コントロールパネル- GPGキー管理 — GPGキーを使用したデータの暗号化](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html) | Campaign Classic | Campaign コントロールパネルにインストールされた GPG キーを使用してデータを書き出す方法を説明します。 |
 | 2020 年 7 月 10 日 | [Campaign コントロールパネル — データ暗号化用のGPGキーの生成とインストール](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.html) | Campaign Classic | 公開/秘密GPGキーペアを生成し、公開キーをCampaign コントロールパネルにインストールして、インスタンスからデータを送信する前にデータを暗号化する方法を説明します。 |
 | 2020 年 7 月 21 日 | [マーケティングキャンペーンの管理](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/managing-marketing-campaigns.html) | Campaign Classic | チャネル間のマーケティングキャンペーンを効果的に計画、実行、測定するのに役立つ、Adobe Campaignの主要概念を理解します。 |
 | 2020 年 7 月 22 日 | [マーケティングプラン、プログラムおよびキャンペーンの作成](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-marketing-plan-programs-and-campaigns.html) | Campaign Classic | マーケティングプラン、プログラム、キャンペーンを作成する方法、キャンペーンのプロパティを設定する方法、およびスケジュールの使用方法を説明します。 このビデオでは、次に示す練習を案内します。 |
@@ -382,7 +383,7 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 | 機能 | 説明 |
 | -----------| ---------- |
 | [!UICONTROL ポートフォリオ] | Portfolioレベルの位置制限は、ポートフォリオ設定では使用できなくなりました。 以前に作成した位置制限はすべて削除されました。 |
-| [!UICONTROL 制約] | 位置に基づく拘束と拘束条件は、サポートされなくなりました。<br/><ul><li>最小位置制約と最大位置制約は使用できなくなり、以前に作成したすべての入札と位置制約とインプレッション共有制約から削除されました。</li><li>位置制約は含むが、入札制約は一時停止されない、既存の入札と位置制約。 これらは、UIおよびレポートで引き続き使用できます。</li><li>入札と位置の制約は、「入札制約」という名称に変更されました。</li><li>任意のタイプの制約で、（平均掲載順位、重み付け平均掲載順位または最終既知の掲載順位指標を使用する）すべての掲載順位ベースの条件が削除されました。</li></ul><br/>**注意：**位置データは、検索エンジンから利用できる限り、引き続き入力されます。 マイクロソフト広告は、2020年9月に退職します。 |  |
+| [!UICONTROL 制約] | 位置に基づく拘束と拘束条件は、サポートされなくなりました。<br/><ul><li>最小位置制約と最大位置制約は使用できなくなり、以前に作成したすべての入札と位置制約とインプレッション共有制約から削除されました。</li><li>位置制約は含むが、入札制約は一時停止されない、既存の入札と位置制約。 これらは、UIおよびレポートで引き続き使用できます。</li><li>入札と位置の制約は、「入札制約」という名称に変更されました。</li><li>任意のタイプの制約で、（平均掲載順位、重み付け平均掲載順位または最終既知の掲載順位指標を使用する）すべての掲載順位ベースの条件が削除されました。</li></ul><br/>**注意：** 位置データは、検索エンジンから利用できる限り、引き続き入力されます。 マイクロソフト広告は、2020年9月に退職します。 |  |
 | [!UICONTROL Campaigns] | (Google Adsキャンペーン)Advertising Cloud Searchで、レスポンシブ検索広告(RSA)で広告をカスタマイズできるようになりました。 以前は、RSA以外のすべての広告タイプでサポートされていました。 |
 
 ## ![アイコン](/assets/magento.png) [!DNL Magento] {#magento}
