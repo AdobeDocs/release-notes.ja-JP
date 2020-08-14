@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bd027ba7bbbfd6c8e510b48e4e0fff9168403da8
+source-git-commit: 949872e465b54e68051c62f61530591117f54a6a
 workflow-type: tm+mt
-source-wordcount: '2537'
+source-wordcount: '2526'
 ht-degree: 96%
 
 ---
@@ -36,7 +36,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
-* [Target](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
+* [ターゲット](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
 * [Advertising Cloud](#adcloud)
 * [Magento](#magento)
 * [Marketo](#marketo)
@@ -99,7 +99,7 @@ Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer jo
 
 #### Additional resources for [!UICONTROL Journey Orchestration]
 
-[ドキュメント](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
+[ドキュメント](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
 ### [!UICONTROL Mobile Services および Mobile SDK] {#mobile}
 
@@ -131,7 +131,7 @@ Adobe Analytics の新機能および修正点です。
 ### Adobe Analytics の新機能 {#aa-features}
 
 | 機能 | 説明 |
-| -----------| ---------- |  
+| ------- | ------- |
 | 機能 A | テキスト |
 | 機能 B | テキスト |
 | 機能 C | テキスト |
@@ -139,7 +139,7 @@ Adobe Analytics の新機能および修正点です。
 ### [!DNL Media Analytics] SDK for [!DNL iOS] &amp; [!DNL Android] （旧称VHL SDK） {#aa-va}
 
 | 機能 | 説明 |
-| -----------| ---------- |  
+| ------- | ------- |
 | 機能 A | テキスト |
 | 機能 B | テキスト |
 | 機能 C | テキスト |
@@ -151,7 +151,7 @@ Adobe Analytics の新機能および修正点です。
 ### AppMeasurement {#appm}
 
 | 機能 | 説明 |
-| -----------| ---------- |
+| ------- | ------- |
 | 機能 A | テキスト |
 | 機能 B | テキスト |
 | 機能 C | テキスト |
@@ -170,7 +170,7 @@ Adobe Analytics の新機能および修正点です。
 * [!DNL Android]
 * [!DNL Flash-Flex]
 * [!DNL OSX]
-* [!DNL Windows Phone,] [!DNL XBOX,] [!DNL Silverlight,] と [!DNL .NET]
+* [!DNL Windows Phone,] [!DNL XBOX,] [!DNL Silverlight,] および [!DNL .NET]
 * [!DNL BlackBerry]
 * Java
 * PHP
@@ -179,7 +179,7 @@ Adobe Analytics の新機能および修正点です。
 ## Audience Manager {#aam}
 
 | 機能 | 説明 |
-| -----------| ---------- |  
+| ------- | ------- |
 | 機能 A | テキスト |
 | 機能 B | テキスト |
 | 機能 C | テキスト |
@@ -235,7 +235,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 ### [!DNL Livefyre] {#livefyre}
 
 | 機能 | 説明 |
-| -----------| ---------- |  
+| ------- | ------- |
 | 機能 A | テキスト |
 | 機能 B | テキスト |
 | 機能 C | テキスト |
@@ -250,7 +250,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 ## Social {#soc}
 
 | 機能 | 説明 |
-| -----------| ---------- |  
+| ------- | ------- |
 | 機能 A | テキスト |
 | 機能 B | テキスト |
 | 機能 C | テキスト |
@@ -275,7 +275,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 ## Advertising Cloud {#adcloud}
 
 | 機能 | 説明 |
-| -----------| ---------- |  
+| ------- | ------- |
 | 機能 A | テキスト |
 | 機能 B | テキスト |
 | 機能 C | テキスト |
@@ -296,7 +296,7 @@ Magent リリースノートについては、以下を参照してください�
 
 ## Marketo {#marketo}
 
-Marketo Engageは、複雑な購入の遍歴のあらゆる段階を通じて顧客体験を変えようと考えているリード管理とB2Bマーケター向けの包括的なソリューションです。
+Marketo Engageは、複雑な購入の遍歴のあらゆる段階を通じて顧客体験を変えようと考えている、リード管理とB2Bマーケター向けの完全なソリューションです。
 
 ### Core Marketo Engage の更新
 
@@ -316,9 +316,10 @@ See Marketo release notes for [February 2020](https://docs.marketo.com/display/p
 今四半期を通じて、次の機能がリリースされます。
 
 | 機能 | 説明 |
-|------|---------|
-| [!DNL Bizible] | <ul><li>新しいアカウントベースのセグメント化</li><li>ダッシュボード固有のフィルターの保存</li><li>Bizbile ダッシュボードを PDF 形式で書き出し</li></ul> |
-| Sales Connect | ウィンドウとコマンドセンターの構成の更新／機能強化 |
+| ------- | ------- |
+| 機能 A | テキスト |
+| 機能 B | テキスト |
+| 機能 C | テキスト |
 
 ### 発表
 
@@ -336,7 +337,7 @@ See Marketo release notes for [February 2020](https://docs.marketo.com/display/p
 新着および最近のセルフヘルプ記事とビデオ。<!--`https://jira.corp.adobe.com/secure/Dashboard.jspa?selectPageId=60327`-->
 
 | ソリューション | コンテンツ | 説明 |
-|----------| -----------| ---------- |  
+| ---------- | ----------- | ---------- |
 | [!UICONTROL AEM Commerce] | ビデオ - [複数のカテゴリおよび製品ページの作成](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/tutorials.html#!AdobeDocs/commerce-cif-documentation/master/tutorials/04-style-cif-component.md) | CIF コアコンポーネントをカスタマープロジェクトの出発点として使用して、最小限の Adobe Experience Manager（AEM）CIF プロジェクトを作成する方法を説明します。コンポーネントにテーマと CSS スタイルを適用し、アーキタイプで生成された新しい AEM CIF プロジェクトを調べます。また、CIF コアコンポーネントで使用する CSS と JavaScript の編成方法についても説明します。 |
 | [!UICONTROL AEM Forms] | 記事 - [OKTA を使用して AEM Author を認証する](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/single-sign-on-with-okta.html) | OKTA ポータルでアプリケーションを設定する方法と、新しいアプリケーションの登録で一般的に使用する設定について説明します。 |
 | [!UICONTROL AEM Commerce] | チュートリアル - [CIF コアコンポーネントのカスタマイズ](https://www.adobe.io/apis/experiencecloud/commerce-integration-framework/tutorials.html#!AdobeDocs/commerce-cif-documentation/master/tutorials/05-customize-cif-components.md) | CIF コアコンポーネントおよび AEM が提供するさまざまな拡張ポイントを確認します。CIF コアコンポーネントは、Adobe Experience Manager（AEM）と Magento ソリューションを統合するプロジェクトを加速させることができる、コマースコンポーネントの標準セットを提供します。 |
@@ -350,7 +351,7 @@ See Marketo release notes for [February 2020](https://docs.marketo.com/display/p
 | [!DNL Adobe Campaign] - AEP データコネクタ | ビデオ - [カスタムリソースのマッピング](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.html) | Adobe Campaign Standard と Adobe Experience Platform の間で異なるデータタイプをマッピングする方法について説明します。 |
 | [!DNL Adobe Campaign] - AEP データコネクタ | ビデオ - [Adobe Experience Platform データコネクタについて](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.html) | XTK データ（Campaign で取り込んだデータ）を Adobe Experience Platform のエクスペリエンスデータモデル（XDM）データにマッピングして、データをAdobe Experience Platform で利用できるようにする方法について説明します。 |
 | [!DNL Adobe Campaign] - AEP データコネクタ | ビデオ - [シードテーブルデータのマッピング](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.html) | Adobe Experience Platform でシードデータ／テストプロファイルをマッピングする方法について説明します。 |
-| [!DNL Adobe Campaign]- オーディエンスの宛先 | ビデオ - [プラットフォームオーディエンスの配信のターゲットディメンションを変更する](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/changing-targeting-dimension.html) | Adobe Campaign Standard のプライマリプロファイルテーブル以外で、プラットフォームオーディエンスに対する配信のターゲティングディメンションを変更する方法について説明します。 |
+| [!DNL Adobe Campaign] - オーディエンスの宛先 | ビデオ - [プラットフォームオーディエンスの配信のターゲットディメンションを変更する](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/changing-targeting-dimension.html) | Adobe Campaign Standard のプライマリプロファイルテーブル以外で、プラットフォームオーディエンスに対する配信のターゲティングディメンションを変更する方法について説明します。 |
 | [!DNL Adobe Campaign] | ビデオ - [Snowflake のビッグデータ管理](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/fda/big-data-segmentation-on-snowflake.html) | Adobe Campaign Classic の Snowflake コネクタを活用します。 |
 | [!DNL Adobe Campaign] - オーディエンスの宛先 | 記事 - [オーディエンスの宛先（ベータ） - 概要](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html) | Adobe Experience Platform の一元化された統合プロファイルデータを、Adobe Campaign Standard のマーケティングキャンペーンで活用する方法について説明します。 |
 | [!DNL Adobe Target] - モバイル SDK | チュートリアル - [Adobe Target でパーソナライズされたアプリケーションエクスペリエンスを提供する](https://docs.adobe.com/content/help/en/target-learn/mobile-sdk-v4-android/overview.html) | Adobe Target を自身の Android アプリケーションに実装します。Mobile Services SDK の設定を検証し、コンテンツのプリフェッチ、リクエストのブロックなどの [!DNL Target] リクエストを実装します。 |
