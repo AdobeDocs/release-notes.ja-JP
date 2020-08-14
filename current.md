@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b570d8c8abaaea1d18fb4d09486adef522486572
+source-git-commit: 1fc011a1dbdc71052547679e69ac4f853f7fa4c2
 workflow-type: tm+mt
-source-wordcount: '6378'
+source-wordcount: '6445'
 ht-degree: 41%
 
 ---
@@ -370,6 +370,15 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 ## ![アイコン](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
 以下は、Adobe Advertising Cloud のリリースノートです。
+
+* [Advertising Cloud DSP の新機能](#adcloud-dsp)
+* [Advertising Cloud Search の新機能](#adcloud-search)
+
+### [!UICONTROL Advertising Cloud DSPの新機能] {#adcloud-dsp}
+
+| 機能 | 説明 |
+| -----------| ---------- |
+| VASTインベントリを含むように拡張されたインタラクティブなプリロール | 各インタラクティブプリロール配置と広告で、VPAIDとVASTの両方のインベントリをサポートできるようになりました。 **注意：** 主要KPIが視聴性である場合は、VPAIDとVASTのプレースメントと広告を引き続き個別に作成します。これは、VAST広告に表示可能なインプレッションを使用できないためです。 |
 
 ### [!UICONTROL Advertising Cloud Search] の新機能 {#adcloud-search}
 
