@@ -5,23 +5,19 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5fa62cfefa6118c72d3c997c198f9f5ad7123b6d
+source-git-commit: dc785dde4088570baa004f5296d134d16a503562
 workflow-type: tm+mt
-source-wordcount: '6371'
+source-wordcount: '6378'
 ht-degree: 41%
 
 ---
 
 
-# アーリーアクセス —Adobe Experience Cloudリリースノート — 2020年8月
+# Adobe Experience Cloudリリースノート — 2020年8月
 
 ![バナー](/assets/experience-cloud-banner-3.png)
 
 このページでは、[!DNL Adobe Experience Cloud] の新機能、修正点および重要な注意事項について説明します。また、Experience Cloud を最大限に活用するための新しいドキュメント、トレーニングコース、ビデオチュートリアルも紹介しています。
-
->[!IMPORTANT]
->
->このページに記載される内容は、リリース前の情報であり、リリース日の前後に変更される可能性があります。
 
 >[!NOTE]
 >
@@ -242,7 +238,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 「 [パイプライン変数」を参照してください。](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/onboarding/getting-access/creating-aem-application-project.html#pipeline-variables)
    * [ログはSplunkアカウントに転送できます](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/developing/logging.html#splunk-logs)。これにより、組織は自社の [!DNL Splunk] 投資を活用できます。
    * Javaコード [でプログラムされたアウトバウンドトラフィック用の静的な、専用の出力IPアドレスを割り当てることができます](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/developing/development-guidelines.html#dedicated-egress-ip-address) 。これは、一部の統合で役立つ場合があります。
-   * Cloud Readiness Analyzer v1.0.2がリリースされました。 AEM 6.1へのCRAの [インストールを参照してください。](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/moving/cloud-migration/cloud-readiness-analyzer/using-cloud-readiness-analyzer.html#installing-on-aem61)
+   * [!UICONTROL Cloud Readiness Analyzer] v1.0.2がリリースされました。 See detailed [Release Notes](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-2020-7-0.html#cloud-readiness-analyzer) for more information. Cloud Readiness Analyzerの使用を開始するには [!UICONTROL 、「Cloud Readiness Analyzerの]使用 [](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/moving/cloud-migration/cloud-readiness-analyzer/using-cloud-readiness-analyzer.html)」を参照してください。
    * Cloud ServiceとしてのAEMの [完全なリリースノートを参照してください。](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?mkt_tok=eyJpIjoiWm1SallqTmtOekF6WldZMCIsInQiOiJoTTZ3Qm9LNVRXc1lsbjExdlpNMGdQNFE2UGM5ejZob1EwZXlPZHp2MEZJa1BPTHhybHBYcUxFWTgwVjNFajlzYU1Fb1NoVXRwMTc3U2IrbHZKeTVSOG02MUErbWpIb1pjNU8zYkdTbW5MZHVIRUUyNk9vUU9SckdOeUJmbXlObSJ9)
 
 ### セルフサービス
