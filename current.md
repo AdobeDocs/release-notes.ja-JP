@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: dc785dde4088570baa004f5296d134d16a503562
+source-git-commit: b570d8c8abaaea1d18fb4d09486adef522486572
 workflow-type: tm+mt
 source-wordcount: '6378'
 ht-degree: 41%
@@ -93,7 +93,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 （更新日2020年8月13日）
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
-| -----------| ---------- |-------|
+| ----------- | ---------- | ------- |
 | [!UICONTROL デバイス間の分析]:EMEAおよびAPACでの可用性 | 2020年8月31日 | [デバイス間の分析](https://docs.adobe.com/content/help/en/analytics/components/cda/overview.html) およびプライベートグラフは、ヨーロッパ、中東、アフリカおよびAPACのお客様が利用できます。 |
 | デバイス [!UICONTROL 間の分析でのフィールドベースのステッチの強化] （南北アメリカおよびEMEAで利用可能） | 2020年8月31日 | 新しい [!UICONTROL クロスデバイス分析] (Cross-Device Analytics)のお客様向けにシンプル化されたこの実装により、デバイスグラフ（co-opまたはprivate）を使用する代わりに、Analyticsフィールド(propまたはeVar)に保存されたユーザーIDに基づいてステッチするオプションが提供されます。 この機能強化により、ECIDの実装は不要になり、CDA用にID同期を実装する必要がなくなりました。 （他の特定の機能を使用するには、ECIDとIDの同期が必要です）。 |
 | （早期発表）ワークスペース：単一のディメンションに対して50,000個の項目をダウンロード | 2020年9月17日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して50,000個の項目をダウンロードできます。 これにより、Analysis Workspace外の400行を超えるデータにアクセスできます。 |
@@ -101,7 +101,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
-| -----------| ---------- |-----|
+| ----------- | ---------- | ----- |
 | [!UICONTROL ユーザー ID の「ID マップ」オプション] | 2020 年 6 月 27 日 | [!UICONTROL IDマップ] は、 Customer Journey Analyticsでの接続の作成の一環としてキーと値のペアをアップロードできるマップデータ構造です。 キーは ID 名前空間で、値は ID 値を保持する構造体です。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
 
 ### [!UICONTROL Media Analytics] の新機能です {#media-aa}
@@ -109,7 +109,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 リリース日：**2020 年 7 月 16 日**
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
-| -----------| ---------- | ---------- |
+| ----------- | ---------- | ---------- |
 | [サポートされるデバイスとプラットフォーム](https://docs.adobe.com/content/help/ja-JP/media-analytics/using/supported-devices.html) | 2020 年 6 月 19 日 | The [!UICONTROL Media Launch Extension] with AEP SDK now supports the following OTT devices:<ul><li>Apple TV（tvOS）</li><li>Fire TV（Fire OS）</li><li>Android TV</li></ul> |
 | [プレーヤーステートトラッキング](https://docs.adobe.com/content/help/ja-JP/media-analytics/using/player-state-tracking/player-state-overview.html) | 2020 年 5 月 30 日 | [!UICONTROL Media Analytics] のお客様は、標準的なソリューション変数のセット（フルスクリーン、クローズドキャプション、ミュート、ピクチャインピクチャ、インフォーカス）を使用して、再生中の閲覧者のインタラクションをキャプチャできます。また、カスタムプレーヤー状態を柔軟に作成することもできます。[!UICONTROL プレイヤー状態追跡] 変数が [!UICONTROL Analysis Workspaceでレポートできるようになりました]。 この機能を使用するには、次のいずれかが必要です。 <ul><li>Media [!DNL JavaScript] SDK 3.0 以降</li><li>[!DNL Adobe Experience Platform]（AEP）SDK で使用する場合：</li><li>[!UICONTROL Media Analytics 拡張機能]（Web 用）：[!UICONTROL Adobe Media Analytics]（3.x SDK）for Audio および Adobe Media Analytics for Video v1.0 以降</li><li>[!UICONTROL Media Analytics Extension]（モバイル用）：[!UICONTROL Adobe Media Analytics for Audio] および Adobe Media Analytics for Video v2.0 以降</li><li>[!UICONTROL メディアコレクション]</li></ul> |
 
@@ -135,7 +135,7 @@ AN-219351;AN-220960;AN-223788;AN-224630;AN-224948;AN-225618;AN-226261;AN-226828;
 ### [!DNL Analytics] 管理者向けの重要な注意事項 {#aa-notices}
 
 | 通知 | 追加日または更新日 | 説明 |
-| -----------| ---------- | ---------- |
+| ----------- | ---------- | ---------- |
 | Adobe Data Connectors の EOL | 2020 年 7 月 13 日 | Adobe [!UICONTROL Data Connectors] are powered by legacy technology that is no longer viable or supported. [Adobe Exchange パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)には、引き続き提供およびサポートを希望する統合に対して採用する新しい標準があります。正式な終了日はまだ決定していませんが、今後 12 ～ 18 か月（2021 年中旬 ～ 2021 年末）になると予想されています。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/import/dataconnectors/data-connectors-eol.translate.html) |
 | IMS 組織へのレポートスイートのマッピング | 2020 年 7 月 | レポートスイートマッピングツールは 2020 年 11 月に廃止されます。この機能は、Advertising Analytics や Adobe Analytics での Experience Cloud セグメント公開などの統合を強化します。これらのサービスおよび他のサービスを有効にするには、レポートスイートを IMS 組織にマッピングする必要があります。新しいレポートスイートは、作成時に自動的にマッピングされますが、古いレポートスイートは、IMS 組織に手動でマッピングする必要があります。See [Map report suites to an organization](https://docs.adobe.com/content/help/ja-JP/core-services/interface/about-core-services/report-suite-mapping.html) in the Experience Cloud interface (Core Services) user guide to make sure all report suites belong to an IMS org. |
 | 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。Adobe Analytics はアーキテクチャからすべての `omniture.com` ドメイン参照を削除しますが、サードパーティ Cookie として許可リスト `omniture.com` を作成することが重要です。アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。すると、この許可リストの手順は不要になります。許可リストに登録する必要のある推奨 IP アドレスとドメインの完全なリストは、[こちら](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html)をご覧ください。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
@@ -157,7 +157,7 @@ AppMeasurement リリースの最新の更新については、[AppMeasurement f
 Analytics と Customer Journey Analytics の新しいコース、チュートリアルビデオ、記事。
 
 | 公開日 | 名前 | タイプ | 説明 |
-| ----------- | ----------- | ---------- | ---------- |  
+| ----------- | ----------- | ---------- | ---------- |
 | 2020 年 7 月 30 日 | [Admin Consoleでのレポートスイートへのアクセス制限](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/administration/user-management/limit-report-suite-access-in-the-admin-console.html) | チュートリアル | この [!UICONTROL Admin Consoleを使用して、自分の役割に必要なレポートスイートにのみアクセスできるようにする方法を説明します] 。 |
 | 2020 年 7 月 25 日 | [管理者をAdobe Analyticsに追加する](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/administration/user-management/adding-an-administrator-to-adobe-analytics.html) | チュートリアル | Adobe [!UICONTROL Admin Consoleで管理者としてユーザーを追加する方法を説明します]。 |
 | 2020 年 7 月 17 日 | [Analysis Workspaceのクイックインサイトパネル](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.html) | チュートリアル | クイックインサイトは、Analysis Workspace のアナリスト以外のユーザーと新規ユーザーに対して、ビジネスの質問にすばやく簡単に答える方法を学ぶためのガイダンスを提供します。 |
@@ -270,7 +270,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
 
 | 公開日 | 名前 | タイプ | 説明 |
-| -----------| ---------- | ---------- | ---------- |
+| ----------- | ---------- | ---------- | ---------- |
 | 2020 年 8 月 8 日 | [ビジネスユーザ向けのマルチサイト管理の概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2020.1.sites.msm) | コース | 基本コンテンツアーキテクチャと分類の設定から、メタデータやアセット処理のカスタマイズまで、主要な懸念事項を設定し、AEM Assets導入の基盤を確立する方法を説明します。 |
 | 2020 年 8 月 8 日 | [管理者用のAEM Assetsの設定](https://experienceleague.adobe.com/?recommended=ExperienceManager-A-1-2020.1.assets) | チュートリアル | 説明 |
 | 2020 年 7 月 19 日 | [コンテンツ転送ツールの使用](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/migration/content-transfer-tool.html) | チュートリアル | オンプレミスまたはAMSでホストされているExperience Managerから [!UICONTROL AEMにCloud Service] 環境としてコンテンツを移行する場合は、 [!UICONTROL Content Transfer] Toolを使用することをお勧めします。 |
@@ -294,7 +294,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 | 2020 年 7 月 21 日 | [AEM受信トレイ](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/inbox-customization/introduction.html) | チュートリアル | [!UICONTROL AEM Inbox] :Formsワークフローを含む様々なAEMコンポーネントからの通知とタスクを統合します。 |
 | 2020 年 7 月 21 日 | [ログを使用した AEM SDK のローカルクイックスタートのデバッグ](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html) | チュートリアル | ログはAEMアプリケーションのデバッグの最前線として機能しますが、デプロイされたAEMアプリケーションでの適切なログ記録に依存します。 |
 | 2020 年 7 月 21 日 | [SPAエディタの概要](https://video.tv.adobe.com/v/37705?quality=12&learn=on&captions=jpn) | チュートリアル | 開発者向けAEM SPAエディターの概要に関するコースを紹介します。 |
-| 2020 | [基本権限](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/baseline-permissions.html) | チュートリアル | ベースラインアセットフォルダーでのユーザーアクセスの管理は、ガバナンスの重要な側面であり、プロセスを適切にサポートできるようにします。 |
+| 2020 年 7 月 21 日 | [基本権限](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/baseline-permissions.html) | チュートリアル | ベースラインアセットフォルダーでのユーザーアクセスの管理は、ガバナンスの重要な側面であり、プロセスを適切にサポートできるようにします。 |
 | 2020 年 7 月 21 日 | [自動開始ワークフロー](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/auto-start-workflows.html) | チュートリアル | 自動開始ワークフローは、アップロード時または再処理時にカスタムワークフローを自動的に呼び出すことで、AEMのアセット処理をCloud Serviceとして拡張します。 |
 | 2020 年 7 月 21 日 | [ログを使用した AEM SDK のローカルクイックスタートのデバッグ](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html) | チュートリアル | ログはAEMアプリケーションのデバッグの最前線として機能しますが、デプロイされたAEMアプリケーションでの適切なログ記録に依存します。 |
 | 2020 年 7 月 21 日 | [アダプティブフォームテンプレートの作成](https://video.tv.adobe.com/v/37324?captions=jpn) | チュートリアル | 作成者がテンプレートを使用してアダプティブフォームを作成する場合、新しいフォームは、テンプレートで指定した構造とコンポーネントを継承します。 |
@@ -346,7 +346,7 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
 
 | 公開日 | 名前 | タイプ | 説明 |
-| ----------- | ----------- | ---------- | ---------- |  
+| ----------- | ----------- | ---------- | ---------- |
 | 2020 年 7 月 10 日 | [Campaign コントロールパネル- GPG鍵管理 — データの復号化](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html) | Campaign Classic | 公開鍵を作成し、Campaign インスタンスに読み込んでインストールし、受信データを復号化する方法を説明します。 |
 | 2020 年 7 月 10 日 | [Campaign コントロールパネル- GPGキー管理 — GPGキーを使用したデータの暗号化](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html) | Campaign Classic | Campaign コントロールパネルにインストールされた GPG キーを使用してデータを書き出す方法を説明します。 |
 | 2020 年 7 月 10 日 | [Campaign コントロールパネル — データ暗号化用のGPGキーの生成とインストール](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.html) | Campaign Classic | 公開/秘密GPGキーペアを生成し、公開キーをCampaign コントロールパネルにインストールして、インスタンスからデータを送信する前にデータを暗号化する方法を説明します。 |
@@ -376,9 +376,9 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 **8月8日リリース**
 
 | 機能 | 説明 |
-| -----------| ---------- |
+| ----------- | ---------- |
 | [!UICONTROL ポートフォリオ] | Portfolioレベルの位置制限は、ポートフォリオ設定では使用できなくなりました。 以前に作成した位置制限はすべて削除されました。 |
-| [!UICONTROL 制約] | 位置に基づく拘束と拘束条件は、サポートされなくなりました。<br/><ul><li>最小位置制約と最大位置制約は使用できなくなり、以前に作成したすべての入札と位置制約とインプレッション共有制約から削除されました。</li><li>位置制約は含むが、入札制約は一時停止されない、既存の入札と位置制約。 これらは、UIおよびレポートで引き続き使用できます。</li><li>入札と位置の制約は、「入札制約」という名称に変更されました。</li><li>任意のタイプの制約で、（平均掲載順位、重み付け平均掲載順位または最終既知の掲載順位指標を使用する）すべての掲載順位ベースの条件が削除されました。</li></ul><br/>**注意：** 位置データは、検索エンジンから利用できる限り、引き続き入力されます。 マイクロソフト広告は、2020年9月に退職します。 |  |
+| [!UICONTROL 制約] | 位置に基づく拘束と拘束条件は、サポートされなくなりました。 <br/> <ul><li>最小位置制約と最大位置制約は使用できなくなり、以前に作成したすべての入札と位置制約とインプレッション共有制約から削除されました。</li><li>位置制約は含むが、入札制約は一時停止されない、既存の入札と位置制約。 これらは、UIおよびレポートで引き続き使用できます。</li><li>入札と位置の制約は、「入札制約」という名称に変更されました。</li><li>任意のタイプの制約で、（平均掲載順位、重み付け平均掲載順位または最終既知の掲載順位指標を使用する）すべての掲載順位ベースの条件が削除されました。</li></ul> <br/> **注意：** 位置データは、検索エンジンから利用できる限り、引き続き入力されます。 マイクロソフト広告は、2020年9月に退職します。 |
 | [!UICONTROL Campaigns] | (Google Adsキャンペーン)Advertising Cloud Searchで、レスポンシブ検索広告(RSA)で広告をカスタマイズできるようになりました。 以前は、RSA以外のすべての広告タイプでサポートされていました。 |
 
 ## ![アイコン](/assets/magento.png) [!DNL Magento] {#magento}
@@ -401,7 +401,7 @@ Magent リリースノートについては、以下を参照してください�
 今四半期を通じて、次の機能がリリースされます。
 
 | 機能 | 説明 |
-|------|---------|
+| ------ | --------- |
 | [!DNL Bizible] | <ul><li>新しいアカウントベースのセグメント化</li><li>ダッシュボード固有のフィルターの保存</li><li>Bizbile ダッシュボードを PDF 形式で書き出し</li></ul> |
 | Sales Connect | ウィンドウとコマンドセンターの構成の更新／機能強化 |
 
