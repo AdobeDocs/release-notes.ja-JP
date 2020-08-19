@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d88e6054e3a1c93d7c867dd1ee6de0c67bc2eaf5
+source-git-commit: f62e9f844bf396cda7fc711808a0f532de75a52d
 workflow-type: tm+mt
-source-wordcount: '6454'
+source-wordcount: '6522'
 ht-degree: 94%
 
 ---
@@ -27,10 +27,10 @@ ht-degree: 94%
 
 製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
 
-Latest update: **August 13, 2020**
+Latest update: **August 19, 2020**
 
 * [Adobe システムステータス](#status)
-* [Experience Cloud インターフェイス](#ecloud)
+* [Experience Cloud インターフェイス](#ecloud) (updated **August 19, 2020**)
 * [Experience Platform](#platform)
 * [ジャーニーオーケストレーション](#journey-orch)
 * [Analytics](#analytics) （更新日2020年8月13日）および [Customer Journey Analytics](#cust-journey)
@@ -52,6 +52,12 @@ Latest update: **August 13, 2020**
 最新のリリース情報については、[2020 年 5 月 22 日](c-legacy-releases/2020/05212020.md#status)を参照してください。
 
 ## ![アイコン ](/assets/ec_appicon_24.png){#ecloud}
+
+Updated: **August 19, 2020**
+
+| 機能 | 説明 |
+| -----------| ---------- |
+| 管理ツール — 機能とパフォーマンスの改善 | 2020年8月リリースの [!UICONTROL 管理ツールを使用すると] 、システム管理者は製品プロファイルのリストを表示し、各製品プロファイルの詳細な表示を表示または書き出すことができます。 最後のログインデータの読み込みのパフォーマンスが向上し、タイムアウトの問題を修正しました。 詳しくは、[Experience Cloud 管理ツール](https://docs.adobe.com/content/help/ja-JP/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html)のヘルプを参照してください。 |
 
 更新されたインターフェイスと統合製品ドメインに関する最新のリリース情報については、7 月の[前のリリースノート](c-legacy-releases/2020/07162020.md#ecloud)を参照してください。
 
@@ -96,7 +102,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | ----------- | ---------- | ------- |
 | [!UICONTROL クロスデバイス分析]:EMEA および APAC での可用性 | 2020 年 9 月 1 日 | [クロスデバイス分析](https://docs.adobe.com/content/help/ja-JP/analytics/components/cda/overview.html) およびプライベートグラフは、ヨーロッパ、中東、アフリカおよび APAC のお客様が利用できます。 |
 | [!UICONTROL クロスデバイス分析]でのフィールドベースのステッチの強化 （南北アメリカおよび EMEA で利用可能） | 2020 年 9 月 1 日 | 新しい[!UICONTROL クロスデバイス分析]のお客様向けにシンプル化されたこの実装により、デバイスグラフ（コープまたはプライベート）を使用する代わりに、Analytics フィールド（prop または eVar）に保存されたユーザー ID に基づいてステッチするオプションが提供されます。この機能強化により、ECID の実装が不要になり、CDA 用に ID 同期を実装する必要がなくなりました。（他の特定の機能を使用するには、ECID と ID の同期が必要です）。 |
-| （早期発表）ワークスペース：単一のディメンションに対して50,000個の項目をダウンロード | 2020年9月17日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して50,000個の項目をダウンロードできます。 これにより、Analysis Workspace外の400行を超えるデータにアクセスできます。 |
+| （早期発表）ワークスペース：1つのディメンションに対して50,000個の項目をダウンロード | 2020年9月17日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して50,000個の項目をダウンロードできます。 これにより、Analysis Workspace外の400行を超えるデータにアクセスできます。 |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
