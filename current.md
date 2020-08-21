@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f62e9f844bf396cda7fc711808a0f532de75a52d
+source-git-commit: 9d5563a21cae0b1db1448f5f99ffbb1436257077
 workflow-type: tm+mt
-source-wordcount: '6522'
-ht-degree: 99%
+source-wordcount: '6627'
+ht-degree: 97%
 
 ---
 
@@ -27,13 +27,13 @@ ht-degree: 99%
 
 製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
 
-Latest update: **August 19, 2020**
+Latest update: **August 21, 2020**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud) (updated **August 19, 2020**)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) （更新日 2020 年 8 月 14 日）および [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) （更新日2020年8月21日）および [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -91,7 +91,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 * [Customer Journey Analytics の新機能](#cust-journey)
 * [Media Analytics の新機能です。](#media-aa)
 * [Adobe Analytics の修正点](#aa-fixes)
-* [Analytics 管理者向けの重要な注意事項](#aa-notices)
+* [Analytics 管理者向けの重要な注意事項](#aa-notices) （更新日2020年8月21日）
 * [AppMeasurement](#appm)
 
 ### Adobe Analytics の新機能 {#aa-features}
@@ -142,6 +142,8 @@ AN-219351、AN-220960、AN-223788、AN-224630、AN-224948、AN-225618、AN-22626
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
+| ドメイン `omniture.com``adobe.com` 間の移行 | 2020年8月21日 | 2020年8月13日、Adobe Analyticsはフロントエンド建築を藩から `omniture.com|http://omniture.com/``adobe.com|http://adobe.com/` 藩へ移行した。 この変更により、2020年5月28日の初回統合製品ドメインの変更後に発生したサードパーティCookieの問題が軽減される可能性があります。 この更新の結果、新しいドメインまたはドメインを信頼するようにブラウザーがユーザーに促す場合があ `an.adobe.com|http://an.adobe.com/` り `experience.adobe.com|http://experience.adobe.com/` ます。 |
+| Ad Hoc AnalysisJava 8の互換性の更新 | 2020年8月21日 | Ad Hoc Analysisは現在、Java 8バージョン1.8.0_261以降と互換性がありません。 このツールへのアクセスが [提供終了日に達する前に中断されないようにするため](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) 、1.8.0_261より前のJava 8バージョンを維持することをお勧めします。 |
 | Adobe Data Connectors の EOL | 2020 年 7 月 14 日 | Adobe [!UICONTROL Data Connectors ]は、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。[Adobe Exchange パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)には、引き続き提供およびサポートを希望する統合に対して採用する新しい標準があります。正式な終了日はまだ決定していませんが、今後 12 ～ 18 か月（2021 年中旬 ～ 2021 年末）になると予想されています。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/import/dataconnectors/data-connectors-eol.html) |
 | IMS 組織へのレポートスイートのマッピング | 2020 年 7 月 | レポートスイートマッピングツールは 2020 年 11 月に廃止されます。この機能は、Advertising Analytics や Adobe Analytics での Experience Cloud セグメント公開などの統合を強化します。これらのサービスおよび他のサービスを有効にするには、レポートスイートを IMS 組織にマッピングする必要があります。新しいレポートスイートは、作成時に自動的にマッピングされますが、古いレポートスイートは、IMS 組織に手動でマッピングする必要があります。すべてのレポートスイートが IMS 組織に属していることを確認するには、『Experience Cloud インターフェイス（コアサービス）ユーザガイド』の「[レポートスイートを組織にマップする](https://docs.adobe.com/content/help/ja-JP/core-services/interface/about-core-services/report-suite-mapping.html)」を参照してください。 |
 | 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。Adobe Analytics はアーキテクチャからすべての `omniture.com` ドメイン参照を削除しますが、サードパーティ Cookie として許可リスト `omniture.com` を作成することが重要です。アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。すると、この許可リストの手順は不要になります。許可リストに登録する必要のある推奨 IP アドレスとドメインの完全なリストは、[こちら](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html)をご覧ください。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
