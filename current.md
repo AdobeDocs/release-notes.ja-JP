@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 9d5563a21cae0b1db1448f5f99ffbb1436257077
 workflow-type: tm+mt
 source-wordcount: '6627'
-ht-degree: 97%
+ht-degree: 98%
 
 ---
 
@@ -27,10 +27,10 @@ ht-degree: 97%
 
 製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
 
-Latest update: **August 21, 2020**
+最新の更新： **2020 年 8 月 21 日**
 
 * [Adobe システムステータス](#status)
-* [Experience Cloud インターフェイス](#ecloud) (updated **August 19, 2020**)
+* [Experience Cloud インターフェイス](#ecloud)(**2020 年 8 月 19 日**&#x200B;更新)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) （更新日2020年8月21日）および [Customer Journey Analytics](#cust-journey)
@@ -38,9 +38,9 @@ Latest update: **August 21, 2020**
 * [Experience Manager](#aem)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
-* [[!DNLターゲット]](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)
-* [[!DNLMagento]](#magento)
-* [[!DNLMarketo Engage]](#marketo)
+* [[!DNL Target]](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)
+* [[!DNL Magento]](#magento)
+* [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/ja-JP/primetime/release-notes/home.html)
 
 サポートが必要な場合は、[Adobe Experience League](https://experienceleague.adobe.com/#home) にアクセスし、製品および技術ドキュメント、アドビが運営するコース、ビデオチュートリアル、すばやい回答、コミュニティインサイト、講師によるトレーニングをお探しください。
@@ -53,11 +53,11 @@ Latest update: **August 21, 2020**
 
 ## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud インターフェイス {#ecloud}
 
-Updated: **August 19, 2020**
+更新日：**2020 年 8 月 19 日**
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| 管理ツール — 機能とパフォーマンスの改善 | 2020年8月リリースの [!UICONTROL 管理ツールを使用すると] 、システム管理者は製品プロファイルのリストを表示し、各製品プロファイルの詳細な表示を表示または書き出すことができます。 最後のログインデータの読み込みのパフォーマンスが向上し、タイムアウトの問題を修正しました。 詳しくは、[Experience Cloud 管理ツール](https://docs.adobe.com/content/help/ja-JP/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html)のヘルプを参照してください。 |
+| 管理ツール — 機能とパフォーマンスの改善 | 2020 年 8 月リリースの [!UICONTROL 管理ツールを使用すると] 、システム管理者は製品プロファイルのリストを表示し、各製品プロファイルの詳細を表示または書き出すことができます。最新ログインデータ読み込みのパフォーマンスを向上し、タイムアウトの問題を修正しました。詳しくは、[Experience Cloud 管理ツール](https://docs.adobe.com/content/help/ja-JP/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html)のヘルプを参照してください。 |
 
 更新されたインターフェイスと統合製品ドメインに関する最新のリリース情報については、7 月の[前のリリースノート](c-legacy-releases/2020/07162020.md#ecloud)を参照してください。
 
@@ -388,7 +388,7 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 | -----------| ---------- |
 | VAST インベントリを含むように拡張されたインタラクティブなプリロール | 各インタラクティブプリロール配置と広告で、VPAID と VAST の両方のインベントリをサポートできるようになりました。**注意**：主要 KPI が視聴性である場合は、VPAID と VAST の配置と広告を引き続き個別に作成します。これは、VAST 広告に表示可能なインプレッションを使用できないためです。 |
 
-### [!UICONTROL Advertising Cloud Search ] の新機能 {#adcloud-search}
+### [!UICONTROL Advertising Cloud Search] の新機能 {#adcloud-search}
 
 **8 月 9 日**&#x200B;リリース
 
