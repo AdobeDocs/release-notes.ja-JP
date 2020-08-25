@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d714bd852687c7121f44bc31e35fe1ccc0eef43a
+source-git-commit: 2a73b43fedf1c745f89640a11b7aa64244a78bc4
 workflow-type: tm+mt
 source-wordcount: '2526'
 ht-degree: 96%
@@ -369,4 +369,4 @@ See Marketo release notes for [February 2020](https://docs.marketo.com/display/p
 | Adobe Analytics | ビデオ - [CJA でのクロスチャネルアトリビューション](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/cross-channel-attribution-in-customer-journey-analytics.html) | ビジュアライゼーションを使用して、[!UICONTROL Customer Journey Analytics] のチャネル間でアトリビューションを表示する（クレジットを与える）方法について説明します。 |
 | Adobe Analytics | 記事 - [Adobe Analytics のラーニングジャーニーを継続するためのお客様向けヒント](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.html) | Adobe Analytics を最大限活用する方法に関するヒントやテクニックをお持ちの、アドビの 3 人のお客様を紹介します。 |
 | Adobe Analytics | ビデオ - [CJA でのクロスチャネルビジュアライゼーションの作成](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/creating-cross-channel-visualizations-in-customer-journey-analytics.html) | [!UICONTROL Customer Journey Analytics] を使用すれば、複数のチャネルをまたいだ複数のデータセットのデータを含むビジュアライゼーション（訪問者あたりのデータの結合を含む）を作成できます。 |
-| Adobe Analytics | ビデオ - [Adobe Analytics の計算指標を Customer Journey Analytics に移行する](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.html) | [!UICONTROL Customer Journey Analytics] で Analytics [!UICONTROLC計算指標]を再作成する際のヒントを確認します。 |
+| Adobe Analytics | ビデオ - [Adobe Analytics の計算指標を Customer Journey Analytics に移行する](https://docs.adobe.com/content/help/en/platform-learn/tutorials/cja/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.html) | [!UICONTROL Customer Journey AnalyticsでのAnalytics] 計算指標の再作成に関するヒントを紹介します 。 |
