@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9d5563a21cae0b1db1448f5f99ffbb1436257077
+source-git-commit: 97082d9f11c29deee363e000e0bb6db422d6fbe8
 workflow-type: tm+mt
-source-wordcount: '6627'
+source-wordcount: '6639'
 ht-degree: 98%
 
 ---
@@ -384,8 +384,11 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 ### [!UICONTROL Advertising Cloud DSP] の新機能 {#adcloud-dsp}
 
+**更新日8月20日**
+
 | 機能 | 説明 |
 | -----------| ---------- |
+| 六の予測 | Roku配置での予測が可能になりました。 |
 | VAST インベントリを含むように拡張されたインタラクティブなプリロール | 各インタラクティブプリロール配置と広告で、VPAID と VAST の両方のインベントリをサポートできるようになりました。**注意**：主要 KPI が視聴性である場合は、VPAID と VAST の配置と広告を引き続き個別に作成します。これは、VAST 広告に表示可能なインプレッションを使用できないためです。 |
 
 ### [!UICONTROL Advertising Cloud Search] の新機能 {#adcloud-search}
