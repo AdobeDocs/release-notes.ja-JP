@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b91db168aeb1b9f653061f0cd6e19ec8d36a8155
+source-git-commit: c6a071b2e8946d2b7fcfe20f835354ca6d552575
 workflow-type: tm+mt
-source-wordcount: '6673'
+source-wordcount: '6685'
 ht-degree: 96%
 
 ---
@@ -110,7 +110,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
-| ワークスペース：線の視覚化の強化 | 2020年9月17日 | <ul><li>線のビジュアライゼーションのX軸とY軸の表示/非表示を切り替えることができます。 これは、特に、ラインのビジュアライゼーションがよりコンパクトな場合に役立ちます。</li><li>任意の線のビジュアライゼーションに最小値と最大値のラベルをオーバーレイして、指標のピークと谷をすばやく強調表示できます。</li><li>様々な回帰近似曲線を行のビジュアライゼーションに重ねて、データ内のトレンドをより簡単に確認できます。 「線形」、「対数」、「指数」、「累乗」、「二次」などのオプションがあります。</li></ul> |
+| ワークスペース：線の視覚化の強化 | 2020年9月17日 | <ul><li>線のビジュアライゼーションのX軸とY軸の表示/非表示を切り替えることができます。 これは、特に、ラインのビジュアライゼーションがよりコンパクトな場合に役立ちます。</li><li>任意の線のビジュアライゼーションに最小値と最大値のラベルをオーバーレイして、指標のピークと谷をすばやく強調表示できます。</li><li>様々な回帰近似曲線を行のビジュアライゼーションに重ねて、データ内のトレンドをより簡単に確認できます。 「線形」、「対数」、「指数」、「累乗」、「二次」などのオプションがあります。</li></ul>[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 
 ### [!UICONTROL Media Analytics] の新機能 {#media-aa}
 
