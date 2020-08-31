@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7349731bb72163473efc26069df9f1d77f0f7c23
+source-git-commit: b91db168aeb1b9f653061f0cd6e19ec8d36a8155
 workflow-type: tm+mt
-source-wordcount: '6651'
-ht-degree: 99%
+source-wordcount: '6673'
+ht-degree: 96%
 
 ---
 
@@ -27,13 +27,13 @@ ht-degree: 99%
 
 製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
 
-最新の更新： **2020 年 8 月 21 日**
+最新の更新： **2020 年 8 月 31 日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)(**2020 年 8 月 19 日**&#x200B;更新)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) （更新日 2020 年 8 月 21 日）および [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) （更新日 2020 年 8 月 31 日）および [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -96,28 +96,29 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 ### Adobe Analytics の新機能 {#aa-features}
 
-（更新日 2020 年 8 月 13 日）
+（更新日 2020 年 8 月 31 日）
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ------- |
 | [!UICONTROL クロスデバイス分析]：EMEA および APAC での可用性 | 2020 年 9 月 1 日 | [クロスデバイス分析](https://docs.adobe.com/content/help/ja-JP/analytics/components/cda/overview.html)およびプライベートグラフは、ヨーロッパ、中東、アフリカおよび APAC のお客様が利用できます。 |
 | [!UICONTROL クロスデバイス分析]でのフィールドベースのステッチの強化 （南北アメリカおよび EMEA で利用可能） | 2020 年 9 月 1 日 | 新しい[!UICONTROL クロスデバイス分析]のお客様向けにシンプル化されたこの実装により、デバイスグラフ（コープまたはプライベート）を使用する代わりに、Analytics フィールド（prop または eVar）に保存されたユーザー ID に基づいてステッチするオプションが提供されます。この機能強化により、ECID の実装が不要になり、CDA 用に ID 同期を実装する必要がなくなりました。（他の特定の機能を使用するには、ECID と ID の同期が必要です）。 |
-| （早期発表）Workspace：単一のディメンションに対して 50,000 個の項目をダウンロード | 2020 年 9 月 18 日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して 50,000 個の項目をダウンロードできます。これにより、Analysis Workspace 外の 400 行を超えるデータにアクセスできます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
+| ワークスペース：1つのディメンションに対して50,000個の項目をダウンロード | 2020 年 9 月 18 日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して 50,000 個の項目をダウンロードできます。これにより、Analysis Workspace 外の 400 行を超えるデータにアクセスできます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
+| ワークスペース：線の視覚化の強化 | 2020年9月17日 | <ul><li>線のビジュアライゼーションのX軸とY軸の表示/非表示を切り替えることができます。 これは、特に、ラインのビジュアライゼーションがよりコンパクトな場合に役立ちます。</li><li>任意の線のビジュアライゼーションに最小値と最大値のラベルをオーバーレイして、指標のピークと谷をすばやく強調表示できます。</li><li>様々な回帰トレンドラインを行のビジュアライゼーションに重ねて、データのトレンドをより簡単に確認できます。 「線形」、「対数」、「指数」、「累乗」、「二次」などのオプションがあります。</li></ul> [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
+
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
-| ユーザー ID の「[!UICONTROL ID マップ]」オプション | 2020 年 6 月 27 日 | [!UICONTROL ID マップ]は、[!UICONTROL Customer Journey Analytics] での接続の作成の一環としてキー —値のペアをアップロードできるマップデータ構造体です。キーは ID 名前空間で、値は ID 値を保持する構造体です。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
+| ワークスペース：線の視覚化の強化 | 2020年9月17日 | <ul><li>線のビジュアライゼーションのX軸とY軸の表示/非表示を切り替えることができます。 これは、特に、ラインのビジュアライゼーションがよりコンパクトな場合に役立ちます。</li><li>任意の線のビジュアライゼーションに最小値と最大値のラベルをオーバーレイして、指標のピークと谷をすばやく強調表示できます。</li><li>様々な回帰近似曲線を行のビジュアライゼーションに重ねて、データ内のトレンドをより簡単に確認できます。 「線形」、「対数」、「指数」、「累乗」、「二次」などのオプションがあります。</li></ul> |
 
 ### [!UICONTROL Media Analytics] の新機能 {#media-aa}
 
-リリース日：**2020 年 7 月 17 日**
+（更新日 2020 年 8 月 31 日）
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ---------- |
-| [サポートされるデバイスとプラットフォーム](https://docs.adobe.com/content/help/ja-JP/media-analytics/using/supported-devices.html) | 2020 年 6 月 19 日 | AEP SDK を含む[!UICONTROL メディア Launch 拡張機能]で、以下の OTT デバイスがサポートされるようになりました。<ul><li>Apple TV（tvOS）</li><li>Fire TV（Fire OS）</li><li>Android TV</li></ul> |
-| [プレーヤーステートトラッキング](https://docs.adobe.com/content/help/ja-JP/media-analytics/using/player-state-tracking/player-state-overview.html) | 2020 年 5 月 30 日 | [!UICONTROL Media Analytics] のお客様は、標準的なソリューション変数のセット（フルスクリーン、クローズドキャプション、ミュート、ピクチャインピクチャ、インフォーカス）を使用して、再生中の閲覧者のインタラクションをキャプチャできます。また、カスタムプレーヤー状態を柔軟に作成することもできます。[!UICONTROL Analysis Workspace] のレポートで、[!UICONTROL プレイヤー状態追跡]変数を使用できるようになりました。この機能を使用するには、次のいずれかが必要です。 <ul><li>Media [!DNL JavaScript] SDK 3.0 以降</li><li>[!DNL Adobe Experience Platform]（AEP）SDK で使用する場合：</li><li>[!UICONTROL Media Analytics 拡張機能]（Web 用）：[!UICONTROL Adobe Media Analytics]（3.x SDK）for Audio および Adobe Media Analytics for Video v1.0 以降</li><li>[!UICONTROL Media Analytics Extension]（モバイル用）：[!UICONTROL Adobe Media Analytics for Audio] および Adobe Media Analytics for Video v2.0 以降</li><li>[!UICONTROL メディアコレクション]</li></ul> |
+| Workspaceのメディアコンカレントビューアパネル | 2020 年 9 月 18 日 | メディアの同時ビューアパネルを使用すると、ピーク同時実行が発生した場所や下降が発生した場所を把握できます。  コンテンツの質とViewerの関与に関する貴重な情報を提供し、ボリューム/規模のトラブルシューティングや計画に役立ちます。 [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html) |
 
 ### Adobe Analytics の修正点 {#aa-fixes}
 
