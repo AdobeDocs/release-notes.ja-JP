@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2a73b43fedf1c745f89640a11b7aa64244a78bc4
+source-git-commit: 1ec71f66a34b17fb62831973cd46426ecc9f0d10
 workflow-type: tm+mt
-source-wordcount: '2526'
+source-wordcount: '2527'
 ht-degree: 96%
 
 ---
@@ -87,7 +87,7 @@ For product documentation, see [Experience Cloud interface](https://docs.adobe.c
 
 機能と修正点。
 
-製品ドキュメントについては、[Experience Cloud ID サービス](https://marketing.adobe.com/resources/help/ja_JP/mcvid/)を参照してください。
+製品ドキュメントについては、[Experience Cloud ID サービス](https://docs.adobe.com/content/help/ja-JP/id-service/using/home.html)を参照してください。
 
 ### [!UICONTROL Experience Platform Launch] {#launch}
 
@@ -116,7 +116,7 @@ Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer jo
 
 製品ドキュメントについては、[Mobile Services](https://docs.adobe.com/content/help/ja-JP/mobile-services/using/home.html) を参照してください。
 
-Mobile SDK について詳しくは、[Experience Solutions 用 Android SDK 4.x](https://marketing.adobe.com/resources/help/ja_JP/mobile/android/) および [Experience Cloud Solutions 用 iOS SDK 4.x](https://docs.adobe.com/content/help/ja-JP/mobile-services/ios/overview.html) を参照してください。
+Mobile SDK について詳しくは、[Experience Solutions 用 Android SDK 4.x](https://docs.adobe.com/content/help/ja-JP/mobile-services/android/overview.html) および [Experience Cloud Solutions 用 iOS SDK 4.x](https://docs.adobe.com/content/help/ja-JP/mobile-services/ios/overview.html) を参照してください。
 
 ## Analytics {#analytics}
 
