@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c6a071b2e8946d2b7fcfe20f835354ca6d552575
+source-git-commit: bae18faf738a3750ceb63a3048750e77c1ebfa5c
 workflow-type: tm+mt
-source-wordcount: '6685'
-ht-degree: 96%
+source-wordcount: '6687'
+ht-degree: 95%
 
 ---
 
@@ -350,7 +350,7 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 * 20.2.1 リリース — [詳細情報](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html#release-20-2-2-build-9180)
 
-### 新しい Campaign コースとチュートリアル
+### 新規および更新されたキャンペーンコースとチュートリアル
 
 以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
 
