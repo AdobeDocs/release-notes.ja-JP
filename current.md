@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bae18faf738a3750ceb63a3048750e77c1ebfa5c
+source-git-commit: 9e8ab72d5c5ac0db9cde3ca99013a42e33251aa0
 workflow-type: tm+mt
-source-wordcount: '6687'
+source-wordcount: '6688'
 ht-degree: 95%
 
 ---
@@ -73,7 +73,7 @@ Experience Platform に関する最新情報については、[Experience Platfo
 
 Adobe Experience Platform を使用すると、それぞれの顧客のニーズをリアルタイムでインテリジェントに予測し、どのようなジャーニーをたどっていても、個別カスタマージャーニーをエクスペリエンスチャネル全体で大規模に編成することができます。
 
-### 新しい Campaign コースとチュートリアル
+### 新しい Journey Orchestration コースとチュートリアル
 
 以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
 
