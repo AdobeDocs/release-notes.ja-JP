@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 9e8ab72d5c5ac0db9cde3ca99013a42e33251aa0
 workflow-type: tm+mt
 source-wordcount: '6688'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 95%
 最新の更新： **2020 年 8 月 31 日**
 
 * [Adobe システムステータス](#status)
-* [Experience Cloud インターフェイス](#ecloud)(**2020 年 8 月 19 日**&#x200B;更新)
+* [Experience Cloud インターフェイス](#ecloud)(**2020 年 8 月 20 日**&#x200B;更新)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) （更新日 2020 年 8 月 31 日）および [Customer Journey Analytics](#cust-journey)
@@ -53,7 +53,7 @@ ht-degree: 95%
 
 ## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud インターフェイス {#ecloud}
 
-更新日：**2020 年 8 月 19 日**
+更新日：**2020 年 8 月 20 日**
 
 | 機能 | 説明 |
 | -----------| ---------- |
@@ -81,7 +81,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | ----------- | ---------- | ---------- |---------- |  
 | 2020 年 7 月 11 日 | [Adobe Experience Platform へのジャーニーステップイベントのレポート](https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/reporting-step-events-to-adobe-experience-platform.html) | チュートリアル | Experience Platform 上で自動的に作成されるデータステップのジャーニーステップのイベントと、それらを調べる方法について説明します。 |
 
-### Jargeny Orchestration の追加リソース
+### Journey Orchestration の追加リソース
 
 [ドキュメント](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
@@ -102,7 +102,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | ----------- | ---------- | ------- |
 | [!UICONTROL クロスデバイス分析]：EMEA および APAC での可用性 | 2020 年 9 月 1 日 | [クロスデバイス分析](https://docs.adobe.com/content/help/ja-JP/analytics/components/cda/overview.html)およびプライベートグラフは、ヨーロッパ、中東、アフリカおよび APAC のお客様が利用できます。 |
 | [!UICONTROL クロスデバイス分析]でのフィールドベースのステッチの強化 （南北アメリカおよび EMEA で利用可能） | 2020 年 9 月 1 日 | 新しい[!UICONTROL クロスデバイス分析]のお客様向けにシンプル化されたこの実装により、デバイスグラフ（コープまたはプライベート）を使用する代わりに、Analytics フィールド（prop または eVar）に保存されたユーザー ID に基づいてステッチするオプションが提供されます。この機能強化により、ECID の実装が不要になり、CDA 用に ID 同期を実装する必要がなくなりました。（他の特定の機能を使用するには、ECID と ID の同期が必要です）。 |
-| ワークスペース：1つのディメンションに対して50,000個の項目をダウンロード | 2020 年 9 月 18 日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して 50,000 個の項目をダウンロードできます。これにより、Analysis Workspace 外の 400 行を超えるデータにアクセスできます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
+| ワークスペース：1つのディメンションに対して50,000個の項目をダウンロード | 2020 年 9 月 18 日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して 50,000 個の項目をダウンロードできます。これにより、Analysis Workspace 外の 400 行を超えるデータにアクセスできます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
 | ワークスペース：線の視覚化の強化 | 2020年9月17日 | <ul><li>線のビジュアライゼーションのX軸とY軸の表示/非表示を切り替えることができます。 これは、特に、ラインのビジュアライゼーションがよりコンパクトな場合に役立ちます。</li><li>任意の線のビジュアライゼーションに最小値と最大値のラベルをオーバーレイして、指標のピークと谷をすばやく強調表示できます。</li><li>様々な回帰トレンドラインを行のビジュアライゼーションに重ねて、データのトレンドをより簡単に確認できます。 「線形」、「対数」、「指数」、「累乗」、「二次」などのオプションがあります。</li></ul> [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 
 
@@ -143,8 +143,8 @@ AN-219351、AN-220960、AN-223788、AN-224630、AN-224948、AN-225618、AN-22626
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
-| `omniture.com` ドメインから `adobe.com` ドメインの移行 | 2020 年 8 月 21 日 | 2020 年 8 月 13 日、Adobe Analytics はフロントエンドアーキテクチャを `omniture.com|http://omniture.com/` から `adobe.com|http://adobe.com/` に移行しました。この変更により、2020 年 5 月 28 日の初回統合製品ドメインの変更後に発生したサードパーティ Cookie の問題が改善される可能性があります。このアップデートの結果、新しい `an.adobe.com|http://an.adobe.com/` ドメインまたは `experience.adobe.com|http://experience.adobe.com/` ドメインを信頼するようにブラウザーが促す場合があります。 |
-| Ad Hoc Analysis Java 8 の互換性のアップデート | 2020 年 8 月 21 日 | Ad Hoc Analysis は現在、Java 8 バージョン 1.8.0_261 以降と互換性がありません。このツールへのアクセスが[提供終了日](https://spark.adobe.com/page/S9Bhp66VJ2fEn/)に達する前に中断されないようにするため 、1.8.0_261 以前の Java 8 バージョンを維持することをお勧めします。 |
+| `omniture.com` ドメインから `adobe.com` ドメインの移行 | 2020 年 8 月 22 日 | 2020 年 8 月 14 日、Adobe Analytics はフロントエンドアーキテクチャを `omniture.com|http://omniture.com/` から `adobe.com|http://adobe.com/` に移行しました。この変更により、2020 年 5 月 28 日の初回統合製品ドメインの変更後に発生したサードパーティ Cookie の問題が改善される可能性があります。このアップデートの結果、新しい `an.adobe.com|http://an.adobe.com/` ドメインまたは `experience.adobe.com|http://experience.adobe.com/` ドメインを信頼するようにブラウザーが促す場合があります。 |
+| Ad Hoc Analysis Java 8 の互換性のアップデート | 2020 年 8 月 22 日 | Ad Hoc Analysis は現在、Java 8 バージョン 1.8.0_261 以降と互換性がありません。このツールへのアクセスが[提供終了日](https://spark.adobe.com/page/S9Bhp66VJ2fEn/)に達する前に中断されないようにするため 、1.8.0_261 以前の Java 8 バージョンを維持することをお勧めします。 |
 | Adobe Data Connectors の EOL | 2020 年 7 月 14 日 | Adobe [!UICONTROL Data Connectors ]は、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。[Adobe Exchange パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)には、引き続き提供およびサポートを希望する統合に対して採用する新しい標準があります。正式な終了日はまだ決定していませんが、今後 12 ～ 18 か月（2021 年中旬 ～ 2021 年末）になると予想されています。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/import/dataconnectors/data-connectors-eol.html) |
 | IMS 組織へのレポートスイートのマッピング | 2020 年 7 月 | レポートスイートマッピングツールは 2020 年 11 月に廃止されます。この機能は、Advertising Analytics や Adobe Analytics での Experience Cloud セグメント公開などの統合を強化します。これらのサービスおよび他のサービスを有効にするには、レポートスイートを IMS 組織にマッピングする必要があります。新しいレポートスイートは、作成時に自動的にマッピングされますが、古いレポートスイートは、IMS 組織に手動でマッピングする必要があります。すべてのレポートスイートが IMS 組織に属していることを確認するには、『Experience Cloud インターフェイス（コアサービス）ユーザガイド』の「[レポートスイートを組織にマップする](https://docs.adobe.com/content/help/ja-JP/core-services/interface/about-core-services/report-suite-mapping.html)」を参照してください。 |
 | 統合製品ドメインへの移行 | 発効日：2020 年 5 月 29 日 | Adobe Analytics の統合製品ドメインへの移行は 2020 年 1 月に開始され、2020 年 5 月 29 日に完了しました。Adobe Analytics はアーキテクチャからすべての `omniture.com` ドメイン参照を削除しますが、サードパーティ Cookie として許可リスト `omniture.com` を作成することが重要です。アーキテクチャの完全な移行が（間もなく）完了したら、リリースノートからお知らせいたします。すると、この許可リストの手順は不要になります。許可リストに登録する必要のある推奨 IP アドレスとドメインの完全なリストは、[こちら](https://helpx.adobe.com/jp/analytics/kb/adobe-ip-addresses.html)をご覧ください。<br>組織がサードパーティ Cookie をブロックしている場合は、カスタマーケアに連絡して、Adobe Analytics へのアクセスを再取得してください。 |
@@ -385,11 +385,11 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 ### [!UICONTROL Advertising Cloud DSP] の新機能 {#adcloud-dsp}
 
-**更新日8月20日**
+**更新日：8 月 21 日**
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| 六の予測 | Roku配置での予測が可能になりました。 |
+| Roku の予測 | Roku プレースメントの予測機能を利用できるようになりました。 |
 | VAST インベントリを含むように拡張されたインタラクティブなプリロール | 各インタラクティブプリロール配置と広告で、VPAID と VAST の両方のインベントリをサポートできるようになりました。**注意**：主要 KPI が視聴性である場合は、VPAID と VAST の配置と広告を引き続き個別に作成します。これは、VAST 広告に表示可能なインプレッションを使用できないためです。 |
 
 ### [!UICONTROL Advertising Cloud Search] の新機能 {#adcloud-search}
