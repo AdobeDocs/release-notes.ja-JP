@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 2bda04891fdfe3a57208f4f6accf7ac0d5c49432
 workflow-type: tm+mt
 source-wordcount: '6728'
-ht-degree: 38%
+ht-degree: 39%
 
 ---
 
@@ -127,8 +127,8 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | デバイス [!UICONTROL 間の分析でのフィールドベースのステッチの強化] （世界中で利用可能） | 2020 年 9 月 1 日 | 新しい[!UICONTROL クロスデバイス分析]のお客様向けにシンプル化されたこの実装により、デバイスグラフ（コープまたはプライベート）を使用する代わりに、Analytics フィールド（prop または eVar）に保存されたユーザー ID に基づいてステッチするオプションが提供されます。この機能強化により、ECID の実装が不要になり、CDA 用に ID 同期を実装する必要がなくなりました。（他の特定の機能を使用するには、ECID と ID の同期が必要です）。 |
 | 中国のデータ収集、第2段階 | 2020年9月1日 | ファーストパーティSSLのサポートが拡張されました。 |
 | Workspaceの新しい日付範囲 | 2020年9月10日 | 5つの新しい日付範囲を追加するので、今日の日付の一部データを含まない日付範囲から選択できます。最近の7日間、過去14日間、過去30日間、過去60日間、過去90日間の全日数 |
-| ワークスペース：1つのディメンションに対して50,000個の項目をダウンロード | 2020 年 9 月 18 日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して 50,000 個の項目をダウンロードできます。これにより、Analysis Workspace 外の 400 行を超えるデータにアクセスできます。 |
-| ワークスペース：線の [!UICONTROL ビジュアライゼーションの強化] | 2020 年 9 月 18 日 | <ul><li>任意の [!UICONTROL 線のビジュアライゼーションのX軸とY軸を表示または非表示にできます] 。 これは、 [!UICONTROL 行のビジュアライゼーションがよりコンパクトな場合に特に便利です] 。</li><li>任意の  線のビジュアライゼーションに最小値と最大値のラベルをオーバーレイして、指標のピークと谷をすばやく強調表示できます。</li><li>どの [!UICONTROL 線のビジュアライゼーションにも異なる回帰トレンドラインを重ねて表示でき] 、データのトレンドをより簡単に確認できます。 オプションには、 [!UICONTROL 線形]、 [!UICONTROL 対数]、指数 [!UICONTROL 、累乗、累乗]、および二次 が含まれます。</li></ul> [詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
+| Workspace：単一のディメンションに対して 50,000 個の項目をダウンロード | 2020 年 9 月 18 日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して 50,000 個の項目をダウンロードできます。これにより、Analysis Workspace 外の 400 行を超えるデータにアクセスできます。 |
+| ワークスペース：線の [!UICONTROL ビジュアライゼーションの強化] | 2020 年 9 月 18 日 | <ul><li>You can show or hide the x-axis and y-axis of any [!UICONTROL Line] visualization. This can be especially helpful when your [!UICONTROL Line] visualizations are more compact.</li><li>You can overlay a minimum and maximum value label on any [!UICONTROL Line] visualization to quickly highlight the peaks and valleys in a metric.</li><li>You can overlay different regression trend lines on any [!UICONTROL Line] visualization to more easily see the trend in the data. Options include [!UICONTROL Linear], [!UICONTROL Logarithmic], [!UICONTROL Exponential], [!UICONTROL Power] and [!UICONTROL Quadratic].</li></ul> [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
@@ -137,28 +137,28 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | Customer Journey Analytics権限の変更 | 2020年9月9日 | CJAは、すべてのユーザーを管理者として扱う必要はなくなります。 [Adobe Admin Consoleの製品管理者に指定されたユーザーのみが](https://docs.adobe.com/content/help/ja-JP/core-services/interface/manage-users-and-products/admin-getting-started.html) 、次の操作を実行できます。<ul><li>「 [!UICONTROL 接続] 」または「 [!UICONTROL データ」表示の作成/更新/削除]</li><li>他のユーザーが作成したプロジェクト、フィルターまたは計算指標を更新/削除します。</li><li>Workspaceプロジェクトをすべてのユーザーと共有する</li></ul> |
 | [!UICONTROL 異常値検出]のサポート | 2020年9月10日 | [!UICONTROL 異常値検出] ：重要な統計的変動と重要でない統計的変動を識別できます。この機能は、 [!UICONTROL Customer Journey Analyticsでサポートされるようになりました]。 |
 | Workspaceの新しい日付範囲 | 2020年9月10日 | 5つの新しい日付範囲を追加するので、今日の日付の一部データを含まない日付範囲から選択できます。 [!UICONTROL 過去7日間]、過去14 [!UICONTROL 日間]、過去30日間 [!UICONTROL 、過去60日間][!UICONTROL 、過去90日間] |
-| ワークスペース：線の [!UICONTROL ビジュアライゼーションの強化] | 2020 年 9 月 18 日 | <ul><li>任意の [!UICONTROL 線のビジュアライゼーションのX軸とY軸を表示または非表示にできます] 。 これは、 [!UICONTROL 行のビジュアライゼーションがよりコンパクトな場合に特に便利です] 。</li><li>任意の  線のビジュアライゼーションに最小値と最大値のラベルをオーバーレイして、指標のピークと谷をすばやく強調表示できます。</li><li>どの [!UICONTROL 線のビジュアライゼーションにも異なる回帰トレンドラインを重ねて表示でき] 、データのトレンドをより簡単に確認できます。 オプションには、 [!UICONTROL 線形]、 [!UICONTROL 対数]、指数 [!UICONTROL 、累乗、累乗]、および二次 が含まれます。</li></ul> [詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/visualizations/line.html) |
+| ワークスペース：線の [!UICONTROL ビジュアライゼーションの強化] | 2020 年 9 月 18 日 | <ul><li>You can show or hide the x-axis and y-axis of any [!UICONTROL Line] visualization. This can be especially helpful when your [!UICONTROL Line] visualizations are more compact.</li><li>You can overlay a minimum and maximum value label on any [!UICONTROL Line] visualization to quickly highlight the peaks and valleys in a metric.</li><li>You can overlay different regression trend lines on any [!UICONTROL Line] visualization to more easily see the trend in the data. Options include [!UICONTROL Linear], [!UICONTROL Logarithmic], [!UICONTROL Exponential], [!UICONTROL Power] and [!UICONTROL Quadratic].</li></ul> [詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/visualizations/line.html) |
 
 ### [!UICONTROL Media Analytics] の新機能 {#media-aa}
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ---------- |
-|  WorkspaceのMedia Concurrent Viewer [!UICONTROL パネル] | 2020 年 9 月 18 日 | [!UICONTROL メディア同時ビューア] パネルを使用すると、ピーク同時実行が発生した場所やドロップオフが発生した場所を把握できます。 コンテンツの質とViewerの関与に関する貴重な情報を提供し、ボリューム/規模のトラブルシューティングや計画に役立ちます。 [詳細情報...](https://docs.adobe.com/content/help/en/media-analytics/using/media-reports/media-workspace-panels/media-concurrent-viewers.html) |
+| Workspace のメディア同時閲覧者パネル | 2020 年 9 月 18 日 | [!UICONTROL メディア同時ビューア] パネルを使用すると、ピーク同時実行が発生した場所やドロップオフが発生した場所を把握できます。 コンテンツの質と閲覧者の関与に関する貴重な情報を提供し、ボリュームやスケールのトラブルシューティングや計画に役立ちます。[詳細情報...](https://docs.adobe.com/content/help/en/media-analytics/using/media-reports/media-workspace-panels/media-concurrent-viewers.html) |
 
 ### Adobe Analytics の修正点 {#aa-fixes}
 
-* 「未指定」のディメンションによって [!UICONTROL Workspace] 列をフィルターできない問題を修正しました。 （AN-222393）。
-* 接続のタイムアウト時に、 [!UICONTROL スケジュールされたプロジェクトが配信できない問題を修正しました] 。 （AN-223916）。
-* [!UICONTROL 仮想レポートスイートの] 訪問 [!UICONTROL セグメントが正しく機能しない問題を修正しました] 。 （AN-225719）。
-* Adobe Report Builderで発生していたChromeブラウザーのバージョンの問題を修正しました。 （AN-226718）。
-* VRS内の任意のディメンション [!UICONTROL /指標で分類できる、キュレーションされた] 仮想レポートスイートの問題を修正しました。 （AN-228035）。
-* セグメントマネージャ [!UICONTROL ー] ニットの検索機能が正しく動作する問題を修正しました。 （AN-226954）。
-* 1人または2人以上のユーザーとプロジェクトを共有しようとすると、 [!UICONTROL Workspace] でタイムアウトエラーが発生する問題を修正しました。 （AN-229443）。
-* API要求でシステムエラーエラーが発生する問題を修正しました。 （AN-229537）。
+* 「未指定」のディメンションによって [!UICONTROL Workspace] 列をフィルターできない問題を修正しました。 （AN-222393）
+* 接続のタイムアウト時に、 [!UICONTROL スケジュールされたプロジェクトが配信できない問題を修正しました] 。 （AN-223916）
+* [!UICONTROL 仮想レポートスイートの] 訪問 [!UICONTROL セグメントが正しく機能しない問題を修正しました] 。 （AN-225719）
+* Adobe Report Builderで発生していたChromeブラウザーのバージョンの問題を修正しました。 （AN-226718）
+* VRS内の任意のディメンション [!UICONTROL /指標で分類できる、キュレーションされた] 仮想レポートスイートの問題を修正しました。 （AN-228035）
+* セグメントマネージャ [!UICONTROL ー] ニットの検索機能が正しく動作する問題を修正しました。 （AN-226954）
+* 1人または2人以上のユーザーとプロジェクトを共有しようとすると、 [!UICONTROL Workspace] でタイムアウトエラーが発生する問題を修正しました。 （AN-229443）
+* API要求でシステムエラーエラーが発生する問題を修正しました。 （AN-229537）
 * 分類ルー [!UICONTROL ルビルダー] で、主要値が分類されない問題を修正しました。 (AN-229786、AN-230300、AN-230563)
-* Data Insertion  APIで一部のデータがレポートされない問題を修正しました。 （AN-230587）。
-* [!UICONTROL Data Warehouse要求で、] basenameを使用したファイルの取得と検証ができなかった問題を修正しました。 （AN-230642）。
-* ([!UICONTROL Customer Journey Analytics])CJAでのプロジェクトの共有に関する権限の問題を修正しました。 （AN-226592）。
+* Data Insertion  APIで一部のデータがレポートされない問題を修正しました。 （AN-230587）
+* [!UICONTROL Data Warehouse要求で、] basenameを使用したファイルの取得と検証ができなかった問題を修正しました。 （AN-230642）
+* ([!UICONTROL Customer Journey Analytics])CJAでのプロジェクトの共有に関する権限の問題を修正しました。 （AN-226592）
 
 #### その他の Adobe Analytics の修正点
 
@@ -168,7 +168,7 @@ AN-215683;AN-216894;AN-226370;AN-227138;AN-227154;AN-227328;AN-227486;AN-227672;
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
-| `omniture.com` ドメインから `adobe.com` ドメインの移行 | 2020 年 8 月 22 日 | 2020 年 8 月 14 日、Adobe Analytics はフロントエンドアーキテクチャを `omniture.com|http://omniture.com/` から `adobe.com|http://adobe.com/` に移行しました。この変更により、2020 年 5 月 28 日の初回統合製品ドメインの変更後に発生したサードパーティ Cookie の問題が改善される可能性があります。As a result of this update, the browser may prompt users to trust the new an `.adobe.com|http://an.adobe.com/` or `experience.adobe.com|http://experience.adobe.com/` domain. |
+| `omniture.com` ドメインから `adobe.com` ドメインの移行 | 2020 年 8 月 22 日 | 2020 年 8 月 14 日、Adobe Analytics はフロントエンドアーキテクチャを `omniture.com|http://omniture.com/` から `adobe.com|http://adobe.com/` に移行しました。この変更により、2020 年 5 月 29 日の初回統合製品ドメインの変更後に発生したサードパーティ Cookie の問題が改善される可能性があります。As a result of this update, the browser may prompt users to trust the new an `.adobe.com|http://an.adobe.com/` or `experience.adobe.com|http://experience.adobe.com/` domain. |
 | Ad Hoc Analysis Java 8 の互換性のアップデート | 2020 年 8 月 22 日 | Ad Hoc Analysis は現在、Java 8 バージョン 1.8.0_261 以降と互換性がありません。このツールへのアクセスが[提供終了日](https://spark.adobe.com/page/S9Bhp66VJ2fEn/)に達する前に中断されないようにするため 、1.8.0_261 以前の Java 8 バージョンを維持することをお勧めします。 |
 | Adobe Data Connectors の EOL | 2020 年 7 月 14 日 | Adobe [!UICONTROL Data Connectors ]は、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。[Adobe Exchange パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)には、引き続き提供およびサポートを希望する統合に対して採用する新しい標準があります。正式な終了日はまだ決定していませんが、今後 12 ～ 18 か月（2021 年中旬 ～ 2021 年末）になると予想されています。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/import/dataconnectors/data-connectors-eol.html) |
 | IMS 組織へのレポートスイートのマッピング | 2020 年 7 月 | レポートスイートマッピングツールは 2020 年 11 月に廃止されます。この機能は、Advertising Analytics や Adobe Analytics での Experience Cloud セグメント公開などの統合を強化します。これらのサービスおよび他のサービスを有効にするには、レポートスイートを IMS 組織にマッピングする必要があります。新しいレポートスイートは、作成時に自動的にマッピングされますが、古いレポートスイートは、IMS 組織に手動でマッピングする必要があります。すべてのレポートスイートが IMS 組織に属していることを確認するには、『Experience Cloud インターフェイス（コアサービス）ユーザガイド』の「[レポートスイートを組織にマップする](https://docs.adobe.com/content/help/ja-JP/core-services/interface/about-core-services/report-suite-mapping.html)」を参照してください。 |
@@ -211,16 +211,16 @@ Audience Manager の新機能、修正点、ドキュメントおよびチュー
 
 ### Adobe Audience Manager の新機能および修正点
 
-* 「 [!UICONTROL オーディエンスラボ] 」で、 [!UICONTROL 集計のレポートでテストセグメントの母集団が使用できない問題を修正しました]。 （AAM-54553）。
-* サードパーティのアルゴリズムモデルを使用するセグメントが、 [!UICONTROL Audience Marketplaceの] セグメントの使用 [!UICONTROL 表示に表示されない問題を修正しました]。 （AAM-54595）。
-* 特性やセグメントがデータソースにマッピングされていない場合でも、一部のユーザーがデータソースを削除しようとするとエラーが発生する問題を修正しました。 （AAM-55609）。
-* 訪問者プロファイルビューアレポートにセグメントが表示されない問題を修正しました。 （AAM-55780）。
-* Destinationsリストページで、Metrics **[!UICONTROL (指標]** )フィルターの「 **[!UICONTROL Look Back（戻る）」ウィンドウで「Lifetime(全期間]** )」を選択すると空白のページが返される問題を修正しました。 （AAM-49732）。
-* 特性ダッシュボードで、「す **[!UICONTROL べての特性]** 」から任意のフィルター&#x200B;**[!UICONTROL (]**&#x200B;ルールベース **[!UICONTROL 、オンボード]**&#x200B;など)にフィルターすると指標は更新されますが、特性名とIDは更新されない問題を修正しました。 （AAM-55823）。
-* API呼び出しで見つからない [!UICONTROL フィールドが原因で、Facebookにマッピングされたセグメントが更新されないという、]`traitAlias` 人ベースの宛先に関する問題を修正しました。 （AAM-55952）。
+* 「 [!UICONTROL オーディエンスラボ] 」で、 [!UICONTROL 集計のレポートでテストセグメントの母集団が使用できない問題を修正しました]。 （AAM-54553）
+* サードパーティのアルゴリズムモデルを使用するセグメントが、 [!UICONTROL Audience Marketplaceの] セグメントの使用 [!UICONTROL 表示に表示されない問題を修正しました]。 （AAM-54595）
+* 特性やセグメントがデータソースにマッピングされていない場合でも、一部のユーザーがデータソースを削除しようとするとエラーが発生する問題を修正しました。 （AAM-55609）
+* 訪問者プロファイルビューアレポートにセグメントが表示されない問題を修正しました。 （AAM-55780）
+* Destinationsリストページで、Metrics **[!UICONTROL (指標]** )フィルターの「 **[!UICONTROL Look Back（戻る）」ウィンドウで「Lifetime(全期間]** )」を選択すると空白のページが返される問題を修正しました。 （AAM-49732）
+* 特性ダッシュボードで、「す **[!UICONTROL べての特性]** 」から任意のフィルター&#x200B;**[!UICONTROL (]**&#x200B;ルールベース **[!UICONTROL 、オンボード]**&#x200B;など)にフィルターすると指標は更新されますが、特性名とIDは更新されない問題を修正しました。 （AAM-55823）
+* API呼び出しで見つからない [!UICONTROL フィールドが原因で、Facebookにマッピングされたセグメントが更新されないという、]`traitAlias` 人ベースの宛先に関する問題を修正しました。 （AAM-55952）
 * 特性とセグメントを切り替えると、 [!UICONTROL トレンドレポート] (AAM-54736)でグラフが更新されない問題を修正しました。
-* 「 [!UICONTROL 類似したモデリング] 」で、 **** 一時停止コントロールを押してもモデルが一時停止せず、代わりに閉じる問題を修正しました。 （AAM-56121）。
-* インターフェイス全体で複数のアクセシビリティを改善しました(AAM-48950、AAM-48957、AAM-49022、AAM-49026、AAM-49044、AAM-49069、AAM-49370、AAM-AAM5989、-5)5990)。
+* 「 [!UICONTROL 類似したモデリング] 」で、 **** 一時停止コントロールを押してもモデルが一時停止せず、代わりに閉じる問題を修正しました。 （AAM-56121）
+* インターフェイス全体で複数のアクセシビリティを改善しました。(AAM-48950、AAM-48957、AAM-49022、AAM-49026、AAM-49044、AAM-49069、AAM-49370、AAM-AAM5989、-5)5990)。
 
 ### Audience Manager courses and tutorials {#tutorials-aam}
 
