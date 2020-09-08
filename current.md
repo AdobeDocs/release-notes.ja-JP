@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: September 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2670c9b311ff63f308ca380657be1bb399dcf2e6
+source-git-commit: 113528f8e43d06e75d9fbb9db8bc229056e6f0f2
 workflow-type: tm+mt
-source-wordcount: '6737'
+source-wordcount: '6762'
 ht-degree: 39%
 
 ---
@@ -127,14 +127,14 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | デバイス [!UICONTROL 間の分析でのフィールドベースのステッチの強化] （世界中で利用可能） | 2020 年 9 月 1 日 | 新しい[!UICONTROL クロスデバイス分析]のお客様向けにシンプル化されたこの実装により、デバイスグラフ（コープまたはプライベート）を使用する代わりに、Analytics フィールド（prop または eVar）に保存されたユーザー ID に基づいてステッチするオプションが提供されます。この機能強化により、ECID の実装が不要になり、CDA 用に ID 同期を実装する必要がなくなりました。（他の特定の機能を使用するには、ECID と ID の同期が必要です）。 |
 | 中国のデータ収集、第2段階 | 2020年9月1日 | ファーストパーティSSLのサポートが拡張されました。 |
 | Workspaceの新しい日付範囲 | 2020年9月10日 | 5つの新しい日付範囲を追加するので、今日の日付の一部データを含まない日付範囲から選択できます。最近の7日間、過去14日間、過去30日間、過去60日間、過去90日間の全日数 |
-| Workspace：単一のディメンションに対して 50,000 個の項目をダウンロード | 2020 年 9 月 18 日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して 50,000 個の項目をダウンロードできます。これにより、Analysis Workspace 外の 400 行を超えるデータにアクセスできます。 |
+| Workspace：単一のディメンションに対して 50,000 個の項目をダウンロード | 2020 年 9 月 18 日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して 50,000 個の項目をダウンロードできます。これにより、Analysis Workspace 外の 400 行を超えるデータにアクセスできます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/curate-share/download-send.html#download-items) |
 | ワークスペース：線の [!UICONTROL ビジュアライゼーションの強化] | 2020 年 9 月 18 日 | <ul><li>You can show or hide the x-axis and y-axis of any [!UICONTROL Line] visualization. This can be especially helpful when your [!UICONTROL Line] visualizations are more compact.</li><li>You can overlay a minimum and maximum value label on any [!UICONTROL Line] visualization to quickly highlight the peaks and valleys in a metric.</li><li>You can overlay different regression trend lines on any [!UICONTROL Line] visualization to more easily see the trend in the data. Options include [!UICONTROL Linear], [!UICONTROL Logarithmic], [!UICONTROL Exponential], [!UICONTROL Power] and [!UICONTROL Quadratic].</li></ul> [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
-| Customer Journey Analytics権限の変更 | 2020年9月9日 | CJAは、すべてのユーザーを管理者として扱う必要はなくなります。 [Adobe Admin Consoleの製品管理者に指定されたユーザーのみが](https://docs.adobe.com/content/help/ja-JP/core-services/interface/manage-users-and-products/admin-getting-started.html) 、次の操作を実行できます。<ul><li>「 [!UICONTROL 接続] 」または「 [!UICONTROL データ」表示の作成/更新/削除]</li><li>他のユーザーが作成したプロジェクト、フィルターまたは計算指標を更新/削除します。</li><li>Workspaceプロジェクトをすべてのユーザーと共有する</li></ul> |
+| Customer Journey Analytics権限の変更 | 2020年9月9日 | CJAは、すべてのユーザーを管理者として扱う必要はなくなります。 [Adobe Admin Consoleの製品管理者に指定されたユーザーのみが](https://docs.adobe.com/content/help/ja-JP/core-services/interface/manage-users-and-products/admin-getting-started.html) 、次の操作を実行できます。<ul><li>「 [!UICONTROL 接続] 」または「 [!UICONTROL データ」表示の作成/更新/削除]</li><li>他のユーザーが作成したプロジェクト、フィルターまたは計算指標を更新/削除します。</li><li>Workspaceプロジェクトをすべてのユーザーと共有する</li></ul>[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-overview/cja-overview.html#admin-access-permissions) |
 | [!UICONTROL 異常値検出]のサポート | 2020年9月10日 | [!UICONTROL 異常値検出] ：重要な統計的変動と重要でない統計的変動を識別できます。この機能は、 [!UICONTROL Customer Journey Analyticsでサポートされるようになりました]。 |
 | Workspaceの新しい日付範囲 | 2020年9月10日 | 5つの新しい日付範囲を追加するので、今日の日付の一部データを含まない日付範囲から選択できます。 [!UICONTROL 過去7日間]、過去14 [!UICONTROL 日間]、過去30日間 [!UICONTROL 、過去60日間][!UICONTROL 、過去90日間] |
 | ワークスペース：線の [!UICONTROL ビジュアライゼーションの強化] | 2020 年 9 月 18 日 | <ul><li>You can show or hide the x-axis and y-axis of any [!UICONTROL Line] visualization. This can be especially helpful when your [!UICONTROL Line] visualizations are more compact.</li><li>You can overlay a minimum and maximum value label on any [!UICONTROL Line] visualization to quickly highlight the peaks and valleys in a metric.</li><li>You can overlay different regression trend lines on any [!UICONTROL Line] visualization to more easily see the trend in the data. Options include [!UICONTROL Linear], [!UICONTROL Logarithmic], [!UICONTROL Exponential], [!UICONTROL Power] and [!UICONTROL Quadratic].</li></ul> [詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/visualizations/line.html) |
