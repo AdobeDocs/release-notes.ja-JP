@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: September 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 113528f8e43d06e75d9fbb9db8bc229056e6f0f2
+source-git-commit: 7dd8e1b33661cc751ce8a384ee1ac4fc2f563d9b
 workflow-type: tm+mt
 source-wordcount: '6762'
 ht-degree: 39%
@@ -31,7 +31,7 @@ ht-degree: 39%
 
 製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
 
-最新の更新： **2020年9月4日**
+最新の更新： **2020年9月10日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
@@ -63,7 +63,7 @@ Experience Cloudインターフェイスの最新のリリース情報につい�
 
 [!DNL Experience Platform] およびアプリケーションサービスのリリースノート（[!DNL Experience Platform Launch,] [!UICONTROL Offers]、[!UICONTROL People]、[!UICONTROL Places]、[!UICONTROL Mobile Services]、およびセキュリティ速報を含む）。
 
-リリース日：**2020 年 8 月 12 日**
+リリース日：**2020 年 9 月 9 日**
 
 Adobe Experience Platformの既存の機能の更新：
 
