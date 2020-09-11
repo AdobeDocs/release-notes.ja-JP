@@ -5,23 +5,19 @@ doc-type: release notes
 last-update: September 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7dd8e1b33661cc751ce8a384ee1ac4fc2f563d9b
+source-git-commit: 3de788a32337c5917e54eb6c23234c20c2910d98
 workflow-type: tm+mt
-source-wordcount: '6762'
+source-wordcount: '6745'
 ht-degree: 39%
 
 ---
 
 
-# アーリーアクセス —Adobe Experience Cloudリリースノート — 2020年9月
+# Adobe Experience Cloudリリースノート — 2020年9月
 
 ![バナー](/assets/experience-cloud-banner-3.png)
 
 このページでは、[!DNL Adobe Experience Cloud] の新機能、修正点および重要な注意事項について説明します。また、Experience Cloud を最大限に活用するための新しいドキュメント、トレーニングコース、ビデオチュートリアルも紹介しています。
-
->[!IMPORTANT]
->
->このページに記載される内容は、リリース前の情報であり、リリース日の前後に変更される可能性があります。
 
 >[!NOTE]
 >
