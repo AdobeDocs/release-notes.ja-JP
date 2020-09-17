@@ -4,16 +4,16 @@ description: Adobe Experience Cloud リリースノート
 doc-type: release notes
 last-update: September 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3de788a32337c5917e54eb6c23234c20c2910d98
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '6745'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Experience Cloudリリースノート — 2020年9月
+# Adobe Experience Cloud リリースノート - 2020 年 9 月
 
 ![バナー](/assets/experience-cloud-banner-3.png)
 
@@ -23,11 +23,11 @@ ht-degree: 39%
 >
 >[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。
 
-**リリース日：2020 年 9 月 10 日**
+**リリース日：2020 年 9 月 11 日**
 
 製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
 
-最新の更新： **2020年9月10日**
+最終更新日：**2020 年 9 月 11 日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
@@ -49,41 +49,41 @@ ht-degree: 39%
 
 [!UICONTROL Adobe システムステータス]は、アドビクラウド製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/) でご確認ください。
 
-最新のリリース情報については、 [Adobeシステムのステータス — 2020年5月21日](https://docs-stg.corp.adobe.com/content/help/en/release-notes/experience-cloud/previous/2020/05212020.html#status) を参照してください。
+最新のリリース情報については、 [Adobe システムステータス — 2020 年 5 月 22 日](https://docs-stg.corp.adobe.com/content/help/en/release-notes/experience-cloud/previous/2020/05212020.html#status)を参照してください。
 
 ## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud インターフェイス {#ecloud}
 
-Experience Cloudインターフェイスの最新のリリース情報については、 [累積リリースノート](https://docs.adobe.com/content/help/en/core-services/interface/release-notes/release-notes.html) (顧客属性、オーディエンス、ユーザーおよび製品の管理)を参照してください。
+Experience Cloud インターフェイスの最新のリリース情報については、 [累積リリースノート](https://docs.adobe.com/content/help/ja-JP/core-services/interface/release-notes/release-notes.html)（顧客属性、オーディエンス、ユーザーおよび製品の管理）を参照してください。
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
 [!DNL Experience Platform] およびアプリケーションサービスのリリースノート（[!DNL Experience Platform Launch,] [!UICONTROL Offers]、[!UICONTROL People]、[!UICONTROL Places]、[!UICONTROL Mobile Services]、およびセキュリティ速報を含む）。
 
-リリース日：**2020 年 9 月 9 日**
+リリース日：**2020 年 9 月 10 日**
 
-Adobe Experience Platformの既存の機能の更新：
+Adobe Experience Platform の既存の機能のアップデート：
 
-* [Data Science Workspace](https://docs.adobe.com/content/help/en/experience-platform/release-notes/latest.html#dsw)
-* [宛先](https://docs.adobe.com/content/help/en/experience-platform/release-notes/latest.html#destinations)
-* [ソース](https://docs.adobe.com/content/help/en/experience-platform/release-notes/latest.html#sources)
+* [Data Science Workspace](https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html#dsw)
+* [宛先](https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html#destinations)
+* [ソース](https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html#sources)
 
 Experience Platform に関する最新情報については、[Experience Platform リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md)を参照してください。
 
-### Experience Platformとサービスのチュートリアルとコース
+### Experience Platform とサービスのチュートリアルとコース
 
-Experience Platformおよびサービス用に公開された新しいビデオ、チュートリアル、またはコース。
+Experience Platform およびサービス用に公開された新しいビデオ、チュートリアル、またはコース。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 8 月 18 日 | [Launch実装のデバッグ](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/debug-launch-implementation.html) | ビデオ | 起動の実装をデバッグするための一般的なツールとテクニックの紹介。 ブラウザーの開発者コンソールとExperience Platformデバッガー拡張機能を使用して、起動の実装の主要な側面を特定し、トラブルシューティングする方法について説明します。 |
-| 2020 年 8 月 18 日 | [起動Cloud Service設定の作成](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/create-launch-cloud-service.html) | ビデオ | 新しい起動Cloud Servicesの設定を作成する方法を説明します。 その後、起動Cloud Serviceの設定を既存のサイトに適用でき、起動ライブラリの読み込みを作成者ライブラリと発行環境の両方で監視できます。 |
-| 2020 年 8 月 18 日 | [AdobeI/Oを使用して起動でAEMに接続](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/connect-aem-launch-adobe-io.html) | ビデオ | 起動APIでAEMを認証するためのAdobeI/Oを使用したIMS設定の作成方法について説明します。 この統合が実施されると、AEMはLaunch APIを介して通信し、Launchプロパティにアクセスできます。 |
-| 2020 年 8 月 18 日 | [同意管理 — Google IAB TCF 2.0のサポート](https://docs.adobe.com/content/help/en/platform-learn/tutorials/rtcdp/integrate-with-iab-transparency-and-consent-framework-2.html) | ビデオ | このビデオでは、Adobeのリアルタイム顧客データプラットフォームが、ブランドがデジタルメディアに関与する際に消費者の同意を得るのにどのように役立つかを示します。 IABのTransparency &amp; Consent Framework 2.0のサポートを通じて、ブランドは消費者との関わり方に対する柔軟性を高める一方で、消費者はIABの同意を得るコントロールを強化します。 |
-| 2020 年 8 月 18 日 | [Googleの顧客一致](https://docs.adobe.com/content/help/en/platform-learn/tutorials/rtcdp/integrate-with-google-customer-match.html) | ビデオ | このビデオでは、AdobeのReal-Time CDP機能とGoogleのCustomer Match機能が、Googleの所有および運用するプロパティをビジネス目標と共に使用して、顧客との関わりを高める方法を示します。 |
-| 2020 年 8 月 18 日 | [データエンジニア向けのAdobe Experience Platform入門コース](https://video.tv.adobe.com/v/39478?captions=jpn) | ビデオ | 「Getting [Started with Data Engineers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2) 」コースの紹介ビデオです。 |
-| 2020 年 8 月 18 日 | [データエンジニア向けAdobe Experience Platformの概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2) | コース | Adobe Experience Platformでデータエンジニアの主要タスクを達成する方法を学びます。 この入門レベルのコースでは、ビデオとハンドオンの演習を使用して、バッチデータの取り込み、Web SDKでのストリーミングデータの取り込み、実行中のクエリなどを始めることができます。 |
-| 2020 年 8 月 18 日 | [データアーキテクト向けAdobe Experience Platformの使い始めに向けたコースの紹介](https://video.tv.adobe.com/v/39477?captions=jpn) | ビデオ | このビデオでは、「データアーキテクト用Adobe Experience Platformの [使い始めに](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1) 」コースの概要を説明します。 |
-| 2020 年 8 月 18 日 | [データアーキテクト向けAdobe Experience Platformの概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1) | ビデオ | Adobe Experience PlatformでData Architectの主要なタスクを達成する方法を学びます。  この入門レベルのコースでは、ビデオや実習を活用して、XDMスキーマへのモデリングデータの取り込みを開始し、IDのラベル付けを行ってデータをリアルタイム顧客プロファイルにつなぎ、セグメントの作成などを行います。 |
+| 2020 年 8 月 18 日 | [Launch 実装のデバッグ](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/debug-launch-implementation.html) | ビデオ | Launch の実装をデバッグするための一般的なツールとテクニックの紹介。ブラウザーの開発者コンソールと Experience Platform デバッガー拡張機能を使用して、Launch の実装の主要な側面を特定し、トラブルシューティングする方法について説明します。 |
+| 2020 年 8 月 18 日 | [Launch クラウドサービス設定の作成](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/create-launch-cloud-service.html) | ビデオ | 新しい Launch クラウドサービスの設定を作成する方法を説明します。その後、Launch クラウドサービスの設定を既存のサイトに適用でき、起動ライブラリの読み込みを作成者ライブラリと発行環境の両方で監視できます。 |
+| 2020 年 8 月 18 日 | [Adobe I/O を使用して Launch と AEM に接続](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/connect-aem-launch-adobe-io.html) | ビデオ | Launch API で AEM を認証するための Adobe I/O を使用した IMS 設定の作成方法について説明します。この統合が実施されると、AEM は Launch API を介して通信し、Launch プロパティにアクセスできます。 |
+| 2020 年 8 月 18 日 | [同意管理 — Google IAB TCF 2.0 のサポート](https://docs.adobe.com/content/help/en/platform-learn/tutorials/rtcdp/integrate-with-iab-transparency-and-consent-framework-2.html) | ビデオ | このビデオでは、Adobe のリアルタイム顧客データプラットフォームが、ブランドがデジタルメディアに関与する際に消費者の同意を得るのにどのように役立つかを示します。IAB の Transparency &amp; Consent Framework 2.0 のサポートを通じて、ブランドは、消費者との関わり方をより柔軟に得ると同時に、消費者がそうすることに同意するための制御を強化します。 |
+| 2020 年 8 月 18 日 | [Google カスタマーマッチ](https://docs.adobe.com/content/help/en/platform-learn/tutorials/rtcdp/integrate-with-google-customer-match.html) | ビデオ | このビデオでは、Adobe の Real-Time CDP 機能と Google カスタマーマッチ機能が、Google の所有および運用するプロパティをビジネス目標と共に使用して、顧客との関わりを高める方法を示します。 |
+| 2020 年 8 月 18 日 | [データエンジニア向けの Adobe Experience Platform 入門コース](https://video.tv.adobe.com/v/39478?captions=jpn) | ビデオ | 「[データエンジニア向けの Adobe Experience Platform 入門](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2) 」コースの紹介ビデオです。 |
+| 2020 年 8 月 18 日 | [データエンジニア向け Adobe Experience Platform の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.2) | コース | Adobe Experience Platform でデータエンジニアの主要タスクを達成する方法を学びます。この入門レベルのコースでは、ビデオとハンドオンの演習を使用して、バッチデータの取得、Web SDK でのストリーミングデータの取得、クエリの実行などを始めることができます。 |
+| 2020 年 8 月 18 日 | [データアーキテクト向け Adobe Experience Platform 入門コースの紹介](https://video.tv.adobe.com/v/39477?captions=jpn) | ビデオ | このビデオでは、「[データアーキテクト向け Adobe Experience Platform 入門](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1) 」コースの概要を説明します。 |
+| 2020 年 8 月 18 日 | [データアーキテクト向け Adobe Experience Platform 入門](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1) | ビデオ | Adobe Experience Platform でデータアーキテクトの主要なタスクを達成する方法を学びます。  この入門レベルのコースでは、ビデオや実習を活用して、XDM スキーマへのモデリングデータの取得を開始し、ID をラベル付けしてデータをリアルタイム顧客プロファイルにつなぎ、セグメントを作成します。 |
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
@@ -91,15 +91,15 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 ### 新しい製品リリース
 
-* August release - [Read more](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html#august-release)
+* 8 月リリース - [詳細](https://docs.adobe.com/content/help/ja-JP/journeys/using/release-notes/release-notes.html#august-release)
 
-### [!UICONTROL Journey Orchestration] ・コースとチュートリアル
+### [!UICONTROL Journey Orchestration] コースとチュートリアル
 
-[!UICONTROL Journey Orchestration向けに公開された新しいビデオ、チュートリアル、コース]。
+新しく公開された [!UICONTROL Journey Orchestration] ビデオ、チュートリアル、コース。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 8 月 10 日 | [セグメントの選定イベントの使用](https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/using-segment-qualification-events.html) | ビデオ | This video gives you a brief introduction on how to create a journey with a [!UICONTROL Segment Qualification] event as entry or exit point. |
+| 2020 年 8 月 11 日 | [セグメントの選定イベントの使用](https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/using-segment-qualification-events.html) | ビデオ | このビデオでは、[!UICONTROL セグメントの選定]イベントをエントリまたは離脱ポイントとするジャーニー作成の方法について簡単に説明します。 |
 
 ### Journey Orchestration の追加リソース
 
@@ -112,59 +112,59 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 * [Media Analytics の新機能です。](#media-aa)
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
-* [解析に関するコースとチュートリアル](#tutorials-analytics)
+* [Analytics コースとチュートリアル](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
 ### Adobe Analytics の新機能 {#aa-features}
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ------- |
-| [!UICONTROL クロスデバイス分析]：EMEA および APAC での可用性 | 2020 年 9 月 1 日 | [デバイス間の分析](https://docs.adobe.com/content/help/ja-JP/analytics/components/cda/overview.html) およびプライベートグラフは、ヨーロッパ、中東、アフリカおよびAPACのお客様が利用できます。 |
-| デバイス [!UICONTROL 間の分析でのフィールドベースのステッチの強化] （世界中で利用可能） | 2020 年 9 月 1 日 | 新しい[!UICONTROL クロスデバイス分析]のお客様向けにシンプル化されたこの実装により、デバイスグラフ（コープまたはプライベート）を使用する代わりに、Analytics フィールド（prop または eVar）に保存されたユーザー ID に基づいてステッチするオプションが提供されます。この機能強化により、ECID の実装が不要になり、CDA 用に ID 同期を実装する必要がなくなりました。（他の特定の機能を使用するには、ECID と ID の同期が必要です）。 |
-| 中国のデータ収集、第2段階 | 2020年9月1日 | ファーストパーティSSLのサポートが拡張されました。 |
-| Workspaceの新しい日付範囲 | 2020年9月10日 | 5つの新しい日付範囲を追加するので、今日の日付の一部データを含まない日付範囲から選択できます。最近の7日間、過去14日間、過去30日間、過去60日間、過去90日間の全日数 |
+| [!UICONTROL クロスデバイス分析]：EMEA および APAC での可用性 | 2020 年 9 月 1 日 | [クロスデバイス分析](https://docs.adobe.com/content/help/ja-JP/analytics/components/cda/overview.html)およびプライベートグラフは、EMEA および APAC のお客様が利用できます。 |
+| [!UICONTROL クロスデバイス分析]でのフィールドベースの津連結（世界中で利用可能） | 2020 年 9 月 1 日 | 新しい[!UICONTROL クロスデバイス分析]のお客様向けにシンプル化されたこの実装により、デバイスグラフ（コープまたはプライベート）を使用する代わりに、Analytics フィールド（prop または eVar）に保存されたユーザー ID に基づいてステッチするオプションが提供されます。この機能強化により、ECID の実装が不要になり、CDA 用に ID 同期を実装する必要がなくなりました。（他の特定の機能を使用するには、ECID と ID の同期が必要です）。 |
+| 中国のデータ収集、第 2 段階 | 2020 年 9 月 2 日 | ファーストパーティ SSL のサポートが拡張されました。 |
+| Workspace の新しい日付範囲 | 2020 年 9 月 11 日 | 5 つの新しい日付範囲を追加するので、今日の日付の部分データを含まない日付範囲（過去 7 日間、過去 14 日間、過去 30 日間、過去 60 日間、過去 90 日間）から選択できます |
 | Workspace：単一のディメンションに対して 50,000 個の項目をダウンロード | 2020 年 9 月 18 日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して 50,000 個の項目をダウンロードできます。これにより、Analysis Workspace 外の 400 行を超えるデータにアクセスできます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/curate-share/download-send.html#download-items) |
-| ワークスペース：線の [!UICONTROL ビジュアライゼーションの強化] | 2020 年 9 月 18 日 | <ul><li>You can show or hide the x-axis and y-axis of any [!UICONTROL Line] visualization. This can be especially helpful when your [!UICONTROL Line] visualizations are more compact.</li><li>You can overlay a minimum and maximum value label on any [!UICONTROL Line] visualization to quickly highlight the peaks and valleys in a metric.</li><li>You can overlay different regression trend lines on any [!UICONTROL Line] visualization to more easily see the trend in the data. Options include [!UICONTROL Linear], [!UICONTROL Logarithmic], [!UICONTROL Exponential], [!UICONTROL Power] and [!UICONTROL Quadratic].</li></ul> [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
+| Workspace：[!UICONTROL 線]の視覚化の強化 | 2020 年 9 月 18 日 | <ul><li>[!UICONTROL 線]の視覚化の X 軸と Y 軸の表示／非表示を切り替えることができます。これは、特に、[!UICONTROL 線]の視覚化がよりコンパクトな場合に役立ちます。</li><li>任意の[!UICONTROL 線]の視覚化に最小値と最大値のラベルをオーバーレイして、指標の山と谷をすばやく強調表示できます。</li><li>様々な回帰トレンドラインを[!UICONTROL 線]の視覚化に重ねて、データのトレンドをより簡単に確認できます。「[!UICONTROL 線形]」、「[!UICONTROL 対数]」、「[!UICONTROL 指数]」、「[!UICONTROL 累乗]」、「[!UICONTROL 多項式]」などのオプションがあります。</li></ul> [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
-| Customer Journey Analytics権限の変更 | 2020年9月9日 | CJAは、すべてのユーザーを管理者として扱う必要はなくなります。 [Adobe Admin Consoleの製品管理者に指定されたユーザーのみが](https://docs.adobe.com/content/help/ja-JP/core-services/interface/manage-users-and-products/admin-getting-started.html) 、次の操作を実行できます。<ul><li>「 [!UICONTROL 接続] 」または「 [!UICONTROL データ」表示の作成/更新/削除]</li><li>他のユーザーが作成したプロジェクト、フィルターまたは計算指標を更新/削除します。</li><li>Workspaceプロジェクトをすべてのユーザーと共有する</li></ul>[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-overview/cja-overview.html#admin-access-permissions) |
-| [!UICONTROL 異常値検出]のサポート | 2020年9月10日 | [!UICONTROL 異常値検出] ：重要な統計的変動と重要でない統計的変動を識別できます。この機能は、 [!UICONTROL Customer Journey Analyticsでサポートされるようになりました]。 |
-| Workspaceの新しい日付範囲 | 2020年9月10日 | 5つの新しい日付範囲を追加するので、今日の日付の一部データを含まない日付範囲から選択できます。 [!UICONTROL 過去7日間]、過去14 [!UICONTROL 日間]、過去30日間 [!UICONTROL 、過去60日間][!UICONTROL 、過去90日間] |
-| ワークスペース：線の [!UICONTROL ビジュアライゼーションの強化] | 2020 年 9 月 18 日 | <ul><li>You can show or hide the x-axis and y-axis of any [!UICONTROL Line] visualization. This can be especially helpful when your [!UICONTROL Line] visualizations are more compact.</li><li>You can overlay a minimum and maximum value label on any [!UICONTROL Line] visualization to quickly highlight the peaks and valleys in a metric.</li><li>You can overlay different regression trend lines on any [!UICONTROL Line] visualization to more easily see the trend in the data. Options include [!UICONTROL Linear], [!UICONTROL Logarithmic], [!UICONTROL Exponential], [!UICONTROL Power] and [!UICONTROL Quadratic].</li></ul> [詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/visualizations/line.html) |
+| Customer Journey Analytics 権限の変更 | 2020 年 9 月 10 日 | CJA は、すべてのユーザーを管理者として扱わなくなります。[Adobe Admin Console](https://docs.adobe.com/content/help/ja-JP/core-services/interface/manage-users-and-products/admin-getting-started.html) の製品管理者に指定されたユーザーのみが次の操作を実行できます。<ul><li>[!UICONTROL 接続]または[!UICONTROL データ表示]の作成／更新／削除</li><li>他のユーザーが作成したプロジェクト、フィルターまたは計算指標の更新／削除</li><li>Workspace プロジェクトをすべてのユーザーと共有</li></ul>[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-overview/cja-overview.html#admin-access-permissions) |
+| [!UICONTROL 異常値検出]のサポート | 2020 年 9 月 11 日 | [!UICONTROL 異常値検出]：重要な統計的変動と重要でない統計的変動を識別できます。この機能は、[!UICONTROL Customer Journey Analytics] でサポートされるようになりました。 |
+| Workspace の新しい日付範囲 | 2020 年 9 月 11 日 | 5 つの新しい日付範囲が追加され、今日の日付の部分データを含まない日付範囲（[!UICONTROL 過去 7 日間]、[!UICONTROL 過去 14 日間]、[!UICONTROL 過去 30 日間]、[!UICONTROL 過去 60 日間]、[!UICONTROL 過去 90 日間]）から選択できるようになりました。 |
+| Workspace：[!UICONTROL 線]の視覚化の強化 | 2020 年 9 月 18 日 | <ul><li>[!UICONTROL 線]の視覚化の X 軸と Y 軸の表示／非表示を切り替えることができます。これは、特に、[!UICONTROL 線]の視覚化がよりコンパクトな場合に役立ちます。</li><li>任意の[!UICONTROL 線]の視覚化に最小値と最大値のラベルをオーバーレイして、指標の山と谷をすばやく強調表示できます。</li><li>様々な回帰トレンドラインを[!UICONTROL 線]の視覚化に重ねて、データのトレンドをより簡単に確認できます。「[!UICONTROL 線形]」、「[!UICONTROL 対数]」、「[!UICONTROL 指数]」、「[!UICONTROL 累乗]」、「[!UICONTROL 多項式]」などのオプションがあります。</li></ul> [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-workspace/visualizations/line.html) |
 
 ### [!UICONTROL Media Analytics] の新機能 {#media-aa}
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ---------- |
-| Workspace のメディア同時閲覧者パネル | 2020 年 9 月 18 日 | [!UICONTROL メディア同時ビューア] パネルを使用すると、ピーク同時実行が発生した場所やドロップオフが発生した場所を把握できます。 コンテンツの質と閲覧者の関与に関する貴重な情報を提供し、ボリュームやスケールのトラブルシューティングや計画に役立ちます。[詳細情報...](https://docs.adobe.com/content/help/en/media-analytics/using/media-reports/media-workspace-panels/media-concurrent-viewers.html) |
+| [!UICONTROL Workspace] の[!UICONTROL メディア同時閲覧者]パネル | 2020 年 9 月 18 日 | [!UICONTROL メディア同時閲覧者]パネルを使用すると、同時閲覧のピークが発生した場所やドロップオフが発生した場所を把握できます。  コンテンツの質と閲覧者の関与に関する貴重な情報を提供し、ボリュームやスケールのトラブルシューティングや計画に役立ちます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/media-analytics/using/media-reports/media-workspace-panels/media-concurrent-viewers.html) |
 
 ### Adobe Analytics の修正点 {#aa-fixes}
 
-* 「未指定」のディメンションによって [!UICONTROL Workspace] 列をフィルターできない問題を修正しました。 （AN-222393）
-* 接続のタイムアウト時に、 [!UICONTROL スケジュールされたプロジェクトが配信できない問題を修正しました] 。 （AN-223916）
-* [!UICONTROL 仮想レポートスイートの] 訪問 [!UICONTROL セグメントが正しく機能しない問題を修正しました] 。 （AN-225719）
-* Adobe Report Builderで発生していたChromeブラウザーのバージョンの問題を修正しました。 （AN-226718）
-* VRS内の任意のディメンション [!UICONTROL /指標で分類できる、キュレーションされた] 仮想レポートスイートの問題を修正しました。 （AN-228035）
-* セグメントマネージャ [!UICONTROL ー] ニットの検索機能が正しく動作する問題を修正しました。 （AN-226954）
-* 1人または2人以上のユーザーとプロジェクトを共有しようとすると、 [!UICONTROL Workspace] でタイムアウトエラーが発生する問題を修正しました。 （AN-229443）
-* API要求でシステムエラーエラーが発生する問題を修正しました。 （AN-229537）
-* 分類ルー [!UICONTROL ルビルダー] で、主要値が分類されない問題を修正しました。 (AN-229786、AN-230300、AN-230563)
-* Data Insertion  APIで一部のデータがレポートされない問題を修正しました。 （AN-230587）
-* [!UICONTROL Data Warehouse要求で、] basenameを使用したファイルの取得と検証ができなかった問題を修正しました。 （AN-230642）
-* ([!UICONTROL Customer Journey Analytics])CJAでのプロジェクトの共有に関する権限の問題を修正しました。 （AN-226592）
+* 「未指定」のディメンションによって [!UICONTROL Workspace] 列をフィルターできない問題を修正しました。（AN-222393）
+* 接続のタイムアウト時に、[!UICONTROL スケジュールされたプロジェクト]が配信できない問題を修正しました 。（AN-223916）
+* [!UICONTROL 仮想レポートスイート]の[!UICONTROL 訪問セグメント]が正しく機能しない問題を修正しました 。（AN-225719）
+* Adobe Report Builder で発生していた Chrome ブラウザーのバージョンの問題を修正しました。（AN-226718）
+* VRS 内の任意のディメンション／指標で分類できる、キュレーションされた[!UICONTROL 仮想レポートスイート]の問題を修正しました。（AN-228035）
+* [!UICONTROL セグメントマネージャー]の検索機能が正しく動作しない問題を修正しました。（AN-226954）
+* 1 人または 2 人以上のユーザーとプロジェクトを共有しようとすると [!UICONTROL Workspace] でタイムアウトエラーが発生する問題を修正しました。（AN-229443）
+* API 要求でシステムエラーが発生する問題を修正しました。（AN-229537）
+* [!UICONTROL 分類ルールビルダー]で主要値が分類されない問題を修正しました。（AN-229786, AN-230300, AN-230563）
+* [!UICONTROL データ挿入] API で一部のデータがレポートされない問題を修正しました。（AN-230587）
+* [!UICONTROL Data Warehouse] 要求で、 basename を使用したファイルの取得と検証ができなかった問題を修正しました。（AN-230642）
+* （[!UICONTROL Customer Journey Analytics]）CJA でのプロジェクトの共有に関する権限の問題を修正しました。（AN-226592）
 
 #### その他の Adobe Analytics の修正点
 
-AN-215683;AN-216894;AN-226370;AN-227138;AN-227154;AN-227328;AN-227486;AN-227672;AN-228264;AN-228960;AN-229031;AN-229274;AN-229319;AN-229353;AN-229537;AN-229610;AN-229975;AN-230008;AN-230015;AN-230347;AN-230468;AN-230473;AN-231326;AN-231329;AN-231345;AN-231509;AN-231795;AN-231901
+AN-215683、 AN-216894、 AN-226370、 AN-227138、 AN-227154、 AN-227328、 AN-227486、 AN-227672、 AN-228264、 AN-228960、 AN-229031、 AN-229274、 AN-229319、 AN-229353、 AN-229537、 AN-229610、 AN-229975、 AN-230008、 AN-230015、 AN-230347、 AN-230468、 AN-230473、 AN-231326、 AN-231329、 AN-231345、 AN-231509、 AN-231795、 AN-231901
 
 ### [!DNL Analytics] 管理者向けの重要な注意事項 {#aa-notices}
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
-| `omniture.com` ドメインから `adobe.com` ドメインの移行 | 2020 年 8 月 22 日 | 2020 年 8 月 14 日、Adobe Analytics はフロントエンドアーキテクチャを `omniture.com|http://omniture.com/` から `adobe.com|http://adobe.com/` に移行しました。この変更により、2020 年 5 月 29 日の初回統合製品ドメインの変更後に発生したサードパーティ Cookie の問題が改善される可能性があります。As a result of this update, the browser may prompt users to trust the new an `.adobe.com|http://an.adobe.com/` or `experience.adobe.com|http://experience.adobe.com/` domain. |
+| `omniture.com` ドメインから `adobe.com` ドメインの移行 | 2020 年 8 月 22 日 | 2020 年 8 月 14 日、Adobe Analytics はフロントエンドアーキテクチャを `omniture.com|http://omniture.com/` から `adobe.com|http://adobe.com/` に移行しました。この変更により、2020 年 5 月 29 日の初回統合製品ドメインの変更後に発生したサードパーティ Cookie の問題が改善される可能性があります。このアップデートの結果、新しい `.adobe.com|http://an.adobe.com/` ドメインまたは `experience.adobe.com|http://experience.adobe.com/` ドメインを信頼するようにブラウザーが促す場合があります。 |
 | Ad Hoc Analysis Java 8 の互換性のアップデート | 2020 年 8 月 22 日 | Ad Hoc Analysis は現在、Java 8 バージョン 1.8.0_261 以降と互換性がありません。このツールへのアクセスが[提供終了日](https://spark.adobe.com/page/S9Bhp66VJ2fEn/)に達する前に中断されないようにするため 、1.8.0_261 以前の Java 8 バージョンを維持することをお勧めします。 |
 | Adobe Data Connectors の EOL | 2020 年 7 月 14 日 | Adobe [!UICONTROL Data Connectors ]は、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。[Adobe Exchange パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)には、引き続き提供およびサポートを希望する統合に対して採用する新しい標準があります。正式な終了日はまだ決定していませんが、今後 12 ～ 18 か月（2021 年中旬 ～ 2021 年末）になると予想されています。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/import/dataconnectors/data-connectors-eol.html) |
 | IMS 組織へのレポートスイートのマッピング | 2020 年 7 月 | レポートスイートマッピングツールは 2020 年 11 月に廃止されます。この機能は、Advertising Analytics や Adobe Analytics での Experience Cloud セグメント公開などの統合を強化します。これらのサービスおよび他のサービスを有効にするには、レポートスイートを IMS 組織にマッピングする必要があります。新しいレポートスイートは、作成時に自動的にマッピングされますが、古いレポートスイートは、IMS 組織に手動でマッピングする必要があります。すべてのレポートスイートが IMS 組織に属していることを確認するには、『Experience Cloud インターフェイス（コアサービス）ユーザガイド』の「[レポートスイートを組織にマップする](https://docs.adobe.com/content/help/ja-JP/core-services/interface/about-core-services/report-suite-mapping.html)」を参照してください。 |
@@ -182,17 +182,17 @@ AN-215683;AN-216894;AN-226370;AN-227138;AN-227154;AN-227328;AN-227486;AN-227672;
 
 AppMeasurement リリースの最新の更新については、[AppMeasurement for JavaScript リリースノート](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/appmeasurement-updates.html)を参照してください。
 
-### Analytics courses and tutorials {#tutorials-analytics}
+### Analytics コースとチュートリアル {#tutorials-analytics}
 
-New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Customer Journey Analytics].
+[!DNL Analytics] と [!UICONTROL Customer Journey Analytics] の新しいコース、チュートリアル、記事。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 8 月 30 日 | [Analysis Workspaceのプロジェクトを保存、共有、共同作業](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.html) | ビデオ | [!UICONTROL Analysis Workspace]で、表にテキストの説明を追加する方法、プロジェクトのダイレクトリンクを作成する方法、および共有する方法を説明します。 |
-| 2020 年 8 月 28 日 | [コースの概要 — 顧客の遍歴におけるデジタルタッチポイントに対する価値のアトリビューション](https://video.tv.adobe.com/v/39380?captions=jpn) | ビデオ | この入門ビデオでは、カスタマージャーニーコースのデジタルタッチポイントに対する [値のアトリビューションの前提条件とコースのコンテンツを説明します](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2) 。 |
-| 2020 年 8 月 28 日 | [顧客の遍歴におけるデジタルタッチポイントへの価値の関連付け](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2) | コース | サイトの訪問者を知るには、何が訪問者をサイトに導いたか、サイトのコンバージョンのクレジットを様々なチャネルに割り当てる方法、さらには、サイトの他の項目がどのようにコンバージョンを引き起こしたかを理解します。 このコースでは、この分析を表示する主なビジュアライゼーションと、 [!UICONTROL Attribution IQ] を使用して分析にアトリビューションモデルを割り当てる方法について説明します。 |
-| 2020 年 8 月 22 日 | [クロスタブ分析を使用したAnalysis Workspaceの基本的なマーケティングアトリビューションの調査](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.html) | ビデオ | Adobe Analyticsでは、アトリビューション手法を次のレベルにまで引き継ぐ方法は数多くあります。 このビデオでは、 [!UICONTROL Workspaceのクロスタブ分析を使用して、] マーケティングチャネル [!UICONTROL レポートからより深い洞察を得る方法を強調します]。 |
-| 2020 年 8 月 22 日 | [右クリックでWorkspaceの効率性を確認](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html) | ビデオ | お気に入りのAnalysis Workspaceの右クリックとその使い方をご紹介します。 フリーフォームテーブルからフォールアウトビジュアライゼーションに至るまで、右クリックすると、Workspaceの効率性と熟練度が向上します。 |
+| 2020 年 8 月 30 日 | [Analysis Workspace のプロジェクトを保存、共有、共同作業](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.html) | ビデオ | [!UICONTROL Analysis Workspace] で、表にテキストの説明を追加する方法、プロジェクトのダイレクトリンクを作成する方法、および共有する方法を説明します。 |
+| 2020 年 8 月 29 日 | [コースの概要 — カスタマージャーニーにおけるデジタルタッチポイントに対する価値のアトリビューション](https://video.tv.adobe.com/v/39380?captions=jpn) | ビデオ | この入門ビデオでは、[カスタマージャーニーコースのデジタルタッチポイントに対する値のアトリビューション](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)の前提条件とコースのコンテンツを説明します 。 |
+| 2020 年 8 月 29 日 | [カスタマージャーニーにおけるデジタルタッチポイントへの価値の関連付け](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2) | コース | サイトの訪問者を知るために、何が訪問者をサイトに導いたか、サイトのコンバージョンのクレジットを様々なチャネルに割り当てる方法、さらには、サイトの他の項目がどのようにコンバージョンを引き起こしたかを理解します。このコースでは、この分析を表示する主なビジュアライゼーションと、 [!UICONTROL Attribution IQ] を使用して分析にアトリビューションモデルを割り当てる方法について説明します。 |
+| 2020 年 8 月 22 日 | [クロスタブ分析を使用した Analysis Workspace の基本的なマーケティングアトリビューションの調査](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.html) | ビデオ | Adobe Analytics では、アトリビューション手法を次のレベルにまで引き継ぐ方法は数多くあります。このビデオでは、[!UICONTROL Workspace] のクロスタブ分析を使用して、 [!UICONTROL マーケティングチャネル]レポートからより深い洞察を得る方法を強調します。 |
+| 2020 年 8 月 22 日 | [右クリックで Workspace の効率性を確認](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html) | ビデオ | 当社お気に入りの Analysis Workspace 右クリックとその使い方をご紹介します。フリーフォームテーブルからフォールアウトビジュアライゼーションに至るまで、右クリックすると、Workspace の効率性と熟練度が向上します。 |
 
 ### Analytics ヘルプリソース
 
@@ -203,34 +203,34 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 Audience Manager の新機能、修正点、ドキュメントおよびチュートリアルです。
 
-リリース日：**2020 年 9 月 20 日**
+リリース日：**2020 年 9 月 21 日**
 
 ### Adobe Audience Manager の新機能および修正点
 
-* 「 [!UICONTROL オーディエンスラボ] 」で、 [!UICONTROL 集計のレポートでテストセグメントの母集団が使用できない問題を修正しました]。 （AAM-54553）
-* サードパーティのアルゴリズムモデルを使用するセグメントが、 [!UICONTROL Audience Marketplaceの] セグメントの使用 [!UICONTROL 表示に表示されない問題を修正しました]。 （AAM-54595）
-* 特性やセグメントがデータソースにマッピングされていない場合でも、一部のユーザーがデータソースを削除しようとするとエラーが発生する問題を修正しました。 （AAM-55609）
-* 訪問者プロファイルビューアレポートにセグメントが表示されない問題を修正しました。 （AAM-55780）
-* Destinationsリストページで、Metrics **[!UICONTROL (指標]** )フィルターの「 **[!UICONTROL Look Back（戻る）」ウィンドウで「Lifetime(全期間]** )」を選択すると空白のページが返される問題を修正しました。 （AAM-49732）
-* 特性ダッシュボードで、「す **[!UICONTROL べての特性]** 」から任意のフィルター&#x200B;**[!UICONTROL (]**&#x200B;ルールベース **[!UICONTROL 、オンボード]**&#x200B;など)にフィルターすると指標は更新されますが、特性名とIDは更新されない問題を修正しました。 （AAM-55823）
-* API呼び出しで見つからない [!UICONTROL フィールドが原因で、Facebookにマッピングされたセグメントが更新されないという、]`traitAlias` 人ベースの宛先に関する問題を修正しました。 （AAM-55952）
-* 特性とセグメントを切り替えると、 [!UICONTROL トレンドレポート] (AAM-54736)でグラフが更新されない問題を修正しました。
-* 「 [!UICONTROL 類似したモデリング] 」で、 **** 一時停止コントロールを押してもモデルが一時停止せず、代わりに閉じる問題を修正しました。 （AAM-56121）
-* インターフェイス全体で複数のアクセシビリティを改善しました。(AAM-48950、AAM-48957、AAM-49022、AAM-49026、AAM-49044、AAM-49069、AAM-49370、AAM-AAM5989、-5)5990)。
+* [!UICONTROL Audience Lab] の「 [!UICONTROL 集計レポート]」でテストセグメントの母集団が使用できない問題を修正しました。（AAM-54553）
+* サードパーティのアルゴリズムモデルを使用するセグメントが、[!UICONTROL Audience Marketplace] の[!UICONTROL セグメントの使用]に表示されない問題を修正しました。（AAM-54595）
+* 特性やセグメントがデータソースにマッピングされていない場合でも、一部のユーザーがデータソースを削除しようとするとエラーが発生する問題を修正しました。（AAM-55609）
+* 訪問者プロファイル閲覧者レポートにセグメントが表示されない問題を修正しました。（AAM-55780）
+* 宛先リストページで、**[!UICONTROL 指標のルックバックウィンドウ]**&#x200B;フィルターで「**[!UICONTROL 全期間]**」を選択すると空白のページが返される問題を修正しました。（AAM-49732）
+* 特性ダッシュボードで、「**[!UICONTROL すべての特性]** 」から任意のフィルター（**[!UICONTROL ルールベース]**、**[!UICONTROL オンボード]**&#x200B;など）にフィルターすると指標は更新されますが、特性名と ID は更新されない問題を修正しました。（AAM-55823）
+* API 呼び出しで `traitAlias` フィールドが見つからないことが原因で、Facebook にマッピングされたセグメントが更新されないという、 [!UICONTROL ユーザーベースの宛先]に関する問題を修正しました。（AAM-55952）
+* 特性とセグメントを切り替えると、 [!UICONTROL トレンドレポート]でグラフが更新されない問題を修正しました。（AAM-54736）
+* [!UICONTROL 類似したモデリング]で、  **[!UICONTROL 一時停止]**&#x200B;コントロールを押してもモデルが一時停止せず、代わりに閉じる問題を修正しました。（AAM-56121）
+* インターフェイス全体で複数のアクセシビリティを改善しました。AAM-48950、（AAM-48950、AAM-48957、AAM-49022、AAM-49026、AAM-49044、AAM-49069、AAM-49370、AAM-55989、AAM-55990）
 
-### Audience Manager courses and tutorials {#tutorials-aam}
+### 新しい Audience Manager コースとチュートリアル {#tutorials-aam}
 
-Audience Manager用に公開された新しいビデオ、チュートリアル、またはコース。
+新しく公開された Audience Manager ビデオ、チュートリアル、コース。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 8 月 18 日 | [Audience Managerセグメントの宛先へのマッピング](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.html) | ビデオ | Audience Manager内の様々なタイプの宛先と、各宛先タイプにセグメントをマッピングする方法について説明します。 |
-| 2020 年 8 月 14 日 | [プロファイルの結合ルールを最大限に活用するためのヒント、テクニックおよび戦略](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.html) | 記事 | マルチソリューションコンサルタントのVarun Kalra氏 [!DNL Accordant]が、 [!UICONTROL プロファイル結合ルールの選択と使用に関するヒントを紹介します]。 |
-| 2020 年 8 月 14 日 | [特性とセグメントのベストプラクティス](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html) | 記事 | シニアマーケティングスペシャリストのMatt Vittorioso氏が、特性の管理に関するヒント [!DNL Ally Financial]を提供しています。 |
-| 2020 年 8 月 12 日 | [Google顧客の一致を人ベースの宛先と見なし、設定する](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.html) | ビデオ | このビデオでは、Google Customer Match People-Based Destinationの詳細と使用例について説明し、セグメントを作成して目的にマッピングするためのウォークスルーについて説明します。 また、Google広告コンソールにオーディエンスのランディングページも表示されます。 |
-| 2020 年 8 月 13 日 | [コースの概要 —オーディエンスセグメントの作成と戦略](https://video.tv.adobe.com/v/39091?captions=jpn) | ビデオ | このビデオでは、「オーディエンスセグメントの作成と戦略」コースで何が待っているかを学びます。 |
-| 2020 年 8 月 13 日 | [セグメント作成時のコード表示の使用 ](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.html) | ビデオ | コード表示を使用してセグメントを定義し、最新性や頻度の使用を含む複雑な特性の組み合わせを作成する方法について説明します。 |
-| 2020 年 8 月 22 日 | [オーディエンスセグメントの作成と戦略](https://experienceleague.adobe.com/?recommended=AudienceManager-U-1-2020.2) | コース | このコースでは、A ～ Zのセグメントを学習します。セグメントの作成、管理、ターゲットパートナーへのアクティブ化の方法について説明します。 役に立つ使用例をいくつか見て、お客様からヒントやテクニックをいくつか得ることもできます。 |
+| 2020 年 8 月 18 日 | [Audience Manager セグメントの宛先へのマッピング](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.html) | ビデオ | Audience Manager 内の様々なタイプの宛先と、各宛先タイプにセグメントをマッピングする方法について説明します。 |
+| 2020 年 8 月 15 日 | [プロファイルの結合ルールを最大限に活用するためのヒント、テクニックおよび戦略](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.html) | 記事 | [!DNL Accordant] マルチソリューションコンサルタントの Varun Kalra 氏が、 [!UICONTROL プロファイル結合ルール]の選択と使用に関するヒントを紹介します。 |
+| 2020 年 8 月 15 日 | [特性とセグメントのベストプラクティス](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.html) | 記事 | [!DNL Ally Financial] シニアマーケティングスペシャリストの Matt Vittorioso 氏が、特性の管理に関するヒントを提供します。 |
+| 2020 年 8 月 13 日 | [Google カスタマーマッチのユーザーベースの宛先およびその設定方法について](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.html) | ビデオ | このビデオでは、Google カスタマーマッチの[!UICONTROL ユーザーベースの宛先]の詳細と使用例について説明し、セグメントを作成して目的にマッピングするためのウォークスルーについて説明します。また、Google 広告コンソールへのオーディエンスのランディングも表示されます。 |
+| 2020 年 8 月 14 日 | [コースの概要 — オーディエンスセグメントの作成と戦略](https://video.tv.adobe.com/v/39091?captions=jpn) | ビデオ | このビデオでは、「オーディエンスセグメントの作成と戦略」コースの内容を学びます。 |
+| 2020 年 8 月 14 日 | [セグメント作成時のコードビューの使用 ](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.html) | ビデオ | コードビューを使用してセグメントを定義し、最新性や頻度の使用を含む複雑な特性の組み合わせを作成する方法について説明します。 |
+| 2020 年 8 月 22 日 | [オーディエンスセグメントの作成と戦略](https://experienceleague.adobe.com/?recommended=AudienceManager-U-1-2020.2) | コース | このコースでは、セグメントについて幅広く学習します。セグメントの作成、管理、ターゲットパートナーへのアクティブ化の方法について説明します。役に立つ使用例をいくつか見て、お客様からヒントやテクニックをいくつか得ることもできます。 |
 
 ## ![アイコン](/assets/aem.png) Adobe Experience Manager {#aem}
 
@@ -238,11 +238,12 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 ### 製品のアップデート
 
-* **AEM 6.5.6.0** AEM 6.5、Service Pack 6（2020年9月3日リリース）は、2019年4月1日のAEM 6.5の一般リリース(GA)以降にリリースされた新機能、お客様向けの主な機能強化、パフォーマンス、安定性、セキュリティの向上を含む重要なアップデートです。
+* **AEM 6.5.6.0**
+AEM 6.5、Service Pack 6（2020 年 9 月 3 日リリース 6.5.6.0）は、2019 年 4 月の AEM 6.5 の一般リリース以降にリリースされた新機能、お客様向けの主な機能強化、パフォーマンス、安定性、セキュリティの向上を含む重要なアップデートです。
    * [リリースノート](https://helpx.adobe.com/jp/experience-manager/6-5/release-notes/sp-release-notes.html)
    * [AEM Forms リリース成果物](https://helpx.adobe.com/jp/aem-forms/kb/aem-forms-releases.html)
 
-* **AEM 6.4.8.2** AEM 6.4、Service Pack 8、Cumulative Fix Pack 2（2020年9月3日リリースの6.4.8.2）は重要なアップデートで、AEM 6.4、Service Pack 8(6.4.8.0)、2020年3月以降の一般リリース以降の内部およびお客様向けの修正が含まれています。
+* **AEM 6.4.8.2** AEM 6.4、Service Pack 8、Cumulative Fix Pack （6.4.8.2 が 2020 年 9 月 3 日にリリース）は重要なアップデートです。2020 年 3 月の AEM 6.4、Service Pack 8（6.4.8.0）の一般リリース以降におこなわれた複数の内部修正やお客様向けの修正が含まれています。
    * [リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-64/release-notes/cfp-release-notes.html)
    * [AEM Forms リリース成果物](https://helpx.adobe.com/jp/aem-forms/kb/aem-forms-releases.html)
 
@@ -250,69 +251,69 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * **[!UICONTROL AEM as a Cloud Service]**
 
-   What is new on [!UICONTROL AEM as a Cloud Service]? 主な特徴は次のとおりです。
+   [!UICONTROL AEM as a Cloud Service] の新機能には何がありますか？主な特徴は次のとおりです。
 
-   * [!UICONTROL AEMで、ページとサブページ] （ページツリー）を以前のバージョンに [復元するCloud Serviceとして機能](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/sites/authoring/features/page-versions.html#reinstating-versions)。
-   * ビデオのトランスコードは、アセットマイクロサービスでサポートされるようになりました。ビデオのビットレートとサイズの設定をサポートする [!UICONTROL 処理プロファイル] 画面の新しい「ビデオ  」セクションが追加されました（出力形式はH.264コーデックを使用したMP4です）。 For details, see [manage video assets.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/manage/manage-video-assets.html#transcode-video) より多くのトランスコードオプションとビデオ配信 [!UICONTROL ダイナミックメディア] アドオンを使用できます。
+   * [!UICONTROL AEM as a Cloud Service] で、[ページとサブページ（ページツリー）を以前のバージョンに復元する機能](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/sites/authoring/features/page-versions.html#reinstating-versions)。
+   * ビデオのトランスコードは、アセットマイクロサービスでサポートされるようになりました。ビデオのビットレートとサイズの設定をサポートする[!UICONTROL 処理プロファイル]画面に新しい「[!UICONTROL ビデオ]」セクションが追加されました（出力形式は H.264 コーデックを使用した MP4 です）。詳しくは、[ビデオアセットの管理を参照してください。](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/assets/manage/manage-video-assets.html#transcode-video)より多くのトランスコードオプションとビデオ配信には、 [!UICONTROL ダイナミックメディア]アドオンを使用できます。
    * 新しいアセットのダウンロードエクスペリエンスでは、
       * 大規模なダウンロードの場合は非同期的にダウンロードするので、ユーザーが待つ必要がありません。
-      * 開発者向けの拡張機能用の新しいモジュラーAPI。
-   * CDN(コンテンツ配信ネットワーク)キャッシュを [!UICONTROL AEMの] Dynamic Media [!UICONTROL (] Dynamic Media Classic )から直接無効にして、最新のアセットが数時間から数分以内に提供されるようになりました。 詳しくは、ダイナミックメディアを使用したCDNキャッシュの無効化を参照してください。 [](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/invalidate-cdn-cache-dynamic-media.html)
-   * アセットのユーザーインターフェイスコントロール、ナビゲーション、参照、検索の操作に、アクセシビリティのサポートが強化されました。
-   * AEM Desktop App 2.0.3リリースが利用可能になり、AEM 6.5、Service Pack 5(AEM 6.5.5)との互換性が向上し、クライアントOS互換リストが更新されました（10.14より前のWindows 7およびMacOSバージョンは削除されました）。
-   * [!UICONTROL 製品コンソール] 機能は、AEM [!UICONTROL CommerceでCloud Serviceとして使用できるようになりました]。 これにより、AEMのマーケターと作成者は、コマースバックエンドに保存されているカテゴリと製品を表示してナビゲートできます。 製品コンソールでのカテゴリおよび製品のプロパティのサポートも [!UICONTROL 提供され] ました。
-   * [!UICONTROL 製品] /  カテゴリの選択機能が強化され、マーケティング担当者はSKUを使用してカテゴリを選択したり、カテゴリIDを使用して製品を選択したりできるようになりました。
-   * [!UICONTROL 「コンテンツ監査] 」は、 [!UICONTROL Cloud Managerサイト実稼動パイプラインで有効になる機能です]。 [!UICONTROL Sitesを使用するプログラムの] 実稼動パイプライン [!UICONTROL 設定に、「] Content Audit ****」という名前の3番目のタブが含まれるようになりました。 実稼働パイプラインが実行されるたびに、パフォーマンス、SEO（検索エンジンの最適化）、アクセシビリティ、ベストプラクティス、PWA（プログレッシブWebアプリ）などの多数のディメンションに対してサイトを評価するカスタム機能テストの後、新しいContent Audit  手順が実行されます。
-「 [コンテンツ監査テスト」を参照してください。](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/using-cloud-manager/test-results/content-audit-testing.html)
-   * ア [!UICONTROL セット] プログラムで新しく作成した環境は、 [!UICONTROL Smart Content Servicesを使用して自動的に設定されるようになりました]。
-   * 休止状態の環境は、Cloud Managerの **[!UICONTROL 概要]** ページで非冬眠にできます。
-   * ページでエクスペリエンスチェックを実行する機能（パワー指定） [!DNL Google Lighthouse]。 Cloud Manager [!UICONTROL パイプラインの一部として、エクスペリエンスKPIに対して最大25のページをチェックして検証でき、スコアが] Cloud Manager  UIに表示されます。
-   * See the [AEM as a Cloud Service release notes.](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
+      * デベロッパー向けの拡張機能用の新しいモジュラー API。
+   * CDN（コンテンツ配信ネットワーク）キャッシュを [!UICONTROL AEM as a Cloud Service]（[!UICONTROL Dynamic Media Classic] を使用するのに対して）[!UICONTROL Dynamic Media] から直接無効にして、最新のアセットが数時間から数分以内に提供されるようになりました。詳しくは、「[ダイナミックメディアを使用した CDN キャッシュの無効化](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/assets/dynamicmedia/invalidate-cdn-cache-dynamic-media.html)」を参照してください。 
+   * アセットのユーザーインターフェイスコントロール、ナビゲーション、参照、検索の操作でのアクセシビリティサポートが強化されました。
+   * AEM デスクトップアプリケーション 2.0.3 リリースが利用可能になり、AEM 6.5、Service Pack 5（AEM 6.5.5）との互換性が向上し、クライアント OS 互換リストが更新されました（10.14 より前の Windows 7 および MacOS バージョンは削除されました）。
+   * [!UICONTROL 製品コンソール]機能は、AEM [!UICONTROL Commerce で Cloud Service として使用できるようになりました]。これにより、AEM のマーケターと作成者は、コマースバックエンドに保存されているカテゴリと製品を表示してナビゲートできます。[!UICONTROL 製品コンソール]でのカテゴリおよび製品のプロパティのサポートも提供されています。
+   * [!UICONTROL 製品]および[!UICONTROL カテゴリ]の選択機能が強化され、マーケティング担当者は SKU を使用してカテゴリを選択したり、カテゴリ ID を使用して製品を選択したりできるようになりました。
+   * [!UICONTROL コンテンツ監査]は、 [!UICONTROL Cloud Manager サイト実稼動パイプライン]で有効になる機能です。[!UICONTROL Sites] を使用するプログラムサイトを含むプログラムの[!UICONTROL 本番パイプライン]構成に、「**[!UICONTROL コンテンツ監査]**」という 3 番目のタブが含まれるようになりました。実稼働パイプラインが実行されるたびに、パフォーマンス、SEO（検索エンジンの最適化）、アクセシビリティ、ベストプラクティス、PWA（プログレッシブ Web アプリ）などの多数のディメンションに対してサイトを評価するカスタム機能テストの後、新しい[!UICONTROL コンテンツ監査]手順が実行されます。
+「[コンテンツ監査テスト](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/implementing/using-cloud-manager/test-results/content-audit-testing.html)」を参照してください。
+   * [!UICONTROL アセット]プログラムで新しく作成した環境は、 [!UICONTROL Smart Content Services] を使用して自動的に設定されるようになりました。
+   * 休止状態の環境は、Cloud Manager の&#x200B;**[!UICONTROL 概要]**&#x200B;ページで復帰できます。
+   * ページでエクスペリエンスチェックを実行する機能（[!DNL Google Lighthouse] を使用）。[!UICONTROL Cloud Manager] パイプラインの一部として、エクスペリエンス KPI に対して最大 25 のページを確認して検証でき、スコアが [!UICONTROL Cloud Manager UI] に表示されます。
+   * [AEM as a Cloud Service リリースノート。](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
-* **Experience Manager[!UICONTROL デスクトップアプリ]2.0.3.2**
+* **Experience Manager [!UICONTROL デスクトップアプリ] 2.0.3.2**
 
    このマイナーリリースには、次の内容が含まれています。
-   * デスクトップアプリバージョン2.0.2 for WindowsがAEM 6.5.5インスタンスで動作しない問題を修正しました。
-   * サポートされるOSプラットフォームをWin 10にアップデートし、最新のサービスパックとMac OS 10.14以降を搭載しました。
-   * See the [release notes.](https://docs.adobe.com/content/help/ja-JP/experience-manager-desktop-app/using/release-notes.html)
+   * Windows 向けデスクトップアプリバージョン 2.0.2 が AEM 6.5.5 インスタンスで動作しない問題を修正しました。
+   * サポートされる OS プラットフォームを Win 10（最新のサービスパック）と Mac OS 10.14 以降にアップデートしました。
+   * [リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-desktop-app/using/release-notes.html)を参照してください。
 
-* **[!UICONTROL AEM Assets Brand Portal]**
+* **AEM [!UICONTROL Assets Brand Portal]**
 
    このリリースには、次の機能が含まれています。
-   * ドキュメントビューアにより、拡張されたPDF表示操作が可能になります。
+   * ドキュメントビューアーにより、PDF 表示エクスペリエンスが強化されました。
    * ダウンロードアセットの設定とエクスペリエンスの機能が強化されました。
-   * 製品の重要な問題を修正。
-   * See the [release notes.](https://docs.adobe.com/content/help/ja-JP/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html)
+   * 製品の重要な問題を修正しました。
+   * [リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html)を参照してください。
 
 ### **セルフサービス**
 
-* **Cloud Serviceトランジションとしての[!UICONTROL AEM用の新しいツール]**
+* **[!UICONTROL AEM as a Cloud Service 移行用の新しいツール]**
 
-   * AIO-CLIプラグインは、コードリファクタリングツールの統合を目的としてリリースされ、開発者がコードリファクタリングツールを1か所から呼び出して実行できるようになりました。 詳しくは、GitHubリソース [aio-cli-plugin-aem-cloud-service-migration](https://github.com/adobe/aio-cli-plugin-aem-cloud-service-migration) （GitHubリソースのaio-cli-plugin-aem-cloud-service-migration）を参照してください。
-   * [!UICONTROL AEM Dispatcher Converter] ( Dispatcher Converter [!UICONTROL )が拡張され、オンプレミス設定とAdobe] Managed Servicesディスパッチャー設定の、Cloud Service互換のディスパッチャー設定としてのAEMへの変換がサポートされるようになりました。 詳しくは、GitHubリソース [AEMCloud Serviceディスパッチャーコンバーター](https://github.com/adobe/aem-cloud-service-source-migration/tree/master/packages/dispatcher-converter) （英語）を参照してください。
-   * AEM Dispatcher Converterは、node.jsに書き直され、AIO-CLIプラグインと統合されています。
+   * AIO-CLI プラグインは、コードリファクタリングツールの統合を目的としてリリースされ、開発者がコードリファクタリングツールを 1 か所から呼び出して実行できるようになりました。詳しくは、GitHub リソース [aio-cli-plugin-aem-cloud-service-migration](https://github.com/adobe/aio-cli-plugin-aem-cloud-service-migration) を参照してください。
+   * [!UICONTROL AEM Dispatcher Converter] が拡張され、オンプレミス設定と Adobe [!UICONTROL Managed Services ディスパッチャー]設定の、AEM as a Cloud Service 互換のディスパッチャー設定への変換がサポートされるようになりました。詳しくは、GitHub リソース [AEM Cloud Service ディスパッチャーコンバーター](https://github.com/adobe/aem-cloud-service-source-migration/tree/master/packages/dispatcher-converter)を参照してください。
+   * AEM Dispatcher Converter は、node.js で書き直され、AIO-CLI プラグインと統合されています。
 
-* **ダイナミックメディアでのCDNの無効化**
+* **[!UICONTROL ダイナミックメディア]**&#x200B;での CDN の無効化 
 
-   ダイナミックメディア  (DDN)内からリクエストを送信して、CDNキャッシュの有効期限を数分で切れるようになりました。 この機能は、アセットを更新し、その変更をWebサイトで直ちに有効にする場合に便利です。
+   [!UICONTROL ダイナミックメディア ]（DDN）内からリクエストを送信して、CDN キャッシュの有効期限を数分で切れるようになりました。この機能は、アセットを更新し、その変更を Web サイトで直ちに有効にする場合に便利です。
 
-   詳しくは、 [ダイナミックメディアを使用したCDNキャッシュの無効化を参照してください 。](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/dynamicmedia/invalidate-cdn-cache-dynamic-media.html)
+   詳しくは、「[[!UICONTROL ダイナミックメディア]を使用した CDN キャッシュの無効化](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/assets/dynamicmedia/invalidate-cdn-cache-dynamic-media.html)」を参照してください。
 
-* **ページ公開のオン/オフ時間**
+* **ページ公開のオン／オフ時間**
 
-   オン/オフ時間を使用してページ [を公開する場合](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/sites/authoring/fundamentals/page-properties.html#basic)、ページプロパティの「基本」タブを参照して、自動レプリケーションを [事前設定できるようになりました](https://docs.adobe.com/help/en/experience-manager-cloud-service/operations/replication.html#on-and-off-times-trigger-configuration)。
+   [オン／オフ時間](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/sites/authoring/fundamentals/page-properties.html#basic)を使用してページを公開する場合、ページプロパティの「基本」タブを参照して、[自動レプリケーションを事前設定](https://docs.adobe.com/help/ja-JP/experience-manager-cloud-service/operations/replication.html#on-and-off-times-trigger-configuration)できるようになりました。
 
 * **[!UICONTROL コアコンポーネント]**
 
-   [!UICONTROL コアコンポーネント] リリース2.11.0は、AMPのサポートを導入しました。GitHubで利用可能なオーサリングドキュメント [、](https://docs.adobe.com/content/help/ja-JP/experience-manager-core-components/using/introduction.html) 開発者の詳細 [、プロジェクトのダウンロードと共に使用できるようになりました。](https://github.com/adobe/aem-core-wcm-components)
+   [!UICONTROL コアコンポーネント]リリース 2.11.0 は、AMP のサポートを導入し、[オーサリングドキュメント](https://docs.adobe.com/content/help/ja-JP/experience-manager-core-components/using/introduction.html)、 [デベロッパーの詳細、およびプロジェクトのダウンロードと共に GitHub で利用可能になりました。](https://github.com/adobe/aem-core-wcm-components)
 
 * **[!UICONTROL フォーム]**
 
-   * 更新された [GovおよびWe.Financeリファレンスサイトのウォークスルー](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/forms/getting-started/aem-forms-reference-collaterals/forms-gov-reference-site-user-demo.html) 。 これらのリファレンスサイトを使用して、エンドツーエンドのワークフローを学習し、政府および財務部門向けのフォームを作成し、提供することができます。
-   * 「ドラフトとして保存 [](https://docs.adobe.com/content/help/en/experience-manager-65/forms/interactive-communications/prepare-send-interactive-communication.html#sample-ccrDocumentInstance-spi) 」の実装例を使用できます。 この例を使用して、 [!UICONTROL Interactive Communications Agent UIの「ドラフトとして] 保存 [!UICONTROL 」機能を実装できます]。 これは、エージェントがドラフトを保存および取得して、Interactive Communicationsの生成を高速化するのに役立ちます。
-   * Visual C++再配布可能パッケージの [インストールと検証の手順は](https://docs.adobe.com/content/help/en/experience-manager-65/forms/install-aem-forms/osgi-installation/installing-configuring-aem-forms-osgi.html#automatic-installation-visual-studio-redistributables) 、 [!UICONTROL AEM Forms] ・アドオン・パッケージのインストール中に提供されます。 これにより、Visual C++再配布可能なインストールと設定に関するエラーを減らすことができます。
-   * [アダプティブフォーム](https://docs.adobe.com/content/help/en/experience-manager-65/forms/adaptive-forms-advanced-authoring/adobe-sign-integration-adaptive-forms.html) ・ドキュメントを使用したAdobe Signの設定は、完全にテストおよび改訂されています。 アダプティブフォームを使用してAdobe Signをスムーズに設定するための追加の手順が含まれるようになりました。
-   * ([!UICONTROL AEM Forms] （JEE上のみ）Rights Managementサービス用のInvite External Usersハンドラーを [作成するためのドキュメントを使用できます](https://docs.adobe.com/content/help/en/experience-manager-65/forms/developer-reference/programming-aem-forms-jee/developing-spis-aem-forms/creating-invite-external-users-handler.html) 。
+   * 更新された [We.Gov および We.Finance リファレンスサイトのウォークスルー](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/forms/getting-started/aem-forms-reference-collaterals/forms-gov-reference-site-user-demo.html) 。これらのリファレンスサイトを使用して、エンドツーエンドのワークフローを学習し、政府および財務部門向けのフォームを作成し、提供することができます。
+   * 「[下書きとして保存](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/forms/interactive-communications/prepare-send-interactive-communication.html#sample-ccrDocumentInstance-spi) 」の実装例を使用できます。「[!UICONTROL 下書きとして保存]」機能を[!UICONTROL インタラクティブなコミュニケーションエージェント UI] に実装できます。これは、エージェントが下書きを保存および取得して、インタラクティブなコミュニケーションの生成を高速化するのに役立ちます。
+   * [Visual C++ 再配布可能パッケージのインストールと検証の手順](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/forms/install-aem-forms/osgi-installation/installing-configuring-aem-forms-osgi.html#automatic-installation-visual-studio-redistributables)は、[!UICONTROL AEM Forms] アドオンパッケージのインストール中に提供されます。これにより、Visual C++ の再配布可能なインストールと設定に関するエラーを減らすことができます。
+   * [アダプティブフォーム使用した Adobe Sign の設定](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/forms/adaptive-forms-advanced-authoring/adobe-sign-integration-adaptive-forms.html)ドキュメントが、完全にテストおよび改訂されています。アダプティブフォームを使用して Adobe Sign をスムーズに設定するための追加の手順が含まれるようになりました。
+   * （JEE 上の [!UICONTROL AEM Forms] のみ）[Rights Management サービス用の外部ユーザー招待ハンドラー作成](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/forms/developer-reference/programming-aem-forms-jee/developing-spis-aem-forms/creating-invite-external-users-handler.html)のドキュメントを使用できます。
 
 ### **コミュニティ**
 
@@ -322,28 +323,28 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 ### 新しい Experience Manager コースとチュートリアル
 
-過去1か月間に公開された新しいビデオ、チュートリアル、コース。
+以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 9 月 1 日 | [AEM FormsとAdobe Signの統合を利用するためのXDPテンプレートの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/forms-and-sign/using-xdp-templates-with-adobe-sign.html) | ビデオ | 既存のXDPテンプレートを [!UICONTROL AEM Forms] と署名の統合で活用できます。 |
-| 2020 年 8 月 18 日 | [変換されたアダプティブフォームの確認と設定](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/forms-and-sign/configure-converted-adaptive-form.html) | ビデオ | 自動フォームサービスによって作成されたアダプティブフォームを設定し、Adobe Sign統合を使用します。 パネルタイトルを変更し、必要に応じていくつかのフィールドの配置を変更します。 |
-| 2020 年 8 月 25 日 | [2名の署名者に対するアダプティブフォームの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/forms-and-sign/configure-adaptive-form-for-two-signers.html) | ビデオ | 複数の署名者を設定し、アダプティブFormsインターフェイスを使用して順番（順次または並行）を指定します。 |
-| 2020 年 8 月 18 日 | [AEMへのアクセスの設定](https://video.tv.adobe.com/v/39230?captions=jpn) | ビデオ | AdobeIMSを使用して [!UICONTROL AEMをCloud Serviceとして認証する方法、およびAEMとその機能へのアクセスを制御するためにAdobeIMSユーザー]、 [!UICONTROL ユーザーグループ]、  製品プロファイルを使用する方法を確認します。 |
-| 2020 年 8 月 18 日 | [AEMウォークスルーへのアクセスの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/accessing/walk-through.html) | ビデオ | Adobe [!UICONTROL Admin Console内のAdobeIMSユーザー、]ユーザーグループ [!UICONTROL 、] 製品プロファイルを簡潔に設定したウォークスルー 。 また、 [!UICONTROL AEM AuthorでこれらのAdobeIMSの抽象概念を活用して、特定のグループベースの権限を定義および管理する方法についても説明します] 。 |
-| 2020 年 8 月 18 日 | [AEMユーザー、グループ、権限](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html) | ビデオ | Adobe Experience Managerは、AdobeのIMSユーザー、 [!UICONTROL ユーザーグループ]、 [!UICONTROL 製品プロファイルに基づいて構築され、AEMへのカスタマイズ可能なアクセスを提供します] 。 AEMのグループと権限を定義する方法、およびAdobe IMSの抽象概念と連携して、AEMへのシームレスでカスタマイズ可能なアクセスを提供する方法について説明します。 |
-| 2020 年 8 月 18 日 | [Launch実装のデバッグ](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/debug-launch-implementation.html) | ビデオ | 起動の実装をデバッグするための一般的なツールとテクニックの紹介。 ブラウザーの開発者コンソールと [!UICONTROL Experience Platformデバッガー] 拡張機能を使用して、Experience Platform Launch実装の主要な側面を特定し、トラブルシューティングする方法について説明します。 |
-| 2020 年 8 月 18 日 | [起動Cloud Service設定の作成](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/create-launch-cloud-service.html) | ビデオ | 新しいExperience Platform LaunchCloud Services設定を作成する方法を説明します。 その後、起動Cloud Serviceの設定を既存のサイトに適用でき、起動ライブラリの読み込みを作成者ライブラリと発行環境の両方で監視できます。 |
-| 2020 年 8 月 18 日 | [AdobeI/Oを使用して起動でAEMに接続](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/connect-aem-launch-adobe-io.html) | ビデオ | Experience Platform LaunchI/Oを使用してAEMを認証するIMS設定を作成する方法について説明します。 この統合が実施されると、AEMはLaunch APIを介して通信し、Launchプロパティにアクセスできます。 |
-| 2020 年 8 月 18 日 | [Launch プロパティの作成](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/create-launch-property.html) | ビデオ | 残りの統合を設定するために必要な最小の設定でLaunchプロパティを作成する方法を説明します。 ユーザーは、起動UIに導入され、拡張機能、ルール、および発行ワークフローについて学習します。 |
-| 2020 年 8 月 18 日 | [Experience Platform LaunchとAEMの統合](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/overview.html) | ビデオ | Experience Platform Launchは、Adobeの次世代タグ管理プラットフォームであり、Adobe Analytics、 [!DNL Target]Audience Manager、その他多くのソリューションを導入する最善の方法です。 Experience Platform Launchの概要と推奨されるAdobe Experience Managerとの統合について説明します。 |
-| 2020 年 8 月 18 日 | [管理者用の AEM Assets の設定](https://video.tv.adobe.com/v/37647?captions=jpn) | ビデオ | このビデオでは、管理者が [!UICONTROL AEM Assetsの設定について学習できます]。 |
-| 2020 年 8 月 12 日 | [Cloud ServiceSDKとしてのAEMを使用したローカル開発](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/commerce/develop.html) | ビデオ | AEMコマースおよび [!UICONTROL AEM用のローカル開発環境をCloud Service] SDKとしてセットアップする方法について説明します。 |
-| 2020 年 8 月 18 日 | [フォームデータモデルを使用したアダプティブフォームの事前入力](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.1.forms) | コース | 既存のデータを使用して、アダプティブフォームのフィールドに事前入力することができます。 このコースでは、フォームデータモデルのrequest属性を使用してフィールドに事前入力する方法を学習します。 |
-| 2020 年 8 月 18 日 | [AdobeIMS製品プロファイル](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/accessing/adobe-ims-product-profiles.html) | ビデオ | AdobeIMS製品プロファイルは、ユーザーがAEM Authorサービスにログインする権利をユーザーに付与し、追加する製品プロファイルに応じて、アクセスのベースラインを提供します。 |
-| 2020 年 8 月 18 日 | [AdobeIMSユーザーグループ](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html) | ビデオ | AdobeIMSユーザーグループは、AEMに公開されるユーザーの論理セットを確立します。AEMユーザーに対する権限を微調整するために利用できます。 |
-| 2020 年 8 月 18 日 | [AdobeIMSユーザー](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/accessing/adobe-ims-users.html) | ビデオ | AdobeIMSユーザーの概要、Admin Consoleでのアクセス方法、管理方法、およびユーザーをCloud ServiceとしてAEMにログインするために使用する方法について説明します。 |
-| 2020 年 8 月 18 日 | [開発者向けHTML5Formsの概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.forms) | コース | HTML5フォームオファーによるXFAフォームテンプレートのHTML5形式でのレンダリング この機能により、XFAベースのPDFがサポートされていないモバイルデバイスおよびデスクトップブラウザーでのフォームのレンダリングが可能になります。 |
+| 2020 年 9 月 1 日 | [AEM Forms と Adobe Sign の統合を利用するための XDP テンプレートの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/forms-and-sign/using-xdp-templates-with-adobe-sign.html) | ビデオ | 既存の XDP テンプレートを [!UICONTROL AEM Forms] と Sign の統合で活用できます。 |
+| 2020 年 8 月 18 日 | [変換されたアダプティブフォームの確認と設定](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/forms-and-sign/configure-converted-adaptive-form.html) | ビデオ | 自動フォームサービスによって作成されたアダプティブフォームを設定し、Adobe Sign 統合を使用します。パネルタイトルを変更し、必要に応じていくつかのフィールドの配置を変更します。 |
+| 2020 年 8 月 26 日 | [2 名の署名者に対するアダプティブフォームの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/forms-and-sign/configure-adaptive-form-for-two-signers.html) | ビデオ | 複数の署名者を設定し、アダプティブフォームインターフェイスを使用して順番（順次または並行）を指定します。 |
+| 2020 年 8 月 18 日 | [AEM へのアクセスの設定](https://video.tv.adobe.com/v/39230?captions=jpn) | ビデオ | Adobe IMS を使用して [!UICONTROL AEM as a Cloud Service] に認証する方法、および AEM とその機能へのアクセスを制御するために Adobe IMS ユーザー、 [!UICONTROL ユーザーグループ]、 [!UICONTROL 製品プロファイル]を使用する方法を確認します。 |
+| 2020 年 8 月 18 日 | [AEM ウォークスルーへのアクセスの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/accessing/walk-through.html) | ビデオ | Adobe [!UICONTROL Admin Console] 内での Adobe IMS ユーザー、[!UICONTROL ユーザーグループ]、 [!UICONTROL 製品プロファイル]設定の簡潔なウォークスルー 。また、[!UICONTROL AEM Author] でこれらの Adobe IMS の抽象概念を活用して、特定のグループベースの権限を定義および管理する方法についても説明します 。 |
+| 2020 年 8 月 18 日 | [AEM ユーザー、グループ、権限](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/accessing/aem-users-groups-and-permissions.html) | ビデオ | Adobe Experience Manager は、Adobe IMS ユーザー、 [!UICONTROL ユーザーグループ]、 [!UICONTROL 製品プロファイル]に基づいて構築され、AEM へのカスタマイズ可能なアクセスを提供します。AEM のグループと権限を定義する方法、および Adobe IMS の抽象概念と連携して、AEM へのシームレスでカスタマイズ可能なアクセスを提供する方法について説明します。 |
+| 2020 年 8 月 18 日 | [Launch 実装のデバッグ](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/debug-launch-implementation.html) | ビデオ | Launch の実装をデバッグするための一般的なツールとテクニックの紹介。ブラウザーのデベロッパーコンソールと [!UICONTROL Experience Platform デバッガー]拡張機能を使用して、Experience Platform Launch 実装の主要な側面を特定し、トラブルシューティングする方法について説明します。 |
+| 2020 年 8 月 18 日 | [Launch クラウドサービス設定の作成](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/create-launch-cloud-service.html) | ビデオ | 新しい Experience Platform Launch クラウドサービス設定を作成する方法を説明します。その後、Launch クラウドサービスの設定を既存のサイトに適用でき、起動ライブラリの読み込みを作成者ライブラリと発行環境の両方で監視できます。 |
+| 2020 年 8 月 18 日 | [Adobe I/O を使用して Launch と AEM に接続](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/connect-aem-launch-adobe-io.html) | ビデオ | Experience Platform Launch I/O を使用して AEM を認証する IMS 設定を作成する方法について説明します。この統合が実施されると、AEM は Launch API を介して通信し、Launch プロパティにアクセスできます。 |
+| 2020 年 8 月 18 日 | [Launch プロパティの作成](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/create-launch-property.html) | ビデオ | 残りの統合を設定するために必要な最小の設定で Launch プロパティを作成する方法を説明します。Launch UI が紹介され、拡張機能、ルール、公開ワークフローについて学習します。 |
+| 2020 年 8 月 18 日 | [Experience Platform Launch と AEM の統合](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/experience-platform-launch/overview.html) | ビデオ | Experience Platform Launch は、Adobe の次世代タグ管理プラットフォームであり、Adobe Analytics、 [!DNL Target]、Audience Manager、その他多くのソリューションを導入する最善の方法です。Experience Platform Launch の概要と推奨される Adobe Experience Manager との統合について説明します。 |
+| 2020 年 8 月 18 日 | [管理者用の AEM Assets の設定](https://video.tv.adobe.com/v/37647?captions=jpn) | ビデオ | このビデオでは、管理者が [!UICONTROL AEM Assets の設定について学習できます]。 |
+| 2020 年 8 月 13 日 | [AEM as a Cloud Service SDK を使用したローカル開発](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/commerce/develop.html) | ビデオ | [!UICONTROL AEM コマース]および [!UICONTROL AEM as a Cloud Service] SDK 用にローカル開発環境を設定する方法について説明します。 |
+| 2020 年 8 月 18 日 | [フォームデータモデルを使用したアダプティブフォームの事前入力](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.1.forms) | コース | 既存のデータを使用して、アダプティブフォームのフィールドに事前入力することができます。このコースでは、フォームデータモデルの request 属性を使用してフィールドに事前入力する方法を学習します。 |
+| 2020 年 8 月 18 日 | [Adobe IMS 製品プロファイル](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/accessing/adobe-ims-product-profiles.html) | ビデオ | Adobe IMS 製品プロファイルは、AEM 作成者サービスにログインする権利をユーザーに付与し、追加する製品プロファイルに応じて、アクセスのベースラインを提供します。 |
+| 2020 年 8 月 18 日 | [Adobe IMS ユーザーグループ](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html) | ビデオ | Adobe IMS ユーザーグループは、AEM に公開されるユーザーの論理セットを確立し、AEM ユーザーに対する権限を微調整するために利用できます。 |
+| 2020 年 8 月 18 日 | [Adobe IMS ユーザー](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/accessing/adobe-ims-users.html) | ビデオ | Adobe IMS ユーザーの概要、Admin Console でのアクセス方法、管理方法、およびユーザーを AEM as a Cloud Service にログインするために使用する方法について説明します。 |
+| 2020 年 8 月 18 日 | [デベロッパー向け HTML5 Forms の概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.forms) | コース | HTML5 Forms は HTML5 形式での XFA フォームテンプレートのレンダリングを提供します。この機能により、XFA ベースの PDF がサポートされていないモバイルデバイスおよびデスクトップブラウザーでのフォームのレンダリングが可能になります。 |
 
 ### Experience Manager リリース情報
 
@@ -390,10 +391,10 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 | 公開日 | 名前 | ソリューション | 説明 |
 | ----------- | ----------- | ---------- | ---------- |
-| 2020 年 8 月 10 日 | [クエリの結果を組み合わせてターゲットを絞り込む](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/automating-with-workflows/refining-targets-by-combining-query-results.html) | Campaign Classic | 交差点または和集合アクティビティを使用してクエリ結果を組み合わせ、ターゲットを絞り込む方法を説明します。 |
-| 2020 年 8 月 10 日 | [リストの更新アクティビティを使用したワークフローを含むリストの作成](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/automating-with-workflows/using-the-update-list-activity.html) | Campaign Classic | Adobe Campaign Classicのリストの概念を理解し、ワークフローの更新リストアクティビティを使用してリストを作成する方法を学びます。 |
-| 2020 年 8 月 20 日 | [クエリ結果を除外してターゲットを絞り込む](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/automating-with-workflows/refining-targets-by-excluding-query-results.html) | Campaign Classic | 標準的な除外をワークフローに適用して、ターゲットを絞り込む方法を説明します。 また、ワークフローの作成方法や定義済みフィルターの撮影に関する問題の解決方法についても学習します。 |
-| 2020 年 8 月 25 日 | [ダイレクトメール配信の作成](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/sending-messages/direct-mail/creating-direct-mail-deliveries.html) | Campaign Classic | Adobe Campaignでのダイレクトメールの動作を理解し、ダイレクトメール配信の作成、書式設定、実行方法を学びます。 |  | 2020 年 8 月 25 日 | [ダイレクトメール配信の作成](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/sending-messages/direct-mail/creating-direct-mail-deliveries.html) | Campaign Classic | Adobe Campaignでのダイレクトメールの動作を理解し、ダイレクトメール配信の作成、書式設定、実行方法を学びます。 |
+| 2020 年 8 月 11 日 | [クエリ結果の組み合わせによるターゲットの絞り込み](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/automating-with-workflows/refining-targets-by-combining-query-results.html) | Campaign Classic | 積集合や和集合を使用してクエリ結果を組み合わせ、ターゲットを絞り込む方法を説明します。 |
+| 2020 年 8 月 11 日 | [リストの更新アクティビティを使用したワークフローを含むリストの作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/automating-with-workflows/using-the-update-list-activity.html) | Campaign Classic | Adobe Campaign Classic のリストの概念を理解し、ワークフローの更新リストアクティビティを使用してリストを作成する方法を学びます。 |
+| 2020 年 8 月 21 日 | [クエリ結果の除外によるターゲットの絞り込み](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/automating-with-workflows/refining-targets-by-excluding-query-results.html) | Campaign Classic | 標準的な除外をワークフローに適用して、ターゲットを絞り込む方法を説明します。また、ワークフローの作成方法や定義済みフィルターの撮影に関する問題の解決方法についても学習します。 |
+| 2020 年 8 月 26 日 | [ダイレクトメール配信の作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/sending-messages/direct-mail/creating-direct-mail-deliveries.html) | Campaign Classic | Adobe Campaign でのダイレクトメールの動作を理解し、ダイレクトメール配信の作成、書式設定、実行方法を学びます。 |  | 2020 年 8 月 26 日 | [ダイレクトメール配信の作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/sending-messages/direct-mail/creating-direct-mail-deliveries.html) | Campaign Classic | Adobe Campaign でのダイレクトメールの動作を理解し、ダイレクトメール配信の作成、書式設定、実行方法を学びます。 |
 
 ### ヘルプリソース
 
@@ -412,7 +413,7 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| VAST インベントリを含むように拡張されたインタラクティブなプリロール | 各インタラクティブプリロール配置と広告で、VPAID と VAST の両方のインベントリをサポートできるようになりました。**注意：** 主要なKPIが表示能力である場合は、VAST広告で表示可能なインプレッションを使用できないので、VPAIDとVASTのプレースメントと広告を引き続き個別に作成します。 |
+| VAST インベントリを含むように拡張されたインタラクティブなプリロール | 各インタラクティブプリロール配置と広告で、VPAID と VAST の両方のインベントリをサポートできるようになりました。**注意**：主要 KPI が視聴性である場合は、VPAID と VAST の配置と広告を引き続き個別に作成します。これは、VAST 広告に表示可能なインプレッションを使用できないためです。 |
 
 ### [!UICONTROL Advertising Cloud Search] の新機能 {#adcloud-search}
 
@@ -421,7 +422,7 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 | 機能 | 説明 |
 | ----------- | ---------- |
 | [!UICONTROL ポートフォリオ] | ポートフォリオレベルの位置制限は、ポートフォリオ設定では使用できなくなりました。以前に作成した位置制限はすべて削除されました。 |
-| [!UICONTROL 制約] | 位置に基づく拘束と拘束条件は、サポートされなくなりました。<br/> <ul><li>[!UICONTROL 最小位置] と [!UICONTROL 最大位置の制約は使用できなくなり、以前に作成したすべての] 入札と位置の制約とインプレッションの共有  制約から削除されました。</li><li>Existing [!UICONTROL Bid &amp; Position] constraints that included position constraints but no bid constraints were paused. これらは、UI およびレポートで引き続き使用できます。</li><li>[!UICONTROL 入札と位置の制約は、「入札制約」という名称に変更されました。]</li><li>All position-based conditions (using [!UICONTROL Average Position], [!UICONTROL Weighted Average Position], or [!UICONTROL Last Known Pos] metrics) in any type of constraint were removed.</li></ul> <br/> **注意**：位置データは、検索エンジンから利用できる限り、引き続き入力されます。マイクロソフト広告での位置は、2020 年 9 月に引退します。 |
+| [!UICONTROL 制約] | 位置に基づく拘束と拘束条件は、サポートされなくなりました。<br/> <ul><li>[!UICONTROL 最小位置]制約と[!UICONTROL 最大位置]制約は使用できなくなり、以前に作成したすべての[!UICONTROL 入札と位置]制約と[!UICONTROL インプレッション共有]制約から削除されました。</li><li>位置制約は含むが、入札制約は一時停止されない、既存の[!UICONTROL 入札と位置]制約が一時停止されました。これらは、UI およびレポートで引き続き使用できます。</li><li>[!UICONTROL 入札]と位置の制約は、「[!UICONTROL 入札制約]」という名称に変更されました。</li><li>任意のタイプの制約で、（[!UICONTROL 平均掲載]順位、[!UICONTROL 重み付け平均掲載]順位、または[!UICONTROL 最終既知の掲載]順位指標を使用）すべての掲載順位ベースの条件が削除されました。</li></ul> <br/> **注意**：位置データは、検索エンジンから利用できる限り、引き続き入力されます。マイクロソフト広告での位置は、2020 年 9 月に引退します。 |
 | [!UICONTROL Campaigns] | （Google Ads キャンペーン）Advertising Cloud 検索で、レスポンシブ検索広告（RSA）で広告をカスタマイズできるようになりました。以前は、RSA 以外のすべての広告タイプでサポートされていました。 |
 
 ## ![アイコン](/assets/magento.png) [!DNL Magento] {#magento}
