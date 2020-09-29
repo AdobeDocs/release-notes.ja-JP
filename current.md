@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: September 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d2be5336caa039c540df6076bef876dc1384cab2
+source-git-commit: 8077089a219abecb0c3522ae0768f25b9f249715
 workflow-type: tm+mt
-source-wordcount: '6913'
-ht-degree: 97%
+source-wordcount: '6970'
+ht-degree: 96%
 
 ---
 
@@ -27,13 +27,13 @@ ht-degree: 97%
 
 製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
 
-Latest update: **September 23, 2020**
+Latest update: **September 29, 2020**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) （2020年9月23日更新）および [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) （2020年9月29日更新）および [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -111,7 +111,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 * [Customer Journey Analytics の新機能](#cust-journey)
 * [Media Analytics の新機能です。](#media-aa)
 * [Adobe Analytics の修正点](#aa-fixes)
-* [Analytics 管理者向けの重要な注意事項](#aa-notices) （更新日2020年9月23日）
+* [Analytics 管理者向けの重要な注意事項](#aa-notices) （更新日2020年9月29日）
 * [Analytics コースとチュートリアル](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -164,6 +164,7 @@ AN-215683、 AN-216894、 AN-226370、 AN-227138、 AN-227154、 AN-227328、 AN
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
+| 受信するすべてのHTTPS要求にHSTSヘッダを追加する | 2020 年 29 月 10 日 | 2020年9月29日、HTTPSを使用する受信要求すべてにHSTSヘッダーを追加し始めました。 これにより、今後すべての要求をHTTPSで行うようブラウザー/クライアントに指示します。これは、セキュリティ上のベストプラクティスと考えられます。 この時点では、HTTPを使用した着信要求に対しては強制しません。 |
 | ECID cookie設定に変更 | 2020 年 22 月 10 日 | Chromeバージョン80のプライバシー設定が更新され、Adobe AnalyticsがGoogle AMPページを表示している一部のユーザーを追跡できるようになりました。 特に、GoogleがホストするAMPページを表示するユーザーのクロスドメイントラッキングを防ぎます。 この結果、個別訪問者数が水増しされる可能性があります。 この修正により、ユーザーはECID cookieの設定を変更することで、この問題に対処できます。 現在、Analyticsは、Chromeのバージョン80より前で、クロスドメイン追跡を許可する設定 `SameSite = Lax` を使用してECID cookieを設定します。 今はそうではない。 この変更により、ユーザーはECID cookieのSameSite設定をに更新でき `None`ます。 これにより、より多くの状況でAnalytics cookieを共有できますが、Analytics cookieには機密情報が含まれていないことに注意してください。 また、この設定を選択する場合は、データをHTTPS接続経由でのみ渡せるように、cookieを `Secure` に設定する必要があります。 この変更を行う場合は、サポート対象ユーザーにカスタマーケアにチケットのオープンを依頼してください。 |
 | `omniture.com` ドメインから `adobe.com` ドメインの移行 | 2020 年 8 月 22 日 | 2020 年 8 月 14 日、Adobe Analytics はフロントエンドアーキテクチャを `omniture.com|http://omniture.com/` から `adobe.com|http://adobe.com/` に移行しました。この変更により、2020 年 5 月 29 日の初回統合製品ドメインの変更後に発生したサードパーティ Cookie の問題が改善される可能性があります。このアップデートの結果、新しい `.adobe.com|http://an.adobe.com/` ドメインまたは `experience.adobe.com|http://experience.adobe.com/` ドメインを信頼するようにブラウザーが促す場合があります。 |
 | Ad Hoc Analysis Java 8 の互換性のアップデート | 2020 年 8 月 22 日 | Ad Hoc Analysis は現在、Java 8 バージョン 1.8.0_261 以降と互換性がありません。このツールへのアクセスが[提供終了日](https://spark.adobe.com/page/S9Bhp66VJ2fEn/)に達する前に中断されないようにするため 、1.8.0_261 以前の Java 8 バージョンを維持することをお勧めします。 |
