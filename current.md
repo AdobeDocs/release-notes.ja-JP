@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 8077089a219abecb0c3522ae0768f25b9f249715
 workflow-type: tm+mt
 source-wordcount: '6970'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -122,7 +122,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | [!UICONTROL クロスデバイス分析]：EMEA および APAC での可用性 | 2020 年 9 月 1 日 | [クロスデバイス分析](https://docs.adobe.com/content/help/ja-JP/analytics/components/cda/overview.html)およびプライベートグラフは、EMEA および APAC のお客様が利用できます。 |
 | [!UICONTROL クロスデバイス分析]でのフィールドベースの津連結（世界中で利用可能） | 2020 年 9 月 1 日 | 新しい[!UICONTROL クロスデバイス分析]のお客様向けにシンプル化されたこの実装により、デバイスグラフ（コープまたはプライベート）を使用する代わりに、Analytics フィールド（prop または eVar）に保存されたユーザー ID に基づいてステッチするオプションが提供されます。この機能強化により、ECID の実装が不要になり、CDA 用に ID 同期を実装する必要がなくなりました。（他の特定の機能を使用するには、ECID と ID の同期が必要です）。 |
 | 中国のデータ収集、第 2 段階 | 2020 年 9 月 2 日 | ファーストパーティ SSL のサポートが拡張されました。 |
-| Workspace の新しい日付範囲 | 2020 年 9 月 11 日 | 5 つの新しい日付範囲を追加するので、今日の日付の部分データを含まない日付範囲（過去 7 日間、過去 14 日間、過去 30 日間、過去 60 日間、過去 90 日間）から選択できます |
+| Workspace の新しい日付範囲 | 2020 年 9 月 11 日 | 5 つの新しい日付範囲を追加するので、今日の日付の部分データを含まない日付範囲（過去 7 日間、過去 14 日間、過去 30 日間、過去 60 日間、過去 90 日間）から選択できます。 |
 | Workspace：単一のディメンションに対して 50,000 個の項目をダウンロード | 2020 年 9 月 18 日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して 50,000 個の項目をダウンロードできます。これにより、Analysis Workspace 外の 400 行を超えるデータにアクセスできます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/curate-share/download-send.html#download-items) |
 | Workspace：[!UICONTROL 線]の視覚化の強化 | 2020 年 9 月 18 日 | <ul><li>[!UICONTROL 線]の視覚化の X 軸と Y 軸の表示／非表示を切り替えることができます。これは、特に、[!UICONTROL 線]の視覚化がよりコンパクトな場合に役立ちます。</li><li>任意の[!UICONTROL 線]の視覚化に最小値と最大値のラベルをオーバーレイして、指標の山と谷をすばやく強調表示できます。</li><li>様々な回帰トレンドラインを[!UICONTROL 線]の視覚化に重ねて、データのトレンドをより簡単に確認できます。「[!UICONTROL 線形]」、「[!UICONTROL 対数]」、「[!UICONTROL 指数]」、「[!UICONTROL 累乗]」、「[!UICONTROL 多項式]」などのオプションがあります。</li></ul> [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
 
@@ -165,7 +165,7 @@ AN-215683、 AN-216894、 AN-226370、 AN-227138、 AN-227154、 AN-227328、 AN
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
 | 受信するすべてのHTTPS要求にHSTSヘッダを追加する | 2020 年 29 月 10 日 | 2020年9月29日、HTTPSを使用する受信要求すべてにHSTSヘッダーを追加し始めました。 これにより、今後すべての要求をHTTPSで行うようブラウザー/クライアントに指示します。これは、セキュリティ上のベストプラクティスと考えられます。 この時点では、HTTPを使用した着信要求に対しては強制しません。 |
-| ECID cookie設定に変更 | 2020 年 22 月 10 日 | Chromeバージョン80のプライバシー設定が更新され、Adobe AnalyticsがGoogle AMPページを表示している一部のユーザーを追跡できるようになりました。 特に、GoogleがホストするAMPページを表示するユーザーのクロスドメイントラッキングを防ぎます。 この結果、個別訪問者数が水増しされる可能性があります。 この修正により、ユーザーはECID cookieの設定を変更することで、この問題に対処できます。 現在、Analyticsは、Chromeのバージョン80より前で、クロスドメイン追跡を許可する設定 `SameSite = Lax` を使用してECID cookieを設定します。 今はそうではない。 この変更により、ユーザーはECID cookieのSameSite設定をに更新でき `None`ます。 これにより、より多くの状況でAnalytics cookieを共有できますが、Analytics cookieには機密情報が含まれていないことに注意してください。 また、この設定を選択する場合は、データをHTTPS接続経由でのみ渡せるように、cookieを `Secure` に設定する必要があります。 この変更を行う場合は、サポート対象ユーザーにカスタマーケアにチケットのオープンを依頼してください。 |
+| ECID Cookie 設定に対する変更 | 2020 年 9 月 23 日 | Chrome バージョン 80 のプライバシー設定に対する更新は、Google AMP ページを表示する一部のユーザーをトラッキングするための Adobe Analytics の機能に影響します。特に、Google がホストする AMP ページを表示するユーザーのクロスドメイントラッキングを妨げます。この結果、実訪問者数に影響する可能性があります。この修正を利用すると、その ECID Cookie の設定を変更することで、この問題に対処できます。現在、Analytics は、（Chrome の 80 より前のバージョンでクロスドメイントラッキングを許可する）設定 `SameSite = Lax` により、ECID Cookie を設定しています。これは、今後は適用されません。この変更により、ユーザーは、ECID Cookie 用の SameSite 設定を `None` に更新できます。これによって、より多くの状況で Analytics Cookie が共有される可能性がありますが、Analytics Cookieには機密情報は含まれていないことに留意してください。また、この設定を選択する場合、データが HTTPS 接続経由でのみ渡されるように、Cookie が `Secure` に設定されている必要があります。この変更をおこなう場合は、カスタマーケアのサポート対象ユーザーがチケットを開いてください。 |
 | `omniture.com` ドメインから `adobe.com` ドメインの移行 | 2020 年 8 月 22 日 | 2020 年 8 月 14 日、Adobe Analytics はフロントエンドアーキテクチャを `omniture.com|http://omniture.com/` から `adobe.com|http://adobe.com/` に移行しました。この変更により、2020 年 5 月 29 日の初回統合製品ドメインの変更後に発生したサードパーティ Cookie の問題が改善される可能性があります。このアップデートの結果、新しい `.adobe.com|http://an.adobe.com/` ドメインまたは `experience.adobe.com|http://experience.adobe.com/` ドメインを信頼するようにブラウザーが促す場合があります。 |
 | Ad Hoc Analysis Java 8 の互換性のアップデート | 2020 年 8 月 22 日 | Ad Hoc Analysis は現在、Java 8 バージョン 1.8.0_261 以降と互換性がありません。このツールへのアクセスが[提供終了日](https://spark.adobe.com/page/S9Bhp66VJ2fEn/)に達する前に中断されないようにするため 、1.8.0_261 以前の Java 8 バージョンを維持することをお勧めします。 |
 | Adobe Data Connectors の EOL | 2020 年 7 月 14 日 | Adobe [!UICONTROL Data Connectors ]は、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。[Adobe Exchange パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)には、引き続き提供およびサポートを希望する統合に対して採用する新しい標準があります。正式な終了日はまだ決定していませんが、今後 12 ～ 18 か月（2021 年中旬 ～ 2021 年末）になると予想されています。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/import/dataconnectors/data-connectors-eol.html) |
@@ -245,7 +245,7 @@ AEM 6.5、Service Pack 6（2020 年 9 月 3 日リリース 6.5.6.0）は、2019
    * [リリースノート](https://helpx.adobe.com/jp/experience-manager/6-5/release-notes/sp-release-notes.html)
    * [AEM Forms リリース成果物](https://helpx.adobe.com/jp/aem-forms/kb/aem-forms-releases.html)
 
-* **AEM 6.4.8.2** AEM 6.4、Service Pack 8、Cumulative Fix Pack （6.4.8.2 が 2020 年 9 月 3 日にリリース）は重要なアップデートです。2020 年 3 月の AEM 6.4、Service Pack 8（6.4.8.0）の一般リリース以降におこなわれた複数の内部修正やお客様向けの修正が含まれています。
+* **AEM 6.4.8.2** AEM 6.4、Service Pack 8、Cumulative Fix Pack（6.4.8.2 が 2020 年 9 月 3 日にリリース）は重要なアップデートです。2020 年 3 月の AEM 6.4、Service Pack 8（6.4.8.0）の一般リリース以降におこなわれた複数の内部修正やお客様向けの修正が含まれています。
    * [リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-64/release-notes/cfp-release-notes.html)
    * [AEM Forms リリース成果物](https://helpx.adobe.com/jp/aem-forms/kb/aem-forms-releases.html)
 
@@ -262,7 +262,7 @@ AEM 6.5、Service Pack 6（2020 年 9 月 3 日リリース 6.5.6.0）は、2019
       * デベロッパー向けの拡張機能用の新しいモジュラー API。
    * CDN（コンテンツ配信ネットワーク）キャッシュを [!UICONTROL AEM as a Cloud Service]（[!UICONTROL Dynamic Media Classic] を使用するのに対して）[!UICONTROL Dynamic Media] から直接無効にして、最新のアセットが数時間から数分以内に提供されるようになりました。詳しくは、「[ダイナミックメディアを使用した CDN キャッシュの無効化](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/assets/dynamicmedia/invalidate-cdn-cache-dynamic-media.html)」を参照してください。 
    * アセットのユーザーインターフェイスコントロール、ナビゲーション、参照、検索の操作でのアクセシビリティサポートが強化されました。
-   * AEM デスクトップアプリケーション 2.0.3 リリースが利用可能になり、AEM 6.5、Service Pack 5（AEM 6.5.5）との互換性が向上し、クライアント OS 互換リストが更新されました（10.14 より前の Windows 7 および MacOS バージョンは削除されました）。
+   * AEM デスクトップアプリケーション 2.0.3 リリースが利用可能になり、AEM 6.5、Service Pack 5（AEM 6.5.5）との互換性が向上し、クライアント OS 互換リストが更新されました（10.14 より前の Windows 7 および Mac OS バージョンは削除されました）。
    * [!UICONTROL 製品コンソール]機能は、AEM [!UICONTROL Commerce で Cloud Service として使用できるようになりました]。これにより、AEM のマーケターと作成者は、コマースバックエンドに保存されているカテゴリと製品を表示してナビゲートできます。[!UICONTROL 製品コンソール]でのカテゴリおよび製品のプロパティのサポートも提供されています。
    * [!UICONTROL 製品]および[!UICONTROL カテゴリ]の選択機能が強化され、マーケティング担当者は SKU を使用してカテゴリを選択したり、カテゴリ ID を使用して製品を選択したりできるようになりました。
    * [!UICONTROL コンテンツ監査]は、 [!UICONTROL Cloud Manager サイト実稼動パイプライン]で有効になる機能です。[!UICONTROL Sites] を使用するプログラムサイトを含むプログラムの[!UICONTROL 本番パイプライン]構成に、「**[!UICONTROL コンテンツ監査]**」という 3 番目のタブが含まれるようになりました。実稼働パイプラインが実行されるたびに、パフォーマンス、SEO（検索エンジンの最適化）、アクセシビリティ、ベストプラクティス、PWA（プログレッシブ Web アプリ）などの多数のディメンションに対してサイトを評価するカスタム機能テストの後、新しい[!UICONTROL コンテンツ監査]手順が実行されます。
@@ -292,7 +292,7 @@ AEM 6.5、Service Pack 6（2020 年 9 月 3 日リリース 6.5.6.0）は、2019
 * **[!UICONTROL AEM as a Cloud Service 移行用の新しいツール]**
 
    * AIO-CLI プラグインは、コードリファクタリングツールの統合を目的としてリリースされ、開発者がコードリファクタリングツールを 1 か所から呼び出して実行できるようになりました。詳しくは、GitHub リソース [aio-cli-plugin-aem-cloud-service-migration](https://github.com/adobe/aio-cli-plugin-aem-cloud-service-migration) を参照してください。
-   * [!UICONTROL AEM Dispatcher Converter] が拡張され、オンプレミス設定と Adobe [!UICONTROL Managed Services ディスパッチャー]設定の、AEM as a Cloud Service 互換のディスパッチャー設定への変換がサポートされるようになりました。詳しくは、GitHub リソース [AEM Cloud Service ディスパッチャーコンバーター](https://github.com/adobe/aem-cloud-service-source-migration/tree/master/packages/dispatcher-converter)を参照してください。
+   * [!UICONTROL AEM Dispatcher Converter] が拡張され、オンプレミス設定と Adobe [!UICONTROL Managed Services Dispatcher] 設定の、AEM as a Cloud Service 互換の Dispatcher 設定への変換がサポートされるようになりました。詳しくは、GitHub リソース [AEM Cloud Service Dispatcher Converter](https://github.com/adobe/aem-cloud-service-source-migration/tree/master/packages/dispatcher-converter) を参照してください。
    * AEM Dispatcher Converter は、node.js で書き直され、AIO-CLI プラグインと統合されています。
 
 * **[!UICONTROL ダイナミックメディア]**&#x200B;での CDN の無効化 
