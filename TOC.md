@@ -5,10 +5,10 @@ user-guide-title: Adobe Experience Cloud リリースノート
 breadcrumb-title: Release Notes Guide
 user-guide-description: Learn about new features, fixes, and important notices in Adobe Experience Cloud.
 user-guide-url: https://www.adobe.com
-translation-type: ht
-source-git-commit: bbe44177637f97dacc8f165d14b15e6bcf4fce59
-workflow-type: ht
-source-wordcount: '89'
+translation-type: tm+mt
+source-git-commit: e6add243b6c74b59f138543c460d55817bddf761
+workflow-type: tm+mt
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
@@ -19,6 +19,7 @@ ht-degree: 100%
 + [リリースノート](current.md)
 + 以前のリリースノート {#previous}
    + 2020 {#2020}
+      + [2020 年 9 月](c-legacy-releases/2020/09102020.md)
       + [2020 年 8 月](c-legacy-releases/2020/08132020.md)
       + [2020 年 7 月](c-legacy-releases/2020/07162020.md)
       + [2020 年 6 月](c-legacy-releases/2020/06182020.md)
