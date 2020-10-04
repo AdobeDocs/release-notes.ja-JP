@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: e6add243b6c74b59f138543c460d55817bddf761
+source-git-commit: 5790dfcacc451a044bc7d2f8431d759598643a9f
 workflow-type: tm+mt
-source-wordcount: '6448'
+source-wordcount: '6533'
 ht-degree: 46%
 
 ---
@@ -282,7 +282,13 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 ### セルフサービス
 
+**[!DNL Experience Manager]サイト**
+
+リッチテキストエディターのドキュメントが更新され、RTE内のリンクでサポートさ [れているすべてのプロトコルがリストされました](https://docs.adobe.com/content/help/en/experience-manager-65/administering/operations/configure-rich-text-editor-plug-ins.html#linkstyles)。
+
 **[!DNL Experience Manager]Assets**
+
+* すべてのユーザーがAEM Assets [にアクセスできる方法に関する新しいヘルプコンテンツ](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/accessibility.html) 。
 
 * **[アセットセレクターを検索モードで開くために](https://docs.adobe.com/content/help/en/experience-manager-65/assets/using/search-assets.html#assetpicker)** 、アセットセレクター（アセットピッカー）にViewmodeパラメーターが追加されました。 アセットセレクターを検索モードで開き、 `assettype` とともに使用するに `mimetype`は、URLの `viewmode=search` パラメーターのサフィックスを付ける必要があり `https://[aem-server]:[port]/aem/assetpicker.html`ます。 例：`https://[aem-server]:[port]/aem/assetpicker.html?viewmode=search&assettype=images`
 
@@ -293,6 +299,8 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 * ユーザーが [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) を変更して、アセットのアップロードにかかる時間より短いタイムアウト設定にした場合、セッションのタイムアウトが発生する可能性があります。したがって、ユーザーは、各チャンク要求がセッションを更新するように、 `chunkUploadMinFileSize``chunksize`とを変更する必要があります。 詳しくは、[アセットのアップロード](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets)を参照してください。
 
 * アセットの [移動ウィザードを開く「](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) 移動(m)」操作とは別に、ドラッグ操作を使用して [!UICONTROL 、アセットを兄弟フォルダに] 移動することもできます。
+
+* アセットインサイトの場合は、 [Adobeの起動を使用します](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html)。 [DTM統合](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) は、ドキュメント内で非推奨のメソッドとして呼び出されます。
 
 **[!DNL Adobe Experience Manager]デスクトップアプリ**
 
