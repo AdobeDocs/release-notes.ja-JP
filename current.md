@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 5790dfcacc451a044bc7d2f8431d759598643a9f
+source-git-commit: 2ed7bd9c020cac5cf282aafd0c3146b8e0661dce
 workflow-type: tm+mt
-source-wordcount: '6533'
+source-wordcount: '6530'
 ht-degree: 46%
 
 ---
@@ -298,13 +298,13 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * ユーザーが [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) を変更して、アセットのアップロードにかかる時間より短いタイムアウト設定にした場合、セッションのタイムアウトが発生する可能性があります。したがって、ユーザーは、各チャンク要求がセッションを更新するように、 `chunkUploadMinFileSize``chunksize`とを変更する必要があります。 詳しくは、[アセットのアップロード](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets)を参照してください。
 
-* アセットの [移動ウィザードを開く「](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) 移動(m)」操作とは別に、ドラッグ操作を使用して [!UICONTROL 、アセットを兄弟フォルダに] 移動することもできます。
+* アセットの [移動ウィザードを開く](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) 移動(m)操作とは別に、ドラッグ操作を使用して [!UICONTROL 、アセットを兄弟フォルダに] 移動することもできます。
 
 * アセットインサイトの場合は、 [Adobeの起動を使用します](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html)。 [DTM統合](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) は、ドキュメント内で非推奨のメソッドとして呼び出されます。
 
 **[!DNL Adobe Experience Manager]デスクトップアプリ**
 
-* ユーザーが初めてログアウトまたはログインした後にデスクトップアプリケーションにログインする場合は、サーバーURLをhttps:// [!DNL Experience Manager] aem-server-url[:]port[/の形式で指定し、「]Connect  」オプションを選択して、「The application encounted an unknown error」というエラーが発生しないようにする必要があります。 詳しくは、Adobe Experience Managerデスクトップアプリの [使用を参照してください](https://docs.adobe.com/content/help/ja-JP/experience-manager-desktop-app/using/using.html)。
+* ユーザーが初めてログアウトまたはログインした後にデスクトップアプリケーションにログインする場合は、サーバーURLを形式で指定し [!DNL Experience Manager] 、「 `https://[aem-server-url]:[port]/` 接続  」オプションを選択して、「アプリケーションで不明なエラーが発生しました」というエラーが表示されないようにします。 詳しくは、Adobe Experience Managerデスクトップアプリの [使用を参照してください](https://docs.adobe.com/content/help/ja-JP/experience-manager-desktop-app/using/using.html)。
 
 ### コミュニティ
 
