@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2ed7bd9c020cac5cf282aafd0c3146b8e0661dce
+source-git-commit: 554b01dd2fd709420cb046e37cc45f2f1331eb54
 workflow-type: tm+mt
-source-wordcount: '6530'
+source-wordcount: '6537'
 ht-degree: 46%
 
 ---
@@ -64,7 +64,7 @@ ht-degree: 46%
 
 9月は更新されていません。
 
-See [Cumulative release notes](https://docs.adobe.com/content/help/ja-JP/core-services/interface/release-notes/release-notes.html) for the latest release information.
+最新のリリース情報について詳しくは、 [Experience Cloudサービスに関するこれまでのリリースノート](https://docs.adobe.com/content/help/ja-JP/core-services/interface/release-notes/release-notes.html) （英語）を参照してください。
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
@@ -105,6 +105,8 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 [ドキュメント](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
 ## ![アイコン](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
+
+リリース日：**2020 年 10 月 8 日**
 
 * [Adobe Analytics の新機能](#aa-features)
 * [Customer Journey Analytics の新機能](#cust-journey)
@@ -399,7 +401,7 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 | ----------- | ----------- | ---------- | ---------- |
 | 2020 年 22 月 9 日 | [ジャーニーAI — 予測送信時間の最適化 — ビデオ](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Adobe Campaign とジャーニー AI モデルの間でデータを同期するために必要なワークフローを理解します。個々のプロファイルレベルで送信時間スコアを表示する方法、および送信時間の数式を使用して E メール配信を実行する方法について説明します。 |
 | 2020 年 22 月 9 日 | [ジャーニーAI — 予測エンゲージメントスコアリング — ビデオ](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | 個々のプロファイルレベルでのエンゲージメントスコアの表示、エンゲージユーザーをターゲティングするためのスコア利用、疲労ユーザーの抑制、顧客疲労を管理するタイポロジルールの作成方法を説明します。 |
-| 2020 年 22 月 9 日 | [配信へのグループの制御の追加 — ビデオ](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | 配信のコントロール母集団を定義する方法、および配信の送信後にコントロール母集団に割り当てられたプロファイルを抽出する方法について説明します。 |
+| 2020 年 22 月 9 日 | [配信へのコントロール母集団の追加 — ビデオ](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | 配信のコントロール母集団を定義する方法、および配信の送信後にコントロール母集団に割り当てられたプロファイルを抽出する方法について説明します。 |
 | 2020年9月11日 | [サブドメインのデリゲート](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html) | Campaign Classic | Adobe Campaign コントロールパネルを使用すると、サブドメインを Adobe Campaign に完全にデリゲートできます。 |
 | 2020年9月3日 | [許可リストへのIPアドレスの追加](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html) | Campaign Classic | コントロールパネルでは、IP アドレスの範囲を許可リストに登録することで、インスタンスへの新しい接続をセットアップできます。デフォルトでは、様々な IP アドレスから Adobe Campaign Classic インスタンスにアクセスできるわけではありません。 |
 | 2020年9月3日 | [Campaign コントロールパネル- URL権限の追加](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/control-panel-acc/adding-url-permissions.html) | Campaign Classic | コントロールパネルでは、IP アドレスの範囲を許可リストに登録することで、インスタンスへの新しい接続をセットアップできます。デフォルトでは、様々な IP アドレスから Adobe Campaign Classic インスタンスにアクセスできるわけではありません。 |
