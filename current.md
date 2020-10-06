@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8d32193d5e42d33f9ca087154da628fa83f607b4
+source-git-commit: 70f1d8589fe94f37a3f9edc375f9efbf2b6d1c26
 workflow-type: tm+mt
-source-wordcount: '6611'
-ht-degree: 46%
+source-wordcount: '6765'
+ht-degree: 45%
 
 ---
 
@@ -124,6 +124,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ------- |
+| Adobe Analytics文書 | 2020 年 10 月 | Adobe AnalyticsのドキュメントはExperience Leagueに移行中です。 10月には、すべての記事、ビデオ、リリースノートおよびチュートリアルが、現在の場所から `docs.adobe.com` に移動し `experienceleague.adobe.com`ます。 この移行により、すべての学習、セルフヘルプ、イネーブルメント、コミュニティのコンテンツが1か所で提供されます。 この変更が発生した場合は、すべてのリンクがExperience Leagueにリダイレクトされるので、行う必要はありません。 カウントオーバーが始まったら、リリースノートを更新します。 |
 | [!UICONTROL ワークスペース]:1つのディメンションに対して50,000個の項目をダウンロード | 2020 年 9 月 18 日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して 50,000 個の項目をダウンロードできます。これにより、Analysis Workspace 外の 400 行を超えるデータにアクセスできます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html#download-items) |
 | Workspace：[!UICONTROL 線]の視覚化の強化 | 2020 年 9 月 18 日 | <ul><li>You can show or hide the X-axis and Y-axis of any [!UICONTROL Line] visualization. これは、特に、[!UICONTROL 線]の視覚化がよりコンパクトな場合に役立ちます。</li><li>任意の[!UICONTROL 線]の視覚化に最小値と最大値のラベルをオーバーレイして、指標の山と谷をすばやく強調表示できます。</li><li>様々な回帰トレンドラインを[!UICONTROL 線]の視覚化に重ねて、データのトレンドをより簡単に確認できます。「[!UICONTROL 線形]」、「[!UICONTROL 対数]」、「[!UICONTROL 指数]」、「[!UICONTROL 累乗]」、「[!UICONTROL 多項式]」などのオプションがあります。</li></ul> [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | [!UICONTROL ワークスペース]:パフォーマンスのヘルプページ | 2020年10月22日 | Analysis Workspaceのパフォーマンスのヘルプページには、プロジェクトのパフォーマンスに影響を与える様々な要因が表示され、最適化のヒントへのリンクが示されています。 [詳細情報](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
@@ -135,6 +136,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
+| カスタマージャーニー分析 ドキュメント | 2020 年 10 月 | Customer Journey AnalyticsドキュメントはExperience Leagueに移行中です。 10月には、すべての記事、ビデオ、リリースノートおよびチュートリアルが、現在の場所から `docs.adobe.com` に移動し `experienceleague.adobe.com`ます。 この移行により、すべての学習、セルフヘルプ、イネーブルメント、コミュニティのコンテンツが1か所で提供されます。 この変更が発生した場合は、すべてのリンクがExperience Leagueにリダイレクトされるので、行う必要はありません。 カウントオーバーが始まったら、リリースノートを更新します。 |
 | [!UICONTROL ワークスペース]:1つのディメンションに対して50,000個の項目をダウンロード | 2020 年 9 月 18 日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して 50,000 個の項目をダウンロードできます。これにより、Analysis Workspace 外の 400 行を超えるデータにアクセスできます。[詳細情報...] |
 | Workspace：[!UICONTROL 線]の視覚化の強化 | 2020 年 9 月 18 日 | <ul><li>You can show or hide the X-axis and Y-axis of any [!UICONTROL Line] visualization. これは、特に、[!UICONTROL 線]の視覚化がよりコンパクトな場合に役立ちます。</li><li>任意の[!UICONTROL 線]の視覚化に最小値と最大値のラベルをオーバーレイして、指標の山と谷をすばやく強調表示できます。</li><li>様々な回帰トレンドラインを[!UICONTROL 線]の視覚化に重ねて、データのトレンドをより簡単に確認できます。「[!UICONTROL 線形]」、「[!UICONTROL 対数]」、「[!UICONTROL 指数]」、「[!UICONTROL 累乗]」、「[!UICONTROL 多項式]」などのオプションがあります。</li></ul> [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-workspace/visualizations/line.html) |
 | Analysis Workspaceパフォーマンスヘルプページ | 2020年10月22日 | Analysis Workspaceのパフォーマンスのヘルプページには、プロジェクトのパフォーマンスに影響を与える様々な要因が表示され、最適化のヒントへのリンクが示されています。 [詳細情報](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
