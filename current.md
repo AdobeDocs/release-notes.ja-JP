@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4f7fd84dcf6c1edcee352fd1c7592d1a0f36ed36
+source-git-commit: 8d32193d5e42d33f9ca087154da628fa83f607b4
 workflow-type: tm+mt
-source-wordcount: '6619'
+source-wordcount: '6611'
 ht-degree: 46%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 46%
 
 >[!NOTE]
 >
->Experience CloudドキュメントはExperience Leagueに移行中です。 10月中に、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所から移動し、Experience Leagueの一部 `docs.adobe.com` として利用できるようになります。 この移行により、すべての学習、セルフヘルプ、イネーブルメント、コミュニティのコンテンツが1か所で提供されます。Experience League この変更が発生した場合は、すべてのリンクが新しい場所にリダイレクトされるので、行う必要はありません。 カウントオーバーが始まったら、リリースノートを更新します。
+>Experience CloudドキュメントはExperience Leagueに移行中です。 10月に、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所(Experience League) `docs.adobe.com` に移動します。 この移行により、すべての学習、セルフヘルプ、イネーブルメント、コミュニティのコンテンツが1か所で提供されます。 この変更が発生した場合は、すべてのリンクがExperience Leagueにリダイレクトされるので、行う必要はありません。 カウントオーバーが始まったら、リリースノートを更新します。
 
 ## ![アイコン](/assets/adobe.png) Adobe システムステータス {#status}
 
