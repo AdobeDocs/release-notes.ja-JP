@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 554b01dd2fd709420cb046e37cc45f2f1331eb54
+source-git-commit: 51da999834b44cdbd2a5ecc7c26da652327dd3cc
 workflow-type: tm+mt
-source-wordcount: '6537'
+source-wordcount: '6618'
 ht-degree: 46%
 
 ---
@@ -49,6 +49,10 @@ ht-degree: 46%
 * [Document Cloud](#doc-cloud)
 
 サポートが必要な場合は、[Adobe Experience League](https://experienceleague.adobe.com/#home) にアクセスし、製品および技術ドキュメント、アドビが運営するコース、ビデオチュートリアル、すばやい回答、コミュニティインサイト、講師によるトレーニングをお探しください。
+
+>[!NOTE]
+>
+>ドキュメントはExperience Leagueに移行中です。 10月中に、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所から移動し、Experience Leagueの一部 `docs.adobe.com` として利用できるようになります。 この移行により、すべての学習、セルフヘルプ、イネーブルメント、コミュニティのコンテンツが1か所で提供されます。Experience League この変更が発生した場合は、すべてのリンクが新しい場所にリダイレクトされるので、何もする必要はありません。 カウントオーバーが始まったら、リリースノートを更新します。
 
 ## ![アイコン](/assets/adobe.png) Adobe システムステータス {#status}
 
@@ -312,7 +316,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * **Experience Manager機能のリクエストを送信する新しいプロセスの発表**
 
-   Experience Managerロードマップに新しい機能を追加しますか？ Adobeは、Experience Manager製品チームに対して、お客様やパートナーが機能強化(RFE)をリクエストする方法を改善するプロジェクト ** 、FeatureBitを発表いたします。 詳しくは、 [Experience League AEMコミュニティを参照してください。](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425)
+   Experience Managerロードマップに新しい機能を追加しますか？ Adobeは、Experience Manager製品チームに対して、お客様やパートナーが機能強化(RFE)をリクエストする方法を改善するプロジェクト ** 、FeatureBitを発表いたします。 詳しくは、 [Experience LeagueのAEMコミュニティを参照してください。](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425)
 
 * **Experience League の最新の AEM コンテンツ**
 
@@ -399,9 +403,9 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 | 公開日 | 名前 | ソリューション | 説明 |
 | ----------- | ----------- | ---------- | ---------- |
-| 2020 年 22 月 9 日 | [ジャーニーAI — 予測送信時間の最適化 — ビデオ](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Adobe Campaign とジャーニー AI モデルの間でデータを同期するために必要なワークフローを理解します。個々のプロファイルレベルで送信時間スコアを表示する方法、および送信時間の数式を使用して E メール配信を実行する方法について説明します。 |
-| 2020 年 22 月 9 日 | [ジャーニーAI — 予測エンゲージメントスコアリング — ビデオ](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | 個々のプロファイルレベルでのエンゲージメントスコアの表示、エンゲージユーザーをターゲティングするためのスコア利用、疲労ユーザーの抑制、顧客疲労を管理するタイポロジルールの作成方法を説明します。 |
-| 2020 年 22 月 9 日 | [配信へのコントロール母集団の追加 — ビデオ](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | 配信のコントロール母集団を定義する方法、および配信の送信後にコントロール母集団に割り当てられたプロファイルを抽出する方法について説明します。 |
+| 2020 年 22 月 9 日 | [ジャーニーAI — 予測送信時間の最適化 — ビデオ](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Adobe Campaign とジャーニー AI モデルの間でデータを同期するために必要なワークフローを理解します。個々のプロファイルレベルで送信時間スコアを表示する方法、および送信時間の数式を使用して E メール配信を実行する方法について説明します。 |
+| 2020 年 22 月 9 日 | [ジャーニーAI — 予測エンゲージメントスコアリング — ビデオ](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | 個々のプロファイルレベルでのエンゲージメントスコアの表示、エンゲージユーザーをターゲティングするためのスコア利用、疲労ユーザーの抑制、顧客疲労を管理するタイポロジルールの作成方法を説明します。 |
+| 2020 年 22 月 9 日 | [配信へのコントロール母集団の追加 — ビデオ](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | 配信のコントロール母集団を定義する方法、および配信の送信後にコントロール母集団に割り当てられたプロファイルを抽出する方法について説明します。 |
 | 2020年9月11日 | [サブドメインのデリゲート](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html) | Campaign Classic | Adobe Campaign コントロールパネルを使用すると、サブドメインを Adobe Campaign に完全にデリゲートできます。 |
 | 2020年9月3日 | [許可リストへのIPアドレスの追加](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html) | Campaign Classic | コントロールパネルでは、IP アドレスの範囲を許可リストに登録することで、インスタンスへの新しい接続をセットアップできます。デフォルトでは、様々な IP アドレスから Adobe Campaign Classic インスタンスにアクセスできるわけではありません。 |
 | 2020年9月3日 | [Campaign コントロールパネル- URL権限の追加](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/control-panel-acc/adding-url-permissions.html) | Campaign Classic | コントロールパネルでは、IP アドレスの範囲を許可リストに登録することで、インスタンスへの新しい接続をセットアップできます。デフォルトでは、様々な IP アドレスから Adobe Campaign Classic インスタンスにアクセスできるわけではありません。 |
