@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1e425034bd7ac32833d74b826562f9761b2c05d5
+source-git-commit: 0eba5dbf803e9eefd45065b942fe49258c4c1d32
 workflow-type: tm+mt
-source-wordcount: '6775'
-ht-degree: 45%
+source-wordcount: '6846'
+ht-degree: 44%
 
 ---
 
@@ -31,13 +31,13 @@ ht-degree: 45%
 
 製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
 
-最終更新日：**2020 年 10 月 2 日**
+最終更新日：**2020 年 10 月 7 日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloudサービスと管理](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) （更新日2020年10月2日）
+* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) （更新日2020年10月7日）
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -113,7 +113,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 リリース日：**2020 年 10 月 8 日**
 
 * [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey)
+* [Customer Journey Analytics の新機能](#cust-journey) （更新日2020年10月7日）
 * [Media Analytics の新機能です。](#media-aa)
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
@@ -142,6 +142,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | Analysis Workspaceパフォーマンスヘルプページ | 2020年10月22日 | Analysis Workspaceのパフォーマンスのヘルプページには、プロジェクトのパフォーマンスに影響を与える様々な要因が表示され、最適化のヒントへのリンクが示されています。 [詳細情報](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL 線のビジュアライゼーション] :移動平均近似曲線オプション | 2020年10月8日 | 移動平均が、線のビジュアライゼーションの近似曲線の設定に追加されました。 移動平均は、指定した前の期間の平均値を計算し、それを近似曲線のデータポイントとして使用して、次の期間に移動します。 [詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | バックフィルの制限の解除 | 2020年10月19日 | 以前は、接続の作成時に最大25億行までバックフィルできました。 バックフィルの制限を解除し、サイズに関係なく、最大13ヶ月のデータをバックフィルできるようにしました。 |
+| CJAフィールドベースのステッチ | 2020 年 10 月 31 日 | CJAフィールドベースのステッチにより、Adobe Experience Platformデータレーク内のAdobe Analytics（または他の）イベントデータセットをID名前空間間で再キーできます。 通常、これは、CookieベースのIDからPersonベースのIDにイベントデータセットを再入力することを意味します。 このようにして、再キー設定されたデータセットをCJA接続で他の人ベースのデータと組み合わせることができ、Analysis Workspaceでのクロスチャネル/クロスデバイス分析が可能になります。 |
 
 ### [!UICONTROL Media Analytics] の新機能 {#media-aa}
 
