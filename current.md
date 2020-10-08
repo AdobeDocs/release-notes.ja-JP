@@ -5,15 +5,15 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 390f9884c84130f67cb494b6e30b473e122840d9
+source-git-commit: 40d088f169d1b0849a65ccfb42f3af8749005684
 workflow-type: tm+mt
-source-wordcount: '6860'
+source-wordcount: '6879'
 ht-degree: 44%
 
 ---
 
 
-# アーリーアクセス —Adobe Experience Cloudリリースノート — 2020年10月
+# Adobe Experience Cloud リリースノート - 2020 年 10 月
 
 ![バナー](/assets/experience-cloud-banner-3.png)
 
@@ -21,23 +21,19 @@ ht-degree: 44%
 
 >[!IMPORTANT]
 >
->このページに記載される内容は、リリース前の情報であり、リリース日の前後に変更される可能性があります。
+>このページには、特定の製品のリリース前のコンテンツが含まれている場合があり、リリース日より前に変更されることがあります。 頻繁に更新を確認してください。
 
 >[!NOTE]
 >
 >[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。
 
-**リリース日：2020 年 10 月 8 日**
-
-製品のリリース日は変更される場合があります。頻繁に更新を確認してください。
-
-最終更新日：**2020 年 10 月 7 日**
+最終更新日：**2020 年 10 月 8 日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloudサービスと管理](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) （更新日2020年10月7日）
+* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -74,7 +70,7 @@ ht-degree: 44%
 
 Release notes for the [!DNL Experience Platform].
 
-リリース日：**2020 年 9 月 10 日**
+リリース済み： **2020年9月9日**
 
 次の項目の更新について詳しくは、 [Experience Platformリリースノート](https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md) を参照してください。
 
@@ -110,7 +106,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 ## ![アイコン](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-リリース日：**2020 年 10 月 8 日**
+リリース日：2020年10月8 **日終了**
 
 * [Adobe Analytics の新機能](#aa-features)
 * [Customer Journey Analytics の新機能](#cust-journey) （更新日2020年10月7日）
@@ -208,7 +204,7 @@ AppMeasurement リリースの最新の更新については、[AppMeasurement f
 
 Audience Manager の新機能、修正点、ドキュメントおよびチュートリアルです。
 
-リリース日：**2020 年 10 月 8 日**
+リリース日：2020年10月8 **日終了**
 
 ### Adobe Audience Manager の新機能および修正点
 
@@ -234,6 +230,10 @@ Audience Manager の新機能、修正点、ドキュメントおよびチュー
 ## ![アイコン](/assets/aem.png) Adobe Experience Manager {#aem}
 
 Adobe Experience Manager（AEM）の新機能、修正点および更新です。安定性、セキュリティ、パフォーマンスを高めるために、オンプレミス環境のお客様には最新のパッチをデプロイすることをお勧めします。
+
+>[!NOTE]
+>
+>Adobeは、 [](https://docs.adobe.com/content/help/en/experience-manager-release-information/aem-release-updates/home.html) Experience Managerリリースの更新とロードマップを頻繁に参照して、リリース情報に関する最新情報を入手することを推奨します。
 
 ### 製品リリース
 
@@ -348,8 +348,8 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 | 2020 年 21 月 9 日 | [AdobeI/Oプロジェクトの蛍光を設定する](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/set-up/firefly.html) | ビデオ | アセット計算アプリケーションは、特別に定義されたAdobeプロジェクトFireflyアプリケーションです。そのため、Adobe開発者コンソールでAdobeプロジェクトFireflyにアクセスして設定およびデプロイする必要があります。 |
 | 2020 年 21 月 9 日 | [ローカル開発環境の設定](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/set-up/development-environment.html) | 記事 | Node.js JavaScriptアプリケーションであるAsset Compute workerの開発には、Node.jsや様々なnpmモジュール、Docker DesktopやMicrosoft Visual Studioコードなど、従来のAEMの開発とは異なる特定の開発ツールが必要です。 |
 | 2020 年 21 月 9 日 | [アカウントとサービスの設定](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/set-up/accounts-and-services.html) | 記事 | アセットコンピューティングワーカーの開発には、AEMを含むアカウントやサービス(Cloud Serviceとして)、AdobeプロジェクトのFirefly、およびMicrosoftやAmazonが提供するクラウドストレージにアクセスする必要があります。 |
-| 2020 年 14 月 9 日 | [AEMコアコンポーネントでのAdobeクライアントデータレイヤーの使用](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) | ビデオと記事 | Adobeクライアントデータレイヤーでは、Webページ上での訪問者エクスペリエンスに関するデータを収集して保存し、そのデータに簡単にアクセスできるようにする標準的な方法が導入されています。 Adobe Client Data Layer はプラットフォームに依存しませんが、AEM で使用するためにコアコンポーネントに完全に統合されています。 |
-| 2020 年 28 月 9 日 | [AEMコアコンポーネントでのAdobeクライアントデータレイヤーの使用](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) | ビデオ | イベント主導のAdobeクライアントデータレイヤーがAEM Sitesコアコンポーネントのデータを公開する方法を説明します。 Adobeクライアントデータレイヤーを使用すると、Experience Platform Launchなどのタグ管理ソリューションは、WebサイトのデータをAnalyticsやターゲットなどのアプリケーションに送信できます。 |
+| 2020 年 14 月 9 日 | [AEMコアコンポーネントでのAdobeクライアントデータレイヤーの使用](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) | ビデオと記事 | Adobeクライアントデータレイヤーでは、Webページ上での訪問者エクスペリエンスに関するデータを収集して保存し、そのデータに簡単にアクセスできるようにする標準的な方法が導入されています。 Adobe Client Data Layer はプラットフォームに依存しませんが、AEM で使用するためにコアコンポーネントに完全に統合されています。 |
+| 2020 年 28 月 9 日 | [AEMコアコンポーネントでのAdobeクライアントデータレイヤーの使用](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) | ビデオ | イベント主導のAdobeクライアントデータレイヤーがAEM Sitesコアコンポーネントのデータを公開する方法を説明します。 Adobeクライアントデータレイヤーを使用すると、Experience Platform Launchなどのタグ管理ソリューションは、WebサイトのデータをAnalyticsやターゲットなどのアプリケーションに送信できます。 |
 | 2020 年 21 月 9 日 | [Asset Compute microservicesの拡張機能](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/overview.html) | ビデオ | AEM用のカスタムアセットマイクロサービスワーカーをCloud Serviceとして作成する手順を説明するチュートリアルです。 |
 | 2020 年 21 月 9 日 | [Asset Compute microservicesの拡張機能](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/overview.html) | ビデオ | AEM asCloud ServiceのAsset Compute microservicesは、AEMに保存されたアセットのバイナリデータを読み取り、操作し、カスタムアセットレンディションを作成するために使用されるカスタムワーカーの開発と展開をサポートします。 |
 | 2020 年 23 月 9 日 | [Adobe Analyticsとページデータを収集する](https://docs.adobe.com/content/help/jp/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html) | 記事 | Adobe Client Data Layer の組み込み機能と AEM コアコンポーネントを使用して、Adobe Experience Manager Sites のページに関するデータを収集する方法を説明します。 |
@@ -435,7 +435,7 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 ### [!UICONTROL Advertising Cloud Search] の新機能 {#adcloud-search}
 
-**8 月 9 日**&#x200B;リリース
+リリース日：**2020 年 8 月 8 日**
 
 | 機能 | 説明 |
 | ----------- | ---------- |
