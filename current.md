@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 0eba5dbf803e9eefd45065b942fe49258c4c1d32
+source-git-commit: 390f9884c84130f67cb494b6e30b473e122840d9
 workflow-type: tm+mt
-source-wordcount: '6846'
+source-wordcount: '6860'
 ht-degree: 44%
 
 ---
@@ -360,6 +360,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 Experience Manager のリリースノートはすべて次のページに記載されています。
 
+* [Experience Managerリリースの更新とロードマップ](https://docs.adobe.com/content/help/en/experience-manager-release-information/aem-release-updates/home.html)
 * [AEM as a Cloud Service リリース情報](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/release-notes/home.html)
 * [AEM Cloud Manager リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 * [自動フォーム変換サービスリリースノート](https://docs.adobe.com/content/help/ja-JP/aem-forms-automated-conversion-service/using/release-notes.html)
