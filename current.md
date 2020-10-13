@@ -7,8 +7,8 @@ author: mfrei
 translation-type: tm+mt
 source-git-commit: a2db056a8aebdd0db0a9526b667c29b52a806b41
 workflow-type: tm+mt
-source-wordcount: '6879'
-ht-degree: 92%
+source-wordcount: '6870'
+ht-degree: 99%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->Experience CloudドキュメントはExperience Leagueに移行中です。 10月に、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所(Experience League) `docs.adobe.com` に移動します。 この移行により、すべての学習、セルフヘルプ、イネーブルメント、コミュニティのコンテンツが1か所で提供されます。 この変更が発生した場合は、すべてのリンクがExperience Leagueにリダイレクトされるので、行う必要はありません。 カウントオーバーが始まったら、リリースノートを更新します。
+>Experience Cloud ドキュメントは Experience League に移行中です。10 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から Experience League へと移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。この変更が適用されると、すべてのリンクが Experience League にリダイレクトされるので、特別な操作は必要はありません。一括移行が開始したら、リリースノートが更新されます。
 
 ## ![アイコン](/assets/adobe.png) Adobe システムステータス {#status}
 
@@ -64,13 +64,13 @@ ht-degree: 92%
 
 9 月は更新されていません。
 
-最新のリリース情報について詳しくは、 [Experience Cloudサービスに関するこれまでのリリースノート](https://docs.adobe.com/content/help/ja-JP/core-services/interface/release-notes/release-notes.html) （英語）を参照してください。
+最新のリリース情報について詳しくは、「[Experience Cloud サービスに関するこれまでのリリースノート](https://docs.adobe.com/content/help/ja-JP/core-services/interface/release-notes/release-notes.html)」を参照してください。
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
 [!DNL Experience Platform] のリリースノートです。
 
-リリース済み： **2020年9月9日**
+リリース日：**2020 年 9 月 10 日**
 
 以下のアップデートに関する情報については、[Experience Platform リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md)を参照してください。
 
@@ -106,11 +106,11 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 ## ![アイコン](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-リリース日：2020年10月8 **日終了**
+リリース日：**2020 年 10 月 9 日**&#x200B;の終わり
 
 * [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey) （更新日2020年10月7日）
-* [Media Analytics の新機能です。](#media-aa)
+* [Customer Journey Analytics の新機能](#cust-journey)（更新日 2020 年 10 月 8 日）
+* [Media Analytics の新機能](#media-aa)
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [Analytics コースとチュートリアル](#tutorials-analytics)
@@ -120,7 +120,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ------- |
-| Adobe Analytics文書 | 2020 年 10 月 | Adobe AnalyticsのドキュメントはExperience Leagueに移行中です。 10月には、すべての記事、ビデオ、リリースノートおよびチュートリアルが、現在の場所から `docs.adobe.com` に移動し `experienceleague.adobe.com`ます。 この移行により、すべての学習、セルフヘルプ、イネーブルメント、コミュニティのコンテンツが1か所で提供されます。 この変更が発生した場合は、すべてのリンクがExperience Leagueにリダイレクトされるので、行う必要はありません。 カウントオーバーが始まったら、リリースノートを更新します。 |
+| Adobe Analytics ドキュメント | 2020 年 10 月 | Adobe Analytics ドキュメントは Experience League に移行中です。10 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から `experienceleague.adobe.com` に移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。この変更が適用されると、すべてのリンクが Experience League にリダイレクトされるので、特別な操作は必要はありません。一括移行が開始したら、リリースノートが更新されます。 |
 | [!UICONTROL Workspace]：単一のディメンションに対して 50,000 個の項目をダウンロード | 2020 年 9 月 18 日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して 50,000 個の項目をダウンロードできます。これにより、Analysis Workspace 外の 400 行を超えるデータにアクセスできます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/curate-share/download-send.html#download-items) |
 | [!UICONTROL Workspace]：[!UICONTROL 線]の視覚化の強化 | 2020 年 9 月 18 日 | <ul><li>[!UICONTROL 線]の視覚化の X 軸と Y 軸の表示／非表示を切り替えることができます。これは、特に、[!UICONTROL 線]の視覚化がよりコンパクトな場合に役立ちます。</li><li>任意の[!UICONTROL 線]の視覚化に最小値と最大値のラベルをオーバーレイして、指標の山と谷をすばやく強調表示できます。</li><li>様々な回帰トレンドラインを[!UICONTROL 線]の視覚化に重ねて、データのトレンドをより簡単に確認できます。「[!UICONTROL 線形]」、「[!UICONTROL 対数]」、「[!UICONTROL 指数]」、「[!UICONTROL 累乗]」、「[!UICONTROL 多項式]」などのオプションがあります。</li></ul> [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | [!UICONTROL Workspace]：パフォーマンスヘルプページ | 2020 年 10 月 23 日 | Analysis Workspace パフォーマンスヘルプページには、プロジェクトのパフォーマンスに影響を与える様々な要因と最適化のためのヒントへのリンクが示されています。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
@@ -132,13 +132,13 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
-| カスタマージャーニー分析 ドキュメント | 2020 年 10 月 | Customer Journey AnalyticsドキュメントはExperience Leagueに移行中です。 10月には、すべての記事、ビデオ、リリースノートおよびチュートリアルが、現在の場所から `docs.adobe.com` に移動し `experienceleague.adobe.com`ます。 この移行により、すべての学習、セルフヘルプ、イネーブルメント、コミュニティのコンテンツが1か所で提供されます。 この変更が発生した場合は、すべてのリンクがExperience Leagueにリダイレクトされるので、行う必要はありません。 カウントオーバーが始まったら、リリースノートを更新します。 |
-| [!UICONTROL Workspace]：単一のディメンションに対して 50,000 個の項目をダウンロード | 2020 年 9 月 18 日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して 50,000 個の項目をダウンロードできます。これにより、Analysis Workspace 外の 400 行を超えるデータにアクセスできます。[詳細情報...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/download-send.html) |
+| Customer Journey Analyticsドキュメント | 2020 年 10 月 | Customer Journey Analytics ドキュメントは Experience League に移行中です。10 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から `experienceleague.adobe.com` に移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。この変更が適用されると、すべてのリンクが Experience League にリダイレクトされるので、特別な操作は必要はありません。一括移行が開始したら、リリースノートが更新されます。 |
+| [!UICONTROL Workspace]：単一のディメンションに対して 50,000 個の項目をダウンロード | 2020 年 9 月 18 日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して 50,000 個の項目をダウンロードできます。これにより、Analysis Workspace 外の 400 行を超えるデータにアクセスできます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-workspace/curate-share/download-send.html) |
 | [!UICONTROL Workspace]：[!UICONTROL 線]の視覚化の強化 | 2020 年 9 月 18 日 | <ul><li>[!UICONTROL 線]の視覚化の X 軸と Y 軸の表示／非表示を切り替えることができます。これは、特に、[!UICONTROL 線]の視覚化がよりコンパクトな場合に役立ちます。</li><li>任意の[!UICONTROL 線]の視覚化に最小値と最大値のラベルをオーバーレイして、指標の山と谷をすばやく強調表示できます。</li><li>様々な回帰トレンドラインを[!UICONTROL 線]の視覚化に重ねて、データのトレンドをより簡単に確認できます。「[!UICONTROL 線形]」、「[!UICONTROL 対数]」、「[!UICONTROL 指数]」、「[!UICONTROL 累乗]」、「[!UICONTROL 多項式]」などのオプションがあります。</li></ul> [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-workspace/visualizations/line.html) |
 | Analysis Workspace パフォーマンスヘルプページ | 2020 年 10 月 23 日 | Analysis Workspace パフォーマンスヘルプページには、プロジェクトのパフォーマンスに影響を与える様々な要因と最適化のためのヒントへのリンクが示されています。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL 折れ線グラフ]のビジュアライゼーション：移動平均トレンドラインオプション | 2020 年 10 月 9 日 | 折れ線グラフのビジュアライゼーションのトレンドライン設定に移動平均が追加されました。移動平均は、指定した前の期間の平均を計算し、それをトレンドラインのデータポイントとして使用して、次の期間に移動します。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | バックフィル制限の削除 | 2020 年 10 月 20 日 | 以前は、接続の作成中に、最大 25 億行をバックフィルできました。アドビでは、現在、バックフィル制限を削除し、サイズにかかわらず、最大 13 ヶ月分のデータをバックフィルできるようにしています。 |
-| CJAフィールドベースのステッチ | 2020 年 10 月 31 日 | CJAフィールドベースのステッチにより、Adobe Experience Platformデータレーク内のAdobe Analytics（または他の）イベントデータセットをID名前空間間で再キーできます。 通常、これは、CookieベースのIDからPersonベースのIDにイベントデータセットを再入力することを意味します。 このようにして、再キー設定されたデータセットをCJA接続で他の人ベースのデータと組み合わせることができ、Analysis Workspaceでのクロスチャネル/クロスデバイス分析が可能になります。 |
+| CJA フィールドベースのステッチ | 2020 年 10 月 31 日 | CJA フィールドベースのステッチを使用すれば、Adobe Experience Platform データレーク内の Adobe Analytics（または他の）イベントデータセットを、ある ID 名前空間から別の ID 名前空間へと再入力できます。通常、これは、cookie ベースの ID から人物ベースの ID にイベントデータセットを再入力することを意味します。これにより、再入力されたデータセットを CJA 接続の他の人物ベースのデータと組み合わせることができ、Analysis Workspace でのクロスチャネル／クロスデバイス分析が可能になります。 |
 
 ### [!UICONTROL Media Analytics] の新機能 {#media-aa}
 
@@ -172,7 +172,7 @@ AN-205046、AN-206847、AN-209003、AN-211746、 AN-214104、AN-215367、AN-2154
 | `omniture.com` ドメインから `adobe.com` ドメインの移行 | 2020 年 8 月 22 日 | 2020 年 8 月 14 日、Adobe Analytics はフロントエンドアーキテクチャを `omniture.com|http://omniture.com/` から `adobe.com|http://adobe.com/` に移行しました。この変更により、2020 年 5 月 29 日の初回統合製品ドメインの変更後に発生したサードパーティ Cookie の問題が改善される可能性があります。このアップデートの結果、新しい `.adobe.com|http://an.adobe.com/` ドメインまたは `experience.adobe.com|http://experience.adobe.com/` ドメインを信頼するようにブラウザーが促す場合があります。 |
 | Ad Hoc Analysis Java 8 の互換性のアップデート | 2020 年 8 月 22 日 | Ad Hoc Analysis は現在、Java 8 バージョン 1.8.0_261 以降と互換性がありません。このツールへのアクセスが[提供終了日](https://spark.adobe.com/page/S9Bhp66VJ2fEn/)に達する前に中断されないようにするため、1.8.0_261 以前の Java 8 バージョンを維持することをお勧めします。 |
 | Adobe Data Connectors の EOL | 2020 年 7 月 14 日 | Adobe [!UICONTROL Data Connectors] は、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。[Adobe Exchange パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)には、引き続き提供およびサポートを希望する統合に対して採用する新しい標準があります。正式な終了日はまだ決定していませんが、今後 12 ～ 18 か月（2021 年中旬 ～ 2021 年末）になると予想されています。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/import/dataconnectors/data-connectors-eol.html) |
-| IMS 組織へのレポートスイートのマッピング | 2020 年 7 月 | レポートスイートマッピングツールは 2020 年 11 月に廃止されます。この機能は、Advertising Analytics や Adobe Analytics での Experience Cloud セグメント公開などの統合を強化します。これらのサービスおよび他のサービスを有効にするには、レポートスイートを IMS 組織にマッピングする必要があります。新しいレポートスイートは、作成時に自動的にマッピングされますが、古いレポートスイートは、IMS 組織に手動でマッピングする必要があります。すべてのレポートスイートが IMS 組織に属していることを確認するには、『Experience Cloud インターフェイス（コアサービス）ユーザガイド』の「[レポートスイートを組織にマップする](https://docs.adobe.com/content/help/ja-JP/core-services/interface/about-core-services/report-suite-mapping.html)」を参照してください。 |
+| IMS 組織へのレポートスイートのマッピング | 2020 年 7 月 | レポートスイートマッピングツールは 2020 年 11 月に廃止されます。この機能は、Advertising Analytics や Adobe Analytics での Experience Cloud セグメント公開などの統合を強化します。これらのサービスおよび他のサービスを有効にするには、レポートスイートを IMS 組織にマッピングする必要があります。新しいレポートスイートは、作成時に自動的にマッピングされますが、古いレポートスイートは、IMS 組織に手動でマッピングする必要があります。すべてのレポートスイートが IMS 組織に属していることを確認するには、『Experience Cloud インターフェイス（コアサービス）ユーザガイド』の「[レポートスイートを組織にマッピングする](https://docs.adobe.com/content/help/ja-JP/core-services/interface/about-core-services/report-suite-mapping.html)」を参照してください。 |
 | 新しい Adobe Analytics のデフォルトランディングページ | 発効日：2020 年 6 月 19 日 | 2020 年 6 月 19 日に、Adobe Analytics のデフォルトのランディングページが[!UICONTROL レポート]から [!UICONTROL Workspace] に変更されます。この変更は、過去にカスタムランディングページを設定していないユーザーに対して適用されます。 |
 | サンノゼ FTP 連携機能の終了 | 2020 年 7 月 | ロンドンおよびシンガポールデータセンターをご利用のお客様に対し、サンノゼデータセンター [ftp.omniture.com](ftp://ftp.omniture.com/) からロンドンまたはシンガポールへの、データ連携機能の提供を終了します。ftp.omniture.com をご利用中のお客様は、今後、次の FTP を使用してください。<br/><ul><li>ロンドンのお客様：[ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>シンガポールのお客様：[ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul> |
 | Ad Hoc Analysis のサポート終了 | 2018 年 8 月 7 日 | アドビは Ad Hoc Analysis のサポート終了の意向を表明しました。サポート終了日については確定次第お知らせします。詳しくは、[Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) を参照してください。 |
@@ -204,7 +204,7 @@ AppMeasurement リリースの最新の更新については、[AppMeasurement f
 
 Audience Manager の新機能、修正点、ドキュメントおよびチュートリアルです。
 
-リリース日：2020年10月8 **日終了**
+リリース日：**2020 年 10 月 9 日**&#x200B;の終わり
 
 ### Adobe Audience Manager の新機能および修正点
 
@@ -233,7 +233,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 >[!NOTE]
 >
->Adobeは、 [](https://docs.adobe.com/content/help/en/experience-manager-release-information/aem-release-updates/home.html) Experience Managerリリースの更新とロードマップを頻繁に参照して、リリース情報に関する最新情報を入手することを推奨します。
+>アドビでは、[Experience Manager リリースのアップデートとロードマップ](https://docs.adobe.com/content/help/en/experience-manager-release-information/aem-release-updates/home.html)を頻繁に確認して、リリース情報に関する最新情報を入手することを推奨します。
 
 ### 製品リリース
 
@@ -291,29 +291,29 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 ### セルフサービス
 
-**[!DNL Experience Manager]サイト**
+**[!DNL Experience Manager] Sites**
 
-リッチテキストエディターのドキュメントが更新され、RTE内のリンクでサポートさ [れているすべてのプロトコルがリストされました](https://docs.adobe.com/content/help/en/experience-manager-65/administering/operations/configure-rich-text-editor-plug-ins.html#linkstyles)。
+リッチテキストエディターのドキュメントが更新され、[RTE 内のリンクでサポートされているすべてのプロトコル](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/administering/operations/configure-rich-text-editor-plug-ins.html#linkstyles)がリストされました。
 
 **[!DNL Experience Manager] Assets**
 
-* すべてのユーザーがAEM Assets [にアクセスできる方法に関する新しいヘルプコンテンツ](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/accessibility.html) 。
+* すべてのユーザー向けの [AEM Assets へのアクセス方法](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/assets/accessibility.html)に関する新しいヘルプコンテンツ。
 
 * アセットセレクターを検索モードで開くための&#x200B;**[ビューモードパラメーター](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/assets/using/search-assets.html#assetpicker)**&#x200B;がアセットセレクター（アセットピッカー）に追加されました。アセットセレクターを検索モードで開いて `assettype` および `mimetype` と共に使用するには、ユーザーは、URL `https://[aem-server]:[port]/aem/assetpicker.html` の末尾に `viewmode=search` パラメーターを追加する必要があります。例：`https://[aem-server]:[port]/aem/assetpicker.html?viewmode=search&assettype=images`
 
 * 非公開フォルダーの関連するユーザーグループは、[非公開フォルダーの削除](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/assets/managing/private-folder.html#delete-private-folder)時に削除され、既存の重複したユーザーグループ、未使用のユーザーグループおよび自動生成されたユーザーグループは、JMX の clean メソッドを使用してリポジトリからクリーンアップできます。
 
-* デスクトップアプリバージョン 2.0.3.2 で、[サービスパック 6.5.5.0](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/release-notes/service-pack/previous-hotfixes-featurepacks.html#assets-6550) のデスクトップアプリのログインの問題を修正しました。
+* デスクトップアプリバージョン 2.0.3.2 で、[サービスパック 6.5.5.0](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/release-notes/service-pack/previous-hotfixes-featurepacks.html#assets-6550) のデスクトップアプリのログインに関する問題を修正しました。
 
-* ユーザーが [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/jp/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) を変更して、タイムアウト設定をアセットをアップロードするのにかかる時間よりも少なく設定すると、ユーザーはセッションタイムアウト状態になります。そのため、ユーザーは、各チャンクリクエストがセッションを更新できるように、`chunkUploadMinFileSize` および `chunksize` を変更する必要があります。詳しくは、[アセットのアップロード](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets)を参照してください。
+* ユーザーが [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/jp/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) を変更して、アセットをアップロードするのにかかる時間よりもタイムアウトを少なく設定すると、ユーザーはセッションタイムアウト状態になります。そのため、ユーザーは、各チャンクリクエストがセッションを更新できるように、`chunkUploadMinFileSize` および `chunksize` を変更する必要があります。詳しくは、[アセットのアップロード](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets)を参照してください。
 
-* アセットは、[!UICONTROL アセットを移動]ウィザードを開く[!UICONTROL 移動（m）]操作とは別に、[ドラッグ操作を使用して兄弟フォルダーに移動](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets)することもできます。
+* [!UICONTROL アセットを移動]ウィザードを開く[!UICONTROL 移動（m）]操作とは別に、[ドラッグ操作を使用してアセットを兄弟フォルダーに移動](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets)することもできます。
 
-* アセットインサイトの場合は、 [Adobeの起動を使用します](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html)。 [DTM統合](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) は、ドキュメント内で非推奨のメソッドとして呼び出されます。
+* Assets Insights については、[Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html) を使用してください。[DTM 統合](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) は、ドキュメント内で廃止予定のメソッドとされています。
 
 **[!DNL Adobe Experience Manager] デスクトップアプリ**
 
-* Users logging in to desktop app after logging out or logging in for the first time should provide their [!DNL Experience Manager] server URL in the format `https://[aem-server-url]:[port]/` and then select [!UICONTROL Connect] option, to avoid the error &quot;The application encountered an unknown error&quot;. 詳しくは、[Adobe Experience Manager デスクトップアプリの使用](https://docs.adobe.com/content/help/ja-JP/experience-manager-desktop-app/using/using.html)を参照してください。
+* ログアウト後にデスクトップアプリにログインしたユーザーや初めてログインしたユーザーは、「不明なエラーが発生しました」というエラーを避けるために、[!DNL Experience Manager] サーバー URL を `https://[aem-server-url]:[port]/` の形式で指定し、「[!UICONTROL 接続]」オプションを選択する必要があります。詳しくは、[Adobe Experience Manager デスクトップアプリの使用](https://docs.adobe.com/content/help/ja-JP/experience-manager-desktop-app/using/using.html)を参照してください。
 
 ### コミュニティ
 
@@ -360,7 +360,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 Experience Manager のリリースノートはすべて次のページに記載されています。
 
-* [Experience Managerリリースの更新とロードマップ](https://docs.adobe.com/content/help/en/experience-manager-release-information/aem-release-updates/home.html)
+* [Experience Manager リリースのアップデートとロードマップ](https://docs.adobe.com/content/help/en/experience-manager-release-information/aem-release-updates/home.html)
 * [AEM as a Cloud Service リリース情報](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-service/release-notes/home.html)
 * [AEM Cloud Manager リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 * [自動フォーム変換サービスリリースノート](https://docs.adobe.com/content/help/ja-JP/aem-forms-automated-conversion-service/using/release-notes.html)
@@ -409,7 +409,7 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 | ----------- | ----------- | ---------- | ---------- |
 | 2020 年 9 月 23 日 | [Journey AI - 予測送信時間最適化 - ビデオ](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html) | Campaign Standard | Adobe Campaign とジャーニー AI モデルの間でデータを同期するために必要なワークフローを理解します。個々のプロファイルレベルで送信時間スコアを表示する方法、および送信時間の数式を使用して E メール配信を実行する方法について説明します。 |
 | 2020 年 9 月 23 日 | [Journey AI - 予測エンゲージメントスコア - ビデオ](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html) | Campaign Standard | 個々のプロファイルレベルでのエンゲージメントスコアの表示、エンゲージユーザーをターゲティングするためのスコア利用、疲労ユーザーの抑制、顧客疲労を管理するタイポロジルールの作成方法を説明します。 |
-| 2020 年 9 月 23 日 | [配信へのコントロール母集団の追加 — ビデオ](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | 配信のコントロール母集団を定義する方法、および配信の送信後にコントロール母集団に割り当てられたプロファイルを抽出する方法について説明します。 |
+| 2020 年 9 月 23 日 | [配信へのコントロール母集団の追加ビデオ](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html) | Campaign Standard | 配信のコントロール母集団を定義する方法、および配信の送信後にコントロール母集団に割り当てられたプロファイルを抽出する方法について説明します。 |
 | 2020 年 9 月 12 日 | [サブドメインのデリゲート](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html) | Campaign Classic | Adobe Campaign コントロールパネルを使用すると、サブドメインを Adobe Campaign に完全にデリゲートできます。 |
 | 2020 年 9 月 4 日 | [許可リストへの IP アドレスの追加](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html) | Campaign Classic | コントロールパネルでは、IP アドレスの範囲を許可リストに登録することで、インスタンスへの新しい接続をセットアップできます。デフォルトでは、様々な IP アドレスから Adobe Campaign Classic インスタンスにアクセスできるわけではありません。 |
 | 2020 年 9 月 4 日 | [コントロールパネル - URL 権限の追加](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-url-permissions.html) | Campaign Classic | コントロールパネルでは、IP アドレスの範囲を許可リストに登録することで、インスタンスへの新しい接続をセットアップできます。デフォルトでは、様々な IP アドレスから Adobe Campaign Classic インスタンスにアクセスできるわけではありません。 |
