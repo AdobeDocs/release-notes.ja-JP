@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: a2db056a8aebdd0db0a9526b667c29b52a806b41
 workflow-type: tm+mt
 source-wordcount: '6870'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 99%
 
 >[!IMPORTANT]
 >
->このページには、特定の製品のリリース前のコンテンツが含まれている場合があり、リリース日より前に変更されることがあります。 頻繁に更新を確認してください。
+>このページには、特定の製品に関するリリース前のコンテンツが含まれている場合があり、リリース日より前に変更されることがあります。頻繁に更新を確認してください。
 
 >[!NOTE]
 >
@@ -132,7 +132,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
-| Customer Journey Analyticsドキュメント | 2020 年 10 月 | Customer Journey Analytics ドキュメントは Experience League に移行中です。10 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から `experienceleague.adobe.com` に移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。この変更が適用されると、すべてのリンクが Experience League にリダイレクトされるので、特別な操作は必要はありません。一括移行が開始したら、リリースノートが更新されます。 |
+| Customer Journey Analytics ドキュメント | 2020 年 10 月 | Customer Journey Analytics ドキュメントは Experience League に移行中です。10 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から `experienceleague.adobe.com` に移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。この変更が適用されると、すべてのリンクが Experience League にリダイレクトされるので、特別な操作は必要はありません。一括移行が開始したら、リリースノートが更新されます。 |
 | [!UICONTROL Workspace]：単一のディメンションに対して 50,000 個の項目をダウンロード | 2020 年 9 月 18 日 | セグメントとフィルターが適用されたフリーフォームテーブルで、単一のディメンションに対して 50,000 個の項目をダウンロードできます。これにより、Analysis Workspace 外の 400 行を超えるデータにアクセスできます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-workspace/curate-share/download-send.html) |
 | [!UICONTROL Workspace]：[!UICONTROL 線]の視覚化の強化 | 2020 年 9 月 18 日 | <ul><li>[!UICONTROL 線]の視覚化の X 軸と Y 軸の表示／非表示を切り替えることができます。これは、特に、[!UICONTROL 線]の視覚化がよりコンパクトな場合に役立ちます。</li><li>任意の[!UICONTROL 線]の視覚化に最小値と最大値のラベルをオーバーレイして、指標の山と谷をすばやく強調表示できます。</li><li>様々な回帰トレンドラインを[!UICONTROL 線]の視覚化に重ねて、データのトレンドをより簡単に確認できます。「[!UICONTROL 線形]」、「[!UICONTROL 対数]」、「[!UICONTROL 指数]」、「[!UICONTROL 累乗]」、「[!UICONTROL 多項式]」などのオプションがあります。</li></ul> [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-workspace/visualizations/line.html) |
 | Analysis Workspace パフォーマンスヘルプページ | 2020 年 10 月 23 日 | Analysis Workspace パフォーマンスヘルプページには、プロジェクトのパフォーマンスに影響を与える様々な要因と最適化のためのヒントへのリンクが示されています。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
