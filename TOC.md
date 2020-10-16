@@ -2,13 +2,13 @@
 cloud: experience-cloud
 product: Experience Cloud
 user-guide-title: Adobe Experience Cloud リリースノート
-breadcrumb-title: Release Notes Guide
-user-guide-description: Learn about new features, fixes, and important notices in Adobe Experience Cloud.
+breadcrumb-title: リリースノートガイド
+user-guide-description: Adobe Experience Cloud の新機能、修正点、および重要な注意事項について学びます。
 user-guide-url: https://www.adobe.com
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e6add243b6c74b59f138543c460d55817bddf761
-workflow-type: ht
-source-wordcount: '90'
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
