@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a2db056a8aebdd0db0a9526b667c29b52a806b41
+source-git-commit: 15322b62554e6ef8b5100ee43a231f59b3dd20a7
 workflow-type: tm+mt
-source-wordcount: '6870'
-ht-degree: 100%
+source-wordcount: '6828'
+ht-degree: 97%
 
 ---
 
@@ -427,21 +427,25 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 * [Advertising Cloud DSP の新機能](#adcloud-dsp)
 * [Advertising Cloud Search の新機能](#adcloud-search)
 
-### [!UICONTROL Advertising Cloud DSP] の新機能 {#adcloud-dsp}
+### [!DNL Advertising Cloud DSP] の新機能 {#adcloud-dsp}
+
+リリース日：2020 年 10 月 15 日
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| VAST インベントリを含むように拡張されたインタラクティブなプリロール | 各インタラクティブプリロール配置と広告で、VPAID と VAST の両方のインベントリをサポートできるようになりました。**注意**：主要 KPI が視聴性である場合は、VPAID と VAST の配置と広告を引き続き個別に作成します。これは、VAST 広告に表示可能なインプレッションを使用できないためです。 |
+| 私的目録 | すべてのユーザーが、従来の [!UICONTROL Smart Ad Serving] Formをシンプル化した新しいディールIDフォームを使用して、ディールIDの詳細を設定および編集できるようになりました。 新しい案件IDの詳細を設定するには、 **[!UICONTROL 在庫/掘り出し物に移動し、「]**&#x200B;作成 **[!UICONTROL 」をクリックし、「]**&#x200B;案件ID Beta ****」をクリックします。 |
+| 配置の予測 | 配置レベルのぺーシングで配置する場合、配置設定の「 [!UICONTROL 予測] 」セクションには、現在のターゲット設定で使用可能な容量を示す新しい「 [!UICONTROL 予測最大値] 」セクションが含まれます。 |
 
-### [!UICONTROL Advertising Cloud Search] の新機能 {#adcloud-search}
+### [!DNL Advertising Cloud Search] の新機能 {#adcloud-search}
 
-リリース日：**2020 年 8 月 8 日**
+リリース日：2020 年 10 月 17 日
 
 | 機能 | 説明 |
-| ----------- | ---------- |
-| [!UICONTROL ポートフォリオ] | ポートフォリオレベルの位置制限は、ポートフォリオ設定では使用できなくなりました。以前に作成した位置制限はすべて削除されました。 |
-| [!UICONTROL 制約] | 位置に基づく拘束と拘束条件は、サポートされなくなりました。<br/> <ul><li>[!UICONTROL 最小位置]制約と[!UICONTROL 最大位置]制約は使用できなくなり、以前に作成したすべての[!UICONTROL 入札と位置]制約と[!UICONTROL インプレッション共有]制約から削除されました。</li><li>位置制約は含むが、入札制約は一時停止されない、既存の[!UICONTROL 入札と位置]制約が一時停止されました。これらは、UI およびレポートで引き続き使用できます。</li><li>[!UICONTROL 入札]と位置の制約は、「[!UICONTROL 入札制約]」という名称に変更されました。</li><li>任意のタイプの制約で、（[!UICONTROL 平均掲載]順位、[!UICONTROL 重み付け平均掲載]順位、または[!UICONTROL 最終既知の掲載]順位指標を使用）すべての掲載順位ベースの条件が削除されました。</li></ul> <br/> **注意**：位置データは、検索エンジンから利用できる限り、引き続き入力されます。マイクロソフト広告での位置は、2020 年 9 月に引退します。 |
-| [!UICONTROL Campaigns] | （Google Ads キャンペーン）Advertising Cloud 検索で、レスポンシブ検索広告（RSA）で広告をカスタマイズできるようになりました。以前は、RSA 以外のすべての広告タイプでサポートされていました。 |
+| -----------| ---------- |
+| キャンペーンの検索 | [ [!UICONTROL アカウント] ]表示の[ [!UICONTROL アクセス][!DNL Advertising Cloud Search] ]列に、有効な検索エンジンアカウントにログインできない状況が示されるようになりました。 エラーの原因を確認するには、警告アイコンの上にカーソルを置きます。 |
+| [!UICONTROL カスタムアラート] | 以前の [!UICONTROL アラートベータ版] は、「 [!UICONTROL カスタムアラート]」と呼ばれています。 |
+|  | カスタムアラートでは、指定した日付範囲の指標が前の期間の指標から増減した場合を識別するワークフローが簡略化され、「 [!UICONTROL フィルター] 」タブに移動されました。 |
+
 
 ## ![アイコン](/assets/magento.png) [!DNL Magento] {#magento}
 
