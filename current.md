@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: October 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 15322b62554e6ef8b5100ee43a231f59b3dd20a7
+source-git-commit: e2e01fa323e54614f8b5719252e672183dbb006d
 workflow-type: tm+mt
-source-wordcount: '6828'
-ht-degree: 97%
+source-wordcount: '6918'
+ht-degree: 96%
 
 ---
 
@@ -204,9 +204,15 @@ AppMeasurement リリースの最新の更新については、[AppMeasurement f
 
 Audience Manager の新機能、修正点、ドキュメントおよびチュートリアルです。
 
-リリース日：**2020 年 10 月 9 日**&#x200B;の終わり
+更新日：**2020 年 10 月 22 日**
 
-### Adobe Audience Manager の新機能および修正点
+### Audience Manager の新機能、拡張機能および修正点です {#aam-features}
+
+| 機能 | 追加日または更新日 | 説明 |
+|----|----|----|
+| [Predictive Audiences](https://docs.adobe.com/content/help/ja-JP/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) | 2020 年 10 月 21 日 | <ul><li>**予測オーディエンスモデルのクローン作成**:これで、既存のモデルをコピーして、ニーズに応じて設定を変更できます。 予測オーディエンスモデルの [クローン作成と編集を参照してください](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences-start.html#clone-predictive-audiences) 。</li><li>**予測オーディエンスバッチ分類**:訪問者を別の個人にリアルタイムで分類するほかに、予測オーディエンスでバッチ分類がサポートされるようになりました。これにより、オンボードの分類やバッチ宛先へのアクティブ化を支援します。</li></ul> |
+
+### 修正点および改善点 {#aam-fixes-and-improvements}
 
 * Audience Manager REST API で、リクエストの特性をフィルタリングする際に、特性エンドポイントがクロスデバイス指標を返さなかった問題を修正しました。（AAM-55878）
 * People-based Destinations で、Facebook 統合用のアクセストークンの有効期限リマインダー電子メールが正しい受信者に送信されなかった問題を修正しました。（AAM-56215）
@@ -445,7 +451,6 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 | キャンペーンの検索 | [ [!UICONTROL アカウント] ]表示の[ [!UICONTROL アクセス][!DNL Advertising Cloud Search] ]列に、有効な検索エンジンアカウントにログインできない状況が示されるようになりました。 エラーの原因を確認するには、警告アイコンの上にカーソルを置きます。 |
 | [!UICONTROL カスタムアラート] | 以前の [!UICONTROL アラートベータ版] は、「 [!UICONTROL カスタムアラート]」と呼ばれています。 |
 |  | カスタムアラートでは、指定した日付範囲の指標が前の期間の指標から増減した場合を識別するワークフローが簡略化され、「 [!UICONTROL フィルター] 」タブに移動されました。 |
-
 
 ## ![アイコン](/assets/magento.png) [!DNL Magento] {#magento}
 
