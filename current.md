@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: dba5bf9afced03536adb857f879bd1df349ebbbc
+source-git-commit: 3b533d52ae98c930c3e9af7470825d659ec9b0fe
 workflow-type: tm+mt
-source-wordcount: '6960'
+source-wordcount: '7024'
 ht-degree: 67%
 
 ---
@@ -338,6 +338,7 @@ Updated: **October 21, 2020**
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2020年10月27日 | [AEMドキュメントセキュリティ拡張機能の概要(Microsoft Office)](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | 記事 | Adobe Experience Managerドキュメントセキュリティ拡張機能(Microsoft Office)を使用すると、知的財産を含むWord、Excel、PowerPointファイルを、許可したユーザーのみが使用できるようになります。 ドキュメントセキュリティ拡張機能(Microsoft Office)を使用すると、事前に定義された機密設定をファイルに適用できます。 |
 | 2020年10月7日 | [Adobe Analyticsの表示ページ指標](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/analytics/create-analytics-workspace.html) | 記事 | Adobe Experience Managerサイトから収集したデータを、Adobe Analyticsのレポートスイートの指標およびディメンションにマップする方法について説明します。 |
 | 2020年10月8日 | [フルWebページエクスペリエンスのパーソナライズ](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/personalization-web-page.html) | ビデオ | AEM上でホストされているサイトページを、Adobe Targetを使用して新しいページにリダイレクトするアクティビティを作成する方法を説明します。 |
 | 2020年10月8日 | [Visual Experience Composerを使用したパーソナライゼーション](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/personalization-using-vec.html) | ビデオ | Visual Experience Composer(VEC)を使用してA/Bテストターゲットアクティビティを作成する方法を説明します。 |
@@ -423,7 +424,7 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 | 公開日 | 名前 | ソリューション | 説明 |
 | ----------- | ----------- | ---------- | ---------- |
-| 2020年10月16日 | [Campaign コントロールパネル- CNAME（ベータ版）を使用したサブドメインの委任 — 機能に関するビデオ](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Classic | コントロールパネルでCNAMEを使用してサブドメインを設定し、送信する方法を説明します。 |
+| 2020年10月16日 | [Campaign コントロールパネル- CNAME（ベータ版）を使用したサブドメインの委任 — 機能に関するビデオ](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.translate.html) | Campaign Classic | コントロールパネルでCNAMEを使用してサブドメインを設定し、送信する方法を説明します。 |
 | 2020年10月16日 | [Campaign コントロールパネル- CNAME（ベータ版）を使用したサブドメインの委任 — 機能に関するビデオ](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Standard | コントロールパネルでCNAMEを使用してサブドメインを設定し、送信する方法を説明します。 |
 
 ### ヘルプリソース
