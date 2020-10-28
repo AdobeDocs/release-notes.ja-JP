@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2fc4753b488ce356018ad91b8933f49d101700fd
+source-git-commit: 244301cf84111e61d3566fff5e515ee0960904c0
 workflow-type: tm+mt
 source-wordcount: '7549'
 ht-degree: 63%
@@ -469,7 +469,7 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 ### [!DNL Advertising Cloud Search] の新機能 {#adcloud-search}
 
-リリース日：2020 年 10 月 18 日
+Release date: **October 17, 2020**
 
 | 機能 | 説明 |
 | -----------| ---------- |
