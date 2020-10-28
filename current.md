@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 08f91c514f5ab3cef7b7a1b862260090892e8144
+source-git-commit: f16817c423635f6996dd729fe9e07e7d7e63fd06
 workflow-type: tm+mt
-source-wordcount: '7148'
-ht-degree: 68%
+source-wordcount: '7324'
+ht-degree: 66%
 
 ---
 
@@ -203,6 +203,10 @@ Audience Manager の新機能、修正点、ドキュメントおよびチュー
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2020年10月28日 | [特性グラフの数値について](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | ビデオ | 特性情報画面の特性に関してレポートされる数値を理解するためのヒントをいくつか紹介します。 |
+| 2020 年 10 月 23 日 | [Analyticsデータからの計画特性の作成](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=en#build-and-manage-audiences) | ビデオ | Audience Managerの特性でAdobe Analyticsデータを使用する場合に役立つヒントとテクニックを紹介します。 |
+| 2020 年 10 月 23 日 | [特性の作成時のデータソースの選択](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=en#build-and-manage-audiences) | ビデオ | 特性の作成時に入力する重要なフィールドの1つは、「データソース」フィールドです。 ルールベースの特性とオンボードの特性に適したデータソースの選択に関するヒントを紹介します。 |
+| 2020 年 9 月 15 日 | [コード表示を使用した特性の作成と編集](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.html?lang=en#build-and-manage-audiences) | ビデオ | 新しい特性を作成する場合や、既存の特性を編集する場合に、コード表示を使用する方法を説明します。 コード表示は、特性式を設定する際に式ビルダーを使用する代わりに使用します。 |
 | 2020 年 10 月 11 日 | [予測オーディエンスについて](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.html) | ビデオ | このビデオでは、Audience Manager予測オーディエンスの概要、その仕組みの詳細を示し、使用例を示します。 |
 
 ## ![アイコン](/assets/aem.png) Adobe Experience Manager {#aem}
