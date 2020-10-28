@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 08f91c514f5ab3cef7b7a1b862260090892e8144
 workflow-type: tm+mt
 source-wordcount: '7148'
-ht-degree: 66%
+ht-degree: 68%
 
 ---
 
@@ -97,7 +97,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 ## ![アイコン](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-リリース日：**2020 年 10 月 29 日**
+Release date: **October 29, 2020**
 
 * [Adobe Analytics の新機能](#aa-features)
 * [Customer Journey Analytics の新機能](#cust-journey)
@@ -285,11 +285,11 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * デスクトップアプリバージョン 2.0.3.2 で、[サービスパック 6.5.5.0](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/release-notes/service-pack/previous-hotfixes-featurepacks.html#assets-6550) のデスクトップアプリのログインに関する問題を修正しました。
 
-* ユーザーが [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/jp/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) を変更して、アセットをアップロードするのにかかる時間よりもタイムアウトを少なく設定すると、ユーザーはセッションタイムアウト状態になります。そのため、ユーザーは、各チャンクリクエストがセッションを更新できるように、`chunkUploadMinFileSize` および `chunksize` を変更する必要があります。詳しくは、[アセットのアップロード](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets)を参照してください。
+* ユーザーが [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/jp/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) を変更して、アセットをアップロードするのにかかる時間よりもタイムアウトを少なく設定すると、ユーザーはセッションタイムアウト状態になります。そのため、ユーザーは、各チャンクリクエストがセッションを更新できるように、`chunkUploadMinFileSize` および `chunksize` を変更する必要があります。詳しくは、[アセットのアップロード](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets)を参照してください。
 
-* [!UICONTROL アセットを移動]ウィザードを開く[!UICONTROL 移動（m）]操作とは別に、[ドラッグ操作を使用してアセットを兄弟フォルダーに移動](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets)することもできます。
+* [!UICONTROL アセットを移動]ウィザードを開く[!UICONTROL 移動（m）]操作とは別に、[ドラッグ操作を使用してアセットを兄弟フォルダーに移動](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets)することもできます。
 
-* Assets Insights については、[Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html) を使用してください。[DTM 統合](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) は、ドキュメント内で廃止予定のメソッドとされています。
+* Assets Insights については、[Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html) を使用してください。[DTM 統合](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) は、ドキュメント内で廃止予定のメソッドとされています。
 
 Updated: **10/28/2020**
 
@@ -451,22 +451,22 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 ### [!DNL Advertising Cloud DSP] の新機能 {#adcloud-dsp}
 
-リリース日：2020 年 10 月 15 日
+リリース日：2020 年 10 月 16 日
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| 私的目録 | すべてのユーザーが、従来の [!UICONTROL Smart Ad Serving] Formをシンプル化した新しいディールIDフォームを使用して、ディールIDの詳細を設定および編集できるようになりました。 新しい案件IDの詳細を設定するには、 **[!UICONTROL 在庫/掘り出し物に移動し、「]**&#x200B;作成 **[!UICONTROL 」をクリックし、「]**&#x200B;案件ID Beta ****」をクリックします。 |
-| 配置の予測 | 配置レベルのぺーシングで配置する場合、配置設定の「 [!UICONTROL 予測] 」セクションには、現在のターゲット設定で使用可能な容量を示す新しい「 [!UICONTROL 予測最大値] 」セクションが含まれます。 |
+| プライベート在庫 | すべてのユーザーが、新しい Deal ID フォームを使用して、Deal ID の詳細を設定および編集できるようになりました。これは、従来の [!UICONTROL Smart Ad Serving] フォームをシンプルにしたバージョンです。新しい Deal ID の詳細を設定するには、**[!UICONTROL Inventory／Deals]** に移動し、「**[!UICONTROL Create]**」をクリックしてから、「**[!UICONTROL Deal ID Beta]**」をクリックします。 |
+| プレースメントの予測 | プレースメントレベルのペースでのプレースメントの場合、プレースメント設定の「[!UICONTROL Forecast]」セクションには、新しい「[!UICONTROL Estimated Maximums]」セクションが含まれます。これは、現在のターゲット設定でどれくらい多くの容量が使用できるかを示します。 |
 
 ### [!DNL Advertising Cloud Search] の新機能 {#adcloud-search}
 
-リリース日：2020 年 10 月 17 日
+リリース日：2020 年 10 月 18 日
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| キャンペーンの検索 | [ [!UICONTROL アカウント] ]表示の[ [!UICONTROL アクセス][!DNL Advertising Cloud Search] ]列に、有効な検索エンジンアカウントにログインできない状況が示されるようになりました。 エラーの原因を確認するには、警告アイコンの上にカーソルを置きます。 |
-| [!UICONTROL カスタムアラート] | 以前の [!UICONTROL アラートベータ版] は、「 [!UICONTROL カスタムアラート]」と呼ばれています。 |
-|  | カスタムアラートでは、指定した日付範囲の指標が前の期間の指標から増減した場合を識別するワークフローが簡略化され、「 [!UICONTROL フィルター] 」タブに移動されました。 |
+| キャンペーンの検索 | 「[!UICONTROL Accounts]」表示では、[!UICONTROL Access] 列にいつ [!DNL Advertising Cloud Search] が有効な検索エンジンアカウントにログインできないかが示されるようになりました。エラーの原因を確認するには、警告アイコンの上にマウスポインターを置いたままにします。 |
+| [!UICONTROL Custom Alerts] | 以前の [!UICONTROL Alerts Beta] は、現在は [!UICONTROL Custom Alerts] と呼ばれています。 |
+|  | Custom Alerts では、以前の期間の指標から指定した日付範囲でいつ指標が増加または減少したかを特定するワークフローがシンプル化され、「[!UICONTROL Filters]」タブに移動しました。 |
 
 ## ![アイコン](/assets/magento.png) [!DNL Magento] {#magento}
 
