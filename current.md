@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 57c246240dfafcb30b791a4bbc0ba3b05774dd0c
+source-git-commit: 2fc4753b488ce356018ad91b8933f49d101700fd
 workflow-type: tm+mt
-source-wordcount: '7479'
-ht-degree: 65%
+source-wordcount: '7549'
+ht-degree: 63%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 65%
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (更新日： **10/28/2020**)
 * [Campaign](#ac)
-* [Advertising Cloud](#adcloud)
+* [Advertising Cloud](#adcloud) (Updated: **10/28/2020**)
 * [[!DNL Target]](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
@@ -458,12 +458,14 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 ### [!DNL Advertising Cloud DSP] の新機能 {#adcloud-dsp}
 
-リリース日：2020 年 10 月 16 日
+更新日：2020年10月28日
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| プライベート在庫 | すべてのユーザーが、新しい Deal ID フォームを使用して、Deal ID の詳細を設定および編集できるようになりました。これは、従来の [!UICONTROL Smart Ad Serving] フォームをシンプルにしたバージョンです。新しい Deal ID の詳細を設定するには、**[!UICONTROL Inventory／Deals]** に移動し、「**[!UICONTROL Create]**」をクリックしてから、「**[!UICONTROL Deal ID Beta]**」をクリックします。 |
-| プレースメントの予測 | プレースメントレベルのペースでのプレースメントの場合、プレースメント設定の「[!UICONTROL Forecast]」セクションには、新しい「[!UICONTROL Estimated Maximums]」セクションが含まれます。これは、現在のターゲット設定でどれくらい多くの容量が使用できるかを示します。 |
+| 新規 ヘルプ | （10月28日リリース）レガシーヘルプは更新されたページに置き換えられました。ページはDSPのメインメニューの「ヘルプ」リンクから利用でき、 [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.htmlからも常に利用できます。](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
+| キャンペーン | （10月28日リリース）以前のキャンペーンのベータ表示がデフォルトのキャンペーン表示になり、より迅速なインサイト、シンプル化されたワークフローおよびカスタマイズされた表示を実現しました。 |
+| プライベート在庫 | (October 15 release) All users can now set up and edit deal ID details using a new deal ID form, which is a simplified version of the legacy [!UICONTROL Smart Ad Serving] form. 新しい Deal ID の詳細を設定するには、**[!UICONTROL Inventory／Deals]** に移動し、「**[!UICONTROL Create]**」をクリックしてから、「**[!UICONTROL Deal ID Beta]**」をクリックします。 |
+| プレースメントの予測 | (October 15 release) For placements with placement-level pacing, the [!UICONTROL Forecast] section of the placement settings includes a new [!UICONTROL Estimated Maximums] section, which indicates how much more capacity is available with the current targeting configuration. |
 
 ### [!DNL Advertising Cloud Search] の新機能 {#adcloud-search}
 
