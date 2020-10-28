@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 114222b4df9fd72691065a9a1cdf7bc1e7f95a5d
+source-git-commit: 57c246240dfafcb30b791a4bbc0ba3b05774dd0c
 workflow-type: tm+mt
-source-wordcount: '7353'
-ht-degree: 66%
+source-wordcount: '7479'
+ht-degree: 65%
 
 ---
 
@@ -83,6 +83,7 @@ Experience Platform およびサービス用に公開された新しいビデオ
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2020 年 10 月 27 日 | [Offer Decisioningの紹介](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | ビデオ | このビデオでは、Adobe Experience Platformの上に構築されたアプリケーションサービス、Offer Decisioningの概要を説明しています。 このビデオでは、Offer Decisioningが解決するビジネス上の課題、その主な機能、基本的なアーキテクチャ、主な使用例について説明しています。 |
 | 2020 年 9 月 15 日 | [Attribution AI のビジネス価値](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-attribution-ai.html) | ビデオ | [!UICONTROL Attribution AI] は、[!UICONTROL インテリジェントサービス]の一部で、顧客とのやり取りの影響と増分的な効果を指定した成果に照らして計算する、マルチチャネルのアルゴリズムアトリビューションサービスです。[!UICONTROL Attribution AI] を使用すると、マーケターは、カスタマージャーニーの各段階における個々の顧客インタラクションの影響を把握することで、マーケティング費用と広告費用を測定し、最適化できます。 |
 | 2020 年 9 月 15 日 | [Customer AI のビジネス価値](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-customer-ai.html) | ビデオ | このビデオでは、[!UICONTROL Customer AI] サービスが、どのように AI ベースの傾向で顧客プロファイルを充実させ、顧客セグメントおよびターゲット設定の取り組みを強化するかを示します。 |
 | 2020 年 9 月 15 日 | [Platform と Magento のビジネス価値](https://docs.adobe.com/content/help/en/platform-learn/tutorials/experience-cloud/business-value-of-platform-and-magento.html) | ビデオ | このビデオでは、Adobe Experience Platform を [!DNL Magento] Commerce と共に使用して、お客様の単一のビューを作成したり、オンラインショップおよび複数のチャネルでのエクスペリエンスをインテリジェントにパーソナライズしたりできることを示します。 |
@@ -437,6 +438,8 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 | 公開日 | 名前 | ソリューション | 説明 |
 | ----------- | ----------- | ---------- | ---------- |
+| 2020年10月19日 | [Campaign コントロールパネル-許可リストにIP範囲を追加する](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | IPアドレスの範囲をCampaign コントロールパネルの許可リストに追加する方法を説明します。 |
+| 2020年10月19日 | [Campaign コントロールパネル-許可リストにIP範囲を追加する](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Standard | IPアドレスの範囲をCampaign コントロールパネルの許可リストに追加する方法を説明します。 |
 | 2020年10月16日 | [Campaign コントロールパネル- CNAME（ベータ版）を使用したサブドメインの委任 — 機能に関するビデオ](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.translate.html) | Campaign Classic | コントロールパネルでCNAMEを使用してサブドメインを設定し、送信する方法を説明します。 |
 | 2020年10月16日 | [Campaign コントロールパネル- CNAME（ベータ版）を使用したサブドメインの委任 — 機能に関するビデオ](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html) | Campaign Standard | コントロールパネルでCNAMEを使用してサブドメインを設定し、送信する方法を説明します。 |
 
