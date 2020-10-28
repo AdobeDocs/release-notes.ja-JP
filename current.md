@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f16817c423635f6996dd729fe9e07e7d7e63fd06
+source-git-commit: 114222b4df9fd72691065a9a1cdf7bc1e7f95a5d
 workflow-type: tm+mt
-source-wordcount: '7324'
+source-wordcount: '7353'
 ht-degree: 66%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 66%
 * [Experience Cloud サービスと管理](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) （更新日2020年10月22日）
+* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) （更新日2020年10月28日）
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (更新日： **10/28/2020**)
 * [Campaign](#ac)
@@ -100,8 +100,8 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 Release date: **October 29, 2020**
 
 * [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey)
-* [Media Analytics の新機能です。](#media-aa)
+* [Customer Journey Analytics の新機能](#cust-journey) （更新日2020年10月28日）
+* [Media Analytics の新機能](#media-aa)
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [Analytics コースとチュートリアル](#tutorials-analytics)
@@ -111,7 +111,7 @@ Release date: **October 29, 2020**
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ------- |
-| Adobe Analytics ドキュメント | 2020 年 10 月 | Adobe Analytics ドキュメントは Experience League に移行中です。10 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から `experienceleague.adobe.com` に移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。この変更が適用されると、すべてのリンクが Experience League にリダイレクトされるので、特別な操作は必要はありません。一括移行が開始したら、リリースノートが更新されます。 |
+| Adobe Analytics ドキュメント | 2020年10月/11月 | Adobe Analytics ドキュメントは Experience League に移行中です。10 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から `experienceleague.adobe.com` に移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。この変更が適用されると、すべてのリンクが Experience League にリダイレクトされるので、特別な操作は必要はありません。一括移行が開始したら、リリースノートが更新されます。 |
 | [!UICONTROL Workspace] [!UICONTROL 折れ線グラフ]のビジュアライゼーション：移動平均トレンドラインオプション | 2020 年 10 月 9 日 | Moving average has been added to [!UICONTROL Line] visualization trendline settings. 移動平均は、ローリング平均とも呼ばれ、特定数のデータポイント（「[!UICONTROL 期間]」セクションで決定される）を使用して、それらを平均し、その平均値を折れ線グラフのポイントとして使用します。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | [!UICONTROL データ修復] API | 2020 年 10 月 9 日 | [!UICONTROL データ修復] API は、Analytics レポートスイートからデータを削除するためのツールです。The October release includes the ability to delete specified eVars, props, and [!UICONTROL Activity Map] variables for a specified date range. 今後、追加機能がリリースされる予定です。Use of the [!UICONTROL Data Repair] API permanently deletes existing Adobe Analytics data. 誤って削除することを防ぐために、修復の実行は慎重におこなうことをお勧めします。Access to the [!UICONTROL Data Repair] API requires a contract - reach out to your account team for more details. [詳細情報](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/data-repair.md) |
 | [!UICONTROL Workspace]：パフォーマンスヘルプページ | 2020 年 10 月 23 日 | The [!UICONTROL Analysis Workspace] performance help page shows the different factors that impact project performance and links to tips for optimization. [詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
@@ -121,9 +121,9 @@ Release date: **October 29, 2020**
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
-| Customer Journey Analytics ドキュメント | 2020 年 10 月 | Customer Journey Analytics ドキュメントは Experience League に移行中です。10 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から `experienceleague.adobe.com` に移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。この変更が適用されると、すべてのリンクが Experience League にリダイレクトされるので、特別な操作は必要はありません。一括移行が開始したら、リリースノートが更新されます。 |
+| Customer Journey Analytics ドキュメント | 2020年10月/11月 | Customer Journey Analytics ドキュメントは Experience League に移行中です。10 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から `experienceleague.adobe.com` に移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。この変更が適用されると、すべてのリンクが Experience League にリダイレクトされるので、特別な操作は必要はありません。一括移行が開始したら、リリースノートが更新されます。 |
 | [!UICONTROL 折れ線グラフ]のビジュアライゼーション：移動平均トレンドラインオプション | 2020 年 10 月 9 日 | 折れ線グラフのビジュアライゼーションのトレンドライン設定に移動平均が追加されました。移動平均は、指定した前の期間の平均を計算し、それをトレンドラインのデータポイントとして使用して、次の期間に移動します。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
-| バックフィル制限の削除 | 2020 年 10 月 20 日 | 以前は、接続の作成中に、最大 25 億行をバックフィルできました。アドビでは、現在、バックフィル制限を削除し、サイズにかかわらず、最大 13 ヶ月分のデータをバックフィルできるようにしています。 |
+| バックフィル制限の削除 | 2020 年 10 月 20 日 | CJAエクスペリエンスを向上させるために、バックフィル（履歴データのインポート）の制限を取り除きました。 以前は、最大25億行までバックフィルでき、その他の場合はエンジニアリングの関与が必要でした。 今後は、独自にデータをバックフィルできますが、無制限です。 [詳細情報](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Analysis Workspace パフォーマンスヘルプページ | 2020 年 10 月 23 日 | Analysis Workspace パフォーマンスヘルプページには、プロジェクトのパフォーマンスに影響を与える様々な要因と最適化のためのヒントへのリンクが示されています。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | CJA Workspaceに追加されたコンポーネント/ユーザー環境設定 | 10月29日。 2020 | コンポーネント/ユーザーの環境設定ページでは、ユーザーのAnalysis Workspace設定（および関連するコンポーネント）を管理できます。 現在、区切り文字として千単位の区切り文字とCSV区切り文字が含まれています。 |
 | ジャーニーIQ:チャネル間分析 | 2020 年 10 月 31 日 | ジャーニーIQ:クロスチャネル分析を使用すると、Adobe Experience Platformデータレーク内のAdobe Analytics（または他の）イベントデータセットをID名前空間間で再キーできます。 通常、これは、cookie ベースの ID から人物ベースの ID にイベントデータセットを再入力することを意味します。これにより、再入力されたデータセットを CJA 接続の他の人物ベースのデータと組み合わせることができ、Analysis Workspace でのクロスチャネル／クロスデバイス分析が可能になります。 |
