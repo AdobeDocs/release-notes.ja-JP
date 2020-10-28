@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3b533d52ae98c930c3e9af7470825d659ec9b0fe
+source-git-commit: 08f91c514f5ab3cef7b7a1b862260090892e8144
 workflow-type: tm+mt
-source-wordcount: '7024'
-ht-degree: 67%
+source-wordcount: '7148'
+ht-degree: 66%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 67%
 >
 >[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。
 
-最終更新日：**2020 年 10 月 23 日**
+最終更新日：**2020 年 10 月 28 日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud サービスと管理](#ecloud)
@@ -35,7 +35,7 @@ ht-degree: 67%
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) （更新日2020年10月22日）
 * [Audience Manager](#aam)
-* [Experience Manager](#aem)
+* [Experience Manager](#aem) (更新日： **10/28/2020**)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
 * [[!DNL Target]](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)
@@ -81,7 +81,7 @@ ht-degree: 67%
 
 Experience Platform およびサービス用に公開された新しいビデオ、チュートリアル、またはコース。
 
-| パブリッシュ済み | 名前 | タイプ | 説明 |
+| 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2020 年 9 月 15 日 | [Attribution AI のビジネス価値](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-attribution-ai.html) | ビデオ | [!UICONTROL Attribution AI] は、[!UICONTROL インテリジェントサービス]の一部で、顧客とのやり取りの影響と増分的な効果を指定した成果に照らして計算する、マルチチャネルのアルゴリズムアトリビューションサービスです。[!UICONTROL Attribution AI] を使用すると、マーケターは、カスタマージャーニーの各段階における個々の顧客インタラクションの影響を把握することで、マーケティング費用と広告費用を測定し、最適化できます。 |
 | 2020 年 9 月 15 日 | [Customer AI のビジネス価値](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-customer-ai.html) | ビデオ | このビデオでは、[!UICONTROL Customer AI] サービスが、どのように AI ベースの傾向で顧客プロファイルを充実させ、顧客セグメントおよびターゲット設定の取り組みを強化するかを示します。 |
@@ -290,6 +290,15 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 * [!UICONTROL アセットを移動]ウィザードを開く[!UICONTROL 移動（m）]操作とは別に、[ドラッグ操作を使用してアセットを兄弟フォルダーに移動](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets)することもできます。
 
 * Assets Insights については、[Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html) を使用してください。[DTM 統合](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) は、ドキュメント内で廃止予定のメソッドとされています。
+
+Updated: **10/28/2020**
+
+* **ブランドポータルの強化**:では、次の新機能やその他の機能を利用でき [!DNL Brand Portal]ます。
+
+   * [ダウンロード操作が強化され、シンプルで迅速なダウンロードが可能になりました](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/download/brand-portal-download-assets.html) 。 その他のダウンロード設定は、ユーザーや企業のニーズに合ったエクスペリエンスをオファーするために管理者が設定できます。
+   * 「 [!UICONTROL ファイル]」、「 [コレクション](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/share/brand-portal-share-collection.html)」、「共有リンク  」への1回のクリックによるナビゲーションが、どのページからでも可能になりました。
+   * ユーザーは、特定のレンディションを [選択してダウンロードできる](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/download/brand-portal-download-assets.html#download-assets-from-asset-details-page) 。 新しいレンディションのダウンロードオプションは、アセットの詳細ページの [!UICONTROL レンディション] パネルで使用できます。
+   * ゲストユーザーセッションのタイムアウトを15分に設定すると、すべての同時ユーザーに対して快適なエクスペリエンスが提供されます。
 
 ### [!DNL Experience Manager] フォーム
 
