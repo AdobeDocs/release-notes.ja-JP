@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f3ee5a99df82abf91e09a74f3f808f8ab8cf177e
+source-git-commit: b21c2213d13cf58dded026bce77abd58ee038f1f
 workflow-type: tm+mt
-source-wordcount: '7550'
-ht-degree: 63%
+source-wordcount: '7670'
+ht-degree: 62%
 
 ---
 
@@ -81,9 +81,10 @@ ht-degree: 63%
 
 Experience Platform およびサービス用に公開された新しいビデオ、チュートリアル、またはコース。
 
-| パブリッシュ済み | 名前 | タイプ | 説明 |
+| 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 10 月 27 日 | [Offer Decisioningの紹介](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | ビデオ | このビデオでは、Adobe Experience Platformの上に構築されたアプリケーションサービス、Offer Decisioningの概要を説明しています。 このビデオでは、Offer Decisioningが解決するビジネス上の課題、その主な機能、基本的なアーキテクチャ、主な使用例について説明しています。 |
+| 2020 年 10 月 27 日 | [Offer Decisioningの紹介](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | ビデオ | このビデオでは、Adobe Experience Platformの上に構築された申し込みサービス [!UICONTROL Offer Decisioning]()の概要を紹介している。 このビデオでは、 [!UICONTROL Offer Decisioning] が解決するビジネス上の課題、その主な機能、基本的なアーキテクチャ、主な使用例について説明しています。 |
+| 2020年10月29日 | [Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/demo-of-offer-decisioning.html?lang=en) | ビデオ | ブランドがAdobeの新しい [!UICONTROL Offer Decisioning] ・サービスを使用して、オファーを定義、管理し、リアルタイムの顧客データを活用し、顧客が期待する適切なエクスペリエンスを提供する方法を学びます。 |
 | 2020 年 9 月 15 日 | [Attribution AI のビジネス価値](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-attribution-ai.html) | ビデオ | [!UICONTROL Attribution AI] は、[!UICONTROL インテリジェントサービス]の一部で、顧客とのやり取りの影響と増分的な効果を指定した成果に照らして計算する、マルチチャネルのアルゴリズムアトリビューションサービスです。[!UICONTROL Attribution AI] を使用すると、マーケターは、カスタマージャーニーの各段階における個々の顧客インタラクションの影響を把握することで、マーケティング費用と広告費用を測定し、最適化できます。 |
 | 2020 年 9 月 15 日 | [Customer AI のビジネス価値](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-customer-ai.html) | ビデオ | このビデオでは、[!UICONTROL Customer AI] サービスが、どのように AI ベースの傾向で顧客プロファイルを充実させ、顧客セグメントおよびターゲット設定の取り組みを強化するかを示します。 |
 | 2020 年 9 月 15 日 | [Platform と Magento のビジネス価値](https://docs.adobe.com/content/help/en/platform-learn/tutorials/experience-cloud/business-value-of-platform-and-magento.html) | ビデオ | このビデオでは、Adobe Experience Platform を [!DNL Magento] Commerce と共に使用して、お客様の単一のビューを作成したり、オンラインショップおよび複数のチャネルでのエクスペリエンスをインテリジェントにパーソナライズしたりできることを示します。 |
@@ -204,6 +205,7 @@ Audience Manager の新機能、修正点、ドキュメントおよびチュー
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2020年10月29日 | [特性グラフの数値について](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | ビデオ | 特性情報画面の特性に関してレポートされる数値を理解するためのヒントをいくつか紹介します。 |
 | 2020年10月28日 | [特性グラフの数値について](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | ビデオ | 特性情報画面の特性に関してレポートされる数値を理解するためのヒントをいくつか紹介します。 |
 | 2020 年 10 月 23 日 | [Analyticsデータからの計画特性の作成](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=en#build-and-manage-audiences) | ビデオ | Audience Managerの特性でAdobe Analyticsデータを使用する場合に役立つヒントとテクニックを紹介します。 |
 | 2020 年 10 月 23 日 | [特性の作成時のデータソースの選択](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=en#build-and-manage-audiences) | ビデオ | 特性の作成時に入力する重要なフィールドの1つは、「データソース」フィールドです。 ルールベースの特性とオンボードの特性に適したデータソースの選択に関するヒントを紹介します。 |
@@ -352,6 +354,7 @@ Updated: **October 21, 2020**
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2020年10月28日 | [ビデオスマートタグ](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/video-smart-tags.html) | ビデオ | Experience Managerアセットは、Adobe Senseiを利用して、ビデオの主要要素を説明するキーワードでビデオアセットにインテリジェントにタグ付けし、AEMユーザーがキーワード検索を使用して簡単に見つけることができます。 |
 | 2020年10月27日 | [AEMドキュメントセキュリティ拡張機能の概要(Microsoft Office)](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | 記事 | Adobe Experience Managerドキュメントセキュリティ拡張機能(Microsoft Office)を使用すると、知的財産を含むWord、Excel、PowerPointファイルを、許可したユーザーのみが使用できるようになります。 ドキュメントセキュリティ拡張機能(Microsoft Office)を使用すると、事前に定義された機密設定をファイルに適用できます。 |
 | 2020年10月7日 | [Adobe Analyticsの表示ページ指標](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/analytics/create-analytics-workspace.html) | 記事 | Adobe Experience Managerサイトから収集したデータを、Adobe Analyticsのレポートスイートの指標およびディメンションにマップする方法について説明します。 |
 | 2020年10月8日 | [フルWebページエクスペリエンスのパーソナライズ](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/personalization-web-page.html) | ビデオ | AEM上でホストされているサイトページを、Adobe Targetを使用して新しいページにリダイレクトするアクティビティを作成する方法を説明します。 |
