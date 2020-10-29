@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b21c2213d13cf58dded026bce77abd58ee038f1f
+source-git-commit: 48d79544adc9225c086b7574d522622df084623b
 workflow-type: tm+mt
-source-wordcount: '7670'
+source-wordcount: '7634'
 ht-degree: 62%
 
 ---
@@ -127,7 +127,6 @@ Release date: **October 29, 2020**
 | [!UICONTROL 折れ線グラフ]のビジュアライゼーション：移動平均トレンドラインオプション | 2020 年 10 月 9 日 | 折れ線グラフのビジュアライゼーションのトレンドライン設定に移動平均が追加されました。移動平均は、指定した前の期間の平均を計算し、それをトレンドラインのデータポイントとして使用して、次の期間に移動します。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | バックフィル制限の削除 | 2020年10月19日 | CJAエクスペリエンスを向上させるために、バックフィル（履歴データのインポート）の制限を取り除きました。 以前は、最大25億行までバックフィルでき、その他の場合はエンジニアリングの関与が必要でした。 今後は、独自にデータをバックフィルできますが、無制限です。 [詳細情報](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Analysis Workspace パフォーマンスヘルプページ | 2020 年 10 月 23 日 | Analysis Workspace パフォーマンスヘルプページには、プロジェクトのパフォーマンスに影響を与える様々な要因と最適化のためのヒントへのリンクが示されています。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
-| CJA Workspaceに追加されたコンポーネント/ユーザー環境設定 | 2020年10月29日 | コンポーネント/ユーザーの環境設定ページでは、ユーザーのAnalysis Workspace設定（および関連するコンポーネント）を管理できます。 現在、区切り文字として千単位の区切り文字とCSV区切り文字が含まれています。 |
 | ジャーニーIQ:チャネル間分析 | 2020 年 10 月 31 日 | ジャーニーIQ:クロスチャネル分析を使用すると、Adobe Experience Platformデータレーク内のAdobe Analytics（または他の）イベントデータセットをID名前空間間で再キーできます。 通常、これは、cookie ベースの ID から人物ベースの ID にイベントデータセットを再入力することを意味します。これにより、再入力されたデータセットを CJA 接続の他の人物ベースのデータと組み合わせることができ、Analysis Workspace でのクロスチャネル／クロスデバイス分析が可能になります。 |
 
 ### [!UICONTROL Media Analytics] の新機能 {#media-aa}
