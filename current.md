@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 244301cf84111e61d3566fff5e515ee0960904c0
+source-git-commit: f3ee5a99df82abf91e09a74f3f808f8ab8cf177e
 workflow-type: tm+mt
-source-wordcount: '7549'
+source-wordcount: '7550'
 ht-degree: 63%
 
 ---
@@ -81,7 +81,7 @@ ht-degree: 63%
 
 Experience Platform およびサービス用に公開された新しいビデオ、チュートリアル、またはコース。
 
-| 公開日 | 名前 | タイプ | 説明 |
+| パブリッシュ済み | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2020 年 10 月 27 日 | [Offer Decisioningの紹介](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | ビデオ | このビデオでは、Adobe Experience Platformの上に構築されたアプリケーションサービス、Offer Decisioningの概要を説明しています。 このビデオでは、Offer Decisioningが解決するビジネス上の課題、その主な機能、基本的なアーキテクチャ、主な使用例について説明しています。 |
 | 2020 年 9 月 15 日 | [Attribution AI のビジネス価値](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-attribution-ai.html) | ビデオ | [!UICONTROL Attribution AI] は、[!UICONTROL インテリジェントサービス]の一部で、顧客とのやり取りの影響と増分的な効果を指定した成果に照らして計算する、マルチチャネルのアルゴリズムアトリビューションサービスです。[!UICONTROL Attribution AI] を使用すると、マーケターは、カスタマージャーニーの各段階における個々の顧客インタラクションの影響を把握することで、マーケティング費用と広告費用を測定し、最適化できます。 |
@@ -112,7 +112,7 @@ Release date: **October 29, 2020**
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ------- |
-| Adobe Analytics ドキュメント | 2020年10月/11月 | Adobe Analytics ドキュメントは Experience League に移行中です。10 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から `experienceleague.adobe.com` に移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。この変更が適用されると、すべてのリンクが Experience League にリダイレクトされるので、特別な操作は必要はありません。一括移行が開始したら、リリースノートが更新されます。 |
+| Adobe Analytics ドキュメント | 10月/11月 2020 | Adobe Analytics ドキュメントは Experience League に移行中です。10 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から `experienceleague.adobe.com` に移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。この変更が適用されると、すべてのリンクが Experience League にリダイレクトされるので、特別な操作は必要はありません。一括移行が開始したら、リリースノートが更新されます。 |
 | [!UICONTROL Workspace] [!UICONTROL 折れ線グラフ]のビジュアライゼーション：移動平均トレンドラインオプション | 2020 年 10 月 9 日 | Moving average has been added to [!UICONTROL Line] visualization trendline settings. 移動平均は、ローリング平均とも呼ばれ、特定数のデータポイント（「[!UICONTROL 期間]」セクションで決定される）を使用して、それらを平均し、その平均値を折れ線グラフのポイントとして使用します。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | [!UICONTROL データ修復] API | 2020 年 10 月 9 日 | [!UICONTROL データ修復] API は、Analytics レポートスイートからデータを削除するためのツールです。The October release includes the ability to delete specified eVars, props, and [!UICONTROL Activity Map] variables for a specified date range. 今後、追加機能がリリースされる予定です。Use of the [!UICONTROL Data Repair] API permanently deletes existing Adobe Analytics data. 誤って削除することを防ぐために、修復の実行は慎重におこなうことをお勧めします。Access to the [!UICONTROL Data Repair] API requires a contract - reach out to your account team for more details. [詳細情報](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/data-repair.md) |
 | [!UICONTROL Workspace]：パフォーマンスヘルプページ | 2020 年 10 月 23 日 | The [!UICONTROL Analysis Workspace] performance help page shows the different factors that impact project performance and links to tips for optimization. [詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
@@ -122,11 +122,11 @@ Release date: **October 29, 2020**
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
-| Customer Journey Analytics ドキュメント | 2020年10月/11月 | Customer Journey Analytics ドキュメントは Experience League に移行中です。10 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から `experienceleague.adobe.com` に移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。この変更が適用されると、すべてのリンクが Experience League にリダイレクトされるので、特別な操作は必要はありません。一括移行が開始したら、リリースノートが更新されます。 |
+| Customer Journey Analytics ドキュメント | 10月/11月 2020 | Customer Journey Analytics ドキュメントは Experience League に移行中です。10 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から `experienceleague.adobe.com` に移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。この変更が適用されると、すべてのリンクが Experience League にリダイレクトされるので、特別な操作は必要はありません。一括移行が開始したら、リリースノートが更新されます。 |
 | [!UICONTROL 折れ線グラフ]のビジュアライゼーション：移動平均トレンドラインオプション | 2020 年 10 月 9 日 | 折れ線グラフのビジュアライゼーションのトレンドライン設定に移動平均が追加されました。移動平均は、指定した前の期間の平均を計算し、それをトレンドラインのデータポイントとして使用して、次の期間に移動します。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
-| バックフィル制限の削除 | 2020 年 10 月 20 日 | CJAエクスペリエンスを向上させるために、バックフィル（履歴データのインポート）の制限を取り除きました。 以前は、最大25億行までバックフィルでき、その他の場合はエンジニアリングの関与が必要でした。 今後は、独自にデータをバックフィルできますが、無制限です。 [詳細情報](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
+| バックフィル制限の削除 | 2020年10月19日 | CJAエクスペリエンスを向上させるために、バックフィル（履歴データのインポート）の制限を取り除きました。 以前は、最大25億行までバックフィルでき、その他の場合はエンジニアリングの関与が必要でした。 今後は、独自にデータをバックフィルできますが、無制限です。 [詳細情報](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Analysis Workspace パフォーマンスヘルプページ | 2020 年 10 月 23 日 | Analysis Workspace パフォーマンスヘルプページには、プロジェクトのパフォーマンスに影響を与える様々な要因と最適化のためのヒントへのリンクが示されています。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
-| CJA Workspaceに追加されたコンポーネント/ユーザー環境設定 | 10月29日。 2020 | コンポーネント/ユーザーの環境設定ページでは、ユーザーのAnalysis Workspace設定（および関連するコンポーネント）を管理できます。 現在、区切り文字として千単位の区切り文字とCSV区切り文字が含まれています。 |
+| CJA Workspaceに追加されたコンポーネント/ユーザー環境設定 | 2020年10月29日 | コンポーネント/ユーザーの環境設定ページでは、ユーザーのAnalysis Workspace設定（および関連するコンポーネント）を管理できます。 現在、区切り文字として千単位の区切り文字とCSV区切り文字が含まれています。 |
 | ジャーニーIQ:チャネル間分析 | 2020 年 10 月 31 日 | ジャーニーIQ:クロスチャネル分析を使用すると、Adobe Experience Platformデータレーク内のAdobe Analytics（または他の）イベントデータセットをID名前空間間で再キーできます。 通常、これは、cookie ベースの ID から人物ベースの ID にイベントデータセットを再入力することを意味します。これにより、再入力されたデータセットを CJA 接続の他の人物ベースのデータと組み合わせることができ、Analysis Workspace でのクロスチャネル／クロスデバイス分析が可能になります。 |
 
 ### [!UICONTROL Media Analytics] の新機能 {#media-aa}
@@ -153,10 +153,10 @@ AN-224702;AN-232791;AN-233982;AN-234384;AN-235608;AN-236538;AN-236598;AN-236738;
 | ----------- | ---------- | ---------- |
 | すべての受信 HTTPS リクエストの対する HSTS ヘッダーの追加 | 2020 年 9 月 30 日 | 2020 年 9 月 30日に、HTTPS を使用するすべての受信リクエストに対して、HSTS ヘッダーの追加を開始しました。これは、将来のすべてのリクエストを、セキュリティ上のベストプラクティスと考えられる HTTPS でおこなうようにブラウザー／クライアントに指示します。現時点では、HTTP を使用した受信リクエストについては、これはおこないません。 |
 | Experience Cloud ID サービス Cookie 設定に対する変更 | 2020 年 9 月 23 日 | Chrome バージョン 80 のプライバシー設定に対する更新は、Google AMP ページを表示する一部のユーザーをトラッキングするための Adobe Analytics の機能に影響します。特に、Google がホストする AMP ページを表示するユーザーのクロスドメイントラッキングを妨げます。この結果、実訪問者数に影響する可能性があります。この修正を利用すると、その ECID Cookie の設定を変更することで、この問題に対処できます。<br>現在、Analytics は、（Chrome の 80 より前のバージョンでクロスドメイントラッキングを許可する）設定 `SameSite = Lax` により、Experience Cloud ID サービス（ECID）Cookie を設定しています。これは、今後は適用されません。この変更により、ユーザーは、ECID Cookie 用の SameSite 設定を `None` に更新できます。<br>これによって、より多くの状況で Analytics Cookie が共有される可能性がありますが、Analytics Cookieには機密情報は含まれていないことに留意してください。また、この設定を選択する場合、データが HTTPS 接続経由でのみ渡されるように、Cookie が `Secure` に設定されている必要があります。この変更をおこなう場合は、カスタマーケアのサポート対象ユーザーがチケットを開いてください。 |
-| `omniture.com` ドメインから `adobe.com` ドメインの移行 | 2020 年 8 月 22 日 | 2020 年 8 月 14 日、Adobe Analytics はフロントエンドアーキテクチャを `omniture.com|http://omniture.com/` から `adobe.com|http://adobe.com/` に移行しました。この変更により、2020 年 5 月 29 日の初回統合製品ドメインの変更後に発生したサードパーティ Cookie の問題が改善される可能性があります。このアップデートの結果、新しい `.adobe.com|http://an.adobe.com/` ドメインまたは `experience.adobe.com|http://experience.adobe.com/` ドメインを信頼するようにブラウザーが促す場合があります。 |
-| Ad Hoc Analysis Java 8 の互換性のアップデート | 2020 年 8 月 22 日 | Ad Hoc Analysis は現在、Java 8 バージョン 1.8.0_261 以降と互換性がありません。このツールへのアクセスが[提供終了日](https://spark.adobe.com/page/S9Bhp66VJ2fEn/)に達する前に中断されないようにするため、1.8.0_261 以前の Java 8 バージョンを維持することをお勧めします。 |
+| `omniture.com` ドメインから `adobe.com` ドメインの移行 | 2020年8月21日 | 2020 年 8 月 14 日、Adobe Analytics はフロントエンドアーキテクチャを `omniture.com|http://omniture.com/` から `adobe.com|http://adobe.com/` に移行しました。この変更により、2020 年 5 月 29 日の初回統合製品ドメインの変更後に発生したサードパーティ Cookie の問題が改善される可能性があります。このアップデートの結果、新しい `.adobe.com|http://an.adobe.com/` ドメインまたは `experience.adobe.com|http://experience.adobe.com/` ドメインを信頼するようにブラウザーが促す場合があります。 |
+| Ad Hoc Analysis Java 8 の互換性のアップデート | 2020年8月21日 | Ad Hoc Analysis は現在、Java 8 バージョン 1.8.0_261 以降と互換性がありません。このツールへのアクセスが[提供終了日](https://spark.adobe.com/page/S9Bhp66VJ2fEn/)に達する前に中断されないようにするため、1.8.0_261 以前の Java 8 バージョンを維持することをお勧めします。 |
 | Adobe Data Connectors の EOL | 2020 年 7 月 14 日 | Adobe [!UICONTROL Data Connectors] は、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。[Adobe Exchange パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)には、引き続き提供およびサポートを希望する統合に対して採用する新しい標準があります。正式な終了日はまだ決定していませんが、今後 12 ～ 18 か月（2021 年中旬 ～ 2021 年末）になると予想されています。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/import/dataconnectors/data-connectors-eol.html) |
-| Ad Hoc Analysis のサポート終了 | 2018 年 8 月 7 日 | Adobeは2021年3月1日にAd Hoc Analysisの使用終了の意向を発表しました。 詳しくは、[Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) を参照してください。 |
+| Ad Hoc Analysis のサポート終了 | 2018年8月6日 | Adobeは2021年3月1日にAd Hoc Analysisの使用終了の意向を発表しました。 詳しくは、[Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) を参照してください。 |
 
 ### AppMeasurement {#appm}
 
