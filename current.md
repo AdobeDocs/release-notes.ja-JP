@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 48d79544adc9225c086b7574d522622df084623b
+source-git-commit: a30288a93dd262f9f9d770242a2bf4fda7812265
 workflow-type: tm+mt
-source-wordcount: '7634'
+source-wordcount: '7669'
 ht-degree: 62%
 
 ---
@@ -68,6 +68,8 @@ ht-degree: 62%
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
+Experience PlatformとExperience Platform Launchに関するリリース更新情報、
+
 リリース済み： **2020年10月14日**
 
 以下のアップデートに関する情報については、[Experience Platform リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md)を参照してください。
@@ -76,6 +78,10 @@ ht-degree: 62%
 * リアルタイム顧客プロファイル
 * セグメント化サービス
 * ソース
+
+### Experience Platform Launch
+
+Platform Launchについて詳しくは、 [Experience Platform Launchリリースノート](https://docs.adobe.com/content/help/ja-JP/launch/using/intro/release-notes/current.html) を参照してください。
 
 ### Experience Platform とサービスのチュートリアルとコース
 
