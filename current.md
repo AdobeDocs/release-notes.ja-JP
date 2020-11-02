@@ -87,7 +87,7 @@ Platform Launchについて詳しくは、 [Experience Platform Launchリリー�
 
 Experience Platform およびサービス用に公開された新しいビデオ、チュートリアル、またはコース。
 
-| 公開日 | 名前 | タイプ | 説明 |
+| パブリッシュ済み | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2020 年 10 月 27 日 | [Offer Decisioningの紹介](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | ビデオ | このビデオでは、Adobe Experience Platformの上に構築された申し込みサービス [!UICONTROL Offer Decisioning]()の概要を紹介している。 このビデオでは、 [!UICONTROL Offer Decisioning] が解決するビジネス上の課題、その主な機能、基本的なアーキテクチャ、主な使用例について説明しています。 |
 | 2020年10月29日 | [Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/demo-of-offer-decisioning.html?lang=en) | ビデオ | ブランドがAdobeの新しい [!UICONTROL Offer Decisioning] ・サービスを使用して、オファーを定義、管理し、リアルタイムの顧客データを活用し、顧客が期待する適切なエクスペリエンスを提供する方法を学びます。 |
