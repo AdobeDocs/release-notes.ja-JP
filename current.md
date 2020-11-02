@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: a30288a93dd262f9f9d770242a2bf4fda7812265
+source-git-commit: 7e679c9acd5002ab3b6dd232b678f44661ad935a
 workflow-type: tm+mt
-source-wordcount: '7669'
+source-wordcount: '7894'
 ht-degree: 62%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 62%
 * [Experience Manager](#aem) (更新日： **10/28/2020**)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud) (Updated: **10/28/2020**)
-* [[!DNL Target]](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)
+* [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/ja-JP/primetime/release-notes/home.html)
@@ -87,7 +87,7 @@ Platform Launchについて詳しくは、 [Experience Platform Launchリリー�
 
 Experience Platform およびサービス用に公開された新しいビデオ、チュートリアル、またはコース。
 
-| 公開日 | 名前 | タイプ | 説明 |
+| パブリッシュ済み | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2020 年 10 月 27 日 | [Offer Decisioningの紹介](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | ビデオ | このビデオでは、Adobe Experience Platformの上に構築された申し込みサービス [!UICONTROL Offer Decisioning]()の概要を紹介している。 このビデオでは、 [!UICONTROL Offer Decisioning] が解決するビジネス上の課題、その主な機能、基本的なアーキテクチャ、主な使用例について説明しています。 |
 | 2020年10月29日 | [Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/demo-of-offer-decisioning.html?lang=en) | ビデオ | ブランドがAdobeの新しい [!UICONTROL Offer Decisioning] ・サービスを使用して、オファーを定義、管理し、リアルタイムの顧客データを活用し、顧客が期待する適切なエクスペリエンスを提供する方法を学びます。 |
@@ -210,7 +210,6 @@ Audience Manager の新機能、修正点、ドキュメントおよびチュー
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020年10月29日 | [特性グラフの数値について](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | ビデオ | 特性情報画面の特性に関してレポートされる数値を理解するためのヒントをいくつか紹介します。 |
 | 2020年10月28日 | [特性グラフの数値について](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | ビデオ | 特性情報画面の特性に関してレポートされる数値を理解するためのヒントをいくつか紹介します。 |
 | 2020 年 10 月 23 日 | [Analyticsデータからの計画特性の作成](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=en#build-and-manage-audiences) | ビデオ | Audience Managerの特性でAdobe Analyticsデータを使用する場合に役立つヒントとテクニックを紹介します。 |
 | 2020 年 10 月 23 日 | [特性の作成時のデータソースの選択](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=en#build-and-manage-audiences) | ビデオ | 特性の作成時に入力する重要なフィールドの1つは、「データソース」フィールドです。 ルールベースの特性とオンボードの特性に適したデータソースの選択に関するヒントを紹介します。 |
@@ -446,6 +445,10 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 | 公開日 | 名前 | ソリューション | 説明 |
 | ----------- | ----------- | ---------- | ---------- |
+| 2020年10月20日 | [Campaign コントロールパネル- SSHキーの生成 — 機能のビデオ](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。 |
+| 2020年10月20日 | [Campaign コントロールパネル- SFTPサーバーへの接続 — 機能のビデオ](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。 |
+| 2020年10月20日 | [Campaign コントロールパネル-Campaign コントロールパネル使用の手引き — 記事](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。 |
+| 2020年10月20日 | [Campaign コントロールパネル-Campaign コントロールパネル使用の手引き — 記事](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。 |
 | 2020年10月19日 | [Campaign コントロールパネル-許可リストにIP範囲を追加する](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | IPアドレスの範囲をCampaign コントロールパネルの許可リストに追加する方法を説明します。 |
 | 2020年10月19日 | [Campaign コントロールパネル-許可リストにIP範囲を追加する](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Standard | IPアドレスの範囲をCampaign コントロールパネルの許可リストに追加する方法を説明します。 |
 | 2020年10月16日 | [Campaign コントロールパネル- CNAME（ベータ版）を使用したサブドメインの委任 — 機能に関するビデオ](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.translate.html) | Campaign Classic | コントロールパネルでCNAMEを使用してサブドメインを設定し、送信する方法を説明します。 |
@@ -491,6 +494,16 @@ Magent リリースノートについては、以下を参照してください�
 
 * [Magento Commerce 2.3.5](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-5-open-source.html)
 * [Magento Open Source 2.3.5](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-5-open-source.html)
+
+## ![アイコン](/assets/target.png)[!DNL Target] {#target}
+
+最新のリリース情報については、[[!DNL Target]  リリースノート](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)を参照してください。
+
+### 新しいAdobe Targetコースとチュートリアル
+
+| 公開日 | 名前 | タイプ | 説明 |
+| -----------| ---------- | ---------- | ---------- |
+| 2020 年 10 月 12 日 | [ハイブリッドパーソナライゼーション展開モデル](https://docs.adobe.com/content/help/en/target-learn/tutorials/implementation/hybrid-deployment.html) | ビデオ | Adobe Targetオファーは、パーソナライゼーション用の独自のハイブリッド展開モデルです。クライアント側とサーバ側の実装を混在させます。 このハイブリッドモデルを使用すると、技術者以外のユーザーがWYSIWYG Visual Experience Composerを使用してテストまたはパーソナライズアクティビティを作成し、高パフォーマンスの配信を実現するためにサーバー側でエクスペリエンスを実行、配信、レンダリングできます。 |
 
 ## ![アイコン](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
 
