@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 7e679c9acd5002ab3b6dd232b678f44661ad935a
+source-git-commit: 5050a05473619e75107b0874d592322ee5a70d44
 workflow-type: tm+mt
-source-wordcount: '7894'
+source-wordcount: '7947'
 ht-degree: 62%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 62%
 >
 >[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。
 
-最終更新日：**2020 年 10 月 28 日**
+最新の更新： **2020年11月2日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud サービスと管理](#ecloud)
@@ -35,10 +35,10 @@ ht-degree: 62%
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) （更新日2020年10月28日）
 * [Audience Manager](#aam)
-* [Experience Manager](#aem) (更新日： **10/28/2020**)
+* [Experience Manager](#aem) (更新日： **2020年10月28日**)
 * [Campaign](#ac)
-* [Advertising Cloud](#adcloud) (Updated: **10/28/2020**)
-* [[!DNL Target]](#target)
+* [Advertising Cloud](#adcloud) (Updated: **October 28, 2020**)
+* [[!DNL Target]](#target) (更新日：**2020 年 11 月 2 日**)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/ja-JP/primetime/release-notes/home.html)
@@ -87,7 +87,7 @@ Platform Launchについて詳しくは、 [Experience Platform Launchリリー�
 
 Experience Platform およびサービス用に公開された新しいビデオ、チュートリアル、またはコース。
 
-| パブリッシュ済み | 名前 | タイプ | 説明 |
+| 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2020 年 10 月 27 日 | [Offer Decisioningの紹介](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | ビデオ | このビデオでは、Adobe Experience Platformの上に構築された申し込みサービス [!UICONTROL Offer Decisioning]()の概要を紹介している。 このビデオでは、 [!UICONTROL Offer Decisioning] が解決するビジネス上の課題、その主な機能、基本的なアーキテクチャ、主な使用例について説明しています。 |
 | 2020年10月29日 | [Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/demo-of-offer-decisioning.html?lang=en) | ビデオ | ブランドがAdobeの新しい [!UICONTROL Offer Decisioning] ・サービスを使用して、オファーを定義、管理し、リアルタイムの顧客データを活用し、顧客が期待する適切なエクスペリエンスを提供する方法を学びます。 |
@@ -358,6 +358,7 @@ Updated: **October 21, 2020**
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2020年11月2日 | [ターゲット呼び出しの読み込みと実行](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/load-and-fire-target.html) | ビデオ | 起動ルールを使用して、ページリクエストにパラメーターを読み込み、渡し、サイトページからターゲット呼び出しを実行する方法を学びます。 ページ情報を取得し、パラメーターとして渡すには、Adobeクライアントデータレイヤーを使用します。このレイヤーを使用すると、Webページ上での訪問者の体験に関するデータを収集して保存でき、このデータに簡単にアクセスできます。 |
 | 2020年10月28日 | [ビデオスマートタグ](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/video-smart-tags.html) | ビデオ | Experience Managerアセットは、Adobe Senseiを利用して、ビデオの主要要素を説明するキーワードでビデオアセットにインテリジェントにタグ付けし、AEMユーザーがキーワード検索を使用して簡単に見つけることができます。 |
 | 2020年10月27日 | [AEMドキュメントセキュリティ拡張機能の概要(Microsoft Office)](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | 記事 | Adobe Experience Managerドキュメントセキュリティ拡張機能(Microsoft Office)を使用すると、知的財産を含むWord、Excel、PowerPointファイルを、許可したユーザーのみが使用できるようになります。 ドキュメントセキュリティ拡張機能(Microsoft Office)を使用すると、事前に定義された機密設定をファイルに適用できます。 |
 | 2020年10月7日 | [Adobe Analyticsの表示ページ指標](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/analytics/create-analytics-workspace.html) | 記事 | Adobe Experience Managerサイトから収集したデータを、Adobe Analyticsのレポートスイートの指標およびディメンションにマップする方法について説明します。 |
@@ -385,7 +386,6 @@ Updated: **October 21, 2020**
 | 2020 年 10 月 1 日 | [Adobeクライアントデータレイヤーの調査](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) | 記事 | イベント主導型のAdobeクライアントデータレイヤーの機能、およびAEM Sitesコアコンポーネントとの統合について説明します。 イベントをリッスンし、現在の状態を取得して、データレイヤーを変更する方法について説明します。 |
 | 2020 年 10 月 1 日 | [Adobeクライアントデータレイヤーの概要](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) | ビデオ | イベントドリブンの Adobe Client Data Layer が AEM Sites コアコンポーネントからデータを公開する方法を説明します。Adobe Client Data Layer を使用すると、Experience Platform Launch などのタグ管理ソリューションは、Analytics や Target などのアプリケーションに Web サイトデータを送信できます。 |
 | 2020年10月8日 | [Launchプロパティ追加のターゲット式](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/add-target-launch-extension.html) | ビデオ | 起動ルールを使用して、ページリクエストにパラメーターを読み込み、渡し、サイトページからターゲット呼び出しを実行する方法を学びます。 ページ情報を取得し、パラメーターとして渡すには、Adobeクライアントデータレイヤーを使用します。このレイヤーを使用すると、Webページ上での訪問者の体験に関するデータを収集して保存でき、このデータに簡単にアクセスできます。 |
-| 2020年10月8日 | [Launchプロパティ追加のターゲット式](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/add-target-launch-extension.html) | ビデオ | 起動プロパティにAdobe Target拡張機能を追加する方法を学びます |
 | 2020年10月7日 | [Adobe TargetCloud Serviceアカウントの作成](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/setup-aem-target-cloud-service.html) | ビデオ | Cloud ServiceとAdobeのIMS認証を使用して、Adobe Experience ManagerをCloud ServiceとしてAdobe Targetと統合する方法を説明します。 |
 | 2020 年 10 月 3 日 | [AEMとAdobe Targetの概要](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/overview.html) | ビデオ | AEMとターゲットは、両方とも、一見重なり合うような機能を持つ強力なソリューションです。 お客様は、これらの製品をどのように、いつどのように組み合わせて使用し、パーソナライズされたエクスペリエンスを提供するかを理解するのに苦労する場合があります。 エンドユーザーごとに最適化されたエクスペリエンスを提供するには、社内の異なるチームが緊密に連携し、誰が何を行うかを定義する必要があります。 |
 | 2020 年 10 月 3 日 | [AEM FormsとAdobe Signの統合](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.2.forms) | コース | Adobe SignとAEM Formsは連携して、複雑なトランザクションを自動化し、シームレスなデジタルエクスペリエンスの一環として安全で法的な電子署名を含めることができます。 |
@@ -445,8 +445,8 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 | 公開日 | 名前 | ソリューション | 説明 |
 | ----------- | ----------- | ---------- | ---------- |
-| 2020年10月20日 | [Campaign コントロールパネル- SSHキーの生成 — 機能のビデオ](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。 |
-| 2020年10月20日 | [Campaign コントロールパネル- SFTPサーバーへの接続 — 機能のビデオ](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。 |
+| 2020年11月2日 | [Campaign コントロールパネル- SSHキーの生成 — 機能のビデオ](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。 |
+| 2020年11月2日 | [Campaign コントロールパネル- SFTPサーバーへの接続 — 機能のビデオ](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。 |
 | 2020年10月20日 | [Campaign コントロールパネル-Campaign コントロールパネル使用の手引き — 記事](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。 |
 | 2020年10月20日 | [Campaign コントロールパネル-Campaign コントロールパネル使用の手引き — 記事](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。 |
 | 2020年10月19日 | [Campaign コントロールパネル-許可リストにIP範囲を追加する](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | IPアドレスの範囲をCampaign コントロールパネルの許可リストに追加する方法を説明します。 |
@@ -500,6 +500,8 @@ Magent リリースノートについては、以下を参照してください�
 最新のリリース情報については、[[!DNL Target]  リリースノート](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)を参照してください。
 
 ### 新しいAdobe Targetコースとチュートリアル
+
+更新日：**2020 年 11 月 2 日**
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
