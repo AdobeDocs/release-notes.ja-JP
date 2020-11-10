@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 27e6ef1fb123fd8a5d136f86c5df492ea6e79733
+source-git-commit: 46d20e153aaa57df2387c2d084b6c20b914bc8e1
 workflow-type: tm+mt
 source-wordcount: '8040'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -27,13 +27,13 @@ ht-degree: 100%
 >
 >[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。
 
-最新更新日：**2020 年 11 月 3 日**
+Latest update: **November 10, 2020**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud サービスと管理](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)（更新日：**2020 年 11 月 3 日**）
+* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) (Updated **November 10, 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)（更新日：**2020 年 10 月 29 日**）
 * [Campaign](#ac)
@@ -108,7 +108,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 リリース日：**2020 年 10 月 30 日**
 
 * [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey)（更新日：2020 年 11 月 3 日）
+* [Customer Journey Analytics の新機能](#cust-journey) （更新日2020年11月10日）
 * [Media Analytics の新機能](#media-aa)
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
@@ -133,9 +133,9 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | [!UICONTROL 折れ線グラフ]のビジュアライゼーション：移動平均トレンドラインオプション | 2020 年 10 月 9 日 | 折れ線グラフのビジュアライゼーションのトレンドライン設定に移動平均が追加されました。移動平均は、指定した前の期間の平均を計算し、それをトレンドラインのデータポイントとして使用して、次の期間に移動します。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | バックフィル制限の削除 | 2020 年 10 月 20 日 | CJA エクスペリエンスを向上させるために、バックフィル（履歴データの読み込み）に関する制限をなくしました。以前は、ユーザー自身でバックフィルできるのは最大 25 億行までで、それ以上バックフィルするには、エンジニアリングチームの関与が必要でした。現在は、ユーザー自身で無制限にデータをバックフィルできます。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Analysis Workspace パフォーマンスヘルプページ | 2020 年 10 月 23 日 | Analysis Workspace パフォーマンスヘルプページには、プロジェクトのパフォーマンスに影響を与える様々な要因と最適化のためのヒントへのリンクが示されています。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
-| ジャーニー IQ：クロスチャネル分析 | 2020 年 10 月 31 日 | ジャーニー IQ：クロスチャネル分析を使用すれば、Adobe Experience Platform データレーク内の Adobe Analytics（または他の）イベントデータセットを、ある ID 名前空間から別の ID 名前空間へと再入力できます。通常、これは、cookie ベースの ID から人物ベースの ID にイベントデータセットを再入力することを意味します。これにより、再入力されたデータセットを CJA 接続の他の人物ベースのデータと組み合わせることができ、Analysis Workspace でのクロスチャネル／クロスデバイス分析が可能になります。 |
 | [!UICONTROL 滞在時間]指標およびディメンション | 2020 年 10 月 31 日 | [!UICONTROL 滞在時間]指標とディメンションを使用すると、カスタマージャーニーの様々な側面に消費者が滞在した時間を確認し、チャネルをまたいだエンゲージメントやボトルネックをより完全に表示できます。 |
 | [!UICONTROL デバイス]および[!UICONTROL 地理的]ディメンション | 2020 年 10 月 31 日 | [!UICONTROL デバイス]および[!UICONTROL 地理的]ディメンションは、[Adobe Analytics ソースコネクタ](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html)の「グローバルルックアップのサポート」プロジェクトの一部として、デフォルトで使用できるようになりました。この多くの要望をいただいた追加により、[Adobe Analytics と CJA の間のパリティ](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-overview/cja-aa.html)が増加しました。 |
+| ジャーニー IQ：クロスチャネル分析 | 2020年11月22日 | ジャーニー IQ：クロスチャネル分析を使用すれば、Adobe Experience Platform データレーク内の Adobe Analytics（または他の）イベントデータセットを、ある ID 名前空間から別の ID 名前空間へと再入力できます。通常、これは、cookie ベースの ID から人物ベースの ID にイベントデータセットを再入力することを意味します。これにより、再入力されたデータセットを CJA 接続の他の人物ベースのデータと組み合わせることができ、Analysis Workspace でのクロスチャネル／クロスデバイス分析が可能になります。 |
 
 ### [!UICONTROL Media Analytics] の新機能 {#media-aa}
 
