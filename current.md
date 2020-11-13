@@ -4,11 +4,11 @@ description: Adobe Experience Cloud リリースノート
 doc-type: release notes
 last-update: November 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 46d20e153aaa57df2387c2d084b6c20b914bc8e1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '8040'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -27,24 +27,24 @@ ht-degree: 99%
 >
 >[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。
 
-Latest update: **November 10, 2020**
+最終更新日：**2020 年 11 月 11 日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud サービスと管理](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) (Updated **November 10, 2020**)
+* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)（更新日：**2020 年 11 月 11 日**）
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)（更新日：**2020 年 10 月 29 日**）
 * [Campaign](#ac)
-* [Advertising Cloud](#adcloud)(更新：**2020 年 10 月 29 日**)
-* [[!DNL Target]](#target) (更新日：**2020 年 11 月 2 日**)
+* [Advertising Cloud](#adcloud)（更新日：**2020 年 10 月 29 日**）
+* [[!DNL Target]](#target)（更新日：**2020 年 11 月 2 日**）
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/ja-JP/primetime/release-notes/home.html)
 * [Document Cloud](#doc-cloud)
 
-サポートが必要な場合は、[Adobe Experience League](https://experienceleague.adobe.com/#home) にアクセスし、製品および技術ドキュメント、アドビが運営するコース、ビデオチュートリアル、すばやい回答、コミュニティインサイト、講師によるトレーニングをお探しください。
+サポートが必要な場合は、[Adobe Experience League](https://experienceleague.adobe.com/?lang=ja#home) にアクセスし、製品および技術ドキュメント、アドビが運営するコース、ビデオチュートリアル、すばやい回答、コミュニティインサイト、講師によるトレーニングをお探しください。
 
 >[!NOTE]
 >
@@ -108,7 +108,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 リリース日：**2020 年 10 月 30 日**
 
 * [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey) （更新日2020年11月10日）
+* [Customer Journey Analytics の新機能](#cust-journey)（更新日：2020 年 11 月 11 日）
 * [Media Analytics の新機能](#media-aa)
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
@@ -135,7 +135,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | Analysis Workspace パフォーマンスヘルプページ | 2020 年 10 月 23 日 | Analysis Workspace パフォーマンスヘルプページには、プロジェクトのパフォーマンスに影響を与える様々な要因と最適化のためのヒントへのリンクが示されています。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL 滞在時間]指標およびディメンション | 2020 年 10 月 31 日 | [!UICONTROL 滞在時間]指標とディメンションを使用すると、カスタマージャーニーの様々な側面に消費者が滞在した時間を確認し、チャネルをまたいだエンゲージメントやボトルネックをより完全に表示できます。 |
 | [!UICONTROL デバイス]および[!UICONTROL 地理的]ディメンション | 2020 年 10 月 31 日 | [!UICONTROL デバイス]および[!UICONTROL 地理的]ディメンションは、[Adobe Analytics ソースコネクタ](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html)の「グローバルルックアップのサポート」プロジェクトの一部として、デフォルトで使用できるようになりました。この多くの要望をいただいた追加により、[Adobe Analytics と CJA の間のパリティ](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-overview/cja-aa.html)が増加しました。 |
-| ジャーニー IQ：クロスチャネル分析 | 2020年11月22日 | ジャーニー IQ：クロスチャネル分析を使用すれば、Adobe Experience Platform データレーク内の Adobe Analytics（または他の）イベントデータセットを、ある ID 名前空間から別の ID 名前空間へと再入力できます。通常、これは、cookie ベースの ID から人物ベースの ID にイベントデータセットを再入力することを意味します。これにより、再入力されたデータセットを CJA 接続の他の人物ベースのデータと組み合わせることができ、Analysis Workspace でのクロスチャネル／クロスデバイス分析が可能になります。 |
+| Journey IQ：クロスチャネル分析 | 2020 年 11 月 23 日 | Journey IQ：クロスチャネル分析を使用すれば、Adobe Experience Platform データレーク内の Adobe Analytics（または他の）イベントデータセットを、ある ID 名前空間から別の ID 名前空間へと再入力できます。通常、これは、cookie ベースの ID から人物ベースの ID にイベントデータセットを再入力することを意味します。これにより、再入力されたデータセットを CJA 接続の他の人物ベースのデータと組み合わせることができ、Analysis Workspace でのクロスチャネル／クロスデバイス分析が可能になります。 |
 
 ### [!UICONTROL Media Analytics] の新機能 {#media-aa}
 
@@ -212,10 +212,10 @@ Audience Manager の新機能、修正点、ドキュメントおよびチュー
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 10 月 29 日 | [特性グラフの数値について](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) | ビデオ | 特性情報画面の特性について、報告される数値を理解するためのヒントをいくつか紹介します。 |
-| 2020 年 10 月 24 日 | [Analytics データからの特性作成の計画](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=en#build-and-manage-audiences) | ビデオ | Audience Manager の特性で Adobe Analytics データの使用を計画する際に役立つヒントとテクニックを紹介します。 |
-| 2020 年 10 月 24 日 | [特性を作成する際のデータソースの選択](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=en#build-and-manage-audiences) | ビデオ | 特性の作成時に入力する重要なフィールドの 1 つは、「データソース」フィールドです。ルールベースの特性とオンボードされた特性に適したデータソースの選択に関するヒントを紹介します。 |
-| 2020 年 9 月 15 日 | [コードビューを使用した特性の作成と編集](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.html?lang=en#build-and-manage-audiences) | ビデオ | 新しい特性を作成する場合や、既存の特性を編集する場合に、コードビューを使用する方法を説明します。コードビューは、特性式を設定する際に式ビルダーの代わりとして使用します。 |
+| 2020 年 10 月 29 日 | [特性グラフの数値について](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | 特性情報画面の特性について、報告される数値を理解するためのヒントをいくつか紹介します。 |
+| 2020 年 10 月 24 日 | [Analytics データからの特性作成の計画](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | Audience Manager の特性で Adobe Analytics データの使用を計画する際に役立つヒントとテクニックを紹介します。 |
+| 2020 年 10 月 24 日 | [特性を作成する際のデータソースの選択](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | 特性の作成時に入力する重要なフィールドの 1 つは、「データソース」フィールドです。ルールベースの特性とオンボードされた特性に適したデータソースの選択に関するヒントを紹介します。 |
+| 2020 年 9 月 15 日 | [コードビューを使用した特性の作成と編集](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | 新しい特性を作成する場合や、既存の特性を編集する場合に、コードビューを使用する方法を説明します。コードビューは、特性式を設定する際に式ビルダーの代わりとして使用します。 |
 | 2020 年 10 月 11 日 | [Predictive Audiences について](https://docs.adobe.com/content/help/ja-JP/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.html) | ビデオ | このビデオでは、Audience Manager の Predictive Audiences の概要とその仕組みの詳細を説明し、使用例を示します。 |
 
 ## ![アイコン](/assets/aem.png) Adobe Experience Manager {#aem}
@@ -272,7 +272,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
    * **コードリファクタリングツール**
 
       * AIO-CLI プラグインが Repository Modernizer をサポートし、ユーザーはこのプラグインを使用してこのツールを実行できます。詳しくは、[Git リソース：aio-cli-plugin-aem-cloud-service-migration](https://github.com/adobe/aio-cli-plugin-aem-cloud-service-migration) を参照してください。
-      * Repository Modernizer ユーティリティは、既存のプロジェクトパッケージを、AEM as a Cloud Service 用に定義されたプロジェクト構造と互換性のあるパッケージに再構成するために使用できます。詳しくは、[Git リソース：Repository Modernizer](https://github.com/adobe/aem-cloud-service-source-migration/tree/master/packages/repository-modernizer)を参照してください。
+      * Repository Modernizer ユーティリティは、既存のプロジェクトパッケージを、AEM as a Cloud Service 用に定義されたプロジェクト構造と互換性のあるパッケージに再構成するために使用できます。詳しくは、[Git リソース：Repository Modernizer](https://github.com/adobe/aem-cloud-service-source-migration/tree/master/packages/repository-modernizer) を参照してください。
 
 
 
@@ -304,7 +304,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * Assets Insights については、[Adobe Launch](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html) を使用してください。[DTM 統合](https://docs.adobe.com/content/help/ja-JP/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) は、ドキュメント内で廃止予定のメソッドとされています。
 
-更新：**2020 年 10 月 29 日**
+更新日：**2020 年 10 月 29 日**
 
 * **Brand Portal の強化**：[!DNL Brand Portal] では、次の新機能などを利用できます。
 
@@ -354,7 +354,7 @@ Adobe Experience Manager のリリースロードマップ、リリースの更�
 
 ### 新しい Experience Manager コースとチュートリアル
 
-更新：**2020 年 10 月 22 日**
+更新日：**2020 年 10 月 22 日**
 
 以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
 
@@ -374,7 +374,7 @@ Adobe Experience Manager のリリースロードマップ、リリースの更�
 | 2020 年 9 月 24 日 | [Adobe Analytics を使用したクリックされたコンポーネントの追跡](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html) | 記事 | イベントドリブン型の Adobe クライアントデータレイヤーを使用して、Adobe Experience Manager のサイトでのページやユーザーのインタラクションに関するデータを収集します。Experience Platform Launch でルールを使用してこれらのイベントをリッスンし、データを Adobe Analytics のレポートスイートに送信する方法について説明します。 |
 | 2020 年 9 月 26 日 | [アセットコンピューティングワーカーと AEM 処理プロファイルの統合](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/cloud-service/asset-compute/deploy/processing-profiles.html) | ビデオ | AEM as a Cloud Service は、AEM Assets 処理プロファイルによって Adobe I/O Runtime にデプロイされた Asset Compute ワーカーと統合されています。処理プロファイルは、カスタムワーカーを使用して特定のアセットを処理するために Author サービスで設定され、アセットレンディションとしてワーカーによって生成されたファイルを格納します。 |
 | 2020 年 9 月 26 日 | [Adobe I/O Runtime へのデプロイのチュートリアル](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/cloud-service/asset-compute/deploy/runtime.html) | ビデオ | Asset Compute プロジェクトおよびそれに含まれるワーカーは、AEM as a Cloud Service で使用するために、Adobe I/O Runtime にデプロイされる必要があります。 |
-| 2020 年 9 月 26 日 | [Asset Compute ワーカーのデバッグ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/asset-compute/test-debug/debug.html) | 記事 | Asset Compute ワーカーは、シンプルなデバッグログステートメント、リモートデバッガーとして添付された VS Code、AEM as a Cloud Service から開始された Adobe I/O Runtime でのアクティベーションログのプルなど、複数の方法でデバッグできます。 |
+| 2020 年 9 月 26 日 | [Asset Compute ワーカーのデバッグ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/asset-compute/test-debug/debug.html?lang=ja#asset-compute) | 記事 | Asset Compute ワーカーは、シンプルなデバッグログステートメント、リモートデバッガーとして添付された VS Code、AEM as a Cloud Service から開始された Adobe I/O Runtime でのアクティベーションログのプルなど、複数の方法でデバッグできます。 |
 | 2020 年 9 月 26 日 | [Asset Compute 開発ツールの使用](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/cloud-service/asset-compute/develop/development-tool.html) | 記事 | Asset Compute 開発ツールは、Adobe I/O Runtime の Asset Compute リソースに対する AEM SDK のコンテキストから外れて、開発者が Asset Computer ワーカーをローカルで設定および実行できる、ローカル Web ハーネスです。 |
 | 2020 年 9 月 28 日 | [Asset Compute ワーカーの開発](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/cloud-service/asset-compute/develop/worker.html) | 記事 | Asset Compute ワーカーは、Asset Compute アプリケーションの中心で、新しいレンディションを作成するためにアセットで実行されたワークを実行または編成するカスタム機能を提供します。 |
 | 2020 年 9 月 26 日 | [manifest.yml の設定](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/cloud-service/asset-compute/develop/manifest.html) | 記事 | Asset Compute プロジェクトの manifest.yml には、このアプリケーションでデプロイされるすべてのワーカーが記述されています。 |
@@ -471,11 +471,11 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 ### [!DNL Advertising Cloud DSP] の新機能 {#adcloud-dsp}
 
-更新：2020 年 10 月 29 日
+更新日：2020 年 10 月 29 日
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| 新規ヘルプ | （10 月 29 日のリリース）レガシーのヘルプは更新されたページに置き換えられました。ページは DSP のメインメニューの「ヘルプ」リンクから利用でき、[https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) でいつでも利用できます。 |
+| 新規ヘルプ | （10 月 29 日のリリース）レガシーのヘルプは更新されたページに置き換えられました。ページは DSP のメインメニューの「ヘルプ」リンクから利用でき、[https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=ja](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=ja) でいつでも利用できます。 |
 | キャンペーン | （10 月 29 日のリリース）以前の Campaign ベータ版のビューがデフォルトの Campaign ビューになり、より迅速なインサイト、簡素化されたワークフロー、カスタマイズされたビューを実現しました。 |
 | プライベート在庫 | （10 月 16 日のリリース）すべてのユーザーが、新しい Deal ID フォームを使用して、Deal ID の詳細を設定および編集できるようになりました。これは、従来の [!UICONTROL Smart Ad Serving] フォームをシンプルにしたバージョンです。新しい Deal ID の詳細を設定するには、**[!UICONTROL Inventory／Deals]** に移動し、「**[!UICONTROL Create]**」をクリックしてから、「**[!UICONTROL Deal ID Beta]**」をクリックします。 |
 | プレースメントの予測 | （10 月 15 日のリリース）プレースメントレベルのペーシングを使用したプレースメントの場合、プレースメント設定の「[!UICONTROL Forecast]」セクションには、新しい「[!UICONTROL Estimated Maximums]」セクションが含まれます。このセクションは、現在のターゲット設定でどれくらい多くの容量が使用できるかを示します。 |
@@ -547,6 +547,6 @@ Adobe Document Cloud のリリース情報およびヘルプリソースです�
 
 Document Cloud ヘルプについては、以下を参照してください。
 
-* [Adobe Acrobat ラーニングハブ](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html?lang=en)
-* [Adobe Sign ラーニングハブ](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html?lang=en)
+* [Adobe Acrobat ラーニングハブ](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html?lang=ja-JP)
+* [Adobe Sign ラーニングハブ](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html?lang=ja-JP)
 * [Document Cloud ラーニングとサポート](https://helpx.adobe.com/jp/support/document-cloud.html)
