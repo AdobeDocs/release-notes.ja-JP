@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: November 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d52b26253abaf781eade05e8925943c6b605ae60
+source-git-commit: 3f1afc6a9c158b461be3ded3bac935bcfac11066
 workflow-type: tm+mt
 source-wordcount: '9838'
 ht-degree: 85%
@@ -27,13 +27,13 @@ ht-degree: 85%
 >
 >[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。
 
-最終更新日：**2020 年 12 月 2 日**
+最終更新日：**2020 年 12 月 8 日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud サービスと管理](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)（更新日&#x200B;**2020 年 12 月 2 日**）
+* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)（更新日&#x200B;**2020 年 12 月 8 日**）
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)（更新日：**2020 年 10 月 29 日**）
 * [Campaign](#ac)
@@ -122,7 +122,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 リリース日：**2020 年 10 月 30 日**
 
 * [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey)（更新日 2020 年 12 月 2 日）
+* [Customer Journey Analytics の新機能](#cust-journey)（更新日 2020 年 12 月 8 日）
 * [Media Analytics の新機能](#media-aa)
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
@@ -149,7 +149,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | Analysis Workspace パフォーマンスヘルプページ | 2020 年 10 月 23 日 | Analysis Workspace パフォーマンスヘルプページには、プロジェクトのパフォーマンスに影響を与える様々な要因と最適化のためのヒントへのリンクが示されています。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL 滞在時間]指標およびディメンション | 2020 年 10 月 31 日 | [!UICONTROL 滞在時間]指標とディメンションを使用すると、カスタマージャーニーの様々な側面に消費者が滞在した時間を確認し、チャネルをまたいだエンゲージメントやボトルネックをより完全に表示できます。 |
 | [!UICONTROL デバイス]および[!UICONTROL 地理的]ディメンション | 2020 年 10 月 31 日 | [!UICONTROL デバイス]および[!UICONTROL 地理的]ディメンションは、[Adobe Analytics ソースコネクタ](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html)の「グローバルルックアップのサポート」プロジェクトの一部として、デフォルトで使用できるようになりました。この多くの要望をいただいた追加により、[Adobe Analytics と CJA の間のパリティ](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-overview/cja-aa.html)が増加しました。 |
-| Journey IQ：クロスチャネル分析 | 2020 年 12 月 12 日 | Journey IQ：クロスチャネル分析を使用すれば、Adobe Experience Platform データレーク内の Adobe Analytics（または他の）イベントデータセットを、ある ID 名前空間から別の ID 名前空間へと再入力できます。通常、これは、cookie ベースの ID から人物ベースの ID にイベントデータセットを再入力することを意味します。これにより、再入力されたデータセットを CJA 接続の他の人物ベースのデータと組み合わせることができ、Analysis Workspace でのクロスチャネル／クロスデバイス分析が可能になります。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=ja-JP#cja-connections) |
+| Journey IQ：クロスチャネル分析 | 2021年1月11日 | Journey IQ：クロスチャネル分析を使用すれば、Adobe Experience Platform データレーク内の Adobe Analytics（または他の）イベントデータセットを、ある ID 名前空間から別の ID 名前空間へと再入力できます。通常、これは、cookie ベースの ID から人物ベースの ID にイベントデータセットを再入力することを意味します。これにより、再入力されたデータセットを CJA 接続の他の人物ベースのデータと組み合わせることができ、Analysis Workspace でのクロスチャネル／クロスデバイス分析が可能になります。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=ja-JP#cja-connections) |
 
 ### [!UICONTROL Media Analytics] の新機能 {#media-aa}
 
