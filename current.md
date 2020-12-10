@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 3f1afc6a9c158b461be3ded3bac935bcfac11066
 workflow-type: tm+mt
 source-wordcount: '9838'
-ht-degree: 85%
+ht-degree: 99%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 85%
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/ja-JP/primetime/release-notes/home.html)
 * [Document Cloud](#doc-cloud)
 
-サポートが必要な場合は、[Adobe Experience League](https://experienceleague.adobe.com/?lang=ja#home) にアクセスし、製品および技術ドキュメント、アドビが運営するコース、ビデオチュートリアル、すばやい回答、コミュニティインサイト、講師によるトレーニングをお探しください。
+サポートが必要な場合は、[Adobe Experience League](https://experienceleague.adobe.com/?lang=ja-JP#home) にアクセスし、製品および技術ドキュメント、アドビが運営するコース、ビデオチュートリアル、すばやい回答、コミュニティインサイト、講師によるトレーニングをお探しください。
 
 >[!NOTE]
 >
@@ -66,16 +66,16 @@ ht-degree: 85%
 
 最新のリリース情報について詳しくは、「[Experience Cloud サービスに関するこれまでのリリースノート](https://docs.adobe.com/content/help/ja-JP/core-services/interface/release-notes/release-notes.html)」を参照してください。
 
-### Experience Cloudチュートリアル
+### Experience Cloud チュートリアル
 
-Updated: **December 2, 2020**
+更新日：**2020 年 12 月 3 日**
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 11 月 5 日 | [DDOMで解読されたインサイト](https://experienceleague.adobe.com/docs/csuite/using/ddom-insights.html) | ビデオ | DDOMのインサイトの一部については、Adobeが独自のバージョンのDDOMの設定に関する考慮事項の一部を明らかにし、その詳細を説明しています。 |
-| 2020 年 11 月 5 日 | [DDOMの3本の柱](https://experienceleague.adobe.com/docs/csuite/using/ddom-components.html) | ビデオ | Adobeがデータ、KPI、プロセス、組織を活用して顧客の遍歴を把握する方法を学びます。 |
-| 2020 年 11 月 5 日 | [Adobeのデジタル変換物語 ](https://experienceleague.adobe.com/docs/csuite/using/transformation-story.html) | ビデオ | 顧客中心のチャネルエクスペリエンスを推進するAdobeのデジタル変換でDDOMが果たした役割について詳しく説明します。 |
-| 2020 年 11 月 5 日 | [データ駆動型オペレーティングモデルの概要](https://experienceleague.adobe.com/docs/csuite/using/ddom-introduction.html) | ビデオ | お客様の遍歴をより深く理解するための、Adobeのデータ駆動型オペレーティングモデルの概要を示します。 |
+| 2020 年 11 月 5 日 | [DDOM で明らかになったインサイト](https://experienceleague.adobe.com/docs/csuite/using/ddom-insights.html?lang=ja-JP) | ビデオ | アドビによって明らかになった一部の DDOM のインサイトを紹介し、独自のバージョンの DDOM の設定に関するいくつかの考慮事項について説明します。 |
+| 2020 年 11 月 5 日 | [DDOM の三本柱](https://experienceleague.adobe.com/docs/csuite/using/ddom-components.html?lang=ja-JP) | ビデオ | アドビがデータ、KPI、プロセス、組織を活用してカスタマージャーニーに関する連携を図ります。 |
+| 2020 年 11 月 5 日 | [アドビのデジタル変換事例 ](https://experienceleague.adobe.com/docs/csuite/using/transformation-story.html?lang=ja-JP) | ビデオ | 顧客中心のチャネルエクスペリエンスを推進するアドビのデジタル変革において、DDOM が果たした役割について詳しく説明します。 |
+| 2020 年 11 月 5 日 | [データ駆動型運用モデルの概要](https://experienceleague.adobe.com/docs/csuite/using/ddom-introduction.html?lang=ja-JP) | ビデオ | カスタマージャーニーをより深く理解するための、アドビのデータ駆動型運用モデルの概要を示します。 |
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
@@ -98,11 +98,11 @@ Platform Launch について詳しくは、[Experience Platform Launch リリー
 
 Experience Platform およびサービス用に公開された新しいビデオ、チュートリアル、またはコース。
 
-Updated: **December 2, 2020**
+更新日：**2020 年 12 月 3 日**
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 23 月 11 日 | [ファイルベースのCloudストレージまたは電子メールマーケティングの宛先の設定](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html?lang=en#destinations) | ビデオ | AdobeのReal-time CDPでのファイルベースの宛先の構成に関するチュートリアルの中で、ヒントを得ることができます。 これは、クラウドストレージの宛先（S3やSFTPなど）および電子メールマーケティングの宛先にも当てはまります。 |
+| 2020 年 11 月 24 日 | [ファイルベースのクラウドストレージまたは電子メールマーケティングの宛先の設定](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html?lang=ja-JP#destinations) | ビデオ | アドビのリアルタイム CDP におけるファイルベースの宛先の構成に関するチュートリアルで、ヒントを学びます。ここで学んだヒントは、クラウドストレージの宛先（S3 や SFTP など）および電子メールマーケティングの宛先にも当てはまります。 |
 | 2020 年 10 月 27 日  | [Offer Decisioning の紹介](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html?lang=ja-JP) | ビデオ | このビデオでは、Adobe Experience Platform 上に構築されたアプリケーションサービス、[!UICONTROL Offer Decisioning] の概要を説明します。このビデオでは、[!UICONTROL Offer Decisioning] が解決するビジネス上の課題、その主な機能、基本的なアーキテクチャ、主な使用例について説明します。 |
 | 2020 年 10 月 30 日 | [Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/demo-of-offer-decisioning.html?lang=ja-JP) | ビデオ | 企業がアドビの [!UICONTROL Offer Decisioning] サービスを使用して、オファーを定義および管理、リアルタイム顧客データを活用、顧客が期待する適切なエクスペリエンスを提供する方法を説明します。 |
 | 2020 年 9 月 15 日 | [Attribution AI のビジネス価値](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/intelligent-services/business-value-of-attribution-ai.html) | ビデオ | [!UICONTROL Attribution AI] は、[!UICONTROL インテリジェントサービス]の一部で、顧客とのやり取りの影響と増分的な効果を指定した成果に照らして計算する、マルチチャネルのアルゴリズムアトリビューションサービスです。[!UICONTROL Attribution AI] を使用すると、マーケターは、カスタマージャーニーの各段階における個々の顧客インタラクションの影響を把握することで、マーケティング費用と広告費用を測定し、最適化できます。 |
@@ -133,7 +133,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ------- |
-| Adobe Analytics ドキュメント | 2020 年 11 月 11 日 | Adobe Analytics ドキュメントは Experience League に移行しました。11 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から `experienceleague.adobe.com` に移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。すべてのリンクが Experience League にリダイレクトされました。 |
+| Adobe Analytics ドキュメント | 2020 年 11 月 12 日 | Adobe Analytics ドキュメントは Experience League に移行しました。11 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から `experienceleague.adobe.com` に移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。すべてのリンクが Experience League にリダイレクトされました。 |
 | [!UICONTROL Workspace] [!UICONTROL 折れ線グラフ]のビジュアライゼーション：移動平均トレンドラインオプション | 2020 年 10 月 9 日 | [!UICONTROL 折れ線グラフ]のビジュアライゼーションのトレンドライン設定に移動平均が追加されました。移動平均は、ローリング平均とも呼ばれ、特定数のデータポイント（「[!UICONTROL 期間]」セクションで決定される）を使用して、それらを平均し、その平均値を折れ線グラフのポイントとして使用します。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | [!UICONTROL データ修復] API | 2020 年 10 月 9 日 | [!UICONTROL データ修復] API は、Analytics レポートスイートからデータを削除するためのツールです。10 月リリースには、指定した日付範囲の指定した eVar、prop および [!UICONTROL Activity Map] 変数を削除する機能が含まれています。今後、追加機能がリリースされる予定です。[!UICONTROL データ修復] API を使用すると、既存の Adobe Analytics データが完全に削除されます。誤って削除することを防ぐために、修復の実行は慎重におこなうことをお勧めします。[!UICONTROL データ修復] API へのアクセスには、契約が必要です。詳しくは、アカウントチームにお問い合わせください。[詳細情報](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/data-repair.md) |
 | [!UICONTROL Workspace]：パフォーマンスヘルプページ | 2020 年 10 月 23 日 | [!UICONTROL Analysis Workspace] パフォーマンスヘルプページには、プロジェクトのパフォーマンスに影響を与える様々な要因と最適化のためのヒントへのリンクが示されています。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
@@ -143,7 +143,7 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
-| Customer Journey Analyticsドキュメント | 2020 年 11 月 11 日 | Customer Journey Analytics ドキュメントは Experience League に移行しました。11 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から `experienceleague.adobe.com` に移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。すべてのリンクが Experience League にリダイレクトされました。 |
+| Customer Journey Analyticsドキュメント | 2020 年 11 月 12 日 | Customer Journey Analytics ドキュメントは Experience League に移行しました。11 月中には、すべてのリリースノート、記事、ビデオおよびチュートリアルが、現在の場所（`docs.adobe.com`）から `experienceleague.adobe.com` に移行します。この移行により、すべてのラーニング、セルフヘルプ、イネーブルメント、コミュニティに関するコンテンツが 1 か所で提供されるようになります。すべてのリンクが Experience League にリダイレクトされました。 |
 | [!UICONTROL 折れ線グラフ]のビジュアライゼーション：移動平均トレンドラインオプション | 2020 年 10 月 9 日 | 折れ線グラフのビジュアライゼーションのトレンドライン設定に移動平均が追加されました。移動平均は、指定した前の期間の平均を計算し、それをトレンドラインのデータポイントとして使用して、次の期間に移動します。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | バックフィル制限の削除 | 2020 年 10 月 20 日 | CJA エクスペリエンスを向上させるために、バックフィル（履歴データの読み込み）に関する制限をなくしました。以前は、ユーザー自身でバックフィルできるのは最大 25 億行までで、それ以上バックフィルするには、エンジニアリングチームの関与が必要でした。現在は、ユーザー自身で無制限にデータをバックフィルできます。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Analysis Workspace パフォーマンスヘルプページ | 2020 年 10 月 23 日 | Analysis Workspace パフォーマンスヘルプページには、プロジェクトのパフォーマンスに影響を与える様々な要因と最適化のためのヒントへのリンクが示されています。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
@@ -190,7 +190,7 @@ AppMeasurement リリースの最新の更新については、[AppMeasurement f
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 10 月 11 日 | [バルク管理(BAAM)の概要](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.html?lang=en#build-and-manage-audiences) | ビデオ | 特性とセグメントの一括管理ツールである「BAAM」について説明します。このツールには、使用の準備のための設定方法などが含まれます。 |
+| 2020 年 11 月 11 日 | [一括管理（BAAM）の概要](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | Audience Manager での特性とセグメントの一括管理ツールである「BAAM」について説明します。このツールには、使用を準備するための設定方法などが含まれます。 |
 | 2020 年 10 月 9 日 | [フリーフォームテーブル、分析の基盤](https://video.tv.adobe.com/v/41766?captions=jpn) | ビデオ | このコースを開始する前に、何を知るべきか、および学習内容について説明します。 |
 | 2020 年 10 月 6 日 | [Analysis Workspace でのパーティシペーション指標の使用](https://docs.adobe.com/content/help/ja-JP/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.html) | ビデオ | この単純なトリックを使用して、[!UICONTROL Analysis Workspace] でいつでもパーティシペーション指標を取得できます。 |
 | 2020 年 10 月 6 日 | [Analysis Workspace の自動作成フリーフォームテーブル](https://docs.adobe.com/content/help/ja-JP/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.html) | ビデオ | 空のプロジェクトパネルまたはフリーフォームテーブルにコンポーネントを直接ドロップできます。テーブルは推奨される形式で自動的に作成されます。 |
@@ -225,13 +225,13 @@ Audience Manager の新機能、修正点、ドキュメントおよびチュー
 
 新しく公開された Audience Manager ビデオ、チュートリアル、コース。
 
-Updated **December 2, 2020**
+更新日：**2020 年 12 月 3 日**
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 25 月 11 日 | [特性とセグメントでのトレンドレポートの使用](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-trended-reports-with-traits-and-segments.html?lang=en#reports) | ビデオ | Audience Managerのトレンドレポートを使用して、特性とセグメントの経時的なパフォーマンスを確認する方法を説明します。 |
-| 2020 年 25 月 11 日 | [特性とセグメントを伴う一般レポートの使用](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-general-reports-with-traits-and-segments.html?lang=en#reports) | ビデオ | このビデオでは、特性とセグメントの数値を取得するAudience Managerの一般的なレポートの使用方法を参照してください。 |
-| 2020 年 11 月 3 日 | [予測オーディエンスの設定とレポート](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=en#build-and-manage-audiences) | ビデオ | このビデオでは、Audience Managerインターフェイスの予測オーディエンスの設定について説明します。 モデルの結果を示すレポートも表示されます。 |
+| 2020 年 11 月 26 日 | [特性とセグメントを用いたトレンドレポートの使用](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-trended-reports-with-traits-and-segments.html?lang=ja-JP#reports) | ビデオ | Audience Manager でトレンドレポートを使用して、特性とセグメントの経時的なパフォーマンスを確認する方法を説明します。 |
+| 2020 年 11 月 26 日 | [特性とセグメントを用いた一般レポートの使用](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-general-reports-with-traits-and-segments.html?lang=ja-JP#reports) | ビデオ | このビデオでは、特性とセグメントの数値を取得する、Audience Manager の一般的なレポートの使用方法を参照してください。 |
+| 2020 年 11 月 3 日 | [予測オーディエンスの設定とレポート](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | このビデオでは、Audience Manager インターフェイスの Predictive Audiences 設定について説明します。また、モデルの結果を示すレポートについて確認します。 |
 | 2020 年 10 月 29 日 | [特性グラフの数値について](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | 特性情報画面の特性について、報告される数値を理解するためのヒントをいくつか紹介します。 |
 | 2020 年 10 月 24 日 | [Analytics データからの特性作成の計画](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | Audience Manager の特性で Adobe Analytics データの使用を計画する際に役立つヒントとテクニックを紹介します。 |
 | 2020 年 10 月 24 日 | [特性を作成する際のデータソースの選択](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | 特性の作成時に入力する重要なフィールドの 1 つは、「データソース」フィールドです。ルールベースの特性とオンボードされた特性に適したデータソースの選択に関するヒントを紹介します。 |
@@ -374,32 +374,32 @@ Adobe Experience Manager のリリースロードマップ、リリースの更�
 
 ### 新しい Experience Manager コースとチュートリアル
 
-Updated: **December 2, 2020**
+更新日：**2020 年 12 月 3 日**
 
 以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020年12月2日 | [コンテンツフラグメントのダウンロード](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html) | ビデオ | コンテンツフラグメントのダウンロード機能に関する概要ビデオを紹介します。 |
-| 2020年12月2日 | [コンテンツフラグメント編集機能](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html) | ビデオ | コンテンツフラグメントエディターの高度な機能に関する概要ビデオです。 注釈を使用する方法と、コンテンツフラグメントとのバージョン比較を使用する方法について説明します。 |
-| 2020 年 9 月 11 日 | [ローカルのAEMサーバーにアセットをデプロイします](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/deploy-this-sample.html?lang=en#store-and-retrieve-af-with-2fa) | ビデオ | データベースを作成し、カスタムOSGiバンドルをデプロイし、様々なクライアント側のアーティファクトをインポートして、ローカルのAEMインスタンスで実行するユースケースを取得します。 |
-| 2020 年 11 月 3 日 | [MyApplicationフォームの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-the-myaccount-form.html?lang=en#store-and-retrieve-af-with-2fa) | 記事 | MyApplicationフォームを作成します。 このフォームは、部分的に完成したアダプティブフォームを取得しようとする人の一意の申し込みIDと電話番号を確認するために使用されます。 |
-| 2020 年 10 月 11 日 | [管理者向けAEMへのアクセスの設定](https://experienceleague.adobe.com/?recommended=ExperienceManager-A-1-2020.1.aem) | コース | Adobe IMS を使用して AEM as a Cloud Service に認証する方法、および AEM とその機能へのアクセスを制御するために Adobe IMS ユーザー、 ユーザーグループ、 製品プロファイルを使用する方法を確認します。 |
-| 2020 年 11 月 11 日 | [フォームに関連付けるクライアントライブラリの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-client-lib.html?lang=en#store-and-retrieve-af-with-2fa) | 記事 | 2つのライブラリを作成する方法を説明します。1つ目は、ダイアログボックス `bootbox.js` を表示するためのを含めるためです。 「 [!UICONTROL 保存して終了」ボタンのクリックイベントを処理するクライアントライブラリ]。 |
-| 2020 年 11 月 11 日 | [データモデル統合を使用した通信サービスプロバイダーとの統合の作成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/verify-users-with-otp.html?lang=en#store-and-retrieve-af-with-2fa) | 記事 | REST APIを記述するSwaggerファイルを定義し、データソースを作成し、フォームデータモデルを作成することで、AEM FormsをNexmo REST APIと統合します。 |
-| 2020 年 11 月 11 日 | [サーブレットを作成し、保存されたデータでフォームをレンダリング](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/retrieve-saved-form.html?lang=en#store-and-retrieve-af-with-2fa) | ビデオ | このサーブレットは、電話番号の検証に成功すると呼び出されます。 |
-| 2020 年 11 月 3 日 | [StoreAFWithAttachmentsフォームの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-the-main-adaptive-form.html?lang=en#store-and-retrieve-af-with-2fa) | 記事 | StoreAFWithAttachmentsフォームを作成します。 これは、添付ファイルを追加する機能を持つ電話番号など、ユーザーの情報を取り込むメインの申込フォームです。 |
-| 2020 年 11 月 3 日 | [Adobe Experience ManagerとAdobe Analyticsを統合してページデータを収集](https://video.tv.adobe.com/v/327293?captions=jpn) | ビデオ | このコースでは、Adobe AnalyticsとAdobe Experience Manager Sitesを統合し、クライアントデータレイヤーを使用してページデータを収集し、Adobe Analytics内でAnalysis Workspaceプロジェクトを作成して、ページ上でのユーザの行動を理解する方法を順を追って説明します。 |
-| 2020 年 11 月 11 日 | [MySQLデータベーステーブルとAEMデータソースの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/configure-data-source.html?lang=en#store-and-retrieve-af-with-2fa) | 記事 | 適切な列と、このデータベースを指すApache Sling接続プール済みデータソースを持つMySQLデータベーステーブルを作成します。 |
-| 2020 年 11 月 11 日 | [POST呼び出しを処理するサーブレットを作成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-servlet.html?lang=en#store-and-retrieve-af-with-2fa) | 記事 | POST要求を受け入れるためのRESTエンドポイントを拡張 `SlingAllMethodsServlet` して公開することで、AEMでサーブレットを作成します。 |
-| 2020 年 11 月 11 日 | [新しい添付ファイルマップにフォームデータを保存する](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/store-form-data.html?lang=en#store-and-retrieve-af-with-2fa) | 記事 | 一意のGUIDで識別されるデータベースに新しい行を挿入します。 |
-| 2020 年 11 月 11 日 | [CRXの新しい場所にフォームの添付ファイルを保存する](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/store-form-attachments.html?lang=en#store-and-retrieve-af-with-2fa) | 記事 | フォームの添付ファイルのデフォルトの場所は、一定期間後に削除される一時フォルダーにあります。 |
-| 2020 年 11 月 5 日 | [Asset computeメタデータレンディション](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/advanced/metadata.html) | チュートリアル | メタデ追加ータレンディションの生成について取り上げる、Asset computeチュートリアルの高度な章です。 |
-| 2020 年 10 月 22 日 | [フォーム添付ファイルのアセンブリ](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/document-services/assemble-form-attachments.html) | ビデオ | フォーム添付ファイルを1つのPDFに特定の順序でアセンブリします。 |
-| 2020 年 9 月 11 日 | [追加WKNDアセットデモからデモUtil](http://bit.ly/demoAEM) | デモ | Demo Utilsのカ追加ードとしてのWKND Asset Demoは、存在/可用性/インストールの指示を促進します。 |
-| 2020 年 11 月 3 日 | [コンテンツフラグメントの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html) | ビデオ | Adobe Experience Manager(AEM)アセットでのコンテンツフラグメントの作成に関する概要ビデオです。 |
-| 2020 年 11 月 3 日 | [サイトページでのコンテンツフラグメントの使用](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-delivery-feature-video-use.html) | ビデオ | AEM Sitesのページでコンテンツフラグメントを使用する方法を説明します。 コンテンツフラグメントコンポーネントは、AEMスタイルシステムを使用してスタイル設定し、必要に応じてコンテンツを表示することができます。 |
-| 2020 年 11 月 3 日 | [スタイルシステム](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/style-system-feature-video-use.html) | ビデオ | We.Retailリストコンポーネントを使用して、AEM 6.4用のスタイルシステムビデオを作成します。 |
+| 2020 年 12 月 3 日 | [コンテンツフラグメントのダウンロード](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=ja-JP) | ビデオ | コンテンツフラグメントのダウンロード機能に関する概要ビデオです。 |
+| 2020 年 12 月 3 日 | [コンテンツフラグメントの編集機能](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=ja-JP) | ビデオ | コンテンツフラグメントエディターの高度な機能に関する概要ビデオです。コンテンツフラグメントで注釈とバージョン比較を使用する方法について説明します。 |
+| 2020 年 11 月 10 日 | [ローカルの AEM サーバーにアセットをデプロイ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/deploy-this-sample.html?lang=ja-JP#store-and-retrieve-af-with-2fa) | ビデオ | データベースを作成、カスタム OSGi バンドルをデプロイし、様々なクライアント側のアーティファクトをインポートして、ローカルの AEM インスタンスで実行するユースケースを取得します。 |
+| 2020 年 11 月 3 日 | [MyApplication フォームの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-the-myaccount-form.html?lang=ja-JP#store-and-retrieve-af-with-2fa) | 記事 | MyApplication フォームを作成します。このフォームは、一部が入力されたアダプティブフォームを取得しようとする人の、一意の申し込み ID と電話番号を確認するために使用されます。 |
+| 2020 年 11 月 11 日 | [管理者向け AEM へのアクセスの設定](https://experienceleague.adobe.com/?recommended=ExperienceManager-A-1-2020.1.aem&amp;lang=ja-JP) | コース | Adobe IMS を使用して AEM as a Cloud Service に認証する方法、および AEM とその機能へのアクセスを制御するために Adobe IMS ユーザー、 ユーザーグループ、 製品プロファイルを使用する方法を確認します。 |
+| 2020 年 11 月 12 日 | [フォームに関連付けるクライアントライブラリの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-client-lib.html?lang=ja-JP#store-and-retrieve-af-with-2fa) | 記事 | 2 つのライブラリを作成する方法を説明します。1 つ目は、`bootbox.js` を含めてダイアログボックスを表示するライブラリです。もう 1 つは[!UICONTROL 「保存して終了」ボタン]のクリックイベントを処理するクライアントライブラリです。 |
+| 2020 年 11 月 12 日 | [データモデル統合を使用した通信サービスプロバイダーとの統合の作成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/verify-users-with-otp.html?lang=ja-JP#store-and-retrieve-af-with-2fa) | 記事 | REST API を記述する Swagger ファイルを定義、データソースおよびフォームデータモデルを作成することで、AEM Forms を Nexmo REST API と統合します。 |
+| 2020 年 11 月 12 日 | [サーブレットを作成し、保存されたデータでフォームをレンダリング](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/retrieve-saved-form.html?lang=ja-JP#store-and-retrieve-af-with-2fa) | ビデオ | このサーブレットは、電話番号の検証に成功すると呼び出されます。 |
+| 2020 年 11 月 3 日 | [StoreAFWithAttachments フォームの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-the-main-adaptive-form.html?lang=ja-JP#store-and-retrieve-af-with-2fa) | 記事 | StoreAFWithAttachments フォームを作成します。これは、添付ファイルを追加できる電話番号など、ユーザーの情報を取り込むメインのアプリケーションフォームです。 |
+| 2020 年 11 月 3 日 | [Adobe Experience Manager と Adobe Analytics を統合してページデータを収集](https://video.tv.adobe.com/v/327293?captions=jpn) | ビデオ | このコースでは、Adobe Analytics と Adobe Experience Manager Sites を統合し、クライアントデータレイヤーを使用してページデータを収集した後、Adobe Analytics 内で Analysis Workspace プロジェクトを作成して、ページ上でのユーザーの行動を理解する方法を順を追って説明します。 |
+| 2020 年 11 月 12 日 | [MySQL データベーステーブルと AEM データソースを作成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/configure-data-source.html?lang=ja-JP#store-and-retrieve-af-with-2fa) | 記事 | 適切な列と、このデータベースを指す Apache Sling 接続プール済みデータソースを使用した MySQL データベーステーブルを作成します。 |
+| 2020 年 11 月 12 日 | [POST 呼び出しを処理するサーブレットを作成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-servlet.html?lang=ja-JP#store-and-retrieve-af-with-2fa) | 記事 | `SlingAllMethodsServlet` を拡張して AEM でサーブレットを作成し、POST 要求を受け入れるための REST エンドポイントを後悔します。 |
+| 2020 年 11 月 12 日 | [新しい添付ファイルマップを使用してフォームデータを保存](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/store-form-data.html?lang=ja-JP#store-and-retrieve-af-with-2fa) | 記事 | 一意の GUID で識別されるデータベースに新しい行を挿入します。 |
+| 2020 年 11 月 12 日 | [CRX の新しい場所にフォームの添付ファイルを保存する](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/store-form-attachments.html?lang=ja-JP#store-and-retrieve-af-with-2fa) | 記事 | フォームの添付ファイルのデフォルトの場所は、一定期間後に削除される一時フォルダーにあります。 |
+| 2020 年 11 月 5 日 | [Asset Compute メタデータレンディション](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/cloud-service/asset-compute/advanced/metadata.html) | チュートリアル | メタデータレンディションの生成について取り上げる、Asset Compute チュートリアルの高度な章を追加します。 |
+| 2020 年 10 月 22 日 | [フォーム添付ファイルのアセンブリ](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/document-services/assemble-form-attachments.html) | ビデオ | フォーム添付ファイルを、特定の順序で 1 つの PDF に組み合わせます。 |
+| 2020 年 11 月 10 日 | [WKND アセットデモを Demo Util に追加](http://bit.ly/demoAEM) | デモ | 存在/可用性/インストール手順を促進する Demo Utils に、WKND Asset Demo をカードとして追加します。 |
+| 2020 年 11 月 3 日 | [コンテンツフラグメントの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=ja-JP) | ビデオ | Adobe Experience Manager（AEM）アセットでのコンテンツフラグメントの作成に関する概要ビデオです。 |
+| 2020 年 11 月 3 日 | [サイトページでのコンテンツフラグメントの使用](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-delivery-feature-video-use.html#content-fragments&amp;lang=ja-JP) | ビデオ | AEM Sites のページでコンテンツフラグメントを使用する方法について説明します。コンテンツフラグメントコンポーネントは、AEM のスタイルシステムを使用してスタイルを設定し、必要に応じてコンテンツを表示することができます。 |
+| 2020 年 11 月 3 日 | [スタイルシステム](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/style-system-feature-video-use.html&amp;lang=ja-JP) | ビデオ | We.Retail リストコンポーネントを使用して、AEM 6.4 用のスタイルシステムビデオを作成します。 |
 | 2020 年 11 月 3 日 | [Target 呼び出しの読み込みと実行](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/sites/integrations/target/load-and-fire-target.html) | ビデオ | Launch ルールを使用して、ページリクエストにパラメーターを読み込み、渡し、サイトページから Target 呼び出しを実行する方法について説明します。ページ情報を取得し、パラメーターとして渡すには、Adobe クライアントデータレイヤーを使用します。このレイヤーを使用すると、Web ページ上での訪問者のエクスペリエンスに関するデータを収集して保存し、このデータに簡単にアクセスできます。 |
 | 2020 年 10 月 29 日 | [ビデオスマートタグ](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/assets/metadata/video-smart-tags.html) | ビデオ | Experience Manager アセットは Adobe Sensei を搭載し、ビデオの主な要素を説明するキーワードを使用してビデオアセットにインテリジェントにタグ付けし、AEM ユーザーがキーワード検索を使用してビデオアセットを簡単に見つけられるようにします。 |
 | 2020 年 10 月 28 日 | [Microsoft Office 用 AEM ドキュメントセキュリティ拡張機能の紹介](https://docs.adobe.com/content/help/ja-JP/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | 記事 | Microsoft Office 用 Adobe Experience Manager ドキュメントセキュリティ拡張機能では、知的財産を含む Word、Excel、および PowerPoint ファイルを、許可したユーザーのみが使用できるようにすることができます。Microsoft Office 用 AEM ドキュメントセキュリティ拡張機能を使用することにより、事前定義済みの機密設定をファイルに適用できます。 |
@@ -410,11 +410,11 @@ Updated: **December 2, 2020**
 | 2020 年 10 月 9 日 | [エクスペリエンスフラグメントを Adobe Target に書き出す](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/sites/integrations/target/export-experience-fragment-target.html) | ビデオ | AEM エクスペリエンスフラグメントを Adobe Target オファーとして書き出す方法について説明します。 |
 | 2020 年 10 月 6 日 | [フォームデータモデル変数を使用してデータベースに行を挿入](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/variables-aem-workflow/form-data-model.html) | ビデオ | タイプフォームデータモデルの変数は、通常、フォームデータモデルの基になるデータソースで行を挿入するために使用されます。このビデオでは、AEM ワークフローを使用して、データベースの行を挿入するのに必要な手順を説明します。 |
 | 2020 年 9 月 29 日 | [SMS を使用した 2 要素認証](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/some-useful-integrations/two-factor-authentication.html) | 記事 | アダプティブフォームで SMS を使用して OTP 検証を実行します。 |
-| 2020 年 9 月 29 日 | [アセット計算コース](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.1.asset.compute) | コース | このコースでは、AEM as a Cloud Service Asset Compute マイクロサービスの拡張方法について説明します。AEM as a Cloud Service Author サービスで使用するためのカスタム Asset Compute ワーカーをセットアップ、開発、テスト、デバッグ、デプロイする機能を使用できます。 |
+| 2020 年 9 月 29 日 | [アセット計算コース](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.1.asset.compute&amp;lang=ja-JP) | コース | このコースでは、AEM as a Cloud Service Asset Compute マイクロサービスの拡張方法について説明します。AEM as a Cloud Service Author サービスで使用するためのカスタム Asset Compute ワーカーをセットアップ、開発、テスト、デバッグ、デプロイする機能を使用できます。 |
 | 2020 年 9 月 24 日 | [Adobe Analytics を使用したクリックされたコンポーネントの追跡](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/sites/integrations/analytics/track-clicked-component.html) | 記事 | イベントドリブン型の Adobe クライアントデータレイヤーを使用して、Adobe Experience Manager のサイトでのページやユーザーのインタラクションに関するデータを収集します。Experience Platform Launch でルールを使用してこれらのイベントをリッスンし、データを Adobe Analytics のレポートスイートに送信する方法について説明します。 |
 | 2020 年 9 月 26 日 | [アセットコンピューティングワーカーと AEM 処理プロファイルの統合](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/cloud-service/asset-compute/deploy/processing-profiles.html) | ビデオ | AEM as a Cloud Service は、AEM Assets 処理プロファイルによって Adobe I/O Runtime にデプロイされた Asset Compute ワーカーと統合されています。処理プロファイルは、カスタムワーカーを使用して特定のアセットを処理するために Author サービスで設定され、アセットレンディションとしてワーカーによって生成されたファイルを格納します。 |
 | 2020 年 9 月 26 日 | [Adobe I/O Runtime へのデプロイのチュートリアル](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/cloud-service/asset-compute/deploy/runtime.html) | ビデオ | Asset Compute プロジェクトおよびそれに含まれるワーカーは、AEM as a Cloud Service で使用するために、Adobe I/O Runtime にデプロイされる必要があります。 |
-| 2020 年 9 月 26 日 | [Asset Compute ワーカーのデバッグ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/asset-compute/test-debug/debug.html?lang=ja#asset-compute) | 記事 | Asset Compute ワーカーは、シンプルなデバッグログステートメント、リモートデバッガーとして添付された VS Code、AEM as a Cloud Service から開始された Adobe I/O Runtime でのアクティベーションログのプルなど、複数の方法でデバッグできます。 |
+| 2020 年 9 月 26 日 | [Asset Compute ワーカーのデバッグ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/asset-compute/test-debug/debug.html?lang=ja-JP#asset-compute) | 記事 | Asset Compute ワーカーは、シンプルなデバッグログステートメント、リモートデバッガーとして添付された VS Code、AEM as a Cloud Service から開始された Adobe I/O Runtime でのアクティベーションログのプルなど、複数の方法でデバッグできます。 |
 | 2020 年 9 月 26 日 | [Asset Compute 開発ツールの使用](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/cloud-service/asset-compute/develop/development-tool.html) | 記事 | Asset Compute 開発ツールは、Adobe I/O Runtime の Asset Compute リソースに対する AEM SDK のコンテキストから外れて、開発者が Asset Computer ワーカーをローカルで設定および実行できる、ローカル Web ハーネスです。 |
 | 2020 年 9 月 28 日 | [Asset Compute ワーカーの開発](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/cloud-service/asset-compute/develop/worker.html) | 記事 | Asset Compute ワーカーは、Asset Compute アプリケーションの中心で、新しいレンディションを作成するためにアセットで実行されたワークを実行または編成するカスタム機能を提供します。 |
 | 2020 年 9 月 26 日 | [manifest.yml の設定](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/cloud-service/asset-compute/develop/manifest.html) | 記事 | Asset Compute プロジェクトの manifest.yml には、このアプリケーションでデプロイされるすべてのワーカーが記述されています。 |
@@ -430,13 +430,13 @@ Updated: **December 2, 2020**
 | 2020 年 10 月 9 日 | [Launch プロパティに Target 拡張機能を追加](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/sites/integrations/target/add-target-launch-extension.html) | ビデオ | Launch ルールを使用して、ページリクエストにパラメーターを読み込み、渡し、サイトページから Target 呼び出しを実行する方法について説明します。ページ情報を取得し、パラメーターとして渡すには、Adobe クライアントデータレイヤーを使用します。このレイヤーを使用すると、Web ページ上での訪問者のエクスペリエンスに関するデータを収集して保存し、このデータに簡単にアクセスできます。 |
 | 2020 年 10 月 8 日 | [Adobe Target Cloud Service アカウントの作成](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/sites/integrations/target/setup-aem-target-cloud-service.html) | ビデオ | Cloud Service と Adobe IMS 認証を使用して、Adobe Experience Manager as a Cloud Service と Adobe Target を統合する方法について説明します。 |
 | 2020 年 10 月 3 日 | [AEM と Adobe Target の概要](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/sites/integrations/target/overview.html) | ビデオ | AEM と Target は両方とも強力なソリューションで、機能は一見重複しているように思われます。顧客は、パーソナライズされたエクスペリエンスを提供するには、これらの製品をどのように、いつどのように組み合わせて使用すればよいかを理解するのに苦労する場合があります。各エンドユーザーに最適化されたエクスペリエンスを提供するには、社内の異なるチームが緊密に連携し、誰が何をおこなうかを定義する必要があります。 |
-| 2020 年 10 月 3 日 | [AEM Forms と Adobe Sign の統合](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.2.forms) | コース | Adobe Sign と AEM Forms は連携して、複雑なトランザクションを自動化し、シームレスなデジタルエクスペリエンスの一環として安全な法的電子サインを含めることができます。 |
-| 2020 年 10 月 7 日 | [印刷チャネル用のインタラクティブドキュメントの作成](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.5.forms) | コース | インタラクティブコミュニケーションを使用すると、業務上の書簡、ドキュメント、取引明細書、給付金通知、マーケティング用メール、請求書、ウェルカムキットなど、さまざまな通信記録の作成と配信を、カスタマイズされた安全な方法で一元的に管理することができます。このコースでは、インタラクティブコミュニケーションドキュメントを構成する様々なコンポーネントの作成について説明します。 |
-| 2020 年 10 月 11 日 | [開発者向けの AEM SPA Editor の概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.1.spaeditor) | コース | AEM SPA Editor を使用して AEM で作成できる、高パフォーマンスのシングルページアプリケーション（SPA）の構築方法について説明します。このコースでは、新しい SPA Editor プロジェクトの作成から、カスタムコンポーネントの作成に至るまで、主な開発タスクについて説明します。Angular フレームワークと React フレームワークに対して同等のレッスンが提供されます。ほとんどの開発者は、使用するフレームワークを 1 つ選ぶことが期待されます。 |
+| 2020 年 10 月 3 日 | [AEM Forms と Adobe Sign の統合](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.2.forms&amp;lang=ja-JP) | コース | Adobe Sign と AEM Forms は連携して、複雑なトランザクションを自動化し、シームレスなデジタルエクスペリエンスの一環として安全な法的電子サインを含めることができます。 |
+| 2020 年 10 月 7 日 | [印刷チャネル用のインタラクティブドキュメントの作成](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.5.forms&amp;lang=ja-JP) | コース | インタラクティブコミュニケーションを使用すると、業務上の書簡、ドキュメント、取引明細書、給付金通知、マーケティング用メール、請求書、ウェルカムキットなど、さまざまな通信記録の作成と配信を、カスタマイズされた安全な方法で一元的に管理することができます。このコースでは、インタラクティブコミュニケーションドキュメントを構成する様々なコンポーネントの作成について説明します。 |
+| 2020 年 10 月 11 日 | [開発者向けの AEM SPA Editor の概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.1.spaeditor&amp;lang=ja-JP) | コース | AEM SPA Editor を使用して AEM で作成できる、高パフォーマンスのシングルページアプリケーション（SPA）の構築方法について説明します。このコースでは、新しい SPA Editor プロジェクトの作成から、カスタムコンポーネントの作成に至るまで、主な開発タスクについて説明します。Angular フレームワークと React フレームワークに対して同等のレッスンが提供されます。ほとんどの開発者は、使用するフレームワークを 1 つ選ぶことが期待されます。 |
 | 2020 年 10 月 8 日 | [Asset Compute の拡張機能](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/cloud-service/asset-compute/overview.html) | 記事 | AEM as a Cloud Service 用のカスタムアセットマイクロサービスワーカーの作成の手順を示すチュートリアルです。 |
-| 2020 年 10 月 7 日 | [最初のアダプティブフォームを作成する](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.4.forms) | コース | AEM Forms を使用すると、動的で柔軟で応答の速い、魅力的なフォームを作成することができます。コースでは最初にカスタムアダプティブフォームテンプレートの作成を紹介し、様々なフォームコンポーネントを使用してアダプティブフォームを作成するプロセスについて説明します。 |
+| 2020 年 10 月 7 日 | [最初のアダプティブフォームを作成する](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.4.forms&amp;lang=ja-JP) | コース | AEM Forms を使用すると、動的で柔軟で応答の速い、魅力的なフォームを作成することができます。コースでは最初にカスタムアダプティブフォームテンプレートの作成を紹介し、様々なフォームコンポーネントを使用してアダプティブフォームを作成するプロセスについて説明します。 |
 | 2020 年 10 月 22 日 | [ローカル Dispatcher ツール](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/cloud-service/local-development-environment-set-up/dispatcher-tools.html) | 記事 | AEM の Dispatcher は、CDN および AEM パブリッシュ層の間にセキュリティとパフォーマンスの層を提供する Apache HTTP Web サーバーモジュールです。Dispatcher をローカル開発環境の一部として設定する方法について説明します。 |
-| 2020 年 10 月 15 日 | [開発者向けの AEM Sites の概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.2.guided) | コース | 本コースは、Experience League の[既存コース](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2019.2.guided)を更新したものです。 |
+| 2020 年 10 月 15 日 | [開発者向けの AEM Sites の概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.2.guided&amp;lang=ja-JP) | コース | 本コースは、Experience League の[既存コース](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2019.2.guided&amp;lang=ja-JP)を更新したものです。 |
 
 ### Experience Manager リリース情報
 
@@ -484,23 +484,23 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
 
-Updated **December 2, 2020**
+更新日：**2020 年 12 月 3 日**
 
 | 公開日 | 名前 | ソリューション | 説明 |
 | ----------- | ----------- | ---------- | ---------- |
-| 2020 年 23 月 11 日 | [プッシュ通知の設定と送信](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.html) | Campaign Classic | Androidアプリのユーザーにプッシュ通知を設定して送信する方法について説明します。 |
-| 2020 年 19 月 11 日 | [Androidサービスの設定とキャンペーンでのAndroidモバイルアプリケーションの作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.html) | Campaign Classic | Androidサービスを設定し、キャンペーンでAndroidモバイルアプリケーションを作成する方法について説明します。 |
-| 2020 年 11 月 3 日 | [Campaign コントロールパネル- SSHキーの生成](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。 |
-| 2020 年 10 月 29 日 | [Campaign コントロールパネル — データベースの使用状況の監視](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/performance-monitoring/monitoring-databases.html) | Campaign Classic | Campaign コントロールパネルを使用してインスタンスのデータベースの使用状況を監視する方法を説明します。 |
-| 2020 年 10 月 29 日 | [Campaign コントロールパネル：データベースの監視](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/performance-monitoring/monitoring-databases.html) | Campaign Standard | Campaign コントロールパネルを使用してインスタンスのデータベースの使用状況を監視する方法を説明します。 |
+| 2020 年 11 月 24 日 | [プッシュ通知の設定と送信](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.html?lang=ja-JP) | Campaign Classic | Android アプリのユーザーへのプッシュ通知を設定して送信する方法について説明します。 |
+| 2020 年 11 月 20 日 | [Android サービスの設定と Campaign での Android モバイルアプリケーションの作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.html?lang=ja-JP) | Campaign Classic | Android サービスの設定と Campaign での Android モバイルアプリケーションの作成方法について説明します。 |
+| 2020 年 11 月 3 日 | [コントロールパネル - SSH キーの生成](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。 |
+| 2020 年 10 月 29 日 | [コントロールパネル - データベースの使用状況の監視](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/performance-monitoring/monitoring-databases.html&amp;lang=ja-JP) | Campaign Classic | コントロールパネルを使用してインスタンスのデータベースの使用状況を監視する方法を説明します。 |
+| 2020 年 10 月 29 日 | [コントロールパネル - データベースの監視](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/performance-monitoring/monitoring-databases.html&amp;lang=ja-JP) | Campaign Standard | コントロールパネルを使用してインスタンスのデータベースの使用状況を監視する方法を説明します。 |
 | 2020 年 10 月 13 日 | [コントロールパネル - 許可リストへの IP 範囲の追加](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Standard | IP アドレスの範囲をコントロールパネルの許可リストに追加する方法を説明します。 |
-| 2020 年 10 月 8 日 | [Campaign コントロールパネル- SSHキーの生成](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。 |
-| 2020 年 10 月 3 日 | [Campaign コントロールパネル- SFTPサーバーへの接続](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。 |
-| 2020 年 10 月 3 日 | [Campaign コントロールパネル- SFTPサーバーへの接続](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Standard | Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。 |
-| 2020 年 10 月 3 日 | [Campaign コントロールパネル- SSHキーの生成](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Standard | ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。 |
-| 2020 年 11 月 3 日 | [Campaign コントロールパネル- SFTPサーバーへの接続](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。 |
-| 2020 年 10 月 7 日 | [Campaign コントロールパネル-Campaign コントロールパネル使用の手引き](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。 |
-| 2020 年 10 月 7 日 | [Campaign コントロールパネル-Campaign コントロールパネル使用の手引き](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。 |
+| 2020 年 10 月 8 日 | [コントロールパネル - SSH キーの生成](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html&amp;lang=ja-JP) | Campaign Classic | ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。 |
+| 2020 年 10 月 3 日 | [コントロールパネル - SFTP サーバーへの接続](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html&amp;lang=ja-JP) | Campaign Classic | Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。 |
+| 2020 年 10 月 3 日 | [コントロールパネル - SFTP サーバーへの接続](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Standard | Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。 |
+| 2020 年 10 月 3 日 | [コントロールパネル - SSH キーの生成](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Standard | ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。 |
+| 2020 年 11 月 3 日 | [コントロールパネル - SFTP サーバーへの接続](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。 |
+| 2020 年 10 月 7 日 | [コントロールパネル - コントロールパネル使用の手引き](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html&amp;lang=ja-JP) | Campaign Classic | この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。 |
+| 2020 年 10 月 7 日 | [コントロールパネル - コントロールパネル使用の手引き](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。 |
 | 2020 年 10 月 21 日 | [Campaign コントロールパネル - Campaign コントロールパネル使用の手引き - 記事](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。 |
 | 2020 年 10 月 21 日 | [Campaign コントロールパネル - Campaign コントロールパネル使用の手引き - 記事](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。 |
 | 2020 年 10 月 20 日 | [コントロールパネル - 許可リストへの IP 範囲の追加](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Classic | IP アドレスの範囲をコントロールパネルの許可リストに追加する方法を説明します。 |
@@ -527,7 +527,7 @@ Updated **December 2, 2020**
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| 新規ヘルプ | （10 月 29 日のリリース）レガシーのヘルプは更新されたページに置き換えられました。ページは DSP のメインメニューの「ヘルプ」リンクから利用でき、[https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=ja](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=ja) でいつでも利用できます。 |
+| 新規ヘルプ | （10 月 29 日のリリース）レガシーのヘルプは更新されたページに置き換えられました。ページは DSP のメインメニューの「ヘルプ」リンクから利用でき、[https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=ja-JP](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=ja-JP) でいつでも利用できます。 |
 | キャンペーン | （10 月 29 日のリリース）以前の Campaign ベータ版のビューがデフォルトの Campaign ビューになり、より迅速なインサイト、簡素化されたワークフロー、カスタマイズされたビューを実現しました。 |
 | プライベート在庫 | （10 月 16 日のリリース）すべてのユーザーが、新しい Deal ID フォームを使用して、Deal ID の詳細を設定および編集できるようになりました。これは、従来の [!UICONTROL Smart Ad Serving] フォームをシンプルにしたバージョンです。新しい Deal ID の詳細を設定するには、**[!UICONTROL Inventory／Deals]** に移動し、「**[!UICONTROL Create]**」をクリックしてから、「**[!UICONTROL Deal ID Beta]**」をクリックします。 |
 | プレースメントの予測 | （10 月 15 日のリリース）プレースメントレベルのペーシングを使用したプレースメントの場合、プレースメント設定の「[!UICONTROL Forecast]」セクションには、新しい「[!UICONTROL Estimated Maximums]」セクションが含まれます。このセクションは、現在のターゲット設定でどれくらい多くの容量が使用できるかを示します。 |
@@ -542,20 +542,20 @@ Updated **December 2, 2020**
 | [!UICONTROL Custom Alerts] | 以前の [!UICONTROL Alerts Beta] は、現在は [!UICONTROL Custom Alerts] と呼ばれています。 |
 |  | Custom Alerts では、以前の期間の指標から指定した日付範囲でいつ指標が増加または減少したかを特定するワークフローがシンプル化され、「[!UICONTROL Filters]」タブに移動しました。 |
 
-### Ad Cloudチュートリアルとコース
+### Ad Cloud チュートリアルとコース
 
-Updated: **December 2, 2020**
+更新日：**2020 年 12 月 3 日**
 
 | 公開日 | 名前 | ソリューション | 説明 |
 | ----------- | ----------- | ---------- | ---------- |
-| 2020 年 14 月 11 日 | [Adobe Analytics と Advertising Cloud ダッシュボードの作成](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-dashboards-a4adc.html?lang=en) | ビデオ | ライブキャンペーン監視用の Advertising Cloud ダッシュボードを作成する方法。 |
-| 2020 年 14 月 11 日 | [Advertising Cloudサイト入口レポートの作成](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-site-entry-a4adc.html?lang=en#analytics) | ビデオ | 曜日、時間帯、ブラウザー、および地理的な影響を監視するAdvertising Cloudサイトエントリレポートを作成します。 |
-| 2020 年 14 月 11 日 | [Advertising Cloud データを使用した Analytics カスタム指標の作成](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html?lang=en#analytics) | ビデオ | Adobe Analytics 内で Advertising Cloud データを使用する場合に作成するのに便利なカスタム指標。 |
-| 2020 年 14 月 11 日 | [アクティベーションおよびレポート用の Analytics セグメントの作成](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-segments-a4adc.html?lang=en#analytics) | ビデオ | Advertising Cloud ディメンションを使用したレポートと分析に優れたセグメントの作成。 |
-| 2020 年 14 月 11 日 | [Predictive Audiences について](https://experienceleague.corp.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.html?lang=en#build-and-manage-audiences) | ビデオ | このビデオでは、Audience Manager の Predictive Audiences の概要とその仕組みの詳細を説明し、使用例を示します。 |
-| 2020 年 14 月 11 日 | [Advertising Cloudのアクティベーションとレポート用のAnalyticsプロファイルの作成](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html?lang=en#analytics) | ビデオ | Adobe Analytics を使用して、Advertising Cloud リマーケティング用の堅牢なサイトリターゲティングプールを作成する方法。 |
-| 2020 年 14 月 11 日 | [Advertising Cloudマーケティングチャネルとのレポート](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html?lang=en#analytics) | ビデオ | Advertising Cloudの表示スルーおよびクリックスルーエントリデータがAdobe Analyticsマーケティングチャネルとどのように連携するか。 |
-| 2020 年 14 月 11 日 | [Adobe Analyticsを使用した、開始前のキャンペーン分析の作成](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-pre-launch-a4adc.html?lang=en) | ビデオ | Adobe Analytics を使用して Advertising Cloud 有料メディアキャンペーンの開始の基盤を設定する方法。 |
+| 2020 年 11 月 15 日 | [Adobe Analytics と Advertising Cloud ダッシュボードの作成](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-dashboards-a4adc.html?lang=ja-JP) | ビデオ | ライブキャンペーン監視用の Advertising Cloud ダッシュボードを作成する方法。 |
+| 2020 年 11 月 15 日 | [Advertising Cloud サイト入口レポートの作成](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-site-entry-a4adc.html?lang=ja-JP#analytics) | ビデオ | 曜日、時間帯、ブラウザー、および地理的な影響を監視する Advertising Cloud サイトエントリレポートを作成します。 |
+| 2020 年 11 月 15 日 | [Advertising Cloud データを使用した Analytics カスタム指標の作成](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html?lang=ja-JP#analytics) | ビデオ | Adobe Analytics 内で Advertising Cloud データを使用する場合に作成するのに便利なカスタム指標。 |
+| 2020 年 11 月 15 日 | [アクティベーションおよびレポート用の Analytics セグメントの作成](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-segments-a4adc.html?lang=ja-JP#analytics) | ビデオ | Advertising Cloud ディメンションを使用したレポートと分析に優れたセグメントの作成。 |
+| 2020 年 11 月 15 日 | [Predictive Audiences について](https://experienceleague.corp.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | このビデオでは、Audience Manager の Predictive Audiences の概要とその仕組みの詳細を説明し、使用例を示します。 |
+| 2020 年 11 月 15 日 | [Advertising Cloud のアクティベーションおよびレポート用の Analytics プロファイルの作成](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html?lang=ja-JP#analytics) | ビデオ | Adobe Analytics を使用して、Advertising Cloud リマーケティング用の堅牢なサイトリターゲティングプールを作成する方法。 |
+| 2020 年 11 月 15 日 | [Advertising Cloud マーケティングチャネルを使用したレポート](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html?lang=ja-JP#analytics) | ビデオ | Advertising Cloud のビュースルーおよびクリックスルーエントリデータが Adobe Analytics マーケティングチャネルと連携する仕組みを紹介します。 |
+| 2020 年 11 月 15 日 | [Adobe Analytics を使用した、開始前キャンペーン分析の作成](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-pre-launch-a4adc.html?lang=ja-JP) | ビデオ | Adobe Analytics を使用して Advertising Cloud 有料メディアキャンペーンの開始の基盤を設定する方法。 |
 
 ## ![アイコン](/assets/magento.png) [!DNL Magento] {#magento}
 
@@ -610,7 +610,7 @@ Adobe Document Cloud のリリース情報およびヘルプリソースです�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 11 月 3 日 | [GigaSignを使用した大量のドキュメントの収集](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?lang=en#gather-high-volume-documents-using-gigasign) | ビデオ | Gigasignを使用すると、何千人もの人々に同時に署名用のドキュメントを送信、収集および追跡できます。 従業員やお客様との大量の通信を目的として設計されています。 GigaSignは、Adobe SignAPIを利用してMegaSignと同じ機能を提供しますが、複数の署名者、受信者グループ、受信者の役割、契約名、カーボンコピーなどに対する追加サポートを含みます。 |
+| 2020 年 11 月 3 日 | [GigaSign を使用した大容量ドキュメントの収集](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?lang=ja-JP#gather-high-volume-documents-using-gigasign) | ビデオ | GigaSign を使用すると、何千人もの人々に同時に署名用のドキュメントを送信、収集および追跡できます。これは、従業員や顧客との大容量通信を目的として設計されています。GigaSign は、Adobe Sign API を利用して MegaSign と同じ機能を提供しますが、複数の署名者、受信者グループ、受信者の役割、契約名、カーボンコピーなどに対する追加サポートを含みます。 |
 | 2020 年 9 月 30 日 | [Adobe Sign のクイックツアー](https://docs.adobe.com/content/help/ja-JP/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/quick-tour.html) | ビデオ | このビデオでは、ホーム画面から開始し、Adobe Sign について簡単に紹介します。 |
 
 Document Cloud ヘルプについては、以下を参照してください。
