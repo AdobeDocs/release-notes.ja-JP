@@ -4,11 +4,11 @@ description: Adobe Experience Cloud リリースノート
 doc-type: release notes
 last-update: November 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 3f1afc6a9c158b461be3ded3bac935bcfac11066
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '9838'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -149,13 +149,13 @@ Adobe Experience Platform を使用すると、それぞれの顧客のニーズ
 | Analysis Workspace パフォーマンスヘルプページ | 2020 年 10 月 23 日 | Analysis Workspace パフォーマンスヘルプページには、プロジェクトのパフォーマンスに影響を与える様々な要因と最適化のためのヒントへのリンクが示されています。[詳細情報](https://docs.adobe.com/content/help/ja-JP/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL 滞在時間]指標およびディメンション | 2020 年 10 月 31 日 | [!UICONTROL 滞在時間]指標とディメンションを使用すると、カスタマージャーニーの様々な側面に消費者が滞在した時間を確認し、チャネルをまたいだエンゲージメントやボトルネックをより完全に表示できます。 |
 | [!UICONTROL デバイス]および[!UICONTROL 地理的]ディメンション | 2020 年 10 月 31 日 | [!UICONTROL デバイス]および[!UICONTROL 地理的]ディメンションは、[Adobe Analytics ソースコネクタ](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html)の「グローバルルックアップのサポート」プロジェクトの一部として、デフォルトで使用できるようになりました。この多くの要望をいただいた追加により、[Adobe Analytics と CJA の間のパリティ](https://docs.adobe.com/content/help/ja-JP/analytics-platform/using/cja-overview/cja-aa.html)が増加しました。 |
-| Journey IQ：クロスチャネル分析 | 2021年1月11日 | Journey IQ：クロスチャネル分析を使用すれば、Adobe Experience Platform データレーク内の Adobe Analytics（または他の）イベントデータセットを、ある ID 名前空間から別の ID 名前空間へと再入力できます。通常、これは、cookie ベースの ID から人物ベースの ID にイベントデータセットを再入力することを意味します。これにより、再入力されたデータセットを CJA 接続の他の人物ベースのデータと組み合わせることができ、Analysis Workspace でのクロスチャネル／クロスデバイス分析が可能になります。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=ja-JP#cja-connections) |
+| Journey IQ：クロスチャネル分析 | 2021 年 1 月 12 日 | Journey IQ：クロスチャネル分析を使用すれば、Adobe Experience Platform データレーク内の Adobe Analytics（または他の）イベントデータセットを、ある ID 名前空間から別の ID 名前空間へと再入力できます。通常、これは、cookie ベースの ID から人物ベースの ID にイベントデータセットを再入力することを意味します。これにより、再入力されたデータセットを CJA 接続の他の人物ベースのデータと組み合わせることができ、Analysis Workspace でのクロスチャネル／クロスデバイス分析が可能になります。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=ja-JP#cja-connections) |
 
 ### [!UICONTROL Media Analytics] の新機能 {#media-aa}
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ---------- |
-| [!UICONTROL Workspace] の[!UICONTROL メディア同時閲覧者]パネル | 2020 年 9 月 18 日 | [!UICONTROL メディア同時閲覧者]パネルを使用すると、同時閲覧のピークが発生した場所やドロップオフが発生した場所を把握できます。  コンテンツの質と閲覧者の関与に関する貴重な情報を提供し、ボリュームやスケールのトラブルシューティングや計画に役立ちます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/media-analytics/using/media-reports/media-workspace-panels/media-concurrent-viewers.html) |
+| [!UICONTROL Workspace] の[!UICONTROL メディア同時閲覧者]パネル | 2020 年 9 月 18 日 | [!UICONTROL メディア同時閲覧者]パネルを使用すると、同時閲覧のピークが発生した場所やドロップオフが発生した場所を把握できます。コンテンツの質と閲覧者の関与に関する貴重な情報を提供し、ボリュームやスケールのトラブルシューティングや計画に役立ちます。[詳細情報...](https://docs.adobe.com/content/help/ja-JP/media-analytics/using/media-reports/media-workspace-panels/media-concurrent-viewers.html) |
 
 ### Adobe Analytics の修正点 {#aa-fixes}
 
@@ -173,7 +173,7 @@ AN-224702、AN-232791、AN-233982、AN-234384、AN-235608、AN-236538、AN-23659
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
-| すべての受信 HTTPS リクエストの対する HSTS ヘッダーの追加 | 2020 年 9 月 30 日 | 2020 年 9 月 30日に、HTTPS を使用するすべての受信リクエストに対して、HSTS ヘッダーの追加を開始しました。これは、将来のすべてのリクエストを、セキュリティ上のベストプラクティスと考えられる HTTPS でおこなうようにブラウザー／クライアントに指示します。現時点では、HTTP を使用した受信リクエストについては、これはおこないません。 |
+| すべての受信 HTTPS リクエストの対する HSTS ヘッダーの追加 | 2020 年 9 月 30 日 | 2020 年 9 月 30 日に、HTTPS を使用するすべての受信リクエストに対して、HSTS ヘッダーの追加を開始しました。これは、将来のすべてのリクエストを、セキュリティ上のベストプラクティスと考えられる HTTPS でおこなうようにブラウザー／クライアントに指示します。現時点では、HTTP を使用した受信リクエストについては、これはおこないません。 |
 | Experience Cloud ID サービス の Cookie 設定に対する変更 | 2020 年 9 月 23 日 | Chrome バージョン 80 のプライバシー設定に対する更新は、Google AMP ページを表示する一部のユーザーをトラッキングするための Adobe Analytics の機能に影響します。特に、Google がホストする AMP ページを表示するユーザーのクロスドメイントラッキングを妨げます。この結果、ユニーク訪問者数に影響する可能性があります。この修正を利用すると、その ECID Cookie の設定を変更することで、この問題に対処できます。<br>現在、Analytics は、（Chrome の 80 より前のバージョンでクロスドメイントラッキングを許可する）設定 `SameSite = Lax` により、Experience Cloud ID サービス（ECID）Cookie を設定しています。これは、今後は適用されません。この変更により、ユーザーは、ECID Cookie 用の SameSite 設定を `None` に更新できます。<br>これによって、より多くの状況で Analytics Cookie が共有される可能性がありますが、Analytics Cookieには機密情報は含まれていないことに留意してください。また、この設定を選択する場合、データが HTTPS 接続経由でのみ渡されるように、Cookie が `Secure` に設定されている必要があります。この変更をおこなう場合は、カスタマーケアのサポート対象ユーザーがチケットを開いてください。 |
 | `omniture.com` ドメインから `adobe.com` ドメインの移行 | 2020 年 8 月 22 日 | 2020 年 8 月 14 日、Adobe Analytics はフロントエンドアーキテクチャを `omniture.com|http://omniture.com/` から `adobe.com|http://adobe.com/` に移行しました。この変更により、2020 年 5 月 29 日の初回統合製品ドメインの変更後に発生したサードパーティ Cookie の問題が改善される可能性があります。このアップデートの結果、新しい `.adobe.com|http://an.adobe.com/` ドメインまたは `experience.adobe.com|http://experience.adobe.com/` ドメインを信頼するようにブラウザーが促す場合があります。 |
 | Ad Hoc Analysis Java 8 の互換性のアップデート | 2020 年 8 月 22 日 | Ad Hoc Analysis は現在、Java 8 バージョン 1.8.0_261 以降と互換性がありません。このツールへのアクセスが[提供終了日](https://spark.adobe.com/page/S9Bhp66VJ2fEn/)に達する前に中断されないようにするため、1.8.0_261 以前の Java 8 バージョンを維持することをお勧めします。 |
@@ -190,7 +190,7 @@ AppMeasurement リリースの最新の更新については、[AppMeasurement f
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2020 年 11 月 11 日 | [一括管理（BAAM）の概要](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | Audience Manager での特性とセグメントの一括管理ツールである「BAAM」について説明します。このツールには、使用を準備するための設定方法などが含まれます。 |
+| 2020 年 11 月 11 日 | [一括管理（BAAAM）の概要](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | Audience Manager での特性とセグメントの一括管理ツールである「BAAAM」について説明します。このツールには、使用を準備するための設定方法などが含まれます。 |
 | 2020 年 10 月 9 日 | [フリーフォームテーブル、分析の基盤](https://video.tv.adobe.com/v/41766?captions=jpn) | ビデオ | このコースを開始する前に、何を知るべきか、および学習内容について説明します。 |
 | 2020 年 10 月 6 日 | [Analysis Workspace でのパーティシペーション指標の使用](https://docs.adobe.com/content/help/ja-JP/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.html) | ビデオ | この単純なトリックを使用して、[!UICONTROL Analysis Workspace] でいつでもパーティシペーション指標を取得できます。 |
 | 2020 年 10 月 6 日 | [Analysis Workspace の自動作成フリーフォームテーブル](https://docs.adobe.com/content/help/ja-JP/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.html) | ビデオ | 空のプロジェクトパネルまたはフリーフォームテーブルにコンポーネントを直接ドロップできます。テーブルは推奨される形式で自動的に作成されます。 |
@@ -231,7 +231,7 @@ Audience Manager の新機能、修正点、ドキュメントおよびチュー
 | -----------| ---------- | ---------- | ---------- |
 | 2020 年 11 月 26 日 | [特性とセグメントを用いたトレンドレポートの使用](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-trended-reports-with-traits-and-segments.html?lang=ja-JP#reports) | ビデオ | Audience Manager でトレンドレポートを使用して、特性とセグメントの経時的なパフォーマンスを確認する方法を説明します。 |
 | 2020 年 11 月 26 日 | [特性とセグメントを用いた一般レポートの使用](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-general-reports-with-traits-and-segments.html?lang=ja-JP#reports) | ビデオ | このビデオでは、特性とセグメントの数値を取得する、Audience Manager の一般的なレポートの使用方法を参照してください。 |
-| 2020 年 11 月 3 日 | [予測オーディエンスの設定とレポート](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | このビデオでは、Audience Manager インターフェイスの Predictive Audiences 設定について説明します。また、モデルの結果を示すレポートについて確認します。 |
+| 2020 年 11 月 3 日 | [Predictive Audiences の設定とレポート](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | このビデオでは、Audience Manager インターフェイスの Predictive Audiences 設定について説明します。また、モデルの結果を示すレポートについて確認します。 |
 | 2020 年 10 月 29 日 | [特性グラフの数値について](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | 特性情報画面の特性について、報告される数値を理解するためのヒントをいくつか紹介します。 |
 | 2020 年 10 月 24 日 | [Analytics データからの特性作成の計画](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | Audience Manager の特性で Adobe Analytics データの使用を計画する際に役立つヒントとテクニックを紹介します。 |
 | 2020 年 10 月 24 日 | [特性を作成する際のデータソースの選択](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | 特性の作成時に入力する重要なフィールドの 1 つは、「データソース」フィールドです。ルールベースの特性とオンボードされた特性に適したデータソースの選択に関するヒントを紹介します。 |
@@ -398,8 +398,8 @@ Adobe Experience Manager のリリースロードマップ、リリースの更�
 | 2020 年 10 月 22 日 | [フォーム添付ファイルのアセンブリ](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/document-services/assemble-form-attachments.html) | ビデオ | フォーム添付ファイルを、特定の順序で 1 つの PDF に組み合わせます。 |
 | 2020 年 11 月 10 日 | [WKND アセットデモを Demo Util に追加](http://bit.ly/demoAEM) | デモ | 存在/可用性/インストール手順を促進する Demo Utils に、WKND Asset Demo をカードとして追加します。 |
 | 2020 年 11 月 3 日 | [コンテンツフラグメントの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=ja-JP) | ビデオ | Adobe Experience Manager（AEM）アセットでのコンテンツフラグメントの作成に関する概要ビデオです。 |
-| 2020 年 11 月 3 日 | [サイトページでのコンテンツフラグメントの使用](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-delivery-feature-video-use.html#content-fragments&amp;lang=ja-JP) | ビデオ | AEM Sites のページでコンテンツフラグメントを使用する方法について説明します。コンテンツフラグメントコンポーネントは、AEM のスタイルシステムを使用してスタイルを設定し、必要に応じてコンテンツを表示することができます。 |
-| 2020 年 11 月 3 日 | [スタイルシステム](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/style-system-feature-video-use.html&amp;lang=ja-JP) | ビデオ | We.Retail リストコンポーネントを使用して、AEM 6.4 用のスタイルシステムビデオを作成します。 |
+| 2020 年 11 月 3 日 | [サイトページでのコンテンツフラグメントの使用](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-delivery-feature-video-use.html?lang=ja-JP) | ビデオ | AEM Sites のページでコンテンツフラグメントを使用する方法について説明します。コンテンツフラグメントコンポーネントは、AEM のスタイルシステムを使用してスタイルを設定し、必要に応じてコンテンツを表示することができます。 |
+| 2020 年 11 月 3 日 | [スタイルシステム](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/style-system-feature-video-use.html?lang=ja-JP) | ビデオ | We.Retail リストコンポーネントを使用して、AEM 6.4 用のスタイルシステムビデオを作成します。 |
 | 2020 年 11 月 3 日 | [Target 呼び出しの読み込みと実行](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/sites/integrations/target/load-and-fire-target.html) | ビデオ | Launch ルールを使用して、ページリクエストにパラメーターを読み込み、渡し、サイトページから Target 呼び出しを実行する方法について説明します。ページ情報を取得し、パラメーターとして渡すには、Adobe クライアントデータレイヤーを使用します。このレイヤーを使用すると、Web ページ上での訪問者のエクスペリエンスに関するデータを収集して保存し、このデータに簡単にアクセスできます。 |
 | 2020 年 10 月 29 日 | [ビデオスマートタグ](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/assets/metadata/video-smart-tags.html) | ビデオ | Experience Manager アセットは Adobe Sensei を搭載し、ビデオの主な要素を説明するキーワードを使用してビデオアセットにインテリジェントにタグ付けし、AEM ユーザーがキーワード検索を使用してビデオアセットを簡単に見つけられるようにします。 |
 | 2020 年 10 月 28 日 | [Microsoft Office 用 AEM ドキュメントセキュリティ拡張機能の紹介](https://docs.adobe.com/content/help/ja-JP/experience-manager-document-security/using/document-security-extension-microsoft-office.html) | 記事 | Microsoft Office 用 Adobe Experience Manager ドキュメントセキュリティ拡張機能では、知的財産を含む Word、Excel、および PowerPoint ファイルを、許可したユーザーのみが使用できるようにすることができます。Microsoft Office 用 AEM ドキュメントセキュリティ拡張機能を使用することにより、事前定義済みの機密設定をファイルに適用できます。 |
@@ -491,15 +491,15 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 | 2020 年 11 月 24 日 | [プッシュ通知の設定と送信](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.html?lang=ja-JP) | Campaign Classic | Android アプリのユーザーへのプッシュ通知を設定して送信する方法について説明します。 |
 | 2020 年 11 月 20 日 | [Android サービスの設定と Campaign での Android モバイルアプリケーションの作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.html?lang=ja-JP) | Campaign Classic | Android サービスの設定と Campaign での Android モバイルアプリケーションの作成方法について説明します。 |
 | 2020 年 11 月 3 日 | [コントロールパネル - SSH キーの生成](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Classic | ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。 |
-| 2020 年 10 月 29 日 | [コントロールパネル - データベースの使用状況の監視](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/performance-monitoring/monitoring-databases.html&amp;lang=ja-JP) | Campaign Classic | コントロールパネルを使用してインスタンスのデータベースの使用状況を監視する方法を説明します。 |
-| 2020 年 10 月 29 日 | [コントロールパネル - データベースの監視](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/performance-monitoring/monitoring-databases.html&amp;lang=ja-JP) | Campaign Standard | コントロールパネルを使用してインスタンスのデータベースの使用状況を監視する方法を説明します。 |
+| 2020 年 10 月 29 日 | [コントロールパネル - データベースの使用状況の監視](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/performance-monitoring/monitoring-databases.html?lang=ja-JP) | Campaign Classic | コントロールパネルを使用してインスタンスのデータベースの使用状況を監視する方法を説明します。 |
+| 2020 年 10 月 29 日 | [コントロールパネル - データベースの監視](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/performance-monitoring/monitoring-databases.html?lang=ja-JP) | Campaign Standard | コントロールパネルを使用してインスタンスのデータベースの使用状況を監視する方法を説明します。 |
 | 2020 年 10 月 13 日 | [コントロールパネル - 許可リストへの IP 範囲の追加](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) | Campaign Standard | IP アドレスの範囲をコントロールパネルの許可リストに追加する方法を説明します。 |
-| 2020 年 10 月 8 日 | [コントロールパネル - SSH キーの生成](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html&amp;lang=ja-JP) | Campaign Classic | ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。 |
-| 2020 年 10 月 3 日 | [コントロールパネル - SFTP サーバーへの接続](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html&amp;lang=ja-JP) | Campaign Classic | Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。 |
+| 2020 年 10 月 8 日 | [コントロールパネル - SSH キーの生成](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html?lang=ja-JP) | Campaign Classic | ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。 |
+| 2020 年 10 月 3 日 | [コントロールパネル - SFTP サーバーへの接続](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html?lang=ja-JP) | Campaign Classic | Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。 |
 | 2020 年 10 月 3 日 | [コントロールパネル - SFTP サーバーへの接続](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Standard | Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。 |
 | 2020 年 10 月 3 日 | [コントロールパネル - SSH キーの生成](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/control-panel/sftp-management/generate-ssh-key.html) | Campaign Standard | ターミナルを使用して SSH キーを生成する方法と、公開鍵を Campaign コントロールパネルに格納する方法について説明します。 |
 | 2020 年 11 月 3 日 | [コントロールパネル - SFTP サーバーへの接続](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) | Campaign Classic | Campaign コントロールパネルに保存したキーを使用して、クライアント SFTP アプリケーションで SFTP サーバーに接続する方法を説明します。 |
-| 2020 年 10 月 7 日 | [コントロールパネル - コントロールパネル使用の手引き](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html&amp;lang=ja-JP) | Campaign Classic | この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。 |
+| 2020 年 10 月 7 日 | [コントロールパネル - コントロールパネル使用の手引き](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html?lang=ja-JP) | Campaign Classic | この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。 |
 | 2020 年 10 月 7 日 | [コントロールパネル - コントロールパネル使用の手引き](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。 |
 | 2020 年 10 月 21 日 | [Campaign コントロールパネル - Campaign コントロールパネル使用の手引き - 記事](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Classic | この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。 |
 | 2020 年 10 月 21 日 | [Campaign コントロールパネル - Campaign コントロールパネル使用の手引き - 記事](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) | Campaign Standard | この記事では、Campaign コントロールパネルにアクセスする方法と、Campaign コントロールパネルを使用するための前提条件を説明します。 |
