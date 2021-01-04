@@ -1,7 +1,7 @@
 ---
 source-git-commit: 13ad94d323a3ac655b93f10b11c5245fe00ee379
-workflow-type: tm+mt
-translation-type: tm+mt
+workflow-type: ht
+translation-type: ht
 source-wordcount: '447'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ### マイナーな変更
 
-厳選されたマイナーな更新をおこなう場合は、記事にアクセスし、記事の GitHub ソースに移動する記事の&#x200B;**「編集」**&#x200B;リンクをクリックしてください。その後、GitHub UIを使用してアップデートを行います。詳細については、一般[的なAdobe Docs寄稿者ガイド](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)を参照してください。
+厳選されたマイナーな更新をおこなう場合は、記事にアクセスし、記事の GitHub ソースに移動する記事の&#x200B;**「編集」**&#x200B;リンクをクリックしてください。その後、GitHub UIを使用してアップデートを行います。詳細については、一般[的なAdobe Docs寄稿者ガイド](https://docs.adobe.com/content/help/ja-JP/contributor/contributor-guide/introduction.html)を参照してください。
 
 このリポジトリのドキュメントおよびコード例については、マイナーな修正または詳細な説明をアドビの利用条件で説明しています。
 
