@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1beba26ad3096758512a7efbf5454012b686f007
+source-git-commit: 4f4eac5843bd39369950c543749455580b1cb964
 workflow-type: tm+mt
 source-wordcount: '6184'
 ht-degree: 44%
@@ -132,10 +132,8 @@ Adobe Experience Platformを使用して、各個人のニーズをリアルタ�
 
 * [Adobe Analytics の新機能](#aa-features)
 * [Customer Journey Analytics の新機能](#cust-journey)
-<!-- * [New features in Media Analytics](#media-aa) -->
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
-<!-- * [Analytics courses and tutorials](#tutorials-analytics) -->
 * [AppMeasurement](#appm)
 
 ### Adobe Analytics の新機能 {#aa-features}
@@ -312,7 +310,7 @@ AEM 6.4、Service Pack 8、Cumulative Fix Pack 3（2020年11月26日リリース
 
 ### 新しい Experience Manager コースとチュートリアル
 
-更新日：**2020 年 12 月 2 日**
+更新日：**2021年1月10日**
 
 以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
 
