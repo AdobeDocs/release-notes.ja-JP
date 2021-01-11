@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3d0946fe6fc0bf74ec45a19931c106afb8a8208d
+source-git-commit: 5175e3e92bd445254532c614bda3f7a048f31a86
 workflow-type: tm+mt
-source-wordcount: '6185'
-ht-degree: 44%
+source-wordcount: '6419'
+ht-degree: 42%
 
 ---
 
@@ -135,6 +135,7 @@ Adobe Experience Platformを使用して、各個人のニーズをリアルタ�
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [AppMeasurement](#appm)
+* [Report Builder](#arb)
 
 ### Adobe Analytics の新機能 {#aa-features}
 
@@ -181,6 +182,7 @@ AN-204659;AN-221726;AN-230949;AN-231984;AN-232835; AN-233989;AN-235593;AN-235989
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
+| 必要な[!UICONTROL Report Builder]の更新 | 2021 年 1 月 8 日 | 2021年4月30日までに、すべての[!UICONTROL Report Builder]ユーザーは、[!UICONTROL Report Builder]アドインをバージョン5.6.47以降に更新する必要があります。 このバージョンには、ログインプロセスに対する重要な更新が含まれています。 バージョン5.6.47以降にアップデートしないユーザーは、2021年4月30日を過ぎるとサインインできなくなります。 [!UICONTROL Report ] Builderバージョン5.6.47以降では、Experience Cloudログインのみがサポートされ、SiteCatalystのシングルサインオンや標準ログインなどの従来のログインはサポートされません。詳しくは、[Report Builderサインイン](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA)を参照してください。 |
 | 3つのAnalytics APIサービスの提供終了 | 2021 年 1 月 6 日 | 2021年4月30日に、以下のAnalyticsレガシーAPIサービスが提供終了日に達する予定で、サービスが停止されます。 これらのサービスを使用して構築された現在の統合は、その日に機能しなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>お客様の質問に対する回答と進め方に関するガイダンスの提供に役立つ[従来のAPI EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email)を提供しました。 これらのサービスを使用するAPI統合は、[1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email)や[2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email)に移行できます。 従来の OAuth アカウントは、[Adobe IO](https://console.adobe.io/home?mv=email#) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API の両方にアクセスするために使用できます。 |
 | すべての受信 HTTPS リクエストの対する HSTS ヘッダーの追加 | 2020 年 9 月 30 日 | 2020 年 9 月 30 日に、HTTPS を使用するすべての受信リクエストに対して、HSTS ヘッダーの追加を開始しました。これは、将来のすべてのリクエストを、セキュリティ上のベストプラクティスと考えられる HTTPS でおこなうようにブラウザー／クライアントに指示します。現時点では、HTTP を使用した受信リクエストについては、これはおこないません。 |
 | [!UICONTROL Experience CloudIDサービス] cookie設定に変更 | 2020 年 9 月 23 日 | Chrome バージョン 80 のプライバシー設定に対する更新は、Google AMP ページを表示する一部のユーザーをトラッキングするための Adobe Analytics の機能に影響します。特に、Google がホストする AMP ページを表示するユーザーのクロスドメイントラッキングを妨げます。この結果、ユニーク訪問者数に影響する可能性があります。この修正を利用すると、その ECID Cookie の設定を変更することで、この問題に対処できます。<br>現在、Analytics は、（Chrome の 80 より前のバージョンでクロスドメイントラッキングを許可する）設定 `SameSite = Lax` により、Experience Cloud ID サービス（ECID）Cookie を設定しています。これは、今後は適用されません。この変更により、ユーザーは、ECID Cookie 用の SameSite 設定を `None` に更新できます。<br>これによって、より多くの状況で Analytics Cookie が共有される可能性がありますが、Analytics Cookieには機密情報は含まれていないことに留意してください。また、この設定を選択する場合、データが HTTPS 接続経由でのみ渡されるように、Cookie が `Secure` に設定されている必要があります。この変更をおこなう場合は、カスタマーケアのサポート対象ユーザーがチケットを開いてください。 |
@@ -192,6 +194,12 @@ AN-204659;AN-221726;AN-230949;AN-231984;AN-232835; AN-233989;AN-235593;AN-235989
 ### AppMeasurement {#appm}
 
 AppMeasurement リリースの最新の更新については、[AppMeasurement for JavaScript リリースノート](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/appmeasurement-updates.html)を参照してください。
+
+### Report Builder {#arb}
+
+| 機能 | [一般公開](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
+| ----------- | ---------- | ----- |
+| Analytics [!UICONTROL Report Builder]へのログインの更新 | 2021 年 1 月 14 日 | [!UICONTROL Report Builder]のログインプロセスの改善により、従来のテクノロジーへの依存性が取り除かれ、ログインプロセスがAdobe Experience Cloudと連携します。 Experience Cloudサインインを使用すると、Adobe IDまたはEnterprise ID（シングルサインオン）を使用してAdobe Experience Cloudにサインインできます。 2021年4月30日までに、すべての[!UICONTROL Report Builder]ユーザーは、[!UICONTROL Report Builder]アドインをバージョン5.6.47以降に更新する必要があります。 [!UICONTROL Report ] Builderバージョン5.6.47以降では、Experience Cloudのサインインのみがサポートされ、SiteCatalystのシングルサインオンや標準のサインインなど、従来のサインインはサポートされません。詳しくは、[Report Builderサインイン](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA)を参照してください。 |
 
 ### Analytics ヘルプリソース
 
