@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 4f4eac5843bd39369950c543749455580b1cb964
+source-git-commit: 23d521bb24f13ed6ad843b605f72f362262790c2
 workflow-type: tm+mt
-source-wordcount: '6184'
+source-wordcount: '6183'
 ht-degree: 44%
 
 ---
@@ -453,7 +453,7 @@ Magent リリースノートについては、以下を参照してください�
 
 ### Core Marketo Engage の更新
 
-最新のリリース情報については、[!DNL Marketo] [リリースノート](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720)を参照してください。
+最新のリリース情報については、[!DNL Marketo] [リリースノート](https://docs.marketo.com/display/public/DOCS/Jan+%2721)を参照してください。
 
 ### 予定されている機能
 
@@ -469,7 +469,7 @@ Magent リリースノートについては、以下を参照してください�
 * **アセット API &quot;_method&quot; パラメーター：** 2020 年 9 月以降、アセット API エンドポイントでは、URI の長さ制限を回避するために、POST 本文にクエリパラメーターを渡す `_method` を使用できなくなります。
 * **Internet Explorer のサポートの廃止：** 2020 年 8 月 1 日のリリース以降、Marketo Engage ユーザーインターフェイスは Internet Explorer でサポートされなくなります。
 
-これまでのリリースノートと過去のリリースノートについては、[Marketo リリースノート](https://docs.marketo.com/x/CgA6Ag)を参照してください。
+これまでのリリースノートと過去のリリースノートについては、[Marketo リリースノート](https://docs.marketo.com/display/public/DOCS/Release+Notes)を参照してください。
 
 ## ![アイコン](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
 
