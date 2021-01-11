@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 23d521bb24f13ed6ad843b605f72f362262790c2
+source-git-commit: 3d0946fe6fc0bf74ec45a19931c106afb8a8208d
 workflow-type: tm+mt
-source-wordcount: '6183'
+source-wordcount: '6185'
 ht-degree: 44%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 44%
 >
 >毎月[Adobe優先度製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読して、このページの更新に関する電子メール通知を受信します。 このページは1か月を通じて管理されるので、Adobeのエンタープライズ製品とExperience Leagueのドキュメントの更新については、定期的にご確認ください。
 
-最新の更新：**2020年1月10日**
+最新の更新：**2020年1月11日**
 
 * [Adobeシステムの状態](#status) （未更新）
 * [Experience Cloud サービスと管理](#ecloud)
@@ -36,7 +36,7 @@ ht-degree: 44%
 * [Advertising Cloud](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
-* [[!DNL Marketo Engage]](#marketo)
+* [[!DNL Marketo Engage]](#marketo) (更新日： **2021年1月11日**)
 * [Document Cloud](#doc-cloud)
 
 サポートが必要な場合は、[Adobe Experience League](https://experienceleague.adobe.com/?lang=ja-JP#home) にアクセスし、製品および技術ドキュメント、アドビが運営するコース、ビデオチュートリアル、すばやい回答、コミュニティインサイト、講師によるトレーニングをお探しください。コンテンツは`docs.adobe.com`からこの場所に移動されました。 ブックマークは適宜更新してください。
