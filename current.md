@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d5d885d83774f8160e77ec34ddc4cfa92b7f10f4
+source-git-commit: 783d8abc85c468f18d599d5ff5782dd01cb07e78
 workflow-type: tm+mt
-source-wordcount: '6414'
+source-wordcount: '6428'
 ht-degree: 42%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 42%
 >
 >毎月[Adobe優先度製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読して、このページの更新に関する電子メール通知を受信します。 このページは1か月を通じて管理されるので、Adobeのエンタープライズ製品とExperience Leagueのドキュメントの更新については、定期的にご確認ください。
 
-最新の更新：**2020年1月11日**
+最新の更新：**2021年1月12日**
 
 * [Adobeシステムの状態](#status) （未更新）
 * [Experience Cloud サービスと管理](#ecloud)
@@ -32,7 +32,7 @@ ht-degree: 42%
 * [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) (リリース日：**2021 年 1 月 14 日**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac)
+* [キャンペーン](#ac) (更新 **日2021年1月12日**)
 * [Advertising Cloud](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
@@ -109,13 +109,13 @@ Experience Platform およびサービス用に公開された新しいビデオ
 | 2020年10月26日（更新） | [Offer Decisioning の紹介](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) | ビデオ | このビデオでは、Adobe Experience Platform 上に構築されたアプリケーションサービス、[!UICONTROL Offer Decisioning] の概要を説明します。このビデオでは、[!UICONTROL Offer Decisioning] が解決するビジネス上の課題、その主な機能、基本的なアーキテクチャ、主な使用例について説明します。 |
 | 2020年10月26日（更新） | [Salesforce CRMソースコネクタを使用したデータの取り込み](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/ingest-data-from-salesforce-crm.html) | ビデオ | Salesforce CRMソースコネクタを使用すると、Salesforce CRMからAdobe Experience Platformのリアルタイム顧客プロファイルおよびエクスペリエンスデータレークにデータを簡単にバッチでき、シームレスで拡張性の高い方法で取り込むことができます。 |
 | 2020年10月13日（更新） | [Salesforce CRMソースコネクタを使用したデータの取り込み](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html) | ビデオ | Salesforce CRMソースコネクタを使用すると、Salesforce CRMからAdobe Experience Platformのリアルタイム顧客プロファイルおよびエクスペリエンスデータレークにデータを簡単にバッチでき、シームレスで拡張性の高い方法で取り込むことができます。 |
-| 2020年10月23日（更新） | [データをリアルタイムの顧客プロファイルに導く](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/bring-data-into-the-real-time-customer-profile.html) | ビデオ | リアルタイムのお客様プロファイルにより、お客様の遍歴の各段階を通じて、チャネル間のパーソナライゼーションを大幅に実現します。 |
+| 2020年10月23日（更新） | [データをリアルタイムの顧客プロファイルに導く](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/bring-data-into-the-real-time-customer-profile.html) | ビデオ | リアルタイムのお客様プロファイルにより、お客様のジャーニーの各段階を通じて、チャネル間のパーソナライゼーションを大幅に実現します。 |
 | 2020年10月13日（更新） | [Attribution AI の設定](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intelligent-services/configure-attribution-ai.html) | ビデオ | Attribution AI のインスタンスを作成して、マーケティングチャネルやキャンペーンが及ぼす影響を理解する方法について説明します。 |
 | 2020年10月13日（更新） | [Customer AI の設定](https://experienceleague.adobe.com/docs/platform-learn/tutorials/intelligent-services/configure-customer-ai.html) | ビデオ | 顧客 AI のインスタンスを作成して、顧客の行動を予測する方法について説明します。 |
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
-Adobe Experience Platformを使用して、各個人のニーズをリアルタイムでインテリジェントに予測することで、エクスペリエンスチャネル全体にわたって顧客の遍歴を調整します。
+Adobe Experience Platformを使用して、各個人のニーズをリアルタイムでインテリジェントに予測することで、エクスペリエンスのチャネル全体にわたって顧客のジャーニーを調整します。
 
 ### 新しい製品リリース
 
@@ -373,7 +373,7 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 #### Campaign Classic
 
-<!-- [Incident Response Bulletin](https://helpx.adobe.com/security/products/campaign/apsb21-04.html) (January 12) -->
+[インシデント対応の速報](https://helpx.adobe.com/security/products/campaign/apsb21-04.html) (更新： **2021年1月12日**)
 
 * 20.3.3 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html#release-notes)
 * 20.3.1 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html#release-notes)
