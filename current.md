@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 783d8abc85c468f18d599d5ff5782dd01cb07e78
+source-git-commit: 40f7861366595738d6ba7b7ebcbbba514b2c98c7
 workflow-type: tm+mt
-source-wordcount: '6428'
+source-wordcount: '6518'
 ht-degree: 42%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 42%
 * [Experience Cloud サービスと管理](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) (リリース日：**2021 年 1 月 14 日**)
+* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) (更新日：**2021年1月12日**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [キャンペーン](#ac) (更新 **日2021年1月12日**)
@@ -141,8 +141,9 @@ Adobe Experience Platformを使用して、各個人のニーズをリアルタ�
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ------- |
-| Analysis Workspace  — コンポーネントの選択 | 2021 年 2 月 5 日 | [!UICONTROL クイックインサイト]にあるドロップダウン/ドロップゾーンコンポーネントは、[!UICONTROL ワークスペース]のすべてのドロップゾーンに追加されました。 この機能強化により、互換性のあるコンポーネントのドロップダウンリストから選択したり、スペースをドロップゾーンとして引き続き使用したりできます。 |
-| Analysis Workspace — 画像URL | 2021 年 1 月 14 日 | 公開画像URLを参照することで、[!UICONTROL Workspace]プロジェクトに画像を追加できます。 |
+| Analysis Workspace  — 画像URL | 2021 年 1 月 14 日 | 公開画像URLを参照することで、[!UICONTROL Workspace]プロジェクトに画像を追加できます。 [詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=en#analysis-workspace) |
+| Analysis Workspace — ソースと設定の統合マネージャ | 2021 年 1 月 14 日 | ビジュアライゼーションのデータソースマネージャー（ドット）と設定マネージャー（歯車）は、単一のダイアログに結合されたので、同じ場所からソースと設定を簡単に管理できます。 |
+| Analysis Workspace — コンポーネントの選択 | 2021 年 2 月 5 日 | [!UICONTROL クイックインサイト]にあるドロップダウン/ドロップゾーンコンポーネントは、[!UICONTROL ワークスペース]のすべてのドロップゾーンに追加されました。 この機能強化により、互換性のあるコンポーネントのドロップダウンリストから選択したり、スペースをドロップゾーンとして引き続き使用したりできます。 |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
@@ -150,8 +151,9 @@ Adobe Experience Platformを使用して、各個人のニーズをリアルタ�
 | ----------- | ---------- | ----- |
 | [!UICONTROL デバイス]および[!UICONTROL 地理的]ディメンション | 2020 年 10 月 30 日 | これらのディメンションは、Adobe Analytics[!UICONTROL ソースコネクタ]の[グローバル参照](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/global-lookups.html?lang=en#use-global-lookups-with-adobe-data-connector-datasets)サポートプロジェクトの一部として、デフォルトで使用できるようになりました。 この多くの要望をいただいた追加により、[Adobe Analytics と CJA の間のパリティ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/cja-aa.html?lang=en#cja-overview)が増加しました。 |
 | ジャーニーIQ:[!UICONTROL クロスチャネル分析] | 2021 年 1 月 11 日 | ジャーニーIQ:[!UICONTROL クロスチャネル分析]を使用すると、Experience Platformデータレーク内のAdobe Analytics（または他の）イベントデータセットをID名前空間間で再キーできます。 通常、これは、cookie ベースの ID から人物ベースの ID にイベントデータセットを再入力することを意味します。このようにして、再キー設定されたデータセットをCJA接続で他の人ベースのデータと組み合わせることができ、Analysis Workspaceでのクロスチャネルおよびクロスデバイス分析が可能になります。 [詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=ja-JP#cja-connections) |
-| Analysis Workspace — コンポーネントの選択 | 2021 年 2 月 5 日 | [!UICONTROL クイックインサイト]にあるドロップダウン/ドロップゾーンコンポーネントは、[!UICONTROL ワークスペース]のすべてのドロップゾーンに追加されました。 この機能強化により、互換性のあるコンポーネントのドロップダウンリストから選択したり、スペースをドロップゾーンとして引き続き使用したりできます。 |
 | Analysis Workspace — 画像URL | 2021 年 1 月 14 日 | 公開画像URLを参照して、画像をWorkspaceプロジェクトに追加できます。 |
+| Analysis Workspace — ソースと設定の統合マネージャ | 2021 年 1 月 14 日 | ビジュアライゼーションのデータソースマネージャー（ドット）と設定マネージャー（歯車）は、単一のダイアログに結合されたので、同じ場所からソースと設定を簡単に管理できます。 |
+| Analysis Workspace — コンポーネントの選択 | 2021 年 2 月 5 日 | [!UICONTROL クイックインサイト]にあるドロップダウン/ドロップゾーンコンポーネントは、[!UICONTROL ワークスペース]のすべてのドロップゾーンに追加されました。 この機能強化により、互換性のあるコンポーネントのドロップダウンリストから選択したり、スペースをドロップゾーンとして引き続き使用したりできます。 |
 
 ### Adobe Analytics の修正点 {#aa-fixes}
 
