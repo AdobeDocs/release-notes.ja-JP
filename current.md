@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 40f7861366595738d6ba7b7ebcbbba514b2c98c7
+source-git-commit: 173c6f89606fb3a5fde4db91f66900476293f6b5
 workflow-type: tm+mt
-source-wordcount: '6518'
-ht-degree: 42%
+source-wordcount: '6601'
+ht-degree: 41%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 42%
 >
 >毎月[Adobe優先度製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読して、このページの更新に関する電子メール通知を受信します。 このページは1か月を通じて管理されるので、Adobeのエンタープライズ製品とExperience Leagueのドキュメントの更新については、定期的にご確認ください。
 
-最新の更新：**2021年1月12日**
+最新の更新：**2021年1月13日**
 
 * [Adobeシステムの状態](#status) （未更新）
 * [Experience Cloud サービスと管理](#ecloud)
-* [Experience Platform](#platform)
+* [Experience Platform](#platform) (更新 **日2021年1月13日**)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) (更新日：**2021年1月12日**)
 * [Audience Manager](#aam)
@@ -55,7 +55,10 @@ ht-degree: 42%
 
 今月は更新はありません。
 
-最新のリリース情報について詳しくは、「[Experience Cloud サービスに関するこれまでのリリースノート](https://docs.adobe.com/content/help/ja-JP/core-services/interface/release-notes/release-notes.html)」を参照してください。
+**関連トピック**
+
+* [Experience Cloud](https://docs.adobe.com/content/help/ja-JP/core-services/interface/release-notes/release-notes.html) サービスのこれまでのリリースノートです。
+* [Experience CloudID](https://experienceleague.adobe.com/docs/id-service/using/release-notes/release-notes.html) サービスリリースノート
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
@@ -75,7 +78,14 @@ Experience PlatformとExperience Platform Launchに関するリリースの更�
 
 ### Experience Platform Launch
 
-Platform Launch について詳しくは、[Experience Platform Launch リリースノート](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html)を参照してください。
+リリース日：**2021 年 1 月 13 日**
+
+**[!UICONTROL サーバー側の起動]:イベントレベルのデータをAEP Edge Networkに** 送信し、「サーバー側の起動」を使用して、クライアントではなくAdobeのサーバーを使用して、遅延が小さく、Adobe以外のエンドポイントにそのデータを変換、エンリッチおよび送信します。[詳細情報...](https://experienceleague.adobe.com/docs/launch/using/server-side-info/server-side-overview.html?lang=en#server-side-info)
+
+**関連トピック**
+
+* [Experience Platform Launchリリース](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) ノートを参照してください。
+* [Experience CloudIDサービス](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html) 拡張のリリースノート
 
 ### Adobe Mobile
 
@@ -299,8 +309,8 @@ AEM 6.4、Service Pack 8、Cumulative Fix Pack 3（2020年11月26日リリース
 
 * **財団**
 
-   * ワークフロー — ワークフローインスタンスの検索に、[!UICONTROL ワークフロータイトル]、[!UICONTROL ワークフローモデル]、[!UICONTROL ステータス]、[!UICONTROL 開始者]、[!UICONTROL ペイロードパス]、[!UICONTROL 開始日&lt;a111/>.
-]「[検索ワークフローインスタンス](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/administering/workflows-administering.html#administering)」を参照してください。
+   * ワークフロー — ワークフローインスタンスの検索に、[!UICONTROL ワークフロータイトル]、[!UICONTROL ワークフローモデル]、[!UICONTROL ステータス]、[!UICONTROL 開始者]、[!UICONTROL ペイロードパス]、[!UICONTROL 開始日].
+「[検索ワークフローインスタンス](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/administering/workflows-administering.html#administering)」を参照してください。
    * 発行層ユーザーデータの同期 —プロファイル属性やグループのメンバーシップを含むユーザーデータは、発行層に保持できます。
 [登録、ログイン、ユーザープロファイルに関するドキュメント](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/personalization/user-and-group-sync-for-publish-tier.html#authoring)を参照してください。
 
