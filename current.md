@@ -23,7 +23,7 @@ ht-degree: 41%
 >
 >毎月[Adobe優先度製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読して、このページの更新に関する電子メール通知を受信します。 このページは1か月を通じて管理されるので、Adobeのエンタープライズ製品とExperience Leagueのドキュメントの更新については、定期的にご確認ください。
 
-最新の更新：**2021年1月13日**
+最新の更新：**2021年1月12日**
 
 * [Adobeシステムの状態](#status) （未更新）
 * [Experience Cloud サービスと管理](#ecloud)
