@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d6693c587c6622105b13410dad58ad28232388cc
+source-git-commit: 026ae3842b9683ac8c55658964969d5deca75340
 workflow-type: tm+mt
 source-wordcount: '6618'
 ht-degree: 41%
@@ -93,7 +93,7 @@ Experience PlatformとExperience Platform Launchに関するリリースの更�
 
 iOSバージョン4.21.1
 
-* 一般 — アプリのシャットダウン中にsqlite例外が発生する可能性がある問題を修正しました。
+* 一般 — アプリのシャットダウン中にSQLite例外が発生する可能性がある問題を修正しました。
 
 iOSバージョン4.21.0
 
