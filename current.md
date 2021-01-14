@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 173c6f89606fb3a5fde4db91f66900476293f6b5
+source-git-commit: d6693c587c6622105b13410dad58ad28232388cc
 workflow-type: tm+mt
-source-wordcount: '6601'
+source-wordcount: '6618'
 ht-degree: 41%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 41%
 >
 >毎月[Adobe優先度製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読して、このページの更新に関する電子メール通知を受信します。 このページは1か月を通じて管理されるので、Adobeのエンタープライズ製品とExperience Leagueのドキュメントの更新については、定期的にご確認ください。
 
-最新の更新：**2021年1月12日**
+最新の更新：**2021年1月14日**
 
 * [Adobeシステムの状態](#status) （未更新）
 * [Experience Cloud サービスと管理](#ecloud)
-* [Experience Platform](#platform) (更新 **日2021年1月13日**)
+* [Experience Platform](#platform) (更新 **日2021年1月14日**)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) (更新日：**2021年1月12日**)
 * [Audience Manager](#aam)
@@ -89,9 +89,15 @@ Experience PlatformとExperience Platform Launchに関するリリースの更�
 
 ### Adobe Mobile
 
+**2021年1月14日更新**
+
+iOSバージョン4.21.1
+
+* 一般 — アプリのシャットダウン中にsqlite例外が発生する可能性がある問題を修正しました。
+
 iOSバージョン4.21.0
 
-一般 — SDKは[!DNL XCFrameworks]を使用して配布され、既存のインテルアーキテクチャのサポートを維持しながら、新しいApple M1アーキテクチャでハードウェアをサポートします。
+* 一般 — SDKは[!DNL XCFrameworks]を使用して配布され、既存のインテルアーキテクチャのサポートを維持しながら、新しいApple M1アーキテクチャでハードウェアをサポートします。
 
 * 重要：AdobeMobile [!DNL XCFrameworks]にアップグレードするには、Xcode 12.0以降が必要です。
 * 重要：[!DNL Cocoapods]を使用する場合、AdobeMobile [!DNL XCFrameworks]にアップグレードするには[!DNL Cocoapods] 1.10.0以降が必要です。
