@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 026ae3842b9683ac8c55658964969d5deca75340
+source-git-commit: 579b634c53f1a04a5c75f66e31de0dde5e5d1352
 workflow-type: tm+mt
-source-wordcount: '6618'
-ht-degree: 41%
+source-wordcount: '6788'
+ht-degree: 40%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 41%
 * [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) (更新日：**2021年1月12日**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [キャンペーン](#ac) (更新 **日2021年1月12日**)
+* [キャンペーン](#ac) (更新 **日2021年1月14日**)
 * [Advertising Cloud](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
@@ -417,7 +417,13 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 | 公開日 | 名前 | ソリューション | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2020 年 12 月 23 日 | [動的コンテンツの設定](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/configuring-dynamic-content.html#sending-messages) | Campaign Classic | （ビデオ）動的コンテンツの様々なタイプを理解し、パーソナライゼーションブロックや条件ステートメントを作成して配信に適用する方法を学びます。 |
-| 2020 年 12 月 9 日 | [コントロールパネル - Google TXT レコード管理](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/subdomains-and-certificates/google-txt-record-management.html#subdomains-and-certificates) | Campaign Standard | （ビデオ）[!UICONTROL キャンペーンCampaign コントロールパネル]を使用してGMAILアドレスに電子メールを送信するために使用するすべてのサブドメインに、Google TXTサイト検証レコードを追加する方法を説明します。 |
+| 2020 年 12 月 23 日 | [購読サービスの設定と管理](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/configuring-and-managing-subscription-services.html) | Campaign Classic | （ビデオ）購読とターゲットのサブスクリプションを設定および管理する方法について説明します。 |
+| 2020 年 12 月 22 日 | [組み込みレポートへのアクセス](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/reporting/accessing-built-in-reports.html) | Campaign Classic | （ビデオ）  理解する  campaign classicに組み込まれたレポートと分析を参照し、配信レポートの生成方法を学びます。 |
+| 2020 年 12 月 22 日 | [電子メール配信の問題のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/troubleshooting-email-delivery-issues.html) | Campaign Classic | （ビデオ）配信の問題のトラブルシューティング方法について説明します。 |
+| 2020 年 12 月 18 日 | [ダイレクトメール配信の作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/sending-messages/direct-mail/creating-direct-mail-deliveries.html) | Campaign Classic | （ビデオ）ダイレクトメール配信を作成し、キャンペーンでシードアドレスを使用する方法を説明します。 |
+| 2020 年 12 月 18 日 | [キャンペーンでの承認の管理  ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html) | Campaign Classic | （ビデオ）承認とキャンペーンを設定する方法、および配信とワークフローの承認を区別する方法について説明します。 |
+| 2020 年 12 月 18 日 | [キャンペーンの実行](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/orchestration/executing-a-campaign.html) | Campaign Classic | （ビデオ）キャンペーンの実行、電子メール配信の確認、配信のプロパティの確認方法について説明します。 |
+| 2020 年 12 月 15 日 | [アプリの購読スキーマを拡張して、プッシュ通知をパーソナライズする](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.html) | Campaign Classic | （ビデオ）アプリの購読スキーマを拡張して、モバイルアプリからキャンペーンが受け取るパーソナライズ値を格納する方法について説明します。 |
 
 ## ![アイコン](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
