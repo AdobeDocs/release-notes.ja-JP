@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 6d3d54f4926936ced5c9025e563cdfeec59f4a1f
 workflow-type: tm+mt
 source-wordcount: '6796'
-ht-degree: 90%
+ht-degree: 99%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 90%
 
 * [アドビシステムのステータス](#status)（未更新）
 * [Experience Cloud サービスと管理](#ecloud)
-* [Experience Platform](#platform) (更新 **日2021年1月14日**)
+* [Experience Platform](#platform)（更新日 **2021 年 1 月 14 日**）
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) (更新日：**2021 年 1 月 20 日**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [キャンペーン](#ac) (更新 **日2021年1月14日**)
+* [Campaign](#ac)（更新日 **2021 年 1 月 14 日**）
 * [Advertising Cloud](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
@@ -57,8 +57,8 @@ ht-degree: 90%
 
 **関連トピック**
 
-* [Experience Cloud](https://docs.adobe.com/content/help/ja-JP/core-services/interface/release-notes/release-notes.html) サービスのこれまでのリリースノートです。
-* [Experience CloudID](https://experienceleague.adobe.com/docs/id-service/using/release-notes/release-notes.html) サービスリリースノート
+* 最新のリリース情報について詳しくは、[Experience Cloud サービスに関するこれまでのリリースノート](https://docs.adobe.com/content/help/ja-JP/core-services/interface/release-notes/release-notes.html)を参照してください。
+* [Experience Cloud ID サービス](https://experienceleague.adobe.com/docs/id-service/using/release-notes/release-notes.html?lang=ja-JP)リリースノート
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
@@ -70,7 +70,7 @@ Experience Platform と Experience Platform Launch に関するリリース更�
 
 最終更新日：**2020 年 12 月 9 日**
 
-以下に適用される最新の更新については、[Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=en)を参照してください。
+以下に適用される最新の更新については、[Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja-JP)を参照してください。
 
 * [!UICONTROL データフロー]
 * [!UICONTROL Data Science Workspace]
@@ -80,24 +80,24 @@ Experience Platform と Experience Platform Launch に関するリリース更�
 
 リリース日：**2021 年 1 月 13 日**
 
-**[!UICONTROL サーバー側の起動]:イベントレベルのデータをAEP Edge Networkに** 送信し、「サーバー側の起動」を使用して、クライアントではなくAdobeのサーバーを使用して、遅延が小さく、Adobe以外のエンドポイントにそのデータを変換、エンリッチおよび送信します。[詳細情報...](https://experienceleague.adobe.com/docs/launch/using/server-side-info/server-side-overview.html?lang=en#server-side-info)
+**[!UICONTROL Launch サーバーサイド]：**&#x200B;イベントレベルのデータを AEP Edge ネットワークに送信し、「Launch サーバーサイド」を使用し、クライアントではなくアドビのサーバーを使用して、少ない遅延で、アドビ以外のエンドポイントにそのデータを変換、強化および送信します。[詳細情報...](https://experienceleague.adobe.com/docs/launch/using/server-side-info/server-side-overview.html?lang=ja-JP#server-side-info)
 
 **関連トピック**
 
-* [Experience Platform Launchリリース](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=ja-JP) ノートを参照してください。
-* [Experience CloudIDサービス](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html) 拡張のリリースノート
+* Experience Platform Launch について詳しくは、[Experience Platform Launch リリースノート](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=ja-JP)を参照してください。
+* [Experience Cloud ID サービス拡張機能](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html?lang=ja-JP)のリリースノート。
 
 ### Adobe Mobile
 
-**2021年1月14日更新**
+更新日 **2021 年 1 月 14 日**
 
 iOS バージョン 4.21.1
 
-* 一般 — アプリのシャットダウン中にSQLite例外が発生する可能性がある問題を修正しました。
+* 一般 - アプリのシャットダウン中に SQLite 例外が発生する可能性がある問題を修正しました。
 
 iOS バージョン 4.21.0
 
-* 一般 — SDKは[!DNL XCFrameworks]を使用して配布され、既存のインテルアーキテクチャのサポートを維持しながら、新しいApple M1アーキテクチャでハードウェアをサポートします。
+* 一般 - SDK は、既存の Intel アーキテクチャのサポートを維持しながら、新しい Apple M1 アーキテクチャでハードウェアをサポートするために、[!DNL XCFrameworks] を使用して配布されるようになりました。
 
 * 重要：AdobeMobile [!DNL XCFrameworks] にアップグレードするには、Xcode 12.0 以降が必要です。
 * 重要：[!DNL Cocoapods]を使用している場合、AdobeMobile [!DNL XCFrameworks] にアップグレードするには、 [!DNL Cocoapods] 1.10.0 以降が必要です。
@@ -157,8 +157,8 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ------- |
-| Analysis Workspace - 画像 URL | 2021 年 1 月 14 日 | 公開画像 URL を参照することで、[!UICONTROL Workspace]プロジェクトに画像を追加できます。[詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=en#analysis-workspace) |
-| Analysis Workspace — ソースと設定の統合マネージャ | 2021 年 1 月 14 日 | ビジュアライゼーションのデータソースマネージャー（ドット）と設定マネージャー（歯車）は、単一のダイアログに結合されたので、同じ場所からソースと設定を簡単に管理できます。 |
+| Analysis Workspace - 画像 URL | 2021 年 1 月 14 日 | 公開画像 URL を参照することで、[!UICONTROL Workspace]プロジェクトに画像を追加できます。[詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=ja-JP#analysis-workspace) |
+| Analysis Workspace - ソースマネージャーと設定マネージャーの結合 | 2021 年 1 月 14 日 | ビジュアライゼーションのデータソースマネージャー（ドット）と設定マネージャー（歯車）は、単一のダイアログに結合されたので、同じ場所からソースと設定を簡単に管理できます。 |
 | Analysis Workspace - コンポーネントの選択 | 2021 年 2 月 5 日 | [!UICONTROL クイックインサイト]にあるドロップダウン／ドロップゾーンコンポーネントは、[!UICONTROL Workspace]のすべてのドロップゾーンに追加されました。 この機能強化により、互換性のあるコンポーネントのドロップダウンリストから選択したり、スペースをドロップゾーンとして引き続き使用したりできます。 |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
@@ -168,7 +168,7 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 | [!UICONTROL デバイス]および[!UICONTROL 地理的]ディメンション | 2020 年 10 月 30 日 | これらのディメンションは、Adobe Analytics [!UICONTROL ソースコネクタ]の[グローバルルックアップ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/global-lookups.html?lang=ja-JP#use-global-lookups-with-adobe-data-connector-datasets)のサポートプロジェクトの一部として、デフォルトで使用できるようになりました。この多くの要望をいただいた追加により、[Adobe Analytics と CJA の間のパリティ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/cja-aa.html?lang=ja-JP#cja-overview)が増加しました。 |
 | ジャーニー IQ：[!UICONTROL クロスチャネル分析] | 2021 年 1 月 11 日 | ジャーニー IQ：[!UICONTROL クロスチャネル分析]を使用すれば、 Experience Platform データレイク内の Adobe Analytics（または他の）イベントデータセットを、ある ID 名前空間から別の ID 名前空間へと再入力できます。通常、これは、cookie ベースの ID から人物ベースの ID にイベントデータセットを再入力することを意味します。これにより、再入力されたデータセットを CJA 接続の他の人物ベースのデータと組み合わせることができ、Analysis Workspace でのクロスデバイス／クロスチャネル分析が可能になります。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=ja-JP#cja-connections) |
 | Analysis Workspace - 画像 URL | 2021 年 1 月 14 日 | 公開画像 URL を参照して、画像を Workspace プロジェクトに追加できます。 |
-| Analysis Workspace — ソースと設定の統合マネージャ | 2021 年 1 月 14 日 | ビジュアライゼーションのデータソースマネージャー（ドット）と設定マネージャー（歯車）は、単一のダイアログに結合されたので、同じ場所からソースと設定を簡単に管理できます。 |
+| Analysis Workspace - ソースマネージャーと設定マネージャーの結合 | 2021 年 1 月 14 日 | ビジュアライゼーションのデータソースマネージャー（ドット）と設定マネージャー（歯車）は、単一のダイアログに結合されたので、同じ場所からソースと設定を簡単に管理できます。 |
 | Analysis Workspace - コンポーネントの選択 | 2021 年 2 月 5 日 | [!UICONTROL クイックインサイト]にあるドロップダウン／ドロップゾーンコンポーネントは、[!UICONTROL Workspace]のすべてのドロップゾーンに追加されました。 この機能強化により、互換性のあるコンポーネントのドロップダウンリストから選択したり、スペースをドロップゾーンとして引き続き使用したりできます。 |
 
 ### Adobe Analytics の修正点 {#aa-fixes}
@@ -201,7 +201,7 @@ AN-204659、AN-221726、AN-230949、AN-231984、AN-232835、AN-233989、AN-23559
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
 | Ad Hoc Analysis のサポート終了 | 2021年1月21日 | 2021年3月1日、Ad Hoc Analysisは廃止に達します。 この時点で、この製品を使用するすべてのプロジェクトとスケジュールは機能しなくなります。 詳しくは、[Discover Workspace](https://adobe.ly/discoverworkspace) を参照してください。 |
-| 必要な[!UICONTROL Report Builder]の更新 | 2021 年 1 月 8 日 | 2021年4月30日までに、すべての[!UICONTROL Report Builder]ユーザーは、[!UICONTROL Report Builder]アドインをバージョン5.6.47以降に更新する必要があります。 このバージョンには、ログインプロセスに対する重要な更新が含まれています。 バージョン5.6.47以降にアップデートしないユーザーは、2021年4月30日を過ぎるとサインインできなくなります。 [!UICONTROL Report ] Builderバージョン5.6.47以降では、Experience Cloudログインのみがサポートされ、SiteCatalystのシングルサインオンや標準ログインなどの従来のログインはサポートされません。詳しくは、[Report Builderサインイン](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA)を参照してください。 |
+| 必要な [!UICONTROL Report Builder] の更新 | 2021 年 1 月 8 日 | 2021 年 4 月 30 日までに、すべての [!UICONTROL Report Builder] ユーザーは、[!UICONTROL Report Builder] アドインをバージョン 5.6.47 以降に更新する必要があります。 このバージョンには、サインインプロセスに対する重要な更新が含まれています。 バージョン 5.6.47 以降にアップデートしないユーザーは、2021 年 4 月 30 日以降はサインインできなくなります。 [!UICONTROL Report Builder] のバージョン 5.6.47 以降では、Experience Cloud ログインのみがサポートされ、SiteCatalyst のシングルサインオンや標準サインインなどの従来のログインはサポートされません。詳しくは、[Report Builder のサインイン](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=ja-JP#section_6D54B8ADAE7F416BB83F5082B3771CFA)を参照してください。 |
 | 3 つの Analytics API サービスの提供終了 | 2021 年 1 月 6 日 | 2021 年 4 月 30 日、以下の Analytics 従来の API サービスの提供が終了し、サービスが停止されます。 これらのサービスを使用して構築された現在の統合は、その日以降使用できなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>ご質問への回答、および進め方に関するガイダンスを提供するために、[従来の API EOL に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe IO](https://console.adobe.io/home?mv=email#) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API の両方にアクセスするために使用できます。 |
 | すべての受信 HTTPS リクエストの対する HSTS ヘッダーの追加 | 2020 年 9 月 30 日 | 2020 年 9 月 30 日に、HTTPS を使用するすべての受信リクエストに対して、HSTS ヘッダーの追加を開始しました。これは、将来のすべてのリクエストを、セキュリティ上のベストプラクティスと考えられる HTTPS でおこなうようにブラウザー／クライアントに指示します。現時点では、HTTP を使用した受信リクエストについては、これはおこないません。 |
 | [!UICONTROL Experience Cloud ID サービス]の Cookie 設定に対する変更 | 2020 年 9 月 23 日 | Chrome バージョン 80 のプライバシー設定に対する更新は、Google AMP ページを表示する一部のユーザーをトラッキングするための Adobe Analytics の機能に影響します。特に、Google がホストする AMP ページを表示するユーザーのクロスドメイントラッキングを妨げます。この結果、ユニーク訪問者数に影響する可能性があります。この修正を利用すると、その ECID Cookie の設定を変更することで、この問題に対処できます。<br>現在、Analytics は、（Chrome の 80 より前のバージョンでクロスドメイントラッキングを許可する）設定 `SameSite = Lax` により、[!UICONTROL Experience Cloud ID サービス]（ECID）Cookie を設定しています。これは、今後は適用されません。この変更により、ユーザーは、ECID Cookie 用の SameSite 設定を `None` に更新できます。<br>これによって、より多くの状況で Analytics Cookie が共有される可能性がありますが、Analytics Cookieには機密情報は含まれていないことに留意してください。また、この設定を選択する場合、データが HTTPS 接続経由でのみ渡されるように、Cookie が `Secure` に設定されている必要があります。この変更をおこなう場合は、カスタマーケアのサポート対象ユーザーがチケットを開いてください。 |
@@ -217,7 +217,7 @@ AppMeasurement リリースの最新の更新については、[AppMeasurement f
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
-| Analytics [!UICONTROL Report Builder]へのログインの更新 | 2021 年 1 月 14 日 | [!UICONTROL Report Builder]のログインプロセスの改善により、従来のテクノロジーへの依存性が取り除かれ、ログインプロセスがAdobe Experience Cloudと連携します。 Experience Cloudサインインを使用すると、Adobe IDまたはEnterprise ID（シングルサインオン）を使用してAdobe Experience Cloudにサインインできます。 2021年4月30日までに、すべての[!UICONTROL Report Builder]ユーザーは、[!UICONTROL Report Builder]アドインをバージョン5.6.47以降に更新する必要があります。 [!UICONTROL Report ] Builderバージョン5.6.47以降では、Experience Cloudのサインインのみがサポートされ、SiteCatalystのシングルサインオンや標準のサインインなど、従来のサインインはサポートされません。詳しくは、[Report Builderサインイン](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA)を参照してください。 |
+| Analytics [!UICONTROL Report Builder] へのサインインの更新 | 2021 年 1 月 14 日 | [!UICONTROL Report Builder] のサインインプロセスの改善により、従来のテクノロジーへの依存関係がなくなり、サインインプロセスを Adobe Experience Cloud に合わせます。 Experience Cloud サインインを使用すると、Adobe ID または Enterprise ID（シングルサインオン）を使用して Adobe Experience Cloud にログインできます。 2021 年 4 月 30 日までに、すべての [!UICONTROL Report Builder] ユーザーは、[!UICONTROL Report Builder] アドインをバージョン 5.6.47 以降に更新する必要があります。 [!UICONTROL Report Builder] のバージョン 5.6.47 以降では、Experience Cloud のサインインのみがサポートされ、SiteCatalyst のシングルサインオンや標準サインインなどの従来のサインインはサポートされません。詳しくは、[Report Builder のログイン](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA)を参照してください。 |
 
 ### Analytics ヘルプリソース
 
@@ -390,7 +390,7 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 #### Campaign Classic
 
-[インシデント対応の速報](https://helpx.adobe.com/security/products/campaign/apsb21-04.html) (更新： **2021年1月12日**)
+[インシデント対応の速報](https://helpx.adobe.com/security/products/campaign/apsb21-04.html)（更新日：**2021 年 1 月 12 日**）
 
 * 20.3.3 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja-JP#release-notes)
 * 20.3.1 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html#release-notes)
@@ -416,13 +416,13 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 | 公開日 | 名前 | ソリューション | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2020 年 12 月 23 日 | [動的コンテンツの設定](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/configuring-dynamic-content.html?lang=ja-JP#sending-messages) | Campaign Classic | （ビデオ）動的コンテンツの様々なタイプを理解し、パーソナライゼーションブロックや条件ステートメントを作成して配信に適用する方法を学びます。 |
-| 2020 年 12 月 23 日 | [購読サービスの設定と管理](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/configuring-and-managing-subscription-services.html) | Campaign Classic | （ビデオ）購読とターゲットのサブスクリプションを設定および管理する方法について説明します。 |
-| 2020 年 12 月 22 日 | [組み込みレポートへのアクセス](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/reporting/accessing-built-in-reports.html) | Campaign Classic | （ビデオ）  理解する  campaign classicに組み込まれたレポートと分析を参照し、配信レポートの生成方法を学びます。 |
-| 2020 年 12 月 22 日 | [電子メール配信の問題のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/troubleshooting-email-delivery-issues.html) | Campaign Classic | （ビデオ）配信の問題のトラブルシューティング方法について説明します。 |
-| 2020 年 12 月 18 日 | [ダイレクトメール配信の作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/sending-messages/direct-mail/creating-direct-mail-deliveries.html) | Campaign Classic | （ビデオ）ダイレクトメール配信を作成し、キャンペーンでシードアドレスを使用する方法を説明します。 |
-| 2020 年 12 月 18 日 | [キャンペーンでの承認の管理  ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html) | Campaign Classic | （ビデオ）承認とキャンペーンを設定する方法、および配信とワークフローの承認を区別する方法について説明します。 |
-| 2020 年 12 月 18 日 | [キャンペーンの実行](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/orchestration/executing-a-campaign.html) | Campaign Classic | （ビデオ）キャンペーンの実行、電子メール配信の確認、配信のプロパティの確認方法について説明します。 |
-| 2020 年 12 月 15 日 | [アプリの購読スキーマを拡張して、プッシュ通知をパーソナライズする](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.html) | Campaign Classic | （ビデオ）アプリの購読スキーマを拡張して、モバイルアプリからキャンペーンが受け取るパーソナライズ値を格納する方法について説明します。 |
+| 2020 年 12 月 23 日 | [サブスクリプションサービスの設定と管理](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/configuring-and-managing-subscription-services.html?lang=ja-JP) | Campaign Classic | （ビデオ）サブスクリプションとターゲットの登録者を設定および管理する方法について説明します。 |
+| 2020 年 12 月 22 日 | [組み込みレポートへのアクセス](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/reporting/accessing-built-in-reports.html?lang=ja-JP) | Campaign Classic | （ビデオ）Campaign Classic に組み込まれたレポートと分析を理解し、配信レポートの生成方法について説明します。 |
+| 2020 年 12 月 22 日 | [電子メール配信の問題のトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/troubleshooting-email-delivery-issues.html?lang=ja-JP) | Campaign Classic | （ビデオ）配信の問題のトラブルシューティング方法について説明します。 |
+| 2020 年 12 月 18 日 | [ダイレクトメール配信の作成](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/sending-messages/direct-mail/creating-direct-mail-deliveries.html) | Campaign Classic | （ビデオ）ダイレクトメール配信を作成し、Campaign でシードアドレスを使用する方法を説明します。 |
+| 2020 年 12 月 18 日 | [Campaign での承認の管理](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html?lang=ja-JP) | Campaign Classic | （ビデオ）承認とキャンペーンを設定する方法、および配信とワークフローの承認を区別する方法について説明します。 |
+| 2020 年 12 月 18 日 | [キャンペーンの実行](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/orchestration/executing-a-campaign.html?lang=ja-JP) | Campaign Classic | （ビデオ）キャンペーンの実行、電子メール配信および配信のプロパティの確認方法について説明します。 |
+| 2020 年 12 月 15 日 | [アプリのサブスクリプションスキーマを拡張して、プッシュ通知をパーソナライズする](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.html?lang=ja-JP) | Campaign Classic | （ビデオ）モバイルアプリから Campaign が受け取るパーソナライズ値を格納できるよう、アプリのサブスクリプションスキーマを拡張する方法について説明します。 |
 
 ## ![アイコン](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
