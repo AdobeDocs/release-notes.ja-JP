@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 05cf9f34a835a5d51013789909508c353827315e
+source-git-commit: b974424e1aa557063f54a12aed537a62c283779b
 workflow-type: tm+mt
-source-wordcount: '6770'
+source-wordcount: '6772'
 ht-degree: 97%
 
 ---
@@ -23,20 +23,20 @@ ht-degree: 97%
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されます。アドビのエンタープライズ製品と Experience League のドキュメントの更新について、定期的にご確認ください。
 
-最新の更新：**2021 年 1 月 14 日**
+最新の更新：**2021 年 1 月 22 日**
 
 * [アドビシステムのステータス](#status)（未更新）
 * [Experience Cloud サービスと管理](#ecloud)
-* [Experience Platform](#platform)（更新日 **2021 年 1 月 14 日**）
+* [Experience Platform](#platform)（更新日 2021 年 1 月 14 日）
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) (更新日：**2021 年 1 月 20 日**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac)（更新日 **2021 年 1 月 14 日**）
-* [Advertising Cloud](#adcloud)
+* [Campaign](#ac)（更新日 2021 年 1 月 14 日）
+* [Advertising Cloud](#adcloud) (更新日2021 **年1月22日**)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
-* [[!DNL Marketo Engage]](#marketo) (更新日：**2021 年 1 月 11 日**)
+* [[!DNL Marketo Engage]](#marketo) (更新日：2021 年 1 月 11 日)
 * [Document Cloud](#doc-cloud)
 
 サポートが必要な場合は、[Adobe Experience League](https://experienceleague.adobe.com/?lang=ja-JP#home) にアクセスし、製品および技術ドキュメント、アドビが運営するコース、ビデオチュートリアル、すばやい回答、コミュニティインサイト、講師によるトレーニングをお探しください。コンテンツは`docs.adobe.com`からこの場所に移動されました。 状況に応じてブックマークを更新してください。
