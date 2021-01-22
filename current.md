@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6d3d54f4926936ced5c9025e563cdfeec59f4a1f
+source-git-commit: 05cf9f34a835a5d51013789909508c353827315e
 workflow-type: tm+mt
-source-wordcount: '6796'
-ht-degree: 99%
+source-wordcount: '6770'
+ht-degree: 97%
 
 ---
 
@@ -437,22 +437,20 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| 新規ヘルプ | （10 月 28 日のリリース）レガシーのヘルプは更新されたページに置き換えられました。ページは DSP のメインメニューの「ヘルプ」リンクから利用でき、[https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=ja-JP](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=ja-JP) でいつでも利用できます。 |
-| キャンペーン | （10 月 28 日のリリース）以前の Campaign ベータ版のビューがデフォルトの Campaign ビューになり、より迅速なインサイト、簡素化されたワークフロー、カスタマイズされたビューを実現しました。 |
+| 新規ヘルプ | （10月28日リリース）従来のヘルプは更新されたページに置き換えられました。このページはDSPのメインメニューの「ヘルプ」リンクから利用でき、[https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=ja-JP)からも常に利用できます。 |
+| キャンペーン | （10月28日リリース）以前のキャンペーンのベータ表示がデフォルトのキャンペーン表示になり、より迅速なインサイト、シンプル化されたワークフローおよびカスタマイズされた表示を実現しました。 |
 | プライベート在庫 | （10 月 15 日のリリース）すべてのユーザーが、新しい Deal ID フォームを使用して、Deal ID の詳細を設定および編集できるようになりました。これは、従来の [!UICONTROL Smart Ad Serving] フォームをシンプルにしたバージョンです。新しい Deal ID の詳細を設定するには、**[!UICONTROL Inventory／Deals]** に移動し、「**[!UICONTROL Create]**」をクリックしてから、「**[!UICONTROL Deal ID Beta]**」をクリックします。 |
 | プレースメントの予測 | （10 月 15 日のリリース）プレースメントレベルのペーシングを使用したプレースメントの場合、プレースメント設定の「[!UICONTROL Forecast]」セクションには、新しい「[!UICONTROL Estimated Maximums]」セクションが含まれます。このセクションは、現在のターゲット設定でどれくらい多くの容量が使用できるかを示します。 |
 
 ### [!DNL Advertising Cloud Search] の新機能 {#adcloud-search}
 
-最終更新日：**2020 年 10 月 17 日**
+最終更新日：**2021年1月22日、1月23日リリース**
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| [!UICONTROL キャンペーンの検索] | 「[!UICONTROL Accounts]」表示では、[!UICONTROL Access] 列にいつ [!DNL Advertising Cloud Search] が有効な検索エンジンアカウントにログインできないかが示されるようになりました。エラーの原因を確認するには、警告アイコンの上にマウスポインターを置いたままにします。 |
-| [!UICONTROL Custom Alerts] | 以前の [!UICONTROL Alerts Beta] は、現在は [!UICONTROL Custom Alerts] と呼ばれています。 |
-| [!UICONTROL カスタムアラート] | Custom Alerts では、以前の期間の指標から指定した日付範囲でいつ指標が増加または減少したかを特定するワークフローがシンプル化され、「[!UICONTROL Filters]」タブに移動しました。 |
+| [!UICONTROL キャンペーンの検索]<br> レポート | Advertising Cloud Searchは、Microsoft Advertisingキャンペーンの新しい平均掲載順位データをレポートしなくなりました。 平均掲載順位列には、1月23日から始まる日付の値が0 （ゼロ）で表示されます。 これは、2021年1月にMicrosoftが平均掲載順位データを廃止する準備となっています。<br>1月22日までに収集された平均掲載順位のデータは、引き続きレポートで使用できます。 |
 
-### Ad Cloud チュートリアルとコース
+### Advertising Cloudチュートリアルとコース
 
 更新日：**2020 年 12 月 2 日**
 
