@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b974424e1aa557063f54a12aed537a62c283779b
+source-git-commit: 9f09b05b1764f65ec18f108b1e45942e58ce89fb
 workflow-type: tm+mt
 source-wordcount: '6772'
 ht-degree: 97%
@@ -29,7 +29,7 @@ ht-degree: 97%
 * [Experience Cloud サービスと管理](#ecloud)
 * [Experience Platform](#platform)（更新日 2021 年 1 月 14 日）
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) (更新日：**2021 年 1 月 20 日**)
+* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) (更新日：**2021 年 1 月 25 日**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)（更新日 2021 年 1 月 14 日）
@@ -159,7 +159,7 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 | ----------- | ---------- | ------- |
 | Analysis Workspace - 画像 URL | 2021 年 1 月 14 日 | 公開画像 URL を参照することで、[!UICONTROL Workspace]プロジェクトに画像を追加できます。[詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=ja-JP#analysis-workspace) |
 | Analysis Workspace - ソースマネージャーと設定マネージャーの結合 | 2021 年 1 月 14 日 | ビジュアライゼーションのデータソースマネージャー（ドット）と設定マネージャー（歯車）は、単一のダイアログに結合されたので、同じ場所からソースと設定を簡単に管理できます。 |
-| Analysis Workspace - コンポーネントの選択 | 2021 年 2 月 5 日 | [!UICONTROL クイックインサイト]にあるドロップダウン／ドロップゾーンコンポーネントは、[!UICONTROL Workspace]のすべてのドロップゾーンに追加されました。 この機能強化により、互換性のあるコンポーネントのドロップダウンリストから選択したり、スペースをドロップゾーンとして引き続き使用したりできます。 |
+| Analysis Workspace - コンポーネントの選択 | 2021年2月17日 | [!UICONTROL クイックインサイト]にあるドロップダウン／ドロップゾーンコンポーネントは、[!UICONTROL Workspace]のすべてのドロップゾーンに追加されました。 この機能強化により、互換性のあるコンポーネントのドロップダウンリストから選択したり、スペースをドロップゾーンとして引き続き使用したりできます。 |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
@@ -169,7 +169,7 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 | ジャーニー IQ：[!UICONTROL クロスチャネル分析] | 2021 年 1 月 11 日 | ジャーニー IQ：[!UICONTROL クロスチャネル分析]を使用すれば、 Experience Platform データレイク内の Adobe Analytics（または他の）イベントデータセットを、ある ID 名前空間から別の ID 名前空間へと再入力できます。通常、これは、cookie ベースの ID から人物ベースの ID にイベントデータセットを再入力することを意味します。これにより、再入力されたデータセットを CJA 接続の他の人物ベースのデータと組み合わせることができ、Analysis Workspace でのクロスデバイス／クロスチャネル分析が可能になります。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=ja-JP#cja-connections) |
 | Analysis Workspace - 画像 URL | 2021 年 1 月 14 日 | 公開画像 URL を参照して、画像を Workspace プロジェクトに追加できます。 |
 | Analysis Workspace - ソースマネージャーと設定マネージャーの結合 | 2021 年 1 月 14 日 | ビジュアライゼーションのデータソースマネージャー（ドット）と設定マネージャー（歯車）は、単一のダイアログに結合されたので、同じ場所からソースと設定を簡単に管理できます。 |
-| Analysis Workspace - コンポーネントの選択 | 2021 年 2 月 5 日 | [!UICONTROL クイックインサイト]にあるドロップダウン／ドロップゾーンコンポーネントは、[!UICONTROL Workspace]のすべてのドロップゾーンに追加されました。 この機能強化により、互換性のあるコンポーネントのドロップダウンリストから選択したり、スペースをドロップゾーンとして引き続き使用したりできます。 |
+| Analysis Workspace - コンポーネントの選択 | 2021年2月17日 | [!UICONTROL クイックインサイト]にあるドロップダウン／ドロップゾーンコンポーネントは、[!UICONTROL Workspace]のすべてのドロップゾーンに追加されました。 この機能強化により、互換性のあるコンポーネントのドロップダウンリストから選択したり、スペースをドロップゾーンとして引き続き使用したりできます。 |
 
 ### Adobe Analytics の修正点 {#aa-fixes}
 
