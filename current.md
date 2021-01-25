@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9f09b05b1764f65ec18f108b1e45942e58ce89fb
+source-git-commit: 0c154b63cee0bd27b900101f535fc0224b82438c
 workflow-type: tm+mt
-source-wordcount: '6772'
+source-wordcount: '6776'
 ht-degree: 97%
 
 ---
@@ -146,10 +146,10 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 
 リリース日：**2021 年 1 月 14 日**
 
-* [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey)
+* [Adobe Analyticsの新機能](#aa-features) （更新日2021年1月25日）
+* [Customer Journey Analyticsの新機能](#cust-journey) （更新日2021年1月25日）
 * [Adobe Analytics の修正点](#aa-fixes)
-* [Analytics 管理者向けの重要な注意事項](#aa-notices)（更新日2021年1月20日）
+* [Analytics 管理者向けの重要な注意事項](#aa-notices) （更新日2021年1月20日）
 * [AppMeasurement](#appm)
 * [Report Builder](#arb)
 
