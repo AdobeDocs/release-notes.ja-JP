@@ -29,14 +29,14 @@ ht-degree: 97%
 * [Experience Cloud サービスと管理](#ecloud)
 * [Experience Platform](#platform)（更新日 **2021 年 1 月 25 日**）
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) (更新日：**2021 年 1 月 25 日**)
+* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)（更新日：**2021 年 1 月 25 日**）
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)（更新日 2021 年 1 月 14 日）
 * [Advertising Cloud](#adcloud) (更新日2021 **年1月22日**)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
-* [[!DNL Marketo Engage]](#marketo) (更新日：2021 年 1 月 11 日)
+* [[!DNL Marketo Engage]](#marketo)（更新日：2021 年 1 月 11 日）
 * [Document Cloud](#doc-cloud)
 
 サポートが必要な場合は、[Adobe Experience League](https://experienceleague.adobe.com/?lang=ja-JP#home) にアクセスし、製品および技術ドキュメント、アドビが運営するコース、ビデオチュートリアル、すばやい回答、コミュニティインサイト、講師によるトレーニングをお探しください。コンテンツは`docs.adobe.com`からこの場所に移動されました。 状況に応じてブックマークを更新してください。
@@ -151,7 +151,7 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 * [Adobe Analyticsの新機能](#aa-features) （更新日2021年1月25日）
 * [Customer Journey Analyticsの新機能](#cust-journey) （更新日2021年1月25日）
 * [Adobe Analytics の修正点](#aa-fixes)
-* [Analytics 管理者向けの重要な注意事項](#aa-notices) （更新日2021年1月20日）
+* [Analytics 管理者向けの重要な注意事項](#aa-notices)（更新日：2021 年 1 月 20 日）
 * [AppMeasurement](#appm)
 * [Report Builder](#arb)
 
@@ -202,7 +202,7 @@ AN-204659、AN-221726、AN-230949、AN-231984、AN-232835、AN-233989、AN-23559
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
-| Ad Hoc Analysis のサポート終了 | 2021年1月21日 | 2021年3月1日、Ad Hoc Analysisは廃止に達します。 この時点で、この製品を使用するすべてのプロジェクトとスケジュールは機能しなくなります。 詳しくは、[Discover Workspace](https://adobe.ly/discoverworkspace) を参照してください。 |
+| Ad Hoc Analysis のサポート終了 | 2021 年 1 月 21 日 | 2021 年 3 月 1 日を以って、Ad Hoc Analysis のサポートは終了します。この時点で、この製品を使用するすべてのプロジェクトとスケジュールは機能しなくなります。詳しくは、[Discover Workspace](https://adobe.ly/discoverworkspace) を参照してください。 |
 | 必要な [!UICONTROL Report Builder] の更新 | 2021 年 1 月 8 日 | 2021 年 4 月 30 日までに、すべての [!UICONTROL Report Builder] ユーザーは、[!UICONTROL Report Builder] アドインをバージョン 5.6.47 以降に更新する必要があります。 このバージョンには、サインインプロセスに対する重要な更新が含まれています。 バージョン 5.6.47 以降にアップデートしないユーザーは、2021 年 4 月 30 日以降はサインインできなくなります。 [!UICONTROL Report Builder] のバージョン 5.6.47 以降では、Experience Cloud ログインのみがサポートされ、SiteCatalyst のシングルサインオンや標準サインインなどの従来のログインはサポートされません。詳しくは、[Report Builder のサインイン](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=ja-JP#section_6D54B8ADAE7F416BB83F5082B3771CFA)を参照してください。 |
 | 3 つの Analytics API サービスの提供終了 | 2021 年 1 月 6 日 | 2021 年 4 月 30 日、以下の Analytics 従来の API サービスの提供が終了し、サービスが停止されます。 これらのサービスを使用して構築された現在の統合は、その日以降使用できなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>ご質問への回答、および進め方に関するガイダンスを提供するために、[従来の API EOL に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe IO](https://console.adobe.io/home?mv=email#) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API の両方にアクセスするために使用できます。 |
 | すべての受信 HTTPS リクエストの対する HSTS ヘッダーの追加 | 2020 年 9 月 30 日 | 2020 年 9 月 30 日に、HTTPS を使用するすべての受信リクエストに対して、HSTS ヘッダーの追加を開始しました。これは、将来のすべてのリクエストを、セキュリティ上のベストプラクティスと考えられる HTTPS でおこなうようにブラウザー／クライアントに指示します。現時点では、HTTP を使用した受信リクエストについては、これはおこないません。 |
@@ -313,7 +313,7 @@ AEM 6.4、Service Pack 8、Cumulative Fix Pack 3（6.4.8.3 が 2020 年 11 月 2
 
 * **ベストプラクティスアナライザー**
 
-   * [!UICONTROL Cloud Readiness アナライザー]は、[!UICONTROL ベストプラクティスアナライザー]（BPA）に変更されました。BPA は、現在の AEM 実装のベストプラクティスの評価を提供し、既存の AEM インスタンスから AEM as a  [!UICONTROL Cloud Service]  への移行に対する準備状況を評価するのに役立ちます。
+   * [!UICONTROL Cloud Readiness アナライザー]は、[!UICONTROL ベストプラクティスアナライザー]（BPA）に変更されました。BPA は、現在の AEM 実装のベストプラクティスの評価を提供し、既存の AEM インスタンスから AEM as a [!UICONTROL Cloud Service] への移行に対する準備状況を評価するのに役立ちます。
 
 * **Foundation**
 
@@ -333,7 +333,7 @@ AEM 6.4、Service Pack 8、Cumulative Fix Pack 3（6.4.8.3 が 2020 年 11 月 2
 
 ### コミュニティ
 
-**2021 年 1 月の Experience League の最新の Adobe Experience Manager コンテンツ** - [特集ビデオ、記事、チュートリアル、コースの包括的なリストはこちら](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/392549)を参照してください。
+**2021 年 1 月の Experience League の最新の Adobe Experience Manager コンテンツ** - [特集ビデオ、記事、チュートリアル、コースの包括的なリストはこちら](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/td-p/392549)を参照してください。
 
 ### 新しい Experience Manager コースとチュートリアル
 
@@ -348,7 +348,7 @@ AEM 6.4、Service Pack 8、Cumulative Fix Pack 3（6.4.8.3 が 2020 年 11 月 2
 | 2020 年 12 月 7 日 | [GraphQL API の参照](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/explore-graphql-api.html) | 記事 | Adobe Experience Manager（AEM）と GraphQL の基本を学びます。組み込みの GraphQL IDE を使用して AEM GraphQL API を調べます。 コンテンツフラグメントモデルに基づいて、AEM が GraphQL スキーマを自動的に生成する方法を説明します。 GraphQL 構文を使用して、基本的なクエリを作成してみてください。 |
 | 2020 年 12 月 | [コンテンツフラグメントのオーサリング](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/author-content-fragments.html?lang=ja-JP) | 記事 | Adobe Experience Manager（AEM）と GraphQL の基本を学びます。[!UICONTROL コンテンツフラグメントモデル]に基づいて、新しいコンテンツフラグメントを作成し、編集します。 [!UICONTROL コンテンツフラグメント]のバリエーションを作成する方法を説明します。 |
 | 2020 年 12 月 7 日 | [コンテンツフラグメントモデルの定義](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/content-fragment-models.html?lang=ja-JP) | 記事 | Adobe Experience Manager（AEM）と GraphQL の基本を学びます。AEM でコンテンツをモデル化し、コンテンツフラグメントモデルを使用してスキーマを構築する方法について説明します。 既存のモデルを確認し、新しいモデルを作成します。 スキーマの定義に使用できる様々なデータタイプについて説明します。 |
-| 2020 年 12 月 9 日 | [API の互換性](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/admin/developer-reference-material-apis.html?lang=ja-JP) | 記事 | 様々な [!UICONTROL Assets] 操作で使用できる AEM  API（npm、Java、HTTP）を明確に伝える簡単な記事を作成します。 |
+| 2020 年 12 月 9 日 | [API の互換性](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/admin/developer-reference-material-apis.html?lang=ja-JP) | 記事 | 様々な [!UICONTROL Assets] 操作で使用できる AEM API（npm、Java、HTTP）を明確に伝える簡単な記事を作成します。 |
 | 2020 年 12 月 2 日 | [コンテンツフラグメントのダウンロード](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=ja-JP) | ビデオ | コンテンツフラグメントのダウンロード機能に関する概要。 |
 | 2020 年 12 月 7 日 | [コンテンツフラグメントの編集機能](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html) | ビデオ | [!UICONTROL コンテンツフラグメント]エディターの高度な機能に関する概要ビデオです。[!UICONTROL コンテンツフラグメント]で注釈とバージョン比較を使用する方法について説明します。 |
 | 2020 年 12 月 4 日 | [政府発行ドキュメントのバーコードを含む／含まない OCR データ抽出](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/some-useful-integrations/ocr-data-extraction.html?lang=ja-JP#some-useful-integrations) | 記事 | 運転免許証やパスポートなど、政府発行のドキュメントからデータを抽出し、アダプティブフォームに入力します。 |
@@ -392,14 +392,14 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 
 #### Campaign Classic
 
-[インシデント対応の速報](https://helpx.adobe.com/security/products/campaign/apsb21-04.html)（更新日：**2021 年 1 月 12 日**）
+[インシデント対応の速報](https://helpx.adobe.com/jp/security/products/campaign/apsb21-04.html)（更新日：**2021 年 1 月 12 日**）
 
 * 20.3.3 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja-JP#release-notes)
 * 20.3.1 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html#release-notes)
-* 20.2.4 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/previous-releases/release—20-2.html?lang=ja-JP#release-20-2-4-build-9187)
-* 20.1.4 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/previous-releases/release—20-1.html?lang=ja-JP#release-20-1-4-build-9126)
-* 19.2.4 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/previous-releases/release—19-2.html?lang=ja-JP#release-19-2-4-build-9082)
-* 19.1.8 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/previous-releases/release—19-1.html?lang=ja-JP#release-19-1-8-build-9039)
+* 20.2.4 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/previous-releases/release--20-2.html?lang=ja-JP#release-20-2-4-build-9187)
+* 20.1.4 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/previous-releases/release--20-1.html?lang=ja-JP#release-20-1-4-build-9126)
+* 19.2.4 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/previous-releases/release--19-2.html?lang=ja-JP#release-19-2-4-build-9082)
+* 19.1.8 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/previous-releases/release--19-1.html?lang=ja-JP#release-19-1-8-build-9039)
 
 #### Campaign Classic Gold Standard
 
@@ -520,9 +520,9 @@ Adobe Document Cloud のリリース情報およびヘルプリソースです�
 | 2020 年 12 月 21 日 | [墨消しと不要部分を削除](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/redact.html?lang=ja-JP) | 記事 | PDF から個人情報や機密情報を完全に削除したり、ドキュメントを不要なものから削除するには、墨消しツールを使用します。 |
 | 2020 年 12 月 18 日 | [アクションウィザード](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=ja-JP) | 記事 | 1 つまたは複数のファイルに一連のコマンドを自動適用するアクションを作成します。 |
 | 2020 年 12 月 15 日 | [特性有効期限と有効期限（TTL）設定の設定](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/configuring-trait-expiration-with-the-time-to-live-ttl-setting.html?lang=ja-JP#build-and-manage-audiences) | ビデオ | [!UICONTROL 有効期間]の使い方を学びます。これは、指定された期間内に再資格を取得しない場合に、特性のメンバーシップの有効期限となります。 |
-| 2020 年 12 月 4 日 | [Adobe  PDF ツール API を使用して PDF ファイルの OCR を作成する](https://experienceleague.adobe.com/docs/document-services/document-services/tutorials/ocr.html?lang=ja-JP) | 記事 | [!UICONTROL 光学式文字認識（OCR）]を使用して、スキャンした PDF のロックを解除し、テキストを抽出して検索可能なファイルを作成する方法を学びます。 |
-| 2020 年 12 月 4 日 | [Adobe  PDF ツール API および Java の概要](https://experienceleague.adobe.com/docs/document-services/document-services/tutorials/gettingstartedjava.html?lang=ja-JP) | 記事 | 使用可能なすべての Web サービスにアクセスするために用意されたサンプルファイルを実行できる状態になっており、開発者は数分で作業を開始できます。 このチュートリアルでは、PDF ツール Java SDK を使用してサンプルの実行を開始するすべての手順を説明します。 |
-| 2020 年 12 月 4 日 | [Adobe  PDF ツール API および .Net の概要](https://experienceleague.adobe.com/docs/document-services/document-services/tutorials/gettingstartednet.html?lang=ja-JP) | 記事 | 使用可能なすべての Web サービスにアクセスするために用意されたサンプルファイルを実行できる状態になっており、開発者は数分で作業を開始できます。 このチュートリアルでは、PDF ツール .Net SDK を使用してサンプルを実行する開始のすべての手順を説明します。 |
+| 2020 年 12 月 4 日 | [Adobe PDF ツール API を使用して PDF ファイルの OCR を作成する](https://experienceleague.adobe.com/docs/document-services/document-services/tutorials/ocr.html?lang=ja-JP) | 記事 | [!UICONTROL 光学式文字認識（OCR）]を使用して、スキャンした PDF のロックを解除し、テキストを抽出して検索可能なファイルを作成する方法を学びます。 |
+| 2020 年 12 月 4 日 | [Adobe PDF ツール API および Java の概要](https://experienceleague.adobe.com/docs/document-services/document-services/tutorials/gettingstartedjava.html?lang=ja-JP) | 記事 | 使用可能なすべての Web サービスにアクセスするために用意されたサンプルファイルを実行できる状態になっており、開発者は数分で作業を開始できます。 このチュートリアルでは、PDF ツール Java SDK を使用してサンプルの実行を開始するすべての手順を説明します。 |
+| 2020 年 12 月 4 日 | [Adobe PDF ツール API および .Net の概要](https://experienceleague.adobe.com/docs/document-services/document-services/tutorials/gettingstartednet.html?lang=ja-JP) | 記事 | 使用可能なすべての Web サービスにアクセスするために用意されたサンプルファイルを実行できる状態になっており、開発者は数分で作業を開始できます。 このチュートリアルでは、PDF ツール .Net SDK を使用してサンプルを実行する開始のすべての手順を説明します。 |
 | 2020 年 12 月 4 日 | [PDF ツール API を活用して Word、PowerPoint などに PDF を書き出す](https://experienceleague.adobe.com/docs/document-services/document-services/tutorials/exportpdf.html?lang=ja-JP) | 記事 | PDF ファイルを MS Word に変換して、コンテンツの編集、承認、後で署名の送信をおこない、カスタム契約ワークフローを作成します。 または、PDF コンテンツを MS Excel 形式に書き出して、請求書や財務計算、データ分析をおこなうこともできます。 |
 | 2020 年 12 月 4 日 | [PDF ツール API と Node.js を使用して、HTML または MS Office から数分で PDF を作成](https://experienceleague.adobe.com/docs/document-services/document-services/tutorials/createpdffromhtml.html?lang=ja-JP) | 記事 | 新しい Adobe PDF ツール API を使用したドキュメントワークフローのデジタル化について説明します。 この API は、複雑なビジネスワークフローのニーズに対応するために、複数の強力な PDF 操作サービスを自由に選択できる API です。 |
 
