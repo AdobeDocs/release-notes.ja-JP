@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 0c154b63cee0bd27b900101f535fc0224b82438c
+source-git-commit: 7f58dcf4014b96f0aa651b16b90427a2a81ba374
 workflow-type: tm+mt
-source-wordcount: '6776'
+source-wordcount: '6802'
 ht-degree: 97%
 
 ---
@@ -23,11 +23,11 @@ ht-degree: 97%
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されます。アドビのエンタープライズ製品と Experience League のドキュメントの更新について、定期的にご確認ください。
 
-最新の更新：**2021 年 1 月 22 日**
+最新の更新：**2021 年 1 月 25 日**
 
 * [アドビシステムのステータス](#status)（未更新）
 * [Experience Cloud サービスと管理](#ecloud)
-* [Experience Platform](#platform)（更新日 2021 年 1 月 14 日）
+* [Experience Platform](#platform)（更新日 **2021 年 1 月 25 日**）
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey) (更新日：**2021 年 1 月 25 日**)
 * [Audience Manager](#aam)
@@ -52,8 +52,6 @@ ht-degree: 97%
 ## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud サービスと管理 {#ecloud}
 
 [Experience Cloud サービスと管理](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html)ドキュメントには、顧客属性、オーディエンスライブラリ（[!UICONTROL People] サービス）、アクティベーション、ユーザーおよび製品管理、Experience Cloud Cookie が含まれます。
-
-今月は更新はありません。
 
 **関連トピック**
 
@@ -82,10 +80,14 @@ Experience Platform と Experience Platform Launch に関するリリース更�
 
 **[!UICONTROL Launch サーバーサイド]：**&#x200B;イベントレベルのデータを AEP Edge ネットワークに送信し、「Launch サーバーサイド」を使用し、クライアントではなくアドビのサーバーを使用して、少ない遅延で、アドビ以外のエンドポイントにそのデータを変換、強化および送信します。[詳細情報...](https://experienceleague.adobe.com/docs/launch/using/server-side-info/server-side-overview.html?lang=ja-JP#server-side-info)
 
+更新日 **2021 年 1 月 25 日**:
+
+Experience CloudIDサービス拡張&#x200B;**5.1.1**&#x200B;がリリースされました。 詳しくは、[Experience CloudIDサービス拡張機能](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html?lang=ja-JP)のリリースノートを参照してください。
+
 **関連トピック**
 
 * Experience Platform Launch について詳しくは、[Experience Platform Launch リリースノート](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=ja-JP)を参照してください。
-* [Experience Cloud ID サービス拡張機能](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html?lang=ja-JP)のリリースノート。
+* [Experience Cloud ID サービス拡張機能](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html)のリリースノート。 
 
 ### Adobe Mobile
 
