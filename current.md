@@ -4,11 +4,11 @@ description: Adobe Experience Cloud リリースノート
 doc-type: release notes
 last-update: January 2021
 author: mfrei
-translation-type: ht
-source-git-commit: 7f58dcf4014b96f0aa651b16b90427a2a81ba374
-workflow-type: ht
-source-wordcount: '6802'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: e396ac53948a2ea163b09f0545de994c0d7ef001
+workflow-type: tm+mt
+source-wordcount: '6831'
+ht-degree: 99%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 最新の更新：**2021 年 1 月 26 日**
 
 * [アドビシステムのステータス](#status)（未更新）
-* [Experience Cloud サービスと管理](#ecloud)
+* [Experience Cloud サービスと管理](#ecloud) （**2021年2月10日更新**）
 * [Experience Platform](#platform)（更新日 **2021 年 1 月 26 日**）
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)（更新日：**2021 年 1 月 26 日**）
@@ -53,7 +53,11 @@ ht-degree: 100%
 
 [Experience Cloud サービスと管理](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html)ドキュメントには、顧客属性、オーディエンスライブラリ（[!UICONTROL People] サービス）、アクティベーション、ユーザーおよび製品管理、Experience Cloud Cookie が含まれます。
 
-**関連トピック**
+**2021 年 2 月 5 日**
+
+* Experience Cloudを更新すると、初期Experience Cloudログインの初期画面が削除されます。 2月4日から、`https://experience.adobe.com/login`からAdobeのログイン画面に直接送信されます。
+
+**その他のリソース**
 
 * 最新のリリース情報について詳しくは、[Experience Cloud サービスに関するこれまでのリリースノート](https://docs.adobe.com/content/help/ja-JP/core-services/interface/release-notes/release-notes.html)を参照してください。
 * [Experience Cloud ID サービス](https://experienceleague.adobe.com/docs/id-service/using/release-notes/release-notes.html?lang=ja)リリースノート
@@ -87,7 +91,7 @@ Experience Cloud ID サービス拡張機能&#x200B;**5.1.1** がリリースさ
 **関連トピック**
 
 * Experience Platform Launch について詳しくは、[Experience Platform Launch リリースノート](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=ja)を参照してください。
-* [Experience Cloud ID サービス拡張機能](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html?lang=ja)のリリースノート。
+* [Experience Cloud ID サービス拡張機能](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html)のリリースノート。
 
 ### Adobe Mobile
 
@@ -165,7 +169,7 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
-| 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
+| 機能 | [一般公開](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
 | [!UICONTROL デバイス]および[!UICONTROL 地理的]ディメンション | 2020 年 10 月 30 日 | これらのディメンションは、Adobe Analytics [!UICONTROL ソースコネクタ]の[グローバルルックアップ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/global-lookups.html?lang=ja#use-global-lookups-with-adobe-data-connector-datasets)のサポートプロジェクトの一部として、デフォルトで使用できるようになりました。この多くの要望をいただいた追加により、[Adobe Analytics と CJA の間のパリティ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/cja-aa.html?lang=ja#cja-overview)が増加しました。 |
 | ジャーニー IQ：[!UICONTROL クロスチャネル分析] | 2021 年 1 月 11 日 | ジャーニー IQ：[!UICONTROL クロスチャネル分析]を使用すれば、 Experience Platform データレイク内の Adobe Analytics（または他の）イベントデータセットを、ある ID 名前空間から別の ID 名前空間へと再入力できます。通常、これは、cookie ベースの ID から人物ベースの ID にイベントデータセットを再入力することを意味します。これにより、再入力されたデータセットを CJA 接続の他の人物ベースのデータと組み合わせることができ、Analysis Workspace でのクロスデバイス／クロスチャネル分析が可能になります。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=ja#cja-connections) |
@@ -217,9 +221,9 @@ AppMeasurement リリースの最新の更新については、[AppMeasurement f
 
 ### Report Builder {#arb}
 
-| 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
+| 機能 | [一般公開](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
-| Analytics [!UICONTROL Report Builder] へのサインインの更新 | 2021 年 1 月 14 日 | [!UICONTROL Report Builder] のサインインプロセスの改善により、従来のテクノロジーへの依存関係がなくなり、サインインプロセスを Adobe Experience Cloud に合わせます。 Experience Cloud サインインを使用すると、Adobe ID または Enterprise ID（シングルサインオン）を使用して Adobe Experience Cloud にログインできます。 2021 年 4 月 30 日までに、すべての [!UICONTROL Report Builder] ユーザーは、[!UICONTROL Report Builder] アドインをバージョン 5.6.47 以降に更新する必要があります。 [!UICONTROL Report Builder] のバージョン 5.6.47 以降では、Experience Cloud のサインインのみがサポートされ、SiteCatalyst のシングルサインオンや標準サインインなどの従来のサインインはサポートされません。詳しくは、[Report Builder のログイン](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=ja#section_6D54B8ADAE7F416BB83F5082B3771CFA)を参照してください。 |
+| Analytics [!UICONTROL Report Builder] へのサインインの更新 | 2021 年 1 月 14 日 | [!UICONTROL Report Builder] のサインインプロセスの改善により、従来のテクノロジーへの依存関係がなくなり、サインインプロセスを Adobe Experience Cloud に合わせます。 Experience Cloud サインインを使用すると、Adobe ID または Enterprise ID（シングルサインオン）を使用して Adobe Experience Cloud にログインできます。 2021 年 4 月 30 日までに、すべての [!UICONTROL Report Builder] ユーザーは、[!UICONTROL Report Builder] アドインをバージョン 5.6.47 以降に更新する必要があります。 [!UICONTROL Report Builder] のバージョン 5.6.47 以降では、Experience Cloud のサインインのみがサポートされ、SiteCatalyst のシングルサインオンや標準サインインなどの従来のサインインはサポートされません。詳しくは、[Report Builder のログイン](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA)を参照してください。 |
 
 ### Analytics ヘルプリソース
 
@@ -261,7 +265,7 @@ AEM 6.5、Service Pack 7（2020 年 11 月 26 日リリース 6.5.7.0）は、20
 * **AEM 6.4.8.3**
 AEM 6.4、Service Pack 8、Cumulative Fix Pack 3（6.4.8.3 が 2020 年 11 月 26 日にリリース）は重要なアップデートです。2020 年 3 月の AEM 6.4、Service Pack 8（6.4.8.0）の一般リリース以降におこなわれた複数の内部修正や顧客向けの修正が含まれています。
    * [リリースノート](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ja)
-   * [AEM Forms リリース成果物](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html?lang=ja#forms-updates)
+   * [AEM Forms リリース成果物](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html#forms-updates)
 
 ### 製品リリース
 
@@ -345,12 +349,12 @@ AEM 6.4、Service Pack 8、Cumulative Fix Pack 3（6.4.8.3 が 2020 年 11 月 2
 | -----------| ---------- | ---------- | ---------- |
 | 2020 年 12 月 7 日 | [フラグメントリファレンスを使用した高度なデータモデリング](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/fragment-references.html?lang=ja) | 記事 | Adobe Experience Manager（AEM）と GraphQL の基本を学びます。高度なデータモデリングで[!UICONTROL フラグメントリファレンス]機能を使用し、2 つの異なる[!UICONTROL コンテンツフラグメント]の間に関係を作成する方法を説明します。 GraphQL クエリを変更して、参照モデルのフィールドを含める方法を学びます。 |
 | 2020 年 12 月 7 日 | [外部アプリから GraphQL を使用したクエリ AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/explore-graphql-api.html?lang=ja) | 記事 | Adobe Experience Manager（AEM）と GraphQL の基本を学びます。AEM GraphQL API を参照し、サンプルの WKND GraphQL React アプリを参照してください。 この外部アプリが AEM に対して GraphQL 呼び出しをおこない、エクスペリエンスを強化する方法を説明します。 基本的なエラー処理を実行する方法を説明します。 |
-| 2020 年 12 月 7 日 | [GraphQL API の参照](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/explore-graphql-api.html?lang=ja) | 記事 | Adobe Experience Manager（AEM）と GraphQL の基本を学びます。組み込みの GraphQL IDE を使用して AEM GraphQL API を調べます。 コンテンツフラグメントモデルに基づいて、AEM が GraphQL スキーマを自動的に生成する方法を説明します。 GraphQL 構文を使用して、基本的なクエリを作成してみてください。 |
+| 2020 年 12 月 7 日 | [GraphQL API の参照](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/explore-graphql-api.html) | 記事 | Adobe Experience Manager（AEM）と GraphQL の基本を学びます。組み込みの GraphQL IDE を使用して AEM GraphQL API を調べます。 コンテンツフラグメントモデルに基づいて、AEM が GraphQL スキーマを自動的に生成する方法を説明します。 GraphQL 構文を使用して、基本的なクエリを作成してみてください。 |
 | 2020 年 12 月 | [コンテンツフラグメントのオーサリング](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/author-content-fragments.html?lang=ja) | 記事 | Adobe Experience Manager（AEM）と GraphQL の基本を学びます。[!UICONTROL コンテンツフラグメントモデル]に基づいて、新しいコンテンツフラグメントを作成し、編集します。 [!UICONTROL コンテンツフラグメント]のバリエーションを作成する方法を説明します。 |
 | 2020 年 12 月 7 日 | [コンテンツフラグメントモデルの定義](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/content-fragment-models.html?lang=ja) | 記事 | Adobe Experience Manager（AEM）と GraphQL の基本を学びます。AEM でコンテンツをモデル化し、コンテンツフラグメントモデルを使用してスキーマを構築する方法について説明します。 既存のモデルを確認し、新しいモデルを作成します。 スキーマの定義に使用できる様々なデータタイプについて説明します。 |
 | 2020 年 12 月 9 日 | [API の互換性](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/admin/developer-reference-material-apis.html?lang=ja) | 記事 | 様々な [!UICONTROL Assets] 操作で使用できる AEM API（npm、Java、HTTP）を明確に伝える簡単な記事を作成します。 |
 | 2020 年 12 月 2 日 | [コンテンツフラグメントのダウンロード](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=ja) | ビデオ | コンテンツフラグメントのダウンロード機能に関する概要。 |
-| 2020 年 12 月 7 日 | [コンテンツフラグメントの編集機能](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html?lang=ja) | ビデオ | [!UICONTROL コンテンツフラグメント]エディターの高度な機能に関する概要ビデオです。[!UICONTROL コンテンツフラグメント]で注釈とバージョン比較を使用する方法について説明します。 |
+| 2020 年 12 月 7 日 | [コンテンツフラグメントの編集機能](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html) | ビデオ | [!UICONTROL コンテンツフラグメント]エディターの高度な機能に関する概要ビデオです。[!UICONTROL コンテンツフラグメント]で注釈とバージョン比較を使用する方法について説明します。 |
 | 2020 年 12 月 4 日 | [政府発行ドキュメントのバーコードを含む／含まない OCR データ抽出](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/some-useful-integrations/ocr-data-extraction.html?lang=ja#some-useful-integrations) | 記事 | 運転免許証やパスポートなど、政府発行のドキュメントからデータを抽出し、アダプティブフォームに入力します。 |
 | 2020 年 12 月 14 日 | [GraphQL を使用した AEM ヘッドレスの概要](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/overview.html?lang=ja) | ビデオ | Adobe Experience Manager または AEM で実装された GraphQL API の概要。 AEM の GraphQL API は主に、ヘッドレスデプロイメントの一環として、[!UICONTROL コンテンツフラグメント]データをダウンストリームアプリケーションに配信するように設計されています。 |
 | 2020 年 12 月 16 日 | [Dynamic Media コアコンポーネント](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-core-components.html?lang=ja) | ビデオ | Experience Manager コアコンポーネントの一部であるイメージコンポーネントは、Dynamic Media の組み込みサポートを備えています。 画像コンポーネントを使用して、AEM Sites ページ上で、画像プリセット、スマート切り抜き、画像修飾子など、Dynamic Media の機能をコンテンツ作成者が使用できるようにする方法について説明します。 |
@@ -395,7 +399,7 @@ Campaign Classic、Campaign Standard、コントロールパネルのリリー�
 [インシデント対応の速報](https://helpx.adobe.com/jp/security/products/campaign/apsb21-04.html)（更新日：**2021 年 1 月 12 日**）
 
 * 20.3.3 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja#release-notes)
-* 20.3.1 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja#release-notes)
+* 20.3.1 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html#release-notes)
 * 20.2.4 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/previous-releases/release--20-2.html?lang=ja#release-20-2-4-build-9187)
 * 20.1.4 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/previous-releases/release--20-1.html?lang=ja#release-20-1-4-build-9126)
 * 19.2.4 リリース — [詳細情報](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/previous-releases/release--19-2.html?lang=ja#release-19-2-4-build-9082)
