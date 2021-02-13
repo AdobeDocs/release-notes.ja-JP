@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 2626d0f793d4d7d59dc08527443bca66a3dbdd03
+source-git-commit: 336fa0b2b5b27060bcdb6590ba8e5795c2dbbf8f
 workflow-type: tm+mt
-source-wordcount: '1350'
-ht-degree: 91%
+source-wordcount: '1349'
+ht-degree: 90%
 
 ---
 
@@ -21,7 +21,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 >[!IMPORTANT]
 >
->このページに記載される内容は、リリース前の情報であり、リリース日の前後に変更される可能性があります。
+>このページには、リリース前のコンテンツが含まれており、リリース日より前に変更されることがあります。
 
 >[!NOTE]
 >
@@ -62,7 +62,7 @@ Experience Cloud インターフェイスの新機能および修正点です。
 
 機能と修正点。
 
-For product documentation, see [Experience Cloud interface](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html)
+製品ドキュメントについては、「[Experience Cloudインターフェイス](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html)」を参照してください。
 
 ### 管理および開発者 {#admin}
 
@@ -93,9 +93,9 @@ For product documentation, see [Experience Cloud interface](https://docs.adobe.c
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
-Using Adobe [!UICONTROL Experience Platform,] orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual&#39;s needs in real time, wherever their journey takes them.
+Adobe[!UICONTROL Experience Platformを使用し、]は、ジャーニーがどこに行っても、すべての個人のニーズをリアルタイムでインテリジェントに予測することで、経験チャネル全体で個々の顧客ジャーニーを調整します。
 
-#### Additional resources for [!UICONTROL Journey Orchestration]
+#### [!UICONTROL Journey Orchestration]の追加リソース
 
 [ドキュメント](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
@@ -134,7 +134,7 @@ Adobe Analytics の新機能および修正点です。
 | 機能 B | テキスト |
 | 機能 C | テキスト |
 
-### [!DNL Media Analytics] SDK for [!DNL iOS] &amp; [!DNL Android] （旧称VHL SDK） {#aa-va}
+### [!DNL Media Analytics] SDK for  [!DNL iOS] &amp;  [!DNL Android] （旧称VHL SDK）  {#aa-va}
 
 | 機能 | 説明 |
 | ------- | ------- |
@@ -294,7 +294,7 @@ Magent リリースノートについては、以下を参照してください�
 
 ## Marketo {#marketo}
 
-Marketo Engageは、複雑な購入の遍歴のあらゆる段階を通じて顧客体験を変えようと考えている、リード管理とB2Bマーケター向けの完全なソリューションです。
+Marketo Engageは、複雑な購入ジャーニーの各段階を通じて顧客体験を変えようと考えているリードマネジメントとB2Bマーケター向けの完全なソリューションです。
 
 ### Core Marketo Engage の更新
 
@@ -307,7 +307,7 @@ Marketo Engageは、複雑な購入の遍歴のあらゆる段階を通じて顧
    * ランディングページリダイレクトルール API
 * **フォーム記述子のキャッシュ：**&#x200B;ランディングページとフォームの改善を改善しました。
 
-See Marketo release notes for [February 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) for more information.
+詳しくは、Marketoリリースノート（[2020年2月](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720)）を参照してください。
 
 ### 予定されている機能
 
