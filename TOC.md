@@ -3,21 +3,23 @@ cloud: experience-cloud
 product: Experience Cloud
 user-guide-title: Adobe Experience Cloud リリースノート
 breadcrumb-title: リリースノート
-user-guide-description: Adobe Experience Cloud の新機能、修正点、および重要な注意事項について学びます。
+user-guide-description: Adobe Experience CloudおよびExperience Platformの新機能、修正点、および重要な注意事項について説明します。
 user-guide-url: https://www.adobe.com
-translation-type: ht
-source-git-commit: 1beba26ad3096758512a7efbf5454012b686f007
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 948a979db842dfb8b7f328d7ad3e34017b5a360d
+workflow-type: tm+mt
+source-wordcount: '66'
+ht-degree: 62%
 
 ---
 
 
-# Experience Cloud リリースノート {#experience-cloud}
+# Adobe Experience Cloudの新機能{#experience-cloud}
 
-+ [リリースノート](current.md)
++ [最新のリリースノート](current.md)
 + 以前のリリースノート {#previous}
+   + 2021 {#2021}
+      + [2021 年 1 月](c-legacy-releases/2021/01142021.md)
    + 2020 年 {#2020}
       + [2020 年 11 月](c-legacy-releases/2020/10292020.md)
       + [2020 年 10 月](c-legacy-releases/2020/10082020.md)
@@ -42,6 +44,6 @@ ht-degree: 100%
       + [2019 年 3 月](c-legacy-releases/2019/03072019.md)
       + [2019 年 2 月](c-legacy-releases/2019/02072019.md)
       + [2019 年 1 月](c-legacy-releases/2019/01172019.md)
-   + 2018 年以前 {#legacy-rns}
-      + 2018 年以前 {#2018-earlier}
+   + 2018以前{#legacy-rns}
+      + 2018以前{#2018-earlier}
          + [2014 年以前](c-legacy-releases/2018-earlier.md)
