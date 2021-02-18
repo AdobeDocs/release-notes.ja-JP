@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d24a0044604b068dd1a8b4a19084d982ed9f22ac
+source-git-commit: 6c462c5b447ac45ff9507a6242fec2aef478344a
 workflow-type: tm+mt
 source-wordcount: '6309'
-ht-degree: 33%
+ht-degree: 34%
 
 ---
 
@@ -182,7 +182,7 @@ Audience Managerの新機能、修正点、ドキュメント、チュートリ�
 
 | 機能 | 追加日または更新日 | 説明 |
 |----|----|----|
-| [Audience ManagerからAdmin Consoleへのユーザーの移行](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/admin-console-migration.html) | 2020 年 2 月 2 日 | Audience Managerのユーザーアカウント管理は、様々なAdobeソリューションでより合理化された経験を積むため、Adobe Admin Consoleに移行中です。 <br>ユーザー移行を容易にするには、この記事で説明する手順に従います。すべてのAudience Manager管理者は、できるだけ早急にユーザーアカウントをAdobe Admin Consoleに移行する開始を取る必要があります。 |
+| [Admin Console への Audience Manager ユーザーの移行](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/admin-console-migration.html) | 2021 年 2 月 1 日（PT） | Audience Manager のユーザーアカウント管理が Adobe Admin Console に移行され、すべてのアドビソリューションでエクスペリエンスが効率化されます。<br>ユーザー移行を容易にするには、この記事で説明する手順に従います。すべてのAudience Manager管理者は、できるだけ早急にユーザーアカウントをAdobe Admin Consoleに移行する開始を取る必要があります。 |
 
 ### 修正点および改善点 {#aam-fixes-and-improvements}
 
