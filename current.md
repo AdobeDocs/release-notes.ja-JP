@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 6c462c5b447ac45ff9507a6242fec2aef478344a
+source-git-commit: 1ed740f01fa639793c4694d206c07728f523a4a5
 workflow-type: tm+mt
-source-wordcount: '6309'
+source-wordcount: '6310'
 ht-degree: 34%
 
 ---
@@ -128,7 +128,7 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 | 機能 | [一般公開](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
 | Analysis Workspace - コンポーネントの選択 | 2021 年 2 月 5 日 | [!UICONTROL クイックインサイト]にあるドロップダウン／ドロップゾーンコンポーネントは、[!UICONTROL Workspace]のすべてのドロップゾーンに追加されました。 この機能強化により、互換性のあるコンポーネントのドロップダウンリストから選択したり、スペースをドロップゾーンとして引き続き使用したりできます。 |
-| CJA API | 2021 年 2 月 18 日（PT） | CJA APIが利用できるようになりました。 これらのAPIを使用すると、コンポーネントをプログラムで編集し、レポートを取得できます。 詳しくは、CJA APIドキュメント（後述のリンク）を参照してください。 |
+| CJA API | 2021 年 2 月 18 日（PT） | CJA APIが利用できるようになりました。 これらのAPIを使用すると、コンポーネントをプログラムで編集し、レポートを取得できます。 詳しくは、[CJA APIドキュメント](https://adobe.io/cja-apis/docs)を参照してください。 |
 
 ### Adobe Analytics の修正点 {#aa-fixes}
 
