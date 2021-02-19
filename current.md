@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1ed740f01fa639793c4694d206c07728f523a4a5
+source-git-commit: b785653a7f35f188c17f2ed05ec7a8b143c192b4
 workflow-type: tm+mt
-source-wordcount: '6310'
-ht-degree: 34%
+source-wordcount: '6381'
+ht-degree: 33%
 
 ---
 
@@ -33,7 +33,8 @@ Experience Cloudのソリューションとサービスは毎月更新されま�
 * [Experience Cloud サービスと管理](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)`
+* [](#analytics) **解析更新日2021年2月20日**
+* [Customer Journey Analytics](#cust-journey)`
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -112,7 +113,7 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 * [Adobe Analytics の新機能](#aa-features)
 * [Customer Journey Analytics の新機能](#cust-journey)
 * [Adobe Analytics の修正点](#aa-fixes)
-* [Analytics 管理者向けの重要な注意事項](#aa-notices)
+* [Analytics 管理者向けの重要な注意事項](#aa-notices)  **更新日2021年2月19日**
 * [Analytics コースとチュートリアル](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -152,6 +153,7 @@ AN-224987;AN-229009;AN-239750;AN-239765;AN-241620;AN-242996;AN-243577;AN-243774;
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
+| Reports &amp; Analyticsのランディングページオプション | 2021 年 2 月 19 日（PT） | 2021年3月25日に、新しいReports &amp; Analyticsダッシュボードまたはその他のコンテンツを設定するためのオプションが、Adobe Analyticsランディングページとして削除されます。 以前にReports &amp; Analyticsページをカスタムランディングページとして設定した場合、[!UICONTROL ユーザーの環境設定]でランディングページが変更されるまで、このページは引き続き機能します。 2021年3月26日以降、新しいReports &amp; Analyticsカスタムランディングページを定義できなくなりました。 |
 | Ad Hoc Analysis のサポート終了 | 2021年1月 | [!UICONTROL Ad Hoc ] Analysisは、2021年3月1日に提供終了日に達します。詳しくは、[Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) を参照してください。 |
 | 3 つの Analytics API サービスの提供終了 | 2021 年 1 月 6 日（PT） | 2021 年 4 月 30 日（PT）、以下の Analytics 従来の API サービスの提供が終了し、サービスが停止されます。 これらのサービスを使用して構築された現在の統合は、その日以降使用できなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>ご質問への回答、および進め方に関するガイダンスを提供するために、[従来の API EOL に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe IO](https://console.adobe.io/home?mv=email#) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API の両方にアクセスするために使用できます。 |
 | Adobe Data Connectors の EOL | 2020 年 7 月 13 日（PT） | Adobe [!UICONTROL Data Connectors] は、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。[Adobe交換パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)で新しい標準が利用できます。 どの統合でも、その標準を使用して、引き続き提供およびサポートできます。 正式な終了日は2021年8月1日です。 [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/import/dataconnectors/data-connectors-eol.html) |
