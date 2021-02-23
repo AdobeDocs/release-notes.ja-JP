@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b785653a7f35f188c17f2ed05ec7a8b143c192b4
+source-git-commit: 803595c63ab6db90fb17c9998c623c03e834aaa0
 workflow-type: tm+mt
-source-wordcount: '6381'
+source-wordcount: '6384'
 ht-degree: 33%
 
 ---
@@ -81,7 +81,7 @@ Experience Platform およびサービス用に公開された新しいビデオ
 | 2021 年 2 月 3 日（PT） | [バッチデータ取り込みの概要](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html) | ビデオ | Adobe Experience Platformでのバッチデータ取り込みの概要です。 APIを使用してバッチデータを取り込む方法を説明します。 |
 | 2021 年 2 月 3 日（PT） | [Adobe以外のアプリケーションへのデータのアクティブ化](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-data-to-non-adobe-applications.html) | ビデオ | AdobeのReal-Time CDPが、お客様のオーディエンスとの真のパーソナライゼーション戦略の構築にどのように役立つかを説明します。 また、Microsoft、Google、Facebookの既存のエコシステムと非Adobeアプリにどのように折り込むかを説明します。 |
 | 2021 年 1 月 21 日（PT） | [マーケティング担当者向けインテリジェントサービスの使用を開始するためのコースの概要](https://video.tv.adobe.com/v/330805?quality=12&learn=on) | ビデオ | 「Getting Started with Intelligent Services for Marketers」コースの概要を説明します。 |
-| 2021 年 1 月 13 日（PT） | [マーケター向けOffer Decisioningの概要](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | ビデオ | また、マーケター向けの「Offer Decisioningの使い始めに」コースの概要を説明します。 |
+| 2021 年 1 月 13 日（PT） | [マーケター向け「はじめに —Offer Decisioning」の概要](https://video.tv.adobe.com/v/330520?quality=12&learn=on) | ビデオ | また、マーケター向けOffer Decisioning — はじめにのコースを紹介します。 |
 | 2021 年 1 月 31 日（PT） | [レシピビルダーテンプレートを使用して、モデルのトレーニング、スコア、作成を行います。](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/train-score-and-productize-models.html) | ビデオ | 更新されたレシピビルダーテンプレートを使用して、小売の販売スキーマとデータセットを使用してレシピを作成する方法を説明します。 |
 | 2021 年 1 月 31 日（PT） | [JupterLabノートブックにデータを読み込む](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-science-workspace/load-data-in-jupyterlab-notebooks.html) | ビデオ | Data Science WorkspaceのJupyterLabについて説明します。 |
 | 2021 年 1 月 12 日（PT） | [結合ポリシーの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/create-merge-policies.html) | ビデオ | Adobe Experience Platformで結合ポリシーを作成する方法を説明します。 |
@@ -122,7 +122,7 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ------- |
 | Analysis Workspace - コンポーネントの選択 | 2021 年 2 月 5 日 | [!UICONTROL クイックインサイト]にあるドロップダウン／ドロップゾーンコンポーネントは、[!UICONTROL Workspace]のすべてのドロップゾーンに追加されました。 この機能強化により、互換性のあるコンポーネントのドロップダウンリストから選択したり、スペースをドロップゾーンとして引き続き使用したりできます。 |
-| Analyticsダッシュボードの言語の選択 | 2021 年 1 月 14 日（PT） | Analyticsダッシュボードで言語を選択できるようになりました。 |
+| Analyticsダッシュボードの言語の選択 | 2021 年 1 月 14 日（PT） | **[!UICONTROL 設定]**/**[!UICONTROL 環境設定]**/**[!UICONTROL 言語]**&#x200B;に移動して、Analyticsダッシュボードで言語を選択します。 |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
@@ -171,7 +171,7 @@ AppMeasurement リリースの最新の更新については、[AppMeasurement f
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2021 年 2 月 8 日（PT） | [線のビジュアライゼーションへの近似曲線の追加](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.html?lang=en) | ビデオ | [ビジュアライゼーションの設定]で、回帰または移動平均近似曲線を線系列に追加できます。 この機能は、データ内のパターンをより明確に表現するのに役立ちます。 |
-| 2021 年 2 月 8 日（PT） | [プラットフォームの起動への導入プラグインの追加](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.html?lang=en#implementation) | ビデオ | 導入プラグインは、Analytics実装に追加して追加のカスタムデータを追跡できるJavaScriptコードの一部です。 このビデオでは、プラットフォームの起動でコードを追加する方法と場所を学びます。 |
+| 2021 年 2 月 8 日（PT） | [Platform Launchへの導入プラグインの追加](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.html?lang=en#implementation) | ビデオ | 導入プラグインは、Analytics実装に追加して追加のカスタムデータを追跡できるJavaScriptコードの一部です。 このビデオでは、Platform Launchでコードを追加する方法と場所を学びます。 |
 | 2021 年 1 月 6 日（PT） | [Analysis Workspace のメディア同時視聴者数パネル](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.html?lang=en#analysis-workspace) | ビデオ | ピーク同時実行が発生した場所、または下降が発生した場所を把握する。 コンテンツの質とViewerの関与に関する貴重な情報を得ることができます。また、ボリュームと規模のトラブルシューティングや計画に役立ちます。 |
 
 ### Analytics ヘルプリソース
