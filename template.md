@@ -4,11 +4,11 @@ description: Experience Cloud リリースノート
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 336fa0b2b5b27060bcdb6590ba8e5795c2dbbf8f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1349'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 >[!IMPORTANT]
 >
->このページには、リリース前のコンテンツが含まれており、リリース日より前に変更されることがあります。
+>このページに記載されている内容はリリース前の情報であり、リリース日に先立って変更される可能性があります。
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
-* [ターゲット](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html) （ソリューションヘルプへのリンク）
+* [Target](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
 * [Advertising Cloud](#adcloud)
 * [Magento](#magento)
 * [Marketo](#marketo)
@@ -51,7 +51,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 [Adobe システムステータス](https://status.adobe.com/)を参照してください。
 
-## Experience Cloud インターフェイス{#ecloud}
+## Experience Cloud インターフェイス {#ecloud}
 
 Experience Cloud インターフェイスの新機能および修正点です。管理およびコアサービス（顧客属性、オーディエンス、トリガー、cookie など）が含まれます。
 
@@ -62,7 +62,7 @@ Experience Cloud インターフェイスの新機能および修正点です。
 
 機能と修正点。
 
-製品ドキュメントについては、「[Experience Cloudインターフェイス](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html)」を参照してください。
+製品ドキュメントについては、[Experience Cloud インターフェイス](https://docs.adobe.com/content/help/ja-JP/core-services/interface/experience-cloud.html)を参照してください
 
 ### 管理および開発者 {#admin}
 
@@ -75,7 +75,7 @@ Experience Cloud インターフェイスの新機能および修正点です。
 [!DNL Experience Platform,] のリリースノート（[!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration]、[!UICONTROL Offers]、[!UICONTROL People]、[!UICONTROL Places]、[!UICONTROL Mobile Services]、およびセキュリティ速報を含む）。
 
 * [Experience Cloud ID サービス](#ecid)
-* [Experience Platform リリースノート](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
+* [Experience Platform リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
 * [ジャーニーオーケストレーション](#journey)
 * [Mobile Services および Mobile SDK](#mobile)
@@ -93,13 +93,13 @@ Experience Cloud インターフェイスの新機能および修正点です。
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
-Adobe[!UICONTROL Experience Platformを使用し、]は、ジャーニーがどこに行っても、すべての個人のニーズをリアルタイムでインテリジェントに予測することで、経験チャネル全体で個々の顧客ジャーニーを調整します。
+Adobe [!UICONTROL Experience Platform] を使用すると、ジャーニーの目的地によらず、すべての顧客のニーズをリアルタイムでインテリジェントに予測できるので、個々のカスタマージャーニーをエクスペリエンスチャネル全体にわたって大規模に編成することができます。
 
-#### [!UICONTROL Journey Orchestration]の追加リソース
+#### [!UICONTROL Journey Orchestration] の追加リソース
 
 [ドキュメント](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
-### [!UICONTROL Mobile Services および Mobile SDK] {#mobile}
+### [!UICONTROL Mobile Services] および [!UICONTROL Mobile SDK] {#mobile}
 
 **機能**
 
@@ -134,7 +134,7 @@ Adobe Analytics の新機能および修正点です。
 | 機能 B | テキスト |
 | 機能 C | テキスト |
 
-### [!DNL Media Analytics] SDK for  [!DNL iOS] &amp;  [!DNL Android] （旧称VHL SDK）  {#aa-va}
+### [!DNL iOS] および [!DNL Android] 用 [!DNL Media Analytics] SDK（以前の VHL SDK） {#aa-va}
 
 | 機能 | 説明 |
 | ------- | ------- |
@@ -266,8 +266,8 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### その他のリソース
 
-* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)- [リリース計画](https://helpx.adobe.com/jp/campaign/kb/acs-release-planning.html)
-* Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/classic.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html) - [ハウツービデオ](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign Standard：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/standard.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/ja-JP/campaign-learn/campaign-standard-tutorials/overview.html)- [リリース計画](https://helpx.adobe.com/jp/campaign/kb/acs-release-planning.html)
+* Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/classic.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html) - [ハウツービデオ](https://docs.adobe.com/content/help/ja-JP/campaign-learn/campaign-classic-tutorials/overview.html)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/control-panel/using/release-notes.html)
 
 ## Advertising Cloud {#adcloud}
@@ -294,11 +294,11 @@ Magent リリースノートについては、以下を参照してください�
 
 ## Marketo {#marketo}
 
-Marketo Engageは、複雑な購入ジャーニーの各段階を通じて顧客体験を変えようと考えているリードマネジメントとB2Bマーケター向けの完全なソリューションです。
+Marketo Engage は、複雑な購入ジャーニーのすべてのステージにわたるエンゲージメントを通じてカスタマーエクスペリエンスを変革しようとしている経営陣や B2B マーケター向けの完全なソリューションです。
 
 ### Core Marketo Engage の更新
 
-リリース日：2020 年 2 月 22 日
+リリース日：2020 年 2 月 21 日（PT）
 
 * **Microsoft Dynamics _Microsoft_ フローにおける所有者の変更アクション：** Marketo Engage から直接リードまたは連絡先所有者を変更します。
 * **API 呼び出しの機能強化：**
@@ -307,7 +307,7 @@ Marketo Engageは、複雑な購入ジャーニーの各段階を通じて顧客
    * ランディングページリダイレクトルール API
 * **フォーム記述子のキャッシュ：**&#x200B;ランディングページとフォームの改善を改善しました。
 
-詳しくは、Marketoリリースノート（[2020年2月](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720)）を参照してください。
+詳しくは、[2020 年 2 月](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720)の Marketo リリースノートを参照してください。
 
 ### 予定されている機能
 
@@ -326,7 +326,7 @@ Marketo Engageは、複雑な購入ジャーニーの各段階を通じて顧客
 ### 廃止
 
 * **アセットAPI &quot;_method&quot; パラメーター：** 2020 年 9 月以降、アセット API エンドポイントでは、URI の長さ制限を回避するために、POST 本文にクエリパラメーターを渡す「_method」を使用できなくなります。
-* **Internet Explorer のサポートの廃止：** 2020 年 7 月 31 日のリリース以降、Marketo Engage ユーザーインターフェイスは Internet Explorer でサポートされなくなります。
+* **Internet Explorer のサポートの廃止：** 2020 年 7 月 31 日（PT）のリリース以降、Marketo Engage ユーザーインターフェイスは Internet Explorer でサポートされなくなります。
 
 これまでのリリースノートと過去のリリースノートについては、[Marketo リリースノート](https://docs.marketo.com/x/CgA6Ag)を参照してください。
 
@@ -336,13 +336,13 @@ Marketo Engageは、複雑な購入ジャーニーの各段階を通じて顧客
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 日付、2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付、2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付、2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付、2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付、2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付、2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付、2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付、2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付、2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付、2020 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
