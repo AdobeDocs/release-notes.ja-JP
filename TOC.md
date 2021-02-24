@@ -3,13 +3,13 @@ cloud: experience-cloud
 product: Experience Cloud
 user-guide-title: Experience Cloud リリースノート
 breadcrumb-title: リリースノート
-user-guide-description: Adobe Experience CloudおよびExperience Platformの新機能、修正点、および重要な注意事項について説明します。
+user-guide-description: Adobe Experience Cloud および Experience Platform の新機能、修正点、重要な注意事項について説明します。
 user-guide-url: https://www.adobe.com
 translation-type: tm+mt
 source-git-commit: a501b2f3cba2797c8ad4e8be8e862bef62075b9d
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -44,6 +44,6 @@ ht-degree: 70%
       + [2019 年 3 月](c-legacy-releases/2019/03072019.md)
       + [2019 年 2 月](c-legacy-releases/2019/02072019.md)
       + [2019 年 1 月](c-legacy-releases/2019/01172019.md)
-   + 2018以前{#legacy-rns}
-      + 2018以前{#2018-earlier}
+   + 2018 年以前 {#legacy-rns}
+      + 2018 年以前 {#2018-earlier}
          + [2014 年以前](c-legacy-releases/2018-earlier.md)
