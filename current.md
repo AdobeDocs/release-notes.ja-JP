@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d22f8bc718976f3aad6673473c4df66246f58022
+source-git-commit: c665df945df9f183549c7ca3e3a2e3bf0b04a3af
 workflow-type: tm+mt
-source-wordcount: '6403'
+source-wordcount: '6428'
 ht-degree: 99%
 
 ---
@@ -19,19 +19,15 @@ ht-degree: 99%
 
 Experience Cloud のソリューションとサービスは毎月更新されます。 このページには、[!DNL Experience Cloud] と Experience Platform の最新のリリースアップデート、ドキュメントおよびチュートリアルが集約されています。 また、[!DNL Creative Cloud for Enterprise] と [!DNL Document Cloud] の新しいドキュメントも参照できます。
 
->[!IMPORTANT]
->
->このページに記載されている内容は、リリース前の情報であり、リリース日より前に変更される可能性があります。
-
 >[!NOTE]
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最終更新日：**2021 年 2 月 12 日（PT）**
+最終更新日：**2021 年 2 月 21 日（PT）**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud サービスと管理](#ecloud)
-* [Experience Platform](#platform)
+* [エクスペリエンス](#platform) **プラットフォーム更新日2021年2月22日**
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) **更新日 2021 年 2 月 19 日（PT）**
 * [Customer Journey Analytics](#cust-journey)`
@@ -76,6 +72,7 @@ Experience Platform およびサービス用に公開された新しいビデオ
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2021 年 2 月 26 日（PT） | [Adobe Experience Platformでのデータフローの監視](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/data-monitoring.html?lang=en#data-ingestion) | プラットフォームのUIとAPIを使用して、Adobe Experience Platformに取り込まれるデータを監視し、追跡する方法について説明します。 |
 | 2021 年 2 月 10 日（PT） | [Azure Blob 宛先の設定](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html?lang=ja#destinations) | ビデオ | リアルタイム顧客データプラットフォーム（リアルタイム CDP）での Azure Blob ストレージ先のセットアップと設定に必要な手順を説明します。 |
 | 2021 年 2 月 4 日（PT） | [ID グラフの表示](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/view-identity-graphs.html?lang=ja) | ビデオ | ID グラフビューア機能を使用して、検証とデバッグのために ID グラフを検索、調査およびフィルタリングする方法。 |
 | 2021 年 2 月 3 日（PT） | [バッチデータ取り込みの概要](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html?lang=ja) | ビデオ | Adobe Experience Platform でのバッチデータ取り込みの概要です。API を使用してバッチデータを取り込む方法を説明します。 |
