@@ -1,14 +1,14 @@
 ---
-title: Experience Cloud と Experience Platform に関するリリースノート
-description: Experience Cloud と Experience Platform に関する最新のリリースノート、新機能および新しいドキュメントについて説明します。 Creative Cloud エンタープライズ版および Document Cloud に関する新しいヘルプとチュートリアルをご覧ください。
+title: 最新のリリースノート
+description: 「Experience Cloud製品およびサービスに関する最新のリリースノート、新機能および新しいドキュメントについて説明します。 Experience Cloud、Creative Cloud、Document Cloudに関する新しいヘルプやチュートリアルをご覧ください。」
 doc-type: release notes
 last-update: February 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: c665df945df9f183549c7ca3e3a2e3bf0b04a3af
+source-git-commit: 2f83677d5507bd917603ec8cfcbd08559a510a0f
 workflow-type: tm+mt
-source-wordcount: '6428'
-ht-degree: 99%
+source-wordcount: '6425'
+ht-degree: 98%
 
 ---
 
