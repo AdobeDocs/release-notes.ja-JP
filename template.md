@@ -4,11 +4,11 @@ description: Experience Cloud リリースノート
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: ht
-source-git-commit: 336fa0b2b5b27060bcdb6590ba8e5795c2dbbf8f
-workflow-type: ht
-source-wordcount: '1349'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: f981d08b9a7200776706028b0408bd94a1e5e246
+workflow-type: tm+mt
+source-wordcount: '1346'
+ht-degree: 99%
 
 ---
 
@@ -161,7 +161,7 @@ Adobe Analytics の新機能および修正点です。
 * 修正
 * 修正
 
-次のプラットフォームの AppMeasurement のリリース履歴については、[AppMeasurement リリース履歴](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/appmeasurement-updates.html)を参照してください。
+次のプラットフォームの AppMeasurement のリリース履歴については、[AppMeasurement リリース履歴](https://experienceleague.corp.adobe.com/docs/analytics/implementation/appmeasurement-updates.html)を参照してください。
 
 * [!DNL JavaScript]
 * [!DNL iOS]
@@ -337,12 +337,12 @@ Marketo Engage は、複雑な購入ジャーニーのすべてのステージ�
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/ja-JP/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
+| 日付：2020 年 | [Linktext](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) | ビデオ | 説明 |
