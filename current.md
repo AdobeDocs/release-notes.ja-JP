@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 9bf1dccf7e049c290e762410eb56a3f2c040c036
+source-git-commit: bce06efc7248df1f1929838681e3fcf5adb8ebbd
 workflow-type: tm+mt
-source-wordcount: '5917'
-ht-degree: 37%
+source-wordcount: '6109'
+ht-degree: 36%
 
 ---
 
@@ -229,7 +229,15 @@ AEM 6.4、Service Pack 8、Cumulative Fix Pack 4（2021年2月25日リリース6
       * ブランドポータルを使用してアセットをソースできるようになりました。 アセットソーシング機能では、Brand Portalを使用して、エージェンシーユーザーとの関わりを深め、新しいマーケティングキャンペーン、フォトシュート、プロジェクトのアセットをソースできるよう支援します。 『ブランドポータルガイド』の「[アセットソーシングの概要](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en)」を参照してください。
       * ブランドポータルの使用状況レポートに、アクティブなユーザーのみが表示されるようになりました。 非アクティブなユーザーは現在表示されません。 アクティブなユーザーとは、Admin Console内の製品プロファイルにアカウントが割り当てられているユーザーです。 ブランドポータルガイドの[レポートの操作](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-reports.html?lang=en)を参照してください。
       * Brand Portalに新しいダウンロード設定が導入されました。この設定を使用すると、フォルダーやコレクションなどをダウンロードするときに、アセットごとに個別のフォルダーを作成できます。 『ブランドポータルガイド』の「**ブランドポータル**&#x200B;からのアセットのダウンロード」の「[アセットのダウンロード](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/download/brand-portal-download-assets.html?lang=en)」を参照してください。
-   * **Experience Manager Commerce as a Cloud Service**
+   * **Cloud ServiceとしてのFormsExperience Manager**
+
+      AEM Formsは、数多くの組織が長年にわたって素晴らしいオンボーディングと入学経験を提供するのを支援してきた。 これらのエクスペリエンスは、組織がリードを実際の販売に転換したり、取り込んだ顧客データを処理したり、オーディエンスプロファイルに基づいてレスポンシブなエクスペリエンスを提供するのに役立っています。 現在、AEM Formsはクラウドサービスとして利用できます。
+
+      AEM FormsをCloud Serviceとして使用し、デジタルフォームの作成、既存のデータソースへのフォームの接続、フォームとAdobe Signの統合を行ってフォームに電子署名を追加し、記録のドキュメント(DoR)を生成して、入力済みのフォームをPDFファイルとしてアーカイブできます。 また、このサービスを使用して、既存のPDF formsをデジタルフォームに変換することもできます。 標準的なAEM Formsの機能に加えて、負荷に基づく自動拡張、アップグレードのダウンタイムゼロ、クラウドネイティブ開発環境など、クラウドネイティブの機能をいくつかオファーしています。 このサービスの機能や機能について詳しくは、[このブログ記事](https://blog.adobe.com/en/publish/2021/03/11/experience-manager-forms-as-a-cloud-service.html)を読んでください。
+
+      Cloud ServiceとしてのAEM FormsのGA日は3月25日です。 デモを見るか、サービスに新規登録するには、Adobeの担当者にお問い合わせください。
+
+   * **Cloud ServiceとしてのExperience Managerコマース**
 
       * 製品エクスペリエンス管理：エクスペリエンスフラグメントを使用して、商品カタログページを個別に拡張する。
       * 関連するコンテンツにすばやく移動するアクションなど、アセットとエクスペリエンスフラグメントのリンクを表示するための製品コンソールプロパティを拡張しました。
