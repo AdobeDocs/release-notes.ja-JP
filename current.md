@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 66a8238a7fc0a9b397bfab74b1b36d90be7ad842
+source-git-commit: da0cc40fb828e5f64d832c2e4e5dba931d2f2e99
 workflow-type: tm+mt
-source-wordcount: '6141'
+source-wordcount: '6120'
 ht-degree: 36%
 
 ---
@@ -231,11 +231,12 @@ AEM 6.4、Service Pack 8、Cumulative Fix Pack 4（2021年2月25日リリース6
       * Brand Portalに新しいダウンロード設定が導入されました。この設定を使用すると、フォルダーやコレクションなどをダウンロードするときに、アセットごとに個別のフォルダーを作成できます。 『ブランドポータルガイド』の「**ブランドポータル**&#x200B;からのアセットのダウンロード」の「[アセットのダウンロード](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/download/brand-portal-download-assets.html?lang=en)」を参照してください。
    * **Cloud ServiceとしてのFormsExperience Manager**
 
-      AEM Formsは、数多くの組織が長年にわたって素晴らしいオンボーディングと入学経験を提供するのを支援してきた。 これらのエクスペリエンスは、組織がリードを実際の販売に転換したり、取り込んだ顧客データを処理したり、オーディエンスプロファイルに基づいてレスポンシブなエクスペリエンスを提供するのに役立っています。 現在、AEM Formsはクラウドサービスとして利用できます。
+      AEM Formsは、多くの組織が長年にわたって素晴らしいオンボーディングや入学経験を提供するのを助けてきた。 これらのエクスペリエンスは、組織がリードを販売に転換したり、取り込んだ顧客データを処理したり、オーディエンスプロファイルに基づいてレスポンシブなエクスペリエンスを提供するのに役立っています。 現在、AEM Formsはクラウドサービスとして利用できます。
 
-      AEM FormsをCloud Serviceとして使用し、デジタルフォームの作成、既存のデータソースへのフォームの接続、フォームとAdobe Signの統合を行ってフォームに電子署名を追加し、記録のドキュメント(DoR)を生成して、入力済みのフォームをPDFファイルとしてアーカイブできます。 また、このサービスを使用して、既存のPDF formsをデジタルフォームに変換することもできます。 標準的なAEM Formsの機能に加えて、負荷に基づく自動拡張、アップグレードのダウンタイムゼロ、クラウドネイティブ開発環境など、クラウドネイティブの機能をいくつかオファーしています。 このサービスの機能や機能について詳しくは、[このブログ記事](https://blog.adobe.com/en/publish/2021/03/11/experience-manager-forms-as-a-cloud-service.html)を読んでください。
+      AEM FormsをCloud Serviceとして使用し、デジタルフォームの作成、既存のデータソースへのフォームの接続、フォームとAdobe Signとの統合を行ってフォームに電子署名を追加し、レコードドキュメント(DoR)を生成して送信済みのフォームをPDFファイルとしてアーカイブできます。 また、このサービスでは、既存のPDF formsをデジタルフォームに変換することもできます。 標準的なAEM Formsの機能に加えて、自動拡張、アップグレードのダウンタイムゼロ、クラウドネイティブの開発環境など、クラウドネイティブの機能をいくつかオファーしています。 [このブログ記事](https://blog.adobe.com/en/publish/2021/03/11/experience-manager-forms-as-a-cloud-service.html)を読み、Cloud ServiceとしてのAEM Formsの能力や特徴を知る。
 
-      Cloud ServiceとしてのAEM FormsのGA日は3月25日です。 デモを見るか、サービスに新規登録するには、Adobeの担当者にお問い合わせください。
+      デモを見るか、サービスに新規登録するには、Adobeの担当者にお問い合わせください。
+
 
    * **Cloud ServiceとしてのExperience Managerコマース**
 
