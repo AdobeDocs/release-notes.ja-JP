@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 35b3735f74ec51bcdb850bbb5b03df823c9e0f38
+source-git-commit: cbad4628dc16c773db0d9985b9ab5b5ac2cdd360
 workflow-type: tm+mt
-source-wordcount: '5843'
+source-wordcount: '5857'
 ht-degree: 37%
 
 ---
@@ -224,7 +224,7 @@ AEM 6.4、Service Pack 8、Cumulative Fix Pack 4（2021年2月25日リリース6
       * [Experience Manager内での外部SPAの編集](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/developing/hybrid/editing-external-spa.html?lang=en):スタンドアロンの単一ページアプリをExperience Managerインスタンスにアップロードする機能、編集可能なコンテンツセクションの追加、オーサリングの有効化を追加しました。
    * **Experience Manager Assets as a Cloud Service**
 
-      * Experience Managerアセットは、Cloud Serviceとして、事前設定済みのブランドポータルインスタンスを持つ権利が付与されます。 Cloud Managerユーザーは、Cloud ServiceーアセットでブランドポータルをExperience Managerとしてアクティブ化できます。
+      * Experience Managerアセットは、Cloud Serviceとして、事前設定済みのブランドポータルインスタンスを持つ権利が付与されます。 Cloud Managerユーザーは、Cloud ServiceーアセットでブランドポータルをExperience Managerとしてアクティブ化できます。 「[Brand Portalを使用したBrand Portalのアクティブ化](https://experienceleague.corp.adobe.com/docs/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html)」を参照してください。
       * ブランドポータルを使用してアセットをソースできるようになりました。 アセットソーシング機能では、Brand Portalを使用して、エージェンシーユーザーとの関わりを深め、新しいマーケティングキャンペーン、フォトシュート、プロジェクトのアセットをソースできるよう支援します。 『ブランドポータルガイド』の「[アセットソーシングの概要](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en)」を参照してください。
       * ブランドポータルの使用状況レポートに、アクティブなユーザーのみが表示されるようになりました。 非アクティブなユーザーは現在表示されません。 アクティブなユーザーとは、Admin Console内の製品プロファイルにアカウントが割り当てられているユーザーです。 ブランドポータルガイドの[レポートの操作](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-reports.html?lang=en)を参照してください。
       * Brand Portalに新しいダウンロード設定が導入されました。この設定を使用すると、フォルダーやコレクションなどをダウンロードするときに、アセットごとに個別のフォルダーを作成できます。 『ブランドポータルガイド』の「**ブランドポータル**&#x200B;からのアセットのダウンロード」の「[アセットのダウンロード](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/download/brand-portal-download-assets.html?lang=en)」を参照してください。
