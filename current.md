@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: cbad4628dc16c773db0d9985b9ab5b5ac2cdd360
+source-git-commit: 9bf1dccf7e049c290e762410eb56a3f2c040c036
 workflow-type: tm+mt
-source-wordcount: '5857'
+source-wordcount: '5917'
 ht-degree: 37%
 
 ---
@@ -117,26 +117,27 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 | ----------- | ---------- | ------- |
 | データ修復APIの更新 | 2021 年 3 月 25 日 | データ修復APIで、[!UICONTROL ページ]と[!UICONTROL IPアドレス]、モバイル変数とビデオ変数、およびカスタムpropとeVarを含む標準変数がサポートされるようになりました。  変数内の値は削除できるほか、新しい値を設定できます。 APIで、URL、クエリ文字列、記号などをフィルタリングするオファーも追加されました。 |
 | Analysis Workspace:[!UICONTROL コンポーネント] > [!UICONTROL ユーザー設定] | 2021 年 3 月 25 日 | [!UICONTROL コンポーネント]/[!UICONTROL ユーザーの環境設定]ページでは、[!UICONTROL Analysis Workspace]の設定と、ユーザーに関連するコンポーネントを管理できます。 [!UICONTROL ユーザー] 環境設定は、すべての新しいプロジェクトおよびパネルに適用されます。**注意：** 次の設定は、 [!UICONTROL ユーザー] 環境設定ページに移動しました。<ul><li>レポート設定：千単位区切り文字（現在は「数値の形式」と呼ばれます）</li><li>レポート設定：CSV区切り文字</li><li>Workspaceプロジェクト：ヘルプ/ヒントを有効にする</li><li>Workspaceプロジェクト：空のパネル「このパネルで新しいプロジェクトを開始」オプション</li></ul> |
-| Analysis Workspace:ヒストグラムスマートバケット予測 | 2021 年 3 月 25 日 | ヒストグラムスマートバケット予測は、データ分散に対する適切な幅とグループ数を自動的に識別することで、高カーディナリティ指標のヒストグラムを扱うのに役立ちます。 低カーディナリティ指標の場合、ビジュアライゼーションは以前と同じように動作します。 |
+| Analysis Workspace:[!UICONTROL ヒストグラム]スマートバケット予測 | 2021 年 3 月 25 日 | [!UICONTROL HistogramSmart Bucket Predictionは、データ分散の適切な幅とグループ数を自動的に識別することで、カーディナリティ指標の高いヒストグラムの扱いに役立ちます。] 低カーディナリティ指標の場合、ビジュアライゼーションは以前と同じように動作します。 |
+| [!UICONTROL 使用状況] ログAPI | 2021 年 3 月 25 日 | これは、新しいv2.0 Analytics APIで、[!UICONTROL 管理者]/[!UICONTROL ログ]/[!UICONTROL 使用状況およびアクセスログ]で利用できるのと同じ使用状況ログデータに、プログラムレベルでアクセスできます。 認証、スキーマ、サンプルレスポンスに関する詳細は、[こちら](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/usage-logs.md)を参照してください。 |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
-| Analyticsダッシュボードのサポート | 2021 年 3 月 25 日 | CJAで、Mobile Scorecard BuilderとMobile Appがサポートされるようになりました。 これにより、エグゼクティブやビジネスユーザーは、すでにAdobe Analyticsで使用しているのと同じアプリを使用して、CJAデータからチャネル間のKPIを見ることができます。 |
+| [!UICONTROL Adobe Analyticsダッシュボード]のサポート | 2021 年 3 月 25 日 | [!UICONTROL Customer Journey Analytics] (CJA)で、 [!UICONTROL Adobe Analyticsダッシュボードスコアカード] ビルダーとモバイルアプリがサポートされるようになりました。これにより、エグゼクティブやビジネスユーザーは、すでにAdobe Analyticsで使用しているのと同じアプリを使用して、CJAデータに基づくチャネル間のKPIを確認できます。 |
 | Analysis Workspace:[!UICONTROL コンポーネント] > [!UICONTROL ユーザー設定] | 2021 年 3 月 25 日 | [!UICONTROL コンポーネント]/[!UICONTROL ユーザーの環境設定]ページでは、[!UICONTROL Analysis Workspace]の設定と、ユーザーに関連するコンポーネントを管理できます。 [!UICONTROL ユーザー] 環境設定は、すべての新しいプロジェクトおよびパネルに適用されます。**注意：** 次の設定は、 [!UICONTROL ユーザー] 環境設定ページに移動しました。<ul><li>Workspaceプロジェクト：ヘルプ/ヒントを有効にする</li><li>Workspaceプロジェクト：空のパネル「このパネルで新しいプロジェクトを開始」オプション</li></ul> |
-| Analysis Workspace:ヒストグラムスマートバケット予測 | 2021 年 3 月 25 日 | ヒストグラムスマートバケット予測は、データ分散に対する適切な幅とグループ数を自動的に識別することで、高カーディナリティ指標のヒストグラムを扱うのに役立ちます。 低カーディナリティ指標の場合、ビジュアライゼーションは以前と同じように動作します。 |
+| Analysis Workspace:[!UICONTROL ヒストグラム]スマートバケット予測 | 2021 年 3 月 25 日 | [!UICONTROL HistogramSmart Bucket Predictionは、データ分散の適切な幅とグループ数を自動的に識別することで、カーディナリティ指標の高いヒストグラムの扱いに役立ちます。] 低カーディナリティ指標の場合、ビジュアライゼーションは以前と同じように動作します。 |
 
 ### Adobe Analytics の修正点 {#aa-fixes}
 
 * セグメントの新しい所有者を編集および保存した後、この新しい所有者がセグメントUIに反映されない問題を修正しました。 (AN-234502;AN-250970;(AN-250286)
 * アプリレポートスイートで、プライマリサーバーコールとモバイルプライマリサーバーコールの両方が使用される問題を修正しました。 （AN-244029）
-* Workspaceプロジェクトを開く際のUI応答時間が遅い問題を修正しました。 （AN-242553）
-* 最新バージョンにアップグレードした後、Report Builderにログインできない問題を修正しました。 （AN-248825）
-* 管理者以外のユーザーのユーザー権限に関する問題を修正しました。ユーザーは、Admin Console内のプロファイルの少なくとも1つに追加されている限り、権限を持つ必要があります。 プロファイルにユーザーを追加する場合は、そのユーザーの権限にのみ追加する必要があり、他の製品プロファイルを使用して既に権利を付与されているものを削除しないでください。 （AN-242723）
-* データフィードでの言語エンコーディングの問題を修正しました。 （AN-249862）
-* 共有されたWorkspaceプロジェクトにユーザーがアクセスできない問題を修正しました。 （AN-247814）
-* アラートプレビューがトリガーされたアラートの数と一致しない問題を修正しました。 (AN-249392;(AN-250804)
+* [!UICONTROL Workspace]プロジェクトを開くとUI応答時間が遅くなる問題を修正しました。 （AN-242553）
+* 最新バージョンにアップグレードした後、[!UICONTROL Report Builder]にログインできない問題を修正しました。 （AN-248825）
+* 管理者以外のユーザーのユーザー権限に関する問題を修正しました。[!UICONTROL Admin Console]内のプロファイルの少なくとも1つに追加されている限り、ユーザーには権限が必要です。 プロファイルにユーザーを追加する場合は、そのユーザーの権限にのみ追加する必要があり、他の製品プロファイルを使用して既に権利を付与されているものを削除しないでください。 （AN-242723）
+* [!UICONTROL データフィード]で発生していた言語エンコーディングの問題を修正しました。 （AN-249862）
+* 共有[!UICONTROL Workspace]プロジェクトにユーザーがアクセスできない問題を修正しました。 （AN-247814）
+* [!UICONTROL アラートプレビュー]がトリガーされた[!UICONTROL アラート]の数と一致しない問題を修正しました。 (AN-249392;(AN-250804)
 
 #### その他の Adobe Analytics の修正点
 
@@ -146,8 +147,8 @@ AN-206099;AN-237460;AN-241803;AN-243735;AN-244081;AN-244615;AN-244687;AN-246832;
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
-| SiteCatalystと同じVISTA処理 | 2021 年 3 月 17 日 | 2021年6月17日に、すべてのレポートスイートが[!UICONTROL SiteCatalystと同じVISTA処理]をオンに設定するように更新されます。  この変更は、処理ルールに一致するようにデータを処理することによって、Data Warehouseのレポートに影響を与えます。  ご質問や明確な説明については、カスタマーケアにお問い合わせください。 |
-| フル処理データソースののサポート終了 | 2021 年 3 月 10 日 | アドビでは、今後、フル処理データソースを廃止する予定です。 2021 年 3 月 25 日現在、このタイプの新規インポートは作成できなくなっています。 このタイプのデータをインポートするには、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を使用してください。 |
+| [!UICONTROL SiteCatalystと同じVISTA処理] =オン | 2021 年 3 月 17 日 | 2021年6月17日に、すべてのレポートスイートが[!UICONTROL SiteCatalystと同じVISTA処理]をオンに設定するように更新されます。  この変更は、処理ルールに一致するようにデータを処理することにより、[!UICONTROL Data Warehouse]のレポートに影響を与えます。  ご質問や明確な説明については、Adobeカスタマーケアにお問い合わせください。 |
+| [!UICONTROL フル処理] [!UICONTROL データソース]のEOL | 2021 年 3 月 10 日 | Adobeは、将来的には[!UICONTROL フル処理] [!UICONTROL データソース]を非推奨とする予定です。 2021 年 3 月 25 日現在、このタイプの新規インポートは作成できなくなっています。 このタイプのデータをインポートするには、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を使用してください。 |
 | Reports &amp; Analytics のランディングページオプション | 2021 年 2 月 19 日（PT） | 2021 年 3 月 25 日（PT）に、新しい Reports &amp; Analytics ダッシュボードまたはその他のコンテンツを Adobe Analytics ランディングページとして設定するオプションが削除されます。 以前に Reports &amp; Analytics ページをカスタムランディングページとして設定していた場合、[!UICONTROL ユーザーの環境設定]でランディングページが変更されるまで、このページは引き続き機能します。  |
 | Ad Hoc Analysis のサポート終了 | 2021 年 1 月 | [!UICONTROL Ad Hoc Analysis] は、2021 年 3 月 1 日（PT）にサポート終了日に達します。詳しくは、[Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) を参照してください。 |
 | 3 つの Analytics API サービスの提供終了 | 2021 年 1 月 6 日（PT） | 2021 年 4 月 30 日（PT）、以下の Analytics 従来の API サービスの提供が終了し、サービスが停止されます。 これらのサービスを使用して構築された現在の統合は、その日以降使用できなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>ご質問への回答、および進め方に関するガイダンスを提供するために、[従来の API EOL に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe IO](https://console.adobe.io/home?mv=email#) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API の両方にアクセスするために使用できます。 |
