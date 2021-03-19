@@ -1,13 +1,13 @@
 ---
 title: 最新のリリースノート
-description: Experience Cloud製品およびサービスに関する最新のリリースノート、新機能および新しいドキュメントについて説明します。 Experience Cloud、Creative Cloud、Document Cloudに関する新しいヘルプやチュートリアルをご覧ください。
+description: Experience Cloud 製品および サービスに関する最新のリリースノート、新機能および新規ドキュメントについて説明します。Experience Cloud、Creative Cloud エンタープライズ版および Document Cloud に関する新しいヘルプとチュートリアルをご覧ください。
 doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bce06efc7248df1f1929838681e3fcf5adb8ebbd
+source-git-commit: 66a8238a7fc0a9b397bfab74b1b36d90be7ad842
 workflow-type: tm+mt
-source-wordcount: '6109'
+source-wordcount: '6141'
 ht-degree: 36%
 
 ---
@@ -55,7 +55,7 @@ Experience Cloud のソリューションとサービスは毎月更新されま
 
 ## ![](/assets/ec_appicon_24.png) IconExperience Cloud UIコンポーネント、サービス、管理  {#ecloud}
 
-更新はありません。
+**統合検索：** 統合検索は現在Experience Platformで使用可能で、Experience Platformユーザーのソースと宛先での検索がサポートされるようになりました。この機能を使用すると、セグメント、データセット、スキーマ、ソースおよび宛先を検索できます。
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
