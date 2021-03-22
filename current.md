@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 1cde3fd4f91f53c6f2281b95397257bbcf1f5672
+source-git-commit: ebeebdb7c1a534934a0e70c6ab2588a96442192f
 workflow-type: tm+mt
-source-wordcount: '6130'
-ht-degree: 36%
+source-wordcount: '6141'
+ht-degree: 35%
 
 ---
 
@@ -17,17 +17,13 @@ ht-degree: 36%
 
 ![バナー](/assets/experience-cloud-banner-3.png)
 
-Experience Cloud のソリューションとサービスは毎月更新されます。 このページには、[!DNL Experience Cloud] と Experience Platform の最新のリリースアップデート、ドキュメントおよびチュートリアルが集約されています。 また、[!DNL Creative Cloud for Enterprise] と [!DNL Document Cloud] の新しいドキュメントも参照できます。
-
->[!IMPORTANT]
->
->このページに記載されている内容は、リリース前の情報であり、リリース日より前に変更される可能性があります。
+Experience Cloud のソリューションとサービスは毎月更新されます。 このページは、[!DNL Experience Cloud]製品とサービスの最新リリースアップデート、ドキュメント、およびチュートリアルを見つけるための中心的な場所です。 また、[!DNL Creative Cloud for Enterprise] と [!DNL Document Cloud] の新しいドキュメントも参照できます。
 
 >[!NOTE]
 >
->毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
+>毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページは1か月を通して保持され、リリース日より前に変更される可能性のあるコンテンツが含まれている場合があります。 定期的にもう一度確認して、Adobeのエンタープライズ製品とExperience Leagueのドキュメントの更新を確認してください。
 
-最終更新日：**2021 年 3 月 19 日**
+最終更新日：**2021 年 3 月 22 日**
 
 * [アドビシステムのステータス](#status)（未更新）
 * [Experience CloudUIコンポーネント、サービス、管理](#ecloud)
@@ -51,7 +47,7 @@ Experience Cloud のソリューションとサービスは毎月更新されま
 
 [!UICONTROL Adobe システムステータス]は、アドビクラウド製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/) でご確認ください。
 
-最新のリリース情報については、Adobeシステムステータスに対する最新の更新情報は、[Adobeシステムステータス — 2020年5月21日](https://docs.adobe.com/content/help/ja-JP/release-notes/experience-cloud/previous/2020/05212020.html#status)にあります。
+Adobeシステムの状態に対する最新の更新は、[Adobeシステムの状態 — 2020年5月21日](https://docs.adobe.com/content/help/ja-JP/release-notes/experience-cloud/previous/2020/05212020.html#status)にあります。
 
 ## ![](/assets/ec_appicon_24.png) IconExperience Cloud UIコンポーネント、サービス、管理  {#ecloud}
 
@@ -335,7 +331,11 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 リリースされた最新の機能、改善点、修正点について詳しくは、
 
 * [Campaign Standard リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html)
-* [Campaign Classic リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html)
+* [Campaign Classic リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html)。
+
+>[!IMPORTANT]
+>
+>[Adobe Campaign Classicに必要な構成の更新](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/acc-config-updates.html?lang=en)について説明します。
 
 ### 新しい Campaign コースとチュートリアル
 
