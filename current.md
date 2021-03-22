@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: ebeebdb7c1a534934a0e70c6ab2588a96442192f
+source-git-commit: ffd0377c6309d206bbb98ddc9c7e74f938ad4081
 workflow-type: tm+mt
-source-wordcount: '6141'
-ht-degree: 35%
+source-wordcount: '6263'
+ht-degree: 34%
 
 ---
 
@@ -57,8 +57,8 @@ Adobeシステムの状態に対する最新の更新は、[Adobeシステムの
 
 Experience Platform と Experience Platform Launch に関するリリース更新情報が含まれます。
 
-* [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html). (2021 年 2 月 24 日（PT）)
-* [Experience Platform Launch リリースノート](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=ja). (2021 年 1 月 13 日（PT）)
+* [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html). （更新日2021年2月24日）
+* [Experience Platform Launch リリースノート](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=ja). （更新日2021年2月18日）
 
 ### Experience Platform チュートリアルおよびコース
 
@@ -115,6 +115,7 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 | Analysis Workspace:[!UICONTROL コンポーネント] > [!UICONTROL ユーザー設定] | 2021 年 3 月 25 日 | [!UICONTROL コンポーネント]/[!UICONTROL ユーザーの環境設定]ページでは、[!UICONTROL Analysis Workspace]の設定と、ユーザーに関連するコンポーネントを管理できます。 [!UICONTROL ユーザー] 環境設定は、すべての新しいプロジェクトおよびパネルに適用されます。**注意：** 次の設定は、 [!UICONTROL ユーザー] 環境設定ページに移動しました。<ul><li>レポート設定：千単位区切り文字（現在は「数値の形式」と呼ばれます）</li><li>レポート設定：CSV区切り文字</li><li>Workspaceプロジェクト：ヘルプ/ヒントを有効にする</li><li>Workspaceプロジェクト：空のパネル「このパネルで新しいプロジェクトを開始」オプション</li></ul> |
 | Analysis Workspace:[!UICONTROL ヒストグラム]スマートバケット予測 | 2021 年 3 月 25 日 | [!UICONTROL HistogramSmart Bucket Predictionは、データ分散の適切な幅とグループ数を自動的に識別することで、カーディナリティ指標の高いヒストグラムの扱いに役立ちます。] 低カーディナリティ指標の場合、ビジュアライゼーションは以前と同じように動作します。 |
 | [!UICONTROL 使用状況] ログAPI | 2021 年 3 月 25 日 | これは、新しいv2.0 Analytics APIで、[!UICONTROL 管理者]/[!UICONTROL ログ]/[!UICONTROL 使用状況およびアクセスログ]で利用できるのと同じ使用状況ログデータに、プログラムレベルでアクセスできます。 認証、スキーマ、サンプルレスポンスに関する詳細は、[こちら](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/usage-logs.md)を参照してください。 |
+| Analyticsダッシュボードでのカスタム日付範囲のサポート | 2021 年 3 月 25 日 | スコアカードの作成者は、カスタム日付範囲を作成して、モバイルスコアカードプロジェクトに適用できます。 作成者は、使い慣れたワークスペースやモバイルの日付範囲のプリセットから選択したり、カスタムの日付範囲を作成したりできます。 この機能は、3月25日の公開を開始します。 |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
@@ -123,6 +124,7 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 | [!UICONTROL Adobe Analyticsダッシュボード]のサポート | 2021 年 3 月 25 日 | [!UICONTROL Customer Journey Analytics] (CJA)で、 [!UICONTROL Adobe Analyticsダッシュボードスコアカード] ビルダーとモバイルアプリがサポートされるようになりました。これにより、エグゼクティブやビジネスユーザーは、すでにAdobe Analyticsで使用しているのと同じアプリを使用して、CJAデータに基づくチャネル間のKPIを確認できます。 |
 | Analysis Workspace:[!UICONTROL コンポーネント] > [!UICONTROL ユーザー設定] | 2021 年 3 月 25 日 | [!UICONTROL コンポーネント]/[!UICONTROL ユーザーの環境設定]ページでは、[!UICONTROL Analysis Workspace]の設定と、ユーザーに関連するコンポーネントを管理できます。 [!UICONTROL ユーザー] 環境設定は、すべての新しいプロジェクトおよびパネルに適用されます。**注意：** 次の設定は、 [!UICONTROL ユーザー] 環境設定ページに移動しました。<ul><li>Workspaceプロジェクト：ヘルプ/ヒントを有効にする</li><li>Workspaceプロジェクト：空のパネル「このパネルで新しいプロジェクトを開始」オプション</li></ul> |
 | Analysis Workspace:[!UICONTROL ヒストグラム]スマートバケット予測 | 2021 年 3 月 25 日 | [!UICONTROL HistogramSmart Bucket Predictionは、データ分散の適切な幅とグループ数を自動的に識別することで、カーディナリティ指標の高いヒストグラムの扱いに役立ちます。] 低カーディナリティ指標の場合、ビジュアライゼーションは以前と同じように動作します。 |
+| AnalyticsダッシュボードでのCustomer Journey Analyticsのサポート | 2021 年 3 月 25 日 | AnalyticsダッシュボードアプリでCustomer Journey Analyticsがサポートされるようになりました。 Customer Journey Analyticsを持つユーザーは、AnalyticsダッシュボードアプリでAdobe Experience Platformに取り込まれた任意のデータからKPIを引き出すことができます。 Customer Journey Analyticsを使用すると、複数のデータソースを組み合わせて、顧客体験を真のマルチチャネル表示できます。 Analyticsダッシュボードアプリを使用すると、いつでもどこでも、最新の全体的なビジネス表示を得ることができます。 |
 
 ### Adobe Analytics の修正点 {#aa-fixes}
 
