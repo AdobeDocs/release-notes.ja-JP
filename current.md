@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: bb6a42b34458a8f1959d4206f546992f4c8e5747
+source-git-commit: b563bfd3582fbbf197dbe3b6590b1f681b7e38cc
 workflow-type: tm+mt
-source-wordcount: '7120'
-ht-degree: 31%
+source-wordcount: '7045'
+ht-degree: 32%
 
 ---
 
@@ -451,13 +451,6 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 * **Internet Explorer のサポートの廃止：** 2020 年 7 月 31 日（PT）のリリース以降、Marketo Engage ユーザーインターフェイスは Internet Explorer でサポートされなくなります。
 
 ## ![アイコン](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
-
-新しく公開された Adobe Document Cloud ビデオ、チュートリアル、コース。
-
-| 公開日 | 名前 | ソリューション | 説明 |
-| -----------| ---------- | ---------- | ---------- |
-| 2021 年 2 月 25 日（PT） | [最初のインプレッション — お知らせメール](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/first-impressions/welcome-emails.html) | ビデオ | ウェルカム戦略の主な要素を学ぶ。 |
-| 2021 年 2 月 25 日（PT） | [第1インプレッション — 収集とリストの増加に対応](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/first-impressions/address-collection-and-list-growth.html) | ビデオ | 新しい電子メールアドレスの最適なソースは何か、高いデータ品質を確保する方法、および法的ガイドラインに沿った配置方法について説明します。 |
 
 Document Cloud ヘルプについては、以下を参照してください。
 
