@@ -225,7 +225,7 @@ AEM 6.5、Service Pack 8（2021 年 3 月 11 日リリース 6.5.8.0）は、201
    * [リリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja#service-pack)
    * [AEM Forms リリース成果物](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html?lang=ja#forms-updates)
 
-   * **AEM 6.4.8.4**
+* **AEM 6.4.8.4**
 AEM 6.4、Service Pack 8、Cumulative Fix Pack 4（2021年2月25日リリース6.4.8.4）は重要なアップデートで、AEM 6.4、Service Pack 8(6.4.8.0)の一般リリース（2020年3月）以降の社内およびお客様向けの修正が含まれています。
    * [リリースノート](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ja)
    * [AEM Forms リリース成果物](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html#forms-updates)
