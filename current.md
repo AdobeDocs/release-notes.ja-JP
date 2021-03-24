@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 3763705cd932a91c26d5c0e6166758241969126d
+source-git-commit: 8c48b768b004298dd4b80da04db7c6b5e536a0e0
 workflow-type: tm+mt
-source-wordcount: '7139'
-ht-degree: 32%
+source-wordcount: '7549'
+ht-degree: 30%
 
 ---
 
@@ -23,9 +23,10 @@ Experience Cloud のソリューションとサービスは毎月更新されま
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページは1か月を通して保持され、リリース日より前に変更される可能性のあるコンテンツが含まれている場合があります。 定期的にもう一度確認して、Adobeのエンタープライズ製品とExperience Leagueのドキュメントの更新を確認してください。
 
-最終更新日：**2021 年 3 月 22 日（PT）**
+最終更新日：**2021 年 3 月 24 日（PT）**
 
-* [アドビシステムのステータス](#status)（未更新）
+* [Digital Experience Blueprints](#blueprints) （新しい導入ドキュメント）
+* [Adobe システムステータス](#status)
 * [Experience CloudUIコンポーネント、サービス、管理](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
@@ -43,6 +44,23 @@ Experience Cloud のソリューションとサービスは毎月更新されま
 
 サポートが必要な場合は、[Adobe Experience League](https://experienceleague.adobe.com/?lang=ja#home) にアクセスし、製品および技術ドキュメント、アドビが運営するコース、ビデオチュートリアル、すばやい回答、コミュニティインサイト、講師によるトレーニングをお探しください。
 
+## ![IconDigital Experience Blueprints](/assets/adobe.png)   {#blueprints}
+
+Digital Experience Blueprintsは、戦略に対処し、確立されたビジネス上の問題を解決するための繰り返し可能な実装です。 Blueprintsは、価値ある期間を短縮し、成功への迅速なパスを提供します。
+
+| 公開日 | 説明 |
+| -----------| ---------- |
+| [デジタルエクスペリエンスの青写真](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html) | [!UICONTROL デジタル設計図]の概要。 各Blueprintオファーには、高価値のビジネス上の問題、アーキテクチャ、導入手順、技術上の考慮事項、および関連ドキュメントへのリンクについて説明する一連のアーティファクトが記載されています。 |
+| [Audience Activationブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/audience-activation/overview.html) | このオーディエンス優先のアクティベーションにより、ブランドは複数のチャネル間で顧客との対話を結び付け、一元化されたオーディエンスを提供し、すべてのチャネルに対してアクティブ化できます。 |
+| [お客様のアクティビティハブのブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture//customer-activity-hub/overview.html) | 外部アプリケーションがAdobe Experience Platformの[!UICONTROL リアルタイム顧客プロファイル]にアクセスする方法を説明します。 |
+| [Customer Journey Analyticsブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html) | ブランドが様々なインタラクションチャネルやソースから顧客データや行動を統一し、すべての顧客インタラクションに関するジャーニーベースの表示を作成する方法を説明します。 |
+| [プロファイルエンリッチメント設計図のカスタムデータサイエンス](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-science/overview.html) | [!UICONTROL Data Science Workspace]がAdobe Experience Platformのデータをどのように使用して、機械学習の洞察を提供するためのモデルのトレーニング、導入、スコアリングを行うかを説明します。 |
+| [データの準備と取り込みのBlueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-ingestion/overview.html) | ソースデータを[!UICONTROL エクスペリエンスデータモデル](XDM)スキーマにマップする方法を説明します。 この設計図には、日付の形式設定、フィールドの分割、連結、変換などのデータ変換や、レコードの結合、結合、再生も含まれます。 |
+| [企業データ調査およびレポートのブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-exploration/overview.html) | Experience Platformの[!UICONTROL クエリサービス]では、SQLクエリをデータに対して実行できます。 [!UICONTROL Data Science Workspace]を使用して、データ調査、データ科学、および機械学習のワークロードをデータに対して実行する方法を説明します。 |
+| [複数チャネルメッセージオーケストレーションのブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/multi-channel-message-orchestration/overview.html) | ブランドがEメール、SMS、モバイルアラートなどのチャネルを通じて、顧客と積極的に関わり合い、顧客とコミュニケーションを取る方法を学びます。 |
+| [サーバー側エンタープライズデータ収集ブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/server-side-enterprise-data-collection/overview.html) | Adobe Experience PlatformWebおよびモバイルSDKで収集されたデータを、Experience Platform[!UICONTROL Edge Network]から目的の宛先に転送する方法を説明します。 |
+| [WebおよびモバイルパーソナライゼーションのBlueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/web-personalization/overview.html) | 複数のアプリケーションでオーディエンスのセグメント化を使用して、顧客体験をパーソナライズし、最適化する方法を説明します。 顧客の行動、人口統計、忠誠度レベルおよび前のトランザクションを使用して、レイアウト、誘い文句（CTA：コールトゥアクション）、コンテンツをパーソナライズできます。 |
+
 ## ![アイコン](/assets/adobe.png) Adobe システムステータス {#status}
 
 [!UICONTROL Adobe システムステータス]は、アドビクラウド製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/) でご確認ください。
@@ -51,7 +69,9 @@ Adobeシステムの状態に対する最新の更新は、[Adobeシステムの
 
 ## ![](/assets/ec_appicon_24.png) IconExperience Cloud UIコンポーネント、サービス、管理  {#ecloud}
 
-**統合検索：** 統合検索は現在Experience Platformで使用可能で、Experience Platformユーザーのソースと宛先での検索がサポートされるようになりました。この機能を使用すると、セグメント、データセット、スキーマ、ソースおよび宛先を検索できます。
+| 機能 | 説明 |
+| -----------| ---------- |
+| 統合検索 | 現在はExperience Platformに使用できる統合検索で、Experience Platformユーザー向けのソースと宛先の検索がサポートされるようになりました。 この機能を使用すると、セグメント、データセット、スキーマ、ソースおよび宛先を検索できます。 |
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
