@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: b563bfd3582fbbf197dbe3b6590b1f681b7e38cc
+source-git-commit: d7c6508201971164b63a0d0d9490f66a2a87adf6
 workflow-type: tm+mt
-source-wordcount: '7045'
+source-wordcount: '7026'
 ht-degree: 32%
 
 ---
@@ -204,7 +204,6 @@ Audience Managerの修正点と改善点。
 | 2021 年 3 月 12 日（PT） | [Audience Managerユーザー向けのリアルタイムCDPでのWebデータ取り込みの理解](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.html) | ビデオ | WebサイトデータをReal-time Customer Data Platform(Real-time CDP)に取り込む概念を説明し、Audience Managerデータコネクタの適合箇所に関する高度なタッチと、Web SDKを介してWebサイトからReal-time CDPにデータを直接移動する方法を含みます。 |
 | 2021 年 3 月 3 日（PT） | [Audience Managerユーザー向けのリアルタイムCDPでのセグメントの理解](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html?lang=en#other-integrations) | ビデオ | セグメントの違い、およびAudience ManagerとリアルタイムCDPのセグメント作成について説明します。 |
 | 2021 年 3 月 3 日（PT） | [Audience Managerユーザー向けのリアルタイムCDPの特徴の理解](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.html?lang=en#other-integrations) | ビデオ | Audience Managerの特徴と、Real-time CDPの特徴を説明します。 |
-| 2021 年 3 月 3 日（PT） | [コースの概要 —Audience Managerの高度なスキル](https://video.tv.adobe.com/v/331788/?quality=12&learn=on) | ビデオ | 「Audience Manager高度なスキル」コースで待ち受けている内容を学びます。 |
 | 2021 年 3 月 3 日（PT） | [Audience Managerユーザー向けのリアルタイムCDPにおけるファーストパーティデータ取り込みについて](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.html?lang=en#other-integrations) | ビデオ | ファーストパーティのオフラインデータをリアルタイム顧客データプラットフォーム（リアルタイムCDP）に取り込む方法を説明します。 データ取り込みに関する2つの製品の主な違いと、プロセスがリアルタイムCDPに移行するまで、Audience ManagerData Connectorを停止ギャップとして使用する方法を説明します。 |
 | 2021 年 3 月 1 日（PT） | [Audience Marketplaceに対するオファーによる所有オーディエンスの商品化](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.html?lang=en#audience-marketplace) | ビデオ | データをプライベートデータフィードまたはパブリックデータフィードとしてAudience Marketplaceに設定し、セカンドパーティまたはサードパーティのデータプロバイダーにする方法について説明します。 |
 | 2021年3月 | [Audience Managerでのデータアクティベーションの作成と管理](https://experienceleague.adobe.com/?lang=ja&amp;recommended=AudienceManager-U-1-2020.4) | コース | このコースでは、エンドユーザーのエクスペリエンスをカスタマイズするために、オーディエンスデータを宛先パートナーに送信するなど、オーディエンスのアクティブ化について説明します。 送信先の基本事項、適切な送信先を選択する方法およびCookieではなく、ユーザーに基づいてソーシャルネットワークの送信先にオーディエンスデータを準備して送信する方法について説明します。 |
