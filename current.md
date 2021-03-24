@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 8c48b768b004298dd4b80da04db7c6b5e536a0e0
+source-git-commit: 17179b1ec08435b065a940850b52bb36183276f7
 workflow-type: tm+mt
-source-wordcount: '7549'
+source-wordcount: '7534'
 ht-degree: 30%
 
 ---
@@ -87,8 +87,7 @@ Experience Platform およびサービス用に公開された新しいビデオ
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2021年3月 | [監視ダッシュボード](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/monitoring-dashboard.html) | ビデオ | 監視ダッシュボードを使用して、Adobe Experience Platformに取り込まれるデータを監視および追跡する方法を説明します。 この監視ダッシュボードは、ソース・レークを介したソース・データ処理のトップ・ダウン・表示を、ソース、データ・フロー、データ・フローの各実行レベルでプロファイルおよびIDサービスに提供し、迅速に対応可能なアドバイザリを提供します。 |
-| 2021年3月 | [サーバサーバストリーミングコネクタを使用したデータの取り込み](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-source-connector.html) | ビデオ | このビデオでは、クラウドストレージソースからプラットフォームにデータをリアルタイムでストリーミングし、そのデータをリアルタイムで顧客の関与に使用する方法を示します。 |
-| 2021年3月 | [データエンジニア向けのデータ取り込み](https://video.tv.adobe.com/v/331971?quality=12&learn=on) | ビデオ | データ取り込みコースの概要です。 |
+| 2021年3月 | [ソースコネクタを使用したストリームデータ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-source-connector.html) | ビデオ | このビデオでは、クラウドストレージソースからプラットフォームにデータをリアルタイムでストリーミングし、そのデータをリアルタイムで顧客の関与に使用する方法を示します。 |
 | 2021 年 3 月 5 日（PT） | [データエンジニア向けのデータ取り込み](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion) | コース | 複数のソースからのデータをAdobe Experience Platformに取り込む方法など。 |
 | 2021年3月 | [Azure Blob 宛先の設定](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html?lang=ja#destinations) | ビデオ | [!UICONTROL リアルタイム顧客データプラットフォーム] （リアルタイムCDP）で、Azure Blobストレージ先のセットアップと構成に必要な手順を実行する方法を説明します。 |
 | 2021 年 3 月 5 日（PT） | [マーケター向けOffer decisioningの概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | コース | Adobe Experience Platformの上に構築された[!UICONTROL Offer decisioning]アプリケーションサービスについて説明します。 このコースは、顧客に最高のオファーを提供することで、売上高、顧客エクスペリエンス、忠誠度を向上させたいマーケターを対象としています。 |
