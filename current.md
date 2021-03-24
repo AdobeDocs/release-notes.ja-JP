@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: d7c6508201971164b63a0d0d9490f66a2a87adf6
+source-git-commit: 3763705cd932a91c26d5c0e6166758241969126d
 workflow-type: tm+mt
-source-wordcount: '7026'
+source-wordcount: '7139'
 ht-degree: 32%
 
 ---
@@ -128,7 +128,7 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ------- |
-| データ修復APIの更新 | 2021 年 3 月 25 日（PT） | データ修復APIで、[!UICONTROL ページ]と[!UICONTROL IPアドレス]、モバイル変数とビデオ変数、およびカスタムpropとeVarを含む標準変数がサポートされるようになりました。  変数内の値は削除できるほか、新しい値を設定できます。 APIで、URL、クエリ文字列、記号などをフィルタリングするオファーも追加されました。 |
+| データ修復APIの更新 | 2021 年 3 月 25 日（PT） | データ修復APIで、[!UICONTROL ページ]と[!UICONTROL IPアドレス]、モバイル変数およびビデオ変数、カスタム[!UICONTROL props]と[!UICONTROL eVars]などの標準変数がサポートされるようになりました。  変数内の値は削除できるほか、新しい値を設定できます。 APIで、URL、クエリ文字列、記号などをフィルタリングするオファーも追加されました。 |
 | Analysis Workspace:[!UICONTROL コンポーネント] > [!UICONTROL ユーザー設定] | 2021 年 3 月 25 日（PT） | [!UICONTROL コンポーネント]/[!UICONTROL ユーザーの環境設定]ページでは、[!UICONTROL Analysis Workspace]の設定と、ユーザーに関連するコンポーネントを管理できます。 [!UICONTROL ユーザー] 環境設定は、すべての新しいプロジェクトおよびパネルに適用されます。<br>**注意：** 次の設定は、 [!UICONTROL ユーザー] 環境設定ページに移動しました。<ul><li>レポート設定：千単位区切り文字（現在は&#x200B;_数値の形式_）</li><li>レポート設定：CSV区切り文字</li><li>Workspaceプロジェクト：ヘルプ/ヒントを有効にする</li><li>Workspaceプロジェクト：空のパネル&#x200B;_このパネル_&#x200B;オプションを使用して新しいプロジェクトを開始</li></ul> |
 | Analysis Workspace:[!UICONTROL ヒストグラムスマートバケット予測] | 2021 年 3 月 25 日（PT） | [!UICONTROL ヒストグラムのスマートバケット] 予測は、データ分散に使用するグループの正しい幅と数を自動的に識別することで、カーディナリティ指標の高いヒストグラムの処理に役立ちます。低カーディナリティ指標の場合、ビジュアライゼーションは以前と同じように動作します。 |
 | [!UICONTROL 使用状況] ログAPI | 2021 年 3 月 25 日（PT） | これは、新しいv2.0 Analytics APIで、**[!UICONTROL 管理者]**/**[!UICONTROL ログ]**/**[!UICONTROL 使用状況およびアクセスログ]**&#x200B;で利用できるのと同じ使用状況ログデータに、プログラムレベルでアクセスできます。 認証、スキーマ、サンプルレスポンスに関する詳細は、[こちら](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/usage-logs.md)を参照してください。 |
@@ -162,6 +162,7 @@ AN-206099;AN-237460;AN-241803;AN-243735;AN-244081;AN-244615;AN-244687;AN-246832;
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
+| Analyticsメニューの変更に関するお知らせ | 2021 年 3 月 24 日（PT） | 2021年4月22日に、パフォーマンスを上げるために、**[!UICONTROL コンポーネント]**、**[!UICONTROL ツール]**、**[!UICONTROL 管理者]**&#x200B;のドロップダウンメニューを更新します。 これらのページはすべて、**[!UICONTROL すべてのコンポーネント]**、**[!UICONTROL すべてのツール]**、**[!UICONTROL すべての管理者]**&#x200B;のリンクから引き続き利用できます。ドロップダウンメニューから削除されます。 ドロップダウンメニューから削除され、それぞれのリンクページに配置されるメニュー項目を示します。<br><br> [!UICONTROL コンポーネント]<ul><li>[!UICONTROL ブックマーク]</li><li>[!UICONTROL ダッシュボード]</li><li>[!UICONTROL ターゲット]</li><li>[!UICONTROL カレンダーイベント]</li><li>[!UICONTROL 予定レポート]</li><li>[!UICONTROL レポート設定]</li></ul>[!UICONTROL ツール]<ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search&amp;Promote]</li></ul>[!UICONTROL Admin]<ul><li>[!UICONTROL ユーザー管理]</li><li>[!UICONTROL 分類インポーター]</li><li>[!UICONTROL 分類ルールビルダー]</li><li>[!UICONTROL データソース]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL カンパニー設定]</li><li>[!UICONTROL ログ]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL コードマネージャー]</li><li>[!UICONTROL IPアドレスごとに除外]</li><li>[!UICONTROL トラフィック管理]</li></ul> |
 | [!UICONTROL SiteCatalystと同じVISTA処理] =オン | 2021 年 3 月 17 日（PT） | 2021年6月17日に、すべてのレポートスイートが[!UICONTROL SiteCatalystと同じVISTA処理]をオンに設定するように更新されます。 この変更は、処理ルールに一致するようにデータを処理することによって、[!UICONTROL Data Warehouse]のレポートに影響します。 ご質問や明確な説明については、Adobeカスタマーケアにお問い合わせください。 |
 | [!UICONTROL フル処理] [!UICONTROL データソース]のEOL | 2021 年 3 月 10 日（PT） | Adobeは、将来的には[!UICONTROL フル処理] [!UICONTROL データソース]を非推奨とする予定です。 2021 年 3 月 25 日（PT）現在、このタイプの新規インポートは作成できなくなっています。 [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md)を使用して、このタイプのデータをインポートします。 [詳細情報](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html) |
 | Reports &amp; Analytics のランディングページオプション | 2021 年 2 月 19 日（PT） | 2021 年 3 月 25 日（PT）に、新しい Reports &amp; Analytics ダッシュボードまたはその他のコンテンツを Adobe Analytics ランディングページとして設定するオプションが削除されます。 以前に Reports &amp; Analytics ページをカスタムランディングページとして設定していた場合、[!UICONTROL ユーザーの環境設定]でランディングページが変更されるまで、このページは引き続き機能します。  |
