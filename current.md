@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: March 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 99f32ddc69aa869be32186b9b0746aae27a79113
+source-git-commit: 153ab33f4f0e709d606efd5121b7e65bb1b9caf2
 workflow-type: tm+mt
-source-wordcount: '7556'
-ht-degree: 30%
+source-wordcount: '7773'
+ht-degree: 29%
 
 ---
 
@@ -50,7 +50,7 @@ Digital Experience Blueprintsは、戦略に対処し、確立されたビジネ
 
 | 公開日 | 説明 |
 | -----------| ---------- |
-| [デジタルエクスペリエンスの青写真](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html) | [!UICONTROL デジタル設計図]の概要。 各Blueprintオファーには、高価値のビジネス上の問題、アーキテクチャ、導入手順、技術上の考慮事項、および関連ドキュメントへのリンクについて説明する一連のアーティファクトが記載されています。 |
+| [デジタルエクスペリエンスのブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html) | [!UICONTROL デジタル設計図]の概要。 各Blueprintオファーには、高価値のビジネス上の問題、アーキテクチャ、導入手順、技術上の考慮事項、および関連ドキュメントへのリンクについて説明する一連のアーティファクトが記載されています。 |
 | [Audience Activationブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/audience-activation/overview.html) | このオーディエンス優先のアクティベーションにより、ブランドは複数のチャネル間で顧客との対話を結び付け、一元化されたオーディエンスを提供し、すべてのチャネルに対してアクティブ化できます。 |
 | [お客様のアクティビティハブのブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture//customer-activity-hub/overview.html) | 外部アプリケーションがAdobe Experience Platformの[!UICONTROL リアルタイム顧客プロファイル]にアクセスする方法を説明します。 |
 | [Customer Journey Analyticsブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html) | ブランドが様々なインタラクションチャネルやソースから顧客データや行動を統一し、すべての顧客インタラクションに関するジャーニーベースの表示を作成する方法を説明します。 |
@@ -429,15 +429,21 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### [!DNL Advertising Cloud Search] の新機能 {#adcloud-search}
 
-最終更新日：**2021 年 1 月 22 日（PT）（1 月 23 日（PT）のリリース用）**
+最終更新日：**2022年3月29日、3月27日リリース**
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| [!UICONTROL キャンペーンの検索]<br> レポート | Advertising Cloud Searchは、Microsoft® Advertisingキャンペーンの新しい平均掲載順位データをレポートしなくなりました。 平均順位列には、1 月 23 日から始まる日付の値が 0（ゼロ）で表示されます。 これは、Microsoft が 2021 年 1 月におこなう平均順位データの廃止に備えたものです。<br>1 月 22 日までに収集された平均順位データは、引き続きレポートで使用できます。 |
+| [!UICONTROL キャンペーンの検索]<br> レポート | (Microsoft広告キャンペーン)Microsoftの広告キャンペーンのデフォルトの入札戦略である、Microsoftの強化されたコストパークリック(eCPC)入札戦略で、入札サポートが利用できるようになりました。 お使いのキャンペーンに対して、キャンペーンレベルの[!UICONTROL 入札戦略]を指定できるようになりました。 [!UICONTROL 手動CPC]と[!UICONTROL 拡張CPC]が含まれます。 [!UICONTROL 拡張CPC]は、検索、既存の動的検索広告、およびショッピングキャンペーンで使用できます。<br>eCPCを持つキャンペーンを最適化されたAdvertising Cloudポートフォリオに追加すると、Advertising Cloudは基本入札を最適化し、「キャンペーン予算の上限を自動調整」オプションが有効な場合はキャンペーン予算を最適化します。Microsoftはすべての入札調整を適用し、ユーザークエリ時に、Advertising Cloudが生成した入札を独自のデータとインサイトに基づいて変更する場合があります。<br>「 [!UICONTROL 入札] 戦略カスタム」列は、  キャンペーンビューとレポートで使用できます。 |
+| [!UICONTROL キャンペーンの検索]<br> [!UICONTROL 隔壁シート] | (Microsoft広告キャンペーン)拡張テキスト広告に対して、3つ目のヘッドライン（[!UICONTROL 広告タイトル3]）と2つ目の説明（[!UICONTROL 説明2]）をオプションでサポートするようになりました。 サポートは[!UICONTROL 広告]表示と[!UICONTROL 一括送信シート]で入手できます。 |
+| [!UICONTROL 広告インサイト] | 新しい[!UICONTROL 広告インサイト]が2つあります。<ul><li>[!UICONTROL 遅延売上高]:ポートフォリオのコンバージョンの遅延（SEMクリックから後続のコンバージョンまでの経過時間）を測定し、遅延による重み付け売上高、ROI、モデル精度の違いを示します。</li><li>[!UICONTROL クエリのクロスマッチ]:Googleが複数のクエリに一致した検索キーワードのインスタンスを検索し、トラフィックを誘導する場所の提案を示します。</li></ul> |
 
-### Ad Cloud チュートリアルとコース
+### Advertising Cloud チュートリアルとコース
 
-更新日：**2020 年 12 月 2 日（PT）**
+更新日：**2021 年 2 月 23 日（PT）**
+
+| チュートリアル | 説明 |
+| -----------| ---------- |
+| [Workspace とレポートの概要](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html?lang=ja) | Adobe Analytics Analysis Workspace で、Advertising Cloud のデータを使用して視覚的なレポートを作成する方法を説明します。 |
 
 ## ![アイコン](/assets/magento.png) [!DNL Magento] {#magento}
 
