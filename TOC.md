@@ -9,12 +9,12 @@ translation-type: tm+mt
 source-git-commit: b742d2cf0f14d2b25ed540245c0f1f571fd2319b
 workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
 
-# Adobe Experience Cloudの新機能{#experience-cloud}
+# Adobe Experience Cloud の新機能 {#experience-cloud}
 
 + [最新のリリースノート](current.md)
 + 以前のリリースノート {#previous}
