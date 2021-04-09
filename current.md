@@ -6,10 +6,10 @@ last-update: March 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 6146981c558499f22dbdc56bc12e2ebce2d00439
+source-git-commit: 437662b982b90a8c48094846f2f07cc4f3ddd3b2
 workflow-type: tm+mt
-source-wordcount: '7872'
-ht-degree: 88%
+source-wordcount: '7946'
+ht-degree: 87%
 
 ---
 
@@ -181,6 +181,7 @@ AN-206099、AN-237460、AN-241803、AN-243735、AN-244081、AN-244615、AN-24468
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
+| [!UICONTROL Report Builder]へのサインインの更新 | 2021 年 4 月 9 日（PT） | 2021年1月14日開始：[!UICONTROL Report Builder]のログインプロセスの改善により、従来のテクノロジーへの依存性が取り除かれ、ログインプロセスがAdobe Experience Cloudと連携します。 Experience CloudはEnterprise ID（電子メールとパスワード）を使用します。 <br> [!UICONTROL Report Builderへの中断のないアクセスを確保するには]、2021年7月22日までに [!UICONTROL Report ] Builderアドインをバージョン5.6.47以降に更新してください。Report Builderバージョン5.6.47以降では、Experience Cloudのサインインのみがサポートされ、シングルサインオンはサポートされません。 |
 | データフィードとData WarehouseのIPアドレスの変更 | 2021年4月7日 | 6月17日から、データフィードとData Warehouse配信システムはアドビのデータセンター内で再配置されるため、外部IPアドレスの変更がお客様に表示される可能性があります。  レポートおよびフィードが提供されるデータセンターのIP CIDRブロックが、管理対象の任意の宛先システムに関して、任意のファイアウォールに存在することを確認する必要があります。 [ファイアウォールの許可リストに配置するIPアドレス範囲の完全なリストを以下に示します](https://https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html#data-collection-and-ftp-ip-address-blocks)。 |
 | Analyticsメニューの変更に関するお知らせ | 2021 年 3 月 24 日（PT） | 2021年4月22日に、パフォーマンスを上げるために、**[!UICONTROL コンポーネント]**、**[!UICONTROL ツール]**、**[!UICONTROL 管理者]**&#x200B;のドロップダウンメニューを更新します。 これらのページはすべて、**[!UICONTROL すべてのコンポーネント]**、**[!UICONTROL すべてのツール]**、**[!UICONTROL すべての管理者]**&#x200B;のリンクから引き続き利用できます。ドロップダウンメニューから削除されます。 ドロップダウンメニューから削除され、それぞれのリンクページに配置されるメニュー項目を示します。<br><br> [!UICONTROL コンポーネント]<ul><li>[!UICONTROL ブックマーク]</li><li>[!UICONTROL ダッシュボード]</li><li>[!UICONTROL ターゲット]</li><li>[!UICONTROL カレンダーイベント]</li><li>[!UICONTROL 予定レポート]</li><li>[!UICONTROL レポート設定]</li></ul>[!UICONTROL ツール]<ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search&amp;Promote]</li></ul>[!UICONTROL Admin]<ul><li>[!UICONTROL ユーザー管理]</li><li>[!UICONTROL 分類インポーター]</li><li>[!UICONTROL 分類ルールビルダー]</li><li>[!UICONTROL データソース]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL カンパニー設定]</li><li>[!UICONTROL ログ]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL コードマネージャー]</li><li>[!UICONTROL IPアドレスごとに除外]</li><li>[!UICONTROL トラフィック管理]</li></ul> |
 | [!UICONTROL Same-as-SiteCatalyst VISTA 処理] = オン | 2021 年 3 月 17 日（PT） | 2021 年 6 月 17 日（PT）にすべてのレポートスイートがアップデートされ、[!UICONTROL Same-as-SiteCatalyst VISTA 処理]がオンに設定されます。この変更により、処理ルールに一致するようにデータが処理されるため、[!UICONTROL Data Warehouse] のレポートに影響します。ご質問や不明な点がある場合は、アドビカスタマーケアにお問い合わせください。 |
