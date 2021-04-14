@@ -9,7 +9,7 @@ translation-type: tm+mt
 source-git-commit: 0739cde779fe6271e48cdba662eeadadf186944a
 workflow-type: tm+mt
 source-wordcount: '7942'
-ht-degree: 87%
+ht-degree: 98%
 
 ---
 
@@ -23,15 +23,15 @@ Experience Cloud のソリューションとサービスは毎月更新されま
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページは 1 か月保持され、リリース日より前に変更される可能性のあるコンテンツが含まれている場合があります。Adobe エンタープライズ製品と Experience League のドキュメントのアップデートを定期的に確認してください。
 
-最新の更新：**2021年4月6日**
+最終更新日：**2021 年 4 月 6 日**
 
-* [Digital Experience Blueprints](#blueprints) （新しい導入ドキュメント）
+* [デジタルエクスペリエンスブループリント](#blueprints) （新しい実装ドキュメント）
 * [Adobe システムステータス](#status)
 * [Experience Cloud の UI コンポーネント、サービス、管理](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [Analytics](#analytics) **（2021年4月6日更新）** および [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) **（更新日：2021 年 4 月 6 日）** and [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -44,22 +44,22 @@ Experience Cloud のソリューションとサービスは毎月更新されま
 
 サポートが必要な場合は、[Adobe Experience League](https://experienceleague.adobe.com/?lang=ja#home) にアクセスし、製品および技術ドキュメント、アドビが運営するコース、ビデオチュートリアル、すばやい回答、コミュニティインサイト、講師によるトレーニングをお探しください。
 
-## ![IconDigital Experience Blueprints](/assets/adobe.png)   {#blueprints}
+## ![アイコン](/assets/adobe.png)デジタルエクスペリエンスブループリント {#blueprints}
 
-Digital Experience Blueprintsは、戦略に対処し、確立されたビジネス上の問題を解決するための繰り返し可能な実装です。 Blueprintsは、価値ある期間を短縮し、成功への迅速なパスを提供します。
+デジタルエクスペリエンスブループリントは、戦略に取り組み、確立されたビジネス上の問題を解決するための反復可能な実装です。 ブループリントは、価値実現までの時間を短縮し、成功への迅速な道のりを提供します。
 
 | 公開日 | 説明 |
 | -----------| ---------- |
-| [デジタルエクスペリエンスのブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html) | [!UICONTROL デジタル設計図]の概要。 各Blueprintオファーには、高価値のビジネス上の問題、アーキテクチャ、導入手順、技術上の考慮事項、および関連ドキュメントへのリンクについて説明する一連のアーティファクトが記載されています。 |
-| [Audience Activationブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/audience-activation/overview.html) | このオーディエンス優先のアクティベーションにより、ブランドは複数のチャネル間で顧客との対話を結び付け、一元化されたオーディエンスを提供し、すべてのチャネルに対してアクティブ化できます。 |
-| [お客様のアクティビティハブのブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture//customer-activity-hub/overview.html) | 外部アプリケーションがAdobe Experience Platformの[!UICONTROL リアルタイム顧客プロファイル]にアクセスする方法を説明します。 |
-| [Customer Journey Analyticsブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html) | ブランドが様々なインタラクションチャネルやソースから顧客データや行動を統一し、すべての顧客インタラクションに関するジャーニーベースの表示を作成する方法を説明します。 |
-| [プロファイルエンリッチメント設計図のカスタムデータサイエンス](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-science/overview.html) | [!UICONTROL Data Science Workspace]がAdobe Experience Platformのデータをどのように使用して、機械学習の洞察を提供するためのモデルのトレーニング、導入、スコアリングを行うかを説明します。 |
-| [データの準備と取り込みのBlueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-ingestion/overview.html) | ソースデータを[!UICONTROL エクスペリエンスデータモデル](XDM)スキーマにマップする方法を説明します。 この設計図には、日付の形式設定、フィールドの分割、連結、変換などのデータ変換や、レコードの結合、結合、再生も含まれます。 |
-| [企業データ調査およびレポートのブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-exploration/overview.html) | Experience Platformの[!UICONTROL クエリサービス]では、SQLクエリをデータに対して実行できます。 [!UICONTROL Data Science Workspace]を使用して、データ調査、データ科学、および機械学習のワークロードをデータに対して実行する方法を説明します。 |
-| [複数チャネルメッセージオーケストレーションのブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/multi-channel-message-orchestration/overview.html) | ブランドがEメール、SMS、モバイルアラートなどのチャネルを通じて、顧客と積極的に関わり合い、顧客とコミュニケーションを取る方法を学びます。 |
-| [サーバー側エンタープライズデータ収集ブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/server-side-enterprise-data-collection/overview.html) | Adobe Experience PlatformWebおよびモバイルSDKで収集されたデータを、Experience Platform[!UICONTROL Edge Network]から目的の宛先に転送する方法を説明します。 |
-| [WebおよびモバイルパーソナライゼーションのBlueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/web-personalization/overview.html) | 複数のアプリケーションでオーディエンスのセグメント化を使用して、顧客体験をパーソナライズし、最適化する方法を説明します。 顧客の行動、人口統計、忠誠度レベルおよび前のトランザクションを使用して、レイアウト、誘い文句（CTA：コールトゥアクション）、コンテンツをパーソナライズできます。 |
+| [デジタルエクスペリエンスのブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=ja) | [!UICONTROL デジタルブループリント]の概要。 各ブループリントは 、価値の高いビジネス上の問題、アーキテクチャ、実装手順、技術的な考慮事項、および関連ドキュメントへのリンクを説明する一連の成果物を提供します。 |
+| [Audience Activation ブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/audience-activation/overview.html?lang=ja) | このオーディエンス優先のアクティベーションにより、ブランドは複数のチャネルをまたいで顧客とのインタラクションを結び付け、すべてのチャネルで活用できる、一元化されたオーディエンスを提供できます。 |
+| [顧客のアクティビティハブブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-activity-hub/overview.html?lang=ja) | 外部アプリケーションが Adobe Experience Platform の[!UICONTROL リアルタイム顧客プロファイル]にアクセスする方法を説明します。 |
+| [Customer Journey Analytics ブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html?lang=ja) | ブランドが様々なインタラクションチャネルやソースの顧客データと行動を統合して、すべての顧客インタラクションに関するジャーニーベースのビューを作成する方法を説明します。 |
+| [プロファイルエンリッチメント向けカスタムデータサイエンスのブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-science/overview.html?lang=ja) | [!UICONTROL Data Science Workspace] で Adobe Experience Platform のデータを使用してモデルをトレーニング、デプロイ、スコアリングし、機械学習のインサイトを提供するしくみについて説明します。 |
+| [データの準備と取り込みのブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-ingestion/overview.html?lang=ja) | ソースデータを[!UICONTROL エクスペリエンスデータモデル] (XDM) スキーマにマッピングする方法を説明します。 このブループリントには、日付の書式設定、フィールドの分割、連結、変換およびレコードの連結、結合、キーの再入力など、データの変換もおこないます。 |
+| [企業データの調査およびレポートのブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-exploration/overview.html?lang=ja) | Experience Platform の[!UICONTROL クエリサービス]では、データに対して SQL クエリを実行できます。 [!UICONTROL Data Science Workspace] を使用して、データ探索、データサイエンス、および機械学習のワークロードをデータに対して実行する方法について説明します。 |
+| [マルチチャネルメッセージオーケストレーションのブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/multi-channel-message-orchestration/overview.html?lang=ja) | ブランドが電子メール、SMS、モバイルアラートなどのチャネルを通じて、顧客と積極的に関わり、コミュニケーションを取る方法について説明します。 |
+| [サーバーサイドでの大規模法人データ収集のブループリント](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/server-side-enterprise-data-collection/overview.html?lang=ja) | Adobe Experience Platform Web およびモバイル SDK で収集されたデータを、Experience Platform [!UICONTROL Edge Network] から目的の宛先に転送する方法を説明します。 |
+| [Web およびモバイルでのパーソナライズ機能のブループリントt](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/web-personalization/overview.html?lang=ja) | 複数のアプリケーションでオーディエンスのセグメント化を使用して、カスタマーエクスペリエンスをパーソナライズし、最適化する方法を説明します。 顧客の行動、人口統計、忠誠度レベルおよび前のトランザクションを使用して、レイアウト、コールトゥアクション、コンテンツをパーソナライズできます。 |
 
 ## ![アイコン](/assets/adobe.png) Adobe システムステータス {#status}
 
@@ -71,7 +71,7 @@ Digital Experience Blueprintsは、戦略に対処し、確立されたビジネ
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| 統合検索 | 現在はExperience Platformに使用できる統合検索で、Experience Platformユーザー向けのソースと宛先の検索がサポートされるようになりました。 この機能を使用すると、セグメント、データセット、スキーマ、ソースおよび宛先を検索できます。 |
+| 統合検索 | 現在 Experience Platform で利用可能な統合検索は、Experience Platform ユーザーのソースと宛先での検索をサポートするようになりました。 この機能を使用すると、セグメント、データセット、スキーマ、ソースおよび宛先を検索できます。 |
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
@@ -87,7 +87,7 @@ Experience Platform およびサービス用に公開された新しいビデオ
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2021 年 3 月 | [監視ダッシュボード](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/monitoring-dashboard.html?lang=ja) | ビデオ | 監視ダッシュボードを使用して、Adobe Experience Platform に取り込まれたデータを監視および追跡する方法について説明します。この監視ダッシュボードでは、プロファイルおよび ID サービスに対するデータレイクを介したソースデータ処理の状況を、ソース、データフロー、データフロー実行の各レベルでトップダウン表示し、適切なタイミングでアクションにつながるアドバイザリも表示します。 |
-| 2021 年 3 月 | [ソースコネクタを使用したストリームデータ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-source-connector.html?lang=ja) | ビデオ | このビデオでは、クラウドストレージソースから Platform にデータをリアルタイムでストリーミングし、そのデータをリアルタイムで顧客エンゲージメントに使用する方法を示します。 |
+| 2021 年 3 月 | [ソースコネクタを使用したデータのストリーミング](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-source-connector.html?lang=ja) | ビデオ | このビデオでは、クラウドストレージソースから Platform にデータをリアルタイムでストリーミングし、そのデータをリアルタイムで顧客エンゲージメントに使用する方法を示します。 |
 | 2021 年 3 月 5 日（PT） | [データエンジニア向けのデータ取得](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion?lang=ja) | コース | 複数のソースからデータを Adobe Experience Platform に取り込む方法など。 |
 | 2021 年 3 月 | [Azure Blob 宛先の設定](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html?lang=ja#destinations) | ビデオ | [!UICONTROL Real-time Customer Data Platform]（リアルタイム CDP）で Azure Blob ストレージの宛先をセットアップおよび設定するために必要な手順について説明します。 |
 | 2021 年 3 月 5 日（PT） | [マーケター向け Offer Decisioning の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning?lang=ja) | コース | Adobe Experience Platform 上に構築された [!UICONTROL Offer Decisioning] アプリケーションサービスについて説明します。 このコースは、顧客に最高のオファーを提供することで、売上高、顧客体験、ロイヤルティを向上させたいマーケターを対象としています。 |
@@ -140,18 +140,18 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 * [Adobe Analytics の新機能](#aa-features)
 * [Customer Journey Analytics の新機能](#cust-journey)
 * [Adobe Analytics の修正点](#aa-fixes)
-* [Analytics 管理者向けの重要な注意事項](#aa-notices)  **（更新日2021年4月6日）**
+* [Analytics 管理者向けの重要な注意事項](#aa-notices) **（更新日：2021 年 4 月 6 日）**
 * [AppMeasurement](#appm)
 
 ### Adobe Analytics の新機能 {#aa-features}
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ------- |
-| データ 修復 API のアップデート | 2021 年 3 月 25 日（PT） | データ修復APIで、[!UICONTROL ページ]と[!UICONTROL IPアドレス]、モバイル変数およびビデオ変数、カスタム[!UICONTROL props]と[!UICONTROL eVars]などの標準変数がサポートされるようになりました。  変数内の値を削除したり、新しい値を設定したりできます。 この API は、URL、クエリ文字列、アットマークなどのフィルタリングも提供するようになりました。 |
+| データ 修復 API のアップデート | 2021 年 3 月 25 日（PT） | データ修復 API では、[!UICONTROL ページ] と [!UICONTROL IP アドレス]、モバイル変数とビデオ変数、カスタム [!UICONTROL props] および [!UICONTROL eVars] などの標準変数をサポートするようになりました。  変数内の値を削除したり、新しい値を設定したりできます。 この API は、URL、クエリ文字列、アットマークなどのフィルタリングも提供するようになりました。 |
 | Analysis Workspace：[!UICONTROL コンポーネント]／[!UICONTROL ユーザー環境設定] | 2021 年 3 月 25 日（PT） | [!UICONTROL コンポーネント]／[!UICONTROL ユーザー環境設定]ページでは、[!UICONTROL Analysis Workspace] 設定（およびユーザー向けの関連するコンポーネント）を管理できます。[!UICONTROL ユーザー環境設定]は、すべての新しいプロジェクトおよびパネルに適用されます。<br>**注意：** 次の設定は、[!UICONTROL ユーザー環境設定]ページに移動しました。<ul><li>レポート設定：3 桁ごとの区切り記号（現在は&#x200B;_数値形式_&#x200B;と呼ばれる）</li><li>レポート設定：CSV 区切り記号</li><li>Workspace プロジェクト：ヘルプ／ヒントを有効にする</li><li>Workspace プロジェクト：空のパネル「_このパネルを使用して新しいプロジェクトを開始_」オプション</li></ul> |
 | Analysis Workspace：[!UICONTROL ヒストグラムスマートバケット予測] | 2021 年 3 月 25 日（PT） | [!UICONTROL ヒストグラムスマートバケット予測]は、データ分散に使用するバケットの正しい幅と数を自動的に識別することで、カーディナリティ指標の高いヒストグラムの処理に役立ちます。低カーディナリティ指標の場合、ビジュアライゼーションは以前と同じように動作します。 |
 | [!UICONTROL 使用状況ログ] API | 2021 年 3 月 25 日（PT） | これは、新しい v2.0 Analytics API であり、**[!UICONTROL 管理者]**／**[!UICONTROL ログ]**／**[!UICONTROL 使用状況およびアクセスログ]**&#x200B;で利用できるのと同じ使用状況ログデータにプログラムでアクセスできるようにします。 認証、スキーマ、サンプル応答について詳しくは、[こちら](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/usage-logs.md)を参照してください。 |
-| Analytics ダッシュボードでのカスタム日付範囲のサポート | 2021 年 4 月 23 日 | スコアカード作成者は、カスタム日付範囲を作成して、モバイルスコアカードプロジェクトに適用できます。作成者は、使い慣れたワークスペースやモバイルの日付範囲プリセットから選択したり、カスタム日付範囲を作成したりできます。[詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html#mobapp). |
+| Analytics ダッシュボードでのカスタム日付範囲のサポート | 2021 年 4 月 23 日 | スコアカード作成者は、カスタム日付範囲を作成して、モバイルスコアカードプロジェクトに適用できます。作成者は、使い慣れたワークスペースやモバイルの日付範囲プリセットから選択したり、カスタム日付範囲を作成したりできます。[詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html?lang=ja#mobapp). |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
@@ -160,7 +160,7 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 | [!UICONTROL Adobe Analytics ダッシュボード]のサポート | 2021 年 3 月 25 日（PT） | [!UICONTROL Customer Journey Analytics]（CJA）で、 [!UICONTROL Adobe Analytics ダッシュボードスコアカードビルダー]とモバイルアプリがサポートされるようになりました。これにより、エグゼクティブやビジネスユーザーは、Adobe Analytics で既に使用しているのと同じアプリを利用して、CJA データに基づくチャネル間の KPI を確認できます。 |
 | Analysis Workspace：**[!UICONTROL コンポーネント]**／**[!UICONTROL ユーザー環境設定]** | 2021 年 3 月 25 日（PT） | [!UICONTROL コンポーネント]／[!UICONTROL ユーザー環境設定]ページでは、[!UICONTROL Analysis Workspace] 設定（およびユーザー向けの関連するコンポーネント）を管理できます。[!UICONTROL ユーザー環境設定]は、すべての新しいプロジェクトおよびパネルに適用されます。<br>**注意：** 次の設定は [!UICONTROL ユーザー環境設定]ページに移動しました。<ul><li>Workspace プロジェクト：ヘルプ／ヒントを有効にする</li><li>Workspace プロジェクト：空のパネル「_このパネルを使用して新しいプロジェクトを開始_」オプション</li></ul> |
 | Analysis Workspace：[!UICONTROL ヒストグラムスマートバケット予測] | 2021 年 3 月 25 日（PT） | [!UICONTROL ヒストグラムスマートバケット予測]は、データ分散に使用するバケットの正しい幅と数を自動的に識別することで、カーディナリティ指標の高いヒストグラムの処理に役立ちます。低カーディナリティ指標の場合、ビジュアライゼーションは以前と同じように動作します。 |
-| Analytics ダッシュボードでの Customer Journey Analytics のサポート | 2021 年 3 月 25 日（PT） | Analytics ダッシュボードアプリで Customer Journey Analytics がサポートされるようになりました。 Customer Journey Analytics のユーザーは、Analytics ダッシュボードアプリで Adobe Experience Platform に取り込まれた任意のデータから KPI を導き出すことができます。Customer Journey Analytics を使用すると、複数のデータソースを組み合わせて、顧客体験の真のマルチチャネル表示を実現できます。 Analytics ダッシュボードアプリを使用すると、いつでもどこでもビジネスの最新の全体像を把握できます。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/curator.html?lang=en#cja-dashboards). |
+| Analytics ダッシュボードでの Customer Journey Analytics のサポート | 2021 年 3 月 25 日（PT） | Analytics ダッシュボードアプリで Customer Journey Analytics がサポートされるようになりました。 Customer Journey Analytics のユーザーは、Analytics ダッシュボードアプリで Adobe Experience Platform に取り込まれた任意のデータから KPI を導き出すことができます。Customer Journey Analytics を使用すると、複数のデータソースを組み合わせて、顧客体験の真のマルチチャネル表示を実現できます。 Analytics ダッシュボードアプリを使用すると、いつでもどこでもビジネスの最新の全体像を把握できます。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/curator.html?lang=ja#cja-dashboards). |
 
 ### Adobe Analytics の修正点 {#aa-fixes}
 
@@ -183,8 +183,8 @@ AN-206099、AN-237460、AN-241803、AN-243735、AN-244081、AN-244615、AN-24468
 | ----------- | ---------- | ---------- |
 | [!UICONTROL フル処理] [!UICONTROL データソース]のサポート終了 | 2021年4月12日 | Adobeは、2021年7月31日に[!UICONTROL フル処理] [!UICONTROL データソース]を廃止する予定です。 2021 年 3 月 25 日（PT）現在、このタイプの新規インポートは作成できなくなっています。 このタイプのデータをインポートするには、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を使用してください。[詳細情報](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=ja) |
 | [!UICONTROL Report Builder]へのサインインの更新 | 2021 年 4 月 9 日（PT） | 2021年1月14日に、[!UICONTROL Report Builder]のログインが更新され、既存のテクノロジーに対する依存関係が削除され、ログインプロセスとExperience Cloudが一致するようになりました。 Experience CloudはEnterprise ID（電子メールとパスワード）を使用します。 [!UICONTROL Report Builder]へのアクセスを中断することなく確実に行うため、2021年7月22日までに[!UICONTROL Report Builder]アドインをバージョン5.6.47以降に更新してください。 Report Builderバージョン5.6.47以降では、Experience Cloudのサインインのみがサポートされ、シングルサインオンはサポートされません。 |
-| データフィードとData WarehouseのIPアドレスの変更 | 2021年4月7日 | 6月17日から、データフィードとData Warehouse配信システムはアドビのデータセンター内で再配置されるため、外部IPアドレスの変更がお客様に表示される可能性があります。  レポートおよびフィードが提供されるデータセンターのIP CIDRブロックが、管理対象の任意の宛先システムに関して、任意のファイアウォールに存在することを確認する必要があります。 [ファイアウォールの許可リストに配置するIPアドレス範囲の完全なリストを以下に示します](https://https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html#data-collection-and-ftp-ip-address-blocks)。 |
-| Analyticsメニューの変更に関するお知らせ | 2021 年 3 月 24 日（PT） | 2021年4月22日に、パフォーマンスを上げるために、**[!UICONTROL コンポーネント]**、**[!UICONTROL ツール]**、**[!UICONTROL 管理者]**&#x200B;のドロップダウンメニューを更新します。 これらのページはすべて、**[!UICONTROL すべてのコンポーネント]**、**[!UICONTROL すべてのツール]**、**[!UICONTROL すべての管理者]**&#x200B;のリンクから引き続き利用できます。ドロップダウンメニューから削除されます。 ドロップダウンメニューから削除され、それぞれのリンクページに配置されるメニュー項目を示します。<br><br> [!UICONTROL コンポーネント]<ul><li>[!UICONTROL ブックマーク]</li><li>[!UICONTROL ダッシュボード]</li><li>[!UICONTROL ターゲット]</li><li>[!UICONTROL カレンダーイベント]</li><li>[!UICONTROL 予定レポート]</li><li>[!UICONTROL レポート設定]</li></ul>[!UICONTROL ツール]<ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search&amp;Promote]</li></ul>[!UICONTROL Admin]<ul><li>[!UICONTROL ユーザー管理]</li><li>[!UICONTROL 分類インポーター]</li><li>[!UICONTROL 分類ルールビルダー]</li><li>[!UICONTROL データソース]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL カンパニー設定]</li><li>[!UICONTROL ログ]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL コードマネージャー]</li><li>[!UICONTROL IPアドレスごとに除外]</li><li>[!UICONTROL トラフィック管理]</li></ul> |
+| データフィードと Data Warehouse の IP アドレスの変更 | 2021 年 4 月 6 日（PT） | 6 月 17 日以降、アドビのデータセンター内でデータフィードと Data Warehouse 配信システムの再配置がおこなわれるため、お客様に表示される外部 IP アドレスが変更される可能性があります。レポートおよびフィードが提供されるデータセンターのすべての IP CIDR ブロックが、制御する宛先システムのファイアウォール内に存在することを確認する必要があります。 [ファイアウォールの許可リストに配置する IP アドレス範囲の完全なリストを以下に示します](https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html?lang=ja#data-collection-and-ftp-ip-address-blocks)。 |
+| 今後の Analytics メニューの変更に関するお知らせ | 2021 年 3 月 24 日（PT） | 2021 年 4 月 22 日に、パフォーマンスを向上させるために、**[!UICONTROL コンポーネント]**、**[!UICONTROL ツール]**、**[!UICONTROL 管理]**&#x200B;のドロップダウンメニューを更新します。 これらのページはすべて、**[!UICONTROL すべてのコンポーネント]**、**[!UICONTROL すべてのツール]**、**[!UICONTROL すべての管理]**&#x200B;のリンクから引き続き利用できます。ドロップダウンメニューから削除されるだけです。 ドロップダウンメニューから削除され、それぞれのリンクページに配置されるメニュー項目は次のとおりです。<br><br> [!UICONTROL コンポーネント]<ul><li>[!UICONTROL ブックマーク]</li><li>[!UICONTROL ダッシュボード]</li><li>[!UICONTROL ターゲット]</li><li>[!UICONTROL カレンダーイベント]</li><li>[!UICONTROL スケジュールされているレポート]</li><li>[!UICONTROL レポート設定]</li></ul>[!UICONTROL ツール]<ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search&amp;Promote]</li></ul>[!UICONTROL Admin]<ul><li>[!UICONTROL ユーザー管理]</li><li>[!UICONTROL 分類インポーター]</li><li>[!UICONTROL 分類ルールビルダー]</li><li>[!UICONTROL データソース]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL カンパニー設定]</li><li>[!UICONTROL ログ]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL コードマネージャー]</li><li>[!UICONTROL IP で除外]</li><li>[!UICONTROL トラフィック管理]</li></ul> |
 | [!UICONTROL Same-as-SiteCatalyst VISTA 処理] = オン | 2021 年 3 月 17 日（PT） | 2021 年 6 月 17 日（PT）にすべてのレポートスイートがアップデートされ、[!UICONTROL Same-as-SiteCatalyst VISTA 処理]がオンに設定されます。この変更により、処理ルールに一致するようにデータが処理されるため、[!UICONTROL Data Warehouse] のレポートに影響します。ご質問や不明な点がある場合は、アドビカスタマーケアにお問い合わせください。 |
 | Reports &amp; Analytics のランディングページオプション | 2021 年 2 月 19 日（PT） | 2021 年 3 月 25 日（PT）に、新しい Reports &amp; Analytics ダッシュボードまたはその他のコンテンツを Adobe Analytics ランディングページとして設定するオプションが削除されます。 以前に Reports &amp; Analytics ページをカスタムランディングページとして設定していた場合、[!UICONTROL ユーザーの環境設定]でランディングページが変更されるまで、このページは引き続き機能します。  |
 | Ad Hoc Analysis のサポート終了 | 2021 年 1 月 | [!UICONTROL Ad Hoc Analysis] は、2021 年 3 月 1 日（PT）にサポート終了日に達します。詳しくは、[Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) を参照してください。 |
@@ -278,7 +278,7 @@ AEM 6.4、Service Pack 8、Cumulative Fix Pack 4（6.4.8.4 は 2021 年 2 月 25
 
       * 製品エクスペリエンス管理：エクスペリエンスフラグメントを使用して、製品カタログページを個別に拡充します。
       * 製品コンソールプロパティを拡張して、関連するコンテンツにすばやく移動するためのアクションなど、アセットやエクスペリエンスフラグメントのリンクを表示するようになりました。
-      * 最新の CIF コアコンポーネントバージョン 1.8.0 を含んだ CIF Venia 参照サイト -  2021.02.24 をリリースしました。詳しくは、「 [CIF Venia 参照サイト 2021.02.24](https://github.com/adobe/aem-cif-guides-venia/releases/tag/venia-2021.02.24)」を参照してください。
+      * 最新の CIF コアコンポーネントバージョン 1.8.0 を含んだ CIF Venia 参照サイト - 2021.02.24 をリリースしました。詳しくは、「 [CIF Venia 参照サイト 2021.02.24](https://github.com/adobe/aem-cif-guides-venia/releases/tag/venia-2021.02.24)」を参照してください。
       * CIF コアコンポーネントバージョン 1.8.0 をリリースしました。詳しくは、「[CIF コアコンポーネント 1.8.0](https://github.com/adobe/aem-core-cif-components/releases/tag/core-cif-components-reactor-1.8.0)」を参照してください。
    * **Cloud Manager**
 
@@ -387,8 +387,8 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 | -----------| ---------- | ---------- | ---------- |
 | 2021 年 2 月 23 日（PT） | [配信品質 - 配信品質の指標](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/metrics-for-deliverability/metrics-overview.html?lang=ja) | Campaign Classic／Standard | 監視する主要な配信品質指標と、その指標を使用して評判に関する問題を特定する方法について説明します。 |
 | 2021 年 2 月 23 日（PT） | [配信品質 - バウンス](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/metrics-for-deliverability/bounces.html?lang=ja) | Campaign Classic／Standard | バウンスの様々なタイプについて説明します。 |
-| 2021 年 2 月 23 日（PT） | [配信品質  苦情](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/metrics-for-deliverability/complaints.html?lang=ja) | Campaign Classic／Standard | ユーザーが、不要または予期しない E メールであることを指摘した場合に登録される、苦情について説明します。 |
-| 2021 年 2 月 23 日（PT） | [配信品質  スパムトラップ](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/metrics-for-deliverability/spam-traps.html?lang=ja) | Campaign Classic／Standard | バウンスの様々なタイプについて説明します。 |
+| 2021 年 2 月 23 日（PT） | [配信品質 - 苦情](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/metrics-for-deliverability/complaints.html?lang=ja) | Campaign Classic／Standard | ユーザーが、不要または予期しない E メールであることを指摘した場合に登録される、苦情について説明します。 |
+| 2021 年 2 月 23 日（PT） | [配信品質 - スパムトラップ](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/metrics-for-deliverability/spam-traps.html?lang=ja) | Campaign Classic／Standard | バウンスの様々なタイプについて説明します。 |
 | 2021 年 2 月 23 日（PT） | [配信品質 - バルク指定とブロック](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/metrics-for-deliverability/bulking-and-blocking.html?lang=ja) | Campaign Classic／Standard | ISP が E メールメッセージをバルクフォルダーに入れたりブロックしたりする理由について説明します。 |
 | 2021 年 2 月 23 日（PT） | [配信品質 - 移行プロセス - インフラストラクチャ](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/transition-process/infrastructure.html?lang=ja) | Campaign Classic／Standard | 電子メールインフラストラクチャの適切な構築に必要な要件について説明します。 |
 | 2021 年 2 月 23 日（PT） | [配信品質 - エンゲージメント](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/engagement.html?lang=ja) | Campaign Classic／Standard | エンゲージメントの様々なタイプと、配信品質の点でエンゲージメントが重要である理由について説明します。 |
@@ -431,13 +431,13 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### [!DNL Advertising Cloud Search] の新機能 {#adcloud-search}
 
-最終更新日：**2022年3月29日、3月27日リリース**
+最終更新日：**2022 年 3 月 29 日、3 月 27 日リリース**
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| [!UICONTROL キャンペーンの検索]<br> レポート | (Microsoft広告キャンペーン)Microsoftの広告キャンペーンのデフォルトの入札戦略である、Microsoftの強化されたコストパークリック(eCPC)入札戦略で、入札サポートが利用できるようになりました。 お使いのキャンペーンに対して、キャンペーンレベルの[!UICONTROL 入札戦略]を指定できるようになりました。 [!UICONTROL 手動CPC]と[!UICONTROL 拡張CPC]が含まれます。 [!UICONTROL 拡張CPC]は、検索、既存の動的検索広告、およびショッピングキャンペーンで使用できます。<br>eCPCを持つキャンペーンを最適化されたAdvertising Cloudポートフォリオに追加すると、Advertising Cloudは基本入札を最適化し、「キャンペーン予算の上限を自動調整」オプションが有効な場合はキャンペーン予算を最適化します。Microsoftはすべての入札調整を適用し、ユーザークエリ時に、Advertising Cloudが生成した入札を独自のデータとインサイトに基づいて変更する場合があります。<br>「 [!UICONTROL 入札] 戦略カスタム」列は、  キャンペーンビューとレポートで使用できます。 |
-| [!UICONTROL キャンペーンの検索]<br> [!UICONTROL 隔壁シート] | (Microsoft広告キャンペーン)拡張テキスト広告に対して、3つ目のヘッドライン（[!UICONTROL 広告タイトル3]）と2つ目の説明（[!UICONTROL 説明2]）をオプションでサポートするようになりました。 サポートは[!UICONTROL 広告]表示と[!UICONTROL 一括送信シート]で入手できます。 |
-| [!UICONTROL 広告インサイト] | 新しい[!UICONTROL 広告インサイト]が2つあります。<ul><li>[!UICONTROL 遅延売上高]:ポートフォリオのコンバージョンの遅延（SEMクリックから後続のコンバージョンまでの経過時間）を測定し、遅延による重み付け売上高、ROI、モデル精度の違いを示します。</li><li>[!UICONTROL クエリのクロスマッチ]:Googleが複数のクエリに一致した検索キーワードのインスタンスを検索し、トラフィックを誘導する場所の提案を示します。</li></ul> |
+| [!UICONTROL キャンペーンの検索]<br> レポート | （Microsoft Ads キャンペーン）Microsoft Advertising キャンペーンのデフォルトの入札戦略である、Microsoft 拡張クリック単価 (eCPC) 入札戦略で、入札サポートが利用できるようになりました。 お使いのキャンペーンに対して、キャンペーンレベルの[!UICONTROL 入札戦略]を指定できるようになりました。 オプションには、[!UICONTROL 手動 CPC] と[!UICONTROL 拡張 CPC] が含まれます。 [!UICONTROL 拡張 CPC] は、検索、既存の動的検索広告、およびショッピングキャンペーンで使用できます。<br>eCPC を使用したキャンペーンを最適化された Advertising Cloud ポートフォリオに追加すると、Advertising Cloud は基本入札単価を最適化し、「キャンペーン予算の上限を自動調整」オプションが有効な場合はキャンペーン予算を最適化します。 Microsoft はすべての入札調整を適用し、独自のデータとインサイトに基づいて、ユーザークエリ時に Advertising Cloud が生成した入札を変更する場合があります。<br>「 [!UICONTROL 入札戦略] 」カスタム列は、[!UICONTROL Campaigns] ビューとレポートで使用できます。 |
+| [!UICONTROL キャンペーンの検索]<br> [!UICONTROL Bulksheets] | （Microsoft Advertising キャンペーン）拡張テキスト広告に対して、オプションの 3 つ目のヘッドライン（[!UICONTROL 広告タイトル 3]）とオプションの 2 つ目の説明（[!UICONTROL 説明 2]）のサポートが利用できるようになりました。 サポートは [!UICONTROL Ads] ビューと [!UICONTROL Bulksheet] で入手できます。 |
+| [!UICONTROL 広告インサイト] | 新しい 2 つの[!UICONTROL 広告インサイト]を利用できます。<ul><li>[!UICONTROL 遅延売上高]：ポートフォリオのコンバージョンの遅延（SEM クリックから後続のコンバージョンまでの経過時間）を測定し、遅延による加重売上高、ROI、モデル精度の違いを示します。</li><li>[!UICONTROL クエリのクロスマッチ]：Google が複数のクエリに一致した検索キーワードのインスタンスを検索し、トラフィックを誘導する場所の提案を示します。</li></ul> |
 
 ### Advertising Cloud チュートリアルとコース
 
