@@ -5,15 +5,15 @@ doc-type: release notes
 last-update: April 2021
 author: mfrei
 translation-type: tm+mt
-source-git-commit: 21fdbc0a354a87723097e294db15d88e9877061c
+source-git-commit: 626651efb9a0ae76ac1b2681d178dcf6677e9d6b
 workflow-type: tm+mt
-source-wordcount: '5430'
-ht-degree: 41%
+source-wordcount: '5428'
+ht-degree: 42%
 
 ---
 
 
-# 内部レビュー —Adobe Experience Cloudリリースノート — 2021年4月
+# Adobe Experience Cloud リリースノート - 2021 年 4 月
 
 ![バナー](assets/experience-cloud-banner-3.png)
 
@@ -27,7 +27,7 @@ Experience Cloud のソリューションとサービスは毎月更新されま
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最終更新日：**2021 年 4 月 15 日**
+最終更新日：**2021 年 4 月 16 日**
 
 * [アドビシステムのステータス](#status)（未更新）
 * [Experience Cloud の UI コンポーネント、サービス、管理](#ecloud)
