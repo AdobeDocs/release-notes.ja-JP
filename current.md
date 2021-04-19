@@ -6,9 +6,9 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 75fc19a753d94ad35337ad43f98aaa0aff52bdc1
+source-git-commit: 7b542cb233b84542e0058ac2f4c39b0349e3fb73
 workflow-type: tm+mt
-source-wordcount: '5384'
+source-wordcount: '5381'
 ht-degree: 42%
 
 ---
@@ -402,7 +402,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 | -----------| ---------- | ---------- | ---------- |
 | 2021年4月 | [[Adobe Sign] SalesforceおよびMarketor用のAdobe Signを使用したリマインダーの送信 — 機能ビデオ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/marketo/marketo-salesforce-reminder-video.html) | ビデオ | このビデオチュートリアルでは、一定期間後に契約が未署名のままになった場合に、Marketorから電子メールリマインダーを送信する方法を学びます。 この統合では、Salesforce、Marketo、およびMarketoとSalesforceの同期にAdobe Signが使用されます。 |
 
-### 新しいDocument Cloudコースとチュートリアル
+### Document Cloudチュートリアル
 
 | 公開日 | 名前 | ソリューション | 説明 |
 | -----------| ---------- | ---------- | ---------- |
