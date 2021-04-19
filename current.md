@@ -4,14 +4,14 @@ description: Experience Cloud 製品および サービスに関する最新の�
 doc-type: release notes
 last-update: April 2021
 author: mfrei
+exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: a030b00ce834306ccf5da00e0c8757e3a2b4fa02
+source-git-commit: 75fc19a753d94ad35337ad43f98aaa0aff52bdc1
 workflow-type: tm+mt
-source-wordcount: '5426'
-ht-degree: 41%
+source-wordcount: '5384'
+ht-degree: 42%
 
 ---
-
 
 # Adobe Experience Cloud リリースノート - 2021 年 4 月
 
@@ -186,13 +186,12 @@ Audience Manager の修正点と改善点。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021年4月 | [コースの概要：Audience Managerユーザー向けのリアルタイムCDPの理解](https://video.tv.adobe.com/v/332230) | ビデオ | Audience Managerから[!UICONTROL リアルタイムのお客様データプラットフォーム]（リアルタイムCDP）に移行すると、ある領域でパラダイムが変化します。 このビデオでは、この移行に役立つコースを紹介します。 |
+| 2021年4月 | [Audience Manager・ユーザー向けのリアルタイムCDPの理解](https://experienceleague.adobe.com/?recommended=AudienceManager-U-1-2020.1.rtcdp) | コース | Audience Managerのお客様は、AdobeのReal-time Customer Data Platform(Real-time CDP)に移行することで、コンテンツ管理を再考しています。 このコースでは、概念別アプローチを採用し、Audience Managerユーザーがこれらの概念がReal-time CDPでどのように扱われるかを理解するのに役立ちます。 |
 | 2021年4月 | [Audience Manager・ユーザー向けのリアルタイムCDPでの宛先の理解](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.html?lang=en) | ビデオ | Audience Managerから[!UICONTROL リアルタイム・カスタマー・データ・プラットフォーム]（リアルタイムCDP）に移行する際は、ターゲットに関する情報を把握し、オーディエンス・セグメントをターゲット・パートナーにアクティブ化する方法を把握する必要があります。 このビデオでは、さまざまなターゲット・タイプと、それらがリアルタイムCDPである場所について説明します。 |
 | 2021年4月 | [Audience Manager ユーザー向けのリアルタイム CDP におけるデータガバナンスについて](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.html?lang=en#other-integrations) | ビデオ | このビデオでは、Audience Managerユーザーが[!UICONTROL Real-time Customer Data Platform]のデータ管理機能について、Audience Managerで利用できたものと比較しながら説明します。 [!UICONTROL Data Usage and Labeling Enforcement] (DULE)の枠組みと、それを適用できるプラットフォーム内の場所について説明します。 |
 | 2021年4月 | [ブランドと消費者の2つの認知度の物語 —イベント](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/industry/brands-vs-consumers.html?lang=en#industry) | 記事 | 今日、マーケターは、アイデンティティの慣行に関する情報が散乱している中に埋め込まれています。 Adobe・アドバンシス社の最近の調査によると、マーケティング専門家の37%しか、調理法のない将来に備えていると答えていません。 このウェビナーでは、cookie のない世界の将来像、ユースケースへの影響、より幅広いエコシステムに対する認識に対して広告主と発行者がどこまで理解および準備しているかを説明します。 |
 | 2021年4月 | [責任あるお客様のデータ管理に関する10の考慮事項 —イベント](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/industry/ten-considerations-for-responsible-customer-data-management.html?lang=en#industry) | 記事 | 市場の不安定な動きと個別の消費者プライバシー要件は、デジタルマーケターにとって負担の大きいシナリオを提示する可能性があります。 規制の右側にキャンペーンを置くために、マーケティングチームは、データ管理プロセスを将来的に防ぐために合理化されたプロセスを持つIT部門の担当者が必要です。 これには、消費者データの責任ある使用に関する規則を誰もが遵守し強制できるのが理想的です。 責任あるデータ管理に関する主な考慮事項について、Adobeと[!DNL Scotiabank] [!DNL Digital]からお問い合わせください。 |
 | 2021年4月 | [データ管理と変化する環境の未来 —イベント](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html?lang=en#industry) | 記事 | 市場の力がデジタルの状況に変化をもたらすにつれ、ビジネスはデータ管理、ID解決、見込み客や偽名の訪問者を意味のあるコンテンツでどのように関与させるかに関する新しい現実に適応する必要があります。 |
-| 2021年4月 | [Audience Manager・ユーザー向けのリアルタイムCDPの理解](https://experienceleague.adobe.com/?recommended=AudienceManager-U-1-2020.1.rtcdp) | コース | Audience Managerのお客様は、AdobeのReal-time Customer Data Platform(Real-time CDP)に移行することで、コンテンツ管理を再考しています。 このコースでは、概念別アプローチを採用し、Audience Managerユーザーがこれらの概念がReal-time CDPでどのように扱われるかを理解するのに役立ちます。 |
 
 ## ![アイコン](/assets/aem.png) Adobe Experience Manager {#aem}
 
