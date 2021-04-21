@@ -27,7 +27,7 @@ Experience Cloud のソリューションとサービスは毎月更新されま
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最終更新日：**2021 年 4 月 16 日**
+最終更新日：**2021 年 4 月 16 日（PT）**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud の UI コンポーネント、サービス、管理](#ecloud)
@@ -114,17 +114,17 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ------- |
-| 解析ダッシュボード:カスタム日付範囲 | 2021 年 4 月 23 日 | Analyticsモバイルアプリのユーザーは、現在すぐに使用できる日付範囲に加えて、スコアカードにカスタムの日付範囲を適用できます。 |
-| ワークスペース：以前のプロジェクトバージョン | 2021 年 5 月 13 日（PT） | Workspaceプロジェクトの以前のバージョンを読み込んで、不要な変更を取り消したり、単純に希望の以前のバージョンに戻したりできます。 |
+| 解析ダッシュボード:カスタム日付範囲 | 2021 年 4 月 22 日（PT） | Analyticsモバイルアプリのユーザーは、現在すぐに使用できる日付範囲に加えて、スコアカードにカスタムの日付範囲を適用できます。 |
+| ワークスペース：以前のプロジェクトバージョン | 2021年5月13日 | Workspaceプロジェクトの以前のバージョンを読み込んで、不要な変更を取り消したり、単純に希望の以前のバージョンに戻したりできます。 |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
 | 機能 | [一般公開](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
-| CJAデータ表示の強化 | 2021 年 4 月 23 日 | データの表示が強化され、XDMスキーマフィールドから指標やディメンションを作成する際の柔軟性が大幅に拡大します。 文字列フィールドを指標として使用できます。 ディメンションとして数値フィールドを使用したり、異なるアトリビューションモデルやルックバックウィンドウを持つ同じフィールドから複数の指標を作成したりできます。 また、指標とディメンションをデータ表示間で互換性を持たせたり、レポートからコンポーネントを非表示にしたり、値を含めたり、値を除外したり、グループを使用したりできます。 [詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html) |
+| CJAデータ表示の強化 | 2021 年 4 月 22 日（PT） | データの表示が強化され、XDMスキーマフィールドから指標やディメンションを作成する際の柔軟性が大幅に拡大します。 文字列フィールドを指標として使用できます。 ディメンションとして数値フィールドを使用したり、異なるアトリビューションモデルやルックバックウィンドウを持つ同じフィールドから複数の指標を作成したりできます。 また、指標とディメンションをデータ表示間で互換性を持たせたり、レポートからコンポーネントを非表示にしたり、値を含めたり、値を除外したり、グループを使用したりできます。 [詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html) |
 | ワークスペース：予定レポートのサポート | 2021 年 4 月 7 日（PT） | 予定レポートがCJAでサポートされるようになりました。 |
-| 解析ダッシュボード:カスタム日付範囲 | 2021 年 4 月 23 日 | Analyticsモバイルアプリのユーザーは、現在すぐに使用できる日付範囲に加えて、スコアカードにカスタムの日付範囲を適用できます。 |
-| ワークスペース：以前のプロジェクトバージョン | 2021 年 5 月 13 日（PT） | Workspaceプロジェクトの以前のバージョンを読み込んで、不要な変更を取り消したり、単純に希望の以前のバージョンに戻したりできます。 |
+| 解析ダッシュボード:カスタム日付範囲 | 2021 年 4 月 22 日（PT） | Analyticsモバイルアプリのユーザーは、現在すぐに使用できる日付範囲に加えて、スコアカードにカスタムの日付範囲を適用できます。 |
+| ワークスペース：以前のプロジェクトバージョン | 2021年5月13日 | Workspaceプロジェクトの以前のバージョンを読み込んで、不要な変更を取り消したり、単純に希望の以前のバージョンに戻したりできます。 |
 
 ### Adobe Analytics の修正点 {#aa-fixes}
 
@@ -143,9 +143,9 @@ AN-248451;AN-250461;AN-251157; AN-251481;AN-251756;AN-252604;AN-252822;AN-252941
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
 | フル処理データソースののサポート終了 | 2021 年 4 月 12 日（PT） | Adobeでは、2021年7月31日に、フル処理データソースの提供を停止する予定です。 2021 年 3 月 25 日（PT）現在、このタイプの新規インポートは作成できなくなっています。 このタイプのデータをインポートするには、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を使用してください。 |
-| [!UICONTROL Report Builder]へのサインインの更新 | 2021 年 4 月 9 日（PT） | 2021年1月14日に、[!UICONTROL Report Builder]のログインが更新され、既存のテクノロジーに対する依存関係が削除され、ログインプロセスとExperience Cloudが一致するようになりました。 Experience CloudはEnterprise ID（電子メールとパスワード）を使用します。 [!UICONTROL Report Builder]へのアクセスを中断することなく確実に行うため、2021年7月22日までに[!UICONTROL Report Builder]アドインをバージョン5.6.47以降に更新してください。 Report Builderバージョン5.6.47以降では、Experience Cloudのサインインのみがサポートされ、シングルサインオンはサポートされません。 |
+| [!UICONTROL Report Builder] へのサインインの更新 | 2021 年 4 月 9 日（PT） | 2021年1月14日に、[!UICONTROL Report Builder]のログインが更新され、既存のテクノロジーに対する依存関係が削除され、ログインプロセスとExperience Cloudが一致するようになりました。 Experience Cloud は Enterprise ID（電子メールとパスワード）を使用します。[!UICONTROL Report Builder] へのアクセスが中断されないようにするには、2021 年 7 月 22 日（PT）までに [!UICONTROL Report Builder] アドインをバージョン 5.6.47 以降にアップデートしてください。Report Builderバージョン5.6.47以降では、Experience Cloudのサインインのみがサポートされ、シングルサインオンはサポートされません。 |
 | データフィードと Data Warehouse の IP アドレスの変更 | 2021 年 4 月 6 日（PT） | 6 月 17 日以降、アドビのデータセンター内でデータフィードと Data Warehouse 配信システムの再配置がおこなわれるため、お客様に表示される外部 IP アドレスが変更される可能性があります。レポートおよびフィードが提供されるデータセンターのすべての IP CIDR ブロックが、制御する宛先システムのファイアウォール内に存在することを確認する必要があります。 [ファイアウォールの許可リストに配置する IP アドレス範囲の完全なリストを以下に示します](https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html?lang=ja#data-collection-and-ftp-ip-address-blocks)。 |
-| 今後の Analytics メニューの変更に関するお知らせ | 2021 年 3 月 24 日（PT） | 2021 年 4 月 22 日に、パフォーマンスを向上させるために、**[!UICONTROL コンポーネント]**、**[!UICONTROL ツール]**、**[!UICONTROL 管理]**&#x200B;のドロップダウンメニューを更新します。 これらのページはすべて、**[!UICONTROL すべてのコンポーネント]**、**[!UICONTROL すべてのツール]**、**[!UICONTROL すべての管理者]**&#x200B;のリンクから引き続き利用できます。ページはドロップダウンメニューから削除されます。 ドロップダウンメニューから削除され、それぞれのリンクページに配置されるメニュー項目は次のとおりです。<br><br> [!UICONTROL コンポーネント]<ul><li>[!UICONTROL ブックマーク]</li><li>[!UICONTROL ダッシュボード]</li><li>[!UICONTROL ターゲット]</li><li>[!UICONTROL カレンダーイベント]</li><li>[!UICONTROL スケジュールされているレポート]</li><li>[!UICONTROL レポート設定]</li></ul>[!UICONTROL ツール]<ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search&amp;Promote]</li></ul>[!UICONTROL Admin]<ul><li>[!UICONTROL ユーザー管理]</li><li>[!UICONTROL 分類インポーター]</li><li>[!UICONTROL 分類ルールビルダー]</li><li>[!UICONTROL データソース]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL カンパニー設定]</li><li>[!UICONTROL ログ]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL コードマネージャー]</li><li>[!UICONTROL IP で除外]</li><li>[!UICONTROL トラフィック管理]</li></ul> |
+| 今後の Analytics メニューの変更に関するお知らせ | 2021 年 3 月 24 日（PT） | 2021 年 4 月 22 日（PT）に、パフォーマンスを向上させるために、**[!UICONTROL コンポーネント]**、**[!UICONTROL ツール]**、**[!UICONTROL 管理]**&#x200B;のドロップダウンメニューを更新します。 これらのページはすべて、**[!UICONTROL すべてのコンポーネント]**、**[!UICONTROL すべてのツール]**、**[!UICONTROL すべての管理者]**&#x200B;のリンクから引き続き利用できます。ページはドロップダウンメニューから削除されます。 ドロップダウンメニューから削除され、それぞれのリンクページに配置されるメニュー項目は次のとおりです。<br><br> [!UICONTROL コンポーネント]<ul><li>[!UICONTROL ブックマーク]</li><li>[!UICONTROL ダッシュボード]</li><li>[!UICONTROL ターゲット]</li><li>[!UICONTROL カレンダーイベント]</li><li>[!UICONTROL スケジュールされているレポート]</li><li>[!UICONTROL レポート設定]</li></ul>[!UICONTROL ツール]<ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search&amp;Promote]</li></ul>[!UICONTROL Admin]<ul><li>[!UICONTROL ユーザー管理]</li><li>[!UICONTROL 分類インポーター]</li><li>[!UICONTROL 分類ルールビルダー]</li><li>[!UICONTROL データソース]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL カンパニー設定]</li><li>[!UICONTROL ログ]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL コードマネージャー]</li><li>[!UICONTROL IP で除外]</li><li>[!UICONTROL トラフィック管理]</li></ul> |
 | SiteCatalystと同じVISTA処理 | 2021 年 3 月 17 日（PT） | 2021 年 6 月 17 日（PT）にすべてのレポートスイートがアップデートされ、[!UICONTROL Same-as-SiteCatalyst VISTA 処理]がオンに設定されます。この変更により、処理ルールに一致するようにデータが処理されるため、Data Warehouse のレポートに影響します。ご質問や明確な説明については、カスタマーケアにお問い合わせください。 |
 | Reports &amp; Analytics のランディングページオプション | 2021 年 2 月 19 日（PT） | 2021年3月25日に、新しいReports &amp; Analyticsダッシュボードまたはその他のコンテンツを設定するためのオプションが、Adobe Analyticsランディングページとして削除されました。 以前にReports &amp; Analyticsページをカスタムランディングページとして設定した場合、[!UICONTROL ユーザーの環境設定]でランディングページが変更されるまで、このページは引き続き動作します。 |
 | 3 つの Analytics API サービスの提供終了 | 2021 年 1 月 6 日（PT） | 2021 年 4 月 30 日（PT）、以下の Analytics 従来の API サービスの提供が終了し、サービスが停止されます。 これらのサービスを使用して構築された現在の統合は、その日に機能しなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>ご質問への回答、および進め方に関するガイダンスを提供するために、[従来の API EOL に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来のOAuthアカウントでは、[Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics統合アカウントに移行できます。このアカウントは、1.4 Analytics APIと2.0 Analytics APIの両方にアクセスするのに使用できます。 |
@@ -400,7 +400,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021年4月 | [[Adobe Sign] SalesforceおよびMarketor用のAdobe Signを使用したリマインダーの送信 — 機能ビデオ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/marketo/marketo-salesforce-reminder-video.html) | ビデオ | このビデオチュートリアルでは、一定期間後に契約が未署名のままになった場合に、Marketorから電子メールリマインダーを送信する方法を学びます。 この統合では、Salesforce、Marketo、およびMarketoとSalesforceの同期にAdobe Signが使用されます。 |
+| 2021年4月 | [[Adobe Sign] SalesforceおよびMarketo用Adobe Signを使用したリマインダーの送信 — 機能ビデオ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/marketo/marketo-salesforce-reminder-video.html) | ビデオ | このビデオチュートリアルでは、契約が一定期間未署名のままの場合に、Marketoから電子メールリマインダーを送信する方法を学びます。 この統合では、Salesforce、Marketo、MarketoとSalesforceの同期にAdobe Signが使用されます。 |
 
 ### Document Cloudチュートリアル
 
