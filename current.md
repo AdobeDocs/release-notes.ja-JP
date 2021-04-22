@@ -6,10 +6,10 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: d5ac0d91d5d4aa4a7661c529b5a7d85e0cb65d14
+source-git-commit: 1f88b532306f86768a9981d6bba06a21050affe7
 workflow-type: tm+mt
-source-wordcount: '5370'
-ht-degree: 42%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -47,7 +47,7 @@ Experience Cloud のソリューションとサービスは毎月更新されま
 
 [!UICONTROL Adobe システムステータス]は、アドビクラウド製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/) でご確認ください。
 
-最新のリリース情報については、Adobeシステムステータスに対する最新の更新情報は、[Adobeシステムステータス — 2020年5月21日](https://docs.adobe.com/content/help/ja-JP/release-notes/experience-cloud/previous/2020/05212020.html#status)にあります。
+最新のリリース情報については、Adobeシステムステータスに対する最新の更新情報は、[Adobeシステムステータス — 2020年5月21日](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en)にあります。
 
 ## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud の UI コンポーネント、サービス、管理 {#ecloud}
 
@@ -59,8 +59,8 @@ Experience Cloud のソリューションとサービスは毎月更新されま
 
 Experience Platform と Experience Platform Launch に関するリリース更新情報が含まれます。
 
-* [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja). (リリース済み：**2021年4月21日**)
-* [Experience Platform Launch リリースノート](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=ja). (リリース済み：2021年2月18日)
+* [Experience Platformリリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja) (リリース済み： **2021年4月21日**)
+* [Experience Platform Launchリリースノート](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=ja) (リリース済み：2021年2月18日)
 
 ### Experience Platform チュートリアルおよびコース
 
@@ -77,11 +77,11 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 
 ### 最新の製品リリース
 
-最新の機能、改善点および修正点について詳しくは、[Journey Orchestration リリースノート](https://docs.adobe.com/content/help/ja-JP/journeys/using/release-notes/release-notes.html)を参照してください。
+最新の機能、改善点および修正点について詳しくは、[Journey Orchestration リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en)を参照してください。
 
 ### Journey Orchestration の追加リソース
 
-[ドキュメント](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html) - [リリースノート](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/journey-orchestration/introduction.html)
+[ドキュメント](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=en) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) - [ハウツービデオ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/journey-orchestration/introduction.html?lang=en)
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Offer Decisioning {#offer-decisioning}
 
@@ -108,14 +108,14 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 
 ### Adobe Analytics の新機能 {#aa-features}
 
-| 機能 | [一般公開](https://docs.adobe.com/content/help/ja-JP/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
+| 機能 | [一般公開](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - ターゲット日 | 説明 |
 | ----------- | ---------- | ------- |
 | 解析ダッシュボード:カスタム日付範囲 | 2021 年 4 月 22 日（PT） | Analyticsモバイルアプリのユーザーは、現在すぐに使用できる日付範囲に加えて、スコアカードにカスタムの日付範囲を適用できます。 |
 | ワークスペース：以前のプロジェクトバージョン | 2021年5月13日 | Workspaceプロジェクトの以前のバージョンを読み込んで、不要な変更を取り消したり、単純に希望の以前のバージョンに戻したりできます。 |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
-| 機能 | [一般公開](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - ターゲット日 | 説明 |
+| 機能 | [一般公開](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - ターゲット日 | 説明 |
 | ----------- | ---------- | ----- |
 | CJAデータ表示の強化 | 2021 年 4 月 22 日（PT） | データの表示が強化され、XDMスキーマフィールドから指標やディメンションを作成する際の柔軟性が大幅に拡大します。 文字列フィールドを指標として使用できます。 ディメンションとして数値フィールドを使用したり、異なるアトリビューションモデルやルックバックウィンドウを持つ同じフィールドから複数の指標を作成したりできます。 また、指標とディメンションをデータ表示間で互換性を持たせたり、レポートからコンポーネントを非表示にしたり、値を含めたり、値を除外したり、グループを使用したりできます。 [詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html) |
 | ワークスペース：予定レポートのサポート | 2021 年 4 月 7 日（PT） | 予定レポートがCJAでサポートされるようになりました。 |
@@ -145,11 +145,11 @@ AN-248451;AN-250461;AN-251157; AN-251481;AN-251756;AN-252604;AN-252822;AN-252941
 | SiteCatalystと同じVISTA処理 | 2021 年 3 月 17 日（PT） | 2021 年 6 月 17 日（PT）にすべてのレポートスイートがアップデートされ、[!UICONTROL Same-as-SiteCatalyst VISTA 処理]がオンに設定されます。この変更により、処理ルールに一致するようにデータが処理されるため、Data Warehouse のレポートに影響します。ご質問や明確な説明については、カスタマーケアにお問い合わせください。 |
 | Reports &amp; Analytics のランディングページオプション | 2021 年 2 月 19 日（PT） | 2021年3月25日に、新しいReports &amp; Analyticsダッシュボードまたはその他のコンテンツを設定するためのオプションが、Adobe Analyticsランディングページとして削除されました。 以前にReports &amp; Analyticsページをカスタムランディングページとして設定した場合、[!UICONTROL ユーザーの環境設定]でランディングページが変更されるまで、このページは引き続き動作します。 |
 | 3 つの Analytics API サービスの提供終了 | 2021 年 1 月 6 日（PT） | 2021 年 4 月 30 日（PT）、以下の Analytics 従来の API サービスの提供が終了し、サービスが停止されます。 これらのサービスを使用して構築された現在の統合は、その日に機能しなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>ご質問への回答、および進め方に関するガイダンスを提供するために、[従来の API EOL に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来のOAuthアカウントでは、[Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics統合アカウントに移行できます。このアカウントは、1.4 Analytics APIと2.0 Analytics APIの両方にアクセスするのに使用できます。 |
-| Adobe Data Connectors のサポート終了 | 2020 年 7 月 13 日（PT） | Adobe [!UICONTROL Data Connectors] は、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。[Adobe Exchange パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)で新しい標準が利用できます。 どの統合でも、その標準を使用して、引き続き提供およびサポートできます。 正式なサポート終了日は 2021 年 8 月 1 日（PT）です。 [詳細情報...](https://docs.adobe.com/content/help/ja-JP/analytics/import/dataconnectors/data-connectors-eol.html) |
+| Adobe Data Connectors のサポート終了 | 2020 年 7 月 13 日（PT） | Adobe [!UICONTROL Data Connectors] は、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。[Adobe Exchange パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)で新しい標準が利用できます。 どの統合でも、その標準を使用して、引き続き提供およびサポートできます。 正式なサポート終了日は 2021 年 8 月 1 日（PT）です。 [詳細情報...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=en) |
 
 ### AppMeasurement {#appm}
 
-AppMeasurement リリースの最新の更新については、[AppMeasurement for JavaScript リリースノート](https://docs.adobe.com/content/help/ja-JP/analytics/implementation/appmeasurement-updates.html)を参照してください。
+AppMeasurement リリースの最新の更新については、[AppMeasurement for JavaScript リリースノート](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=en)を参照してください。
 
 ### Analytics コースとチュートリアル {#tutorials-analytics}
 
@@ -265,8 +265,8 @@ Experience Manager のリリースノートはすべて次のページに記載�
 * [Experience Manager Brand Portal リリースノート](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=ja)
 * [Experience Manager デスクトップアプリケーションリリースノート](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=en)
 * [Experience Manager Dispatcher リリースノート](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
-* [Adobe Primetime リリースノート](https://docs.adobe.com/content/help/ja-JP/primetime/release-notes/home.html)
-* [Livefyre リリースノート](https://docs.adobe.com/content/help/ja-JP/livefyre/using/release-notes/c-rn.html)
+* [Adobe Primetime リリースノート](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=en)
+* [Livefyre リリースノート](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=en)
 
 ### 新しい Experience Manager コースとチュートリアル
 
@@ -302,8 +302,8 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 リリースされた最新の機能、機能強化、修正について詳しくは、以下を参照してください。
 
-* [Campaign Standard リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-notes.html)
-* [Campaign Classic リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html)
+* [Campaign Standard リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
+* [Campaign Classic リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
 ### 新しい Campaign コースとチュートリアル
 
@@ -319,9 +319,9 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### ヘルプリソース
 
-* Adobe Campaign Standard：[ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/campaign-standard-home.html) - [リリースノート](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/overview.html) - [リリース計画](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/release-notes/release-planning.html) - [最新ドキュメントの更新](https://docs.adobe.com/content/help/ja-JP/campaign-standard/using/documentation-updates.html)
-* Adobe Campaign Classic：[ヘルプセンター](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/campaign-classic-home.html) - [リリースノート](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html) - [ハウツービデオ](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/overview.html) - [最新ドキュメントの更新](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/documentation-updates.html)
-* Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/control-panel/using/release-notes.html) - [Campaign Standard](https://docs.adobe.com/content/help/ja-JP/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html) / [Campaign Classic](https://docs.adobe.com/content/help/ja-JP/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html) のハウツービデオ
+* Adobe Campaign Standard：[ヘルプセンター](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-learn/campaign-standard-tutorials/overview.html?lang=en) - [リリース計画](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=en) - [最新ドキュメントの更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=en)
+* Adobe Campaign Classic：[ヘルプセンター](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-learn/campaign-classic-tutorials/overview.html?lang=en) - [最新ドキュメントの更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=en)
+* Adobe Campaign コントロールパネル：[ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en) - [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/administrating/control-panel/control-panel-overview.html?lang=en) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html?lang=en) のハウツービデオ
 
 ## ![アイコン](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
@@ -336,7 +336,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| 新規ヘルプ | （10 月 28 日のリリース）レガシーのヘルプは更新されたページに置き換えられました。ページは DSP のメインメニューの「ヘルプ」リンクから利用でき、[https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=ja](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=ja)でいつでも利用できます。 |
+| 新規ヘルプ | （10月28日リリース）レガシーヘルプは、更新されたページで置き換えられました。 DSPのメインメニューの「ヘルプ」リンクからヘルプを利用でき、常に[https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html?lang=ja)で利用できます。 |
 | キャンペーン | （10 月 28 日のリリース）以前の Campaign ベータ版のビューがデフォルトの Campaign ビューになり、より迅速なインサイト、簡素化されたワークフロー、カスタマイズされたビューを実現しました。 |
 | プライベート在庫 | （10 月 15 日のリリース）すべてのユーザーが、新しい Deal ID フォームを使用して、Deal ID の詳細を設定および編集できるようになりました。これは、従来の Smart Ad Serving フォームをシンプルにしたバージョンです。新しい案件IDの詳細を設定するには、**[!UICONTROL 在庫]** > **[!UICONTROL 掘り出し物]** > **[!UICONTROL 作成]**&#x200B;に移動し、**[!UICONTROL 案件ID Beta]**&#x200B;をクリックします。 |
 | プレースメントの予測 | （10 月 15 日のリリース）プレースメントレベルのペーシングを使用したプレースメントの場合、プレースメント設定の「[!UICONTROL Forecast]」セクションには、新しい「[!UICONTROL Estimated Maximums]」セクションが含まれます。このセクションは、現在のターゲット設定でどれくらい多くの容量が使用できるかを示します。 |
@@ -364,7 +364,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ## ![アイコン](/assets/target.png)[!DNL Target] {#target}
 
-最新のリリース情報については、[[!DNL Target]  リリースノート](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)を参照してください。
+最新のリリース情報については、[[!DNL Target]  リリースノート](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)を参照してください。
 
 ## ![アイコン](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
 
@@ -396,27 +396,27 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021 年 4 月 | [[Adobe Sign] SalesforceおよびMarketo用Adobe Signを使用したリマインダーの送信 — 機能ビデオ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/marketo/marketo-salesforce-reminder-video.html) | ビデオ | このビデオチュートリアルでは、契約が一定期間未署名のままの場合に、Marketoから電子メールリマインダーを送信する方法を学びます。 この統合では、Salesforce、Marketo、MarketoとSalesforceの同期にAdobe Signが使用されます。 |
+| 2021 年 4 月 | [[Adobe Sign] SalesforceおよびMarketo用Adobe Signを使用したリマインダーの送信 — 機能ビデオ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/marketo/marketo-salesforce-reminder-video.html) | ビデオ | 一定期間が過ぎて契約が未署名のままになった場合に、Marketoから電子メールリマインダーを送信する方法を説明します。 この統合では、Salesforce、Marketo、MarketoとSalesforceの同期にAdobe Signが使用されます。 |
 
 ### Document Cloudチュートリアル
 
 | 公開日 | 名前 | ソリューション | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2021 年 4 月 | [PDFオンラインエクスペリエンスの制御と解析の収集](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfembed/controlpdfexperience.html) | 記事 | 組織がWebサイトにPDFを投稿していますか。 Adobe PDF埋め込みAPIを使用して外観を制御し、コラボレーションを有効にし、ページでの滞在時間や検索など、ユーザーのPDFとのやり取りに関する分析を収集する方法について説明します。 |
-| 2021 年 4 月 | [JavaのAdobeドキュメントサービスAPIを使用した金融ドキュメントワークフローの管理](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html) | 記事 | Java Spring Bootアプリケーション用のAdobeドキュメントサービスAPIを使用し、PDFドキュメントからコンテンツを抽出し、Excelなどの他のデータ形式に変換し、複数のPDFを結合し、表示でリソースを保護するMVCアプリを作成する方法を説明します。 |
+| 2021 年 4 月 | [Java™のAdobeドキュメントサービスAPIを使用した金融ドキュメントワークフローの管理](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html) | 記事 | Java™ Spring Bootアプリケーション用のAdobeドキュメントサービスAPIの使用方法を説明します。 PDFドキュメントからコンテンツを抽出し、Excelなどの他のデータ形式に変換し、複数のPDFを結合し、表示でリソースを保護する、MVC(Model-Producer-Controller)アプリを作成します。 |
 | 2021 年 4 月 | [Java™のAdobeドキュメントサービスAPIを使用したHRドキュメントワークフロー](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/HRAgreementWorkflowsJava.html) | チュートリアル | 多くの企業では、新規採用者に関するドキュメント（勤労者に対する職場での契約など）が必要です。 従来、企業は、管理や保存が困難な形で、これらのドキュメントを物理的に管理していました。 電子ドキュメントに切り替える場合、PDFファイルは他のファイルタイプよりも安全で変更が少ないので、最適な選択肢です。 さらに、デジタル署名もサポートしています。 |
 | 2021 年 4 月 | [Node.jsのAdobeドキュメントサービスAPIとの契約ワークフロー](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/AgreementWorkflowsNodejs.html) | チュートリアル | 多くのビジネスアプリケーションやプロセスには、提案や契約などのドキュメントが必要です。 PDFドキュメントを使用すると、ファイルのセキュリティが高まり、変更が少なくなります。 また、デジタル署名のサポートを提供しているので、クライアントはドキュメントを素早く簡単に完了できます。 AdobeドキュメントサービスAPIを使用すると、PDF機能をWebアプリケーションに簡単に組み込むことができます。 |
-| 2021 年 4 月 | [条件付きコンテンツの設定](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggerconditional.html) | ビデオ | このビデオでは、Adobeドキュメント生成タグを使用してMicrosoft Wordテンプレートのセクションを簡単に設定し、Adobeドキュメント生成APIを使用してデータに基づいてドキュメントのセクションを動的に含めたり除外したりする方法を説明します。 |
-| 2021 年 4 月 | [[Doc Services]数値計算タグの設定 — 機能に関するビデオ](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggercalculations.html) | ビデオ | このビデオでは、Adobeドキュメント生成タガーを使用して、Adobeドキュメント生成APIを使用してデータ値の集計や演算を計算する、Microsoft Wordテンプレートに数値計算タグを簡単に設定する方法を学びます。 |
-| 2021 年 4 月 | [テーブルとリストタグの追加](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggertables.html) | ビデオ | このビデオでは、Adobeドキュメント生成タグを使用してMicrosoft Wordテンプレートに表やリストタグを簡単に追加し、Adobeドキュメント生成APIを使用してデータに基づいて表やリスト行を動的に追加する方法を学びます。 |
-| 2021 年 4 月 | [画像タグの追加](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeraddimagetags.html) | ビデオ | このビデオでは、Adobeドキュメント生成タグを使用してMicrosoft Wordテンプレートに画像タグを簡単に追加し、Adobeドキュメント生成APIを使用してドキュメントに動的に画像をプッシュする方法を学びます。 |
-| 2021 年 4 月 | [テキストタグの追加](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeraddtexttags.html) | ビデオ | このビデオでは、Adobeドキュメント生成APIで使用するAdobeドキュメント生成タグを使用して、Microsoft Wordテンプレートにタグを簡単に追加する方法を学びます。 |
-| 2021 年 4 月 | [Adobeドキュメント生成タグの概要](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeroverview.html) | ビデオ | このビデオでは、Adobeドキュメント生成APIで使用するAdobeドキュメント生成タグを使用してWordテンプレートにタグ付けする方法を簡単に学習します。 |
+| 2021 年 4 月 | [条件付きコンテンツの設定](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggerconditional.html) | ビデオ | このビデオでは、Adobeドキュメント生成タグを使用してMicrosoft® Wordテンプレートのセクションを簡単に設定し、Adobeドキュメント生成APIを使用してデータに基づいてドキュメントのセクションを動的に含めたり除外したりする方法を説明します。 |
+| 2021 年 4 月 | [[Doc Services]数値計算タグの設定 — 機能に関するビデオ](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggercalculations.html) | ビデオ | Adobeドキュメント生成タガーを使用して、Adobeドキュメント生成APIを使用してデータ値の集計や算術を計算する、Microsoft® Wordテンプレートに数値計算タグを簡単に設定する方法を説明します。 |
+| 2021 年 4 月 | [テーブルとリストタグの追加](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggertables.html) | ビデオ | Adobeドキュメント生成タガーを使用して、Microsoft® Wordテンプレートに簡単にテーブルやリストタグを追加し、Adobeドキュメント生成APIを使用してデータに基づいてテーブル行やリスト行を動的に追加する方法を説明します。 |
+| 2021 年 4 月 | [画像タグの追加](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeraddimagetags.html) | ビデオ | Adobeドキュメント生成タガーを使用してMicrosoft® Wordテンプレートに画像タグを簡単に追加し、Adobeドキュメント生成APIを使用してドキュメントに動的に画像をプッシュする方法を説明します。 |
+| 2021 年 4 月 | [テキストタグの追加](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeraddtexttags.html) | ビデオ | Adobeドキュメント生成APIで使用するAdobeドキュメント生成タグを使用して、Microsoft® Wordテンプレートにタグを簡単に追加する方法を説明します。 |
+| 2021 年 4 月 | [Adobeドキュメント生成タグの概要](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeroverview.html) | ビデオ | Adobeドキュメント生成APIで使用するAdobeドキュメント生成タグを使用して[!DNL Word]テンプレートにタグ付けする方法を説明します。 |
 
 Document Cloud ヘルプについては、以下を参照してください。
 
-* [Adobe Acrobat ラーニングハブ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html?lang=ja)
-* [Adobe Sign ラーニングハブ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html?lang=ja)
+* [Adobe Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html?lang=ja)
+* [Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html?lang=ja)
 * [Document Cloud ラーニングとサポート](https://helpx.adobe.com/jp/support/document-cloud.html)
 
 <!-- ## ![Icon](/assets/creative-cloud-24.png) Creative Cloud Enterprise {#creative-cloud}
