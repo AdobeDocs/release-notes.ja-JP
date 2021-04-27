@@ -6,10 +6,10 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 1f88b532306f86768a9981d6bba06a21050affe7
+source-git-commit: 070e4ff0a9c3ab6f1d16680edc6a2aa787be8f69
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '5499'
+ht-degree: 36%
 
 ---
 
@@ -274,6 +274,10 @@ Experience Manager のリリースノートはすべて次のページに記載�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2021 年 4 月 | [SPAエディタとリモートSPA — 概要 — チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/overview.html) | チュートリアル | リモートSPA、またはAEMのコンテキスト外で実行されるSPAを、AEMで作成されたコンテンツを使用して配信するように更新する方法を説明します。 このチュートリアルは、WKND GraphQL App上に構築されます。これは、AEMのGraphQL APIを介してAEMコンテンツフラグメントコンテンツを使用するReactアプリです。 |
+| 2021 年 4 月 | [GraphQLモデリングの基本](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html) | ビデオ | GraphQLで使用する、Adobe Experience Manager(AEM)のコンテンツフラグメントを定義して使用する方法を説明します。 |
+| 2021 年 4 月 | [GraphQLの高度なモデリング](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/advanced-modeling.html) | ビデオ | Adobe Experience Manager(AEM)のコンテンツフラグメントモデル間の関係を作成する方法と、GraphQLクエリでこれらの関係を活用する方法について説明します。 |
+| 2021 年 4 月 | [GraphQLクエリの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/creating-graphql-queries.html) | ビデオ | GraphQLクエリを作成してAdobe Experience Manager(AEM)からコンテンツを返す方法、およびGraphiQLツールを使用してクエリを迅速にテスト、調整、デバッグする方法について説明します。 |
 | 2021 年 4 月 | [最初の [!UICONTROL アダプティブフォームの作成]](https://video.tv.adobe.com/v/332571) | ビデオ | 最初のアダプティブフォームの作成方法を学びます。 |
 | 2021 年 4 月 | [ボタンのクリックイベント時に、Salesforceでリードの作成をテストします。](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/integrate-with-salesforce/create-lead-click-event.html?lang=en#forms) | ビデオ | ボタンのクリックイベント上でForm Data ModelのPOST操作を呼び出して、リードオブジェクトを作成します。 |
 | 2021 年 4 月 | [AEM [!UICONTROL フォー] ムとの統合 [!DNL Salesforce]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/integrate-with-salesforce/introduction.html?lang=en#forms) | ビデオ | FormsとSalesforceの統合コースの導入ビデオ。 |
