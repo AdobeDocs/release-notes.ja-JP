@@ -6,9 +6,9 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: c4023721667178357047047573997bbdd67944ab
+source-git-commit: fe66c16cb5f021c1c3039c04a8498beef2eaeb9b
 workflow-type: tm+mt
-source-wordcount: '5690'
+source-wordcount: '5689'
 ht-degree: 35%
 
 ---
@@ -140,7 +140,7 @@ AN-248451;AN-250461;AN-251157; AN-251481;AN-251756;AN-252604;AN-252822;AN-252941
 | ----------- | ---------- | ---------- |
 | フル処理データソースののサポート終了 | 2021 年 4 月 12 日（PT） | Adobeでは、2021年7月31日に、フル処理データソースの提供を停止する予定です。 2021 年 3 月 25 日（PT）現在、このタイプの新規インポートは作成できなくなっています。 このタイプのデータをインポートするには、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を使用してください。 |
 | [!UICONTROL Report Builder]へのサインインの更新 | 2021 年 4 月 9 日（PT） | 2021年1月14日に、[!UICONTROL Report Builder]のログインが更新され、既存のテクノロジーに対する依存関係が削除され、ログインプロセスとExperience Cloudが一致するようになりました。 Experience Cloud は Enterprise ID（電子メールとパスワード）を使用します。[!UICONTROL Report Builder] へのアクセスが中断されないようにするには、2021 年 7 月 22 日（PT）までに [!UICONTROL Report Builder] アドインをバージョン 5.6.47 以降にアップデートしてください。Report Builderバージョン5.6.47以降では、Experience Cloudのサインインのみがサポートされ、シングルサインオンはサポートされません。 |
-| データフィードと Data Warehouse の IP アドレスの変更 | 2021 年 4 月 6 日（PT） | 6月17日から、データフィードとData Warehouse配信システムはAdobeのデータセンター内で再配置されるため、表示される外部IPアドレスが変更される可能性があります。 Adobeでは、レポートおよびフィードが提供されるデータセンターのIP CIDRブロックが、管理対象の宛先システム用のファイアウォール内に存在することを確認することをお勧めします。 [ファイアウォールの許可リストに配置する IP アドレス範囲の完全なリストを以下に示します](https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html?lang=ja#data-collection-and-ftp-ip-address-blocks)。 |
+| データフィードと Data Warehouse の IP アドレスの変更 | 2021 年 4 月 6 日（PT） | 6月17日から、データフィードとData Warehouse配信システムはAdobeのデータセンター内で再配置されるため、表示される外部IPアドレスが変更される可能性があります。 Adobeでは、レポートおよびフィードが提供されるデータセンターのIP CIDRブロックが、管理対象の宛先システム用のファイアウォール内に存在することを確認することをお勧めします。 [ファイアウォールの許可リストに配置する IP アドレス範囲の完全なリストを以下に示します](://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html?lang=ja#data-collection-and-ftp-ip-address-blocks)。 |
 | 今後の Analytics メニューの変更に関するお知らせ | 2021 年 3 月 24 日（PT） | 2021年4月22日、Adobeは、パフォーマンスを上げるために、**[!UICONTROL コンポーネント]**、**[!UICONTROL ツール]**、**[!UICONTROL 管理者]**&#x200B;のドロップダウンメニューを更新しました。 これらのページはすべて、**[!UICONTROL すべてのコンポーネント]**、**[!UICONTROL すべてのツール]**、**[!UICONTROL すべての管理者]**&#x200B;のリンクから引き続き利用できます。ページはドロップダウンメニューから削除されます。 ドロップダウンメニューから削除され、それぞれのリンクページに配置されるメニュー項目は次のとおりです。<br><br> [!UICONTROL コンポーネント]<ul><li>[!UICONTROL ブックマーク]</li><li>[!UICONTROL ダッシュボード]</li><li>[!UICONTROL ターゲット]</li><li>[!UICONTROL カレンダーイベント]</li><li>[!UICONTROL スケジュールされているレポート]</li><li>[!UICONTROL レポート設定]</li></ul>[!UICONTROL ツール]<ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search&amp;Promote]</li></ul>[!UICONTROL Admin]<ul><li>[!UICONTROL ユーザー管理]</li><li>[!UICONTROL 分類インポーター]</li><li>[!UICONTROL 分類ルールビルダー]</li><li>[!UICONTROL データソース]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL カンパニー設定]</li><li>[!UICONTROL ログ]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL コードマネージャー]</li><li>[!UICONTROL IP で除外]</li><li>[!UICONTROL トラフィック管理]</li></ul> |
 | SiteCatalystと同じVISTA処理 | 2021 年 3 月 17 日（PT） | 2021 年 6 月 17 日（PT）にすべてのレポートスイートがアップデートされ、[!UICONTROL Same-as-SiteCatalyst VISTA 処理]がオンに設定されます。この変更により、処理ルールに一致するようにデータが処理されるため、Data Warehouse のレポートに影響します。ご質問や明確な説明については、カスタマーケアにお問い合わせください。 |
 | Reports &amp; Analytics のランディングページオプション | 2021 年 2 月 19 日（PT） | 2021年3月25日に、新しいReports &amp; Analyticsダッシュボードまたはその他のコンテンツを設定するためのオプションが、Adobe Analyticsランディングページとして削除されました。 以前にReports &amp; Analyticsページをカスタムランディングページとして設定した場合、[!UICONTROL ユーザーの環境設定]でランディングページが変更されるまで、このページは引き続き動作します。 |
