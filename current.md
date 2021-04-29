@@ -6,7 +6,7 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 88813a1c8a3510b84057dff39603fb30e252c64b
+source-git-commit: c4023721667178357047047573997bbdd67944ab
 workflow-type: tm+mt
 source-wordcount: '5690'
 ht-degree: 35%
@@ -23,7 +23,7 @@ Experience Cloud のソリューションとサービスは毎月更新されま
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最終更新日：**2021 年 4 月 22 日（PT）**
+最終更新日：**2021 年 4 月 29 日（PT）**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud の UI コンポーネント、サービス、管理](#ecloud)
