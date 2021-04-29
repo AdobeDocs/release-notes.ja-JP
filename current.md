@@ -6,10 +6,10 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 0bea009a45c2c507b900bb8aea93a02d59c11c98
+source-git-commit: 88813a1c8a3510b84057dff39603fb30e252c64b
 workflow-type: tm+mt
-source-wordcount: '5498'
-ht-degree: 36%
+source-wordcount: '5690'
+ht-degree: 35%
 
 ---
 
@@ -157,6 +157,7 @@ AppMeasurement リリースの最新の更新については、[AppMeasurement f
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2021 年 4 月 | [Customer Journey Analyticsのデータ表示の基本設定](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/basic-configuration-for-data-views.html) | ビデオ | Adobe Experience PlatformのデータセットにCustomer Journey Analyticsして[!UICONTROL 接続]を作成したら、[!UICONTROL 接続]の[!UICONTROL データ表示]を作成して、プラットフォームのAnalysis Workspaceのデータを使用できるようにする必要があります。 このビデオでは、[!UICONTROL データ表示]の基本的な設定に関する手順を説明します。 |
 | 2021 年 4 月 | [Adobe Analyticsのユーザー環境設定](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/user-preferences.html) | ビデオ | コンポーネント — ユーザーの環境設定ページでは、Analysis Workspaceとその関連コンポーネントの設定をユーザーレベルで管理できます。 例えば、デフォルトのレポートスイートとカラーパレットを選択できます。 ユーザー環境設定は、すべての新しいプロジェクトと新しいパネルに適用されます。 |
 | 2021 年 4 月 | [Workspaceでのコンポーネントドロップダウンの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-component-dropdowns-in-workspace.html) | ビデオ | コンポーネントドロップダウンを使用すると、互換性のあるコンポーネントのリストから分析を作成できます。 必要なものが見つからない場合は、ドロップダウンから直接コンポーネントを作成することもできます。 より高度な使用例がある場合、これらのスペースは引き続きドロップゾーンとして機能します。 |
 | 2021 年 4 月 | [ビジュアライゼーションへのデータの取得](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/getting-data-into-visualizations.html?lang=en#analysis-workspace) | ビデオ | Analysis Workspaceでビジュアライゼーションを追加する場合、ビジュアライゼーションのタイプに応じて、データを追加する方法がいくつかあります。 このビデオでは、これらのメソッドを示します。オプション |
@@ -274,6 +275,8 @@ Experience Manager のリリースノートはすべて次のページに記載�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2021 年 4 月 | [32をインストールするが、AEM FormsLinuxのインストール用ライブラリ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/installing-aem-form-on-linux.html) | 記事 | Linuxで動作するように、AEM Forms用の32ビットライブラリをインストールする方法を学ぶ。 |
+| 2021 年 4 月 | [Adobe SignCloud Services設定の作成](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/create-adobe-sign-cloud-configuration.html) | 記事 | Adobe SignAPIアプリケーションを使用して、Adobe Signと統合するAdobe Signクラウドサービス設定を作成します。 |
 | 2021 年 4 月 | [SPAエディタとリモートSPA — 概要 — チュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/overview.html) | チュートリアル | リモートSPA、またはAEMのコンテキスト外で実行されるSPAを、AEMで作成されたコンテンツを使用して配信するように更新する方法を説明します。 このチュートリアルは、WKND GraphQL App上に構築されます。これは、AEMのGraphQL APIを介してAEMコンテンツフラグメントコンテンツを使用するReactアプリです。 |
 | 2021 年 4 月 | [GraphQLモデリングの基本](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html) | ビデオ | GraphQLで使用する、Adobe Experience Manager(AEM)のコンテンツフラグメントを定義して使用する方法を説明します。 |
 | 2021 年 4 月 | [GraphQLの高度なモデリング](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/advanced-modeling.html) | ビデオ | Adobe Experience Manager(AEM)のコンテンツフラグメントモデル間の関係を作成する方法と、GraphQLクエリでこれらの関係を活用する方法について説明します。 |
@@ -406,6 +409,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | 公開日 | 名前 | ソリューション | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2021 年 4 月 | [JavaのAdobeドキュメントサービスAPIを使用した金融ドキュメントワークフローの管理](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html) | チュートリアル | [!DNL Java Spring Boot]アプリケーション用のAdobeドキュメントサービスAPIを使用し、PDFドキュメントからコンテンツを抽出し、Excelなどの他のデータ形式に変換し、複数のPDFを結合し、表示でリソースを保護するMVCアプリを作成する方法を説明します。 |
 | 2021 年 4 月 | [PDFオンラインエクスペリエンスの制御と解析の収集](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfembed/controlpdfexperience.html) | 記事 | 組織がWebサイトにPDFを投稿していますか。 Adobe PDF埋め込みAPIを使用して外観を制御し、コラボレーションを有効にし、ページでの滞在時間や検索など、ユーザーのPDFとのやり取りに関する分析を収集する方法について説明します。 |
 | 2021 年 4 月 | [Java™のAdobeドキュメントサービスAPIを使用した金融ドキュメントワークフローの管理](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html) | 記事 | Java™ Spring Bootアプリケーション用のAdobeドキュメントサービスAPIの使用方法を説明します。 PDFドキュメントからコンテンツを抽出し、Excelなどの他のデータ形式に変換し、複数のPDFを結合し、表示でリソースを保護する、MVC(Model-Producer-Controller)アプリを作成します。 |
 | 2021 年 4 月 | [Java™のAdobeドキュメントサービスAPIを使用したHRドキュメントワークフロー](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/HRAgreementWorkflowsJava.html) | チュートリアル | 多くの企業では、新規採用者に関するドキュメント（勤労者に対する職場での契約など）が必要です。 従来、企業は、管理や保存が困難な形で、これらのドキュメントを物理的に管理していました。 電子ドキュメントに切り替える場合、PDFファイルは他のファイルタイプよりも安全で変更が少ないので、最適な選択肢です。 さらに、デジタル署名もサポートしています。 |
