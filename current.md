@@ -6,9 +6,9 @@ last-update: April 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 translation-type: tm+mt
-source-git-commit: 2659558cae189222d57865d7027115f024dac44d
+source-git-commit: 7ba8d1728f066499f8b0cdb8fb5fad1abe83ec53
 workflow-type: tm+mt
-source-wordcount: '5689'
+source-wordcount: '5695'
 ht-degree: 99%
 
 ---
@@ -23,14 +23,14 @@ Experience Cloud のソリューションとサービスは毎月更新されま
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最終更新日：**2021 年 4 月 29 日（PT）**
+最新の更新：**2021年5月11日**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud の UI コンポーネント、サービス、管理](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)
+* [](#analytics) 解析と [Customer Journey Analytics](#cust-journey) （更新日2021年5月11日）
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -99,8 +99,8 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 
 リリース日：**2021 年 4 月 22 日（PT）**
 
-* [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey)
+* [Adobe Analyticsの新機能](#aa-features) （2021年5月11日更新）
+* [Customer Journey Analyticsの新機能](#cust-journey) （更新日2021年5月11日）
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [Analytics コースとチュートリアル](#tutorials-analytics)
@@ -111,7 +111,7 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 | 機能 | [一般公開](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=ja) - ターゲット日 | 説明 |
 | ----------- | ---------- | ------- |
 | Analytics ダッシュボード：カスタム日付範囲 | 2021 年 4 月 22 日（PT） | Analytics モバイルアプリのユーザーは、現在使用可能な標準提供の日付範囲に加えて、カスタムの日付範囲をスコアカードに適用できます。 |
-| Workspace：以前のプロジェクトバージョン | 2021 年 5 月 13 日（PT） | Workspace プロジェクトの以前のバージョンを読み込んで、不要な変更を取り消したり、単に希望する以前のバージョンに戻したりできます。 |
+| Workspace：以前のプロジェクトバージョン | 2021 年 5 月 20 日（PT） | Workspace プロジェクトの以前のバージョンを読み込んで、不要な変更を取り消したり、単に希望する以前のバージョンに戻したりできます。 |
 
 ### Customer Journey Analytics の新機能 {#cust-journey}
 
@@ -120,7 +120,7 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 | 強化された CJA データビュー | 2021 年 4 月 22 日（PT） | データビューが強化され、XDM スキーマフィールドから指標やディメンションを作成する際の柔軟性が大幅に向上します。 文字列フィールドを指標として使用できます。 数値フィールドをディメンションとして使用し、異なるアトリビューションモデルとルックバックウィンドウを持つ複数の指標を同じフィールドから作成できます。 また、指標とディメンションをデータビュー間で互換性を持たせたり、レポートでコンポーネントを非表示にしたり、値を含めたり除外したり、バケットを使用したりと、様々なことができます。 [詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=ja) |
 | Workspace：予定レポートのサポート | 2021 年 4 月 7 日（PT） | 予定レポートが CJA でサポートされるようになりました。 |
 | Analytics ダッシュボード：カスタム日付範囲 | 2021 年 4 月 22 日（PT） | Analytics モバイルアプリのユーザーは、現在使用可能な標準提供の日付範囲に加えて、カスタムの日付範囲をスコアカードに適用できます。 |
-| Workspace：以前のプロジェクトバージョン | 2021 年 5 月 13 日（PT） | Workspace プロジェクトの以前のバージョンを読み込んで、不要な変更を取り消したり、単に希望する以前のバージョンに戻したりできます。 |
+| Workspace：以前のプロジェクトバージョン | 2021 年 5 月 20 日（PT） | Workspace プロジェクトの以前のバージョンを読み込んで、不要な変更を取り消したり、単に希望する以前のバージョンに戻したりできます。 |
 
 ### Adobe Analytics の修正点 {#aa-fixes}
 
