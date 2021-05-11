@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: March 2020
 author: mfrei
 translation-type: tm+mt
-source-git-commit: f981d08b9a7200776706028b0408bd94a1e5e246
+source-git-commit: 4cad20ae0aa6d4a6e9776aa7861e2ba3b39f9e6b
 workflow-type: tm+mt
 source-wordcount: '1346'
 ht-degree: 99%
@@ -97,7 +97,7 @@ Adobe [!UICONTROL Experience Platform] を使用すると、ジャーニーの�
 
 #### [!UICONTROL Journey Orchestration] の追加リソース
 
-[ドキュメント](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/ja-JP/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
+[ドキュメント](https://docs.adobe.com/content/help/ja-JP/journeys/using/journey-orchestration-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://docs.adobe.com/content/help/ja-JP/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ### [!UICONTROL Mobile Services] および [!UICONTROL Mobile SDK] {#mobile}
 
@@ -161,7 +161,7 @@ Adobe Analytics の新機能および修正点です。
 * 修正
 * 修正
 
-次のプラットフォームの AppMeasurement のリリース履歴については、[AppMeasurement リリース履歴](https://experienceleague.corp.adobe.com/docs/analytics/implementation/appmeasurement-updates.html)を参照してください。
+次のプラットフォームの AppMeasurement のリリース履歴については、[AppMeasurement リリース履歴](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html)を参照してください。
 
 * [!DNL JavaScript]
 * [!DNL iOS]
