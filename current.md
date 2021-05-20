@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: May 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 008fc1b3d5d5b0558075bdb767f2c280c8e3ae79
+source-git-commit: b77d72d109886a82aaebfb5f8d4cf7d6c529ae5e
 workflow-type: tm+mt
-source-wordcount: '5388'
-ht-degree: 43%
+source-wordcount: '5384'
+ht-degree: 44%
 
 ---
 
@@ -93,8 +93,8 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 
 リリース日：**2021 年 5 月 20 日**
 
-* [Adobe Analyticsの新機能](#aa-features) （更新日：2021年5月12日）
-* [Customer Journey Analyticsの新機能](#cust-journey) （更新日：2021年5月12日）
+* [Adobe Analytics の新機能](#aa-features)
+* [Customer Journey Analytics の新機能](#cust-journey)
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [Analytics コースとチュートリアル](#tutorials-analytics)
@@ -131,7 +131,7 @@ AN-240821;AN-243625;AN-243958;AN-248728;AN-249877;AN-250151;AN-251273;AN-251334;
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
-| ブラウザーユーザーエージェントがMac OSの誤ったオペレーティングシステムバージョンを反映 | 2021 年 5 月 19 日（PT） | 現在、すべての主要なブラウザーは、Mac OS X 11以降のユーザーがMac OS 10を使用していると誤って報告しています。これは、ブラウザーのユーザーエージェント文字列に記録されています。 これは、Adobe Analyticsのレポート作成に影響します。オペレーティングシステムなどのデバイス情報を決定する際にユーザーエージェントを使用するからです。 この不正確さは、一部のWebサイトの互換性の問題を防ぐために行われているようです。 参考に[Bugzilla ticket](https://bugs.webkit.org/show_bug.cgi?id=213622&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=User+Agent+strings%2C+new+BigQuery+features%2C+custom+Google+Tag+Manager+loader...+%E2%80%93+Simmer+Newsletter+%2311%20-%205873454)を参照してください。 いつ、または、これが修正されるかは不明です。<br>一部のブラウザーでは、最初にMac OS 11が正しく記録されていたので、この値と一致するトラフィックが発生する可能性があります。ただし、レポートが不正確なため、オペレーティングシステムMac OS 11用のフィルタリングは役に立ちません。<br>これは、Mac OS 11上のSafari以降、AppleがCNAME実装に適用するためにITP Cookieの有効期限制限を更新したので、重要です( [WebKitのブログ投稿](https://webkit.org/blog/11338/cname-cloaking-and-bounce-tracking-defense/)を参照)。<br>この更新より前は、これらの制限は、JavaScriptを使用して設定された「クライアント側」Cookieにのみ適用されていました。この不正確さにより、OS 11を使用しているトラフィックの量を評価するのが困難になり、ITPの変更の影響を受けます。 CookieとAdobe Analyticsの[について詳しくは、](https://experienceleague.adobe.com/docs/analytics/technotes/cookies/cookies.html#cookies)を参照してください。 |
+| ブラウザーユーザーエージェントがMac OSの誤ったオペレーティングシステムバージョンを反映 | 2021 年 5 月 19 日（PT） | 現在、すべての主要なブラウザーは、Mac OS X 11以降のユーザーがMac OS 10を使用していると誤って報告しています。これは、ブラウザーのユーザーエージェント文字列に記録されています。 これは、Adobe Analyticsのレポート作成に影響します。オペレーティングシステムなどのデバイス情報を決定する際にユーザーエージェントを使用するからです。 この不正確さは、一部のWebサイトの互換性の問題を防ぐために行われているようです。 参考に[Bugzilla ticket](https://bugs.webkit.org/show_bug.cgi?id=213622&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=User+Agent+strings%2C+new+BigQuery+features%2C+custom+Google+Tag+Manager+loader...+%E2%80%93+Simmer+Newsletter+%2311%20-%205873454)を参照してください。 いつ、または、これが修正されるかは不明です。<br>一部のブラウザーでは、最初にMac OS 11が正しく記録されていたので、この値と一致するトラフィックが一部発生する可能性があります。ただし、レポートが不正確なため、オペレーティングシステムMac OS 11用のフィルタリングは役に立ちません。<br>これは、Mac OS 11上のSafari以降、AppleがCNAME実装に適用するためにITP Cookieの有効期限制限を更新したので、重要です( [WebKitのブログ投稿](https://webkit.org/blog/11338/cname-cloaking-and-bounce-tracking-defense/)を参照)。<br>この更新より前は、これらの制限は、JavaScriptを使用して設定された「クライアント側」Cookieにのみ適用されていました。この不正確さにより、OS 11を使用しているトラフィックの量を評価するのが困難になり、ITPの変更の影響を受けます。 CookieとAdobe Analyticsの[について詳しくは、](https://experienceleague.adobe.com/docs/analytics/technotes/cookies/cookies.html#cookies)を参照してください。 |
 | 3 つの Analytics API サービスの提供終了 | 2021 年 5 月 19 日（PT） | 2021年8月19日に、次のAnalyticsレガシーAPIサービスが提供終了日になり、シャットダウンされました。 これらのサービスを使用して構築された現在の統合は、その日に機能しなくなりました。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>ご質問への回答、および進め方に関するガイダンスを提供するために、[従来の API EOL に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API のどちらにアクセスする場合にも使用できます。 |
 | 2021年ISO地域の更新 | 2021 年 5 月 13 日（PT） | 2021年5月21日に、2021年のISO地域のアップデートを実施します。 このリリース以降、マイナーアップデートが発生する可能性があります。 |
 | フル処理データソースののサポート終了 | 2021 年 4 月 12 日（PT） | アドビは、2021 年 7 月 31 日（PT）にフル処理データソースを非推奨にする予定です。 2021 年 3 月 25 日（PT）現在、このタイプの新規インポートは作成できなくなっています。 このタイプのデータをインポートするには、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を使用してください。 |
@@ -155,16 +155,16 @@ AppMeasurement リリースの最新の更新については、[AppMeasurement f
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2021 年 5 月 | [内部 URL フィルターの設定](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/set-internal-url-filters.html) | ビデオ | [!UICONTROL リファラー] URLの設定について説明します。リファラーを内部リファラー（パスレポートの電源）または外部リファラー（リファラー/参照ドメインレポートの電源）として設定します。 |
-| 2021年5月 | [検索方法の設定](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configure-finding-methods.html) | ビデオ | 検索エンジン、検索キーワード、その他の検索方法のレポートやコンポーネントでのコンバージョンイベントの属性の処理方法を制御する設定を構成する方法について説明します。 |
-| 2021年5月 | [Reports &amp; Analytics のメニューのカスタマイズ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/customize-menus.html) | ビデオ | Reports &amp; Analyticsを使用してデータにアクセスする方法を説明します。 分析にはAnalysis Workspaceをお勧めしますが、Reports &amp; Analyticsを使用すると、メニューをカスタマイズして必要なデータにすばやくアクセスできる場合に役立ちます。 |
-| 2021年5月 | [Adobe Analyticsのカレンダー設定のカスタマイズ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/customize-calendar-settings.html?lang=en#administration) | ビデオ | ヒントとテクニック、Adobe Analyticsでのカレンダーのカスタマイズの仕組みをいくつか説明します。 |
-| 2021年5月 | [データビューで「値なし」オプションを設定する](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/configure-no-value-options-in-data-views.html) | ビデオ | Customer Journey Analyticsの[!UICONTROL データビュー]の設定時に、_値_&#x200B;を表示しないレポートを表示するかどうかを選択し、値の名前の表示方法を変更できます。 |
-| 2021年5月 | [データビューに指標値を含めるまたは除外する](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/include-or-exclude-metric-values-in-data-views.html) | ビデオ | 他の指標のサブセットである新しい指標の作成と設定の方法、および[!UICONTROL データビュー]の強力な分析ツールとして使用できる使用例について説明します。 |
-| 2021年5月 | [データビューにディメンション値を含めるまたは除外する](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/include-or-exclude-dimension-values-in-data-views.html?lang=en) | ビデオ | この[!UICONTROL データビュー]設定機能を使用すると、ディメンションの値をフィルタリングして、Customer Journey Analyticsでプロジェクトを作成する際のアナリストの生活を容易にすることができます。 |
-| 2021年5月 | [データビューのアトリビューション設定](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/attribution-settings-in-data-views.html) | ビデオ | コンバージョンクレジットを受け取る値を決定するのに役立つディメンション割り当て設定と、有効期限設定（値が持続する期間）について説明します。 このビデオでは、これらの重要な設定の手順などを説明します。 |
-| 2021年5月 | [データビューでの分析用の値グループの作成](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/creating-value-buckets-in-data-views-for-analysis.html?lang=en) | ビデオ | Customer Journey Analyticsで[!UICONTROL データビュー]を設定する際に、定義済みのグループにまとめる数値ディメンションを設定できます。 この設定を使用すると、テーブルで使用できる項目の数を数値の範囲に制限できます。 |
-| 2021年5月 | [データビューでのコンポーネント設定の指定](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/configuring-component-settings-in-data-views.html?lang=en) | ビデオ | Customer Journey Analyticsで[!UICONTROL データビュー]を設定する際に、各コンポーネント（指標とディメンション）に設定する基本的なコンポーネント設定について説明します。 |
-| 2021年5月 | [データビューでの指標の形式設定](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/formatting-metrics-in-data-views.html?lang=en) | ビデオ | [!UICONTROL データビュー]設定のコンポーネント画面で指標を書式設定するためのオプションについて説明します。 このビデオでは、コンポーネントをさらに活用するのに役立つヒントもいくつか説明します。 |
+| 2021 年 5 月 | [検索方法の設定](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configure-finding-methods.html) | ビデオ | 検索エンジン、検索キーワード、その他の検索方法のレポートやコンポーネントでのコンバージョンイベントの属性の処理方法を制御する設定を構成する方法について説明します。 |
+| 2021 年 5 月 | [Reports &amp; Analytics のメニューのカスタマイズ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/customize-menus.html) | ビデオ | Reports &amp; Analyticsを使用してデータにアクセスする方法を説明します。 分析にはAnalysis Workspaceをお勧めしますが、Reports &amp; Analyticsを使用すると、メニューをカスタマイズして必要なデータにすばやくアクセスできる場合に役立ちます。 |
+| 2021 年 5 月 | [Adobe Analyticsのカレンダー設定のカスタマイズ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/customize-calendar-settings.html?lang=en#administration) | ビデオ | ヒントとテクニック、Adobe Analyticsでのカレンダーのカスタマイズの仕組みをいくつか説明します。 |
+| 2021 年 5 月 | [データビューで「値なし」オプションを設定する](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/configure-no-value-options-in-data-views.html) | ビデオ | Customer Journey Analyticsの[!UICONTROL データビュー]の設定時に、_値_&#x200B;を表示しないレポートを表示するかどうかを選択し、値の名前の表示方法を変更できます。 |
+| 2021 年 5 月 | [データビューに指標値を含めるまたは除外する](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/include-or-exclude-metric-values-in-data-views.html) | ビデオ | 他の指標のサブセットである新しい指標の作成と設定の方法、および[!UICONTROL データビュー]の強力な分析ツールとして使用できる使用例について説明します。 |
+| 2021 年 5 月 | [データビューにディメンション値を含めるまたは除外する](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/include-or-exclude-dimension-values-in-data-views.html?lang=en) | ビデオ | この[!UICONTROL データビュー]設定機能を使用すると、ディメンションの値をフィルタリングして、Customer Journey Analyticsでプロジェクトを作成する際のアナリストの生活を容易にすることができます。 |
+| 2021 年 5 月 | [データビューのアトリビューション設定](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/attribution-settings-in-data-views.html) | ビデオ | コンバージョンクレジットを受け取る値を決定するのに役立つディメンション割り当て設定と、有効期限設定（値が持続する期間）について説明します。 このビデオでは、これらの重要な設定の手順などを説明します。 |
+| 2021 年 5 月 | [データビューでの分析用の値グループの作成](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/creating-value-buckets-in-data-views-for-analysis.html?lang=en) | ビデオ | Customer Journey Analyticsで[!UICONTROL データビュー]を設定する際に、定義済みのグループにまとめる数値ディメンションを設定できます。 この設定を使用すると、テーブルで使用できる項目の数を数値の範囲に制限できます。 |
+| 2021 年 5 月 | [データビューでのコンポーネント設定の指定](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/configuring-component-settings-in-data-views.html?lang=en) | ビデオ | Customer Journey Analyticsで[!UICONTROL データビュー]を設定する際に、各コンポーネント（指標とディメンション）に設定する基本的なコンポーネント設定について説明します。 |
+| 2021 年 5 月 | [データビューでの指標の形式設定](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/formatting-metrics-in-data-views.html?lang=en) | ビデオ | [!UICONTROL データビュー]設定のコンポーネント画面で指標を書式設定するためのオプションについて説明します。 このビデオでは、コンポーネントをさらに活用するのに役立つヒントもいくつか説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -305,11 +305,11 @@ Experience Manager のリリースノートはすべて次のページに記載�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021年5月 | [サイトテンプレート](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/site-template/create-site.html) | 記事 | サイト作成ウィザードを使用して新しいサイトを生成する方法を説明します。 サイトの作成、更新のオーサリングと公開、ページテンプレートの作成、および生成されたAEMサイトの参照について説明します。 **注意：** このドキュメントはプレビュー用に提供されています。クイックサイト作成機能は、2021年後半にリリースされます。 |
-| 2021年5月 | [クイックセットアップSPA EditorとリモートSPA](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/quick-setup.html) | 記事 | クイックセットアップは、WKNDアプリをインストールしてリモートSPAとして実行し、AEM SPA Editorを使用して作成する方法を示す、迅速なウォークスルーです。 |
-| 2021年5月 | [Adobe Signを使用したアダプティブフォーム](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/create-adaptive-form.html) | ビデオ | Adobe Signクラウド設定を使用するためのアダプティブフォームの作成方法を説明します。 |
-| 2021年5月 | [入力および署名のシナリオに合わせてアダプティブフォームを設定する](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/configure-form-fill-and-sign.html) | ビデオ | フォームの入力者と署名者が同じ人物であるフォームを設定する方法を説明します。 |
-| 2021年5月 | [Adobe Sign APIアプリケーションの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/create-sign-api-application.html#forms) | ビデオ | Adobe Sign上でAPIアプリケーションを作成して、Adobe Signプラットフォームと統合する方法を説明します。 |
+| 2021 年 5 月 | [サイトテンプレート](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/site-template/create-site.html) | 記事 | サイト作成ウィザードを使用して新しいサイトを生成する方法を説明します。 サイトの作成、更新のオーサリングと公開、ページテンプレートの作成、および生成されたAEMサイトの参照について説明します。 **注意：** このドキュメントはプレビュー用に提供されています。クイックサイト作成機能は、2021年後半にリリースされます。 |
+| 2021 年 5 月 | [クイックセットアップSPA EditorとリモートSPA](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/quick-setup.html) | 記事 | クイックセットアップは、WKNDアプリをインストールしてリモートSPAとして実行し、AEM SPA Editorを使用して作成する方法を示す、迅速なウォークスルーです。 |
+| 2021 年 5 月 | [Adobe Signを使用したアダプティブフォーム](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/create-adaptive-form.html) | ビデオ | Adobe Signクラウド設定を使用するためのアダプティブフォームの作成方法を説明します。 |
+| 2021 年 5 月 | [入力および署名のシナリオに合わせてアダプティブフォームを設定する](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/configure-form-fill-and-sign.html) | ビデオ | フォームの入力者と署名者が同じ人物であるフォームを設定する方法を説明します。 |
+| 2021 年 5 月 | [Adobe Sign APIアプリケーションの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/create-sign-api-application.html#forms) | ビデオ | Adobe Sign上でAPIアプリケーションを作成して、Adobe Signプラットフォームと統合する方法を説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -408,8 +408,8 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021年5月 | [埋め込み電子署名とドキュメントエクスペリエンスの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/embeddedesignature.html#develop) | 記事 | Adobe Sign APIを使用して、Webプラットフォーム、コンテンツ、ドキュメント管理システムに電子署名とドキュメントエクスペリエンスを埋め込む方法を説明します。 （4部） |
-| 2021年5月 | [Adobe Sign for Microsoft Power Platformによるドキュメントの自動化](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html#integrations) | 記事 | Microsoft Powerアプリ用のAdobe SignおよびAdobe PDF Tools Connectorsをアクティブ化して使用する方法について説明します。 コードを使用せずに、ビジネスの承認プロセスと署名プロセスを迅速かつ安全に自動化するワークフローを構築します。 （4部） |
+| 2021 年 5 月 | [埋め込み電子署名とドキュメントエクスペリエンスの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/embeddedesignature.html#develop) | 記事 | Adobe Sign APIを使用して、Webプラットフォーム、コンテンツ、ドキュメント管理システムに電子署名とドキュメントエクスペリエンスを埋め込む方法を説明します。 （4部） |
+| 2021 年 5 月 | [Adobe Sign for Microsoft Power Platformによるドキュメントの自動化](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html#integrations) | 記事 | Microsoft Powerアプリ用のAdobe SignおよびAdobe PDF Tools Connectorsをアクティブ化して使用する方法について説明します。 コードを使用せずに、ビジネスの承認プロセスと署名プロセスを迅速かつ安全に自動化するワークフローを構築します。 （4部） |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -417,7 +417,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021年5月 | [PDF オンラインエクスペリエンスの制御と分析の収集](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfembed/controlpdfexperience.html#part1) | 記事 | Adobe PDF Embed API を使用して、外観の制御、コラボレーションの有効化、ユーザーの PDF 操作に関する分析データ（ページに滞在した時間や検索に費やした時間など）の収集などを行う方法を説明します。（4部） |
+| 2021 年 5 月 | [PDF オンラインエクスペリエンスの制御と分析の収集](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfembed/controlpdfexperience.html#part1) | 記事 | Adobe PDF Embed API を使用して、外観の制御、コラボレーションの有効化、ユーザーの PDF 操作に関する分析データ（ページに滞在した時間や検索に費やした時間など）の収集などを行う方法を説明します。（4部） |
 
 {style=&quot;table-layout:auto&quot;}
 
