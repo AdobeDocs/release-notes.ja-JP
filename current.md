@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: May 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9e29b645302ecff11108f8d265a1e4ec3e06a755
+source-git-commit: 9c51e3e514064371614c7379ae7f87ff194159e8
 workflow-type: tm+mt
-source-wordcount: '5365'
+source-wordcount: '5360'
 ht-degree: 43%
 
 ---
@@ -75,7 +75,7 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 
 ### Journey Orchestration の追加リソース
 
-[ドキュメント](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) - [ハウツービデオ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/journey-orchestration/introduction.html?lang=ja)
+[ドキュメント](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=en)
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Offer Decisioning {#offer-decisioning}
 
@@ -105,7 +105,7 @@ Adobe Experience Platform を使用して、各個人のニーズをリアルタ
 | 機能 | [一般公開](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=ja) - ターゲット日 | 説明 |
 | ----------- | ---------- | ------- |
 | Workspace：以前のプロジェクトバージョン | 2021 年 5 月 20 日（PT） | Workspace プロジェクトの以前のバージョンを読み込んで、不要な変更を取り消したり、単に希望する以前のバージョンに戻したりできます。[詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/save-projects.html?lang=en#previous-version) |
-| Data WarehouseAPIリクエストで「時間」がサポートされるようになりました。 | 2021 年 5 月 20 日（PT） | Data WarehouseAPIリクエストは、リクエスト本文にパラメーター`"fuzzyDates”:false`が指定されている場合、`Y-m-d h:m:s`形式の日付をサポートします。 これにより、現在の日のData Warehouseデータをリクエストできますが、以前は、データが返される前に日を完了する必要がありました。 [詳細情報](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/reporting-api/data_warehouse.md) |
+| Data WarehouseAPIリクエストで「時間」がサポートされるようになりました。 | 2021 年 5 月 20 日（PT） | Data WarehouseAPIリクエストは、リクエスト本文にパラメーター`"fuzzyDates”:false`が指定されている場合、`Y-m-d h:m:s`形式の日付をサポートします。 この更新により、現在の日のData Warehouseデータをリクエストできますが、以前は、データが返される前に日を完了する必要がありました。 [詳細情報](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/reporting-api/data_warehouse.md) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -133,7 +133,7 @@ AN-240821;AN-243625;AN-243958;AN-248728;AN-249877;AN-250151;AN-251273;AN-251334;
 | ----------- | ---------- | ---------- |
 | ブラウザーユーザーエージェントがmacOSの誤ったオペレーティングシステムバージョンを反映する | 2021 年 5 月 19 日（PT） | 現在、すべての主要なブラウザーでは、macOS X 11以降のユーザーがmacOS 10を使用していると誤って報告されています。これは、ブラウザーのユーザーエージェント文字列に記録されています。 この問題は、Adobe Analyticsのレポートに影響します。オペレーティングシステムなどのデバイス情報を決定する際にユーザーエージェントが使用されるからです。 この不正確さは、一部のWebサイトの互換性の問題を防ぐために行われているようです。 参考に[Bugzilla ticket](https://bugs.webkit.org/show_bug.cgi?id=213622&amp;utm_source=convertkit&amp;utm_medium=email&amp;utm_campaign=User+Agent+strings%2C+new+BigQuery+features%2C+custom+Google+Tag+Manager+loader...+%E2%80%93+Simmer+Newsletter+%2311%20-%205873454)を参照してください。 この問題がいつ修正されるか、または修正されるかは不明です。<br>一部のブラウザーでは、最初はmacOS 11が正しく記録されていたので、この値と一致するトラフィックが一部発生する可能性があります。ただし、レポートが不正確なため、オペレーティングシステムmacOS 11用のフィルタリングは役に立ちません。<br>この問題は、macOS 11上のSafari以降、AppleがCNAME実装に適用するためにITP Cookieの有効期限制限を更新したので、重要です( [WebKitのブログ投稿](https://webkit.org/blog/11338/cname-cloaking-and-bounce-tracking-defense/)を参照)。<br>この更新前は、これらの制限はJavaScriptを使用して設定されたクライアント側Cookieにのみ適用されていました。この不正確さにより、OS 11を使用しているトラフィックの量を評価するのが困難になり、ITPの変更の影響を受けます。 CookieとAdobe Analyticsの[について詳しくは、](https://experienceleague.adobe.com/docs/analytics/technotes/cookies/cookies.html#cookies)を参照してください。 |
 | 3 つの Analytics API サービスの提供終了 | 2021 年 5 月 19 日（PT） | 2021年8月19日に、次のAnalyticsレガシーAPIサービスが提供終了日になり、シャットダウンされました。 これらのサービスを使用して構築された現在の統合は、その日に機能しなくなりました。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>Adobeは、質問に答え、進め方に関するガイダンスを提供するために、[従来のAPI EOLに関するFAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email)を提供しています。 これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API のどちらにアクセスする場合にも使用できます。 |
-| 2021年ISO地域の更新 | 2021 年 5 月 13 日（PT） | Adobeは、2021年5月21日にISO地域の更新を実行します。 このリリース以降、マイナーアップデートが発生する可能性があります。 |
+| 2021年ISO地域の更新 | 2021 年 5 月 13 日（PT） | Adobeは、2021年5月21日にISO地域の更新を実行します。 このリリース以降、マイナーアップデートがおこなわれることを想定しています。 |
 | フル処理データソースののサポート終了 | 2021 年 4 月 12 日（PT） | アドビは、2021 年 7 月 31 日（PT）にフル処理データソースを非推奨にする予定です。 2021 年 3 月 25 日（PT）現在、このタイプの新規インポートは作成できなくなっています。 このタイプのデータをインポートするには、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を使用してください。 |
 | ログインして [!UICONTROL Report Builder] をアップデート | 2021 年 4 月 9 日（PT） | 2021 年 1 月 14 日（PT）、[!UICONTROL Report Builder] のサインインの更新により、従来のテクノロジーへの依存がなくなり、Experience Cloud のサインインプロセスと連携できるようになりました。Experience Cloud は Enterprise ID（電子メールとパスワード）を使用します。[!UICONTROL Report Builder] へのアクセスが中断されないようにするには、2021 年 7 月 22 日（PT）までに [!UICONTROL Report Builder] アドインをバージョン 5.6.47 以降にアップデートしてください。Report Builder バージョン 5.6.47 以降では、Experience Cloud のサインインのみをサポートし、シングルサインオンはサポートしません。 |
 | データフィードと Data Warehouse の IP アドレスの変更 | 2021 年 4 月 6 日（PT） | 6 月 17 日（PT）より、アドビのデータセンター内でデータフィードおよび Data Warehouse 配信システムの再配置が行われます。そのため、表示される外部 IP アドレスが変更される可能性があります。レポートおよびフィードが提供されるデータセンターのすべての IP CIDR ブロックが、制御する宛先システムのファイアウォール内に存在することを確認しておくことを推奨します。 [以下に、ファイアウォールのに配置するIPアドレス範囲の完全なリストを示し許可リストます](https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html?lang=ja#data-collection-and-ftp-ip-address-blocks)。 |
@@ -361,10 +361,10 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 [!DNL Adobe Advertising]のリリースノート。
 
-* [Advertising Cloud DSP の新機能](#adcloud-dsp)
-* [Advertising Cloud Search の新機能](#adcloud-search)
+* [Advertising DSP の新機能](#adcloud-dsp)
+* [Advertising Search の新機能](#adcloud-search)
 
-### [!DNL Advertising Cloud DSP] の新機能 {#adcloud-dsp}
+### [!DNL Advertising DSP] の新機能 {#adcloud-dsp}
 
 最終更新日：**2021年5月19日（5月5日リリース向け）**
 
@@ -374,13 +374,13 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 {style=&quot;table-layout:auto&quot;}
 
-### [!DNL Advertising Cloud Search] の新機能 {#adcloud-search}
+### [!DNL Advertising Search] の新機能 {#adcloud-search}
 
 最終更新日：**2021年5月19日（5月18日リリース用）**
 
 | 機能 | 説明 |
 | -----------| ---------- |
-| [!UICONTROL 通知センターベータ版] | [!UICONTROL Notification Center Beta]は、すべてのユーザーが利用できます。 アカウント認証エラー、トリガーされるカスタムアラート、および生成する[!UICONTROL Advertising Insights]の完了に関する電子メールおよびWeb通知をサブスクライブして使用します。<br>通知は、次のいずれかから表示できます。<ul><li>[!UICONTROL 通知]パネル。ページの右上にある「通知」リンクから開きます。</li><li>[!UICONTROL インサイトとレポート/Notification Center Beta]の[!UICONTROL Notification Center]。</li></ul><br><b>注意：</b> 通知の保存方法が改善されたので、既存の通知はすべて消去されました。 |
+| [!UICONTROL 通知センターベータ版] | [!UICONTROL Notification Center Beta]は、すべてのユーザーが利用できます。 アカウント認証エラー、トリガーされるカスタムアラート、および生成する[!UICONTROL Advertising Insights]の完了に関する電子メールおよびWeb通知をサブスクライブします。<br>通知は、次のいずれかから表示できます。<ul><li>[!UICONTROL 通知]パネル。ページの右上にある「通知」リンクから開きます。</li><li>[!UICONTROL インサイトとレポート/Notification Center Beta]の[!UICONTROL Notification Center]。</li></ul><br><b>注意：</b> 通知の保存方法が改善されたので、既存の通知はすべて消去されました。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -409,7 +409,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2021 年 5 月 | [埋め込み電子署名とドキュメントエクスペリエンスの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/embeddedesignature.html#develop) | 記事 | Adobe Sign APIを使用して、Webプラットフォーム、コンテンツ、ドキュメント管理システムに電子署名とドキュメントエクスペリエンスを埋め込む方法を説明します。 （4部） |
-| 2021 年 5 月 | [Adobe Sign for Microsoft Power Platformによるドキュメントの自動化](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html#integrations) | 記事 | Microsoft Powerアプリ用のAdobe SignおよびAdobe PDF Tools Connectorsをアクティブ化して使用する方法について説明します。 コードを使用せずに、ビジネスの承認プロセスと署名プロセスを迅速かつ安全に自動化するワークフローを構築します。 （4部） |
+| 2021 年 5 月 | [Adobe Sign for Microsoft® Power Platformによるドキュメントの自動化](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html) | 記事 | Microsoft® Powerアプリ用のAdobe SignおよびAdobe PDF Tools Connectorsをアクティブ化して使用する方法について説明します。 コードを使用せずに、ビジネスの承認プロセスと署名プロセスを迅速かつ安全に自動化するワークフローを構築します。 （4部） |
 
 {style=&quot;table-layout:auto&quot;}
 
