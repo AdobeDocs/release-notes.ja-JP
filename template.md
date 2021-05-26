@@ -4,10 +4,9 @@ description: Experience Cloud リリースノート
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-translation-type: tm+mt
-source-git-commit: 4cad20ae0aa6d4a6e9776aa7861e2ba3b39f9e6b
+source-git-commit: 48000898226fa1d926948dedc64610cee0bc7f65
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1344'
 ht-degree: 99%
 
 ---
@@ -30,14 +29,14 @@ Adobe Experience Cloud の新機能および修正点です。
 **リリース日：2020 年**
 
 * [Adobe システムステータス](#status)
-* [Experience Cloud インターフェイス](#ecloud)
+* [Experience Cloud インターフェイス ](#ecloud)
 * [Experience Platform](#platform)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
-* [Experience Manager](#aem)
+* [Adobe Experience Manager](#aem)
 * [Campaign](#ac)
 * [Target](https://docs.adobe.com/content/help/ja-JP/target/using/release-notes/target-release-notes.html)（ソリューションヘルプへのリンク）
-* [Advertising Cloud](#adcloud)
+* [広告](#adcloud)
 * [Magento](#magento)
 * [Marketo](#marketo)
 * [Primetime](https://helpx.adobe.com/jp/primetime/user-guide.html)（ソリューションヘルプへのリンク）
@@ -77,7 +76,7 @@ Experience Cloud インターフェイスの新機能および修正点です。
 * [Experience Cloud ID サービス](#ecid)
 * [Experience Platform リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
-* [ジャーニーオーケストレーション](#journey)
+* [Journey Orchestration](#journey)
 * [Mobile Services および Mobile SDK](#mobile)
 * [セキュリティ速報および情報](https://helpx.adobe.com/jp/security.html)（すべてのアドビ製品）
 
@@ -189,7 +188,7 @@ Adobe Analytics の新機能および修正点です。
 * 修正
 * 修正
 
-## Experience Manager {#aem}
+## Adobe Experience Manager {#aem}
 
 Adobe Experience Manager（AEM）の新機能、修正点および更新です。安定性、セキュリティ、パフォーマンスを高めるために、オンプレミス環境のお客様には最新のパッチをデプロイすることをお勧めします。
 
@@ -260,7 +259,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 * 修正
 * 修正
 
-## Campaign {#ac}
+## キャンペーン {#ac}
 
 Adobe Campaign は、オンラインおよびオフラインのマーケティングチャネルにわたって 1 対 1 のメッセージを届けるために直感的で自動化された方法を提供します。顧客の習慣や好みによって特定されたエクスペリエンスを利用して、顧客が欲しいものを予測できるようになりました。
 
@@ -270,7 +269,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 * Adobe Campaign Classic：[ドキュメント](https://helpx.adobe.com/jp/support/campaign/classic.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/campaign-classic/using/release-notes/latest-release.html) - [ハウツービデオ](https://docs.adobe.com/content/help/ja-JP/campaign-learn/campaign-classic-tutorials/overview.html)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://docs.adobe.com/content/help/ja-JP/control-panel/using/control-panel-home.html) - [リリースノート](https://docs.adobe.com/content/help/ja-JP/control-panel/using/release-notes.html)
 
-## Advertising Cloud {#adcloud}
+## 広告 {#adcloud}
 
 | 機能 | 説明 |
 | ------- | ------- |
