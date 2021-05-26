@@ -5,9 +5,9 @@ user-guide-title: Adobe Experience Cloud リリースノート
 breadcrumb-title: リリースノート
 user-guide-description: Adobe Experience Cloud および Experience Platform の新機能、修正点、重要な注意事項について説明します。
 user-guide-url: https://www.adobe.com
-source-git-commit: 49fd5b10ffc4798ddd4b14b89440a4d6b7daf530
+source-git-commit: ec65b571a62c7bc87f40ddf5d79d35e98587c0db
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '55'
 ht-degree: 100%
 
 ---
@@ -34,17 +34,5 @@ ht-degree: 100%
       + [2020 年 3 月](c-legacy-releases/2020/03122020.md)
       + [2020 年 2 月](c-legacy-releases/2020/02202020.md)
       + [2020 年 1 月](c-legacy-releases/2020/01162020.md)
-   + 2019 {#2019}
-      + [2019 年 11 月](c-legacy-releases/2019/10312019.md)
-      + [2019 年 10 月](c-legacy-releases/2019/10102019.md)
-      + [2019 年 9 月](c-legacy-releases/2019/09122019.md)
-      + [2019 年 8 月](c-legacy-releases/2019/08082019.md)
-      + [2019 年 7 月](c-legacy-releases/2019/07182019.md)
-      + [2019 年 6 月](c-legacy-releases/2019/06132019.md)
-      + [2019 年 5 月](c-legacy-releases/2019/05092019.md)
-      + [2019 年 4 月](c-legacy-releases/2019/04112019.md)
-      + [2019 年 3 月](c-legacy-releases/2019/03072019.md)
-      + [2019 年 2 月](c-legacy-releases/2019/02072019.md)
-      + [2019 年 1 月](c-legacy-releases/2019/01172019.md)
-   + 2018 年以前 {#legacy-rns}
-      + [2018 年以前](c-legacy-releases/2018-earlier.md)
+   + 2019 年以前 {#legacy-rns}
+      + [2019 年以前](c-legacy-releases/2019-earlier.md)
