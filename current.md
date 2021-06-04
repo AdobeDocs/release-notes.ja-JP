@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: May 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9c51e3e514064371614c7379ae7f87ff194159e8
+source-git-commit: 710ca78745979b414c4299ff20561b07bc698478
 workflow-type: tm+mt
 source-wordcount: '5360'
 ht-degree: 94%
@@ -160,7 +160,7 @@ AppMeasurement リリースの最新の更新については、[AppMeasurement f
 | 2021 年 5 月 | [Adobe Analytics のカレンダー設定のカスタマイズ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/customize-calendar-settings.html?lang=ja#administration) | ビデオ | ヒントとテクニックのほか、Adobe Analytics におけるカレンダーのカスタマイズの仕組みについて説明します。 |
 | 2021 年 5 月 | [データビューでの「値なし」オプションの設定](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/configure-no-value-options-in-data-views.html?lang=ja) | ビデオ | Customer Journey Analytics の[!UICONTROL データビュー]の設定時に、_値なし_&#x200B;の結果をレポートに表示するかどうかを選択し、値の名前の表示方法を変更できます。 |
 | 2021 年 5 月 | [データビューへの指標値の包含または除外](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/include-or-exclude-metric-values-in-data-views.html?lang=ja) | ビデオ | 他の指標のサブセットである新しい指標の作成と設定の方法、およびこれが[!UICONTROL データビュー]の強力な分析ツールとなり得るユースケースについて説明します。 |
-| 2021 年 5 月 | [データビューへのディメンション値の包含または除外](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/include-or-exclude-dimension-values-in-data-views.html?lang=en) | ビデオ | この[!UICONTROL データビュー]設定機能を使用すると、ディメンションの値をフィルタリングして、Customer Journey Analytics でプロジェクトを作成する場合に分析担当者の負担を減らすことができます。 |
+| 2021 年 5 月 | [データビューへのディメンション値の包含または除外](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/include-or-exclude-dimension-values-in-data-views.html?lang=ja) | ビデオ | この[!UICONTROL データビュー]設定機能を使用すると、ディメンションの値をフィルタリングして、Customer Journey Analytics でプロジェクトを作成する場合に分析担当者の負担を減らすことができます。 |
 | 2021 年 5 月 | [データビューのアトリビューション設定](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/attribution-settings-in-data-views.html?lang=ja) | ビデオ | コンバージョンクレジットを受け取る値を決定するのに役立つディメンション配分設定と、有効期限設定（値が持続する期間）について説明します。このビデオでは、これらの重要な設定などを順を追って説明します。 |
 | 2021 年 5 月 | [データビューでの分析用の値グループの作成](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/creating-value-buckets-in-data-views-for-analysis.html?lang=en) | ビデオ | Customer Journey Analytics で[!UICONTROL データビュー]を設定する際に、定義済みのグループにまとめる数値ディメンションを設定できます。この設定を使用すると、テーブルで使用できる項目の数を数値の範囲に制限できます。 |
 | 2021 年 5 月 | [データビューでのコンポーネント設定の指定](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/configuring-component-settings-in-data-views.html?lang=en) | ビデオ | Customer Journey Analytics で[!UICONTROL データビュー]を設定する際に、コンポーネント（指標とディメンション）ごとに設定する基本的なコンポーネント設定について説明します。 |
@@ -409,7 +409,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2021 年 5 月 | [埋め込み電子サインおよびドキュメントエクスペリエンスの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/embeddedesignature.html?lang=ja#develop) | 記事 | Adobe Sign API を使用して、ｗeb プラットフォームとコンテンツおよびドキュメント管理システムに電子サインおよびドキュメントエクスペリエンスを埋め込む方法を説明します。（4 部） |
-| 2021 年 5 月 | [Adobe Sign for Microsoft® Power Platformによるドキュメントの自動化](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html) | 記事 | Microsoft® Powerアプリ用のAdobe SignおよびAdobe PDF Tools Connectorsをアクティブ化して使用する方法について説明します。 コードを使用せずに、ビジネスの承認プロセスと署名プロセスを迅速かつ安全に自動化するワークフローを構築します。（4 部） |
+| 2021 年 5 月 | [Adobe Sign for Microsoft® Power Platformによるドキュメントの自動化](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html) | 記事 | Microsoft® Powerアプリ用のAdobe SignおよびAdobe PDF Tools Connectorsをアクティブ化して使用する方法について説明します。 コードを使用せずに、ビジネスの承認プロセスと署名プロセスを迅速かつ安全に自動化するワークフローを構築します。（4 部） |
 
 {style=&quot;table-layout:auto&quot;}
 
