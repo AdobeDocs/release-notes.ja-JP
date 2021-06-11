@@ -2,17 +2,17 @@
 title: Adobe Experience Cloud リリースノート
 description: Experience Cloud リリースノート
 doc-type: release notes
-last-update: March 2020
+last-update: June 2021
 author: mfrei
-source-git-commit: e01e0ceec2a3aec43f7a64b7c2f3fb9e24b76cc9
+source-git-commit: 918c6cb27c16972d16d4da7f283fa790d14ac51d
 workflow-type: tm+mt
 source-wordcount: '1344'
-ht-degree: 79%
+ht-degree: 81%
 
 ---
 
 
-# テンプレート - Adobe Experience Cloud リリースノート — 2020 年 ○ 月
+# テンプレート - Adobe Experience Cloud リリースノート — 2021 年 ○ 月
 
 ![バナー](/assets/experience-cloud-banner-3.png)
 
@@ -26,7 +26,7 @@ Adobe Experience Cloud の新機能および修正点です。
 >
 >[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。リリース後に発表された新情報には、更新の日付が明記されます。
 
-**リリース日：2020 年**
+**リリース日：2021 年**
 
 * [Adobe システムステータス](#status)
 * [Experience Cloud インターフェイス ](#ecloud)
@@ -96,7 +96,7 @@ Adobe [!UICONTROL Experience Platform] を使用すると、ジャーニーの�
 
 #### [!UICONTROL Journey Orchestration] の追加リソース
 
-[ドキュメント](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=en)
+[ドキュメント](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ja)
 
 ### [!UICONTROL Mobile Services] および [!UICONTROL Mobile SDK] {#mobile}
 
@@ -223,7 +223,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 * [AEM 6.4 ラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=ja)
 * [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-3.html)
-* [AEM 6.2 ラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)
+* [AEM 6.2 ラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja)
 * [Cloud Manager ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=ja)
 * [AEM ドキュメントの以前のバージョン](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja)
 * [Scene7 Publishing System リリースノート](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=ja)
