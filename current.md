@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: June 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 22f12b5bc45f0ed2c191c395c55314e646a330f2
+source-git-commit: 8adc3fe8f3f4b174d1c41cc7c3162d38a984d661
 workflow-type: tm+mt
 source-wordcount: '5062'
 ht-degree: 50%
@@ -413,7 +413,7 @@ Document Cloud ヘルプについては、以下を参照してください。
 ## ![アイコン](/assets/creative-cloud-24.png) Creative Cloud エンタープライズ版 {#creative-cloud}
 
 | 公開日 | 名前 | タイプ | 説明 |
-| -----------| ---------- | ---------- | ---------- |
+| ----------| --------- | --------- | --------- |
 | 2021 年 6 月 | [iPad（およびiPhone）のFrescoを使ってみてください](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/frescoworkshop.html) | ビデオ | 15分間の実写ワークショップで、Adobe Frescoとのデジタル・ドローイングと絵画の世界を新たに見る。 ペイントとテクスチャをベースシェイプに合わせるために、レイヤとクリッピングマスクを使用する方法を簡単に学びます。 |
 | 2021 年 6 月 | [グラフィック形式のアルファベットスープのデコード](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/alphabetsoup.html) | ビデオ | PG、PNG、SVG、GIF、EPSファイルは、すべてデザインでよく使用され、一部はWebページ、その他はプレゼンテーション、パブリケーション、クリエイティブプロジェクトで使用されます。 でも…どういう意味で、どっちを選ぶべきか？ この15分間の実践ワークショップで見つけます。 |
 
