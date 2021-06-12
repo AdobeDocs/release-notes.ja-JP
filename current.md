@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3d7d30975cb241633f0d847a6b7689134bb56749
+source-git-commit: 22f12b5bc45f0ed2c191c395c55314e646a330f2
 workflow-type: tm+mt
-source-wordcount: '5019'
-ht-degree: 51%
+source-wordcount: '5062'
+ht-degree: 50%
 
 ---
 
@@ -29,11 +29,11 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [Analytics](#analytics) および [Customer Journey Analytics](#cust-journey)
-* [Audience Manager](#aam)
-* [Adobe Experience Manager](#aem)
-* [Campaign](#ac)
-* [広告](#adcloud)
+* [[!DNL Analytics]](#analytics) と [Customer Journey Analytics](#cust-journey)
+* [[!DNL Audience Manager]](#aam)
+* [[!DNL Experience Manager]](#aem)
+* [[!DNL Campaign]](#ac)
+* [[!DNL Advertising]](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
@@ -45,7 +45,7 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 
 ## ![](/assets/ec_appicon_24.png) IconExperience Cloud中央UIコンポーネント {#ecloud}
 
-Experience Cloud中央インターフェイスコンポーネントには、セルフヘルプ、検索、およびユーザーアカウントの環境設定の更新が含まれています。 また、統合インターフェイスヘッダーからアクセスする、顧客属性やオーディエンスライブラリなどのクロスアプリケーション機能およびサービスに対する更新も含まれます。
+Experience Cloud中央インターフェイスコンポーネントには、セルフヘルプ、検索、ユーザーアカウントの環境設定など、統合製品ヘッダーからアクセスするための更新が含まれています。 人、場所（場所）、製品管理の更新については、こちらを参照してください。
 
 | 機能 | 日付 | 説明 |
 | ------- | ------- | ------- |
@@ -54,6 +54,11 @@ Experience Cloud中央インターフェイスコンポーネントには、セ�
 
 {style=&quot;table-layout:auto&quot;}
 
+**その他のヘルプリソース**
+
+* [中央インターフェイスコンポーネント](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)およびユーザー管理の管理ヘルプ
+* [Places - Location Service](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=en)のヘルプとリリースノート
+* [People — 顧客属性とオーディエンスライブラリ](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en)に関するヘルプ
 これらの機能に関する製品ドキュメントについては、[Experience Cloud中央インターフェイスコンポーネント](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)を参照してください。
 
 ## ![アイコン](/assets/adobe.png) Adobe システムステータス {#status}
@@ -267,12 +272,12 @@ Experience Manager のリリースノートはすべて次のページに記載�
 
 * [Adobe Experience Manager as a Cloud Service リリース情報](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=en)
 * [Experience Manager Cloud Manager リリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=ja)
-* [自動フォーム変換サービスリリースノート](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=ja)
+* [自動フォーム変換サービスリリースノート](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
 * [Experience Manager 6.5 Service Pack リリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
 * [Experience Manager 6.4 累積修正パックリリースノート](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ja)
 * [Experience Manager Assets Dynamic Media リリースノート](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=ja)
 * [Experience Manager Brand Portal リリースノート](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=ja)
-* [Experience Manager デスクトップアプリケーションリリースノート](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=ja)
+* [Experience Manager デスクトップアプリケーションリリースノート](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=en)
 * [Experience Manager Dispatcher リリースノート](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=ja)
 * [Livefyre リリースノート](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=ja)
 
@@ -336,7 +341,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 * Adobe Campaign Standard：[ヘルプセンター](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja) - [リリース計画](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=ja) - [最新ドキュメントの更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ja)
 * Adobe Campaign Classic：[ヘルプセンター](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja) - [最新ドキュメントの更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ja)
-* Adobe Campaign コントロールパネル：[ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ja) - [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ja) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ja) のハウツービデオ
+* Adobe Campaign コントロールパネル：[ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en) - [リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en) - [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ja) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ja) のハウツービデオ
 
 ## ![アイコン](/assets/advertising-cloud.png) 広告 {#adcloud}
 
