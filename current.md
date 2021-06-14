@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 42bcb928d8eb34cc13017dab09f8490a673368a5
+source-git-commit: 823476f3b4553a0bd9aae8670652bec1259cd84f
 workflow-type: tm+mt
-source-wordcount: '4910'
+source-wordcount: '4914'
 ht-degree: 52%
 
 ---
@@ -213,16 +213,16 @@ Audience Manager の修正点と改善点。
 >
 >[Experience Manager リリースのアップデートとロードマップ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ja)ページにアクセスして、リリース情報に関する最新情報を入手することをお勧めします。
 
-### AEM製品アップデート
+### Experience Manager製品のアップデート
 
 * **Experience Manager 6.5.9.0**
 
-   2021年5月28日にリリースされたAEM 6.5 Service Pack 9.0(6.5.9.0)は重要なアップデートであり、2019年4月のAEM 6.5の一般リリース以降にリリースされた、お客様からリクエストされた主な機能強化、パフォーマンス、安定性、セキュリティが含まれています。
+   2021年5月28日にリリースされたExperience Manager6.5 Service Pack 9.0(6.5.9.0)は重要なアップデートであり、2019年4月のAEM 6.5の一般リリース以降にリリースされた新機能、お客様からリクエストされた主な機能強化、パフォーマンス、安定性、セキュリティが含まれています。
 
    * [リリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja)
    * [AEM Forms リリース成果物](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html?lang=en)
 
-### AEM製品リリース
+### Experience Manager製品リリース
 
 * **Experience Manager as a Cloud Service**
 
@@ -251,7 +251,7 @@ Audience Manager の修正点と改善点。
 
 
 
-### **AEMコミュニティ**
+### **Experience Manager**
 
 * [ワンストップショップ(全Experience Managerブログ)](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/bd-p/adobe-experience-manager-discussions)
 
