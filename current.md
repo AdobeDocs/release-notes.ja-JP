@@ -6,10 +6,10 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 26fb9b46a6cf48db7cd98a75439f35a98e342898
+source-git-commit: 42bcb928d8eb34cc13017dab09f8490a673368a5
 workflow-type: tm+mt
-source-wordcount: '5042'
-ht-degree: 51%
+source-wordcount: '4910'
+ht-degree: 52%
 
 ---
 
@@ -235,15 +235,9 @@ Audience Manager の修正点と改善点。
       * [Experience Manageras aCloud ServiceSDK Build Analyzer Mavenプラグイン](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/build-analyzer-maven-plugin.html?lang=en):Mavenプロジェクトを最新バージョンに更新します。これには、非推奨のJava™ APIチェックおよびその他の改善が含まれます。
    * **Experience Manager Sites as a Cloud Service**
 
-      * **GraphQLエンドポイント：** 個々のExperience Managerサイト設定に対してExperience ManagerGraphQL APIを有効にし、新しいGraphQLコンソールUIを使用して、これらの設定用のカスタムGraphQLエンドポイントを作成できるようになりました。また、ユーザーインターフェイスを使用して GraphQL エンドポイントを管理することもできます。
-      * **コンテンツモデル、日付と時刻のデータタイプの強化：** 日付と時刻のデータタイプを設定して、日付、時間、日時の情報のみをオーサリングできるようになりました。
-      * **コンテンツモデル、タグデータタイプの強化：** タグデータタイプを設定して、1つまたは複数のタグのオーサリングを許可できるようになりました。
-      * **コンテンツモデル、新しいタブプレースホルダーデータタイプ：** 新しいタブプレースホルダーデータタイプを使用すると、コンテンツフラグメントエディターのタブの下にレンダリングされるセクションにデータタイプをグループ化できます。
+      新しい[プレビュー層](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=en)でコンテンツを検証して、パブリッシュ層と同じように、最終的なエクスペリエンスのルックアンドフィールをシミュレートできるようになりました。 この新しい機能は、Experience Managerサイトの公開管理ウィザードで有効になります。このウィザードでは、[!UICONTROL 公開]または[!UICONTROL プレビュー]のどちらかの公開先を選択できます。 [!UICONTROL プレビュー]上のエクスペリエンスは、専用のURLを使用してアクセスできます。 [!UICONTROL プレビュー]での検証後、通常どおり、[!UICONTROL 作成者]から[!UICONTROL 発行]にコンテンツを発行できます。 Experience Manager環境としてのCloud Serviceで[!UICONTROL プレビュー]サービスを有効にする作業は、今後数週間で徐々に実施されます。
+
    * **Experience Manager Assets as a Cloud Service**
-
-      新しい[プレビュー層](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=en)でコンテンツを検証して、パブリッシュ層と同じように、最終的なエクスペリエンスのルックアンドフィールをシミュレートできるようになりました。 この新しい機能は、Experience Managerサイトの公開管理ウィザードで有効になります。このウィザードでは、[!UICONTROL 公開]または[!UICONTROL プレビュー]のどちらかの公開先を選択できます。 [!UICONTROL プレビュー]上のエクスペリエンスは、専用のURLを使用してアクセスできます。 [!UICONTROL プレビュー]での検証後、通常どおり、[!UICONTROL 作成者]から[!UICONTROL 公開]にコンテンツを公開できます。 Experience Manager環境で[!UICONTROL プレビュー]サービスを有効にすると、今後数週間で徐々に展開が始まります。
-
-   * **Experience ManagerAssets as aCloud Service**
 
       プレリリースチャネルの新機能：
 
@@ -254,7 +248,6 @@ Audience Manager の修正点と改善点。
       [!UICONTROL Dynamic Media]の新機能：
 
       * スマートイメージングデバイスのピクセル比(DPR)とネットワーク帯域幅の最適化により、高解像度ディスプレイを搭載し、ネットワーク帯域幅が制限されたデバイス上で、最高品質の画像を効率的に配信できます。 [スマートイメージングのFAQ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/imaging-faq.html?lang=en)を参照してください。
-
 
 
 
