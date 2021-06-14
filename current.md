@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: June 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8adc3fe8f3f4b174d1c41cc7c3162d38a984d661
+source-git-commit: d45e7c6a5329d4e6a211edaeb607547bfb297e4e
 workflow-type: tm+mt
-source-wordcount: '5062'
-ht-degree: 50%
+source-wordcount: '5042'
+ht-degree: 51%
 
 ---
 
@@ -58,8 +58,7 @@ Experience Cloud中央インターフェイスコンポーネントには、セ�
 
 * [中央インターフェイスコンポーネント](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)およびユーザー管理の管理ヘルプ
 * [Places - Location Service](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=en)のヘルプとリリースノート
-* [People — 顧客属性とオーディエンスライブラリ](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en)に関するヘルプ
-これらの機能に関する製品ドキュメントについては、[Experience Cloud中央インターフェイスコンポーネント](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)を参照してください。
+* [People — 顧客属性とオーディエンスライブラリ](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en)に関するヘルプ。
 
 ## ![アイコン](/assets/adobe.png) Adobe システムステータス {#status}
 
