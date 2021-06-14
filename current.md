@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e198a57703d4be29e32e9b2919af157858651d74
+source-git-commit: c6aea555356863f7674dcda54fad19ea31394775
 workflow-type: tm+mt
-source-wordcount: '4926'
+source-wordcount: '4930'
 ht-degree: 52%
 
 ---
@@ -51,7 +51,7 @@ Experience Cloud中央インターフェイスコンポーネントには、セ�
 | 機能 | 日付 | 説明 |
 | ------- | ------- | ------- |
 | AdobeFederated IDのシングルサインオンのサポート | 2021 年 6 月 17 日 | Federated IDを使用する場合、電子メールアドレスやパスワードを入力しなくても、Experience Cloudにログインできます。 この機能を使用するには、Experience CloudURLに&#x200B;**#/sso:@domain**&#x200B;を追加します。 <br><br>例えば、自分がadobecustomer.commandドメインを所有して **いて、Adobe Analyticsにサインインするとしま** す。URLは次のようになります。**https://experience.adobe.com/#/sso:@adobecustomer.com/analytics**. |
-| Experience League Search | 2021 年 6 月 1 日 | Experience Leagueドキュメントの検索が改善されました。 [Experience League](https://experienceleague.adobe.com/docs/?lang=en)に移動し、**[!UICONTROL 検索]**&#x200B;フィールドを使用して、チュートリアル、ドキュメント、コースなどを検索します。 |
+| Experience League検索 | 2021 年 6 月 1 日 | Experience Leagueドキュメントの検索が改善されました。 [Experience League](https://experienceleague.adobe.com/docs/?lang=en)に移動し、**[!UICONTROL 検索]**&#x200B;フィールドを使用して、チュートリアル、ドキュメント、コースなどを検索します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -89,7 +89,7 @@ Experience Platform およびサービス用に公開された新しいビデオ
 | 2021 年 6 月 | [データタイプの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-data-types.html) | ビデオ | Adobe Experience Platformでエクスペリエンスデータモデル(XDM)スキーマで使用する独自のデータタイプを作成する方法を説明します。 |
 | 2021 年 6 月 | [データモデルをエクスペリエンスデータモデルに変換する](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/convert-your-data-model-to-xdm.html) | ビデオ | データアーキテクトが既存のトランザクションデータモデルを取得し、エクスペリエンスデータモデルに変換する方法を説明します。 このビデオでは、エンティティ関係図を使用したモデリングアプローチの違いを示します。 |
 | 2021 年 6 月 | [データモデルの計画](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/plan-your-data-model.html) | ビデオ | Adobe Experience Platformでスキーマの作成を開始する前におこなうべきことを説明します。 ビジネスの使用例を文書化し、Platformライセンスを理解し、製品ガードレールを把握し、データモデルを最終処理する前に取り込むデータを特定します。 |
-| 2021 年 6 月 | [Tableau](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html) | ビデオ | `PostgreSQL`プロトコルをサポートする様々なデスクトップクライアントアプリケーションから[!UICONTROL クエリサービス]に接続する方法と、`PostgreSQL`ツールとドライバを使用してクエリを接続し、書き込む方法について説明します。 |
+| 2021 年 6 月 | [Tableauをクエリサービスに接続](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html) | ビデオ | `PostgreSQL`プロトコルをサポートする様々なデスクトップクライアントアプリケーションから[!UICONTROL クエリサービス]に接続する方法と、`PostgreSQL`ツールとドライバを使用してクエリを接続し、書き込む方法について説明します。 |
 | 2021 年 6 月 | [Adobe定義関数](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/adobe-defined-functions.html) | ビデオ | Adobe Experience Platform [!UICONTROL クエリサービス]のAdobe定義関数を使用して、エクスペリエンスイベントデータに対して一般的なビジネス関連タスクを実行する方法を説明します。 |
 | 2021 年 6 月 | [データの調査](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/explore-data.html) | ビデオ | SQL関数を使用して、取り込んだデータを検証し、データをプレビューし、データの統計的および分析的プロパティを調べる方法について説明します。 |
 | 2021 年 6 月 | [クエリサービスの概要](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/understanding-query-service.html) | ビデオ | Adobe Experience Platformのクエリサービスと、それが顧客の行動を理解し、効果的なインサイトを生み出すのにどのように役立つかについて説明します。 |
@@ -257,7 +257,7 @@ Audience Manager の修正点と改善点。
 
 * [新しいアイデアの送信に関するExperience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/guidelines-for-submitting-a-new-experience-manager-aem-idea/td-p/382376)
 
-* [Adobeサミット2021ダン・レビーとスニーク](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-sneaks-with-dan-levy/td-p/405865):年に1回、エンジニアやデータサイエンティストからUXデザイナーや製品マネージャーまで、すべてのAdobe従業員が、ブランドが顧客とやり取りする方法を発展させる革新的なアイデアを共有する機会を得ます。Adobeスニークに参加しましょう。ここでは、AIやローコードアプリなどの最新のテクノロジーを活用して、上位7つのプロジェクトを共有します。
+* [Adobe Summit2021ダン・レビーとスニーク](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-sneaks-with-dan-levy/td-p/405865):年に1回、エンジニアやデータサイエンティストからUXデザイナーや製品マネージャーまで、すべてのAdobe従業員が、ブランドが顧客とやり取りする方法を発展させる革新的なアイデアを共有する機会を得ます。Adobeスニークに参加しましょう。ここでは、AIやローコードアプリなどの最新のテクノロジーを活用して、上位7つのプロジェクトを共有します。
 
 ### Experience Manager リリース情報
 
