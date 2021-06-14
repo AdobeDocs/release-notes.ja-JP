@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 823476f3b4553a0bd9aae8670652bec1259cd84f
+source-git-commit: b0ad7a5c45760fba6a1a4e7e0f6dbbedbef93355
 workflow-type: tm+mt
-source-wordcount: '4914'
+source-wordcount: '4913'
 ht-degree: 52%
 
 ---
@@ -23,7 +23,7 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最新の更新：**2021年6月11日**
+最新の更新：**2021年6月14日**
 
 * [Experience Cloud の主要なインターフェイスコンポーネント](#ecloud)
 * [Adobe システムステータス](#status)
@@ -311,11 +311,11 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 リリースされた最新の機能、機能強化、修正について詳しくは、以下を参照してください。
 
-* **新しいAdobe Campaign v8** （インフラストラクチャ、セキュリティ、配信品質、監視の大幅な強化）。Adobe Campaignは、クラウドデータベーステクノロジーである[!DNL Snowflake]を使用することで、より多くの顧客プロファイルを管理でき、1時間あたりの配信率とトランザクション数を大幅に増やし、その規模と速度を大幅に向上させます。 詳しくは、[Campaign v8のドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html)を参照してください。
+* **新しいAdobe Campaign v8** では、インフラストラクチャ、セキュリティ、配信品質、監視に関する大幅な機能強化がおこなわれました。Adobe Campaign v8は、より多くの顧客プロファイルを管理できるだけでなく、1時間あたりの配信率およびトランザクション数も大幅に向上し、拡張性と速度を大幅に向上させます。 詳しくは、[Campaign v8のドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html)を参照してください。
 
-* **Adobe Campaign Classic v7 21.1.3リリース**:詳しくは、 [Campaign Classicv7リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html)を参照してください。
+* **Adobe Campaign Classic v7 21.1.3リリース：** 詳しくは、 [Campaign Classicv7リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja)を参照してください。
 
-* **Adobe Campaign Standard 21.2リリース**:詳しくは、 [Campaign Standardリリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)を参照してください。
+* **Adobe Campaign Standard 21.2リリース：** 詳しくは、 [Campaign Standardリリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=ja)を参照してください。
 
 ### 新しい[!UICONTROL Campaign]コースとチュートリアル{#tutorials-campaign}
 
