@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b0ad7a5c45760fba6a1a4e7e0f6dbbedbef93355
+source-git-commit: e198a57703d4be29e32e9b2919af157858651d74
 workflow-type: tm+mt
-source-wordcount: '4913'
+source-wordcount: '4926'
 ht-degree: 52%
 
 ---
@@ -403,7 +403,9 @@ Document Cloud ヘルプについては、以下を参照してください。
 * [Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html?lang=ja)
 * [Document Cloud ラーニングとサポート](https://helpx.adobe.com/jp/support/document-cloud.html)
 
-## ![アイコン](/assets/creative-cloud-24.png) Creative Cloud エンタープライズ版 {#creative-cloud}
+## ![](/assets/creative-cloud-24.png) IconCreative Cloudエンタープライズ版  {#creative-cloud}
+
+新しく公開されたビデオ、チュートリアル、コースは、Creative Cloud向けに公開されました。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | ----------| --------- | --------- | --------- |
