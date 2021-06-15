@@ -6,9 +6,9 @@ last-update: June 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c6aea555356863f7674dcda54fad19ea31394775
+source-git-commit: 4fc39c45e2b9eef506acbbaa04bf7302b53003fa
 workflow-type: tm+mt
-source-wordcount: '4930'
+source-wordcount: '4941'
 ht-degree: 52%
 
 ---
@@ -51,7 +51,7 @@ Experience Cloud中央インターフェイスコンポーネントには、セ�
 | 機能 | 日付 | 説明 |
 | ------- | ------- | ------- |
 | AdobeFederated IDのシングルサインオンのサポート | 2021 年 6 月 17 日 | Federated IDを使用する場合、電子メールアドレスやパスワードを入力しなくても、Experience Cloudにログインできます。 この機能を使用するには、Experience CloudURLに&#x200B;**#/sso:@domain**&#x200B;を追加します。 <br><br>例えば、自分がadobecustomer.commandドメインを所有して **いて、Adobe Analyticsにサインインするとしま** す。URLは次のようになります。**https://experience.adobe.com/#/sso:@adobecustomer.com/analytics**. |
-| Experience League検索 | 2021 年 6 月 1 日 | Experience Leagueドキュメントの検索が改善されました。 [Experience League](https://experienceleague.adobe.com/docs/?lang=en)に移動し、**[!UICONTROL 検索]**&#x200B;フィールドを使用して、チュートリアル、ドキュメント、コースなどを検索します。 |
+| Experience League検索 | 2021 年 6 月 1 日 | Experience Leagueドキュメントの検索が改善されました。 [Experience League](https://experienceleague.adobe.com/docs/?lang=ja)に移動し、**[!UICONTROL 検索]**&#x200B;フィールドを使用して、チュートリアル、ドキュメント、コースなどを検索します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -80,18 +80,18 @@ Experience Platform およびサービス用に公開された新しいビデオ
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021 年 6 月 | [データの準備](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/prepare-data.html) | ビデオ | レポートやダッシュボーディングにCreate Table AS(CTAS)関数とSpark SQL関数を使用して、複数のデータセットのデータを消去、準備、組み合わせてデータセットを作成する方法を説明します。 |
+| 2021 年 6 月 | [クエリサービスを使用してデータを準備する](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/prepare-data.html) | ビデオ | レポートやダッシュボーディングにCreate Table AS(CTAS)関数とSpark SQL関数を使用して、複数のデータセットのデータを消去、準備、組み合わせてデータセットを作成する方法を説明します。 |
 | 2021 年 6 月 | [サンドボックス間でのスキーマのコピー](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/copy-schemas-between-sandboxes.html) | ビデオ | [!UICONTROL スキーマAPI]の書き出し/読み込みを使用して、Adobe Experience Platformのサンドボックス間でスキーマをコピーする方法を説明します。 開発用サンドボックスでスキーマを作成してテストし、実稼動用にコピーします。 |
 | 2021 年 6 月 | [スキーマの更新](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/update-schemas.html) | ビデオ | Adobe Experience Platformの既存のスキーマを更新する際に注意すべき基本的な事項について説明します。 |
 | 2021 年 6 月 | [スキーマ構築ブロック](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schema-building-blocks.html) | ビデオ | フィールド、データタイプ、スキーマフィールドグループ、クラス、動作など、Experience Data Model(XDM)スキーマの主要な構成要素要素について説明します。 |
-| 2021 年 6 月 | [クラスの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-classes.html) | ビデオ | Adobe Experience Platformでエクスペリエンスデータモデル(XDM)スキーマで使用するクラスを作成する方法を説明します。 |
+| 2021 年 6 月 | [スキーマクラスの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-classes.html) | ビデオ | Adobe Experience Platformでエクスペリエンスデータモデル(XDM)スキーマで使用するクラスを作成する方法を説明します。 |
 | 2021 年 6 月 | [スキーマ間の関係の設定](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/configure-relationships-between-schemas.html) | ビデオ | Adobe Experience Platformで2つのスキーマ間の関係を設定する方法を説明します。 関係を使用すると、1つのデータセットを別のデータセットのルックアップテーブルとして使用できます。 |
-| 2021 年 6 月 | [データタイプの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-data-types.html) | ビデオ | Adobe Experience Platformでエクスペリエンスデータモデル(XDM)スキーマで使用する独自のデータタイプを作成する方法を説明します。 |
+| 2021 年 6 月 | [スキーマデータタイプの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-data-types.html) | ビデオ | Adobe Experience Platformでエクスペリエンスデータモデル(XDM)スキーマで使用する独自のデータタイプを作成する方法を説明します。 |
 | 2021 年 6 月 | [データモデルをエクスペリエンスデータモデルに変換する](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/convert-your-data-model-to-xdm.html) | ビデオ | データアーキテクトが既存のトランザクションデータモデルを取得し、エクスペリエンスデータモデルに変換する方法を説明します。 このビデオでは、エンティティ関係図を使用したモデリングアプローチの違いを示します。 |
 | 2021 年 6 月 | [データモデルの計画](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/plan-your-data-model.html) | ビデオ | Adobe Experience Platformでスキーマの作成を開始する前におこなうべきことを説明します。 ビジネスの使用例を文書化し、Platformライセンスを理解し、製品ガードレールを把握し、データモデルを最終処理する前に取り込むデータを特定します。 |
 | 2021 年 6 月 | [Tableauをクエリサービスに接続](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html) | ビデオ | `PostgreSQL`プロトコルをサポートする様々なデスクトップクライアントアプリケーションから[!UICONTROL クエリサービス]に接続する方法と、`PostgreSQL`ツールとドライバを使用してクエリを接続し、書き込む方法について説明します。 |
-| 2021 年 6 月 | [Adobe定義関数](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/adobe-defined-functions.html) | ビデオ | Adobe Experience Platform [!UICONTROL クエリサービス]のAdobe定義関数を使用して、エクスペリエンスイベントデータに対して一般的なビジネス関連タスクを実行する方法を説明します。 |
-| 2021 年 6 月 | [データの調査](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/explore-data.html) | ビデオ | SQL関数を使用して、取り込んだデータを検証し、データをプレビューし、データの統計的および分析的プロパティを調べる方法について説明します。 |
+| 2021 年 6 月 | [Adobeサービスでのクエリ定義関数](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/adobe-defined-functions.html) | ビデオ | Adobe Experience Platform [!UICONTROL クエリサービス]のAdobe定義関数を使用して、エクスペリエンスイベントデータに対して一般的なビジネス関連タスクを実行する方法を説明します。 |
+| 2021 年 6 月 | [クエリサービスを使用したデータ調査](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/explore-data.html) | ビデオ | SQL関数を使用して、取り込んだデータを検証し、データをプレビューし、データの統計的および分析的プロパティを調べる方法について説明します。 |
 | 2021 年 6 月 | [クエリサービスの概要](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/understanding-query-service.html) | ビデオ | Adobe Experience Platformのクエリサービスと、それが顧客の行動を理解し、効果的なインサイトを生み出すのにどのように役立つかについて説明します。 |
 | 2021 年 6 月 | [クエリサービスUIの概要](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/query-service-ui.html) | ビデオ | Adobe Experience Platformクエリサービスで、クエリの書き込みと実行、以前に実行されたクエリの表示、IMS組織内の他のユーザーが保存したクエリへのアクセスを行う方法について説明します。 |
 | 2021 年 6 月 | [ クエリー API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/query-service-api.html) | ビデオ | Adobe Experience Platform [!UICONTROL クエリサービスAPI]を使用して、クエリの記述と実行、スケジュールクエリの作成、およびクエリテンプレートの作成を行う方法について説明します。 |
