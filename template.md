@@ -4,10 +4,10 @@ description: Experience Cloud リリースノート
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: 918c6cb27c16972d16d4da7f283fa790d14ac51d
+source-git-commit: 48c0f82523382da9a78a78d850432c0bafd7cee7
 workflow-type: tm+mt
-source-wordcount: '1344'
-ht-degree: 81%
+source-wordcount: '706'
+ht-degree: 93%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 >[!NOTE]
 >
->[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) をご購読いただくと、今後のリリース予定が電子メールにて通知されます。リリース後に発表された新情報には、更新の日付が明記されます。
+>リリース後に発表された新情報には、更新の日付が明記されます。
 
 **リリース日：2021 年**
 
@@ -35,14 +35,11 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Audience Manager](#aam)
 * [Adobe Experience Manager](#aem)
 * [Campaign](#ac)
-* [Target](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ja)（ソリューションヘルプへのリンク）
 * [広告](#adcloud)
 * [Magento](#magento)
 * [Marketo](#marketo)
 * [Primetime](https://experienceleague.adobe.com/docs/primetime.html)（ソリューションヘルプへのリンク）
 * [新しいドキュメントとチュートリアル](#selfhelp)
-
-ヘルプホームをお探しの場合は、[Adobe Experience Cloud ドキュメント](https://experienceleague.adobe.com/docs/home.html?lang=en)を参照してください。
 
 ## Adobe システムステータス {#status}
 
@@ -61,13 +58,9 @@ Experience Cloud インターフェイスの新機能および修正点です。
 
 機能と修正点。
 
-製品ドキュメントについては、[Experience Cloud インターフェイス](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)を参照してください
-
 ### 管理および開発者 {#admin}
 
 機能と修正点。
-
-製品ドキュメントについては、「[ユーザーと製品の管理](https://experienceleague.adobe.com/docs/core-services/interface/manage-users-and-products/admin-getting-started.html?lang=en)」を参照してください。
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
@@ -78,17 +71,14 @@ Experience Cloud インターフェイスの新機能および修正点です。
 * [Experience Platform Launch](#launch)
 * [Journey Orchestration](#journey)
 * [Mobile Services および Mobile SDK](#mobile)
-* [セキュリティ速報および情報](https://helpx.adobe.com/jp/security.html)（すべてのアドビ製品）
 
 ### [!UICONTROL Experience Cloud ID サービス] {#ecid}
 
 機能と修正点。
 
-製品ドキュメントについては、[Experience Cloud ID サービス](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en)を参照してください。
-
 ### [!UICONTROL Experience Platform Launch] {#launch}
 
-リリースノートおよび製品ドキュメントについては、[Experience Platform Launch](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html?lang=en) を参照してください。
+詳しくは、
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
@@ -96,7 +86,7 @@ Adobe [!UICONTROL Experience Platform] を使用すると、ジャーニーの�
 
 #### [!UICONTROL Journey Orchestration] の追加リソース
 
-[ドキュメント](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ja)
+テキスト
 
 ### [!UICONTROL Mobile Services] および [!UICONTROL Mobile SDK] {#mobile}
 
@@ -111,19 +101,9 @@ Adobe [!UICONTROL Experience Platform] を使用すると、ジャーニーの�
 * 修正
 * 修正
 
-製品ドキュメントについては、[Mobile Services](https://experienceleague.adobe.com/docs/mobile-services/using/home.html?lang=en) を参照してください。
-
-Mobile SDKについて詳しくは、以下を参照してください。[Experience Solutions用Android™ SDK 4.x](https://experienceleague.adobe.com/docs/mobile-services/android/overview.html?lang=en)および[Experience Cloudソリューション用iOS SDK 4.x](https://experienceleague.adobe.com/docs/mobile-services/ios/overview.html?lang=en)。
-
 ## Analytics {#analytics}
 
 Adobe Analytics の新機能および修正点です。
-
-* [Adobe Analytics の新機能](#aa-features)
-* [iOSおよびAndroid™用のMedia Analytics SDK （以前のVHL SDK）](#aa-va)
-* [Analytics 管理者向けの重要な注意事項](analytics-important-notices.md)
-
-製品ドキュメントについては、[Adobe Analytics ヘルプホーム](https://experienceleague.adobe.com/docs/analytics/landing/home.html?lang=en)を参照してください。
 
 ### Adobe Analytics の新機能 {#aa-features}
 
@@ -133,7 +113,7 @@ Adobe Analytics の新機能および修正点です。
 | 機能 B | テキスト |
 | 機能 C | テキスト |
 
-### [!DNL iOS] および [!DNL Android™] 用 [!DNL Media Analytics] SDK（以前の VHL SDK） {#aa-va}
+### [!DNL Media Analytics] および [!DNL iOS] 用 [!DNL Android™] SDK（以前の VHL SDK）  {#aa-va}
 
 | 機能 | 説明 |
 | ------- | ------- |
@@ -143,7 +123,7 @@ Adobe Analytics の新機能および修正点です。
 
 ### Data Workbench {#aa-dwb}
 
-最新のリリース情報については、[Data Workbench リリースノート](https://experienceleague.adobe.com/docs/data-workbench/using/release-notes/release-notes.html?lang=en)を参照してください。
+テキスト.
 
 ### AppMeasurement {#appm}
 
@@ -159,19 +139,6 @@ Adobe Analytics の新機能および修正点です。
 * 修正
 * 修正
 * 修正
-
-次のプラットフォームの AppMeasurement のリリース履歴については、[AppMeasurement リリース履歴](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html)を参照してください。
-
-* [!DNL JavaScript]
-* [!DNL iOS]
-* [!DNL Android™]
-* [!DNL Flash-Flex]
-* [!DNL OS X]
-* [!DNL Windows Phone,] [!DNL XBOX,] [!DNL Silverlight,] および [!DNL .NET]
-* [!DNL BlackBerry®]
-* Java™
-* PHP
-* Symbian™
 
 ## Audience Manager {#aam}
 
@@ -221,13 +188,7 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 
 ### その他のリソース
 
-* [AEM 6.4 ラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=ja)
-* [AEM 6.3 ラーニングとサポートのホーム](https://helpx.adobe.com/jp/support/experience-manager/6-3.html)
-* [AEM 6.2 ラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja)
-* [Cloud Manager ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=ja)
-* [AEM ドキュメントの以前のバージョン](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja)
-* [Scene7 Publishing System リリースノート](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=ja)
-* [Livefyre リリースノート](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=ja)
+テキスト
 
 ### [!DNL Livefyre] {#livefyre}
 
@@ -265,9 +226,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### その他のリソース
 
-* Adobe Campaign Standard：[ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard.html) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en)- [リリース計画](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=ja)
-* Adobe Campaign Classic：[ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic.html) - [リリースノート](https://final-docs.campaign.adobe.com/doc/AC/en/RN.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)
-* Adobe Campaign コントロールパネル：[ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en)
+テキスト
 
 ## 広告 {#adcloud}
 
@@ -288,9 +247,6 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 Magent リリースノートについては、以下を参照してください。
 
-* [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
-* [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
-
 ## Marketo {#marketo}
 
 Marketo Engage は、複雑な購入ジャーニーのすべてのステージにわたるエンゲージメントを通じてカスタマーエクスペリエンスを変革しようとしている経営陣や B2B マーケター向けの完全なソリューションです。
@@ -305,8 +261,6 @@ Marketo Engage は、複雑な購入ジャーニーのすべてのステージ�
    * カスタムオブジェクトスキーマ API
    * ランディングページリダイレクトルール API
 * **フォーム記述子のキャッシュ：**&#x200B;ランディングページとフォームの改善を改善しました。
-
-詳しくは、[2020 年 2 月](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720)の Marketo リリースノートを参照してください。
 
 ### 予定されている機能
 
@@ -327,21 +281,6 @@ Marketo Engage は、複雑な購入ジャーニーのすべてのステージ�
 * **アセットAPI &quot;_method&quot; パラメーター：** 2020 年 9 月以降、アセット API エンドポイントでは、URI の長さ制限を回避するために、POST 本文にクエリパラメーターを渡す「_method」を使用できなくなります。
 * **Internet Explorer のサポートの廃止：** 2020 年 7 月 31 日（PT）のリリース以降、Marketo Engage ユーザーインターフェイスは Internet Explorer でサポートされなくなります。
 
-これまでのリリースノートと過去のリリースノートについては、[Marketo リリースノート](https://experienceleague.adobe.com/docs/marketo/using/home.html)を参照してください。
-
 ### 新しいソリューション名のコースとチュートリアル
 
 以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
-
-| 公開日 | 名前 | タイプ | 説明 |
-| -----------| ---------- | ---------- | ---------- |
-| 日付：2020 年 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | ビデオ | 説明 |
-| 日付：2020 年 | [Linktext](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-adaptive-form/introduction-and-setup.html?lang=en) | ビデオ | 説明 |
