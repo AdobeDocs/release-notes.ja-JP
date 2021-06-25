@@ -12,14 +12,14 @@ mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.ja-JP
 index: true
 source-git-commit: 3d7d30975cb241633f0d847a6b7689134bb56749
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '175'
 ht-degree: 100%
 
 ---
 
 
-# syanai 用のメタデータ
+# 社内用のメタデータ
 
 metadata.md ファイルにはリポジトリー内のユーザーガイド TOC.md ファイルから渡される repo-level メタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更したい場合は、任意の TOC.md ファイル内でおこないます。
 
