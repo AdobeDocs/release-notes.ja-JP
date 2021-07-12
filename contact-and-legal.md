@@ -1,18 +1,16 @@
 ---
 description: アドビへのお問い合わせに関する情報と、本製品および本ドキュメントの使用に関する法的事項に関する情報です。
-keywords: dynamic tag management;release notes
+keywords: dynamic tag management;リリースノート
 seo-description: アドビへのお問い合わせに関する情報と、本製品および本ドキュメントの使用に関する法的事項に関する情報です。
 seo-title: 連絡先情報および法的事項
-solution: Experience Cloud
 title: 連絡先情報および法的事項
 uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
-translation-type: tm+mt
-source-git-commit: 00226294d475d0c8f323692272bedf0d2705fd20
+source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 97%
+source-wordcount: '258'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +22,7 @@ ht-degree: 97%
 
 ## ヘルプとテクニカルサポート {#section_354AC2658BA84A2A96E64C5B2C43B73B}
 
-Adobe Experience Cloud カスタマーケアチームによる支援を受けられます。以下のような様々な手段をご利用いただけます。
+Adobe Marketing Cloud カスタマーケアチームによる支援を受けられます。以下のような様々な手段をご利用いただけます。
 
 次を参照してください。[アドビエンタープライズサポートへのお問い合わせ](https://helpx.adobe.com/jp/contact/enterprise-support.ec.html)
 
@@ -40,12 +38,12 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
 
 
 <ul class="simplelist"> 
- <li> © 2016 Adobe Systems Incorporated.All Rights Reserved. </li> 
+ <li> © 2016 Adobe Systems Incorporated. All Rights Reserved. </li> 
  <li> Published by Adobe Systems Incorporated. </li> 
 </ul>
 
-[利用条件](https://www.adobe.com/go/marketingcloud_terms_of_use) | [プライバシーセンター](https://www.adobe.com/jp/privacy/policy.html)
+[利用条件](https://www.adobe.com/go/marketingcloud_terms_of_use_jp) | [プライバシーセンター](https://www.adobe.com/jp/privacy/policy.html)
 
-Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
+Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
-All third-party trademarks are the property of their respective owners.Updated Information/Additional Third-Party Code Information available at [https://www.adobe.com/go/thirdparty_jp](https://www.adobe.com/products/eula/third_party/).
+All third-party trademarks are the property of their respective owners. Updated Information/Additional Third-Party Code Information available at [https://www.adobe.com/go/thirdparty_jp](https://www.adobe.com/products/eula/third_party/).
