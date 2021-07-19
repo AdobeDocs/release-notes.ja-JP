@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d33f6947012a86061ab4431f1b58c56dfa53910a
+source-git-commit: fbea6cb1eb34af8d7957451bb7c9117202e002d4
 workflow-type: tm+mt
-source-wordcount: '3936'
+source-wordcount: '3934'
 ht-degree: 55%
 
 ---
@@ -202,7 +202,7 @@ Audience Manager の修正点と改善点。
 
 ## ![アイコン](/assets/aem.png) Experience Manager {#aem}
 
-Adobeは、[Experience Managerリリースの更新とロードマップ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ja)の頻繁なページを参照して、リリース情報に関する最新情報を入手することをお勧めします。
+Adobeは、[Experience Managerリリースの更新とロードマップ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ja)を頻繁に参照して、リリース情報に関する最新情報を入手することをお勧めします。
 
 ### Experience Manager リリース情報 {#aem-links}
 
