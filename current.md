@@ -6,7 +6,7 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 520aa8c5c69b1e33efb7a1559a6c7b8725083b39
+source-git-commit: 96f2c28dfcebf903d11fa5fc02ab90405e0e4888
 workflow-type: tm+mt
 source-wordcount: '3950'
 ht-degree: 57%
@@ -254,7 +254,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 リリースされた最新の機能、機能強化、修正について詳しくは、以下を参照してください。
 
-* [Campaign v8 リリースノート](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=en)
+* [Campaign v8リリースノート](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=en)
 * [Campaign Standard リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=ja)
 * [Campaign Classic リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja)
 
