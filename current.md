@@ -6,10 +6,10 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fbea6cb1eb34af8d7957451bb7c9117202e002d4
+source-git-commit: 9a3217d27c176834935ae72ae375bda5cdf6c7f2
 workflow-type: tm+mt
-source-wordcount: '3934'
-ht-degree: 55%
+source-wordcount: '4899'
+ht-degree: 47%
 
 ---
 
@@ -203,6 +203,80 @@ Audience Manager の修正点と改善点。
 ## ![アイコン](/assets/aem.png) Experience Manager {#aem}
 
 Adobeは、[Experience Managerリリースの更新とロードマップ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ja)を頻繁に参照して、リリース情報に関する最新情報を入手することをお勧めします。
+
+* **Experience Manager as a Cloud Service**
+
+   Adobe Experience Manager as a Cloud Service の新機能：
+
+   * **Adobe Experience Manager as aCloud ServiceのXMLドキュメント**
+
+      * **クラウドネイティブコンポーネントコンテンツ管理システム**  - Adobe Experience ManagerのXMLドキュメントは、Cloud Serviceとして利用できます。ドキュメントとコンテンツを大規模に作成、管理、配信できる環境を実現します。
+      * **AIを利用したドキュメント**  — メタデータのラベル付け用に、関連するメタデータのキーワードを自動的に識別および抽出するスマートタグ機能。
+      * **Webエディターの新しいルックアンドフィール**  - UIの変更により、より直感的になり、新しいルックアンドフィールが実現しました。基盤となるアーキテクチャは、サンゴから反応ベースのスペクトルに変更されました。
+   * **AEM as aCloud ServiceのCloud Manager**
+
+      * [!UICONTROL プレビ] ューサービスは、すべてのプログラムに周期的にデプロイされます。お客様は、プログラムが[!UICONTROL プレビューサービス]に対して有効になると、製品内で通知を受けます。 [プレビューサービスへのアクセス](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service)を参照してください。
+      * ビルド手順中にダウンロードされたMavenの依存関係が、パイプライン実行の間でキャッシュされるようになりました。 この機能は、今後数週間以内にお客様に対して有効になります。
+      * [!UICONTROL プログラムを編集]ダイアログを使用して、プログラムの名前を編集できるようになりました。
+      * プロジェクトの作成時と、Gitワークフローを管理するデフォルトの[!UICONTROL Push]コマンドで使用されるデフォルトのブランチ名が`main`に変更されました。
+      * インターフェイスのプログラムの編集エクスペリエンスが更新されました。
+      * 品質ルール `ImmutableMutableMixCheck` が更新され、`/oak:index` ノードが不変として分類されるようになりました。
+      * 品質ルール`CQBP-84andCQBP-84--dependencies`は、1つのルールに統合されました。 この統合の一環として、依存関係のスキャンにより、Experience Manager・ランタイムにデプロイされるサード・パーティの依存関係の問題をより正確に特定できます。
+      * 混乱を避けるために、環境の詳細ページのパブリッシュExperience ManagerとパブリッシュDispatcherセグメントの行が統合されました。
+      * `damAssetLucene`インデックスの構造を検証する新しいコード品質ルールが追加されました。 [カスタムDAM Asset Lucene Oakインデックス](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/test-results/custom-code-quality-rules.html?lang=en#oakpal-damAssetLucene-sanity-check)を参照してください。
+      * 環境の詳細ページに、必要に応じて、公開サービスとプレビューサービスの複数のドメイン名が表示されるようになりました。 [環境の詳細](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#viewing-environment)を参照してください。
+   * **Experience Manager Assets as a Cloud Service**
+
+      Assetsの新機能：
+
+      * [!UICONTROL コンテ] ンツ自動機能を使用すると、Experience ManagerAssetsはAdobe Creative Cloud APIを使用して、大規模なアセット作成を自動化できます。同じアセットのバリエーションを作成するのに必要な時間と繰り返しを大幅に減らし、コンテンツの速度を向上させます。 この機能にはプログラミングは必要なく、DAM内から機能します。 [Adobe Creative Cloud統合を使用したアセットのバリエーションの生成](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/cc-api-integration.html?lang=en)を参照してください。
+      * [Adobe Photoshop、Adobe Illustrator、Adobe InDesignのAdobe](https://helpx.adobe.com/jp/enterprise/using/adobe-asset-link.html) Adobeリンク3.0 [と、Adobe XDのAdobeアセットリンク2.0](https://helpx.adobe.com/jp/enterprise/using/adobe-asset-link-for-xd.html) を使用できます。Assets Essentialsと、Cloud ServiceまたはAssets EssentialsとしてExperience Managerに自動的に接続する機能をサポートします。
+      * [アセットの一括取り込みツール](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/add-assets.html?lang=ja#asset-bulk-ingestor)を使用すると、一括取り込み中にメタデータを追加できます。
+
+      Assetsプレリリースチャネルの新機能：
+
+      * ビュー設定が強化され、デフォルトのビューとデフォルトの並べ替えパラメーターを選択できるようになりました。
+      * [!UICONTROL リンク共有]のダウンロード機能は、非同期ダウンロードを使用してダウンロード速度を上げます。 [リンク共有](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/download-assets-from-aem.html?lang=en#link-share-download)を使用して共有されたアセットのダウンロードを参照してください。
+      * プロパティの述語に基づいて、フォルダーを検索およびフィルタリングできます。
+      * Experience Managerアセットは、PDFビューアを埋め込んで、サポートされるドキュメント形式をプレビューします。 Adobe Document Cloudが動く。 この機能を使用すると、複雑な処理をおこなわずに、PDFやその他の複数ページファイルをプレビューできます。 Experience Manager6.5と同等の機能が改善されました。プレビューで使用できるコントロールは、ズーム、ページへの移動、コントロールのドッキング解除、フルスクリーン表示です。 統合PDFビューアは、AI、DOCX、INDD、PDF、PSDの各ファイル形式をサポートしています。 アセット自体にコメントを付けることはできますが、PDFファイル内のコメントと注釈はサポートされていません。
+      * ユーザーエクスペリエンスの機能強化では、フォルダー内に存在するアセットの数が表示されます。1つのフォルダー内のアセットが1000個を超える場合、Assetsには1000以上と表示されます。
+      * プロパティ内のフォルダーにメタデータスキーマを直接適用できます。
+   * **Experience Manager Sites as a Cloud Service**
+
+      新機能:
+
+      * Sites管理UIで、プレビュー層への公開がページステータスとして表示されるようになりました。
+      * 「プレビュー層に公開」で、アクションの最後にプレビューURLが表示され、後で参照できるようにページプロパティにURLが保持されるようになりました。
+   * **Experience Manager Forms as a Cloud Service**
+
+      新機能:
+
+      * メタデータスキーマは、フォルダーのプロパティに直接適用できます。
+      * アセットの一括取得ツールを使用すると、一括取得中にメタデータを追加できます。
+      * ユーザーエクスペリエンスの機能強化では、フォルダー内に存在するアセットの数が表示されます。1 フォルダー内に 1000 個を超えるアセットがある場合、Experience Manager アセットに「1000+」と表示されます。
+
+      Formsのベータ機能：
+
+      * **Experience ManagerForms as aCloud Service — コミュニケーション**  — コミュニケーションAPIを使用すると、XDPテンプレートとXMLデータを組み合わせて様々な形式の印刷ドキュメントを生成できます。このサービスを使用すると、同期モードでドキュメントを生成できます。 APIを使用すると、次の操作を可能にするアプリケーションを作成できます。
+         * テンプレートファイルにXMLデータを入力してドキュメントを生成します。
+         * 非インタラクティブPDF印刷ストリームを含む様々な形式で出力フォームを生成します。
+         * XFAフォームPDFおよびAdobe Acrobatフォーム(AcroForms)から印刷用PDFを生成します。
+
+      [formscsbeta@adobe.com](mailto:formscsbeta@adobe.com)に書き込んで、ベータ版プログラムに新規登録できます。
+
+   * **Experience Manager ScreensをCloud Service**
+
+      * デバイスの一括登録管理は、大量のプレーヤーデバイスのプロビジョニングを高速化し、より効率的に行うことを意味します。
+      * デバイス、ディスプレイ、チャネルの各在庫ビューの検索およびフィルターオプションを改善しました。
+      * デバイスのヒーススナップショットは、重要なステータスを一目で確認することで、時間を節約します。
+      * オブジェクトの詳細ページには、プロジェクト内の各オブジェクトに関する最も関連性の高い情報の概要が表示されます。
+
+
+
+
+
+
+
 
 ### Experience Manager リリース情報 {#aem-links}
 
