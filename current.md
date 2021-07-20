@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3621c31c456cf7fc9de8ed65991aeab9fc8fedc8
+source-git-commit: a168806cc4b7e5ab5e9d1ab9c71583a4b89c020b
 workflow-type: tm+mt
-source-wordcount: '4909'
+source-wordcount: '4923'
 ht-degree: 46%
 
 ---
@@ -213,6 +213,9 @@ Adobeは、[Experience Managerリリースの更新とロードマップ](https:
       * **クラウドネイティブコンポーネントコンテンツ管理システム**  - Adobe Experience ManagerのXMLドキュメントは、Cloud Serviceとして利用できます。ドキュメントとコンテンツを大規模に作成、管理、配信できる環境を実現します。
       * **AIを利用したドキュメント**  — メタデータのラベル付け用に、関連するメタデータのキーワードを自動的に識別および抽出するスマートタグ機能。
       * **Webエディターの新しいルックアンドフィール**  - UIの変更により、より直感的になり、新しいルックアンドフィールが実現しました。基盤となるアーキテクチャは、サンゴから反応ベースのスペクトルに変更されました。
+
+      詳しくは、Adobe Experience Manager](https://www.adobe.com/products/xml-documentation-for-experience-manager.html)の[XMLドキュメントを参照してください。
+
    * **AEM as aCloud ServiceのCloud Manager**
 
       * [!UICONTROL プレビ] ューサービスは、すべてのプログラムに周期的にデプロイされます。お客様は、プログラムが[!UICONTROL プレビューサービス]に対して有効になると、製品内で通知を受けます。 [プレビューサービスへのアクセス](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service)を参照してください。
