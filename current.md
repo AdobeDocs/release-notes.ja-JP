@@ -6,7 +6,7 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9a3217d27c176834935ae72ae375bda5cdf6c7f2
+source-git-commit: 722ad9ef37f15c3c6070ccaa66c9b55e25b4e35d
 workflow-type: tm+mt
 source-wordcount: '4899'
 ht-degree: 47%
@@ -23,7 +23,7 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最終更新：**2021 年 7 月 19 日**
+最終更新：**2021 年 7 月 20 日**
 
 * [Experience Cloud の主要なインターフェイスコンポーネント](#ecloud)
 * [Adobe システムステータス](#status)
@@ -278,6 +278,17 @@ Adobeは、[Experience Managerリリースの更新とロードマップ](https:
 
 
 
+### 新しい Experience Manager コースとチュートリアル {#tutorials-aem}
+
+以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
+
+| 公開日 | 名前 | タイプ | 説明 |
+| -----------| ---------- | ---------- | ---------- |
+| 2021 年 7 月 | [Adobe Experience ManagerのXMLドキュメント](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/overview.html?lang=en) | 記事 | [!UICONTROL XML Documentation Solution]がDITAコンテンツのコラボレーション、レビュー、翻訳、検索、レポートなど、すべての主要なCCMS機能を提供する方法を説明します。 これらの機能を使用すると、効率的なコンテンツ再利用と強力なワークフローを通じて、作成者はより短時間でより多くの作業をおこなうことができます。 |
+| 2021 年 7 月 | [AEMヘッドレスGraphQL Postmanコレクション](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en) | ビデオ | GraphQL で使用する、Adobe Experience Manager（AEM）のコンテンツフラグメントの定義方法と使用方法について説明します。 |
+
+{style=&quot;table-layout:auto&quot;}
+
 ### Experience Manager リリース情報 {#aem-links}
 
 リリースノートおよびその他のリリース情報のリンクを参照し、Experience Managerを参照してください。
@@ -294,17 +305,6 @@ Adobeは、[Experience Managerリリースの更新とロードマップ](https:
 * [Experience Manager Dispatcher リリースノート](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=ja)
 * [Adobe Primetime リリースノート](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
 * [Livefyre リリースノート](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html)
-
-### 新しい Experience Manager コースとチュートリアル {#tutorials-aem}
-
-以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
-
-| 公開日 | 名前 | タイプ | 説明 |
-| -----------| ---------- | ---------- | ---------- |
-| 2021 年 7 月 | [Adobe Experience ManagerのXMLドキュメント](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/overview.html?lang=en) | 記事 | [!UICONTROL XML Documentation Solution]がDITAコンテンツのコラボレーション、レビュー、翻訳、検索、レポートなど、すべての主要なCCMS機能を提供する方法を説明します。 これらの機能を使用すると、効率的なコンテンツ再利用と強力なワークフローを通じて、作成者はより短時間でより多くの作業をおこなうことができます。 |
-| 2021 年 7 月 | [AEMヘッドレスGraphQL Postmanコレクション](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en) | ビデオ | GraphQL で使用する、Adobe Experience Manager（AEM）のコンテンツフラグメントの定義方法と使用方法について説明します。 |
-
-{style=&quot;table-layout:auto&quot;}
 
 ### その他のExperience Manager
 
