@@ -6,7 +6,7 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: a168806cc4b7e5ab5e9d1ab9c71583a4b89c020b
+source-git-commit: 7c57afe86724db59e8696b3e034a82d5ba6f9153
 workflow-type: tm+mt
 source-wordcount: '4923'
 ht-degree: 46%
@@ -37,7 +37,7 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 * [[!DNL Campaign]](#ac)
 * [[!DNL Advertising]](#adcloud)
 * [[!DNL Target]](#target)
-* [[!DNL Commerce]] (#magento)
+* [[!DNL Commerce]](#magento) (Magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [Document Cloud](#doc-cloud)
