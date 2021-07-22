@@ -6,10 +6,10 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5de9bc92bc3752726b7af80dd0abf91e253a5c33
+source-git-commit: 272c8da44a241b5a8eb5930462cc53b3e6c43297
 workflow-type: tm+mt
-source-wordcount: '5139'
-ht-degree: 44%
+source-wordcount: '5023'
+ht-degree: 45%
 
 ---
 
@@ -22,14 +22,6 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 >[!NOTE]
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
-
-## Experience Leagueライブ
-
-[Adobe Analyticsの実装 — ヒントとテクニック](https://www.youtube.com/watch?v=lxOvLCzEGBI)
-
-サミットで彼がステージに上がっているのを見たことがありますね Adobe・インサイダー・ツアーで彼が専門家の助言を共有するのを聞いた。 お客様自身のAdobe Analytics実装で共同作業する利点もあるかもしれません。 今、エリック・マティソフ氏は、この排他的なExperience League・ライブ・ディスカッションに、彼の3つのお気に入りのAdobe Analytics実装のヒントを持って来ています。
-
-Adobe Analyticsの実装チーム全員が知っておくべき具体的なヒントを聞きたいと思います。また、チャットポッドでEricから質問に答えてもらいます。 これはライブイベントなので、事前に登録する必要はありませんが、忘れないように、必ずカレンダーに入れてください。
 
 最終更新：**2021 年 7 月 20 日**
 
@@ -146,7 +138,7 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 
 Adobe Analyticsの導入チームが知っておくべき具体的なヒントを聞きたい場合は、チャットポッドでEric Matisoffから質問に答えてもらってください。 これはライブイベントなので、事前に登録する必要はありませんが、忘れないように、必ずカレンダーに入れてください。
 
-[Adobe Analyticsの実装 — ヒントとテクニック](https://www.youtube.com/watch?v=lxOvLCzEGBI)
+**イベント：** [Adobe Analyticsの実装 — ヒントとテクニック](https://www.youtube.com/watch?v=lxOvLCzEGBI)
 
 **日時：** 2021年7月29日午前9時(PDT)
 
