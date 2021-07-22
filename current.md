@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 272c8da44a241b5a8eb5930462cc53b3e6c43297
+source-git-commit: 563d306d19333cdfe78c7eb1077b9b8309fadd4e
 workflow-type: tm+mt
-source-wordcount: '5023'
+source-wordcount: '5036'
 ht-degree: 45%
 
 ---
@@ -23,8 +23,9 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最終更新：**2021 年 7 月 20 日**
+最終更新：**2021 年 7 月 22 日**
 
+* [Experience Leagueライブのイベント通](#events) 知 **- 2021年7月30日**
 * [Experience Cloud の主要なインターフェイスコンポーネント](#ecloud)
 * [Adobe システムステータス](#status)
 * [Experience Platform](#platform)
@@ -127,6 +128,7 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 
 リリース日：**2021 年 7 月 22 日**
 
+* [Experience Leagueライブのイベント通知](#events)
 * [Adobe Analytics の新機能](#aa-features)
 * [Customer Journey Analytics の新機能](#cust-journey)（更新日：2021 年 7 月 19 日）
 * [Adobe Analytics の修正点](#aa-fixes)
@@ -134,7 +136,7 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 * [Analytics コースとチュートリアル](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
-### Experience Leagueライブのイベント通知 — Analyticsの実装
+## Experience Leagueライブのイベント通知 — Analyticsの実装 {#events}
 
 Adobe Analyticsの導入チームが知っておくべき具体的なヒントを聞きたい場合は、チャットポッドでEric Matisoffから質問に答えてもらってください。 これはライブイベントなので、事前に登録する必要はありませんが、忘れないように、必ずカレンダーに入れてください。
 
