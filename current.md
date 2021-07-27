@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 1d747dd10da74db31ce6195c43f6529a2663d1a0
+source-git-commit: 0a6bbad001bc4aeb0b8f6537d87d8d98131af5d5
 workflow-type: tm+mt
-source-wordcount: '5035'
+source-wordcount: '5034'
 ht-degree: 90%
 
 ---
@@ -70,10 +70,10 @@ Adobe System Status の最新の更新は、[Adobe System Status - 2020 年 5 �
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-Experience Platform と Experience Platform Launch に関するリリース更新情報と新しいドキュメントが含まれます。
+リリースの更新情報と、プラットフォームとプラットフォームのタグ付けに関する新しいExperience Platformが含まれています。
 
 * **2021 年 6 月 30 日（PT）** [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)
-* **2021年5月18日** [Experience Platformタグリリースノート](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html) (旧Experience Platform Launch)
+* **2021年5月18日** [Experience Platformタグリリースノート](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html) (旧称、Experience Platform Launch)
 
 ### Experience Platform チュートリアルおよびコース {#tutorials-platform}
 
