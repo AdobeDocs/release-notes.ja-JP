@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 0a6bbad001bc4aeb0b8f6537d87d8d98131af5d5
 workflow-type: tm+mt
 source-wordcount: '5034'
-ht-degree: 90%
+ht-degree: 99%
 
 ---
 
@@ -23,16 +23,16 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最終更新：**2021 年 7 月 22 日**
+最終更新：**2021 年 7 月 22 日（PT）**
 
-* [Experience Leagueライブのイベント通](#events) 知 **- 2021年7月30日**
+* [Experience League ライブのイベント通知](#events) - **2021 年 7 月 29 日（PT）**
 * [Experience Cloud の主要なインターフェイスコンポーネント](#ecloud)
 * [Adobe システムステータス](#status)
 * [Experience Platform](#platform)
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)（更新日：2021 年 7 月 19 日）
+* [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)（更新日：2021 年 7 月 19 日（PT））
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -48,17 +48,17 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 
 ## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud 中央の UI コンポーネント {#ecloud}
 
-Experience Cloud中央インターフェイスコンポーネントには、セルフヘルプ、検索、ユーザーアカウントの環境設定など、統合製品ヘッダーからアクセスできる更新が含まれています。 People、Places（場所）、および製品管理のアップデートについては、こちらを参照してください。
+Experience Cloud の中央インターフェイスコンポーネントには、統合された製品ヘッダーからアクセスするアップデート（セルフヘルプ、検索、ユーザーアカウントの環境設定など）が含まれています。People、Places（場所）、および製品管理のアップデートについては、こちらを参照してください。
 
 | 機能 | 日付 | 説明 |
 | ------- | ------- | -------|
-| Experience Cloud![グローバル検索](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en#globally-search-for-objects-and-entities) | 2021 年 7 月 5 日 | このリリースでは、Experience Cloudのグローバル検索で、Experience Cloud内のビジネスオブジェクト（セグメント、データセット、スキーマなど）の検索にJourney Orchestrationが追加されました。 |
+| Experience Cloud の![グローバル検索](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=ja#globally-search-for-objects-and-entities) | 2021 年 7 月 5 日（PT） | このリリースでは、Experience Cloud のグローバル検索で、Experience Cloud 内のビジネスオブジェクト（セグメント、データセット、スキーマなど）の検索に Journey Orchestration が追加されています。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 **その他のヘルプリソース**
 
-* [中央インターフェイスコンポーネント](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)およびユーザー管理の管理ヘルプ
+* [中央インターフェイスコンポーネント](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=ja)およびユーザー管理の管理ヘルプ
 * [Places - 位置情報サービス](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=ja)のヘルプとリリースノート
 * [People - 顧客属性とオーディエンスライブラリ](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=ja)に関するヘルプ。
 
@@ -72,8 +72,8 @@ Adobe System Status の最新の更新は、[Adobe System Status - 2020 年 5 �
 
 リリースの更新情報と、プラットフォームとプラットフォームのタグ付けに関する新しいExperience Platformが含まれています。
 
-* **2021 年 6 月 30 日（PT）** [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)
-* **2021年5月18日** [Experience Platformタグリリースノート](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html) (旧称、Experience Platform Launch)
+* **2021 年 6 月 30 日（PT）：** [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)
+* **2021年5月18日** [Experience Platformタグリリースノート](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html?lang=ja) (旧称、Experience Platform Launch)
 
 ### Experience Platform チュートリアルおよびコース {#tutorials-platform}
 
@@ -94,9 +94,9 @@ Experience Platform およびサービス用に公開された新しいビデオ
 
 Adobe Journey Optimizer を使用すると、1 つのアプリケーションで、スケジュールされたオムニチャネルキャンペーンや何百万人もの顧客向けの 1 対 1 の瞬間を管理でき、インテリジェントな意思決定とインサイトにより、ジャーニー全体を最適化します。
 
-### 最新のJourney Optimizer製品リリース
+### 最新の Journey Optimizer 製品リリース
 
-* **2021年7月：** Journey Optimizerが利用可能になりました。[詳細を読む](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja)。
+* **2021 年 7 月：** Journey Optimizer が利用可能になりました。[詳細を読む](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja)。
 
 **Journey Optimizer の追加リソース**
 
@@ -118,7 +118,7 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 
 * **2021 年 6 月リリース：** AI ランキングを使用すると、トレーニング済みモデルシステムで使用され、特定のプロファイルに対して表示する適格なオファーをランク付けする、（ビジネス目標に基づく）様々なランキング戦略を作成できます。
 
-最新の状態に保つには、[Offer decisioningリリースノート](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=ja#new)を参照してください。
+最新の情報については、[Offer Decisioning リリースノート](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=ja#new)を参照してください。
 
 **Offer Decisioning のその他のリソース**
 
@@ -128,33 +128,33 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 
 リリース日：**2021 年 7 月 22 日**
 
-* [Experience Leagueライブのイベント通知](#events)
+* [Experience League ライブのイベント通知](#events)
 * [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey)（更新日：2021 年 7 月 19 日）
+* [Customer Journey Analytics の新機能](#cust-journey)（更新日：2021 年 7 月 19 日（PT））
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [Analytics コースとチュートリアル](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
-## Experience Leagueライブのイベント通知 — Analyticsの実装 {#events}
+## Experience League ライブのイベント通知 - Analytics の実装 {#events}
 
-Adobe Analyticsの導入チームが知っておくべき具体的なヒントを聞きたい場合は、チャットポッドでEric Matisoffから質問に答えてもらってください。 これはライブイベントなので、事前に登録する必要はありませんが、忘れないように、必ずカレンダーに入れてください。
+参加して、Adobe Analytics の実装チームが知っておくべき具体的なヒントをお聞きください。Eric Matisoff がチャットポッドで質問に答えます。これはライブイベントなので、事前登録は不要ですが、忘れないように、必ずカレンダーに入れてください。
 
-**イベント：** [Adobe Analyticsの実装 — ヒントとテクニック](https://www.youtube.com/watch?v=lxOvLCzEGBI)
+**イベント：** [Adobe Analytics の実装 - ヒントとコツ](https://www.youtube.com/watch?v=lxOvLCzEGBI)
 
-**日時：** 2021年7月29日午前9時(PDT)
+**日時：** 2021 年 7 月 29 日午前 9 時（PT）
 
-**Adobe発表者**
+**アドビ発表者**
 
-* Eric Matisoff氏(Adobe、Analytics &amp; Data Scienceの主任エバンジェリスト)
-* AdobeプリンシパルテクニカルコンサルタントDasha Fitzpatrick
-* Adobe・テクニカル・マーケティング・エンジニア、Doug Moore氏
+* Eric Matisoff（アドビ、アナリティクス＆データサイエンス担当プリンシパルエバンジェリスト）
+* Dasha Fitzpatrick（アドビ、プリンシパル技術コンサルタント）
+* Doug Moore（アドビ、テクニカルマーケティングエンジニア）
 
 ### Adobe Analytics の新機能 {#aa-features}
 
 | 機能 | 説明 | [一般公開](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=ja) - ターゲット日 |
 | ----------- | ---------- | ------- |
-| 新しい Adobe Analytics ランディングページ（オープンベータ版） | Adobe Analytics の新しいランディングページでは、Analysis Workspace と Reports &amp; Analytics が、Workspace における単一のインターフェイスとアクセスポイントに統合されています。新しいプロジェクトマネージャーのホームページ、更新されたレポートメニュー、最新化されたレポートのほか、より効果的に使い始めるのに役立つ新しい学習セクションが追加されました。 この新しいページでは情報を見つけやすくなり、Reports &amp; Analytics のユーザーが Workspace でレポートエクスペリエンスを向上できるよう導きます。[詳細](https://experienceleague.adobe.com/docs/analytics/landing/an-landing.html?lang=ja) | 2021 年 7 月 26 日 |
+| 新しい Adobe Analytics ランディングページ（オープンベータ版） | Adobe Analytics の新しいランディングページでは、Analysis Workspace と Reports &amp; Analytics が、Workspace における単一のインターフェイスとアクセスポイントに統合されています。プロジェクトマネージャーの新しいホームページ、新しくなったレポートメニュー、最新化されたレポートのほか、より効果的に使い始めるのに役立つ新しい学習セクションも追加されました。この新しいページでは情報を見つけやすくなり、Reports &amp; Analytics のユーザーが Workspace でレポートエクスペリエンスを向上できるよう導きます。[詳細](https://experienceleague.adobe.com/docs/analytics/landing/an-landing.html?lang=ja) | 2021 年 7 月 26 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -168,7 +168,7 @@ Adobe Analyticsの導入チームが知っておくべき具体的なヒント�
 
 ### Adobe Analytics の修正点 {#aa-fixes}
 
-* アラートが送信されず、アラートを作成する際にエラーが表示される問題を修正しました。 （AN-263962）
+* アラートの作成時にアラートが送信されず、エラーが表示される問題を修正しました。（AN-263962）
 * 指定された日付範囲外のデータが抽出される、Analysis Workspace の仮想レポートスイートの問題を修正しました。（AN-263121）
 * Workspace プロジェクトが開かない（タイムアウトする）問題を修正しました。 （AN-247248）
 * [!UICONTROL サーバーコールの使用状況]でレポートスイートの使用状況データを読み込めない問題を修正しました。（AN-264215）
@@ -181,7 +181,7 @@ AN-160022、AN-186365、AN-234768（CJA）、AN-253041、AN-255098、AN-256319�
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
-| 3 つの Analytics API サービスの提供終了 | 2021 年 7 月 15 日 | **2021 年 8 月 18 日（PT）**、次の Analytics レガシー API サービスの提供が終了し、サービスが停止されます。これらのサービスを使用して構築された現在の統合は、その日以降使用できなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>アドビでは、お客様のご質問に対する回答や進め方に関するガイダンスを提供するために、[従来の API の EOL（サポート終了）に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API のどちらにアクセスする場合にも使用できます。 |
+| 3 つの Analytics API サービスの提供終了 | 2021 年 7 月 15 日（PT） | **2021 年 8 月 18 日（PT）**、次の Analytics レガシー API サービスの提供が終了し、サービスが停止されます。これらのサービスを使用して構築された現在の統合は、その日以降使用できなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>アドビでは、お客様のご質問に対する回答や進め方に関するガイダンスを提供するために、[従来の API の EOL（サポート終了）に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API のどちらにアクセスする場合にも使用できます。 |
 | Adobe Data Connectors のサポート終了 | 2020 年 7 月 13 日（PT） | Adobe [!UICONTROL Data Connectors] は、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。[Adobe Exchange パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)で新しい標準が利用できます。 どの統合でも、その標準を使用して、引き続き提供およびサポートできます。 正式なサポート終了日は **2021 年 8 月 1 日（PT）**&#x200B;です。 [詳細情報...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=ja) |
 | フル処理データソースののサポート終了 | 2021 年 4 月 12 日（PT） | アドビは、**2021 年 7 月 31 日（PT）に**&#x200B;フル処理データソースを非推奨（廃止予定）にする予定です。2021 年 3 月 25 日（PT）現在、このタイプの新規インポートは作成できなくなっています。 このタイプのデータをインポートするには、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を使用してください。 |
 | ログインして [!UICONTROL Report Builder] をアップデート | 2021 年 4 月 9 日（PT） | 2021 年 1 月 14 日（PT）、[!UICONTROL Report Builder] のサインインの更新により、従来のテクノロジーへの依存がなくなり、Experience Cloud のサインインプロセスと連携できるようになりました。Experience Cloud は Enterprise ID（電子メールとパスワード）を使用します。[!UICONTROL Report Builder] へのアクセスが中断されないようにするには、 **2021 年 7 月 22 日（PT）までに** [!UICONTROL Report Builder] アドインをバージョン 5.6.47 以降にアップデートしてください。Report Builder バージョン 5.6.47 以降では、Experience Cloud のサインインのみをサポートし、シングルサインオンはサポートしません。 |
@@ -218,7 +218,7 @@ Audience Manager の修正点と改善点。
 
 ## ![アイコン](/assets/aem.png) Experience Manager {#aem}
 
-Adobeは、[Experience Managerリリースの更新とロードマップ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ja)を頻繁に参照して、リリース情報に関する最新情報を入手することをお勧めします。
+[Experience Manager リリースのアップデートとロードマップ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ja)に頻繁にアクセスして、最新のリリース情報を入手することをお勧めします。
 
 * **Experience Manager as a Cloud Service**
 
@@ -230,9 +230,9 @@ Adobeは、[Experience Managerリリースの更新とロードマップ](https:
       * **AI を利用したドキュメント** - メタデータにラベルを付けるため、テキストから関連するメタデータキーワードを自動的に識別して抽出するためのスマートタグ付け機能。
       * **Web エディターの新しいルックアンドフィール** - UI の変更による新しいルックアンドフィールで、より直感的になりました。基本的なアーキテクチャは、Coral から React ベースの spectrum に変更されました。
 
-      詳しくは、Adobe Experience Manager](https://www.adobe.com/products/xml-documentation-for-experience-manager.html)の[XMLドキュメントを参照してください。
+      詳しくは、[Adobe Experience Manager の XML ドキュメント](https://www.adobe.com/products/xml-documentation-for-experience-manager.html)を参照してください。
 
-   * **AEM as aCloud ServiceのCloud Manager**
+   * **AEM as a Cloud Service の Cloud Manager**
 
       * [!UICONTROL プレビューサービス]は、すべてのプログラムに段階的にデプロイされます。プログラムで[!UICONTROL プレビューサービス]が有効になると、製品内で通知されます。[プレビューサービスへのアクセス](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=ja#access-preview-service)を参照してください。
       * ビルド手順中にダウンロードされた Maven の依存関係は、パイプラインの実行間にキャッシュされるようになりました。この機能は、今後数週間以内に、お客様に対して有効になる予定です。
@@ -310,7 +310,7 @@ Adobeは、[Experience Managerリリースの更新とロードマップ](https:
 
 ### Experience Manager リリース情報 {#aem-links}
 
-リリースノートおよびその他のリリース情報のリンクを参照し、Experience Managerを参照してください。
+Experience Manager に関するリリースノートやその他のリリース情報のリンクは次のとおりです。
 
 * [Experience Manager as a Cloud Service リリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=ja)
 * [Adobe Experience Manager as a Cloud Service リリース情報](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ja)
@@ -325,7 +325,7 @@ Adobeは、[Experience Managerリリースの更新とロードマップ](https:
 * [Adobe Primetime リリースノート](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=ja)
 * [Livefyre リリースノート](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=ja)
 
-### その他のExperience Manager
+### Experience Manager に関するその他のヘルプリソース
 
 * [Adobe Experience Manager as a Cloud Service に関するガイド](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/landing/home.html?lang=ja)
 * [Experience Manager 6.5 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ja)
@@ -345,7 +345,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 リリースされた最新の機能、機能強化、修正について詳しくは、以下を参照してください。
 
-* [Campaign v8リリースノート](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=en)
+* [Campaign v8 リリースノート](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=ja)
 * [Campaign Standard リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=ja)
 * [Campaign Classic リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja)
 
@@ -361,7 +361,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### Campaign ヘルプリソース
 
-* Adobe Campaign v8:[ヘルプセンター](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=en) - [導入ガイド](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=en)
+* Adobe Campaign v8：[ヘルプセンター](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=en) - [実装ガイド](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=ja)
 * Adobe Campaign Standard：[ヘルプセンター](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja) - [リリース計画](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=ja) - [最新ドキュメントの更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ja)
 * Adobe Campaign Classic：[ヘルプセンター](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja) - [最新ドキュメントの更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ja)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ja) - [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ja) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ja) のハウツービデオ
@@ -395,9 +395,9 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ## ![アイコン](/assets/magento.png) [!DNL Commerce] (Magento) {#magento}
 
-次のリンクを参照して、Adobeコマースリリースノートを確認してください。
+Adobe Commerce リリースノートについては、次のリンクを参照してください。
 
-* [Magento Commerceとオープンソース](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
+* [Magento Commerce とオープンソース](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
 * [クラウドスイート](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ## ![アイコン](/assets/target.png) [!DNL Target] {#target}
@@ -426,17 +426,17 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021 年 7 月 | [Adobe Sign のリキッドモード](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html?lang=ja) | ビデオ | リキッドモードによってモバイル署名エクスペリエンスを向上させる仕組みを説明します。ピンチやズームを減らして、入力可能なフィールドに簡単にフォーカスすることができます。 |
+| 2021 年 7 月 | [Adobe Sign の Liquid Mode](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html?lang=ja) | ビデオ | Liquid Mode によってモバイル署名エクスペリエンスを向上させる仕組みを説明します。ピンチやズームを減らして、入力可能なフィールドに簡単にフォーカスすることができます。 |
 | 2021 年 7 月 | [Adobe Sign API の概要](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/signapi.html?lang=ja) | 記事 | 開発者が Sign API を使用して、Adobe Document Services で作成されたアプリケーションとワークフローを強化する方法について説明します。 |
 | 2021 年 7 月 | [Adobe PDF 埋め込み API を使用したデジタルドキュメントパブリッシング](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/ddppdfembedapi.html?lang=ja) | 記事 | Web ページに PDF ビューアを埋め込むと、HTML や CSS を再設計したり、Web サイトへのアクセスを妨げたりすることなく、ドキュメントを表示できます。 |
-| 2021 年 7 月 | [Adobe Document Services API による学生と教師の共同作業](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/educationcollab.html?lang=ja) | 記事 | PDF サービス API にアクセスするための `Node.js` アプリケーション用の公式 SDK について説明します。これにより、Microsoft® WordやMicrosoft® ExcelなどのドキュメントをPDFに変換できます。 |
+| 2021 年 7 月 | [Adobe Document Services API による学生と教師の共同作業](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/educationcollab.html?lang=ja) | 記事 | PDF サービス API にアクセスするための `Node.js` アプリケーション用の公式 SDK について説明します。Microsoft® Word や Microsoft® Excel などのドキュメントを PDF に変換できます。 |
 | 2021 年 7 月 | [Adobe Document Service API を使用したジョブ投稿](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/jobposting.html?lang=ja) | 記事 | 複数のユーザーで構成される Web サイトを運用する際には、誰もがスムーズに操作できるようなエクスペリエンスをデザインすることが重要です。アップロードしたすべてのドキュメントを PDF に自動変換し、投稿にインラインで埋め込む方法を説明します。 |
 | 2021 年 7 月 | [Adobe Document Services API を使用したレポートの作成と編集](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/reportcreation.html?lang=ja) | 記事 | PDF を使用すると、表、グラフィック、インタラクティブコンテンツなどの豊富なドキュメントを、誰でも表示できる形式で簡単に共有できます。これらの統計を、経営陣、株主、篤志家、その他の関係者と共有する方法を説明します。 |
 | 2021 年 7 月 | [Adobe Document Services API を使用したレビューと承認](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/reviews.html?lang=ja) | 記事 | 複数の Adobe Document Services API を使用して、実用的なレビューと承認の使用例を解決する方法を説明します。 |
 | 2021 年 7 月 | [Adobe Document Services API を使用した検索とインデックス作成](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/searching.html?lang=ja) | 記事 | このチュートリアルでは、Adobe Document Services API の優れた機能と、それらの機能を使用して簡単にドキュメントをアーカイブおよびデジタル化する仕組みについて説明します。Express NodeJS アプリケーションを構築した後、アーカイブ、デジタル化、ドキュメント変換のために Document Services API を統合することで、これらの機能について説明します。 |
-| 2021 年 7 月 | [Adobe Document Services API を使用した従業員オファーレターの管理](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/offer.html?lang=ja) | 記事 | このチュートリアルでは、ユーザーが従業員情報を入力できるよう Web フォームを表示する、Node Express プロジェクトの設定について説明します。 これらの詳細は、Web上でDocument Servicesを使用してPDF形式のオファーレターを生成し、後でAdobe Sign APIを使用して署名用に顧客に配信できます。 |
+| 2021 年 7 月 | [Adobe Document Services API を使用した従業員オファーレターの管理](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/offer.html?lang=ja) | 記事 | このチュートリアルでは、ユーザーが従業員情報を入力できるよう Web フォームを表示する、Node Express プロジェクトの設定について説明します。 これらの詳細では、Web 上で Document Services を使用してオファーレターを PDF として生成します。このオファーレターは、後で Adobe Sign API を使用して、署名用に顧客へと配信できます。 |
 | 2021 年 7 月 | [Adobe Document Services API を使用した法的契約の管理](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html?lang=ja) | 記事 | このチュートリアルでは、ドキュメント内のカスタム入力フィールドの生成に関する、Adobe Document Services API の機能について説明します。また、これらの生成されたドキュメントを、保護された PDF（Portable Document Format）へと簡単に変換して、データ操作を防ぐ方法についても説明します。 |
-| 2021 年 7 月 | [Adobe Document Services API を使用した NDA の作成](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/nda.html?lang=ja) | 記事 | 会社のNDA用にMicrosoft® Wordテンプレートを作成する方法を説明します。 AdobeのMicrosoft® Word用無料アドイン、Adobeドキュメント生成タグを使用すると、動的な値を入力するための「タグ」を挿入できます。 また、JSONデータをテンプレートに渡し、動的PDFを作成する方法についても説明します。 その後、ビジネス要件と目標に応じて、その PDF を電子メールで送信したり、共同作業者のブラウザーに表示したりできます。 |
+| 2021 年 7 月 | [Adobe Document Services API を使用した NDA の作成](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/nda.html?lang=ja) | 記事 | 会社の NDA 用に Microsoft® Word テンプレートを作成する方法を説明します。アドビの Microsoft® Word 用無償アドインである Adobe Document Generation Tagger を使用すると、動的な値を入力するための「タグ」を挿入できます。また、JSON データをテンプレートに渡し、動的 PDF を作成する方法についても説明します。その後、ビジネス要件と目標に応じて、その PDF を電子メールで送信したり、共同作業者のブラウザーに表示したりできます。 |
 | 2021 年 7 月 | [Adobe Document Services API を使用した販売提案と契約の管理](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/sales.html?lang=ja) | 記事 | 動的データとワークフローを使用して、販売提案を作成するための効率的なプロセスを構築する方法を説明します。 |
 | 2021 年 7 月 | [Adobe Document Generation API を使用した請求書の処理](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/invoices.html?lang=ja) | 記事 | Adobe Document Generation API を使用して請求書を自動生成し、PDF をパスワードで保護し、各顧客に請求書を配信する方法を説明します。必要なのは、Node.js、JavaScript、Express.js、HTML、CSS に関するわずかな知識だけです。 |
 
