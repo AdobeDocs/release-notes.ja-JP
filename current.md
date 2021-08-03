@@ -6,10 +6,10 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 0a6bbad001bc4aeb0b8f6537d87d8d98131af5d5
+source-git-commit: b3b30ac28d820aa30482c823ccd537bcf9cdcfb3
 workflow-type: tm+mt
-source-wordcount: '5034'
-ht-degree: 100%
+source-wordcount: '5036'
+ht-degree: 99%
 
 ---
 
@@ -23,7 +23,7 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最終更新：**2021 年 7 月 22 日（PT）**
+最新の更新： **2021 年 8 月 3 日**
 
 * [Experience League ライブのイベント通知](#events) - **2021 年 7 月 29 日（PT）**
 * [Experience Cloud の主要なインターフェイスコンポーネント](#ecloud)
@@ -32,7 +32,7 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)（更新日：2021 年 7 月 19 日（PT））
+* [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)  **（更新日：2021年8月4日）**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -132,7 +132,7 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 * [Adobe Analytics の新機能](#aa-features)
 * [Customer Journey Analytics の新機能](#cust-journey)（更新日：2021 年 7 月 19 日（PT））
 * [Adobe Analytics の修正点](#aa-fixes)
-* [Analytics 管理者向けの重要な注意事項](#aa-notices)
+* [Analytics管理者向けの重要な注意事項](#aa-notices)（2021年8月4日更新）
 * [Analytics コースとチュートリアル](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -181,8 +181,8 @@ AN-160022、AN-186365、AN-234768（CJA）、AN-253041、AN-255098、AN-256319�
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
+| Adobe Data Connectors の EOL | 2021 年 8 月 3 日（PT） | Adobe [!UICONTROL Data Connectors] は、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。[Adobe Exchange パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)で新しい標準が利用できます。 どの統合でも、その標準を使用して、引き続き提供およびサポートできます。 正式なサポート終了日は **2021 年 8 月 19 日（PT）**&#x200B;です。 [詳細情報...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=ja) |
 | 3 つの Analytics API サービスの提供終了 | 2021 年 7 月 15 日（PT） | **2021 年 8 月 18 日（PT）**、次の Analytics レガシー API サービスの提供が終了し、サービスが停止されます。これらのサービスを使用して構築された現在の統合は、その日以降使用できなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>アドビでは、お客様のご質問に対する回答や進め方に関するガイダンスを提供するために、[従来の API の EOL（サポート終了）に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API のどちらにアクセスする場合にも使用できます。 |
-| Adobe Data Connectors のサポート終了 | 2020 年 7 月 13 日（PT） | Adobe [!UICONTROL Data Connectors] は、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。[Adobe Exchange パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)で新しい標準が利用できます。 どの統合でも、その標準を使用して、引き続き提供およびサポートできます。 正式なサポート終了日は **2021 年 8 月 1 日（PT）**&#x200B;です。 [詳細情報...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=ja) |
 | フル処理データソースののサポート終了 | 2021 年 4 月 12 日（PT） | アドビは、**2021 年 7 月 31 日（PT）に**&#x200B;フル処理データソースを非推奨（廃止予定）にする予定です。2021 年 3 月 25 日（PT）現在、このタイプの新規インポートは作成できなくなっています。 このタイプのデータをインポートするには、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を使用してください。 |
 | ログインして [!UICONTROL Report Builder] をアップデート | 2021 年 4 月 9 日（PT） | 2021 年 1 月 14 日（PT）、[!UICONTROL Report Builder] のサインインの更新により、従来のテクノロジーへの依存がなくなり、Experience Cloud のサインインプロセスと連携できるようになりました。Experience Cloud は Enterprise ID（電子メールとパスワード）を使用します。[!UICONTROL Report Builder] へのアクセスが中断されないようにするには、 **2021 年 7 月 22 日（PT）までに** [!UICONTROL Report Builder] アドインをバージョン 5.6.47 以降にアップデートしてください。Report Builder バージョン 5.6.47 以降では、Experience Cloud のサインインのみをサポートし、シングルサインオンはサポートしません。 |
 
