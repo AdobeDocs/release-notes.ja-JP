@@ -6,7 +6,7 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b3b30ac28d820aa30482c823ccd537bcf9cdcfb3
+source-git-commit: 78eda24b09b4fd09e6dbddde9ba32104cca40261
 workflow-type: tm+mt
 source-wordcount: '5036'
 ht-degree: 99%
@@ -32,7 +32,7 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)  **（更新日：2021年8月4日）**
+* [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)  **（更新日：2021年8月11日）**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -130,7 +130,7 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 
 * [Experience League ライブのイベント通知](#events)
 * [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey)（更新日：2021 年 7 月 19 日（PT））
+* [Customer Journey Analytics の新機能](#cust-journey) （更新日：2021年8月11日）
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics管理者向けの重要な注意事項](#aa-notices)（2021年8月4日更新）
 * [Analytics コースとチュートリアル](#tutorials-analytics)
@@ -162,7 +162,7 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 
 | 機能 | 説明 | [一般公開](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - ターゲット日 |
 | ----------- | ---------- | ----- |
-| 新しい接続情報のエクスペリエンス | この接続 UI の機能強化により、データがレポートに使用できる状態かどうか、またいつ使用できるかを知ることができます。また、データ処理に関する問題を追跡することもできます。 [詳細](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=ja) | 2021 年 8 月 10 日（PT） |
+| 新しい接続情報のエクスペリエンス | この接続 UI の機能強化により、データがレポートに使用できる状態かどうか、またいつ使用できるかを知ることができます。また、データ処理に関する問題を追跡することもできます。 [詳細](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=ja) | 2021 年 8 月 19 日（PT） |
 
 {style=&quot;table-layout:auto&quot;}
 
