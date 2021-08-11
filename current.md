@@ -6,7 +6,7 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: a93d9deb8ad36d396899d0b0505b1d6bf9441c3b
+source-git-commit: a802b3ea8757944a04c24b3f7b8992e1ffe9bac8
 workflow-type: tm+mt
 source-wordcount: '5002'
 ht-degree: 98%
@@ -389,7 +389,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL ツール] | 広告主アカウントがハイブリッド最適化を使用するように設定されている場合、Advertising Cloudはオプションで、アカウントの目標をコンバージョンとしてGoogle広告およびMicrosoft広告にアップロードし、ハイブリッド最適化に使用できます。 この機能は、[!UICONTROL 検索] > [!UICONTROL ツール] > [!UICONTROL コンバージョンアップロード設定]から有効にできます。 |
+| [!UICONTROL ツール] | 広告主アカウントがハイブリッド最適化を使用するように設定されている場合、Advertising Cloudはオプションで、アカウントの目標をコンバージョンとしてGoogle広告およびMicrosoft広告にアップロードし、ハイブリッド最適化に使用できます。 この機能は、**[!UICONTROL 検索]** > **[!UICONTROL ツール]** > **[!UICONTROL コンバージョンアップロード設定]**&#x200B;から有効にできます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
