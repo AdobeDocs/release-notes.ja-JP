@@ -6,10 +6,10 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 78eda24b09b4fd09e6dbddde9ba32104cca40261
+source-git-commit: a93d9deb8ad36d396899d0b0505b1d6bf9441c3b
 workflow-type: tm+mt
-source-wordcount: '5036'
-ht-degree: 99%
+source-wordcount: '5002'
+ht-degree: 98%
 
 ---
 
@@ -36,7 +36,7 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
-* [[!DNL Advertising]](#adcloud)
+* [[!DNL Advertising Cloud]](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Commerce]](#magento) (Magento)
 * [[!DNL Marketo Engage]](#marketo)
@@ -366,30 +366,30 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 * Adobe Campaign Classic：[ヘルプセンター](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja) - [最新ドキュメントの更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ja)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ja) - [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ja) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ja) のハウツービデオ
 
-## ![アイコン](/assets/advertising-cloud.png) 広告 {#adcloud}
+## ![アイコン](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
-リリースノート： [!DNL Adobe Advertising]
+リリースノート： [!DNL Adobe Advertising Cloud]
 
-* [Advertising DSP の新機能](#adcloud-dsp)
-* [Advertising Search の新機能](#adcloud-search)
+* [Advertising Cloud DSP の新機能](#adcloud-dsp)
+* [Advertising Cloud Search の新機能](#adcloud-search)
 
-### [!DNL Advertising DSP] の新機能  {#adcloud-dsp}
+### [!DNL Advertising Cloud DSP] の新機能  {#adcloud-dsp}
 
 最終更新日：**2021 年 6 月 10 日（PT）（6 月 16 日（PT）リリース）**
 
 | 機能 | 説明 |
-| -----------| ---------- |
+| ------- | ----------- |
 | キャンペーン管理 | （6 月 16 日リリース）予測は、プレースメントレベルのペースと予算で、標準のディスプレイ配置に使用できます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
-### [!DNL Advertising Search] の新機能  {#adcloud-search}
+### [!DNL Advertising Cloud Search] の新機能  {#adcloud-search}
 
-最終更新日：**2021 年 5 月 19 日（PT）（5 月 18 日（PT）リリース）**
+最終更新日：**7月24日のリリースでは**
 
 | 機能 | 説明 |
-| -----------| ---------- |
-| [!UICONTROL 通知センターベータ版] | [!UICONTROL 通知センターベータ版]は、すべてのユーザーが利用できます。これを使用すると、アカウント認証エラー、トリガーされるカスタムアラート、および生成する[!UICONTROL Advertising Insights] の完了に関するメールおよび ｗeb 通知をサブスクライブできます。<br>通知は、次のいずれかで確認できます。<ul><li>[!UICONTROL 通知]パネル。ページの右上にある通知リンクから開きます。</li><li>[!UICONTROL インサイトとレポート／通知センターベータ版]の[!UICONTROL 通知センター]。</li></ul><br><b>注意：</b>通知の保存方法が改善されたので、既存の通知はすべて消去されました。 |
+| ------- | ----------- |
+| [!UICONTROL ツール] | 広告主アカウントがハイブリッド最適化を使用するように設定されている場合、Advertising Cloudはオプションで、アカウントの目標をコンバージョンとしてGoogle広告およびMicrosoft広告にアップロードし、ハイブリッド最適化に使用できます。 この機能は、[!UICONTROL 検索] > [!UICONTROL ツール] > [!UICONTROL コンバージョンアップロード設定]から有効にできます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
