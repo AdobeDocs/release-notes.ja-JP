@@ -6,9 +6,9 @@ last-update: July 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 6c6ebfbf878dcdd9db406789f1350e04b42f3d85
+source-git-commit: 7a9c166e6b3efc239e039f7aa2c2d52a7fadd680
 workflow-type: tm+mt
-source-wordcount: '5004'
+source-wordcount: '5003'
 ht-degree: 98%
 
 ---
@@ -385,11 +385,11 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### [!DNL Advertising Cloud Search] の新機能  {#adcloud-search}
 
-最終更新日：**7月24日のリリースでは**
+最終更新日：**8月11日（7月24日リリース）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL ツール] | 広告主アカウントがハイブリッド最適化を使用するように設定されている場合、Advertising Cloudはオプションで、アカウントの目標をコンバージョンとしてGoogle広告およびMicrosoft広告にアップロードし、ハイブリッド最適化に使用できます。 この機能は、**[!UICONTROL 検索]** > **[!UICONTROL ツール]** > **[!UICONTROL コンバージョンアップロード設定]**&#x200B;から有効にできます。 |
+| [!UICONTROL ツール] | 広告主アカウントがハイブリッド最適化を使用するように設定されている場合、[!DNL Advertising Cloud Search]は、オプションで、アカウントのポートフォリオの目標をコンバージョンとしてGoogle広告にアップロードし、ハイブリッド最適化に使用できます。 この機能は、**[!UICONTROL 検索]** > **[!UICONTROL ツール]** > **[!UICONTROL コンバージョンアップロード設定]**&#x200B;から有効にできます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
