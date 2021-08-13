@@ -32,7 +32,7 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)  **（更新日：2021年8月11日）**
+* [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)**（更新日：2021年8月10日（PT））**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -130,9 +130,9 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 
 * [Experience League ライブのイベント通知](#events)
 * [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey) （更新日：2021年8月11日）
+* [Customer Journey Analytics の新機能](#cust-journey)（更新日：2021年8月10日（PT））
 * [Adobe Analytics の修正点](#aa-fixes)
-* [Analytics管理者向けの重要な注意事項](#aa-notices)（2021年8月4日更新）
+* [Analytics 管理者向けの重要な注意事項](#aa-notices)（更新日：2021年8月3日（PT））
 * [Analytics コースとチュートリアル](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
