@@ -6,10 +6,10 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4bcabafad300591b5dd46afad7032ecb8c9f5bcf
+source-git-commit: cfeac2dbfaef453f24b54450c45d22e737510281
 workflow-type: tm+mt
 source-wordcount: '4362'
-ht-degree: 52%
+ht-degree: 51%
 
 ---
 
@@ -65,13 +65,13 @@ Experience Cloud の中央インターフェイスコンポーネントには、
 
 [!UICONTROL Adobe システムステータス]は、アドビクラウド製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/) でご確認ください。
 
-Adobe System Status の最新の更新は、[Adobe System Status - 2020 年 5 月 21 日（PT）](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=ja)で、最新のリリース情報を確認できます。
+Adobeシステムステータスの最新のリリース情報は、2020年5月22日のリリースノート([](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=ja))で確認できます。
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Experience Platform および Platform タグ付けのリリース更新情報と新しいドキュメントが含まれています。
 
-* **2021年7月29日** [Experience Platformリリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)
+* **2021年7月29日** [Experience Platformリリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja) (次回リリース予定日： **8月20日**)
 * **2021年7月20日** [Experience Platformタグリリースノート](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html?lang=ja) (旧称、Experience Platform Launch)
 
 ### Experience Platform チュートリアルおよびコース {#tutorials-platform}
@@ -91,7 +91,7 @@ Adobe Journey Optimizer を使用すると、1 つのアプリケーションで
 
 ### 最新の Journey Optimizer 製品リリース
 
-最新の機能、改善点および修正点について詳しくは、[Journey Orchestration リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en)を参照してください。
+最新の機能、改善点、および修正点について詳しくは、[Journey Optimizerリリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en)を参照してください。
 
 **Journey Optimizer の追加リソース**
 
