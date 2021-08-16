@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: cfeac2dbfaef453f24b54450c45d22e737510281
+source-git-commit: c0e65e13f424913c82f6608b24a8f797ee7a0341
 workflow-type: tm+mt
-source-wordcount: '4362'
+source-wordcount: '4360'
 ht-degree: 51%
 
 ---
@@ -122,7 +122,7 @@ Adobe Campaign用に公開された新しいビデオ、チュートリアル、
 
 [!UICONTROL Offer Decisioning] は、Adobe Experience Platform と統合されたアプリケーションサービスです。[!UICONTROL Offer Decisioning] を使用すると、すべてのタッチポイントにわたって適切なタイミングで最高のオファーとエクスペリエンスを顧客に提供できます。
 
-* **2021年6月リリース：** AIランキングを使用すると、（ビジネス目標に基づいて）異なるランキング戦略を作成できます。これらの戦略は、トレーニング済みモデルシステムで使用して、特定のプロファイルに対して表示する適格なオファーをランク付けできます。
+* **2021年7月リリース：** 新しい「概  要」タブでは、オファーの意思決定の作成を開始するための主な手順を順を追って説明します。オンボーディング後は、同じタブを使用して、最新のオファー、コレクションおよび決定にすばやくアクセスできます。
 
 最新の情報については、[Offer Decisioning リリースノート](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=ja#new)を参照してください。
 
