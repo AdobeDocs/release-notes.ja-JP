@@ -6,10 +6,10 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c0e65e13f424913c82f6608b24a8f797ee7a0341
+source-git-commit: 98ff0e6871649fdf5e88c4119de1b21f27de21bf
 workflow-type: tm+mt
-source-wordcount: '4360'
-ht-degree: 51%
+source-wordcount: '4363'
+ht-degree: 52%
 
 ---
 
@@ -23,7 +23,7 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最新の更新： **2021 年 8 月 13 日**
+最新の更新： **2021 年 8 月 17 日**
 
 * [Experience Cloud の主要なインターフェイスコンポーネント](#ecloud)
 * [Experience Platform](#platform)
@@ -31,7 +31,7 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)
+* [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey) **2021年8月18日**&#x200B;に更新
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -135,9 +135,9 @@ Adobe Campaign用に公開された新しいビデオ、チュートリアル、
 リリース日：**2021 年 19 月 8 日**
 
 * [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey)
+* [Customer Journey Analytics の新機能](#cust-journey) （更新日：**2021年8月18日**）
 * [Adobe Analytics の修正点](#aa-fixes)
-* [Analytics 管理者向けの重要な注意事項](#aa-notices)（更新日：2021年8月3日（PT））
+* [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [Analytics コースとチュートリアル](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -154,7 +154,7 @@ Adobe Campaign用に公開された新しいビデオ、チュートリアル、
 | 機能 | 説明 | [一般公開](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - ターゲット日 |
 | ----------- | ---------- | ----- |
 | 新しい接続情報のエクスペリエンス | この接続 UI の機能強化により、データがレポートに使用できる状態かどうか、またいつ使用できるかを知ることができます。また、データ処理に関する問題を追跡することもできます。 [詳細](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=ja) | 2021 年 8 月 19 日（PT） |
-| データビューディメンションでの大文字と小文字の区別の制御 | ディメンション値の大文字と小文字を区別するかどうかをCustomer Journey Analyticsで制御できます。 これにより、値は同じで大文字と小文字が異なる行の重複排除が可能になります。 | 2021 年 8 月 19 日（PT） |
+| データビューディメンションでの大文字と小文字の区別の制御 | ディメンション値の大文字と小文字を区別するかどうかをCustomer Journey Analyticsで制御できます。 これにより、値は同じで大文字と小文字が異なる行の重複排除が可能になります。 [詳細](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#configure-behavior-settings) | 2021 年 8 月 19 日（PT） |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -244,15 +244,15 @@ Audience Manager の修正点と改善点。
       * デジタルアセットをリンクとして共有する場合、ユーザーはURLをクリップボードにコピーできます。 この機能強化により、アセットをより迅速かつ便利に共有できます。
    * **Experience Manager Forms as a Cloud Service**
 
-      * automated forms conversionサービスを使用して、フランス語、ドイツ語、スペイン語のPDF forms](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/extending-the-default-meta-model.html?lang=en#language-specific-meta-model)をアダプティブフォームに変換できるようになりました。[
-      * アダプティブフォームのコンポーネントに関連するエラーを表示するためのパネルをテンプレートエディターに別に追加しました。 これにより、すべてのアダプティブフォームのエラーを1か所に統合し、解決に要する時間を短縮できます。
+      * 自動フォーム変換サービスを使用して、[フランス語、ドイツ語、スペイン語の PDF フォームをアダプティブフォームに変換](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/extending-the-default-meta-model.html?lang=en#language-specific-meta-model)できるようになりました。
+      * アダプティブフォームコンポーネントに関連するエラーを表示するための別個のパネルをテンプレートエディターに追加しました。これにより、アダプティブフォームのすべてのエラーを 1 か所にまとめ、解決に要する時間を短縮できます。
 
       Formsプレリリースチャネルで使用できる新機能
 
       * **Experience ManagerForms as aCloud Service — コミュニケーション**  -  [](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/aem-forms-cloud-service-communications.html?lang=en) Cloud ServiceとしてAEM Formsを使用 — コミュニケーションAPIシェルプを使用して、XDPテンプレートとXMLデータを組み合わせ、様々な形式で印刷ドキュメントを生成します。このサービスを使用すると、同期モードでドキュメントを生成できます。 API を使用すると、次の操作を可能にするアプリケーションを作成できます。
          * テンプレートファイルに XML データを入力してドキュメントを生成します。
          * 非インタラクティブ PDF 印刷ストリームを含む様々な形式で出力フォームを生成します。
-         * XFAフォームPDFおよびAdobe Acrobatフォームから印刷用PDFファイルを生成します。
+         * XFA フォーム PDF および Adobe Acrobat フォームから印刷用 PDF ファイルを生成する
       * **[!UICONTROL Variable Data Externalizer]**  — 組織が管理する外部ストレージシステムに、Experience Managerワークフロー変数のデータを保存できます。
       * **[!UICONTROL Acroformベースのレコードのドキュメント]**  -  [Adobe Acrobat Form PDF(Acroform PDF)](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en) を、XFAベースのフォームテンプレート以外のレコードのドキュメントのテンプレートとして使用することもできます。
          **Microsoft® Azureデータストアコネクタ**  — フォームデータモデ [ルをMicrosoft® Azure Storageに接続できるようになりました](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/use-form-data-model/configure-azure-storage.html?lang=en)。これにより、アダプティブフォームデータを取得し、BLOBとしてMicrosoft® Azure Storageに保存することができます。
@@ -333,9 +333,9 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 リリースされた最新の機能、機能強化、修正について詳しくは、以下を参照してください。
 
-* Adobe Campaign Classic v8.1.14リリース：詳しくは、[Campaign Classicv8リリースノート](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/release-notes.html?lang=en)を参照してください。
+* [Campaign v8.1.14](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/release-notes.html?lang=en)
 * [Campaign Standard リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
-* [Campaign Classic リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja)
+* [Campaign Classicv7 21.1.3のリリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja)
 
 <!-- ### New [!UICONTROL Campaign] courses and tutorials {#tutorials-campaign}
 
