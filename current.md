@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 98ff0e6871649fdf5e88c4119de1b21f27de21bf
 workflow-type: tm+mt
 source-wordcount: '4363'
-ht-degree: 52%
+ht-degree: 54%
 
 ---
 
@@ -109,10 +109,10 @@ Adobe Campaign用に公開された新しいビデオ、チュートリアル、
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021 年 8 月 | [ジャーニー構築の概要](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html) | ビデオ | ジャーニーキャンバスでのジャーニー構築の基本を理解します。 |
-| 2021 年 8 月 | [データの設定 — 概要](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/set-up-data-overview.html) | ビデオ | リアルタイム顧客プロファイルデータと、Journey Optimizerの顧客プロファイルデータを設定するために必要な手順について説明します。 |
-| 2021 年 8 月 | [IDのマッピング](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/map-identities.html) | ビデオ | スキーマフィールドにIDとしてラベルを付ける方法とタイミング、名前空間の作成方法、IDプライマリにする方法、IDデータの取得と検証方法について説明します。 |
-| 2021 年 8 月 | [使用例：バーストメッセージ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-burst-message.html) | ビデオ | バーストメッセージの該当する使用例を理解します。 バーストメッセージのジャーニーを設定する方法と、適用するベストプラクティスを説明します。 |
+| 2021 年 8 月 | [ジャーニー構築の概要](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html) | ビデオ | ジャーニーキャンバスでジャーニーを構築する基本を理解します。 |
+| 2021 年 8 月 | [データの設定 — 概要](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/set-up-data-overview.html) | ビデオ | リアルタイム顧客プロファイルデータと、Journey Optimizer の顧客プロファイルデータを設定するために必要な手順について説明します。 |
+| 2021 年 8 月 | [ID のマッピング](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/map-identities.html) | ビデオ | スキーマフィールドに ID としてラベルを付ける方法とタイミング、名前空間の作成方法、ID をプライマリにするタイミング、ID データの取得と検証方法について説明します。 |
+| 2021 年 8 月 | [使用例：バーストメッセージ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-burst-message.html) | ビデオ | バーストメッセージに適用可能なユースケースを理解します。バーストメッセージのジャーニーを設定する方法と、適用するベストプラクティスを説明します。 |
 
 **Journey Orchestration の追加リソース**
 
@@ -135,7 +135,7 @@ Adobe Campaign用に公開された新しいビデオ、チュートリアル、
 リリース日：**2021 年 19 月 8 日**
 
 * [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey) （更新日：**2021年8月18日**）
+* [Customer Journey Analytics の新機能](#cust-journey)（更新日：**2021 年 8 月 17 日（PT）**）
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [Analytics コースとチュートリアル](#tutorials-analytics)
@@ -381,7 +381,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 {style=&quot;table-layout:auto&quot;}
 
-## ![アイコン](/assets/magento.png) [!DNL Commerce] (Magento) {#magento}
+## ![アイコン](/assets/magento.png)[!DNL Commerce]（Magento） {#magento}
 
 Adobe Commerce リリースノートについては、次のリンクを参照してください。
 
