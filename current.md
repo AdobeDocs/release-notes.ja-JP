@@ -6,10 +6,10 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9b538a541f0211a3026fb3f8bdd7de834bced917
+source-git-commit: c47b884401c2d9b4cce5d6b56252c58acccc598c
 workflow-type: tm+mt
-source-wordcount: '4444'
-ht-degree: 53%
+source-wordcount: '4427'
+ht-degree: 54%
 
 ---
 
@@ -23,7 +23,7 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最新の更新： **2021 年 8 月 17 日**
+最新の更新： **2021 年 8 月 20 日**
 
 * [Experience Cloud の主要なインターフェイスコンポーネント](#ecloud)
 * [Experience Platform](#platform)
@@ -31,7 +31,7 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey) **2021年8月18日**&#x200B;に更新
+* [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)(**2021 年 8 月 17 日**&#x200B;更新)
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -71,8 +71,7 @@ Adobeシステムステータスの最新のリリース情報は、2020年5月2
 
 Experience Platform および Platform タグ付けのリリース更新情報と新しいドキュメントが含まれています。
 
-* **2021年7月29日** [Experience Platformリリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja) (次回リリース予定日： **8月20日**)
-* **2021年7月20日** [Experience Platformタグリリースノート](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html?lang=ja) (旧称、Experience Platform Launch)
+* **2021年7月29日** [Experience Platformリリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja) (次回のリリース予定 —  **8月25日**)
 
 ### Experience Platform チュートリアルおよびコース {#tutorials-platform}
 
