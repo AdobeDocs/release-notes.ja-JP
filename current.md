@@ -6,10 +6,10 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 98ff0e6871649fdf5e88c4119de1b21f27de21bf
+source-git-commit: 9b538a541f0211a3026fb3f8bdd7de834bced917
 workflow-type: tm+mt
-source-wordcount: '4363'
-ht-degree: 54%
+source-wordcount: '4444'
+ht-degree: 53%
 
 ---
 
@@ -373,10 +373,11 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### [!DNL Advertising Cloud Search] の新機能  {#adcloud-search}
 
-最終更新日：**2021年8月12日（8月21日リリース用）**
+最終更新日：**2021年8月20日（8月21日リリース用）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
+| — | 新しいベータ版Advertising Cloud JavaScriptタグは、Adobe Experience Cloud ID(ECID)サービスと、従来のef_idおよびgsurferidを使用してコンバージョンを測定します。 この新しいタグは、[ファーストパーティExperience Clouds_ecid cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html)を作成し、他のExperience Cloud製品とより緊密に統合できます。<br><br>ITPマッピングを使用する従来のAdvertising Cloud JavaScriptタグは、2021年9月に廃止されます。<br><br>担当のAdobeアカウントマネージャーから、詳細および実装手順についてご連絡いたします。 |
 | [!UICONTROL ポートフォリオ] | 自動重み付けの推奨を含む新しい[!UICONTROL 目標ベータ版]は、すべてのユーザーが利用できます。 新しいインターフェイスには、目標の作成と初期目標の重み付けの設定に関する、より詳しいガイダンスが含まれています。 重み付けのレコメンデーションは、アシスト指標に対してのみ使用できます。 |
 
 {style=&quot;table-layout:auto&quot;}
