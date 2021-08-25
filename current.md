@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fd638c92e6804ccdec2adfc9aec1f571c610b798
+source-git-commit: 0f1c37e20e20740e60c6e6c72e465c8611e4a60b
 workflow-type: tm+mt
-source-wordcount: '4430'
+source-wordcount: '4445'
 ht-degree: 53%
 
 ---
@@ -23,10 +23,10 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最新の更新： **2021 年 8 月 20 日**
+最新の更新： **2021 年 8 月 25 日**
 
 * [Experience Cloud の主要なインターフェイスコンポーネント](#ecloud)
-* [Experience Platform](#platform)
+* [Experience Platform](#platform) (更 **新日：2021年8月26日**)
 * [Adobe システムステータス](#status)
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
@@ -71,7 +71,13 @@ Adobeシステムステータスの最新のリリース情報は、2020年5月2
 
 Experience Platform および Platform タグ付けのリリース更新情報と新しいドキュメントが含まれています。
 
-* **2021年7月29日** [Experience Platformリリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja) (次回のリリース予定 —  **8月25日**)
+**2021年8月26日** の、Experience Platformの既存の機能の更新点は次のとおりです。
+
+* Observability Insights
+* リアルタイム顧客プロファイル
+* ソース
+
+詳しくは、[Experience Platformリリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)を参照してください。
 
 ### Experience Platform チュートリアルおよびコース {#tutorials-platform}
 
