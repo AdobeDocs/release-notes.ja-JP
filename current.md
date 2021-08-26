@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8b1a49bf761607dccb2793e0223c072cd6121be3
+source-git-commit: c402b360cc166a76c694b383806a21a34ccd2e60
 workflow-type: tm+mt
-source-wordcount: '4503'
+source-wordcount: '4508'
 ht-degree: 53%
 
 ---
@@ -46,13 +46,11 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 
 サポートが必要な場合は、[Adobe Experience League](https://experienceleague.adobe.com/?lang=ja#home) にアクセスし、製品および技術ドキュメント、アドビが運営するコース、ビデオチュートリアル、すばやい回答、コミュニティインサイト、講師によるトレーニングをお探しください。
 
-## Experience Leagueライブ向けのイベント通知 — 次のオーディエンスセグメントを従来よりもスマートに {#events}
+## ![](/assets/experience-league.png) IconExperience League Live {#events}
 
-Aaron Shealds、Yaya Wang、Andres Monroyを使用したExperience PlatformLIVEのセグメントビルダーについて説明します。
+**2021年8月26日** |  [次のオーディエンスセグメントをこれまで以上にスマートにする](https://www.youtube.com/watch?v=rogVKsTFbWk)  - Doug Moore、Aaron Shealds、Yaya Wang、Andres MonroyとExperience Platformしたセグメントビルダーを理解します。
 
-**イベント：** [次のオーディエンスセグメントをこれまで以上にスマートにする](https://www.youtube.com/watch?v=rogVKsTFbWk)
-
-**日時：** 2021年8月26日午前9時(PST)
+その他のビデオについては、YouTubeの[Adobe Experience Leagueチャネル](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw)を参照してください。
 
 ## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud 中央の UI コンポーネント {#ecloud}
 
