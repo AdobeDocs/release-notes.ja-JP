@@ -6,9 +6,9 @@ last-update: August 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 0f1c37e20e20740e60c6e6c72e465c8611e4a60b
+source-git-commit: 8b1a49bf761607dccb2793e0223c072cd6121be3
 workflow-type: tm+mt
-source-wordcount: '4445'
+source-wordcount: '4503'
 ht-degree: 53%
 
 ---
@@ -23,8 +23,9 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最新の更新： **2021 年 8 月 25 日**
+最新の更新： **2021 年 8 月 26 日**
 
+* [Experience Leagueライブのイベント通](#events) 知 **- 2021年8月27日**
 * [Experience Cloud の主要なインターフェイスコンポーネント](#ecloud)
 * [Experience Platform](#platform) (更 **新日：2021年8月26日**)
 * [Adobe システムステータス](#status)
@@ -44,6 +45,14 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 * [Creative Cloud エンタープライズ版](#creative-cloud)
 
 サポートが必要な場合は、[Adobe Experience League](https://experienceleague.adobe.com/?lang=ja#home) にアクセスし、製品および技術ドキュメント、アドビが運営するコース、ビデオチュートリアル、すばやい回答、コミュニティインサイト、講師によるトレーニングをお探しください。
+
+## Experience Leagueライブ向けのイベント通知 — 次のオーディエンスセグメントを従来よりもスマートに {#events}
+
+Aaron Shealds、Yaya Wang、Andres Monroyを使用したExperience PlatformLIVEのセグメントビルダーについて説明します。
+
+**イベント：** [次のオーディエンスセグメントをこれまで以上にスマートにする](https://www.youtube.com/watch?v=rogVKsTFbWk)
+
+**日時：** 2021年8月26日午前9時(PST)
 
 ## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud 中央の UI コンポーネント {#ecloud}
 
