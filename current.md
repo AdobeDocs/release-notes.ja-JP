@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: c402b360cc166a76c694b383806a21a34ccd2e60
 workflow-type: tm+mt
 source-wordcount: '4508'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,14 +25,14 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 
 最新の更新： **2021 年 8 月 26 日**
 
-* [Experience Leagueライブのイベント通](#events) 知 **- 2021年8月27日**
+* [Experience League LIVE のイベント通知](#events) - **2021年8月26日（PT）**
 * [Experience Cloud の主要なインターフェイスコンポーネント](#ecloud)
-* [Experience Platform](#platform) (更 **新日：2021年8月26日**)
+* [Experience Platform](#platform)（更新日 **2021年8月25日（PT）**）
 * [Adobe システムステータス](#status)
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey) （**2021年8月18日**&#x200B;に更新）
+* [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)（更新日 **2021年8月17日（PT）**）
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -46,11 +46,11 @@ Experience Cloud アプリケーションおよびサービスは毎月更新さ
 
 サポートが必要な場合は、[Adobe Experience League](https://experienceleague.adobe.com/?lang=ja#home) にアクセスし、製品および技術ドキュメント、アドビが運営するコース、ビデオチュートリアル、すばやい回答、コミュニティインサイト、講師によるトレーニングをお探しください。
 
-## ![](/assets/experience-league.png) IconExperience League Live {#events}
+## ![アイコン](/assets/experience-league.png) Experience League LIVE {#events}
 
-**2021年8月26日** |  [次のオーディエンスセグメントをこれまで以上にスマートにする](https://www.youtube.com/watch?v=rogVKsTFbWk)  - Doug Moore、Aaron Shealds、Yaya Wang、Andres MonroyとExperience Platformしたセグメントビルダーを理解します。
+**2021年8月26日（PT）** | [次のオーディエンスセグメントをこれまで以上にスマートにする](https://www.youtube.com/watch?v=rogVKsTFbWk) - ダグ ムーア、アーロン シールズ、ヤヤ ワン、アンドレス モンロイの話を通じて Experience Platform のセグメントビルダーを理解します。
 
-その他のビデオについては、YouTubeの[Adobe Experience Leagueチャネル](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw)を参照してください。
+その他のビデオについては、YouTube の [Adobe Experience League チャンネル](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw)を参照してください。
 
 ## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud 中央の UI コンポーネント {#ecloud}
 
@@ -58,7 +58,7 @@ Experience Cloud の中央インターフェイスコンポーネントには、
 
 | 機能 | 日付 | 説明 |
 | ------- | ------- | -------|
-| [!UICONTROL 最新情報の統合] - 最近アクセスしたビジネスオブジェクトに対するサポートの拡張 | 2021 年 8 月 10 日（PT） | [!UICONTROL 最新情報の統合]は、Journey Optimizer と Experience Platform の追加のビジネスオブジェクトに拡張されています。Journey Optimizer のお客様は、最近アクセスしたオブジェクト（メッセージ、ジャーニー、セグメント、スキーマ、データセット、データソース、イベント、アクション、ソース、宛先）を Adobe Journey Optimizer のホームページから検索できます。 |
+| [!UICONTROL 統合された最新情報] - 最近アクセスしたビジネスオブジェクトに対する拡張サポート | 2021 年 8 月 10 日（PT） | [!UICONTROL 統合された最新情報] は、Journey Optimizer と Experience Platform の追加のビジネスオブジェクトに拡張されました。Journey Optimizer のお客様は、最近アクセスしたオブジェクト（メッセージ、ジャーニー、セグメント、スキーマ、データセット、データソース、イベント、アクション、ソース、宛先）を Adobe Journey Optimizer のホームページから検索できます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -78,13 +78,13 @@ Experience Cloud の中央インターフェイスコンポーネントには、
 
 Experience Platform および Platform タグ付けのリリース更新情報と新しいドキュメントが含まれています。
 
-**2021年8月26日** の、Experience Platformの既存の機能の更新点は次のとおりです。
+**2021年8月25日（PT）** の、Experience Platform の既存の機能に対する更新点は次のとおりです。
 
 * Observability Insights
 * リアルタイム顧客プロファイル
 * ソース
 
-詳しくは、[Experience Platformリリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)を参照してください。
+詳しくは、[Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)を参照してください。
 
 ### Experience Platform チュートリアルおよびコース {#tutorials-platform}
 
@@ -144,7 +144,7 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 
 ## ![アイコン](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-リリース日：**2021 年 19 月 8 日**
+リリース日：**2021 年 8 月 19 日**
 
 * [Adobe Analytics の新機能](#aa-features)
 * [Customer Journey Analytics の新機能](#cust-journey)（更新日：**2021 年 8 月 17 日（PT）**）
@@ -375,7 +375,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### [!DNL Advertising Cloud DSP] の新機能  {#adcloud-dsp}
 
-最終更新日：**2021 年 8 月 21 日（PT）（8 月 11 日リリース）**
+最終更新日：**2021 年 8 月 12 日（PT）（8 月 11 日リリース）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
@@ -389,7 +389,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| — | 新しいベータ版Advertising Cloud JavaScriptタグは、Adobe Experience Cloud ID(ECID)サービスと、従来のef_idおよびgsurferidを使用してコンバージョンを測定します。 この新しいタグは、[ファーストパーティExperience Clouds_ecid cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html)を作成し、他のExperience Cloud製品とより緊密に統合できます。<br><br>ITPマッピングを使用する従来のAdvertising Cloud JavaScriptタグは、2021年9月に廃止されます。<br><br>担当のAdobeアカウントマネージャーから、詳細および実装手順についてご連絡いたします。 |
+| — | 新しいベータ版 Advertising Cloud JavaScript タグは、Adobe Experience Cloud ID (ECID) サービスと、従来の ef_id および gsurferid を使用してコンバージョンを測定します。この新しいタグは、[ファーストパーティ Experience Cloud s_ecid Cookie](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html?lang=ja) を作成し、他の Experience Cloud 製品とより緊密に統合できます。<br><br>ITP マッピングを使用する従来の Advertising Cloud JavaScript タグは、2021年9月に廃止されます。<br><br>担当のアドビアカウントマネージャーから、詳細情報および実装手順についてご連絡いたします。 |
 | [!UICONTROL ポートフォリオ] | 自動重み付けのレコメンデーションを含む新しい[!UICONTROL 目標ベータ版]は、すべてのユーザーが利用できます。新しいインターフェイスには、目標の作成と初期目標の重み付けの設定に関する、より多くのガイダンスが含まれています。重み付けのレコメンデーションは、アシスト指標に対してのみ使用できます。 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -403,7 +403,7 @@ Adobe Commerce リリースノートについては、次のリンクを参照�
 
 ## ![アイコン](/assets/target.png) [!DNL Target] {#target}
 
-最終更新日：**2021年8月3日**
+最終更新日：**2021年8月3日（PT）**
 
 最新のリリース情報については、[[!DNL Target] リリースノート](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ja)を参照してください。
 
