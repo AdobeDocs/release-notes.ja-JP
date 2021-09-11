@@ -4,9 +4,9 @@ description: Experience Cloud リリースノート
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: 48c0f82523382da9a78a78d850432c0bafd7cee7
+source-git-commit: b83f085d9fca7c4ae2b3519d32033a03aec28026
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '725'
 ht-degree: 93%
 
 ---
@@ -26,20 +26,25 @@ Adobe Experience Cloud の新機能および修正点です。
 >
 >リリース後に発表された新情報には、更新の日付が明記されます。
 
-**リリース日：2021 年**
+最新の更新：**2021年9月**
 
-* [Adobe システムステータス](#status)
-* [Experience Cloud インターフェイス ](#ecloud)
+* [Experience Leagueライブイベント](#events)
+* [Experience Cloud の主要なインターフェイスコンポーネント](#ecloud)
 * [Experience Platform](#platform)
-* [Analytics](#analytics)
-* [Audience Manager](#aam)
-* [Adobe Experience Manager](#aem)
-* [Campaign](#ac)
-* [広告](#adcloud)
-* [Magento](#magento)
-* [Marketo](#marketo)
-* [Primetime](https://experienceleague.adobe.com/docs/primetime.html)（ソリューションヘルプへのリンク）
-* [新しいドキュメントとチュートリアル](#selfhelp)
+* [Experience Platformアプリケーションサービス](#services)
+* [Adobe システムステータス](#status)
+* [Journey Optimizer](#journey-opt)
+* [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)
+* [[!DNL Audience Manager]](#aam)
+* [[!DNL Experience Manager]](#aem)
+* [[!DNL Campaign]](#ac)
+* [[!DNL Advertising Cloud]](#adcloud)
+* [[!DNL Target]](#target)
+* [[!DNL Commerce]](#magento) (Magento)
+* [[!DNL Marketo Engage]](#marketo)
+* [[!DNL Workfront]](#workfront)
+* [Document Cloud](#doc-cloud)
+* [Creative Cloud エンタープライズ版](#creative-cloud)
 
 ## Adobe システムステータス {#status}
 
@@ -47,12 +52,15 @@ Adobe Experience Cloud の新機能および修正点です。
 
 [Adobe システムステータス](https://status.adobe.com/)を参照してください。
 
-## Experience Cloud インターフェイス {#ecloud}
+## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud 中央の UI コンポーネント {#ecloud}
 
-Experience Cloud インターフェイスの新機能および修正点です。管理およびコアサービス（顧客属性、オーディエンス、トリガー、cookie など）が含まれます。
+Experience Cloud の中央インターフェイスコンポーネントには、統合された製品ヘッダーからアクセスするアップデート（セルフヘルプ、検索、ユーザーアカウントの環境設定など）が含まれています。People、Places（場所）、および製品管理のアップデートについては、こちらを参照してください。
 
-* [[!UICONTROL コアサービス]](#core-services)
-* [管理および開発者](#admin)
+| 機能 | 日付 | 説明 |
+| ------- | ------- | -------|
+| 機能 | 2021 年 9 月 | 説明 |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### [!UICONTROL コアサービス] {#core-services}
 
