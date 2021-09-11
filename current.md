@@ -6,9 +6,9 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 86c72625cfc50612c0a7cf0c9893b3d6dc4e90f4
+source-git-commit: 462d61e20e2a12671be96cf653d639c07fd6bf96
 workflow-type: tm+mt
-source-wordcount: '6299'
+source-wordcount: '6301'
 ht-degree: 37%
 
 ---
@@ -194,10 +194,12 @@ Experience Platform およびサービス用に公開された新しいビデオ
 
 Journey Orchestrationの機能、修正点および新しいヘルプコンテンツ。
 
+**2021 年 8 月**
+
 * **動的ヘッダー：** 動的データをHTTPヘッダーパラメーターに渡せるようになりました。これらのパラメーターは、ジャーニーアクションの HTTP 呼び出し（タイムスタンプやトラッキング ID など）を受信する統合システムで使用できます。[詳細情報...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
 * **動的URLパス：** カスタムアクションの動的URLパスを設定できるようになりました。[詳細情報...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
 
-* **2021年8月** -  [Journey Orchestrationリリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ja)
+詳しくは、[Journey Orchestrationリリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ja)を参照してください。
 
 #### 新しい Journey Orchestration のチュートリアルとコース {#tutorials-ajo}
 
