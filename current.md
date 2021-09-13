@@ -6,9 +6,9 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 331a26c572b1fc08fe46bd95ed80df1df1986077
+source-git-commit: cc9f1d42093c54689b6d15c640879891e4d4ce24
 workflow-type: tm+mt
-source-wordcount: '6307'
+source-wordcount: '6298'
 ht-degree: 37%
 
 ---
@@ -27,10 +27,10 @@ ht-degree: 37%
 
 * [[!DNL Experience League] ライブイベント](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; 管理](#ecloud)
-* [Adobe システムステータス](#status)
+* [Adobe[!UICONTROL システムステータス]](#status)
 * [[!DNL Adobe Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [Adobe Experience Platform](#platform)
+* [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Campaign]](#ac)
@@ -39,8 +39,8 @@ ht-degree: 37%
 * [[!DNL Adobe Commerce]](#magento)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [Document Cloud](#doc-cloud)
-* [Creative Cloud エンタープライズ版](#creative-cloud)
+* [[!DNL Document Cloud]](#doc-cloud)
+* [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 
 サポートが必要な場合は、[Adobe Experience League](https://experienceleague.adobe.com/?lang=ja#home) にアクセスし、製品および技術ドキュメント、アドビが運営するコース、ビデオチュートリアル、すばやい回答、コミュニティインサイト、講師によるトレーニングをお探しください。
 
