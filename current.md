@@ -1,6 +1,6 @@
 ---
 title: 最新のリリースノート
-description: Experience Cloud 製品および サービスに関する最新のリリースノート、新機能および新規ドキュメントについて説明します。Experience Cloud、Creative Cloud エンタープライズ版および Document Cloud に関する新しいヘルプとチュートリアルをご覧ください。
+description: Experience Cloud 製品およびサービスに関する最新のリリースノート、新機能および新規ドキュメントについて説明します。Experience Cloud、Creative Cloud エンタープライズ版および Document Cloud に関する新しいヘルプとチュートリアルをご覧ください。
 doc-type: release notes
 last-update: September 2021
 author: mfrei
@@ -21,7 +21,7 @@ ht-degree: 37%
 
 >[!NOTE]
 >
->毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。 このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
+>毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
 最終更新日：**2021 年 9 月 11 日**
 
@@ -51,8 +51,8 @@ ht-degree: 37%
 | イベント日 | イベント名 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2021 年 9 月 23 日 | [休暇キャンペーンを際立たせるためのエキスパートのヒント](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) | ライブビデオイベント | 休暇のショッピングを始めるには早すぎないのと同じように、ホリデーマーケティングキャンペーンを大成功に導くには早すぎることはありません。 Adobe Campaignを使用すると、組織の休暇中の願いを叶えるキャンペーンを設計、計画、実行できます。<br>でも、1年で終わるキャンペーンを実行するためのヒントは、すべてご存じですか？3人のAdobe専門家が集団的な専門知識を持ち、それだけを行うライブディスカッションに参加してください。 [詳細...](https://www.youtube.com/watch?v=bsU1lAv0xes) |
-| 2021 年 8 月 26 日（PT） | [次のオーディエンスセグメントを従来よりもスマートに](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=en) | イベントの記録 | すべての優れたマーケティングキャンペーンを成功させるには、オーディエンスを正確にターゲット設定する必要があります。 新しいAdobe Experience Platform [!UICONTROL セグメントビルダー]を使用すると、プロファイルデータとチャネルをまたいだ時間ベースのユーザー行動を使用して、次のオーディエンスセグメントを作成できます。 メッセージを最も聞き取りが必要な人に確実に届ける方法はありません。 |
-| 2021 年 7 月 29 日（PT） | [お気に入りの3つのAdobe Analytics実装のヒント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=en) | イベントの記録 | サミットで彼がステージに上がっているのを見たことがありますね Adobe・インサイダー・ツアーで彼が専門家の助言を共有するのを聞いた。 お客様自身のAdobe Analytics実装で共同作業する利点もあるかもしれません。 エリック・マティソフフは、Adobe Analyticsの3つのお気に入りの実装のヒントを、この排他的なExperience League・ライブ・ディスカッションにもたらします。 |
+| 2021年8月26日 | [次のオーディエンスセグメントを従来よりもスマートに](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=en) | イベントの記録 | すべての優れたマーケティングキャンペーンを成功させるには、オーディエンスを正確にターゲット設定する必要があります。 新しいAdobe Experience Platform [!UICONTROL セグメントビルダー]を使用すると、プロファイルデータとチャネルをまたいだ時間ベースのユーザー行動を使用して、次のオーディエンスセグメントを作成できます。 メッセージを最も聞き取りが必要な人に確実に届ける方法はありません。 |
+| 2021年7月29日 | [お気に入りの3つのAdobe Analytics実装のヒント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=en) | イベントの記録 | サミットで彼がステージに上がっているのを見たことがありますね Adobe・インサイダー・ツアーで彼が専門家の助言を共有するのを聞いた。 お客様自身のAdobe Analytics実装で共同作業する利点もあるかもしれません。 エリック・マティソフフは、Adobe Analyticsの3つのお気に入りの実装のヒントを、この排他的なExperience League・ライブ・ディスカッションにもたらします。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -64,7 +64,7 @@ ht-degree: 37%
 
 **その他のヘルプリソース( [!DNL Experience Cloud Central UI Components] 管理)**
 
-* [中央インターフェイスコンポーネント](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=ja)およびユーザー管理の管理ヘルプ
+* [主要なインターフェイスコンポーネント](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=ja)およびユーザー管理の管理ヘルプ
 * [Places - 位置情報サービス](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=ja)のヘルプとリリースノート
 * [People - 顧客属性とオーディエンスライブラリ](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=ja)に関するヘルプ。
 
@@ -101,7 +101,7 @@ ht-degree: 37%
 | レポート用の夏時間のサポート | CJA内のすべてのデータは、（特定のタイムゾーンではなく）UTCで保存されます。 [!UICONTROL CJAの] データ表示で、夏時間に基づいて1時間の増減を考慮してデータをシフトできるようになりました。 | 2021 年 9 月 16 日 |
 | [!UICONTROL カスタムカレンダー] | データビューに対して別のカレンダータイプ([!UICONTROL retail 4-4-5]など)を選択できます。 同じ接続に基づいて複数のデータビューを作成し、同じデータを異なるカレンダー形式で表示できます。 | 2021 年 9 月 16 日 |
 | ブール値フィールドのサポート | CJAでブール値フィールドがサポートされるようになりました。 | 2021 年 9 月 16 日 |
-| 新しい[!UICONTROL 接続]情報エクスペリエンス | この[!UICONTROL 接続] UIの機能強化により、データをレポートで使用できる状態になったかどうかと、そのタイミングを把握できます。 また、データ処理に関する問題を追跡することもできます。 [詳細](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=ja) | 2021 年 9 月 20 日 |
+| 新しい[!UICONTROL 接続]情報エクスペリエンス | この[!UICONTROL 接続] UIの機能強化により、データをレポートで使用できる状態になったかどうかと、そのタイミングを把握できます。 また、データ処理に関する問題を追跡することもできます。[詳細](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=ja) | 2021 年 9 月 20 日 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -122,14 +122,14 @@ ht-degree: 37%
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
-| Adobe[!UICONTROL Data Connectors]のサポート終了 | 2020 年 8 月 3 日（PT） | Adobe [!UICONTROL Data Connectors] は、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。[Adobe Exchange パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)で新しい標準が利用できます。 どの統合でも、その標準を使用して、引き続き提供およびサポートできます。 正式なサポート終了日は **2021 年 8 月 19 日（PT）**&#x200B;です。 [詳細情報...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=ja) |
-| フル処理[!UICONTROL  データソース]のサポート終了 | 2021 年 4 月 12 日（PT） | アドビは、**2021 年 7 月 31 日（PT）**&#x200B;にフル処理データソースを非推奨（廃止予定）としました。 2021 年 3 月 25 日（PT）現在、このタイプの新規インポートは作成できなくなっています。 このタイプのデータをインポートするには、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を使用してください。 |
+| Adobe[!UICONTROL Data Connectors]のサポート終了 | 2020年8月3日 | Adobe [!UICONTROL Data Connectors] は、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。[Adobe Exchange パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)で新しい標準が利用できます。どの統合でも、その標準を使用して、引き続き提供およびサポートできます。正式なサポート終了日は **2021年8月19日（PT）**&#x200B;です。[詳細情報...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=ja) |
+| フル処理[!UICONTROL  データソース]のサポート終了 | 2021年4月12日 | アドビは、**2021年7月31日（PT）**&#x200B;にフル処理データソースを非推奨（廃止予定）としました。2021年3月25日（PT）現在、このタイプの新規インポートは作成できなくなっています。このタイプのデータをインポートするには、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を使用してください。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### AppMeasurement {#appm}
 
-AppMeasurement リリース（バージョン 2.22.2）の最新の更新については、[JavaScript リリースノートの AppMeasurement](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=ja)を参照してください。
+AppMeasurement リリース（バージョン 2.22.2）の最新の更新については、[JavaScript リリースノートの AppMeasurement](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=ja) を参照してください。
 
 ### 新しい Analytics コースとチュートリアル {#tutorials-analytics}
 
@@ -169,7 +169,7 @@ AppMeasurement リリース（バージョン 2.22.2）の最新の更新につ�
 
 Experience PlatformおよびPlatformサービスのリリース更新情報と新しいドキュメント([!UICONTROL Journey Orchestration]、[!UICONTROL Offer decisioning]、[!UICONTROL Mobile SDK])が含まれます。
 
-**2021年8月25日（PT）** の、Experience Platform の既存の機能に対する更新点は次のとおりです。
+Experience Platform の既存機能の更新（**2021年8月25日**&#x200B;分）は、次のとおりです。
 
 * **[!UICONTROL 宛先]:** 宛先のセグメントを既存の宛先にシームレスにア  クティブ化する、宛先の指定が可能なマーケターのユーザビリティを改善しました。
 * **[!UICONTROL 観察性インサイト]:** Platform上で実行されるワークフローに関連する重要なアラートを購読できるようになりました。
@@ -194,7 +194,7 @@ Experience Platform およびサービス用に公開された新しいビデオ
 
 Journey Orchestrationの機能、修正点および新しいヘルプコンテンツ。
 
-**2021 年 8 月**
+**2021年8月**
 
 * **動的ヘッダー：** 動的データをHTTPヘッダーパラメーターに渡せるようになりました。これらのパラメーターは、ジャーニーアクションの HTTP 呼び出し（タイムスタンプやトラッキング ID など）を受信する統合システムで使用できます。[詳細情報...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
 * **動的URLパス：** カスタムアクションの動的URLパスを設定できるようになりました。[詳細情報...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
@@ -205,10 +205,10 @@ Journey Orchestrationの機能、修正点および新しいヘルプコンテ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021 年 8 月 | [ジャーニー構築の概要](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html?lang=ja) | ビデオ | ジャーニーキャンバスでジャーニーを構築する基本を理解します。 |
-| 2021 年 8 月 | [顧客プロファイルデータの設定 — 概要](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html?lang=ja) | ビデオ | リアルタイム顧客プロファイルデータと、Journey Optimizerの顧客プロファイルデータを設定するために必要な手順について説明します。 |
-| 2021 年 8 月 | [ID のマッピング](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html?lang=ja) | ビデオ | スキーマフィールドに ID としてラベルを付ける方法とタイミング、名前空間の作成方法、ID をプライマリにするタイミング、ID データの取得と検証方法について説明します。 |
-| 2021 年 8 月 | [使用例 — バーストメッセージ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html) | ビデオ | バーストメッセージに適用可能なユースケースを理解します。バーストメッセージのジャーニーを設定する方法と、適用するベストプラクティスを説明します。 |
+| 2021年8月 | [ジャーニー構築の概要](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html?lang=ja) | ビデオ | ジャーニーキャンバスでジャーニーを構築する基本を理解します。 |
+| 2021年8月 | [顧客プロファイルデータの設定 — 概要](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html?lang=ja) | ビデオ | リアルタイム顧客プロファイルデータと、Journey Optimizerの顧客プロファイルデータを設定するために必要な手順について説明します。 |
+| 2021年8月 | [ID のマッピング](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html?lang=ja) | ビデオ | スキーマフィールドに ID としてラベルを付ける方法とタイミング、名前空間の作成方法、ID をプライマリにするタイミング、ID データの取得と検証方法について説明します。 |
+| 2021年8月 | [使用例 — バーストメッセージ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html) | ビデオ | バーストメッセージに適用可能なユースケースを理解します。バーストメッセージのジャーニーを設定する方法と、適用するベストプラクティスを説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -247,15 +247,15 @@ Adobe Experience Platform Mobile SDKの[リリースノートと変更ログ](ht
 
 [ヘルプセンター](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html)  -  [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html)  — ハ [ウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
 
-## ![アイコン](/assets/aem.png) Experience Manager {#aem}
+## ![アイコン](/assets/aem.png) Adobe Experience Manager {#aem}
 
-[Experience Manager リリースのアップデートとロードマップ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ja)ページにアクセスして、リリース情報に関する最新情報を入手することをお勧めします。
+[Adobe Experience Manager リリースのアップデートとロードマップ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ja)ページにアクセスして、リリース情報に関する最新情報を入手することをお勧めします。
 
-### Experience Manager 製品リリース
+### Adobe Experience Manager 製品リリース
 
 * **[!DNL Experience Manager as a Cloud Service]**
 
-   Experience Manager as a Cloud Service の新機能
+   Adobe Experience Manager as a Cloud Service の新機能
 
    追加された機能の概要については、 2021年8月リリースの概要](https://video.tv.adobe.com/v/336277)ビデオをご覧ください。[
 
@@ -269,7 +269,7 @@ Adobe Experience Platform Mobile SDKの[リリースノートと変更ログ](ht
       _Experience Managerアセットのプレリリースチャネルの新機能_
 
       * [!UICONTROL 列]表示および[!UICONTROL カード]表示で、検索結果に表示されたアセットを並べ替えることができるようになりました。 並べ替えは、**[!UICONTROL 名前]**、**[!UICONTROL 作成済み]**、**[!UICONTROL 変更済み]**、または&#x200B;**[!UICONTROL なし]**&#x200B;の列で機能します。
-   * **Experience Manager Forms as a Cloud Service**
+   * **Adobe Experience Manager Forms as a Cloud Service**
 
       _新機能_
 
@@ -282,7 +282,7 @@ Adobe Experience Platform Mobile SDKの[リリースノートと変更ログ](ht
       * [!UICONTROL 統合ストレージコネクタ]を参照してください。[!UICONTROL 統合ストレージコネクタ]を使用して、顧客管理リポジトリ内の処理中のデータを外部化します。 例えば、次のことができます。
          * [!UICONTROL Forms Portal]の保存と再開機能を有効にし、アダプティブフォームのドラフトを顧客管理データリポジトリに保存します。
          * 顧客が管理するリポジトリに、機密性の高い個人データ(SPD)を含むプロセス内Experience Manager[!UICONTROL Workflows]データ(Experience Manager[!UICONTROL Workflow Variables]データ)を格納します。
-      * [!DNL AEM Forms as a Cloud Service]  — 通信。[通信APIシェル](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/aem-forms-cloud-service-communications.html?lang=ja) プでは、XDPテンプレートとXMLデータを組み合わせて、様々な形式の印刷ドキュメントを生成できます。このサービスを使用すると、同期モードでドキュメントを生成できます。 APIを使用すると、以下の作業を支援するアプリケーションを作成できます。
+      * [!DNL AEM Forms as a Cloud Service]  — 通信。[通信APIシェル](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/aem-forms-cloud-service-communications.html?lang=ja) プでは、XDPテンプレートとXMLデータを組み合わせて、様々な形式の印刷ドキュメントを生成できます。このサービスを使用すると、同期モードでドキュメントを生成できます。APIを使用すると、以下の作業を支援するアプリケーションを作成できます。
          * テンプレートファイルに XML データを入力してドキュメントを生成します。
          * 非インタラクティブ PDF 印刷ストリームを含む様々な形式で出力フォームを生成します。
          * XFA フォーム PDF および Adobe Acrobat フォームから印刷用 PDF ファイルを生成する
@@ -337,11 +337,11 @@ Adobe Experience Platform Mobile SDKの[リリースノートと変更ログ](ht
 
    すべてのメンバーのリストを確認するには、[Adobeのブログ](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors.html#gs.a6braz)を参照してください。
 
-* [Experience Manager の新しい機能リクエストまたは提案を送信する方法](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425)
+* [Adobe Experience Manager の新しい機能リクエストまたは提案を送信する方法](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425)
 
-   Experience Manager の機能リクエストを送信するウ新しいプロセスでは、Live Now を使用します。 [アイデアの作成](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas) | [詳細はこちら](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425) | [送信のガイドライン](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/guidelines-for-submitting-a-new-experience-manager-aem-idea/m-p/382376#M27427)を参照してください。
+   Adobe Experience Manager の機能リクエストを送信する新しいプロセスが開始されました。[アイデアの作成](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas) | [詳細はこちら](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425) | [送信のガイドライン](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/guidelines-for-submitting-a-new-experience-manager-aem-idea/m-p/382376#M27427)を参照してください。
 
-### 新しい Experience Manager コースとチュートリアル {#tutorials-aem}
+### 新しい Adobe Experience Manager コースとチュートリアル {#tutorials-aem}
 
 以下は、過去 1 か月間に公開された新しいビデオ、チュートリアル、コースです。
 
@@ -354,34 +354,34 @@ Adobe Experience Platform Mobile SDKの[リリースノートと変更ログ](ht
 
 {style=&quot;table-layout:auto&quot;}
 
-### Experience Manager リリース情報 {#aem-links}
+### Adobe Experience Manager リリース情報 {#aem-links}
 
-Experience Manager に関するリリースノートやその他のリリース情報のリンクは次のとおりです。
+Adobe Experience Manager に関するリリースノートやその他のリリース情報のリンクは次のとおりです。
 
 * [[!DNL Experience Manager as a Cloud Service] 年リリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=ja)
 * [[!DNL Experience Manager as a Cloud Service] リリース情報](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=ja)
 * [[!DNL Experience Manager Cloud Manager] 年リリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=ja)
 * [自動フォーム変換サービスリリースノート](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=ja)
-* [Experience Manager 6.5 Service Pack リリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja)
-* [Experience Manager 6.4 累積修正パックリリースノート](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ja)
+* [Adobe Experience Manager 6.5 Service Pack リリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=ja)
+* [Adobe Experience Manager 6.4 累積修正パックリリースノート](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=ja)
 * [[!DNL Experience Manager Assets Dynamic Media] 年リリースノート](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=ja)
 * [[!DNL Experience Manager Brand Portal] 年リリースノート](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=ja)
-* [Experience Manager デスクトップアプリケーションリリースノート](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=ja)
+* [Adobe Experience Manager デスクトップアプリケーションリリースノート](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=ja)
 * [[!DNL Experience Manager Dispatcher] 年リリースノート](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=ja)
 * [Adobe Primetime リリースノート](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=ja)
 * [Livefyre リリースノート](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=ja)
 
-### Experience Manager に関するその他のヘルプリソース
+### Adobe Experience Manager に関するその他のヘルプリソース
 
 * [[!DNL Experience Manager as a Cloud Service] ガイド](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/landing/home.html?lang=ja)
-* [Experience Manager 6.5 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ja)
-* [Experience Manager 6.4 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=ja)
-* [Experience Manager 6.3 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja)
-* [Experience Manager 6.2 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja#previous-updates)
-* [Experience Manager ドキュメントの以前のバージョン](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
+* [Adobe Experience Manager 6.5 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=ja)
+* [Adobe Experience Manager 6.4 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=ja)
+* [Adobe Experience Manager 6.3 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja)
+* [Adobe Experience Manager 6.2 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja#previous-updates)
+* [Adobe Experience Manager ドキュメントの以前のバージョン](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [[!DNL Cloud Manager]  ユーザーガイド](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=ja)
 * [[!DNL Dynamic Media Classic] ヘルプホーム](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=ja)
-* [Experience Manager ドキュメント：最近の更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=ja#aem-as-a-cloud-service)
+* [Adobe Experience Manager ドキュメント：最近の更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=ja#aem-as-a-cloud-service)
 
 ## ![アイコン](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
@@ -439,7 +439,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### [!DNL Advertising Cloud DSP] の新機能  {#adcloud-dsp}
 
-最終更新日：**2021 年 8 月 12 日（PT）（8 月 11 日リリース）**
+最終更新日：**2021年8月21日（8月11日リリース）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
@@ -449,11 +449,11 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### [!DNL Advertising Cloud Search] の新機能  {#adcloud-search}
 
-最終更新日：**2021 年 8 月 20 日（PT）（8 月 21 日（PT）リリース）**
+最終更新日：**2021年8月20日（8月21日リリース）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| — | 新しいベータ版Advertising Cloud JavaScriptタグは、Adobe Experience Cloud ID(ECID)サービスと従来の`ef_id`および`gsurferid`を使用してコンバージョンを測定します。 この新しいタグは、[ファーストパーティ Experience Cloud s_ecid Cookie](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html?lang=ja) を作成し、他の Experience Cloud 製品とより緊密に統合できます。<br><br>ITPマッピングを使用する従来のAdvertising Cloud JavaScriptタグは、2021年9月に廃止されます。<br><br>担当のアドビアカウントマネージャーから、詳細情報および実装手順についてご連絡いたします。 |
+| — | 新しいベータ版Advertising Cloud JavaScriptタグは、Adobe Experience Cloud ID(ECID)サービスと従来の`ef_id`および`gsurferid`を使用してコンバージョンを測定します。 この新しいタグは、[ファーストパーティ Experience Cloud s_ecid cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html?lang=ja) を作成し、他の Experience Cloud 製品とより緊密に統合できます。<br><br>ITPマッピングを使用する従来のAdvertising Cloud JavaScriptタグは、2021年9月に廃止されます。<br><br>担当のアドビアカウントマネージャーから、詳細および実装手順についてご連絡いたします。 |
 | [!UICONTROL ポートフォリオ] | 自動重み付けのレコメンデーションを含む新しい[!UICONTROL 目標ベータ版]は、すべてのユーザーが利用できます。新しいインターフェイスには、目標の作成と初期目標の重み付けの設定に関する、より多くのガイダンスが含まれています。重み付けのレコメンデーションは、アシスト指標に対してのみ使用できます。 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -467,7 +467,7 @@ Adobe Commerce リリースノートについては、次のリンクを参照�
 
 ## ![アイコン](/assets/target.png) [!DNL Target] {#target}
 
-最終更新日：**2021年8月3日（PT）**
+最終更新日：**2021年8月3日**
 
 最新のリリース情報については、[[!DNL Target] リリースノート](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ja)を参照してください。
 
@@ -481,7 +481,7 @@ Adobe Commerce リリースノートについては、次のリンクを参照�
 
 ## ![アイコン](/assets/workfront.png) [!DNL Workfront] {#workfront}
 
-Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、複雑なプロセスの管理、および最高の作業をおこなうための統合作業管理アプリケーションです。
+Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、複雑なプロセスの管理、および最高の作業を行うための統合作業管理アプリケーションです。
 
 すべての製品の最新情報のまとめについては、[[!DNL Workfront] リリース](https://one.workfront.com/s/product-releases)ページを参照してください。
 
