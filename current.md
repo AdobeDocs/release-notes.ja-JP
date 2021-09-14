@@ -6,9 +6,9 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: cc9f1d42093c54689b6d15c640879891e4d4ce24
+source-git-commit: 8dbb4ef3665160ade3ec8ffa503c01bd5af64b0e
 workflow-type: tm+mt
-source-wordcount: '6298'
+source-wordcount: '6339'
 ht-degree: 37%
 
 ---
@@ -163,7 +163,11 @@ AppMeasurement リリース（バージョン 2.22.2）の最新の更新につ�
 
 ## ![アイコン](/assets/audience-manager.png) Audience Manager {#aam}
 
-更新はありません。
+Audience Managerの新機能。
+
+| 機能 | 説明 |
+| ------- | ------- |
+| モバイルIDデータ収集の同意 | モバイルIDデータ収集の同意のサポートを追加しました。 このアップデートのメリットを受けるには、[AEP Mobile SDK iOS Core 2.8.0](https://aep-sdks.gitbook.io/docs/foundation-extensions/mobile-core/mobile-core-release-notes#november-4-2020)以降にアップグレードする必要があります。 |
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
