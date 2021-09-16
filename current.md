@@ -6,7 +6,7 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fcba6592d43896676fff4a62d15756823c8a1b20
+source-git-commit: f94180b097c70ad3b4c8b93599c0d26db15892c6
 workflow-type: tm+mt
 source-wordcount: '6343'
 ht-degree: 37%
@@ -51,8 +51,8 @@ ht-degree: 37%
 | イベント日 | イベント名 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2021 年 9 月 23 日 | [休暇キャンペーンを際立たせるためのエキスパートのヒント](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) | ライブビデオイベント | 休暇のショッピングを始めるには早すぎないのと同じように、ホリデーマーケティングキャンペーンを大成功に導くには早すぎることはありません。 Adobe Campaignを使用すると、組織の休暇中の願いを叶えるキャンペーンを設計、計画、実行できます。<br>でも、1年で終わるキャンペーンを実行するためのヒントは、すべてご存じですか？3人のAdobe専門家が集団的な専門知識を持ち、それだけを行うライブディスカッションに参加してください。 [詳細...](https://www.youtube.com/watch?v=bsU1lAv0xes) |
-| 2021年8月26日 | [次のオーディエンスセグメントを従来よりもスマートに](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=en) | イベントの記録 | すべての優れたマーケティングキャンペーンを成功させるには、オーディエンスを正確にターゲット設定する必要があります。 新しいAdobe Experience Platform [!UICONTROL セグメントビルダー]を使用すると、プロファイルデータとチャネルをまたいだ時間ベースのユーザー行動を使用して、次のオーディエンスセグメントを作成できます。 メッセージを最も聞き取りが必要な人に確実に届ける方法はありません。 |
-| 2021年7月29日 | [お気に入りの3つのAdobe Analytics実装のヒント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=en) | イベントの記録 | サミットで彼がステージに上がっているのを見たことがありますね Adobe・インサイダー・ツアーで彼が専門家の助言を共有するのを聞いた。 お客様自身のAdobe Analytics実装で共同作業する利点もあるかもしれません。 エリック・マティソフフは、Adobe Analyticsの3つのお気に入りの実装のヒントを、この排他的なExperience League・ライブ・ディスカッションにもたらします。 |
+| 2021 年 8 月 26 日（PT） | [次のオーディエンスセグメントを従来よりもスマートに](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=en) | イベントの記録 | すべての優れたマーケティングキャンペーンを成功させるには、オーディエンスを正確にターゲット設定する必要があります。 新しいAdobe Experience Platform [!UICONTROL セグメントビルダー]を使用すると、プロファイルデータとチャネルをまたいだ時間ベースのユーザー行動を使用して、次のオーディエンスセグメントを作成できます。 メッセージを最も聞き取りが必要な人に確実に届ける方法はありません。 |
+| 2021 年 7 月 29 日（PT） | [お気に入りの3つのAdobe Analytics実装のヒント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=en) | イベントの記録 | サミットで彼がステージに上がっているのを見たことがありますね Adobe・インサイダー・ツアーで彼が専門家の助言を共有するのを聞いた。 お客様自身のAdobe Analytics実装で共同作業する利点もあるかもしれません。 エリック・マティソフフは、Adobe Analyticsの3つのお気に入りの実装のヒントを、この排他的なExperience League・ライブ・ディスカッションにもたらします。 |
 
 {style=&quot;table-layout:auto&quot;}
 
