@@ -6,9 +6,9 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 0f0032bbcf0c0fa46caaf1604a0c5aceaffbbe8e
+source-git-commit: dfec28cdcc99e9f8840e0eb1dec5c721775d65b8
 workflow-type: tm+mt
-source-wordcount: '6485'
+source-wordcount: '6533'
 ht-degree: 98%
 
 ---
@@ -97,10 +97,10 @@ ht-degree: 98%
 
 | 機能 | 説明 | [一般公開](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - ターゲット日 |
 | ----------- | ---------- | ----- |
-| 指標の重複排除 | Customer Journey Analytics（CJA）で、指標から重複しているインスタンスを排除できるようになりました。同じ値が列（同じ列または別の列）に表示される場合は、指標の増加するのを防ぐことができます。重複排除は、主要指標が何度もカウントされるのを防ぎ、データの信頼性を高めます。 | 2021年9月16日（PT） |
-| レポートでの夏時間のサポート | CJA内のすべてのデータは、（特定のタイムゾーンではなく）UTCで保存されます。CJAの[!UICONTROL データビュー] で、夏時間に基づき、1時間の増減を考慮してデータをシフトできるようになりました。 | 2021年9月16日（PT） |
-| [!UICONTROL カスタムカレンダー] | データビューに別のカレンダータイプ（[!UICONTROL retail 4-4-5]など）を選択できます。同じ接続に基づいて複数のデータビューを作成し、同じデータを異なるカレンダー形式で表示できます。 | 2021年9月16日（PT） |
-| ブール値フィールドのサポート | CJAでブール値フィールドがサポートされるようになりました。 | 2021年9月16日（PT） |
+| 指標の重複排除 | Customer Journey Analytics（CJA）で、指標から重複しているインスタンスを排除できるようになりました。同じ値が列（同じ列または別の列）に表示される場合は、指標の増加するのを防ぐことができます。重複排除は、主要指標が何度もカウントされるのを防ぎ、データの信頼性を高めます。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/metric-deduplication.html?lang=en) | 2021年9月16日（PT） |
+| レポートでの夏時間のサポート | CJA内のすべてのデータは、（特定のタイムゾーンではなく）UTCで保存されます。CJAの[!UICONTROL データビュー] で、夏時間に基づき、1時間の増減を考慮してデータをシフトできるようになりました。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#calendar) | 2021年9月16日（PT） |
+| [!UICONTROL カスタムカレンダー] | データビューに別のカレンダータイプ（[!UICONTROL retail 4-4-5]など）を選択できます。同じ接続に基づいて複数のデータビューを作成し、同じデータを異なるカレンダー形式で表示できます。 [詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#calendar) | 2021年9月16日（PT） |
+| ブール値フィールドのサポート | CJAでブール値フィールドがサポートされるようになりました。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/behavior.html?lang=en) | 2021年9月16日（PT） |
 | 新しい[!UICONTROL 接続] 情報のエクスペリエンス | この[!UICONTROL 接続] UI の機能強化により、データがレポートに使用できる状態かどうか、またいつ使用できるかを知ることができます。また、データ処理に関する問題を追跡することもできます。[詳細](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=ja) | 2021年9月20日（PT） |
 
 {style=&quot;table-layout:auto&quot;}
