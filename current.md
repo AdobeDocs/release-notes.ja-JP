@@ -219,7 +219,7 @@ Journey Orchestration の機能、修正点および新しいヘルプコンテ�
 
 #### Journey Orchestration の追加リソース
 
-[ヘルプセンター](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/configure-data-sources.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ja)
+[ヘルプセンター](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ja-JP) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ja)
 
 ### [!UICONTROL Offer Decisioning] {#offer-decisioning}
 
@@ -342,9 +342,9 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 
    すべてのメンバーのリストを確認するには、[Adobe のブログ](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors.html#gs.a6braz) を参照してください。
 
-* [Adobe Experience Manager の新しい機能リクエストまたは提案を送信する方法](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425)
+* [Adobe Experience Manager の新しい機能リクエストまたは提案を送信する方法](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425?profile.language=ja)
 
-   Adobe Experience Manager の機能リクエストを送信する新しいプロセスが開始されました。[アイデアの作成](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas) | [詳細はこちら](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425) | [送信のガイドライン](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/guidelines-for-submitting-a-new-experience-manager-aem-idea/m-p/382376#M27427)を参照してください。
+   Adobe Experience Manager の機能リクエストを送信する新しいプロセスが開始されました。[アイデアの作成](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas?profile.language=ja) | [詳細はこちら](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425) | [送信のガイドライン](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/guidelines-for-submitting-a-new-experience-manager-aem-idea/m-p/382376?profile.language=ja#M27427)を参照してください。
 
 ### 新しい Adobe Experience Manager コースとチュートリアル {#tutorials-aem}
 
