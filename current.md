@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: dfec28cdcc99e9f8840e0eb1dec5c721775d65b8
 workflow-type: tm+mt
 source-wordcount: '6533'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 98%
 * [[!DNL Experience Cloud Central Interface Components] &amp; 管理](#ecloud)
 * [Adobe [!UICONTROL システムステータス]](#status)
 * [[!DNL Adobe Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)
-* [[!DNL Adobe Audience Manager]](#aam) (2021 **年9月15日更新**)
+* [[!DNL Adobe Audience Manager]](#aam)（更新日 **2021年9月14日（PT）**）
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Experience Manager]](#aem)
@@ -97,10 +97,10 @@ ht-degree: 98%
 
 | 機能 | 説明 | [一般公開](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - ターゲット日 |
 | ----------- | ---------- | ----- |
-| 指標の重複排除 | Customer Journey Analytics（CJA）で、指標から重複しているインスタンスを排除できるようになりました。同じ値が列（同じ列または別の列）に表示される場合は、指標の増加するのを防ぐことができます。重複排除は、主要指標が何度もカウントされるのを防ぎ、データの信頼性を高めます。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/metric-deduplication.html?lang=en) | 2021年9月16日（PT） |
-| レポートでの夏時間のサポート | CJA内のすべてのデータは、（特定のタイムゾーンではなく）UTCで保存されます。CJAの[!UICONTROL データビュー] で、夏時間に基づき、1時間の増減を考慮してデータをシフトできるようになりました。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#calendar) | 2021年9月16日（PT） |
-| [!UICONTROL カスタムカレンダー] | データビューに別のカレンダータイプ（[!UICONTROL retail 4-4-5]など）を選択できます。同じ接続に基づいて複数のデータビューを作成し、同じデータを異なるカレンダー形式で表示できます。 [詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#calendar) | 2021年9月16日（PT） |
-| ブール値フィールドのサポート | CJAでブール値フィールドがサポートされるようになりました。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/behavior.html?lang=en) | 2021年9月16日（PT） |
+| 指標の重複排除 | Customer Journey Analytics（CJA）で、指標から重複しているインスタンスを排除できるようになりました。同じ値が列（同じ列または別の列）に表示される場合は、指標の増加するのを防ぐことができます。重複排除は、主要指標が何度もカウントされるのを防ぎ、データの信頼性を高めます。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/metric-deduplication.html?lang=ja) | 2021年9月16日（PT） |
+| レポートでの夏時間のサポート | CJA内のすべてのデータは、（特定のタイムゾーンではなく）UTCで保存されます。CJA の[!UICONTROL データビュー]で、夏時間に基づいた 1 時間の増減を考慮してデータをシフトできるようになりました。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=ja#カレンダー) | 2021年9月16日（PT） |
+| [!UICONTROL カスタムカレンダー] | データビューに別のカレンダータイプ（[!UICONTROL retail 4-4-5]など）を選択できます。同じ接続に基づいて複数のデータビューを作成し、同じデータを異なるカレンダー形式で表示できます。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#calendar) | 2021年9月16日（PT） |
+| ブール値フィールドのサポート | CJA でブール値フィールドがサポートされるようになりました。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/behavior.html?lang=ja) | 2021年9月16日（PT） |
 | 新しい[!UICONTROL 接続] 情報のエクスペリエンス | この[!UICONTROL 接続] UI の機能強化により、データがレポートに使用できる状態かどうか、またいつ使用できるかを知ることができます。また、データ処理に関する問題を追跡することもできます。[詳細](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=ja) | 2021年9月20日（PT） |
 
 {style=&quot;table-layout:auto&quot;}
@@ -122,7 +122,7 @@ AN-224899、AN-239753、AN-256295、AN-262122、AN-262449、AN-263969、AN-26466
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
-| 3 つの Analytics API サービスの提供終了 | 2021年9月16日（PT） | **2021年10月28日**&#x200B;に、次のAnalyticsレガシーAPIサービスが提供終了日になり、シャットダウンされます。 これらのサービスを使用して構築された現在の統合は、その日以降使用できなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>アドビでは、お客様のご質問に対する回答や進め方に関するガイダンスを提供するために、[従来の API の EOL（サポート終了）に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API のどちらにアクセスする場合にも使用できます。 |
+| 3 つの Analytics API サービスの提供終了 | 2021年9月16日（PT） | **2021年10月28日（PT）**、次の Analytics レガシー API サービスの提供が終了し、サービスが停止されます。これらのサービスを使用して構築された現在の統合は、その日以降使用できなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>アドビでは、お客様のご質問に対する回答や進め方に関するガイダンスを提供するために、[従来の API の EOL（サポート終了）に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API のどちらにアクセスする場合にも使用できます。 |
 | Adobe [!UICONTROL Data Connectors] のサポート提供終了 | 2020年8月3日（PT） | Adobe [!UICONTROL Data Connectors] は、実行不可能またはサポート対象外のレガシーテクノロジーによって動作します。[Adobe Exchange パートナープログラム](https://partners.adobe.com/exchangeprogram/experiencecloud)で新しい標準が利用できます。どの統合でも、その標準を使用して、引き続き提供およびサポートできます。正式なサポート終了日は **2021年8月19日（PT）**&#x200B;です。[詳細情報...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=ja) |
 | フル処理 [!UICONTROL データソース] のサポート終了 | 2021年4月12日 | アドビは、**2021年7月31日（PT）**&#x200B;にフル処理データソースを非推奨（廃止予定）としました。2021年3月25日（PT）現在、このタイプの新規インポートは作成できなくなっています。このタイプのデータをインポートするには、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を使用してください。 |
 
@@ -164,11 +164,11 @@ AppMeasurement リリース（バージョン 2.22.2）の最新の更新につ�
 
 ## ![アイコン](/assets/audience-manager.png) Audience Manager {#aam}
 
-Audience Managerの新機能 — **2021年9月14日**&#x200B;に更新：
+Audience Manager の新機能 - 更新日 **2021年9月14日（PT）**:
 
 | 機能 | 説明 |
 | ------- | ------- |
-| モバイルIDデータ収集の同意 | モバイルIDデータ収集の同意のサポートを追加しました。 このアップデートのメリットを受けるには、[AEP Mobile SDK iOS Core 2.8.0](https://aep-sdks.gitbook.io/docs/foundation-extensions/mobile-core/mobile-core-release-notes#november-4-2020)以降にアップグレードする必要があります。 |
+| モバイル ID データ収集の同意 | モバイル ID データ収集の同意のサポートが追加されました。このアップデートのメリットを享受するには、[AEP Mobile SDK iOS Core 2.8.0](https://aep-sdks.gitbook.io/docs/foundation-extensions/mobile-core/mobile-core-release-notes#november-4-2020) 以降にアップグレードする必要があります。 |
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
@@ -297,7 +297,7 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 
       * [!UICONTROL アダプティブフォーム] で Adobe Sign の役割を使用します。ビジネスおよびエンタープライズサービスレベル版 Adobe Sign では、必要に応じて、[!UICONTROL 署名者]のみでなく、[!UICONTROL 契約]受信者の役割を拡張し、ワークフロー要件に合わせることができます。[同意書の各受信者がアダプティブフォーム](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/create-an-adaptive-form/use-adobe-sign/working-with-adobe-sign.html?lang=ja#addsignerstoanadaptiveform) で自分の役割を設定できるようになりました。[!UICONTROL 署名者] はデフォルトの役割です。
       * [!UICONTROL Analytics for Adaptive Forms]。Adobe [!UICONTROL Analytics for Adaptive Forms] を介してエンドユーザーの行動をキャプチャおよび追跡し、エンドユーザーのインサイトを収集できるようになりました。情報に基づいてデータ決定をおこない、エンドユーザーエクスペリエンスを向上させるのに役立ちます。
-      * AEM Forms を Microsoft® Dynamics および [Salesforce.com](https://www.salesforce.com/jp/?bc=DF) と簡単に接続できます。このサービスは、標準のデータソース設定を提供します。また、Microsoft® Dynamics と Salesforce.com のデータモデルも提供しています。これにより開発者は、](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/use-form-data-model/configure-msdynamics-salesforce.html?lang=ja)アダプティブフォームのデータソースとして Microsoft® Dynamics と Salesforce.com をすばやく簡単に設定[できます。
+      * AEM Forms を Microsoft® Dynamics および [Salesforce.com](https://www.salesforce.com/jp/?bc=DF) と簡単に接続できます。このサービスは、標準のデータソース設定を提供します。また、Microsoft® Dynamics と Salesforce.com のデータモデルも提供しています。これにより開発者は、[アダプティブフォームのデータソースとして Microsoft® Dynamics と Salesforce.com をすばやく簡単に設定](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/use-form-data-model/configure-msdynamics-salesforce.html?lang=ja)できます。
    * **[!DNL Experience Manager Screens as a Cloud Service]**
 
       _新機能_
