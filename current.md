@@ -6,7 +6,7 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e12356a1860ce775f703426a7bf7e883ad69e404
+source-git-commit: 705386fb5b736ff9bf05219162697926821cd686
 workflow-type: tm+mt
 source-wordcount: '6533'
 ht-degree: 99%
@@ -195,31 +195,6 @@ Experience Platform およびサービス用に公開された新しいビデオ
 
 {style=&quot;table-layout:auto&quot;}
 
-### Journey Orchestration {#journey-orch}
-
-Journey Orchestration の機能、修正点および新しいヘルプコンテンツ。
-
-**2021年8月**
-
-* **動的ヘッダー**：HTTP ヘッダーパラメーターで動的データを渡せるようになりました。これらのパラメーターは、ジャーニーアクションの HTTP 呼び出し（タイムスタンプやトラッキング ID など）を受信する統合システムで使用できます。[詳細情報...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=jp)
-* **動的 URL パス**：カスタムアクションの動的 URL パスを設定できるようになりました。[詳細情報...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
-
-詳しくは、[Journey Orchestration リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ja) を参照してください。
-
-#### Journey Orchestration の追加リソース
-
-[ヘルプセンター](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ja-JP) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ja)
-
-### [!UICONTROL Offer Decisioning] {#offer-decisioning}
-
-**表示域のフロー：**&#x200B;オファーの作成時に表示域を追加および設定する方法が更新され、ユーザーエクスペリエンスが向上しました
-
-* 詳しくは、[[!UICONTROL Offer Decisioning] リリースノート](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=ja)を参照してください。
-
-#### [!UICONTROL Offer Decisioning] のその他のリソース
-
-[ヘルプセンター](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=ja#new) - [ハウツービデオ](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html?lang=ja)
-
 ### Adobe Mobile SDK
 
 Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](https://aep-sdks.gitbook.io/docs/release-notes) を参照してください。
@@ -251,6 +226,31 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 ### Journey Optimizer の追加リソース
 
 [ヘルプセンター](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ハ ウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja)
+
+### Journey Orchestration {#journey-orch}
+
+Journey Orchestration の機能、修正点および新しいヘルプコンテンツ。
+
+**2021年8月**
+
+* **動的ヘッダー**：HTTP ヘッダーパラメーターで動的データを渡せるようになりました。これらのパラメーターは、ジャーニーアクションの HTTP 呼び出し（タイムスタンプやトラッキング ID など）を受信する統合システムで使用できます。[詳細情報...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=jp)
+* **動的 URL パス**：カスタムアクションの動的 URL パスを設定できるようになりました。[詳細情報...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
+
+詳しくは、[Journey Orchestration リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ja) を参照してください。
+
+#### Journey Orchestration の追加リソース
+
+[ヘルプセンター](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ja-JP) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ja)
+
+### [!UICONTROL Offer Decisioning] {#offer-decisioning}
+
+**表示域のフロー：**&#x200B;オファーの作成時に表示域を追加および設定する方法が更新され、ユーザーエクスペリエンスが向上しました
+
+* 詳しくは、[[!UICONTROL Offer Decisioning] リリースノート](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=ja)を参照してください。
+
+#### [!UICONTROL Offer Decisioning] のその他のリソース
+
+[ヘルプセンター](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=ja#new) - [ハウツービデオ](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html?lang=ja)
 
 ## ![アイコン](/assets/aem.png) Adobe Experience Manager {#aem}
 
