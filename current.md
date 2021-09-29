@@ -6,10 +6,10 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: dfec28cdcc99e9f8840e0eb1dec5c721775d65b8
+source-git-commit: 9ab0cd435039085791c186a439f16954c317c2df
 workflow-type: tm+mt
 source-wordcount: '6533'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -206,15 +206,6 @@ Journey Orchestration の機能、修正点および新しいヘルプコンテ�
 
 詳しくは、[Journey Orchestration リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ja) を参照してください。
 
-#### 新しい Journey Orchestration のチュートリアルとコース {#tutorials-ajo}
-
-| 公開日 | 名前 | タイプ | 説明 |
-| -----------| ---------- | ---------- | ---------- |
-| 2021年8月 | [ジャーニー構築の概要](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html?lang=ja) | ビデオ | ジャーニーキャンバスでジャーニーを構築する基本を理解します。 |
-| 2021年8月 | [顧客プロファイルデータの設定 - 概要](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html?lang=ja) | ビデオ | リアルタイム顧客プロファイルデータと、Journey Optimizer の顧客プロファイルデータを設定するために必要な手順について説明します。 |
-| 2021年8月 | [ID のマッピング](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html?lang=ja) | ビデオ | スキーマフィールドに ID としてラベルを付ける方法とタイミング、名前空間の作成方法、ID をプライマリにするタイミング、ID データの取得と検証方法について説明します。 |
-| 2021年8月 | [ユースケース - バーストメッセージ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=ja) | ビデオ | バーストメッセージに適用可能なユースケースを理解します。バーストメッセージのジャーニーを設定する方法と、適用するベストプラクティスを説明します。 |
-
 {style=&quot;table-layout:auto&quot;}
 
 #### Journey Orchestration の追加リソース
@@ -247,6 +238,15 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 | [!UICONTROL 抑制リスト] | メールアドレスとドメインを抑制リストに追加する際、1 つずつユーザーインターフェイスから選択、またはCSV ファイルをアップロードした一括モードのいずれかを利用できるようになりました。 |
 
 詳しくは、 [Journey Optimizer リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ja) を参照してください。
+
+#### 新しいJourney Optimizerのチュートリアルとコース {#tutorials-ajo}
+
+| 公開日 | 名前 | タイプ | 説明 |
+| -----------| ---------- | ---------- | ---------- |
+| 2021年8月 | [ジャーニー構築の概要](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html?lang=ja) | ビデオ | ジャーニーキャンバスでジャーニーを構築する基本を理解します。 |
+| 2021年8月 | [顧客プロファイルデータの設定 - 概要](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html?lang=ja) | ビデオ | リアルタイム顧客プロファイルデータと、Journey Optimizer の顧客プロファイルデータを設定するために必要な手順について説明します。 |
+| 2021年8月 | [ID のマッピング](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html?lang=ja) | ビデオ | スキーマフィールドに ID としてラベルを付ける方法とタイミング、名前空間の作成方法、ID をプライマリにするタイミング、ID データの取得と検証方法について説明します。 |
+| 2021年8月 | [ユースケース - バーストメッセージ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=ja) | ビデオ | バーストメッセージに適用可能なユースケースを理解します。バーストメッセージのジャーニーを設定する方法と、適用するベストプラクティスを説明します。 |
 
 ### Journey Optimizer の追加リソース
 
