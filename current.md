@@ -6,7 +6,7 @@ last-update: September 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9ab0cd435039085791c186a439f16954c317c2df
+source-git-commit: e12356a1860ce775f703426a7bf7e883ad69e404
 workflow-type: tm+mt
 source-wordcount: '6533'
 ht-degree: 99%
@@ -206,8 +206,6 @@ Journey Orchestration の機能、修正点および新しいヘルプコンテ�
 
 詳しくは、[Journey Orchestration リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ja) を参照してください。
 
-{style=&quot;table-layout:auto&quot;}
-
 #### Journey Orchestration の追加リソース
 
 [ヘルプセンター](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ja-JP) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ja)
@@ -247,6 +245,8 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 | 2021年8月 | [顧客プロファイルデータの設定 - 概要](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html?lang=ja) | ビデオ | リアルタイム顧客プロファイルデータと、Journey Optimizer の顧客プロファイルデータを設定するために必要な手順について説明します。 |
 | 2021年8月 | [ID のマッピング](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html?lang=ja) | ビデオ | スキーマフィールドに ID としてラベルを付ける方法とタイミング、名前空間の作成方法、ID をプライマリにするタイミング、ID データの取得と検証方法について説明します。 |
 | 2021年8月 | [ユースケース - バーストメッセージ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=ja) | ビデオ | バーストメッセージに適用可能なユースケースを理解します。バーストメッセージのジャーニーを設定する方法と、適用するベストプラクティスを説明します。 |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### Journey Optimizer の追加リソース
 
