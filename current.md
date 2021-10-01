@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
-source-git-commit: 8b36fbc422c8b7b2bf3f2a7497a5dc51495e0562
+source-git-commit: ff7a3736e7490af8b815eda72e4ba0b363aef472
 workflow-type: tm+mt
 source-wordcount: '5136'
 ht-degree: 40%
@@ -180,7 +180,7 @@ Experience Platformおよびサービス用に公開された最新のビデオ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021年10月 | [[!DNL Platform] 管理](https://experienceleague.corp.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin) | コース | 権限やサンドボックス管理など、Experience Platformの管理アクティビティについて説明します。 |
+| 2021年10月 | [[!DNL Platform] 管理](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin) | コース | 権限やサンドボックス管理など、Experience Platformの管理アクティビティについて説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
