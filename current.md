@@ -5,10 +5,11 @@ doc-type: release notes
 last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
-source-git-commit: ff7a3736e7490af8b815eda72e4ba0b363aef472
+exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
+source-git-commit: 2ad6cb4ae1ae0c9a9414df7c1360a3d4d428f1e5
 workflow-type: tm+mt
-source-wordcount: '5136'
-ht-degree: 40%
+source-wordcount: '5271'
+ht-degree: 39%
 
 ---
 
@@ -339,9 +340,13 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 Adobe Campaignの最新のチュートリアルとコース。
 
-| 公開日 | 名前 | アプリケーション | 説明 |
+| 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021年10月 | [Adobe Campaign V8 を使用したビジネスユーザー向けの高度なキャンペーンの構築](https://experienceleague.adobe.com/?recommended=Campaign-U-1.2021.1.v8) | Campaign V8 | Adobe Campaign V8 を使用して高度なマーケティングキャンペーンを設定および実行する方法について説明します。 前提条件、高度なキャンペーンの作成と設定、配信、購読の管理について説明します。 |
+| 2021年10月 | [Adobe Campaign V8 を使用したビジネスユーザー向けの高度なキャンペーンの構築](https://experienceleague.adobe.com/?recommended=Campaign-U-1.2021.1.v8) | コース | Adobe Campaign V8 を使用して高度なマーケティングキャンペーンを設定および実行する方法について説明します。 前提条件、高度なキャンペーンの作成と設定、配信、購読の管理について説明します。 |
+| 2021年10月 | [ワークフローでの SOAP API の使用 — はじめに](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en) | チュートリアル | Adobe Campaign Soap API を使用し、API 経由で受信したデータに基づいて高度な配信ワークフローを作成する方法を説明します。 |
+| 2021年10月 | [イベントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/create-events.html?lang=en) | チュートリアル | イベントの設定、ストリーミングエンドポイントとイベントのペイロードの指定を行う方法について説明します。 |
+| 2021年10月 | [データソースの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/configure-data-sources.html?lang=en) | チュートリアル | データソースとは何かを理解し、データソースと外部データソースのExperience Platform方法を学びます。 |
+| 2021年10月 | [使用例 — バーストメッセージ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=en) | チュートリアル | バーストメッセージに適用可能なユースケースを理解します。バーストメッセージのジャーニーを設定する方法と、適用するベストプラクティスを説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
