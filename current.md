@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 2ad6cb4ae1ae0c9a9414df7c1360a3d4d428f1e5
+source-git-commit: 614e6d1d0f003ed788aafd806d25afdf3cd723e9
 workflow-type: tm+mt
-source-wordcount: '5271'
+source-wordcount: '5278'
 ht-degree: 39%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 39%
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最終更新日：**2021 年 10 月 1 日**
+最終更新日：**2021 年 10 月 4 日**
 
 * [[!DNL Experience League] ライブイベント](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; 管理](#ecloud)
@@ -50,6 +50,7 @@ ht-degree: 39%
 
 | イベントの日付 | イベント名 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2021年10月21日（PT） | 未定 | ライブビデオイベント | 詳細は今後公開予定です。 |
 | 2021年9月23日（PT） | [ホリデーキャンペーンを目立たせるためのエキスパートのヒント](https://www.youtube.com/watch?v=bsU1lAv0xes) | ライブビデオイベント | 休暇に備えた買い物を始めるのに早すぎることがないのと同じように、ホリデーマーケティングキャンペーンを大成功に導くための計画に早すぎることはありません。Adobe Campaign を使用すると、組織の目標を達成するキャンペーンを設計、計画、実行できます。<br>でも、1 年を超えて大きな成果を上げるキャンペーンを実行するためのヒントを知っていますか？Sandra に参加して、3 人のAdobe専門家が集団的な専門知識を持つライブディスカッションを行います。 |
 | 2021年8月26日（PT） | [次のオーディエンスセグメントを従来よりもスマートに](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=jp) | イベントの録画 | すべての優れたマーケティングキャンペーンを成功させるには、オーディエンスのターゲティングを正確におこなう必要があります。新しい Adobe Experience Platform [!UICONTROL セグメントビルダー] を使用すると、チャネルをまたいでプロファイルデータと時間ベースのユーザー行動を使用して、次のオーディエンスセグメントを作成できます。最も必要としている人にメッセージを届けるのに、これ以上の方法はありません。 |
 | 2021年7月29日（PT） | [Adobe Analytics の実装に関する 3 つのお気に入りのヒント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=jp) | イベントの録画 | Summit のステージで彼をご覧になった方もいるでしょう。Adobe インサイダーツアーでは、専門家としてアドバイスを提供しました。お客様自身の Adobe Analytics 実装に、彼と一緒に取り組めるというメリットが得られるかもしれません。エリック・マティソフフは、このメンバー限定 Experience League のライブディスカッションで、Adobe Analytics の実装に関する 3 つのお気に入りのヒントを紹介します。 |
