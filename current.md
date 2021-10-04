@@ -6,7 +6,7 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 614e6d1d0f003ed788aafd806d25afdf3cd723e9
+source-git-commit: e3a7e1b80d25a3b9625ca0ee31a07bae674eda6f
 workflow-type: tm+mt
 source-wordcount: '5278'
 ht-degree: 39%
@@ -444,4 +444,4 @@ Document Cloud ヘルプについては、以下を参照してください。
 
 ## ![アイコン](/assets/creative-cloud-24.png) Creative Cloud エンタープライズ版 {#creative-cloud}
 
-最新のチュートリアルについては、[Creative Cloud エンタープライズ版チュートリアル](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=ja) を参照してください。
+最新のチュートリアルについては、[Creative Cloud](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=ja) を参照してください。
