@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 6665a58ee466e984524e883a5dab84f7edf55fa2
+source-git-commit: f0bc233f66b61333fee0cf07f816918d61c0776e
 workflow-type: tm+mt
-source-wordcount: '5378'
+source-wordcount: '5394'
 ht-degree: 39%
 
 ---
@@ -97,7 +97,7 @@ ht-degree: 39%
 
 | 機能 | 説明 | [一般公開](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=jp) - ターゲット日 |
 | ----------- | ---------- | ------- |
-| Analytics ダッシュボードのビジュアライゼーション | Analytics [!UICONTROL  ダッシュボード ] には、3 つの新しいビジュアライゼーションが導入され、エグゼクティブや意思決定者がデータを一目で把握できるようになりました。 新しい [!UICONTROL  ドーナツ ]、[!UICONTROL  線 ]、[!UICONTROL  横 ] の棒グラフを使用すると、詳細ビューを開かなくても、個々のディメンション項目のデータを簡単に確認できます。 （後に続くドキュメントリンク） | 2021年10月7日（PT） |
+| Analytics ダッシュボードのビジュアライゼーション | Analytics [!UICONTROL  ダッシュボード ] には、3 つの新しいビジュアライゼーションが導入され、エグゼクティブや意思決定者がデータを一目で把握できるようになりました。 新しい [!UICONTROL  ドーナツ ]、[!UICONTROL  線 ]、[!UICONTROL  横 ] の棒グラフを使用すると、詳細ビューを開かなくても、個々のディメンション項目のデータを簡単に確認できます。 [詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=en#apply-visualizations) | 2021年10月7日（PT） |
 | [!UICONTROL メディア再生滞在時間] | Adobeストリーミングメディア再生 [!UICONTROL  滞在時間 ] は、ビューアの関与に関する貴重なインサイトを提供し、日分割機能を備えた高度な滞在時間分析を通じて、分単位のユーザーエンゲージメントでより深く詳細なインサイトを得ます。 特定の時点でのメディアストリームの視聴に費やした時間を確認できます。 再生時間は、新しい 5 分、15 分、30 分の精度を含む様々な精度で分割できます。 [詳細情報](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=en) | 2021 年 10 月 19 日 |
 | クイック [!UICONTROL  セグメントビルダー ] | ビジネスユーザーは、シンプルなインラインプロジェクトワークフローで、基本的なセグメントをすばやく適用できます。 [!UICONTROL  セグメントビルダー ] に移動する必要はありません。 [詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=en) | 2021年10月21日（PT） |
 | Analysis Workspace左パネルの検索の改善 | 左パネルの検索 1) コンポーネントの最新性と関連性を引き続き考慮するのに加え、部分一致を上回る完全一致を優先します。 2) 一致した文字を強調表示して、検索結果をわかりやすくします。 3) ディメンションに関連する分類を見つけやすくなります。 4) 最後に、必要な特定のコンポーネントをより簡単に見つけるために、ワイルドカード (`*`) 検索をサポートします。 注意：ワイルドカード検索は、ディメンション項目レベルではまだ機能しません。 | 2021年10月21日（PT） |
@@ -110,7 +110,7 @@ ht-degree: 39%
 | 機能 | 説明 | [一般公開](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - ターゲット日 |
 | ----------- | ---------- | ----- |
 | Report Builder支援 | Report Builderは、Microsoft® [!DNL Excel] アドインで、Customer Journey Analyticsデータを使用して、カスタムレポートを簡単に作成、編集および更新できます。 Report Builderと Excel を使用すると、シンプルで柔軟なドラッグ&amp;ドロップ UI を使用して、複雑なデータリクエストを簡単に作成できます。 Customer Journey AnalyticsのReport Builderを使用すると、次のことができます。<ul><li>既存のワークシートのセルを参照して、完全な行順、日付範囲、またはフィルターを取得します</li><li>カレンダー、セル参照、日付計算を使用してカスタム日付を作成する</li><li>使い慣れた Excel の書式設定ツールを使用して、テーブルやビジュアライゼーションをデザインする</li><li>macOS、Microsoft 365 for the Web およびMicrosoft Windows で利用可能</li></ul> | 2021年10月7日（PT） |
-| Analytics ダッシュボードのビジュアライゼーション | Analytics [!UICONTROL  ダッシュボード ] には、3 つの新しいビジュアライゼーションが導入され、エグゼクティブや意思決定者がデータを一目で把握できるようになりました。 新しいドーナツグラフ、折れ線グラフ、横棒グラフを使用すると、詳細ビューを開かなくても、個々のディメンション項目のデータを簡単に確認できます。 （後に続くドキュメントリンク） | 2021年10月7日（PT） |
+| Analytics ダッシュボードのビジュアライゼーション | Analytics [!UICONTROL  ダッシュボード ] には、3 つの新しいビジュアライゼーションが導入され、エグゼクティブや意思決定者がデータを一目で把握できるようになりました。 新しいドーナツグラフ、折れ線グラフ、横棒グラフを使用すると、詳細ビューを開かなくても、個々のディメンション項目のデータを簡単に確認できます。 [詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=en#apply-visualizations) | 2021年10月7日（PT） |
 | Customer Journey Analytics監査ログ API | [ 監査ログ ](https://adobe.io/cja-apis/docs/endpoints/auditlogs/) API エンドポイントを使用して、Adobeから監査ログデータをリクエストできます。 これは、セキュリティコンプライアンスの重要な部分であり、データやユーザーアクションの監査に役立ちます。 | 2021年10月7日（PT） |
 | クイック [!UICONTROL  フィルタービルダー ] | ビジネスユーザーは、シンプルなインラインプロジェクトワークフローで、基本的なセグメントをすばやく適用できます。 [!UICONTROL  フィルタービルダー ] に移動する必要はありません。 [詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=en) | 2021年10月21日（PT） |
 | Analysis Workspace左パネルの検索の改善 | 左パネルの検索 1) コンポーネントの最新性と関連性を引き続き考慮するのに加え、部分一致を上回る完全一致を優先します。 2) 一致した文字を強調表示して、検索結果をわかりやすくします。 3) ディメンションに関連する分類を見つけやすくなります。 4) 最後に、必要な特定のコンポーネントをより簡単に見つけるために、ワイルドカード (`*`) 検索をサポートします。 注意：ワイルドカード検索は、ディメンション項目レベルではまだ機能しません。 | 2021年10月21日（PT） |
