@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f0bc233f66b61333fee0cf07f816918d61c0776e
+source-git-commit: 7cf9cf52da1afbbad7f5457077759b127a2e2312
 workflow-type: tm+mt
-source-wordcount: '5394'
+source-wordcount: '5405'
 ht-degree: 39%
 
 ---
@@ -52,8 +52,8 @@ ht-degree: 39%
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2021年10月21日（PT） | 【午後】12 時。(EST) | [誰がそれをクリックしたのですか？Adobe Analytics](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) によるリンククリック数の高度なレポート | ライブビデオイベント | Web またはモバイルプロパティとのユーザーインタラクションに関するレポート作成は、顧客のジャーニーを把握するうえで重要です。 Adobe Analyticsを使用すると、アプリケーション内の各クリックのユーザー、理由、場所を把握できます。 Adobe Analyticsのエキスパートが、Activity Mapの分類とカスタムアトリビューションを使用してユーザーエンゲージメントをより深く理解するためのヒントを紹介します。 |
 | 2021年9月23日（PT） | オンデマンド | [ホリデーキャンペーンを目立たせるためのエキスパートのヒント](https://www.youtube.com/watch?v=bsU1lAv0xes) | ライブビデオイベント | 休暇に備えた買い物を始めるのに早すぎることがないのと同じように、ホリデーマーケティングキャンペーンを大成功に導くための計画に早すぎることはありません。Adobe Campaign を使用すると、組織の目標を達成するキャンペーンを設計、計画、実行できます。<br>でも、1 年を超えて大きな成果を上げるキャンペーンを実行するためのヒントを知っていますか？Sandra に参加して、3 人のAdobe専門家が集団的な専門知識を持つライブディスカッションを行います。 |
-| 2021年8月26日（PT） | オンデマンド | [次のオーディエンスセグメントを従来よりもスマートに](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=jp) | イベントの録画 | すべての優れたマーケティングキャンペーンを成功させるには、オーディエンスのターゲティングを正確におこなう必要があります。新しい Adobe Experience Platform [!UICONTROL セグメントビルダー] を使用すると、チャネルをまたいでプロファイルデータと時間ベースのユーザー行動を使用して、次のオーディエンスセグメントを作成できます。最も必要としている人にメッセージを届けるのに、これ以上の方法はありません。 |
-| 2021年7月29日（PT） | オンデマンド | [Adobe Analytics の実装に関する 3 つのお気に入りのヒント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=jp) | イベントの録画 | Summit のステージで彼をご覧になった方もいるでしょう。Adobe インサイダーツアーでは、専門家としてアドバイスを提供しました。お客様自身の Adobe Analytics 実装に、彼と一緒に取り組めるというメリットが得られるかもしれません。エリック・マティソフフは、このメンバー限定 Experience League のライブディスカッションで、Adobe Analytics の実装に関する 3 つのお気に入りのヒントを紹介します。 |
+| 2021年8月26日（PT） | オンデマンド | [次のオーディエンスセグメントを従来よりもスマートに](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=ja) | イベントの録画 | すべての優れたマーケティングキャンペーンを成功させるには、オーディエンスのターゲティングを正確におこなう必要があります。新しい Adobe Experience Platform [!UICONTROL セグメントビルダー] を使用すると、チャネルをまたいでプロファイルデータと時間ベースのユーザー行動を使用して、次のオーディエンスセグメントを作成できます。最も必要としている人にメッセージを届けるのに、これ以上の方法はありません。 |
+| 2021年7月29日（PT） | オンデマンド | [Adobe Analytics の実装に関する 3 つのお気に入りのヒント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=ja) | イベントの録画 | Summit のステージで彼をご覧になった方もいるでしょう。Adobe インサイダーツアーでは、専門家としてアドバイスを提供しました。お客様自身の Adobe Analytics 実装に、彼と一緒に取り組めるというメリットが得られるかもしれません。エリック・マティソフフは、このメンバー限定 Experience League のライブディスカッションで、Adobe Analytics の実装に関する 3 つのお気に入りのヒントを紹介します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -78,7 +78,7 @@ ht-degree: 39%
 
 ## ![アイコン](/assets/adobe.png) [!DNL Adobe System Status] {#status}
 
-[!DNL Adobe System Status] は、Adobe製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/) でご確認ください。
+[!DNL Adobe System Status] は、Adobe製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/ja) でご確認ください。
 
 （[!DNL Adobe System Status]の最新のリリース情報は、[2020年5月21日（PT）](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=ja)のリリースノートをご覧ください。）
 
@@ -95,7 +95,7 @@ ht-degree: 39%
 
 ### Adobe Analytics の新機能 {#aa-features}
 
-| 機能 | 説明 | [一般公開](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=jp) - ターゲット日 |
+| 機能 | 説明 | [一般公開](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=ja) - ターゲット日 |
 | ----------- | ---------- | ------- |
 | Analytics ダッシュボードのビジュアライゼーション | Analytics [!UICONTROL  ダッシュボード ] には、3 つの新しいビジュアライゼーションが導入され、エグゼクティブや意思決定者がデータを一目で把握できるようになりました。 新しい [!UICONTROL  ドーナツ ]、[!UICONTROL  線 ]、[!UICONTROL  横 ] の棒グラフを使用すると、詳細ビューを開かなくても、個々のディメンション項目のデータを簡単に確認できます。 [詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=en#apply-visualizations) | 2021年10月7日（PT） |
 | [!UICONTROL メディア再生滞在時間] | Adobeストリーミングメディア再生 [!UICONTROL  滞在時間 ] は、ビューアの関与に関する貴重なインサイトを提供し、日分割機能を備えた高度な滞在時間分析を通じて、分単位のユーザーエンゲージメントでより深く詳細なインサイトを得ます。 特定の時点でのメディアストリームの視聴に費やした時間を確認できます。 再生時間は、新しい 5 分、15 分、30 分の精度を含む様々な精度で分割できます。 [詳細情報](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=en) | 2021 年 10 月 19 日 |
@@ -109,7 +109,7 @@ ht-degree: 39%
 
 | 機能 | 説明 | [一般公開](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - ターゲット日 |
 | ----------- | ---------- | ----- |
-| Report Builder支援 | Report Builderは、Microsoft® [!DNL Excel] アドインで、Customer Journey Analyticsデータを使用して、カスタムレポートを簡単に作成、編集および更新できます。 Report Builderと Excel を使用すると、シンプルで柔軟なドラッグ&amp;ドロップ UI を使用して、複雑なデータリクエストを簡単に作成できます。 Customer Journey AnalyticsのReport Builderを使用すると、次のことができます。<ul><li>既存のワークシートのセルを参照して、完全な行順、日付範囲、またはフィルターを取得します</li><li>カレンダー、セル参照、日付計算を使用してカスタム日付を作成する</li><li>使い慣れた Excel の書式設定ツールを使用して、テーブルやビジュアライゼーションをデザインする</li><li>macOS、Microsoft 365 for the Web およびMicrosoft Windows で利用可能</li></ul> | 2021年10月7日（PT） |
+| Report Builder支援 | Report Builderは、Microsoft® [!DNL Excel] アドインで、Customer Journey Analyticsデータを使用して、カスタムレポートを簡単に作成、編集および更新できます。 Report Builderと Excel を使用すると、シンプルで柔軟なドラッグ&amp;ドロップ UI を使用して、複雑なデータリクエストを簡単に作成できます。 Customer Journey AnalyticsのReport Builderを使用すると、次のことができます。<ul><li>既存のワークシートのセルを参照して、完全な行順、日付範囲、またはフィルターを取得します</li><li>カレンダー、セル参照、日付計算を使用してカスタム日付を作成する</li><li>使い慣れた Excel の書式設定ツールを使用して、テーブルやビジュアライゼーションをデザインする</li><li>macOS、Microsoft 365 for the Web およびMicrosoft Windows の Excel で使用できます。</li></ul>[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-reportbuilder/report-buider-overview.html#) | 2021年10月7日（PT） |
 | Analytics ダッシュボードのビジュアライゼーション | Analytics [!UICONTROL  ダッシュボード ] には、3 つの新しいビジュアライゼーションが導入され、エグゼクティブや意思決定者がデータを一目で把握できるようになりました。 新しいドーナツグラフ、折れ線グラフ、横棒グラフを使用すると、詳細ビューを開かなくても、個々のディメンション項目のデータを簡単に確認できます。 [詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=en#apply-visualizations) | 2021年10月7日（PT） |
 | Customer Journey Analytics監査ログ API | [ 監査ログ ](https://adobe.io/cja-apis/docs/endpoints/auditlogs/) API エンドポイントを使用して、Adobeから監査ログデータをリクエストできます。 これは、セキュリティコンプライアンスの重要な部分であり、データやユーザーアクションの監査に役立ちます。 | 2021年10月7日（PT） |
 | クイック [!UICONTROL  フィルタービルダー ] | ビジネスユーザーは、シンプルなインラインプロジェクトワークフローで、基本的なセグメントをすばやく適用できます。 [!UICONTROL  フィルタービルダー ] に移動する必要はありません。 [詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=en) | 2021年10月21日（PT） |
