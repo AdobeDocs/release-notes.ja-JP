@@ -6,10 +6,10 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 7cf9cf52da1afbbad7f5457077759b127a2e2312
+source-git-commit: e3facdc781ebcea6c4e623799ba1c431c83ae05f
 workflow-type: tm+mt
-source-wordcount: '5405'
-ht-degree: 39%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,12 +23,12 @@ ht-degree: 39%
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最終更新日：**2021 年 10 月 4 日**
+最終更新日：**2021 年 10 月 7 日**
 
 * [[!DNL Experience League] ライブイベント](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; 管理](#ecloud)
 * [Adobe [!UICONTROL システムステータス]](#status)
-* [[!DNL Adobe Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)
+* [[!DNL Adobe Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)  **更新日： 2021 年 10 月 8 日**
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
@@ -87,7 +87,7 @@ ht-degree: 39%
 リリース日：**2021 年 10 月 7 日**
 
 * [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey)
+* [Customer Journey Analytics の新機能](#cust-journey)  **更新日： 2021 年 10 月 8 日**
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [Analytics コースとチュートリアル](#tutorials-analytics)
@@ -109,6 +109,7 @@ ht-degree: 39%
 
 | 機能 | 説明 | [一般公開](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - ターゲット日 |
 | ----------- | ---------- | ----- |
+| [!UICONTROL  接続 ] データ保持の周期的な時間 | **注意：この設定を実装するには、カスタマーケアまたはAdobeのアカウントマネージャーにお問い合わせください。CJA UI からはまだ利用できません。**<p>CJA データ保持設定を周期的な期間（3 ヶ月、6 ヶ月など）として、[!UICONTROL  接続 ] レベル（[!UICONTROL  データセット ] レベルではなく）で定義できます。 データ保持は、イベントデータセットのタイムスタンプに基づき、イベントデータセットにのみ適用されます。 該当するタイムスタンプがないので、プロファイルまたは参照データセットのデータ保持設定は存在しません。 主な利点は、適用可能で有用なデータに対してのみ保存またはレポートをおこない、役に立たなくなった古いデータを削除することです。 契約の限度を守り、超過コストのリスクを低減します。 | 2021年10月7日（PT） |
 | Report Builder支援 | Report Builderは、Microsoft® [!DNL Excel] アドインで、Customer Journey Analyticsデータを使用して、カスタムレポートを簡単に作成、編集および更新できます。 Report Builderと Excel を使用すると、シンプルで柔軟なドラッグ&amp;ドロップ UI を使用して、複雑なデータリクエストを簡単に作成できます。 Customer Journey AnalyticsのReport Builderを使用すると、次のことができます。<ul><li>既存のワークシートのセルを参照して、完全な行順、日付範囲、またはフィルターを取得します</li><li>カレンダー、セル参照、日付計算を使用してカスタム日付を作成する</li><li>使い慣れた Excel の書式設定ツールを使用して、テーブルやビジュアライゼーションをデザインする</li><li>macOS、Microsoft 365 for the Web およびMicrosoft Windows の Excel で使用できます。</li></ul>[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-reportbuilder/report-buider-overview.html#) | 2021年10月7日（PT） |
 | Analytics ダッシュボードのビジュアライゼーション | Analytics [!UICONTROL  ダッシュボード ] には、3 つの新しいビジュアライゼーションが導入され、エグゼクティブや意思決定者がデータを一目で把握できるようになりました。 新しいドーナツグラフ、折れ線グラフ、横棒グラフを使用すると、詳細ビューを開かなくても、個々のディメンション項目のデータを簡単に確認できます。 [詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=en#apply-visualizations) | 2021年10月7日（PT） |
 | Customer Journey Analytics監査ログ API | [ 監査ログ ](https://adobe.io/cja-apis/docs/endpoints/auditlogs/) API エンドポイントを使用して、Adobeから監査ログデータをリクエストできます。 これは、セキュリティコンプライアンスの重要な部分であり、データやユーザーアクションの監査に役立ちます。 | 2021年10月7日（PT） |
