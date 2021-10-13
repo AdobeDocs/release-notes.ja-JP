@@ -6,9 +6,9 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: bc6e1a293674c9554cb5c4bb18e3e39bb8c38213
+source-git-commit: d2d02b2130c11f1971220646ac19f4fa6f0ab5da
 workflow-type: tm+mt
-source-wordcount: '5537'
+source-wordcount: '5553'
 ht-degree: 38%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 38%
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-最終更新日：**2021 年 10 月 7 日**
+最終更新日：**2021 年 10 月 13 日**
 
 * [[!DNL Experience League] ライブイベント](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; 管理](#ecloud)
@@ -32,7 +32,7 @@ ht-degree: 38%
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) ( 更新 **日：2021 年 10 月 14 日**)
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Target]](#target)
@@ -239,6 +239,8 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 
 [Adobe Experience Manager リリースのアップデートとロードマップ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ja)ページにアクセスして、リリース情報に関する最新情報を入手することをお勧めします。
 
+**更新10/13/2021:** 新機能の概要については、 [2021 年 9 月リリ](https://video.tv.adobe.com/v/337381) ースの概要ビデオを参照してください。
+
 ### コミュニティ
 
 * [Adobe開発者向けライブ](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk) | 2021 年 10 月 4～5 日、7:00 PDT
@@ -292,7 +294,7 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 | 2021年10月 | [ドキュメントの送信とアセットのリンク](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=en) | ビデオ | WorkfrontドキュメントをAssets Essentialsに送信し、Assets EssentialsアセットをWorkfrontにリンクする方法を説明します。 |
 | 2021年10月 | [統合の設定](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=en) | ビデオ | Adobe WorkfrontとAssets Essentialsの統合を設定する方法について説明します。 |
 | 2021年10月 | [電子署名とは](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-digital-signature.html?lang=en) | ビデオ | 世界中で最も厳格な法規制に準拠し、署名者の ID を最高レベルで保証する、証明書ベースの電子署名について説明します。 |
-| 2021年10月 | [Adobe Analyticsのセグメントビルダー](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segment-builder-overview.html?lang=en#) | ビデオ | Adobe Analyticsでは、セグメント化を使用して、データを多角的に分析します。 このビデオでは、[!UICONTROL  セグメントビルダー ] の概要を説明します。 |
+| 2021年10月 | [Adobe Analytics のセグメントビルダー](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segment-builder-overview.html?lang=en#) | ビデオ | Adobe Analytics のセグメント化を使用して、データをスライスし、多角的に分析します。このビデオでは、[!UICONTROL  セグメントビルダー ] の概要を説明します。 |
 | 2021年10月 | [メタデータのマッピング](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=en) | ビデオ | WorkfrontフィールドとAssets Essentialsプロパティの間でメタデータマッピングを設定する方法、およびマッピングされた値を表示するようにAssets Essentialsを設定する方法について説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
