@@ -1,6 +1,6 @@
 ---
 title: 最新のリリースノート
-description: 最新のリリースノート、新機能、製品とサービスの新しいドキュメントについて説明して  [!DNL Experience Cloud]  います。 新しいヘルプとチュートリアルが見つかり  [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise], and [!DNL Document Cloud] ます。
+description: ' [!DNL Experience Cloud]  製品およびサービスに関する最新のリリースノート、新機能、新規ドキュメントについて説明します。 [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise], and [!DNL Document Cloud] に関する新しいヘルプとチュートリアルをご覧ください。'
 doc-type: release notes
 last-update: October 2021
 author: mfrei
@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: ccdd4f3514cc11f9e0f373de29d0b21464bee923
 workflow-type: tm+mt
 source-wordcount: '5702'
-ht-degree: 38%
+ht-degree: 95%
 
 ---
 
@@ -27,8 +27,8 @@ ht-degree: 38%
 
 * [[!DNL Experience League] ライブイベント](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; 管理](#ecloud)
-* [Adobe [!UICONTROL システムステータス]](#status)
-* [[!DNL Adobe Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)**更新日2021年10月7日**
+* [アドビ [!UICONTROL システムステータス]](#status)
+* [[!DNL Adobe Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey) **更新日：2021年10月8日**
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
@@ -50,11 +50,11 @@ ht-degree: 38%
 
 | イベントの日付 | 時間 | イベント名 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2021 年 10 月 4 日（PT） | 必要に応じて | [アドビ開発者向け](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | ビデオ | Adobe エクスペリエンスクラウド、ドキュメントクラウド、クリエイティブクラウドを使用したアドビ製品チームには、最新の tech 前貸しや開発者向けツール、パワーデザイン、コンテンツ作成ワークフロー、ドキュメントサービスおよびカスタマーエクスペリエンス管理があり、各産業にわたっていました。 基調講演の内容を表示します。また、アナリティクス Api、クライアントデータレイヤー、Adobe i/o オープンソースプロジェクトなどについて説明しています。 |
-| 2021 年 10 月 21 日（PT） | 午後12時 (EST) | [誰がクリックしたか? Adobe Analytics を使用したリンクのクリックの高度なレポート](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) | ライブビデオイベント | ユーザーが web やモバイルプロパティを操作する際のレポートは、お客様の旅を理解するための重要な要素です。 Adobe Analytics を使用すると、アプリケーションでクリックされるたびに、ユーザー、内容、理由、および場所を理解できます。 Adobe アナリティクスのエキスパートが説明するのは、アクティビティマップ分類とカスタム属性を使用して、ユーザーの業務についてより理解を深めるためのヒントです。 |
-| 2021 年 9 月 23 日（PT） | 必要に応じて | [ホリデーキャンペーンを目立たせるためのエキスパートのヒント](https://www.youtube.com/watch?v=bsU1lAv0xes) | ライブビデオイベント | 休暇に備えた買い物を始めるのに早すぎることがないのと同じように、ホリデーマーケティングキャンペーンを大成功に導くための計画に早すぎることはありません。Adobe Campaign を使用すると、組織の目標を達成するキャンペーンを設計、計画、実行できます。<br>ただし、年には! マークが付いたキャンペーンを実行するためのヒントについて説明しています。 これについては、Sandra を使用して、豊富な専門知識を持つ Adobe エキスパートが参加した3つのライブ討論に参加してください。 |
-| 2021年8月26日（PT） | 必要に応じて | [次のオーディエンスセグメントを従来よりもスマートに](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=ja) | イベントの録画 | すべての優れたマーケティングキャンペーンを成功させるには、オーディエンスのターゲティングを正確におこなう必要があります。新しい Adobe Experience Platform [!UICONTROL セグメントビルダー] を使用すると、チャネルをまたいでプロファイルデータと時間ベースのユーザー行動を使用して、次のオーディエンスセグメントを作成できます。最も必要としている人にメッセージを届けるのに、これ以上の方法はありません。 |
-| 2021年7月29日（PT） | 必要に応じて | [Adobe Analytics の実装に関する 3 つのお気に入りのヒント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=ja) | イベントの録画 | Summit のステージで彼をご覧になった方もいるでしょう。Adobe インサイダーツアーでは、専門家としてアドバイスを提供しました。お客様自身の Adobe Analytics 実装に、彼と一緒に取り組めるというメリットが得られるかもしれません。エリック・マティソフフは、このメンバー限定 Experience League のライブディスカッションで、Adobe Analytics の実装に関する 3 つのお気に入りのヒントを紹介します。 |
+| 2021 年 10 月 4 日（PT） | オンデマンド | [アドビ開発者向け](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) | ビデオ | Adobe エクスペリエンスクラウド、ドキュメントクラウド、クリエイティブクラウドを使用したアドビ製品チームには、最新の tech 前貸しや開発者向けツール、パワーデザイン、コンテンツ作成ワークフロー、ドキュメントサービスおよびカスタマーエクスペリエンス管理があり、各産業にわたっていました。 基調講演の内容を表示します。また、アナリティクス Api、クライアントデータレイヤー、Adobe i/o オープンソースプロジェクトなどについて説明しています。 |
+| 2021年10月21日（PT） | 午後 12:00（EST） | [クリックしたのは誰でしょう？Adobe Analytics によるリンククリックの高度なレポート機能](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) | ライブビデオイベント | Web またはモバイルプロパティとのユーザーインタラクションに関するレポート作成は、顧客のジャーニーを把握するうえで重要です。Adobe Analytics を使用すると、アプリケーション内でクリックしたユーザー、対象、理由、場所を把握できます。Adobe Analytics のエキスパートが Activity Map の分類とカスタム属性を使用して、ユーザーエンゲージメントをより深く理解するためのヒントを紹介します。 |
+| 2021年9月23日（PT） | オンデマンド | [ホリデーキャンペーンを目立たせるためのエキスパートのヒント](https://www.youtube.com/watch?v=bsU1lAv0xes) | ライブビデオイベント | 休暇に備えた買い物を始めるのに早すぎることがないのと同じように、ホリデーマーケティングキャンペーンを大成功に導くための計画に早すぎることはありません。Adobe Campaign を使用すると、組織の目標を達成するキャンペーンを設計、計画、実行できます。<br>1 年の終わりを華麗に飾るキャンペーンを実行するためのヒントはご存知でしょうか？それらに関する豊富な専門知識を備えた 3 人のアドビエキスパートとサンドラによる、ライブディスカッションにご参加ください。 |
+| 2021年8月26日（PT） | オンデマンド | [次のオーディエンスセグメントを従来よりもスマートに](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=ja) | イベントの録画 | すべての優れたマーケティングキャンペーンを成功させるには、オーディエンスのターゲティングを正確におこなう必要があります。新しい Adobe Experience Platform [!UICONTROL セグメントビルダー] を使用すると、チャネルをまたいでプロファイルデータと時間ベースのユーザー行動を使用して、次のオーディエンスセグメントを作成できます。最も必要としている人にメッセージを届けるのに、これ以上の方法はありません。 |
+| 2021年7月29日（PT） | オンデマンド | [Adobe Analytics の実装に関する 3 つのお気に入りのヒント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=ja) | イベントの録画 | Summit のステージで彼をご覧になった方もいるでしょう。Adobe インサイダーツアーでは、専門家としてアドバイスを提供しました。お客様自身の Adobe Analytics 実装に、彼と一緒に取り組めるというメリットが得られるかもしれません。エリック・マティソフフは、このメンバー限定 Experience League のライブディスカッションで、Adobe Analytics の実装に関する 3 つのお気に入りのヒントを紹介します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -64,10 +64,10 @@ ht-degree: 38%
 
 | 機能 | 説明 |
 | ------- | ------- |
-| 統合検索 | 集中検索では、検索インデックスにオブジェクトタイプが追加され続けます。 このアップデートでは、グローバル検索により、経験内のコンテンツと次のような Flash Optimizer オブジェクトタイプが検索されます。 <ul><li>データセット</li><li>宛先</li><li>クエリ</li><li>スキーマ</li><li>セグメント</li><li>ソース</li><li>オファー</li><li>コンポーネント</li><li>メッセージ</li><li>ジャーニー</li></ul> |
-| 製品の使用状況に関する同意 | 初期ログイン時には、チュートリアル、ガイド、クイックヒント、アドバイス、ラーニングビデオなどの便利な個人用コンテンツを Adobe に提供するための環境設定を、ご希望の操作性に基づいて送信します。 この依頼には、のデータを収集して使用するための環境設定のアップデートも含まれてい <https://experience.adobe.com/preferences> ます。 |
-| エクスペリエンスクラウドの [!UICONTROL  開始 ] 操作 | [エクスペリエンスクラウドトリガー ](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=en) は、プロビジョニングされたユーザー用にヘッダー内のアプリケーション切り替えに直接移動することができます。 |
-| **注意:** インターフェイスナビゲーションの更新の計画 | 11月2021に、「 _[!UICONTROL 起動/データコレクションへ移動」]_ 機能が削除され <https://experience.adobe.com/implement> ます。 |
+| 統合検索 | 統合検索では、引き続き検索インデックスにオブジェクトタイプが追加されます。この更新では、グローバル検索で、Experience League コンテンツ全体と次の Journey Optimizer オブジェクトタイプが検索されるようになりました。 <ul><li>データセット</li><li>宛先</li><li>クエリ</li><li>スキーマ</li><li>セグメント</li><li>ソース</li><li>オファー</li><li>コンポーネント</li><li>メッセージ</li><li>ジャーニー</li></ul> |
+| 製品の使用状況データへの同意 | 初回ログイン時に、Experience Cloud 製品の使用状況データに基づいて、チュートリアル、ガイド、クイックヒント、レコメンデーション、学習用ビデオなどのパーソナライズされた有用なコンテンツをアドビから提供することに関して、環境設定を送信するよう求められます。このリクエストでは、これらのデータの収集と使用に関する環境設定を <https://experience.adobe.com/preferences> で更新することも求められます。 |
+| Experience Cloud [!UICONTROL トリガー]によるナビゲーション | [Experience Cloud トリガー](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=ja)は、プロビジョニングされたユーザーのヘッダーにあるアプリケーション切り替えボタンから直接ナビゲーションできます。 |
+| **注意：**&#x200B;ナビゲーションインターフェイスの更新予定 | 2021年11月に、_[!UICONTROL Launch に移動／データ収集]_&#x200B;ナビゲーション機能が <https://experience.adobe.com/implement> から削除されます。 |
 
 {style = &quot;テーブル-layout: auto&quot;}
 
@@ -75,7 +75,7 @@ ht-degree: 38%
 
 * [主要なインターフェイスコンポーネント](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=ja)およびユーザー管理の管理ヘルプ
 * [Places - 位置情報サービス](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=ja)のヘルプとリリースノート
-* [ユーザー向けヘルプ-カスタマー属性および対象ユーザー向けライブラリ](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en)
+* [People - 顧客属性とオーディエンスライブラリ](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=ja)に関するヘルプ
 
 ## ![アイコン](/assets/adobe.png) [!DNL Adobe System Status] {#status}
 
@@ -88,7 +88,7 @@ ht-degree: 38%
 リリース日：**2021 年 10 月 7 日**
 
 * [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey)**更新日2021年10月7日**
+* [Customer Journey Analytics の新機能](#cust-journey) **更新日：2021年10月8日**
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [Analytics コースとチュートリアル](#tutorials-analytics)
@@ -98,11 +98,11 @@ ht-degree: 38%
 
 | 機能 | 説明 | [一般公開](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=ja) - ターゲット日 |
 | ----------- | ---------- | ------- |
-| アナリティクスダッシュボードのビジュアル化 | アナリティクス [!UICONTROL  ダッシュボード ] には3つの新しい視覚化が導入されており、エグゼクティブや意思決定者に、データについての理解を深めることができます。 新しい [!UICONTROL  ドーナツ ] 、 [!UICONTROL  直線 ] 、 [!UICONTROL  水平 ] 棒グラフにより、細部を表示せずに、個々のディメンションアイテムのデータを表示することが容易になります。 [詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=en#apply-visualizations) | 2021 年 10 月 7 日 |
-| [!UICONTROL メディア再生滞在時間] | Adobe ストリーミングメディア [!UICONTROL  の再生時間を ] 利用すれば、閲覧者の役に立つ洞察が得られます。また、メディア組織は、1日の拡張機能を使用して、長期間に渡って、1分間でのユーザー取り組みをより詳細に行うことができます。 特定の時点でのメディアストリーミングの表示にかかった時間を確認することができます。 再生デュレーションは、新しい5分間、15分間、30分間の granularities など、様々な方法で分割することができます。 [詳細情報](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=en) | 2021 年 10 月 18 日（PT） |
-| クイック [!UICONTROL  セグメントビルダー] | ビジネスユーザーは、シンプルなインラインプロジェクトワークフローで基本的なセグメントをすばやく適用できます。 セグメントビルダーに移動する必要はありません  。 [詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=en) | 2021 年 10 月 21 日（PT） |
-| 分析ワークスペースの左側のレール検索機能 | 「レール検索」を使用すると、コンポーネントの内容や関連性について引き続き考慮することに加えて、一致するアイテムの上にある完全な一致を優先して実行できます。 2) 検索結果をわかりやすくするために、一致する文字をハイライト表示します。 3) 次元に関連する分類を簡単に見つけられるようになりました。 4) 最後に、 `*` 必要な特定のコンポーネントをより簡単に検索できるように、ワイルドカード () をサポートしています。 注意: ワイルドカード検索は、ディメンションアイテムレベルでは実行されません。 | 2021 年 10 月 21 日（PT） |
-| 分析ワークスペースの濃色のテーマ | 濃色のテーマは、表示オプションとして使用できます。 | 2021 年 10 月 21 日（PT） |
+| Analytics ダッシュボードのビジュアライゼーション | Analytics [!UICONTROL ダッシュボード]では、経営者や意思決定者がデータを一目で理解できるように、3 つの新しいビジュアライゼーションを導入しています。新しい[!UICONTROL 円グラフ]、[!UICONTROL 折れ線グラフ]、[!UICONTROL 横棒グラフ]を使用すると、詳細ビューを開かなくても、個々のディメンション項目のデータを簡単に確認できます。[詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=ja#ビジュアライゼーションの適用) | 2021年10月7日（PT） |
+| [!UICONTROL メディア再生滞在時間] | アドビのストリーミングメディア再生[!UICONTROL 滞在時間] は、ビューアのエンゲージメントに関する貴重なインサイトを提供し、メディア企業は日分割機能を備えた高度な滞在時間分析を通じて、分単位のユーザーエンゲージメントに関する、より深く、より詳細なインサイトを得ることができます。特定の時点でのメディアストリームの視聴時間を確認できます。再生時間は、新たな 5 分、15 分、30 分の時間粒度を含む、様々な粒度で分割できます。[詳細情報](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=ja) | 2021年10月19日 |
+| クイック[!UICONTROL セグメントビルダー] | ビジネスユーザーは、シンプルなインラインプロジェクトワークフローで、基本的なセグメントをすばやく適用できます。[!UICONTROL セグメントビルダー]に移動する必要はありません。[詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=ja) | 2021年10月21日（PT） |
+| Analysis Workspace 左パネルの検索の改善 | 左パネル検索は、1）コンポーネントの最新性と関連性を引き続き考慮に入れることに加えて、部分一致よりも完全一致を優先します。2）一致した文字をハイライトして、検索結果をわかりやすくします。3）ディメンションに関連する分類を見つけやすくなります。4）最後に、ワイルドカード（`*`）検索をサポートして、必要な特定のコンポーネントをより簡単に見つけます。注意：ワイルドカード検索は、ディメンション項目レベルではまだ機能しません。 | 2021年10月21日（PT） |
+| Analysis Workspace ダークテーマ | ダークテーマは表示オプションとして使用できます。 | 2021年10月21日（PT） |
 
 {style = &quot;テーブル-layout: auto&quot;}
 
@@ -110,30 +110,30 @@ ht-degree: 38%
 
 | 機能 | 説明 | [一般公開](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - ターゲット日 |
 | ----------- | ---------- | ----- |
-| [!UICONTROL 接続 ] データ保存用のローリングウィンドウ | **注意: この設定を実装するには、カスタマーケアまたはお使いのアカウントマネージャーにお問い合わせください。 CJA UI ではまだ使用できません。**<p>CJA のデータ保持設定を、  データセットレベルではなく、接続レベルで月 (3 か月、6か月) として定義でき  ます。 データ保存は、イベントデータセットのタイムスタンプに基づいており、イベントデータセットにのみ適用されます。 適切なタイムスタンプが設定されていないため、profile または lookup データセットのデータ保存設定は存在しません。 主な利点は、適切かつ有用なデータについてのみ保存またはレポートを作成し、不要になった古いデータを削除できることです。 これにより、契約上の制限を超え、過剰なコストのリスクを軽減することができます。 | 2021 年 10 月 7 日 |
-| レポートビルダーのサポート | レポートビルダーは、 [!DNL Excel] カスタマーの旅の解析データを使用して独自のレポートを容易に作成、編集、更新できる Microsoft®アドインです。 レポートビルダーと Excel を使用すると、単純なドラッグ &amp; ドロップ UI を使用して、複雑なデータ要求を簡単に作成できます。 お客様の旅の分析については、以下のレポートビルダーを使用できます。<ul><li>既存のワークシートのセルを参照して、完全な行の順序、日付の範囲、またはフィルターを取得します。</li><li>カレンダー、セル参照、日付計算を使用したカスタム日付の作成</li><li>慣れ親しんだ Excel フォーマットツールを使用したテーブルとビジュアル化のデザイン</li><li>MacOS の Excel で利用可能です。 Microsoft 365 web 用、Microsoft Windows</li></ul>[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-reportbuilder/report-buider-overview.html#) | 2021 年 10 月 7 日 |
-| アナリティクスダッシュボードのビジュアル化 | アナリティクス [!UICONTROL  ダッシュボード ] には3つの新しい視覚化が導入されており、エグゼクティブや意思決定者に、データについての理解を深められるようにしています。 新しいドーナツ、直線、水平棒グラフにより、細部を表示せずに、個々のディメンションアイテムのデータを表示することが容易になります。 [詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=en#apply-visualizations) | 2021 年 10 月 7 日 |
-| お客様の旅分析監査ログ API | [監査ログ ](https://adobe.io/cja-apis/docs/endpoints/auditlogs/) API エンドポイントを使用すると、Adobe から監査ログデータを要求できます。これは、セキュリティのコンプライアンスにおいて重要であり、データやユーザーアクションの監査にも重要です。 | 2021 年 10 月 7 日 |
-| クイック [!UICONTROL  フィルタービルダー] | ビジネスユーザーは、シンプルなインラインプロジェクトワークフローで基本的なセグメントをすばやく適用できます。 フィルタービルダーに移動する必要はありません  。 [詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=en) | 2021 年 10 月 21 日（PT） |
-| 分析ワークスペースの左側のレール検索機能 | 「レール検索」を使用すると、コンポーネントの内容や関連性について引き続き考慮することに加えて、一致するアイテムの上にある完全な一致を優先して実行できます。 2) 検索結果をわかりやすくするために、一致する文字をハイライト表示します。 3) 次元に関連する分類を簡単に見つけられるようになりました。 4) 最後に、 `*` 必要な特定のコンポーネントをより簡単に検索できるように、ワイルドカード () をサポートしています。 注意: ワイルドカード検索は、ディメンションアイテムレベルでは実行されません。 | 2021 年 10 月 21 日（PT） |
-| 分析ワークスペースの濃色のテーマ | 濃色のテーマは、表示オプションとして使用できます。 | 2021 年 10 月 21 日（PT） |
+| [!UICONTROL 接続]データ保持のためのローリングウインドウ | **注意：この設定を実装するには、カスタマーケアまたはアドビのアカウントマネージャーにお問い合わせください。CJA UI からはまだ利用できません。**<p>CJA データ保持設定を、（[!UICONTROL データセット]レベルではなく）月単位（3 か月、6 か月など）の[!UICONTROL 接続]レベルでのローリングウィンドウとして定義できます。データ保持はイベントデータセットのタイムスタンプに基づき、イベントデータセットにのみ適用されます。該当するタイムスタンプがないため、プロファイルまたは参照データセットのデータ保持設定はありません。主な利点は適用可能で有用なデータのみを保存またはレポートし、有用ではなくなった古いデータを削除することです。契約上の限度にとどまり、超過コストのリスクを軽減します。 | 2021年10月7日（PT） |
+| Report Builder のサポート | Report Builder は、Customer Journey Analytics データを使用して、カスタムレポートを簡単に作成、編集、更新できる Microsoft® [!DNL Excel] アドインです。Report Builder と Excel を使用すると、シンプルで柔軟なドラッグ＆ドロップ UI を使用して、複雑なデータリクエストを簡単に作成できます。Customer Journey Analytics の Report Builder を使用すると、次のことができます。<ul><li>既存のワークシートのセルを参照して、完全な行順、日付範囲またはフィルターを取得する</li><li>カレンダー、セル参照または日付計算を使用してカスタム日付を作成する</li><li>使い慣れた Excel の書式設定ツールを使用して、テーブルやビジュアライゼーションをデザインする</li><li>macOS、Microsoft 365 for the web、Microsoft Windows の Excel で使用可能</li></ul>[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-reportbuilder/report-buider-overview.html?lang=ja#) | 2021年10月7日（PT） |
+| Analytics ダッシュボードのビジュアライゼーション | Analytics [!UICONTROL ダッシュボード]には、3 つの新しいビジュアライゼーションが導入され、エグゼクティブや意思決定者がデータを一目で把握できるようになりました。新しいドーナツグラフ、折れ線グラフ、横棒グラフを使用すると、詳細ビューを開かなくても、個々のディメンション項目のデータを簡単に確認できます。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=ja#ビジュアライゼーションの適用) | 2021年10月7日（PT） |
+| Customer Journey Analytics Audit Logs API | [Audit Log](https://adobe.io/cja-apis/docs/endpoints/auditlogs/) API エンドポイントを使用して、アドビの監査ログデータをリクエストできます。これは、セキュリティコンプライアンスの重要な部分であり、データやユーザーアクションの監査に役立ちます。 | 2021年10月7日（PT） |
+| クイック[!UICONTROL フィルタービルダー] | ビジネスユーザーは、シンプルなインラインプロジェクトワークフローで、基本的なセグメントをすばやく適用できます。[!UICONTROL フィルタービルダー]に移動する必要はありません。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=ja) | 2021年10月21日（PT） |
+| Analysis Workspace 左パネルの検索の改善 | 左パネル検索は、1）コンポーネントの最新性と関連性を引き続き考慮に入れることに加えて、部分一致よりも完全一致を優先します。2）一致した文字をハイライトして、検索結果をわかりやすくします。3）ディメンションに関連する分類を見つけやすくなります。4）最後に、ワイルドカード（`*`）検索をサポートして、必要な特定のコンポーネントをより簡単に見つけます。注意：ワイルドカード検索は、ディメンション項目レベルではまだ機能しません。 | 2021年10月21日（PT） |
+| Analysis Workspace ダークテーマ | ダークテーマは表示オプションとして使用できます。 | 2021年10月21日（PT） |
 
 {style = &quot;テーブル-layout: auto&quot;}
 
 ### Adobe Analytics の修正点と CJA の修正点 {#aa-fixes}
 
-* お客様の旅解析で、報告された定期レポートのエラーを修正しました。 （AN-271721）
-* [!UICONTROL ワークスペース内の検索コンポーネントで問題が解決 ]  されていても、完全に一致する結果にはなりません。（AN-253937、AN-271707）
+* Customer Journey Analytics の予定レポートのエラーを修正しました。（AN-271721）
+* [!UICONTROL ワークスペース] の[!UICONTROL 検索コンポーネント]が完全には一致しない問題を修正しました。（AN-253937、AN-271707）
 
 #### Adobe Analytics におけるその他の修正点
 
-A-256136;A-265420;A-268455;A-269768;A-270276;A-270287;A-271601;A-271969;A-272056;A-272111;A-272457
+AN-256136; AN-265420; AN-268455; AN-269768; AN-270276; AN-270287; AN-271601; AN-271969; AN-272056; AN-272111; AN-272457
 
 ### [!DNL Analytics] 管理者向けの重要な注意事項  {#aa-notices}
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
-| 3 つの Analytics API サービスの提供終了 | 2021年9月16日（PT） | **2021 年10月20日の間に、** 次の ANALYTICS 従来 API サービスは、生涯終了日に到達してシャットダウンされます。これらのサービスを使用して現在構築されている統合は、その日以降使用できなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>アドビでは、お客様のご質問に対する回答や進め方に関するガイダンスを提供するために、[従来の API の EOL（サポート終了）に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe I/O](https://developer.adobe.com/console) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API のどちらにアクセスする場合にも使用できます。 |
+| 3 つの Analytics API サービスの提供終了 | 2021年9月16日（PT） | **2021年10月20日（PT）**、次の Analytics レガシー API サービスの提供が終了し、サービスが停止されます。これらのサービスを使用して現在構築されている統合は、その日以降使用できなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>アドビでは、お客様のご質問に対する回答や進め方に関するガイダンスを提供するために、[従来の API の EOL（サポート終了）に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe I/O](https://developer.adobe.com/console) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API のどちらにアクセスする場合にも使用できます。 |
 
 {style = &quot;テーブル-layout: auto&quot;}
 
@@ -143,11 +143,11 @@ AppMeasurement リリース（バージョン 2.22.2）の最新の更新につ�
 
 ### Analytics コースとチュートリアル {#tutorials-analytics}
 
-では、最新のコース、チュートリアルおよび記事 [!DNL Analytics] および、 [!UICONTROL  お客様向けの旅の分析が ] できます。
+[!DNL Analytics] および [!UICONTROL Customer Journey Analytics] の最新のコース、チュートリアル、記事。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021 年 10 月 | [ビジュアル化を使用したデータストーリーの通知](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations) | コース | データを取得するためだけにテーブルの後にテーブルを scour する場合は、 あなたじゃないです！ このコースでは、ビジュアル化の基礎 (プロジェクトに追加する方法、データを取得する方法など) について学習します。 必要な正確なデータを取得するための設定を行う方法について説明します。 また、通常の解析において視覚化を行うためのヒントと使用例を示しています。 |
+| 2021年10月 | [ビジュアライゼーションを使用したデータストーリーの把握](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations) | コース | データからインサイトを引き出すためだけに、何度も何度もテーブルを確認したい人はいないでしょう。もちろんあなたも違いますよね。このコースでは、プロジェクトにビジュアライゼーションを追加する方法、ビジュアライゼーションにデータを取り込む方法、各ビジュアライゼーションで表示できる内容など、ビジュアライゼーションの基本について説明します。必要な正確なデータを取得するための設定方法を説明します。また、標準的な分析にビジュアライゼーションを使用できるようにするためのヒントや使用例を説明します。 |
 
 {style = &quot;テーブル-layout: auto&quot;}
 
@@ -165,26 +165,26 @@ Audience Manager の新機能 - 更新日 **2021年9月14日（PT）**:
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-リリースアップデート情報、およびエクスペリエンスプラットフォームとモバイル SDK の新しいドキュメントが記載されてい  ます。
+Experience Platform と[!UICONTROL モバイル SDK] に関するリリース更新情報と新しいドキュメントが含まれます。
 
 **2021 年 9 月 29 日**
 
 | 機能 | 説明 |
 | ------- | ------- |
-| [[!UICONTROL データランディングゾーン]](https://experienceleague.adobe.com/docs/experience-platform/sources/connectors/cloud-storage/data-landing-zone.html) | [!UICONTROL データランディングゾーン ] は、 [!DNL Platform]  1 つのセキュリティで保護された、サンドボックスあたりの一時記憶領域としてファイルをエクスペリエンスプラットフォームに取り込むことができる、プロビジョニング済みの Azure ブロブストアです。 |
-| データ準備のストリーミングソースのサポート [](https://www.adobe.com/go/monitor-streaming-dataflows-en) | ストリーミングソースはデータの準備を現在サポートしているので、JSON ソーススキーマを使用して、XDM に対応していないソースデータをターゲットの XDM スキーマにマップすることができます。 |
-| [無期限の資格情報](https://experienceleague.adobe.com/docs/experience-platform/query/ui/credentials.html) | このようなクエリサービスユーザーについては、  24 時間ごとに更新するのではなく、外部クライアントに恒久的な接続を行うことができます。 |
-| [[!UICONTROL ターゲット SDK]](https://www.adobe.com/go/destination-sdk-overview-en) | 統合先の SDK を使用して、 [!UICONTROL  成長率の最も ] [!DNL Platform] 高まる宛先カタログに統合します。 この機能にアクセスするには、プラットフォームのライセンス認証を行うユーザーのみが利用できます。 |
+| [[!UICONTROL Data Landing Zone]](https://experienceleague.adobe.com/docs/experience-platform/sources/connectors/cloud-storage/data-landing-zone.html?lang=ja) | [!UICONTROL Data Landing Zone] は、[!DNL Platform]- プロビジョニングされた [!UICONTROL Azure Blob Store] で、サンドボックスごとに 1 つの安全で一時的なストレージでファイルを Experience Platform に取り込むことができます。 |
+| [データ準備](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/monitor-streaming.html?lang=ja)のためのストリーミングソースのサポート | ストリーミングソースがデータ準備をサポートするようになり、JSON ソーススキーマを提供して、XDM と互換性のないソースデータをターゲット XDM スキーマにマッピングできるようになりました。 |
+| [有効期限が切れていない資格情報](https://experienceleague.adobe.com/docs/experience-platform/query/ui/credentials.html?lang=ja) | [!UICONTROL クエリサービス]ユーザーの有効期限が切れていない資格情報では、24 時間ごとに資格情報を更新する代わりに、外部クライアントへのより永続的な接続が可能になります。 |
+| [[!UICONTROL 宛先 SDK]](https://experienceleague.adobe.com/docs/experience-platform/destinations/destination-sdk/overview.html?lang=ja) | [!UICONTROL 宛先 SDK] を使用して [!DNL Platform] と統合し、増え続ける宛先カタログに貢献します。この機能へのアクセスは、Experience Platform Activation のお客様のみが利用できます。 |
 
 詳しくは、 [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja) を参照してください。
 
 ### Experience Platform チュートリアルおよびコース {#tutorials-platform}
 
-経験のあるプラットフォームおよびサービスについて、最新のビデオ、チュートリアル、またはコースが公開されています。
+Experience Platform およびサービス用に公開された新しいビデオ、チュートリアル、コースです。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021 年 10 月 | [[!DNL Platform] 管理](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin) | コース | 権限管理およびサンドボックス管理を含む、経験のあるプラットフォーム用の管理アクティビティについて説明しています。 |
+| 2021年10月 | [[!DNL Platform] 管理](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin) | コース | 権限やサンドボックス管理など、Experience Platform の管理アクティビティについて説明します。 |
 
 {style = &quot;テーブル-layout: auto&quot;}
 
@@ -194,21 +194,21 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
 
-最新の機能、改善点および修正点について詳しくは、[Journey Orchestration リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ja)を参照してください。
+最新の機能、改善点および修正点について詳しくは、[Journey Optimizer リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ja)を参照してください。
 
-### 旅オプティマイザーのチュートリアルとコース {#tutorials-ajo}
+### Journey Optimizer のチュートリアルとコース {#tutorials-ajo}
 
-最新の旅オプティマイザーのチュートリアル:
+最新の Journey Optimizer チュートリアル：
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021 年 10 月 | [データエンジニア向けのデータの設定と管理  [!DNL Journey Optimizer] ](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2) | コース | このような場合は、旅のオプティマイザーでの旅の管理に必要なデータを設定して管理する方法を説明します。 |
-| 2021 年 10 月 | [まず  [!DNL Journey Optimizer]  、旅の管理者およびマネージャーについて学習します。](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1) | コース | 最初の道を作成するために必要な情報をすべてご確認ください。 |
-| 2021 年 10 月 | [ [!DNL Journey Optimizer] 旅の管理者向けの設定](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1) | コース | [!DNL Journey Optimizer]統合のアーキテクチャとポイントについて理解します。の設定方法について説明 [!DNL Journey Optimizer] します。 |
+| 2021年10月 | [データエンジニア向け [!DNL Journey Optimizer] データの設定と管理](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2) | コース | Journey Optimizer でのジャーニー管理に必要なデータの設定と管理方法について説明します。 |
+| 2021年10月 | [ジャーニー管理者およびマネージャー [!DNL Journey Optimizer] の概要](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1) | コース | 最初のジャーニーを作成するために知っておく必要のあるすべての事項を説明します。 |
+| 2021年10月 | [ジャーニー管理者用 [!DNL Journey Optimizer] の設定](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1) | コース | [!DNL Journey Optimizer] のアーキテクチャと統合のポイントを理解します。[!DNL Journey Optimizer] の設定方法を説明します。 |
 
 {style = &quot;テーブル-layout: auto&quot;}
 
-### のその他のリソース [!DNL Journey Optimizer]
+### [!DNL Journey Optimizer] のその他のリソース
 
 [ヘルプセンター](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ハ ウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja)
 
@@ -220,21 +220,21 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 
 最新の機能、改善点および修正点について詳しくは、[[!DNL Journey Orchestration]  リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ja)を参照してください。
 
-#### のその他のリソース [!DNL Journey Orchestration]
+#### [!DNL Journey Orchestration] のその他のリソース
 
 [ヘルプセンター](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ja-JP) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ja)
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Offer Decisioning {#offer-decisioning}
 
-[!UICONTROL オファー Decisioning ] は、Adobe エクスペリエンスプラットフォームと統合されたサービスです。 [!UICONTROL Offer Decisioning] を使用すると、すべてのタッチポイントにわたって適切なタイミングで最高のオファーとエクスペリエンスを顧客に提供できます。
+[!UICONTROL Offer Decisioning] は、Adobe Experience Platform と統合されたサービスです。[!UICONTROL Offer Decisioning] を使用すると、すべてのタッチポイントにわたって適切なタイミングで最高のオファーとエクスペリエンスを顧客に提供できます。
 
-### 最新のキャンペーン Decisioning 製品リリース
+### 最新の Offer Decisioning 製品リリース
 
-Decisioning リリースノートの最新機能、機能強化、修正について詳しくは、こちらを参照して [ ](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) ください。
+最新の機能、改善点、修正点について詳しくは、[Offer Decisioning リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html)を参照してください。
 
 #### [!UICONTROL Offer Decisioning] のその他のリソース
 
-[ヘルプセンター](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html)
+[ヘルプセンター](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ja)
 
 ## ![アイコン](/assets/aem.png) Adobe Experience Manager {#aem}
 
@@ -244,17 +244,17 @@ Decisioning リリースノートの最新機能、機能強化、修正につ�
 
 ### コミュニティ
 
-* [Adobe デベロッパーライブ ](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk) | 4-5 2021 年10月、7:00 PDT
+* [アドビ開発者向けライブ](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk) | 2021年10月4～5日、7:00（PDT）
 
-   アドビ開発者がアドビデベロッパーを利用して、多種多様な背景と単数目的でビルダーを使用することで、優れたエンドツーエンドエクスペリエンスを作成することができます。 この2日に開催される会議には、重要な開発者向けアップデート、テクニカルセッション、およびコミュニティのネットワーク機能があります。
+   アドビ開発者向けライブは、多様な背景と単一の目的を持つアドビ開発者とエクスペリエンスビルダーを結集し、素晴らしいエンドツーエンドのエクスペリエンスを作り出します。この 2 日間の会議では、開発者向けの重要な更新、技術セッション、コミュニティネットワークの機会を紹介します。
 
-   Adobe エクスペリエンスクラウド、ドキュメントクラウド、クリエイティブクラウドを使用したアドビ製品チームは、最新の技術進歩と開発ツールを使用して、パワーデザイン、コンテンツ作成ワークフロー、ドキュメントサービス、および各産業上でカスタマーエクスペリエンス管理を行うことができます。
+   Adobe Experience Cloud、Document Cloud、Creative Cloud のアドビ製品チームは、業界全体の設計、コンテンツ作成ワークフロー、ドキュメントサービス、カスタマーエクスペリエンス管理を強化する最新の技術進歩と開発者ツールを紹介します。
 
-   Adobe では、20個の経験管理セッションが予定されています。 「!
+   アドビでは、20 回の Experience Manager セッションが予定されています。周囲の人も誘ってぜひ参加ください。
 
-   * [セッションの終了リスト](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
-   * [無料登録– RSVP にログインします。](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk)
-   * [アドビデベロッパーライブコミュニティ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/registration-for-adobe-developers-live-is-now-open-october-4-5/td-p/422127)
+   * [セッションリストの完了](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=ja#M120517)
+   * [無料登録 — RSVP にログインします](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk)
+   * [アドビ開発者ライブコミュニティ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/registration-for-adobe-developers-live-is-now-open-4th-amp-5th/td-p/422127?profile.language=ja)
 
 ### 新しい Adobe Experience Manager コースとチュートリアル {#tutorials-aem}
 
@@ -262,41 +262,41 @@ Decisioning リリースノートの最新機能、機能強化、修正につ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021 年 10 月 | [XML ドキュメントを使用した作業の開始](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2021.xmldocs) | コース | Adobe Experience Manager 用の XML ドキュメントを使用して、コンテンツを作成、整理、オーサリング、パブリッシュする方法について説明します。 |
-| 2021 年 10 月 | [「およびアセットを使用したクリエイティブワークフローの管理」  [!DNL Workfront]  エッセンシャル](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2021.2.assets.essentials) | コース | アドビ [!DNL Workfront] および Experience Manager の操作方法について説明します。 |
-| 2021 年 10 月 | [基本的な EM アセットの基礎](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2021.assets.essentials) | コース | 「EM アセットの基礎」により組織の資産管理が能率化できることを説明します。 |
-| 2021 年 10 月 | [[!UICONTROL コンテンツ転送ツール]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/content-transfer-tool.html?lang=en) | ビデオ | [!UICONTROL コンテンツ転送ツールを ] 使用して、em 6.3 以降のクラウドサービスとしてコンテンツを移行する方法を説明しています。 |
-| 2021 年 10 月 | [[!UICONTROL バルクインポートサービス]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/bulk-import-service.html?lang=en) | ビデオ | クラウドサービスのバルクインポートサービスとして EM を使用して、  aem 以外のソースからアセットを読み込む方法について説明します。 |
-| 2021 年 10 月 | [通信 (出力サービス)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-forms/communications.html?lang=en) | ビデオ | クラウドサービスとしての EM フォームが通信ユースケースをサポートする方法について説明します。 |
-| 2021 年 10 月 | [電子登録](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-forms/digital-enrollment.html?lang=en) | ビデオ | クラウドサービスとして EM フォームを使用する方法について詳しくは、デジタル登録ユースケースのサポートを参照してください。 |
-| 2021 年 10 月 | [[!UICONTROL クラウドアクセラレーションマネージャーツールの使用 ]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/using.html) | ビデオ | Narrated について学習し  ます。 |
-| 2021 年 10 月 | [[!UICONTROL クラウドアクセラレーションマネージャーの移動]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/navigating.html) | ビデオ | クラウド  サービスとしての操作性を実現するために、クラウドアクセラレーションマネージャーの操作を体験してください。 |
-| 2021 年 10 月 | [アセットワークフロー移行ツール](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/asset-workflow-migration-tool.html) | ビデオ | [!UICONTROL アセットワークフロー移行 ] ツールを使用して、既存の Aem アセットワークフローをクラウドサービスとして移行する方法について説明しています。 |
-| 2021 年 10 月 | [[!UICONTROL インデックスコンバーター]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/index-converter.html) | ビデオ | [!UICONTROL インデックスコンバーターが、 ] 既存の aem インデックス定義を自動的にクラウドサービスとして使用するように変換する方法について説明します。 |
-| 2021 年 10 月 | [[!UICONTROL Dispatcher コンバーター]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/dispatcher-converter.html) | ビデオ | ここ [!UICONTROL  では、Dispatcher コンバーターが ] 既存の aem ディスパッチャー設定を自動的に更新し、クラウドサービスと互換性のある形式にする方法について説明します。 |
-| 2021 年 10 月 | [[!UICONTROL コードリポジトリ Modernizer]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/code-repository-modernizer.html) | ビデオ | [!UICONTROL Modernizer では、コアリポジトリを使用して、既存の ] Aem Maven プロジェクトを自動的に更新し、クラウドサービスとしてサポートされるようにする方法について説明します。 |
-| 2021 年 10 月 | [[!UICONTROL コードリファクタリングツール]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/code-refactoring-tools.html) | ビデオ | このガイドでは、AEM [!UICONTROL  コードリファクタリングツールを使用し ] て、既存の aem プロジェクトを自動的にクラウドサービスと互換性のある形式に変換する方法について説明します。 |
-| 2021 年 10 月 | [[!UICONTROL コンテンツ転送ツール]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/content-transfer-tool.html) | ビデオ | [!UICONTROL コンテンツ転送ツールを使用し ] て、a em 6.5 からクラウドサービスとしてコンテンツを効率的に移動する方法について説明しています。 |
-| 2021 年 10 月 | [[!UICONTROL クラウドアクセラレーションマネージャーの実装段階]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/implementation-phase.html) | ビデオ | 実装の主な段階を確認して理解しておくか、またはクラウド促進マネージャーを使用してクラウドサービスとして EM に移行して  ください。 |
-| 2021 年 10 月 | [準備と [!UICONTROL  ベストプラクティスアナライザー]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/readiness-and-best-practice-analyzer.html) | ビデオ | [!UICONTROL ベストプラクティスアナライザーにより、 ] オンプレミスまたは Adobe 管理サービスからクラウドサービスとして提供されるエクスペリエンスを提供するための準備について説明しています。 |
-| 2021 年 10 月 | [クラウドアクセラレーションマネージャについて](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/introduction.html) | ビデオ | [!UICONTROL クラウド ] サービスとして、効率的にエクスペリエンスマネージャーに移動するために、Cloud 加速化 manager を使用する方法を説明しています。 |
-| 2021 年 10 月 | [クラウドサービスとしてのフル EM フォーム-EM の移動](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-forms/introduction.html?lang=en) | ビデオ | クラウドサービスとしての EM フォームによってサポートされるユースケースと機能について説明します。 |
-| 2021 年 10 月 | [クラウドサービスとしての EM のトラブルシューティング](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/troubleshooting.html?lang=en) | ビデオ | ここでは、AEM SDK、クラウドサービスとしての AEM、構築とデプロイのプロセスについて説明しています。 |
-| 2021 年 10 月 | [AEM [!UICONTROL  資源マイクロサービス ] -クラウドサービスとしての「em」に移行](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/asset-compute-microservices.html?lang=en) | ビデオ | クラウドサービスの資産計算に EM アセットを作成する方法について説明しています。これにより、アセットのレンディションを自動的かつ効率的に生成することができます。 |
-| 2021 年 10 月 | [検索とインデックス作成](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/search-and-indexing.html?lang=en) | ビデオ | クラウドサービスの検索インデックスとしての em EM について、その定義をクラウドサービスと互換性のある形式に変換する方法と、インデックスをクラウドサービスとして EM にデプロイする方法について説明します。 |
-| 2021 年 10 月 | [[!UICONTROL Dispatcher]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/dispatcher.html?lang=en) | ビデオ |  クラウドサービスとしての em のディスパッチャーについて説明し、dispatcher の変更については、  [!UICONTROL  Dispatcher ] 変換ツールと dispatcher Tools SDK の使用方法を中心に説明します。 |
-| 2021 年 10 月 | [[!UICONTROL Cloud Manager]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/cloud-manager.html?lang=en) | ビデオ | クラウドサービスとしてのクラウドマネージャーについて、および Adobe 管理サービス (AMS) でのクラウドマネージャーとの違いについて説明します。 |
-| 2021 年 10 月 | [AEM as a Cloud Service のオンボーディング](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/onboarding.html?lang=en) | ビデオ | クラウドサービスとしてのクラウドサービスとして EM のオンボードについて詳しくは、cloud Manager を使用して環境を設定することが  あります。 |
-| 2021 年 10 月 | [リポジトリ近代化](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/repository-modernization.html?lang=en) | ビデオ | リポジトリ近代化、mutable および不変コンテンツ、パッケージ構造、リポジトリ modernizer CLI ツールについて説明します。 |
-| 2021 年 10 月 | [[!UICONTROL AEM Modernization Tools]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-modernization-tools.html?lang=en) | ビデオ | この [!UICONTROL  ツール ] を使用して、既存の aem プロジェクトとコンテンツをクラウドサービスに適合するようにアップグレードする方法を説明しています。 |
-| 2021 年 10 月 | [AEM Modernization Tools](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/introduction.html?lang=en) | ビデオ | クラウドサービス実装のように EM について異なる考え方について説明します。 |
-| 2021 年 10 月 | [ベストプラクティスアナライザーと Cloud 加速化 Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/bpa-and-cam.html?lang=en) | ビデオ | クラウドサービスとして移行するために、ベストプラクティスアナライザー (BPA) および Cloud 加速化 Manager (CAM) を利用して、カスタマイズされたガイドを提供する方法を学習します。 |
-| 2021 年 10 月 | [改版履歴の管理](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html) | ビデオ | Adobe の操作方法について詳しく [!UICONTROL  は、 ] [!DNL Workfront] ドキュメントおよびアセット essentials アセットのバージョンの管理を参照してください。 |
-| 2021 年 10 月 | [ドキュメントの送信とアセットのリンク](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=en) | ビデオ | アセットの要点に対して、Front ドキュメントを送信する方法について説明します。また、アセットのエッセンシャルアセットを最初に活用する方法を説明します。 |
-| 2021 年 10 月 | [統合の設定](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=en) | ビデオ | Adobe の製品の基礎とアセットの統合を設定する方法について説明します。 |
-| 2021 年 10 月 | [デジタル署名について](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-digital-signature.html?lang=en) | ビデオ | 世界中の最も厳格な法律規制に準拠する証明書ベースのデジタル署名について説明します。また、署名者の id を最高レベルの保証にすることができます。 |
-| 2021 年 10 月 | [Adobe Analytics のセグメントビルダー](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segment-builder-overview.html?lang=en#) | ビデオ | Adobe Analytics のセグメント化を使用して、データをスライスし、多角的に分析します。このビデオでは、セグメントビルダーを使用して、  基本的な概要について説明します。 |
-| 2021 年 10 月 | [メタデータのマッピング](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=en) | ビデオ | ワークセンターフィールドおよびアセット Essentials プロパティ間のメタデータマッピングを設定する方法と、割り当てられた値を表示するための「アセットの基礎」設定を行う方法について説明します。 |
+| 2021年10月 | [XML ドキュメントの概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2021.xmldocs) | コース | Adobe Experience Manager 向けの XML ドキュメントを使用して、コンテンツを作成、整理、オーサリングおよび公開する方法について説明します。 |
+| 2021年10月 | [ [!DNL Workfront]  と Assets Essentials を使用したクリエイティブワークフローの管理](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2021.2.assets.essentials) | コース | Adobe [!DNL Workfront] とExperience Manager の詳細 |
+| 2021年10月 | [AEM Assets Essentials の概要](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2021.assets.essentials) | コース | AEM Assets Essentials で組織のアセット管理を効率化する方法を説明します。 |
+| 2021年10月 | [[!UICONTROL コンテンツ転送ツール]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/content-transfer-tool.html?lang=ja) | ビデオ | [!UICONTROL コンテンツ転送ツール]を使用して、AEM 6.3 以降から AEM as a Cloud Service へコンテンツを移行する方法を説明します。 |
+| 2021年10月 | [[!UICONTROL 一括インポートサービス]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/bulk-import-service.html?lang=ja) | ビデオ | AEM as a Cloud Services [!UICONTROL 一括インポートサービス]を使用して、AEM ではないソースからアセットを読み込む方法を説明します。 |
+| 2021年10月 | [通信（出力サービス）](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-forms/communications.html?lang=ja) | ビデオ | AEM Forms as a Cloud Service が通信の使用例をサポートする方法を説明します。 |
+| 2021年10月 | [デジタル登録](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-forms/digital-enrollment.html?lang=ja) | ビデオ | AEM Forms as a Cloud Service がデジタル登録のユースケースをサポートする方法を説明します。 |
+| 2021年10月 | [[!UICONTROL Cloud Acceleration Manager] ツールの使用](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/using.html?lang=ja) | ビデオ | [!UICONTROL Cloud Acceleration Manager] ツールを使用した説明 |
+| 2021年10月 | [[!UICONTROL Cloud Acceleration Manager] の操作](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/navigating.html?lang=ja) | ビデオ | Experience Manager as a Cloud Service の [!UICONTROL Cloud Acceleration Manager] のナビゲーションエクスペリエンスについて説明します。 |
+| 2021年10月 | [[!UICONTROL アセットワークフロー移行]ツール](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/asset-workflow-migration-tool.html?lang=ja) | ビデオ | [!UICONTROL アセットワークフローの移行]ツールを使用して、既存の AEM Assets ワークフローを AEM as a Cloud Service に移行する方法を説明します。 |
+| 2021年10月 | [[!UICONTROL インデックスコンバーター]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/index-converter.html?lang=ja) | ビデオ | [!UICONTROL インデックスコンバーター]が既存の AEM インデックス定義を AEM as a Cloud Service 互換に自動的に変換する方法を説明します。 |
+| 2021年10月 | [[!UICONTROL Dispatcher コンバーター]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/dispatcher-converter.html?lang=ja) | ビデオ | [!UICONTROL Dispatcher コンバーター]が既存の AEM Dispatcher 設定を自動的に更新し、AEM as a Cloud Service と互換性を持たせる方法を説明します。 |
+| 2021年10月 | [[!UICONTROL Code Repository Modernizer]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/code-repository-modernizer.html?lang=ja) | ビデオ | [!UICONTROL Core Repository Modernizer] が既存の AEM Maven プロジェクトを自動的に更新し、AEM as a Cloud Service と互換性を持たせる方法について説明します。 |
+| 2021年10月 | [[!UICONTROL コードリファクタリングツール]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/code-refactoring-tools.html?lang=ja) | ビデオ | AEM の[!UICONTROL コードリファクタリングツール]が既存の AEM プロジェクトの変換を自動化して、AEM as a Cloud Service と互換性を持たせる方法を説明します。 |
+| 2021年10月 | [[!UICONTROL コンテンツ転送ツール]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/content-transfer-tool.html?lang=ja) | ビデオ | [!UICONTROL コンテンツ転送ツール]を使用して、コンテンツを AEM 6.5 から AEM as a Cloud Service に効率的に移動する方法を説明します。 |
+| 2021年10月 | [ [!UICONTROL Cloud Acceleration Manager] の実装フェーズ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/implementation-phase.html?lang=ja) | ビデオ | [!UICONTROL Cloud Acceleration Manager] を使用して、主な実装フェーズまたは AEM as a Cloud Service への移行を確認して理解します。 |
+| 2021年10月 | [準備と[!UICONTROL ベストプラクティス分析]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/readiness-and-best-practice-analyzer.html?lang=ja) | ビデオ | [!UICONTROL ベストプラクティス分析]を使用して、AEM オンプレミスまたは Adobe Managed Services から Experience Manager as a Cloud Service に移行する準備を行う方法を説明します。 |
+| 2021年10月 | [Cloud Acceleration Manager の概要](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/introduction.html?lang=ja) | ビデオ | [!UICONTROL Cloud Acceleration Manager] を使用して、すばやく簡単に Experience Manageras a Cloud Service に移行できます。 |
+| 2021年10月 | [AEM Forms as a Cloud Service - AEM CS への移行](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-forms/introduction.html?lang=ja) | ビデオ | AEM Forms as a Cloud Service でサポートされる使用例と機能について説明します。 |
+| 2021年10月 | [AEM as a Cloud Service のトラブルシューティング](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/troubleshooting.html?lang=ja) | ビデオ | AEM SDK、AEM as a Cloud Service、ビルドおよびデプロイプロセスのトラブルシューティングとデバッグの方法について説明します。 |
+| 2021年10月 | [AEM [!UICONTROL Assets マイクロサービス] - AEM as a Cloud Service への移行](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/asset-compute-microservices.html?lang=ja) | ビデオ | AEM Assets as a Cloud Service の Asset Compute マイクロサービスを使用すると、従来の AEM ワークフローのこの役割に代わって、アセットに関する任意のレンディションを自動的かつ効率的に生成できる方法を説明します。 |
+| 2021年10月 | [検索とインデックス作成](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/search-and-indexing.html?lang=ja) | ビデオ | AEM as a Cloud Service 検索インデックス、AEM 6 のインデックス定義を AEM as a Cloud Service 互換に変換する方法、および AEM as a Cloud Service にインデックスをデプロイする方法について説明します。 |
+| 2021年10月 | [[!UICONTROL Dispatcher]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/dispatcher.html?lang=ja) | ビデオ | AEM [!UICONTROL Dispatcher] for AEM as a Cloud Service について、[!UICONTROL Dispatcher] for AEM 6 からの主な変更点、[!UICONTROL Dispatcher] 変換ツール、Dispatcher ツール SDK の使用方法に重点を置いて説明します。 |
+| 2021年10月 | [[!UICONTROL Cloud Manager]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/cloud-manager.html?lang=ja) | ビデオ | AEM as a Cloud Service 向け Cloud Manager と、Adobe Manage Services（AMS）上の Cloud Manager for AEM との違いについて説明します。 |
+| 2021年10月 | [AEM as a Cloud Service のオンボーディング](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/onboarding.html?lang=ja) | ビデオ | 契約から始まり [!UICONTROL Cloud Manager] を使用した環境の設定に至るまで、AEM as a Cloud Service へのオンボーディングについて説明します。 |
+| 2021年10月 | [リポジトリの最新化](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/repository-modernization.html?lang=ja) | ビデオ | リポジトリの最新化、可変および不変コンテンツ、パッケージ構造およびリポジトリの最新化 CLI ツールについて説明します。 |
+| 2021年10月 | [AEM [!UICONTROL Modernization Tools]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-modernization-tools.html?lang=ja) | ビデオ | AEM [!UICONTROL 最新化ツール] を使用して、既存の AEM プロジェクトとコンテンツをアップグレードし、AEM as a Cloud Service と互換性を持つようにする方法を説明します。 |
+| 2021年10月 | [AEM Modernization Tools](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/introduction.html?lang=ja) | ビデオ | AEM as a Cloud Service の実装についての異なる考え方を説明します。 |
+| 2021年10月 | [ベストプラクティス分析と Cloud Acceleration Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/bpa-and-cam.html?lang=ja) | ビデオ | ベストプラクティス分析（BPA）と Cloud Acceleration Manager（CAM）が、AEM as a Cloud Service へ移行するためのカスタマイズされたガイドを提供する方法を説明します。 |
+| 2021年10月 | [バージョン履歴の管理](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=ja) | ビデオ | Adobe Workfront と Experience Manager [!UICONTROL Assets Essentials] を使用して、[!DNL Workfront] ドキュメントと Assets Essentials アセットのバージョンを管理する方法を説明します。 |
+| 2021年10月 | [ドキュメントの送信とアセットのリンク](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=ja) | ビデオ | Workfront ドキュメントを Assets Essentials に送信し、Assets Essentials アセットを Workfront にリンクする方法を説明します。 |
+| 2021年10月 | [統合の設定](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=ja) | ビデオ | Adobe Workfront と Assets Essentials の統合を設定する方法について説明します。 |
+| 2021年10月 | [デジタル署名とは](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-digital-signature.html?lang=ja) | ビデオ | 世界中で最も厳格な法規制に準拠し、署名者の ID を最高レベルで保証する、証明書ベースのデジタル署名について説明します。 |
+| 2021年10月 | [Adobe Analytics のセグメントビルダー](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segment-builder-overview.html?lang=ja#) | ビデオ | Adobe Analytics では、セグメンテーションを使用して、データを多角的に分析します。このビデオでは、[!UICONTROL セグメントビルダー]の基本的な概要を説明します。 |
+| 2021年10月 | [メタデータのマッピング](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=ja) | ビデオ | Workfront フィールドと Assets Essentials プロパティの間でメタデータマッピングを設定する方法およびマッピングされた値を表示するように Assets Essentials を設定する方法について説明します。 |
 
 {style = &quot;テーブル-layout: auto&quot;}
 
@@ -343,15 +343,15 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### 新しい [!UICONTROL Campaign] コースとチュートリアル {#tutorials-campaign}
 
-Adobe キャンペーンの最新のチュートリアルとコース
+Adobe Campaign の最新のチュートリアルとコースです。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021 年 10 月 | [ビジネスユーザー向けの Adobe キャンペーン V8 を使用した高度なキャンペーンの構築](https://experienceleague.adobe.com/?recommended=Campaign-U-1.2021.1.v8) | コース | Adobe キャンペーン V8 を使用して、高度なマーケティングキャンペーンを設定して実行する方法について説明します。 前提条件について説明し、詳細なキャンペーンの作成と設定、配信、およびサブスクリプションを管理します。 |
-| 2021 年 10 月 | [ワークフローでの SOAP API の使用 - はじめに](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ja) | チュートリアル | Adobe キャンペーン Soap API の使用方法について説明し、API 経由で受信したデータに基づく高度な配信ワークフローを作成します。 |
-| 2021 年 10 月 | [イベントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/create-events.html?lang=en) | チュートリアル | イベントを設定する方法について詳しくは、イベントのストリーミングエンドポイントとペイロードを指定します。 |
-| 2021 年 10 月 | [データソースの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/configure-data-sources.html?lang=en) | チュートリアル | データソースの概要と、Experience Platform と外部データソースを設定する方法について説明します。 |
-| 2021 年 10 月 | [Use case-メッセージのバースト](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=en) | チュートリアル | バーストメッセージに適用可能なユースケースを理解します。バーストメッセージのジャーニーを設定する方法と、適用するベストプラクティスを説明します。 |
+| 2021年10月 | [Adobe Campaign V8 を使用したビジネスユーザー向けの高度なキャンペーンの構築](https://experienceleague.adobe.com/?recommended=Campaign-U-1.2021.1.v8) | コース | Adobe Campaign V8 を使用して高度なマーケティングキャンペーンを設定および実行する方法について説明します。前提条件、高度なキャンペーンの作成と設定、配信、購読の管理について説明します。 |
+| 2021年10月 | [ワークフローでの SOAP API の使用 - はじめに](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ja) | チュートリアル | Adobe Campaign Soap API を使用し、API 経由で受信したデータに基づいて高度な配信ワークフローを作成する方法を説明します。 |
+| 2021年10月 | [イベントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/create-events.html?lang=ja) | チュートリアル | イベントの設定、ストリーミングエンドポイントとイベントのペイロードの指定を行う方法について説明します。 |
+| 2021年10月 | [データソースの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/configure-data-sources.html?lang=ja) | チュートリアル | データソースとは何かを理解し、Experience Platform と外部データソースを設定する方法を説明します。 |
+| 2021年10月 | [ユースケース - バーストメッセージ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=ja) | チュートリアル | バーストメッセージに適用可能なユースケースを理解します。バーストメッセージのジャーニーを設定する方法と、適用するベストプラクティスを説明します。 |
 
 {style = &quot;テーブル-layout: auto&quot;}
 
@@ -386,7 +386,7 @@ Adobe キャンペーンの最新のチュートリアルとコース
 | 機能 | 説明 |
 | ------- | ----------- |
 | [!UICONTROL レポート ] , [!UICONTROL  通知センター] | (リリース9年10月)レポートの電子メール通知はすべて、カスタムレポートまたはスケジュール設定されたレポートが完了または失敗したときに送信され、通知センターによって処理されるようになりました  。 レポートについては、電子メール通知と web 通知がデフォルトで有効になっていますが、通知設定を変更することもできます。 この変更により、次の操作を行います。<ul><li>電子メールの受信者は、登録クラウド検索に登録されている認証されたユーザーに制限されているので、広告主のアカウントを accessto にすることができます。 これにより、不正なユーザーに機密データが送信されるのを防ぐことができます。</li><li>電子メールの形式と内容には、  レポートの詳細情報や、すべてのレポート形式への直接ダウンロードリンクが含まれている、通知センターテンプレートが使用されます。</li><li>レポート通知は、独自の通知設定を備えた新しい通知タイプで、通知センターに表示され  ます。</li></ul>何らかの方法で電子メール通知からレポートをプルする場合は、フィルタリングロジックを更新すると、プロセスの連続性が保証されます。 |
-| 広告インサイト | その他の詳細については、ベータモードを参照してください。 |
+| 広告インサイト | ベータモードでは、追加のインサイトを利用できます。 |
 
 {style = &quot;テーブル-layout: auto&quot;}
 
@@ -425,17 +425,17 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021 年 10 月 | [デジタル署名について](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-digital-signature.html?lang=en) | ビデオ | Adobe 記号を使用して、世界中のデジタル Id を使用する方法について説明します。 |
-| 2021 年 10 月 | [新規センダー用の Adobe Sign 入門](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/new-sender.html) | ビデオ | Adobe 署名を初めて使用する場合は、このチュートリアルを開始することをお勧めします。 この包括的なチュートリアルでは、Adobe Sign を使用してすばやく作業を開始するためのすべての基礎について重点的に説明します。 |
-| 2021 年 10 月 | [InDesign への PDF コメントの読み込み](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/indesign.html) | ビデオ | この 60-2 のビデオチュートリアルでは、Acrobat の共有レビューの後に PDF コメントを InDesign に読み込む方法について説明します。 このデジタルワークフローは、記録時間内に変更履歴を記録するのに役立ちます。 |
-| 2021 年 10 月 | [電子 ID を (認定される) から取得します  [!DNL Intesi Group]  。](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-qualified.html) | ビデオ | グループから認証されたデジタル署名証明書を取得する方法について説明 [!DNL Intesi] します。 登録が完了すると、その id を使用して、 [!DNL Intesi] Adobe Sign cloud 署名を適用するために使用されているデジタル ID がグループによって報告されます。 |
-| 2021 年 10 月 | [署名を使用して [!DNL Intesi Group]](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-sign.html) | ビデオ | Intesi Group デジタル ID を使用して id を認証し、リモート電子署名 (クラウドシグネチャ) をドキュメントに認証する方法について説明します。 |
-| 2021 年 10 月 | [電子 ID を取得する  [!DNL Intesi Group]  (詳細)](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-advanced.html) | ビデオ | Intesi グループからアドバンスドデジタル署名証明書を取得する方法について説明します。 登録が完了して id が検証されると、Intesi グループでは、Adobe Sign cloud 署名を適用するために使用されたデジタル ID を使用できます。 |
-| 2021 年 10 月 | [署名を使用して [!DNL Digidentity]](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digidentity/digidentity-sign.html) | ビデオ | 電子 ID を使用し [!DNL Digidentity] て id を認証し、リモート電子署名 (クラウドシグネチャ) をドキュメントに認証する方法について説明します。 |
-| 2021 年 10 月 | [からデジタル ID を取得します。 [!DNL Digidentity]](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digidentity/digidentity-reg.html) | ビデオ | からデジタル署名証明書を取得する方法について説明 [!DNL Digidentity] します。 登録が完了して id が検証されると、 [!DNL Digidentity] Adobe Sign cloud 署名を適用するために使用されているデジタル ID を使用して、そのことを確認します。 |
-| 2021 年 10 月 | [2つの Pdf の違いを検出](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/compare.html) | ビデオ | 間違ったバージョンのファイルを操作しても間違いにはなりません。 ドキュメントのレビューワークフローが改善されるように、2つの PDF ファイルの違いがすばやく正確に検出されます。 |
-| 2021 年 10 月 | [Microsoft® Edge での閲覧中に PDF コンテンツを作成](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/edge.html) | ビデオ | Adobe Acrobat 用拡張機能を使用して、web ページを PDF に保存する方法については、®を参照してください。 この Windows のみのツールは、リサーチプロジェクトおよび web ベースの情報をオフラインで表示する場合に非常に便利です。 |
-| 2021 年 10 月 | [Outlook の電子メールメッセージと添付ファイルの PDF への変換](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/outlook.html) | ビデオ | では、電子メールメッセージと添付ファイルを、プロジェクトの Outlook で PDF にアーカイブする方法を説明しています。 添付ファイルを自動的に PDF に変換することによって、より効率的で安全な方法で情報を提供する方法について説明します。 このツールは Windows でのみ使用できます。 |
+| 2021年10月 | [デジタル署名とは](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-digital-signature.html?lang=en) | ビデオ | Adobe Sign で世界中のデジタル ID を使用する方法を説明します。 |
+| 2021年10月 | [新しい送信者向け Adobe Sign の概要](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/new-sender.html?lang=ja) | ビデオ | Adobe Sign を初めて使用する場合は、このチュートリアルから始めるのが最適です。この包括的なチュートリアルでは、Adobe Sign をすぐに使いこなせるようにするための、すべての基本的な事項に焦点を当てています。 |
+| 2021年10月 | [PDF コメントの InDesign への読み込み](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/indesign.html?lang=ja) | ビデオ | この 60 秒のビデオチュートリアルでは、Acrobat の共有レビュー後に PDF のコメントを InDesign に再度読み込む方法について説明します。このデジタルワークフローは、記録的な速さでリビジョンを完了するのに役立ちます。 |
+| 2021年10月 | [ [!DNL Intesi Group] （適合）](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-qualified.html?lang=ja)からのデジタル ID の取得 | ビデオ | [!DNL Intesi] グループから適格なデジタル署名証明書を取得する方法を説明します。登録され、ID が確認されると、[!DNL Intesi] Group は Adobe Sign のクラウド署名の適用に使用されるデジタル ID を発行します。 |
+| 2021年10月 | [ [!DNL Intesi Group]を使用した署名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-sign.html?lang=ja) | ビデオ | Intesi Group のデジタル ID を使用して、ID を認証し、ドキュメント上のリモートデジタル署名（クラウド署名）を認証する方法を説明します。 |
+| 2021年10月 | [ [!DNL Intesi Group] （詳細）](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-advanced.html?lang=ja)からのデジタル ID の取得 | ビデオ | Intesi Group から高度なデジタル署名証明書を取得する方法を説明します。登録され、ID が確認されると、Intesi Group は Adobe Sign のクラウド署名の適用に使用されるデジタル ID を発行します。 |
+| 2021年10月 | [ [!DNL Digidentity]を使用した署名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digidentity/digidentity-sign.html?lang=ja) | ビデオ | [!DNL Digidentity] デジタル ID を使用して ID を認証し、ドキュメント上のリモートデジタル署名（クラウド署名）を認証する方法を説明します。 |
+| 2021年10月 | [ からの [!DNL Digidentity]デジタル ID の取得](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digidentity/digidentity-reg.html?lang=ja) | ビデオ | [!DNL Digidentity] からデジタル署名証明書を取得する方法を説明します。登録が完了し、ID が確認されると、[!DNL Digidentity] は Adobe Sign のクラウド署名の適用に使用するデジタル ID を発行します。 |
+| 2021年10月 | [2 つの PDF の違いを検出](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/compare.html?lang=ja) | ビデオ | 間違ったバージョンのファイルで作業するという間違いは犯さないでください。2 つの PDF ファイルの違いを迅速かつ正確に検出し、ドキュメントレビューワークフローを向上します。 |
+| 2021年10月 | [Microsoft® Edge で閲覧中に PDF コンテンツを作成](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/edge.html?lang=ja) | ビデオ | Microsoft® Edge 用 Adobe Acrobat 拡張機能を使用して、web ページをその場で PDF にアーカイブする方法について説明します。この Windows 専用ツールは、研究プロジェクトや web ベースの情報のオフライン表示に非常に役立ちます。 |
+| 2021年10月 | [Outlook でメールメッセージと添付ファイルを PDF に変換](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/outlook.html?lang=ja) | ビデオ | プロジェクトのために、Outlook でメールのメッセージや添付ファイルを PDF にアーカイブする方法を説明します。添付ファイルを PDF に自動的に変換することにより、より専門的で安全な方法で情報を配信する方法を説明します。このツールは、Windows でのみ使用できます。 |
 
 {style = &quot;テーブル-layout: auto&quot;}
 
@@ -447,4 +447,4 @@ Document Cloud ヘルプについては、以下を参照してください。
 
 ## ![アイコン](/assets/creative-cloud-24.png) Creative Cloud エンタープライズ版 {#creative-cloud}
 
-最新のチュートリアルについては [ 、Creative Cloud for enterprise チュートリアルを参照してください ](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=ja) 。
+最新のチュートリアルについては、[Creative Cloud エンタープライズ版チュートリアル](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=ja)を参照してください。
