@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: c22db21d36f9ff7309f1ca835ff3241f87b86286
+source-git-commit: f348d6153d81dae8ef84cd1aeb797e707104f392
 workflow-type: tm+mt
-source-wordcount: '4190'
+source-wordcount: '4128'
 ht-degree: 60%
 
 ---
@@ -30,17 +30,18 @@ ht-degree: 60%
 * [[!DNL Experience League] ライブイベント](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; 管理](#ecloud)
 * [アドビ [!UICONTROL システムステータス]](#status)
+* [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Platform]](#platform)
-* [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Experience Manager]](#aem)
-* [[!DNL Adobe Campaign]](#ac)
-* [[!DNL Adobe Advertising Cloud]](#adcloud)
-* [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Commerce]](#magento)
+* [[!DNL Adobe Target]](#target)
+* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Journey Optimizer]](#journey-opt)
+* [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 
@@ -64,7 +65,7 @@ ht-degree: 60%
 | 機能 | 説明 |
 | ------- | ------- |
 | ホームページ | このようなクラウドのホームフッター情報は、法律上の注意や、環境設定で選択した言語を含むユーザープロファイルカードに移動されました。 |
-| AEP ダッシュボード | [!DNL Helios Lite] では、経験プラットフォーム widget 作成ワークフローでのグラフの推奨事項が表示されます。 データ選択 (現在は variable データ選択) を指定した場合、helios はそのデータ選択を伴う適切なビジュアル化を推奨します。 |
+| AEP ダッシュボード | [!DNL Helios Lite] では、経験プラットフォーム widget 作成ワークフローでのグラフの推奨事項が表示されます。 データ選択 (現在は1つの可変データ選択) を指定した場合、 [!DNL Helios] そのデータ選択を伴う適切なビジュアル化についてお勧めします。 |
 | AEP ダッシュボード | [!DNL Instory] では、ML によって作成されたグラフ用のナレーションとキャプションが提供されています。 この decorates には、「AEP」ダッシュボードページに、グラフ化されたデータの大きな変更やインシデントを出した関連する行頭文字ポイントが含まれています。 |
 
 {style = &quot;テーブル-layout: auto&quot;}
@@ -80,6 +81,29 @@ ht-degree: 60%
 [!DNL Adobe System Status] は、Adobe製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/ja) でご確認ください。
 
 （[!DNL Adobe System Status]の最新のリリース情報は、[2020年5月21日（PT）](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=ja)のリリースノートをご覧ください。）
+
+## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+
+Experience Platform と[!UICONTROL モバイル SDK] に関するリリース更新情報と新しいドキュメントが含まれます。
+
+**2021 年 9 月 29 日**
+
+詳しくは、 [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja) を参照してください。
+
+### Experience Platform チュートリアルおよびコース {#tutorials-platform}
+
+Experience Platform およびサービス用に公開された新しいビデオ、チュートリアル、コースです。
+
+| 公開日 | 名前 | タイプ | 説明 |
+| -----------| ---------- | ---------- | ---------- |
+| 2021年11月 | [ ファーストパーティのデータコンテキストでのデータ共同作業 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/data-collaboration-in-the-first-party-data-context.html?lang=en#) | ビデオ | より少ないデータにアクセスすることによって、経験からの成果を提供します。 このウェビナーは、広告主、出版社、政府機関に関係なく、将来、サードパーティの cookie を使用せずにデータ共同作業を行うことができないようにするのに役立ちます。 |
+| 2021年10月 | [[!DNL Platform] 管理](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin) | コース | 権限やサンドボックス管理など、Experience Platform の管理アクティビティについて説明します。 |
+
+{style = &quot;テーブル-layout: auto&quot;}
+
+### Adobe Mobile SDK
+
+Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](https://aep-sdks.gitbook.io/docs/release-notes) を参照してください。
 
 ## ![アイコン](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
@@ -97,7 +121,7 @@ ht-degree: 60%
 | 機能 | 説明 | [一般公開](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=ja) - ターゲット日 |
 | ----------- | ---------- | ------- |
 | Analysis Workspace での日付の範囲 (1 分間) | パネルのカレンダーの詳細設定では、分レベルの日付の範囲を適用することも、カスタム日付範囲を作成することもできます。 日付の範囲が指定されている場合は、開始時間が最初の日付に適用され、終了時刻は範囲内の最後の日付に適用されます。 | 2021年10月19日 |
-| [!UICONTROL メディア再生滞在時間] | アドビのストリーミングメディア再生[!UICONTROL 滞在時間] は、ビューアのエンゲージメントに関する貴重なインサイトを提供し、メディア企業は日分割機能を備えた高度な滞在時間分析を通じて、分単位のユーザーエンゲージメントに関する、より深く、より詳細なインサイトを得ることができます。特定の時点でのメディアストリームの視聴時間を確認できます。「新しい5分」、「15分」および「30分間の granularities」など、様々な granularities を使用して再生時間を分割することができます。 [詳細情報](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=ja) | 2021年10月19日 |
+| [!UICONTROL メディア再生滞在時間] | アドビのストリーミングメディア再生[!UICONTROL 滞在時間] は、ビューアのエンゲージメントに関する貴重なインサイトを提供し、メディア企業は日分割機能を備えた高度な滞在時間分析を通じて、分単位のユーザーエンゲージメントに関する、より深く、より詳細なインサイトを得ることができます。特定の時点でのメディアストリームの視聴時間を確認できます。再生デュレーションは、新しい5分間、15分間、30分間の granularities など、様々な方法で分割することができます。 [詳細情報](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=ja) | 2021年10月19日 |
 | クイック[!UICONTROL セグメントビルダー] | ビジネスユーザーは、シンプルなインラインプロジェクトワークフローで、基本的なセグメントをすばやく適用できます。[!UICONTROL セグメントビルダー]に移動する必要はありません。[詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=ja) | 2021年10月21日（PT） |
 | Analysis Workspace 左パネルの検索の改善 | 左側のレール検索 1) は、条件に一致するものが見つかった場合は、コンポーネントの使用と関連性について継続的に対応させることができます。 2）一致した文字をハイライトして、検索結果をわかりやすくします。3）ディメンションに関連する分類を見つけやすくなります。4）最後に、ワイルドカード（`*`）検索をサポートして、必要な特定のコンポーネントをより簡単に見つけます。注意：ワイルドカード検索は、ディメンション項目レベルではまだ機能しません。 | 2021年10月21日（PT） |
 | Analysis Workspace ダークテーマ | ダークテーマは表示オプションとして使用できます。 | 2021年10月21日（PT） |
@@ -175,78 +199,6 @@ Audience Manager の修正点と改善点。
 * 問題が解決されました。状況によっては、パートナーに間違ったユーザーロールが割り当てられることがあります。 （AAM-59451）
 * この API で大文字と小文字が区別される認証ヘッダーが要求される問題を解決しました。 （AAM-58528）
 
-
-## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
-
-Experience Platform と[!UICONTROL モバイル SDK] に関するリリース更新情報と新しいドキュメントが含まれます。
-
-**2021 年 9 月 29 日**
-
-詳しくは、 [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja) を参照してください。
-
-### Experience Platform チュートリアルおよびコース {#tutorials-platform}
-
-Experience Platform およびサービス用に公開された新しいビデオ、チュートリアル、コースです。
-
-| 公開日 | 名前 | タイプ | 説明 |
-| -----------| ---------- | ---------- | ---------- |
-| 2021年11月 | [ ファーストパーティのデータコンテキストでのデータ共同作業 ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/data-collaboration-in-the-first-party-data-context.html?lang=en#) | ビデオ | より少ないデータにアクセスすることによって、経験からの成果を提供します。 このウェビナーは、広告主、出版社、政府機関に関係なく、将来、サードパーティの cookie を使用せずにデータ共同作業を行うことができないようにするのに役立ちます。 |
-| 2021年10月 | [[!DNL Platform] 管理](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin) | コース | 権限やサンドボックス管理など、Experience Platform の管理アクティビティについて説明します。 |
-
-{style = &quot;テーブル-layout: auto&quot;}
-
-### Adobe Mobile SDK
-
-Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](https://aep-sdks.gitbook.io/docs/release-notes) を参照してください。
-
-## ![アイコン](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
-
-Adobe Journey Optimizer を使用すると、1 つのアプリケーションで、スケジュールされたオムニチャネルキャンペーンや何百万人もの顧客向けの 1 対 1 の瞬間を管理でき、インテリジェントな意思決定とインサイトにより、ジャーニー全体を最適化します。
-
-### 最新の Journey Optimizer 製品リリース
-
-最新の機能、改善点および修正点について詳しくは、[Journey Optimizer リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ja)を参照してください。
-
-### Journey Optimizer のチュートリアルとコース {#tutorials-ajo}
-
-最新の Journey Optimizer チュートリアル：
-
-| 公開日 | 名前 | タイプ | 説明 |
-| -----------| ---------- | ---------- | ---------- |
-| 2021年10月 | [データエンジニア向け [!DNL Journey Optimizer] データの設定と管理](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2) | コース | Journey Optimizer でのジャーニー管理に必要なデータの設定と管理方法について説明します。 |
-| 2021年10月 | [ジャーニー管理者およびマネージャー [!DNL Journey Optimizer] の概要](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1) | コース | 最初の旅を作成するために必要な情報をすべてご確認ください。 |
-| 2021年10月 | [ジャーニー管理者用 [!DNL Journey Optimizer] の設定](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1) | コース | [!DNL Journey Optimizer] のアーキテクチャと統合のポイントを理解します。[!DNL Journey Optimizer] の設定方法を説明します。 |
-
-{style = &quot;テーブル-layout: auto&quot;}
-
-### [!DNL Journey Optimizer] のその他のリソース
-
-[ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja)
-
-## ![アイコン](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
-
-Experience Platform を使用して、各個人のニーズをリアルタイムでインテリジェントに予測することで、エクスペリエンスチャネルをまたいでカスタマージャーニーを調整します。
-
-### 最新の [!DNL Journey Orchestration] 製品リリース
-
-最新の機能、改善点および修正点について詳しくは、[[!DNL Journey Orchestration]  リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ja)を参照してください。
-
-### [!DNL Journey Orchestration] のその他のリソース
-
-[ドキュメント ](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [ リリースノート ](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [ 最新のドキュメントの ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ja-JP) [ 更新](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ja)
-
-## ![アイコンの ](/assets/experience_platform_appicon_24.png) 意思決定管理 {#offer-decisioning}
-
-[!UICONTROL オファー Decisioning ] は、Adobe エクスペリエンスプラットフォームと統合されたサービスです。 [!UICONTROL Offer Decisioning] を使用すると、すべてのタッチポイントにわたって適切なタイミングで最高のオファーとエクスペリエンスを顧客に提供できます。
-
-### 最新の意思決定管理製品リリース
-
-意思決定管理リリースノートの最新機能、機能強化、修正について詳しくは、こちらを参照 [ ](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) してください。
-
-### 意思決定管理に関するその他のリソース 
-
-[ドキュメント ](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=ja) - [ リリースノート ](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ 最新のドキュメントの ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/introduction-to-offer-decisioning.html) [ 更新](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ja)
-
 ## ![アイコン](/assets/aem.png) Adobe Experience Manager {#aem}
 
 [Adobe Experience Manager リリースのアップデートとロードマップ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ja)ページにアクセスして、リリース情報に関する最新情報を入手することをお勧めします。
@@ -277,7 +229,7 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 | 2021年11月 | [クラウドサービスとしての AEM への移行を計画する](https://experienceleague.adobe.com/?recommended=ExperienceManager-A-1-2021.1.migration) | コース | クラウドサービスとして EM に移行する際の考慮事項と、このプロセスを簡略化するために使用できるツールについて説明します。 | AEM CS |
 | 2021年11月 | [AEM as a Cloud Service への移行](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2021.1.migration) | コース | ここでは、a と a のクラウドサービスとして、1対1の操作を実行する方法について説明します。 | AEM CS |
 | 2021年11月 | [インタラクティブ機能をダウンロードします。](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/generate-interactive-dor.html?lang=en#create-custom-servlet) | ビデオ | インタラクティブな DoR をアダプティブフォームデータと共にダウンロードする方法について説明します。 | AEM Forms |
-| 2021年11月 | [クラウドサービスエキスパートシリーズの Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-experts-series.html?lang=en) | ビデオシリーズ | Adobe Experience Manager (AEM) は、それを構築している Adobe Professional Professional エンジニアと、それを提供するプロフェッショナルサービスチームによるクラウドサービスとして提供されています。 クラウドサービスとしてどのような機能を使用しているか、どのようにクラウドサービスとして比較し、どのようにしてクラウドサービスとしての移行を行うかについて説明します。 | AEM CS |
+| 2021年11月 | [クラウドサービスエキスパートシリーズの Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-experts-series.html?lang=en) | ビデオシリーズ | Adobe Experience Manager (AEM) は、それを構築する Adobe Professional Professional エンジニア、およびそれを提供しているプロフェッショナルサービスチームのクラウドサービスとして提供されています。 クラウドサービスとしてどのような機能を使用しているか、どのようにクラウドサービスとして比較し、どのようにしてクラウドサービスとしての移行を行うかについて説明します。 | AEM CS |
 | 2021年11月 | [サービスユーザー](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/service-users.html?lang=en) | ビデオ | Aem リポジトリに、プログラムによって制御されるアクセスを提供するために、のサービスユーザーを作成して、プログラムによってアクセスできるようにする方法について説明します。 | AEM CS |
 
 {style = &quot;テーブル-layout: auto&quot;}
@@ -311,6 +263,25 @@ Adobe Experience Manager に関するリリースノートやその他のリリ�
 * [[!DNL Dynamic Media Classic] ヘルプホーム](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=ja)
 * [Adobe Experience Manager ドキュメント：最近の更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=ja#aem-as-a-cloud-service)
 
+## ![アイコン](/assets/magento.png) [!DNL Commerce]（Magento） {#magento}
+
+Adobe Commerce リリースノートについては、次のリンクを参照してください。
+
+* [Adobe Commerce と Magento Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
+* [Cloud Suite for Adobe Commerce](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
+
+### 新しい Adobe Commerce チュートリアル {#commerce-tutorials}
+
+| 公開日 | 名前 | タイプ | 説明 |
+| -----------| ---------- | ---------- | ---------- |
+| 2021年11月 | [Adobe Commerce ビデオおよびチュートリアル](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html?lang=en) | チュートリアルホーム | このチュートリアルのリソースには、トピックの概要と、特定のタスクとプロセスを対象とした個々のビデオが表示されるビデオシリーズが含まれています。 このコレクションは、バックエンド開発者、フロントエンド開発者、システム管理者、商人、および組織内のその他のロールに有用なコンテンツを提供するように設計されています。 |
+
+## ![アイコン](/assets/target.png) [!DNL Target] {#target}
+
+最終更新日: **2021 年10月20日**
+
+最新のリリース情報については、[[!DNL Target] リリースノート](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ja)を参照してください。
+
 ## ![アイコン](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
 Adobe Campaign は、オンラインおよびオフラインのマーケティングチャネルにわたって 1 対 1 のメッセージを届けるために直感的で自動化された方法を提供します。顧客の習慣や好みによって特定されたエクスペリエンスを利用して、顧客が欲しいものを予測できるようになりました。
@@ -343,6 +314,57 @@ Adobe Campaign の最新のチュートリアルとコースです。
 * Adobe Campaign Classic：[Campaign Classic v7 ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ja)
 * Adobe Campaign コントロールパネル:[ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ja) - [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ja)／[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ja) のハウツービデオ
 
+## ![アイコン](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
+
+Adobe Journey Optimizer を使用すると、1 つのアプリケーションで、スケジュールされたオムニチャネルキャンペーンや何百万人もの顧客向けの 1 対 1 の瞬間を管理でき、インテリジェントな意思決定とインサイトにより、ジャーニー全体を最適化します。
+
+### 最新の Journey Optimizer 製品リリース
+
+最新の機能、改善点および修正点について詳しくは、[Journey Optimizer リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ja)を参照してください。
+
+### Journey Optimizer のチュートリアルとコース {#tutorials-ajo}
+
+最新の Journey Optimizer チュートリアル：
+
+| 公開日 | 名前 | タイプ | 説明 |
+| -----------| ---------- | ---------- | ---------- |
+| 2021年10月 | [データエンジニア向け [!DNL Journey Optimizer] データの設定と管理](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2) | コース | Journey Optimizer でのジャーニー管理に必要なデータの設定と管理方法について説明します。 |
+| 2021年10月 | [ジャーニー管理者およびマネージャー [!DNL Journey Optimizer] の概要](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1) | コース | 最初の旅を作成するために必要な情報をすべてご確認ください。 |
+| 2021年10月 | [ジャーニー管理者用 [!DNL Journey Optimizer] の設定](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1) | コース | [!DNL Journey Optimizer] のアーキテクチャと統合のポイントを理解します。[!DNL Journey Optimizer] の設定方法を説明します。 |
+
+{style = &quot;テーブル-layout: auto&quot;}
+
+### [!DNL Journey Optimizer] のその他のリソース
+
+* [旅オプティマイザーのドキュメント ](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja) - [ リリース rotes: ](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) [ How to video](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja)
+* [意思決定管理のドキュメント ](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html?lang=ja) - [ リリースノート- ](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) 最新のドキュメントの [ ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/introduction-to-offer-decisioning.html) [ 更新](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ja)
+
+## ![アイコン](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
+
+Experience Platform を使用して、各個人のニーズをリアルタイムでインテリジェントに予測することで、エクスペリエンスチャネルをまたいでカスタマージャーニーを調整します。
+
+### 最新の [!DNL Journey Orchestration] 製品リリース
+
+リリースノートの最新の機能、機能強化、修正について詳しく知ることが [[!DNL Journey Orchestration]  ](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ja) できます。
+
+#### [!DNL Journey Orchestration] のその他のリソース
+
+* [旅のオーケストレーションのドキュメント ](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [ リリースノート- ](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) 最新のドキュメントの [ ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ja-JP) [ 更新](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ja)
+
+## ![アイコン](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
+
+[!DNL Marketo Engage] は、複雑な購入ジャーニーのすべてのステージにわたるエンゲージメントを通じてカスタマーエクスペリエンスを変革しようとしている経営陣や B2B マーケター向けの完全なアプリケーションです。
+
+### Core Marketo Engage の更新
+
+最新のリリーススケジュール情報とリリースノートについては、[!DNL Marketo Engage] [リリーススケジュール](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=ja)を参照してください。
+
+## ![アイコン](/assets/workfront.png) [!DNL Workfront] {#workfront}
+
+Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、複雑なプロセスの管理、および最高の作業を行うための統合作業管理アプリケーションです。
+
+すべての製品の最新情報のまとめについては、[[!DNL Workfront] リリース](https://one.workfront.com/s/product-releases)ページを参照してください。
+
 ## ![アイコン](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
 リリースノート： [!DNL Adobe Advertising Cloud]
@@ -370,39 +392,6 @@ Adobe Campaign の最新のチュートリアルとコースです。
 | 広告インサイト | ベータモードでは、追加のインサイトを利用できます。 |
 
 {style = &quot;テーブル-layout: auto&quot;}
-
-## ![アイコン](/assets/magento.png) [!DNL Commerce]（Magento） {#magento}
-
-Adobe Commerce リリースノートについては、次のリンクを参照してください。
-
-* [Adobe Commerce と Magento Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
-* [Cloud Suite for Adobe Commerce](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
-
-### 新しい Adobe Commerce チュートリアル {#commerce-tutorials}
-
-| 公開日 | 名前 | タイプ | 説明 |
-| -----------| ---------- | ---------- | ---------- |
-| 2021年11月 | [Adobe Commerce ビデオおよびチュートリアル](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html?lang=en) | チュートリアルホーム | このチュートリアルのリソースには、トピックの概要と、特定のタスクとプロセスを対象とした個々のビデオが表示されるビデオシリーズが含まれています。 このコレクションは、バックエンド開発者、フロントエンド開発者、システム管理者、商人、および組織内のその他のロールに有用なコンテンツを提供するように設計されています。 |
-
-## ![アイコン](/assets/target.png) [!DNL Target] {#target}
-
-最終更新日: **2021 年10月20日**
-
-最新のリリース情報については、[[!DNL Target] リリースノート](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ja)を参照してください。
-
-## ![アイコン](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
-
-[!DNL Marketo Engage] は、複雑な購入ジャーニーのすべてのステージにわたるエンゲージメントを通じてカスタマーエクスペリエンスを変革しようとしている経営陣や B2B マーケター向けの完全なアプリケーションです。
-
-### Core Marketo Engage の更新
-
-最新のリリーススケジュール情報とリリースノートについては、[!DNL Marketo Engage] [リリーススケジュール](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=ja)を参照してください。
-
-## ![アイコン](/assets/workfront.png) [!DNL Workfront] {#workfront}
-
-Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、複雑なプロセスの管理、および最高の作業を行うための統合作業管理アプリケーションです。
-
-すべての製品の最新情報のまとめについては、[[!DNL Workfront] リリース](https://one.workfront.com/s/product-releases)ページを参照してください。
 
 ## ![アイコン](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
 
