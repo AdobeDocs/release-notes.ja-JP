@@ -158,7 +158,7 @@ AppMeasurement リリース（バージョン 2.22.2）の最新の更新につ�
 | 2021年11月 | [Adobe アナリティクスでのセグメントコンテナ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segment-containers.html?lang=en) | ビデオ (アップデート) | このビデオでは、コンテナの使用方法について説明します。各タイプのコンテナの例を示しています。 |
 | 2021年11月 | [Adobe アナリティクスでの逐次セグメンテーション](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/sequential-segmentation.html?lang=en#) | ビデオ (アップデート) | サイトまたはアプリケーション内の一連のビヘイビアーから、解析ワークスペース内のセグメントを作成する方法について説明します。 |
 | 2021年11月 | [順次セグメント化での前後のシーケンス](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/before-after-sequences-in-sequential-segmentation.html?lang=en) | ビデオ (アップデート) | Adobe アナリティクスでセグメント化する方法について説明します。これにより、特定のユーザーパスの前後のデータのみを取得することができます。 |
-| 2021年11月 | [お客様の旅解析用のレポートビルダー](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/report-builder-for-customer-journey-analytics.html) | ビデオ | レポートビルダーの簡単で柔軟なドラッグ &amp; ドロップ UI を使用して、複雑なデータクエリーとカスタムレポートを作成できます。これは、顧客が記録した解析データからすべての Excel にも対応しています。 |
+| 2021年11月 | [Customer Journey Analytics 用の Report Builder](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/report-builder-for-customer-journey-analytics.html) | ビデオ | Report Builder のシンプルで柔軟なドラッグ＆ドロップ UI を使用すると、Customer Journey Analytics データから複雑なデータクエリやカスタムレポートをすべて Excel 内で作成できます。 |
 | 2021年10月 | [ビジュアライゼーションを使用したデータストーリーの把握](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations) | コース | 視覚的な視覚化について、プロジェクトに追加する方法、データを取得する方法、ビジュアリゼーションについて説明しています。 必要な正確なデータを取得するための設定方法を説明します。また、標準的な分析にビジュアライゼーションを使用できるようにするためのヒントや使用例を説明します。 |
 
 {style = &quot;テーブル-layout: auto&quot;}
