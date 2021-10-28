@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 99bb9c88f2aa8b9f62cf2f088671fe60c1e684ab
+source-git-commit: ed5f9c6b35b65bab0c26887788e2232a0e9a6ab5
 workflow-type: tm+mt
-source-wordcount: '4131'
-ht-degree: 64%
+source-wordcount: '4147'
+ht-degree: 63%
 
 ---
 
@@ -124,7 +124,7 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 | [!UICONTROL メディア再生滞在時間] | アドビのストリーミングメディア再生[!UICONTROL 滞在時間] は、ビューアのエンゲージメントに関する貴重なインサイトを提供し、メディア企業は日分割機能を備えた高度な滞在時間分析を通じて、分単位のユーザーエンゲージメントに関する、より深く、より詳細なインサイトを得ることができます。特定の時点でのメディアストリームの視聴時間を確認できます。再生時間は、新しい 5 分、15 分および 30 分の精度を含む様々な精度で分割できます。 [詳細情報](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=ja) | 2021年10月19日 |
 | クイック[!UICONTROL セグメントビルダー] | ビジネスユーザーは、シンプルなインラインプロジェクトワークフローで、基本的なセグメントをすばやく適用できます。[!UICONTROL セグメントビルダー]に移動する必要はありません。[詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=ja) | 2021年10月21日（PT） |
 | Analysis Workspace 左パネルの検索の改善 | 左レール検索 1) は、コンポーネントの最新性と関連性に加え、部分一致以上の完全一致を優先します。 2）一致した文字をハイライトして、検索結果をわかりやすくします。3）ディメンションに関連する分類を見つけやすくなります。4）最後に、ワイルドカード（`*`）検索をサポートして、必要な特定のコンポーネントをより簡単に見つけます。注意：ワイルドカード検索は、ディメンション項目レベルではまだ機能しません。 | 2021年10月21日（PT） |
-| Analysis Workspace ダークテーマ | ダークテーマは表示オプションとして使用できます。 | 2021年10月21日（PT） |
+| ダークテーマ | [ダークテーマは表示オプションとして使用できます。](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html?lang=en#dark-theme) | 2021年10月21日（PT） |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -135,7 +135,7 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 | Analysis Workspaceの分レベルの日付範囲 | パネルカレンダーの詳細設定で、またはカスタム日付範囲を作成する際に、分レベルの日付範囲を適用できます。 何日もにわたる日付範囲でレポートを作成する場合、開始時間は最初の日に適用され、終了時間は範囲内の最終日に適用されます。 | 2021年10月19日 |
 | クイック[!UICONTROL フィルタービルダー] | ビジネスユーザーは、シンプルなインラインプロジェクトワークフローで、基本的なセグメントをすばやく適用できます。[!UICONTROL フィルタービルダー]に移動する必要はありません。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html) | 2021年10月21日（PT） |
 | Analysis Workspace 左パネルの検索の改善 | 左レール検索 1) は、コンポーネントの最新性と関連性に加え、部分一致以上の完全一致を優先します。 2）一致した文字をハイライトして、検索結果をわかりやすくします。3）ディメンションに関連する分類を見つけやすくなります。4）最後に、ワイルドカード（`*`）検索をサポートして、必要な特定のコンポーネントをより簡単に見つけます。注意：ワイルドカード検索は、ディメンション項目レベルではまだ機能しません。 | 2021年10月21日（PT） |
-| Analysis Workspace ダークテーマ | ダークテーマは表示オプションとして使用できます。 | 2021年10月21日（PT） |
+| ダークテーマ | [ダークテーマは表示オプションとして使用できます。](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/user-preferences.html?lang=en#dark-theme) | 2021年10月21日（PT） |
 | ディメンション割り当てのルックバックウィンドウ | データビュー設定の「永続性」の下で、ディメンション割り当て設定に最大 90 日のルックバック期間が追加されます。 [詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html) | 2021 年 10 月 28 日（PT） |
 
 {style=&quot;table-layout:auto&quot;}
