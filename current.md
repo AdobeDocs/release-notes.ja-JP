@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: ed5f9c6b35b65bab0c26887788e2232a0e9a6ab5
+source-git-commit: 4dfe2c2ab39fe82b40fc87e289d2c55c6ccc6735
 workflow-type: tm+mt
-source-wordcount: '4147'
-ht-degree: 63%
+source-wordcount: '4456'
+ht-degree: 59%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 63%
 
 リリース月： **2021 年 11 月**
 
-最終更新日：**2021 年 10 月 22 日**
+最終更新日：**2021 年 10 月 28 日**
 
 * [[!DNL Experience League] ライブイベント](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; 管理](#ecloud)
@@ -41,7 +41,7 @@ ht-degree: 63%
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL Adobe Advertising Cloud]](#adcloud)
+* [[!DNL Adobe Advertising Cloud]](#adcloud) (**2021年10月27日（PT）**)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 
@@ -372,16 +372,32 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 
 リリースノート： [!DNL Adobe Advertising Cloud]
 
+* [の新機能 [!DNL Advertising Cloud]](#adcloud-all)
 * [ [!DNL Advertising Cloud DSP] の新機能 ](#adcloud-dsp)
 * [ [!DNL Advertising Cloud Search] の新機能 ](#adcloud-search)
 
-### [!DNL Advertising Cloud DSP] の新機能  {#adcloud-dsp}
+### の新機能 [!DNL Advertising Cloud] {#adcloud-all}
 
-最終更新日：**2021 年 10 月 7 日（PT）**
+最終更新日：**2021 年 10 月 27 日（PT）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| ドキュメント | すべて [DSPおよびその他のAdvertising Cloudドキュメント](https://experienceleague.adobe.com/docs/advertising-cloud.html?lang=ja) オン [!DNL Experience League] は、すべての使用可能な言語に機械翻訳されるようになりました。 表示言語を変更するには、ページの左下にある「言語を変更」メニューを使用します。 |
+| Advertising Cloud向け Analytics | レガシーAdobe Analyticsの使用から切り替える場合 `visitorAPI.js` Adobe Experience Platformライブラリ (`alloy.js`) を参照してください。 参照：[の使用 [!DNL Last Event Service] Adobe Experience Platformを使用した JavaScript ライブラリ [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html).&quot; |
+
+{style=&quot;table-layout:auto&quot;}
+
+### [!DNL Advertising Cloud DSP] の新機能  {#adcloud-dsp}
+
+最終更新日：**2021 年 10 月 27 日（PT）**
+
+| 機能 | 説明 |
+| ------- | ----------- |
+| カスタムレポート | 以下を作成および管理できます。 [!DNL Amazon S3] という名前の、FTP の配信場所の *[!DNL report destinations]*（カスタムレポート用） レポートの宛先を設定したら、新しいカスタムレポートをそれぞれ 1 つ以上の宛先タイプの場所に配信したり、電子メールの受信者に配信したりするように設定できます。 の更新 [!DNL Amazon S3] および FTP 資格情報によってレポートの配信が中断されることはありません。<br><br>既存のレポートは、指定した電子メール受信者に送信されます。 別のレポートの宛先への配信を設定するには、新しい宛先で新しいレポートを作成します。 |
+| [!UICONTROL パッケージ], [!UICONTROL 配置]、および [!UICONTROL 広告] ビュー | 1 日分のデータを表示する場合、トレンドグラフに時間別データが含まれるようになりました。 任意の時点にカーソルを置くと、その時間のデータが表示されます。 |
+| [!UICONTROL 配置] | 配置 [!UICONTROL 検査官] にが含まれるようになりました [!UICONTROL 在庫] 」タブに移動します。このタブには、すべての契約と、プレースメントに関連する指標が表示されます。 この情報を使用すると、カスタムレポートを生成せずに、すばやく調整を行ったり、問題をトラブルシューティングしたりできます。 |
+| [!UICONTROL 広告] | （広告に Clearcastclock 番号を含める権限を持つユーザー）別の広告に接続されている時計番号を使用すると、DSPにエラーが表示されなくなりました。 **注意：**  ベストプラクティスは、各ビデオ広告に一意の時計番号を使用することです。 そうしないと、パブリッシャーはすべての広告を承認しません。 |
+| [!UICONTROL 契約 ID] | この [!UICONTROL 契約 ID] ユーザーインターフェイスの設定やその他の場所は、 [!DNL Magnite] SSP:<br><ul><li>SSP &quot;[!DNL Tremor]&quot; ([!DNL Telaria]) は現在&quot;[!DNL Magnite CTV].&quot;</li><li>今後数週間の間に [!DNL Rubicon]」が「[!DNL Magnite DV+],&quot;ここで [!DNL DV+] は、ディスプレイ、ビデオ、およびオーディオなどの他の形式を表します。</li></ul> |
+| [!DNL Freewheel] 計画的に保証された契約 | 広告のステータスを検索できるようになりました。 [!DNL Freewheel] ～からの計画的に保証された契約 [!UICONTROL 広告] 表示 以前は、ステータスは [!UICONTROL 契約] 表示 |
 
 {style=&quot;table-layout:auto&quot;}
 
