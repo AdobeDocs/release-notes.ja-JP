@@ -9,7 +9,7 @@ exl-id: null
 source-git-commit: 88923d059ec73215facae2efc1888b07b2e60fc7
 workflow-type: tm+mt
 source-wordcount: '4513'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -49,11 +49,11 @@ ht-degree: 90%
 
 ## ![アイコン](/assets/experience-league.png) [!DNL Experience League] ライブイベント {#events}
 
-[Experience League](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja) ライブイベントとは、アドビの技術を学べる、アドビの専門家や特別なゲストとのディスカッションです。以下のスケジュールを参照してライブに参加したり、過去の録画イベントを視聴したりしましょう。
+[Experience League ライブイベント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja)とは、アドビの技術を学べる、アドビの専門家や特別なゲストとのディスカッションです。以下のスケジュールを参照してライブに参加したり、過去の録画イベントを視聴したりしましょう。
 
 | イベントの日付 | 時間 | イベント名 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2021年11月18日（PT） | TBA | Experience Managerで迅速にサイトを作成し、これまで以上に高速に運用を開始 | ライブビデオイベント | Experience Manager Sitesには、魅力的な Web エクスペリエンスの配信を高速化するための機能がいくつか含まれています。 事前定義されたサイトテンプレートを使用して、ローコードアプローチでAdobe Experience Managerでサイトを作成する方法を説明します。 さらに詳細を追加 |
+| 2021年11月18日（PT） | TBA | Experience Manager で迅速にサイトを作成し、これまで以上に高速に運用を開始 | ライブビデオイベント | Experience Manager Sites には、魅力的な web エクスペリエンスの配信を高速化するための機能がいくつも含まれています。事前定義されたサイトテンプレートを使用して、ローコードアプローチで Adobe Experience Manager でサイトを作成する方法を説明します。 詳細は追ってお知らせします。 |
 | 2021年10月21日（PT） | オンデマンド | [クリックしたのは誰でしょう？Adobe Analytics によるリンククリックの高度なレポート機能](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) | ライブビデオイベント | Web またはモバイルプロパティとのユーザーインタラクションに関するレポート作成は、顧客のジャーニーを把握するうえで重要です。Adobe Analytics を使用すると、アプリケーション内でクリックしたユーザー、対象、理由、場所を把握できます。Adobe Analytics のエキスパートが Activity Map の分類とカスタム属性を使用して、ユーザーエンゲージメントをより深く理解するためのヒントを紹介します。 |
 | 2021 年 10 月 4 日（PT） | オンデマンド | [アドビ開発者ライブ](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ja) | ビデオ | イベントを見逃した方や、特定のセッションをもう一度見たい場合は、 Experience League で見つけることができます。Developers Live では、業界をまたいで設計、コンテンツ作成ワークフロー、ドキュメントサービス、顧客体験管理を支える最新の技術進歩と開発者ツールを紹介します。基調講演を視聴できるほか、Analytics API、クライアントデータレイヤー、Adobe I/O オープンソースプロジェクト、その他多くのことを学習できます。 |
 
@@ -125,7 +125,7 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 | [!UICONTROL メディア再生滞在時間] | アドビのストリーミングメディア再生[!UICONTROL 滞在時間] は、ビューアのエンゲージメントに関する貴重なインサイトを提供し、メディア企業は日分割機能を備えた高度な滞在時間分析を通じて、分単位のユーザーエンゲージメントに関する、より深く、より詳細なインサイトを得ることができます。特定の時点でのメディアストリームの視聴時間を確認できます。再生時間は、様々な粒度（新たな 5 分、15 分、30 分の時間粒度を含む）で分割できます。[詳細情報](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=ja) | 2021年10月18日（PT） |
 | クイック[!UICONTROL セグメントビルダー] | ビジネスユーザーは、シンプルなインラインプロジェクトワークフローで、基本的なセグメントをすばやく適用できます。[!UICONTROL セグメントビルダー]に移動する必要はありません。[詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=ja) | 2021年10月21日（PT） |
 | Analysis Workspace 左パネルの検索の改善 | 左パネル検索は、1）コンポーネントの最新性と関連性を引き続き考慮に入れることに加えて、部分一致よりも完全一致を優先します。2）一致した文字をハイライトして、検索結果をわかりやすくします。3）ディメンションに関連する分類を見つけやすくなります。4）最後に、ワイルドカード（`*`）検索をサポートして、必要な特定のコンポーネントをより簡単に見つけます。注意：ワイルドカード検索は、ディメンション項目レベルではまだ機能しません。 | 2021年10月21日（PT） |
-| ダークテーマ | [ダークテーマは表示オプションとして使用できます。](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html?lang=en#dark-theme) | 2021年10月21日（PT） |
+| ダークテーマ | [ダークテーマ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html?lang=ja#dark-theme)は表示オプションとして使用できます。 | 2021年10月21日（PT） |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -136,7 +136,7 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 | Analysis Workspace の分レベルの日付範囲 | 分レベルの日付範囲は、パネルカレンダーの詳細設定で、またはカスタム日付範囲を作成する際に適用できます。日付範囲が何日にもわたるレポートを作成する場合、開始時間は最初の日、終了時間は範囲内の最終日に適用されます。 | 2021年10月18日（PT） |
 | クイック[!UICONTROL フィルタービルダー] | ビジネスユーザーは、シンプルなインラインプロジェクトワークフローで、基本的なセグメントをすばやく適用できます。[!UICONTROL フィルタービルダー]に移動する必要はありません。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=ja) | 2021年10月21日（PT） |
 | Analysis Workspace 左パネルの検索の改善 | 左パネル検索は、1）コンポーネントの最新性と関連性を引き続き考慮に入れることに加えて、部分一致よりも完全一致を優先します。2）一致した文字をハイライトして、検索結果をわかりやすくします。3）ディメンションに関連する分類を見つけやすくなります。4）最後に、ワイルドカード（`*`）検索をサポートして、必要な特定のコンポーネントをより簡単に見つけます。注意：ワイルドカード検索は、ディメンション項目レベルではまだ機能しません。 | 2021年10月21日（PT） |
-| ダークテーマ | [ダークテーマは表示オプションとして使用できます。](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/user-preferences.html?lang=en#dark-theme) | 2021年10月21日（PT） |
+| ダークテーマ | [ダークテーマ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/user-preferences.html?lang=ja#dark-theme)は表示オプションとして使用できます。 | 2021年10月21日（PT） |
 | ディメンション割り当てのルックバックウィンドウ | データビュー設定の「永続性」の下で、ディメンション割り当て設定に最大 90 日のルックバックウィンドウが追加されます。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html?lang=ja) | 2021 年 10 月 28 日（PT） |
 
 {style=&quot;table-layout:auto&quot;}
@@ -332,7 +332,7 @@ Adobe Journey Optimizer を使用すると、1 つのアプリケーションで
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021年10月 | [データエンジニア向け  [!DNL Journey Optimizer]  データの設定と管理](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2&amp;lang=ja) | コース | Journey Optimizer でのジャーニー管理に必要なデータの設定と管理方法について説明します。 |
+| 2021年10月 | [データエンジニア向け [!DNL Journey Optimizer] データの設定と管理](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2&amp;lang=ja) | コース | Journey Optimizer でのジャーニー管理に必要なデータの設定と管理方法について説明します。 |
 | 2021年10月 | [ジャーニー管理者およびマネージャー [!DNL Journey Optimizer] の概要](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=ja) | コース | 初めてのジャーニーを作成するために知っておくことをすべて説明します。 |
 | 2021年10月 | [ジャーニー管理者用 [!DNL Journey Optimizer] の設定](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1&amp;lang=ja) | コース | [!DNL Journey Optimizer] のアーキテクチャと統合のポイントを理解します。[!DNL Journey Optimizer] の設定方法を説明します。 |
 
@@ -373,17 +373,17 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 
 リリースノート： [!DNL Adobe Advertising Cloud]
 
-* [の新機能 [!DNL Advertising Cloud]](#adcloud-all)
+* [ [!DNL Advertising Cloud] 全体の新機能](#adcloud-all)
 * [ [!DNL Advertising Cloud DSP] の新機能 ](#adcloud-dsp)
 * [ [!DNL Advertising Cloud Search] の新機能 ](#adcloud-search)
 
-### の新機能 [!DNL Advertising Cloud] {#adcloud-all}
+### [!DNL Advertising Cloud] 全体の新機能 {#adcloud-all}
 
 最終更新日：**2021 年 10 月 27 日（PT）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| Advertising Cloud向け Analytics | レガシーAdobe Analyticsの使用から切り替える場合 `visitorAPI.js` Adobe Experience Platformライブラリ (`alloy.js`) を参照してください。 参照：[の使用 [!DNL Last Event Service] Adobe Experience Platformを使用した JavaScript ライブラリ [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html).&quot; |
+| Advertising Cloud 向け Analytics | 組織がデータ収集のために従来の Adobe Analytics `visitorAPI.js` ライブラリから Adobe Experience Platform ライブラリ（`alloy.js`）を使用するように切り替える場合は、ID スティッチングを有効にするためにいくつかの変更を加える必要があります。[Adobe Experience Platform [!DNL Web SDK] での [!DNL Last Event Service] JavaScript ライブラリの使用](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html?lang=ja)を参照してください。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -393,12 +393,12 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| カスタムレポート | 以下を作成および管理できます。 [!DNL Amazon S3] という名前の、FTP の配信場所の *[!DNL report destinations]*（カスタムレポート用） レポートの宛先を設定したら、新しいカスタムレポートをそれぞれ 1 つ以上の宛先タイプの場所に配信したり、電子メールの受信者に配信したりするように設定できます。 の更新 [!DNL Amazon S3] および FTP 資格情報によってレポートの配信が中断されることはありません。<br><br>既存のレポートは、指定した電子メール受信者に送信されます。 別のレポートの宛先への配信を設定するには、新しい宛先で新しいレポートを作成します。 |
-| [!UICONTROL パッケージ], [!UICONTROL 配置]、および [!UICONTROL 広告] ビュー | 1 日分のデータを表示する場合、トレンドグラフに時間別データが含まれるようになりました。 任意の時点にカーソルを置くと、その時間のデータが表示されます。 |
-| [!UICONTROL 配置] | 配置 [!UICONTROL 検査官] にが含まれるようになりました [!UICONTROL 在庫] 」タブに移動します。このタブには、すべての契約と、プレースメントに関連する指標が表示されます。 この情報を使用すると、カスタムレポートを生成せずに、すばやく調整を行ったり、問題をトラブルシューティングしたりできます。 |
-| [!UICONTROL 広告] | （広告に Clearcastclock 番号を含める権限を持つユーザー）別の広告に接続されている時計番号を使用すると、DSPにエラーが表示されなくなりました。 **注意：**  ベストプラクティスは、各ビデオ広告に一意の時計番号を使用することです。 そうしないと、パブリッシャーはすべての広告を承認しません。 |
-| [!UICONTROL 契約 ID] | この [!UICONTROL 契約 ID] ユーザーインターフェイスの設定やその他の場所は、 [!DNL Magnite] SSP:<br><ul><li>SSP &quot;[!DNL Tremor]&quot; ([!DNL Telaria]) は現在&quot;[!DNL Magnite CTV].&quot;</li><li>今後数週間の間に [!DNL Rubicon]」が「[!DNL Magnite DV+],&quot;ここで [!DNL DV+] は、ディスプレイ、ビデオ、およびオーディオなどの他の形式を表します。</li></ul> |
-| [!DNL Freewheel] 計画的に保証された契約 | 広告のステータスを検索できるようになりました。 [!DNL Freewheel] ～からの計画的に保証された契約 [!UICONTROL 広告] 表示 以前は、ステータスは [!UICONTROL 契約] 表示 |
+| カスタムレポート | カスタムレポート用に、[!DNL Amazon S3] および *[!DNL report destinations]* と呼ばれる様々なタイプの FTP 配信場所を作成および管理できるようになりました。レポートの宛先を設定したら、新しいカスタムレポートをそれぞれ 1 つ以上の宛先タイプの場所に配信したり、電子メールの受信者に配信したりするように設定できます。[!DNL Amazon S3] および FTP 資格情報を更新しても、レポートの配信が中断されることはありません。<br><br>既存のレポートは、指定した電子メール受信者に引き続き送信されます。別のレポートの宛先への配信を設定するには、新しい宛先で新しいレポートを作成します。 |
+| [!UICONTROL パッケージ]、[!UICONTROL プレースメント]、および [!UICONTROL 広告]ビュー | 1 日分のデータを表示する場合、トレンドグラフに時間別データが含まれるようになりました。任意の時点にカーソルを置くと、その時間のデータが表示されます。 |
+| [!UICONTROL プレースメント] | プレースメント[!UICONTROL インスペクター]に「[!UICONTROL 在庫]」タブが含まれるようになりました。このタブには、プレースメントのすべての取引とそれに関連する指標が表示されます。この情報を使用すると、カスタムレポートを生成せずに、すばやく調整を行ったり、問題をトラブルシューティングしたりできます。 |
+| [!UICONTROL 広告] | （広告に Clearcastclock 番号を含める権限を持つユーザー）別の広告に添付されている時計番号を使用しても、DSP でエラーが表示されなくなりました。**注意：**&#x200B;ベストプラクティスは、各ビデオ広告に一意の時計番号を使用することです。そうしないと、出版社はすべての広告を承認しません。 |
+| [!UICONTROL 取引 ID] | [!UICONTROL 取引 ID] 設定およびユーザーインターフェイスのその他の場所は、次の [!DNL Magnite] SSP<br> の新しいブランディングを反映しています。<ul><li>SSP「[!DNL Tremor]」（[!DNL Telaria]）は「[!DNL Magnite CTV]」になりました。</li><li>今後数週間で、「[!DNL Rubicon]」は「[!DNL Magnite DV+]」に変更されます。[!DNL DV+] はディスプレイ、ビデオ、およびオーディオなどのその他の形式を表します。</li></ul> |
+| [!DNL Freewheel] プログラムで保証された取引 | [!DNL Freewheel] プログラムで保証された取引の広告のステータスを[!UICONTROL 広告]表示から確認できるようになりました。以前は、[!UICONTROL 取引]表示からのみステータスを確認できました。 |
 
 {style=&quot;table-layout:auto&quot;}
 
