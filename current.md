@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 18e7570cc950555d53a82bbb67555c3a273e2cbc
+source-git-commit: 2877f5206f1baeb4d9ea33529e476bbfe220ac7a
 workflow-type: tm+mt
-source-wordcount: '4782'
+source-wordcount: '4804'
 ht-degree: 92%
 
 ---
@@ -49,11 +49,11 @@ ht-degree: 92%
 
 ## ![アイコン](/assets/experience-league.png) [!DNL Experience League] イベント {#events}
 
-Experience Leagueイベントは、Adobeの製品エキスパートから回答を得るのに最適な場所です。 以下をご確認ください。
+Experience Leagueイベントは、Adobeの製品エキスパートから回答を得るのに最適な場所です。 利用可能なイベントを次に示します。
 
-* コミュニティ Q&amp;A コーヒーブレーク
-* Experience Leagueライブビデオイベント（オンデマンドでも利用可能）
-* Adobe開発者のライブ
+* [Experience Leagueライブ](#exl-live):YouTubeでのライブおよびオンデマンドのビデオイベント
+* [コミュニティ Q&amp;A コーヒーブレーク](#coffee):コミュニティフォーラムの製品マネージャとチャット
+* [Adobe開発者のライブ](#dev-live):オンデマンドのビデオイベントをExperience Leagueで利用可能
 
 スケジュールとイベントは次のとおりです。
 
@@ -76,8 +76,8 @@ Experience Leagueイベントは、Adobeの製品エキスパートから回答�
 
 | イベント名 | 日時 | アプリケーション | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Adobe Target — セットアップと管理 UI、A4T 統合、AEM統合、一般 UI  | 12 月 8 日（水） @ 8 am PT | Adobe Target | フォーラム Q&amp;A | Adobe Targetコミュニティで、Adobe Targetのシニアプロダクトマネージャーである@Robert_Calangiu Robert Calangiu 氏が参加し、Adobe Targetの専門知識に関する質問について直接お話しします。 <br>[詳細](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697) |
-| Adobe Campaign — 他のアプリケーションを介したデータのインポート | 2021 年 12 月 2 日@午前 8 時 (PT) | Adobe Campaign | フォーラム Q&amp;A | 他のアプリケーションを使用したデータのインポート — シニアテクニカルコンサルタントの Zariely Garcia とのテクニカルワークフローを使用して、SFTP/API を使用してデータをインポートするためのベストプラクティス。 <br>[詳細](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
+| Adobe Target — セットアップと管理 UI、A4T 統合、AEM統合、一般 UI  | 12 月 8 日（水） @ 8 am PT | Adobe Target | フォーラム Q&amp;A | Adobe Targetコミュニティで、Adobe Targetのシニアプロダクトマネージャーである@Robert_Calangiu Robert Calangiu 氏が参加し、Adobe Targetの専門知識に関する質問について直接お話しします。 <br>[詳細](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697) |
+| Adobe Campaign — 他のアプリケーションを介したデータのインポート | 2021 年 12 月 2 日（木）@ 8 am PT | Adobe Campaign | フォーラム Q&amp;A | 他のアプリケーションを使用したデータのインポート — シニアテクニカルコンサルタントの Zariely Garcia とのテクニカルワークフローを使用して、SFTP/API を使用してデータをインポートするためのベストプラクティス。 <br>[詳細](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -86,6 +86,8 @@ Experience Leagueイベントは、Adobeの製品エキスパートから回答�
 | イベント名 | 日時 | トピック | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2021 年 10 月 4 日～5 日 | オンデマンド | [アドビ開発者ライブ](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ja) | ビデオ | イベントを見逃した方や、特定のセッションをもう一度見たい場合は、 Experience League で見つけることができます。Developers Live では、業界をまたいで設計、コンテンツ作成ワークフロー、ドキュメントサービス、顧客体験管理を支える最新の技術進歩と開発者ツールを紹介します。基調講演を視聴できるほか、Analytics API、クライアントデータレイヤー、Adobe I/O オープンソースプロジェクト、その他多くのことを学習できます。 |
+
+{style=&quot;table-layout:auto&quot;}
 
 その他のビデオについては、YouTube の [Adobe Experience League チャンネル](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) を参照してください。
 
