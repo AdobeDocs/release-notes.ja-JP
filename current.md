@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: null
-source-git-commit: 2877f5206f1baeb4d9ea33529e476bbfe220ac7a
+source-git-commit: 6c7006998126d9e8921d32777ddde423b2f3c863
 workflow-type: tm+mt
-source-wordcount: '4804'
+source-wordcount: '4724'
 ht-degree: 92%
 
 ---
@@ -61,10 +61,11 @@ Experience Leagueイベントは、Adobeの製品エキスパートから回答�
 
 [Experience Leagueライブ](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja) は、Experience Leagueチームが制作したライブストリーミングショーです。 これは、Adobe製品の専門家と連携し、Adobe Experience Cloudアプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
 
+今後のイベント：
+
 | イベントの日付 | 時間 | イベント名 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2021年11月18日（PT） | 午後 12:00（EST） | [Adobe Experience Managerでの迅速なサイト作成により、これまで以上に高速に運用を開始](https://www.youtube.com/watch?v=7-Lcw5PejhI) | ライブビデオイベント | バックエンド開発をおこなわずに、機能豊富でパーソナライズされた Web エクスペリエンスを数日でデプロイします。 事前定義された [!UICONTROL サイトテンプレート]. Adobeのプロダクトマネージャー、Shankari Panchapakesan、Gabriel Walt、Danny Gordon とのライブプレゼンテーションとデモにご参加ください。 ライブコーディングも見られるかもしれません。 |
-| 2021年10月21日（PT） | 午後 12:00（EST） | [クリックしたのは誰でしょう？Adobe Analytics によるリンククリックの高度なレポート機能](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) | オンデマンド | Web またはモバイルプロパティとのユーザーインタラクションに関するレポート作成は、顧客のジャーニーを把握するうえで重要です。Adobe Analytics を使用すると、アプリケーション内でクリックしたユーザー、対象、理由、場所を把握できます。Adobe Analytics のエキスパートが Activity Map の分類とカスタム属性を使用して、ユーザーエンゲージメントをより深く理解するためのヒントを紹介します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
