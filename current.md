@@ -9,7 +9,7 @@ exl-id: null
 source-git-commit: 6c7006998126d9e8921d32777ddde423b2f3c863
 workflow-type: tm+mt
 source-wordcount: '4724'
-ht-degree: 92%
+ht-degree: 95%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 92%
 
 ## ![アイコン](/assets/experience-league.png) [!DNL Experience League] イベント {#events}
 
-Experience Leagueイベントは、Adobeの製品エキスパートから回答を得るのに最適な場所です。 利用可能なイベントを次に示します。
+Experience League イベントは、アドビの製品エキスパートから回答を得るのに最適な場所です。利用可能なイベントを次に示します。
 
 * [Experience Leagueライブ](#exl-live):YouTubeでのライブおよびオンデマンドのビデオイベント
 * [コミュニティ Q&amp;A コーヒーブレーク](#coffee):コミュニティフォーラムの製品マネージャとチャット
@@ -57,36 +57,36 @@ Experience Leagueイベントは、Adobeの製品エキスパートから回答�
 
 スケジュールとイベントは次のとおりです。
 
-### Experience Leagueライブ{#exl-live}
+### Experience League Live {#exl-live}
 
-[Experience Leagueライブ](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja) は、Experience Leagueチームが制作したライブストリーミングショーです。 これは、Adobe製品の専門家と連携し、Adobe Experience Cloudアプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
+[Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja) Experience League チームが制作したライブストリーミング番組です。アドビ製品のエキスパートとつながり、Adobe Experience Cloud アプリケーションで適用できる実用的なヒント、テクニック、戦略を学ぶ機会です。
 
 今後のイベント：
 
 | イベントの日付 | 時間 | イベント名 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2021年11月18日（PT） | 午後 12:00（EST） | [Adobe Experience Managerでの迅速なサイト作成により、これまで以上に高速に運用を開始](https://www.youtube.com/watch?v=7-Lcw5PejhI) | ライブビデオイベント | バックエンド開発をおこなわずに、機能豊富でパーソナライズされた Web エクスペリエンスを数日でデプロイします。 事前定義された [!UICONTROL サイトテンプレート]. Adobeのプロダクトマネージャー、Shankari Panchapakesan、Gabriel Walt、Danny Gordon とのライブプレゼンテーションとデモにご参加ください。 ライブコーディングも見られるかもしれません。 |
+| 2021年11月18日（PT） | 午後 12:00（EST） | [Adobe Experience Manager で迅速にサイトを作成し、これまで以上に高速に運用を開始](https://www.youtube.com/watch?v=7-Lcw5PejhI) | ライブビデオイベント | バックエンド開発を行わずに、機能豊富でパーソナライズされた web エクスペリエンスを数日でデプロイします。事前定義された [!UICONTROL サイトテンプレート]. Adobeのプロダクトマネージャー、Shankari Panchapakesan、Gabriel Walt、Danny Gordon とのライブプレゼンテーションとデモにご参加ください。 ライブコーディングも行われるかもしれません。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 過去のエピソードについては、 [Experience Leagueライブ](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en).
 
-### コミュニティ Q&amp;A コーヒーブレーク{#coffee}
+### コミュニティ Q＆A コーヒーブレーク {#coffee}
 
 特別なゲストと 1 時間を過ごし、Experience Leagueコミュニティで質問を送信します。Adobeの製品エキスパートから質問に答えることができます。
 
 | イベント名 | 日時 | アプリケーション | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Adobe Target — セットアップと管理 UI、A4T 統合、AEM統合、一般 UI  | 12 月 8 日（水） @ 8 am PT | Adobe Target | フォーラム Q&amp;A | Adobe Targetコミュニティで、Adobe Targetのシニアプロダクトマネージャーである@Robert_Calangiu Robert Calangiu 氏が参加し、Adobe Targetの専門知識に関する質問について直接お話しします。 <br>[詳細](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697) |
-| Adobe Campaign — 他のアプリケーションを介したデータのインポート | 2021 年 12 月 2 日（木）@ 8 am PT | Adobe Campaign | フォーラム Q&amp;A | 他のアプリケーションを使用したデータのインポート — シニアテクニカルコンサルタントの Zariely Garcia とのテクニカルワークフローを使用して、SFTP/API を使用してデータをインポートするためのベストプラクティス。 <br>[詳細](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
+| Adobe Target — セットアップと管理 UI、A4T 統合、AEM統合、一般 UI  | 12 月 8 日（水） @ 8 am PT | Adobe Target | フォーラム Q＆A | Adobe Targetコミュニティで、Adobe Targetのシニアプロダクトマネージャーである@Robert_Calangiu Robert Calangiu 氏が参加し、Adobe Targetの専門知識に関する質問について直接お話しします。 <br>[詳細](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697?profile.language=ja) |
+| Adobe Campaign — 他のアプリケーションを介したデータのインポート | 2021 年 12 月 2 日（木）@ 8 am PT | Adobe Campaign | フォーラム Q＆A | 他のアプリケーションを使用したデータのインポート — シニアテクニカルコンサルタントの Zariely Garcia とのテクニカルワークフローを使用して、SFTP/API を使用してデータをインポートするためのベストプラクティス。 <br>[詳細](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
 
 {style=&quot;table-layout:auto&quot;}
 
-### Adobe開発者のライブ{#dev-live}
+### アドビ開発者ライブ {#dev-live}
 
 | イベント名 | 日時 | トピック | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2021 年 10 月 4 日～5 日 | オンデマンド | [アドビ開発者ライブ](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ja) | ビデオ | イベントを見逃した方や、特定のセッションをもう一度見たい場合は、 Experience League で見つけることができます。Developers Live では、業界をまたいで設計、コンテンツ作成ワークフロー、ドキュメントサービス、顧客体験管理を支える最新の技術進歩と開発者ツールを紹介します。基調講演を視聴できるほか、Analytics API、クライアントデータレイヤー、Adobe I/O オープンソースプロジェクト、その他多くのことを学習できます。 |
+| 2021 年 10 月 4 日～5 日 | オンデマンド | [アドビ開発者ライブ](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ja) | ビデオ | イベントを見逃した方や、特定のセッションをもう一度見たい場合は、Experience League で見つけることができます。Developers Live では、業界をまたいで設計、コンテンツ作成ワークフロー、ドキュメントサービス、顧客体験管理を支える最新の技術進歩と開発者ツールを紹介します。基調講演を視聴できるほか、Analytics API、クライアントデータレイヤー、Adobe I/O オープンソースプロジェクト、その他多くのことを学習できます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -118,9 +118,9 @@ Experience Leagueイベントは、Adobeの製品エキスパートから回答�
 
 Experience Platform と[!UICONTROL モバイル SDK] に関するリリース更新情報と新しいドキュメントが含まれます。
 
-**2021 年 9 月 29 日**
+**2021年9月29日（PT）**
 
-詳しくは、 [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja) を参照してください。
+詳しくは、[Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)を参照してください。
 
 ### Experience Platform チュートリアルおよびコース {#tutorials-platform}
 
@@ -196,7 +196,7 @@ AN-270649
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
-| 3 つの Analytics API サービスの提供終了 | 2021年9月16日（PT） | **2021年10月20日（PT）**、次の Analytics レガシー API サービスの提供が終了し、サービスが停止されます。これらのサービスを使用して現在構築されている統合は、その日以降使用できなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>アドビでは、お客様のご質問に対する回答や進め方に関するガイダンスを提供するために、[従来の API の EOL（サポート終了）に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe I/O](https://developer.adobe.com/console) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API のどちらにアクセスする場合にも使用できます。 |
+| 3 つの Analytics API サービスの提供終了 | 2021年09月16日（PT） | **2021年10月20日（PT）**、次の Analytics レガシー API サービスの提供が終了し、サービスが停止されます。これらのサービスを使用して現在構築されている統合は、その日以降使用できなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>アドビでは、お客様のご質問に対する回答や進め方に関するガイダンスを提供するために、[従来の API の EOL（サポート終了）に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe I/O](https://developer.adobe.com/console) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API のどちらにアクセスする場合にも使用できます。 |
 | データソースでのフル処理のサポート終了 | 2021年10月18日（PT） | **2022年1月31日（PT）**、アドビはフル処理のサポートを終了します。これにより、ユーザーはオフラインのヒットデータを Analytics に取り込めるようになります。この機能は、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を介して利用できます。[詳細情報](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=ja ) |
 
 {style=&quot;table-layout:auto&quot;}
@@ -313,7 +313,7 @@ Adobe Commerce リリースノートについては、次のリンクを参照�
 
 ## ![アイコン](/assets/target.png) [!DNL Target] {#target}
 
-最終更新日：**2021年10月21日**
+最終更新日：**2021年10月20日（PT）**
 
 最新のリリース情報については、[[!DNL Target] リリースノート](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ja)を参照してください。
 
@@ -337,7 +337,7 @@ Adobe Campaign の最新のチュートリアルとコースです。
 | -----------| ---------- | ---------- |---------- | ---------- |
 | 2021年11月 | [Campaign を Experience Platform に接続して宛先にする](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/import-experience-platform-data-into-campaign/connect-campaign-to-experience-platform-as-destination.html?lang=ja) | ビデオ | Amazon S3 の接続タイプを使用し、宛先に対して Adobe Experience Platform セグメントをアクティブ化する方法を説明します。 | AEP と Campaign V8 |
 | 2021年11月 | [Experience Platform との統合 - 概要](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=ja) | ビデオ | Campaign と Experience Cloud 間でのデータの共有方法を説明します。 | AEP と Campaign V8 |
-| 2021年11月 | [受信者データを Experience Platform から読み込んでメールを送信する](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/import-experience-platform-data-into-campaign/import-recipient-data-from-platform.html?lang=ja) | ビデオ | Adobe Experience Platform から Campaign に受信者データを読み込むために Adobe Campaign で外部アカウントを設定する方法を説明します。 Experience Platform から読み込んだ受信者をアップロードおよびターゲティングするワークフローの作成方法を理解します。 | AEP と Campaign V8 |
+| 2021年11月 | [受信者データを Experience Platform から読み込んでメールを送信する](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/import-experience-platform-data-into-campaign/import-recipient-data-from-platform.html?lang=ja) | ビデオ | Adobe Experience Platform から Campaign に受信者データを読み込むために Adobe Campaign で外部アカウントを設定する方法を説明します。Experience Platform から読み込んだ受信者をアップロードおよびターゲティングするワークフローの作成方法を理解します。 | AEP と Campaign V8 |
 | 2021年11月 | [ワークフローでの SOAP API の使用](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ja) | ビデオチュートリアル | Adobe Campaign Soap API を使用し、API 経由で受信したデータに基づいて高度な配信ワークフローを作成する方法を説明します。 | Campaign V8 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -410,17 +410,17 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 
 ### [!DNL Advertising Cloud] 全体の新機能 {#adcloud-all}
 
-最終更新日：**2021 年 10 月 27 日（PT）**
+最終更新日：**2021年10月27日（PT）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| Advertising Cloud 向け Analytics | 組織がデータ収集のために従来の Adobe Analytics `visitorAPI.js` ライブラリから Adobe Experience Platform ライブラリ（`alloy.js`）を使用するように切り替える場合は、ID スティッチングを有効にするためにいくつかの変更を加える必要があります。[Adobe Experience Platform [!DNL Web SDK] での [!DNL Last Event Service] JavaScript ライブラリの使用](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html?lang=ja)を参照してください。 |
+| Advertising Cloud 向け Analytics | 組織がデータ収集のために従来の Adobe Analytics `visitorAPI.js` ライブラリから Adobe Experience Platform ライブラリ（`alloy.js`）を使用するように切り替える場合は、ID スティッチングを有効にするためにいくつかの変更を加える必要があります。[Adobe Experience Platform [!DNL Web SDK]での [!DNL Last Event Service] JavaScript ライブラリの使用](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html?lang=ja)を参照してください。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Cloud DSP] の新機能  {#adcloud-dsp}
 
-最終更新日：**2021 年 10 月 27 日（PT）**
+最終更新日：**2021年10月27日（PT）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
@@ -435,7 +435,7 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 
 ### [!DNL Advertising Cloud Search] の新機能  {#adcloud-search}
 
-最終更新日：**2021 年 10 月 7 日（PT）**
+最終更新日：**2021年10月7日（PT）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
