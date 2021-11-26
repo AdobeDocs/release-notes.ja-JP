@@ -9,7 +9,7 @@ exl-id: null
 source-git-commit: 89342047732a95ba2669eb58397d6a1dc936a8a3
 workflow-type: tm+mt
 source-wordcount: '4803'
-ht-degree: 93%
+ht-degree: 98%
 
 ---
 
@@ -25,9 +25,9 @@ ht-degree: 93%
 
 リリース月：**2021年11月**
 
-最新の更新： **2021 年 11 月 23 日**
+最終更新日：**2021年11月22日（PT）**
 
-* [[!DNL Experience League] イベント](#events) （更新日：2021 年 11 月 16 日）
+* [[!DNL Experience League] イベント](#events)（更新日：2021年11月15日（PT））
 * [[!DNL Experience Cloud Central Interface Components] &amp; 管理](#ecloud)
 * [アドビ [!UICONTROL システムステータス]](#status)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -50,11 +50,11 @@ ht-degree: 93%
 
 ## ![アイコン](/assets/experience-league.png) [!DNL Experience League] イベント {#events}
 
-Experience League イベントは、アドビの製品エキスパートから回答を得るのに最適な場所です。利用可能なイベントを次に示します。
+Experience League イベントは、アドビの製品エキスパートから回答を得るのに最適な場所です。利用可能なイベントは次のとおりです。
 
-* [Experience Leagueライブ](#exl-live):YouTubeでのライブおよびオンデマンドのビデオイベント
-* [コミュニティ Q&amp;A コーヒーブレーク](#coffee):コミュニティフォーラムの製品マネージャとチャット
-* [Adobe開発者のライブ](#dev-live):オンデマンドのビデオイベントをExperience Leagueで利用可能
+* [Experience League ライブ](#exl-live)：YouTube でのライブおよびオンデマンドのビデオイベント
+* [コミュニティ Q＆A コーヒーブレーク](#coffee)：コミュニティフォーラムの製品マネージャーとチャット
+* [アドビ開発者のライブ](#dev-live)：Experience League で利用可能なオンデマンドのビデオイベント
 
 スケジュールとイベントは次のとおりです。
 
@@ -66,20 +66,20 @@ Experience League イベントは、アドビの製品エキスパートから�
 
 | イベントの日付 | 時間 | イベント名 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2021年11月18日（PT） | 午後 12:00（EST） | [Adobe Experience Manager で迅速にサイトを作成し、これまで以上に高速に運用を開始](https://www.youtube.com/watch?v=7-Lcw5PejhI) | ライブビデオイベント | バックエンド開発を行わずに、機能豊富でパーソナライズされた web エクスペリエンスを数日でデプロイします。事前定義された [!UICONTROL サイトテンプレート]. Adobeのプロダクトマネージャー、Shankari Panchapakesan、Gabriel Walt、Danny Gordon とのライブプレゼンテーションとデモにご参加ください。 ライブコーディングも行われるかもしれません。 |
+| 2021年11月18日（PT） | 午後 12:00（EST） | [Adobe Experience Manager で迅速にサイトを作成し、これまで以上に高速に運用を開始](https://www.youtube.com/watch?v=7-Lcw5PejhI) | ライブビデオイベント | バックエンド開発を行わずに、機能豊富でパーソナライズされた web エクスペリエンスを数日でデプロイします。事前定義された[!UICONTROL サイトテンプレート]を使用して、ローコードアプローチで Adobe Experience Manager でサイトを作成する方法を説明します。アドビの製品マネージャーである Shankari Panchapakesan、Gabriel Walt、Danny Gordon とのライブプレゼンテーションおよびデモにご参加ください。ライブコーディングも行われるかもしれません。 |
 
 {style=&quot;table-layout:auto&quot;}
 
-過去のエピソードについては、 [Experience Leagueライブ](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en).
+過去のエピソードについては、[Experience League ライブ](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)を参照してください。
 
-### コミュニティ Q＆A コーヒーブレーク {#coffee}
+### コミュニティ Q＆A コーヒーブレーク{#coffee}
 
-特別なゲストと 1 時間を過ごし、Experience Leagueコミュニティで質問を送信します。Adobeの製品エキスパートから質問に答えることができます。
+特別なゲストと 1 時間を過ごし、Experience League コミュニティで質問を送信しましょう。このコミュニティでは、アドビの製品エキスパートから回答を得ることができます。
 
 | イベント名 | 日時 | アプリケーション | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Adobe Target — セットアップと管理 UI、A4T 統合、AEM統合、一般 UI  | 12 月 8 日（水） @ 8 am PT | Adobe Target | フォーラム Q＆A | Adobe Targetコミュニティで、Adobe Targetのシニアプロダクトマネージャーである@Robert_Calangiu Robert Calangiu 氏が参加し、Adobe Targetの専門知識に関する質問について直接お話しします。 <br>[詳細](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697?profile.language=ja) |
-| Adobe Campaign — 他のアプリケーションを介したデータのインポート | 2021 年 12 月 2 日（木）@ 8 am PT | Adobe Campaign | フォーラム Q＆A | 他のアプリケーションを使用したデータのインポート — シニアテクニカルコンサルタントの Zariely Garcia とのテクニカルワークフローを使用して、SFTP/API を使用してデータをインポートするためのベストプラクティス。 <br>[詳細](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
+| Adobe Target - セットアップと管理 UI、A4T 統合、AEM 統合、一般 UI  | 12月8日 水曜日 午前 8:00（PT） | Adobe Target | フォーラム Q＆A | Adobe Target コミュニティで、Adobe Target のシニア製品マネージャーである Robert Calangiu（@Robert_Calangiu）が参加し、Adobe Target の専門知識に関する質問について直接お答えします。<br>[詳細](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697?profile.language=ja) |
+| Adobe Campaign - 他のアプリケーションを介したデータのインポート | 2021年12月2日 木曜日 午前 8:00（PT） | Adobe Campaign | フォーラム Q＆A | 他のアプリケーションを介したデータのインポート - シニアテクニカルコンサルタントの Zariely Garcia が、テクニカルワークフローを使用して、SFTP/API を介してデータをインポートするためのベストプラクティスを説明します。 <br>[詳細](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -87,7 +87,7 @@ Experience League イベントは、アドビの製品エキスパートから�
 
 | イベント名 | 日時 | トピック | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2021 年 10 月 4 日～5 日 | オンデマンド | [アドビ開発者ライブ](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ja) | ビデオ | イベントを見逃した方や、特定のセッションをもう一度見たい場合は、Experience League で見つけることができます。Developers Live では、業界をまたいで設計、コンテンツ作成ワークフロー、ドキュメントサービス、顧客体験管理を支える最新の技術進歩と開発者ツールを紹介します。基調講演を視聴できるほか、Analytics API、クライアントデータレイヤー、Adobe I/O オープンソースプロジェクト、その他多くのことを学習できます。 |
+| 2021年10月4～5日（PT） | オンデマンド | [アドビ開発者ライブ](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ja) | ビデオ | イベントを見逃した方や、特定のセッションをもう一度見たい場合は、Experience League で見つけることができます。Developers Live では、業界をまたいで設計、コンテンツ作成ワークフロー、ドキュメントサービス、顧客体験管理を支える最新の技術進歩と開発者ツールを紹介します。基調講演を視聴できるほか、Analytics API、クライアントデータレイヤー、Adobe I/O オープンソースプロジェクト、その他多くのことを学習できます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
