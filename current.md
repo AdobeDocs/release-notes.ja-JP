@@ -9,11 +9,11 @@ exl-id: null
 source-git-commit: 89342047732a95ba2669eb58397d6a1dc936a8a3
 workflow-type: tm+mt
 source-wordcount: '4803'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# Adobe Experience Cloud リリースノート - 2021年11月
+# Adobe Experience Cloud リリースノート - 2021 年 11 月
 
 ![バナー](assets/experience-cloud-banner-3.png)
 
@@ -23,15 +23,15 @@ ht-degree: 98%
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-リリース月：**2021年11月**
+リリース月：**2021 年 11 月**
 
-最終更新日：**2021年11月22日（PT）**
+最終更新日：**2021 年 11 月 22 日（PT）**
 
-* [[!DNL Experience League] イベント](#events)（更新日：2021年11月15日（PT））
+* [[!DNL Experience League] イベント](#events)（更新日：2021 年 11 月 15 日（PT））
 * [[!DNL Experience Cloud Central Interface Components] &amp; 管理](#ecloud)
 * [アドビ [!UICONTROL システムステータス]](#status)
 * [[!DNL Adobe Experience Platform]](#platform)
-* [[!DNL Adobe Analytics]](#analytics) （更新日：2021 年 11 月 23 日）
+* [[!DNL Adobe Analytics]](#analytics)（更新日：2021 年 11 月 22 日（PT））
 * [Customer Journey Analytics](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
@@ -42,7 +42,7 @@ ht-degree: 98%
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL Adobe Advertising Cloud]](#adcloud) (**2021年10月27日（PT）**)
+* [[!DNL Adobe Advertising Cloud]](#adcloud) (**2021 年 10 月 27 日（PT）**)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 
@@ -66,7 +66,7 @@ Experience League イベントは、アドビの製品エキスパートから�
 
 | イベントの日付 | 時間 | イベント名 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2021年11月18日（PT） | 午後 12:00（EST） | [Adobe Experience Manager で迅速にサイトを作成し、これまで以上に高速に運用を開始](https://www.youtube.com/watch?v=7-Lcw5PejhI) | ライブビデオイベント | バックエンド開発を行わずに、機能豊富でパーソナライズされた web エクスペリエンスを数日でデプロイします。事前定義された[!UICONTROL サイトテンプレート]を使用して、ローコードアプローチで Adobe Experience Manager でサイトを作成する方法を説明します。アドビの製品マネージャーである Shankari Panchapakesan、Gabriel Walt、Danny Gordon とのライブプレゼンテーションおよびデモにご参加ください。ライブコーディングも行われるかもしれません。 |
+| 2021 年 11 月 18 日（PT） | 午後 12:00（EST） | [Adobe Experience Manager で迅速にサイトを作成し、これまで以上に高速に運用を開始](https://www.youtube.com/watch?v=7-Lcw5PejhI) | ライブビデオイベント | バックエンド開発を行わずに、機能豊富でパーソナライズされた web エクスペリエンスを数日でデプロイします。事前定義された[!UICONTROL サイトテンプレート]を使用して、ローコードアプローチで Adobe Experience Manager でサイトを作成する方法を説明します。アドビの製品マネージャーである Shankari Panchapakesan、Gabriel Walt、Danny Gordon とのライブプレゼンテーションおよびデモにご参加ください。ライブコーディングも行われるかもしれません。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -78,8 +78,8 @@ Experience League イベントは、アドビの製品エキスパートから�
 
 | イベント名 | 日時 | アプリケーション | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Adobe Target - セットアップと管理 UI、A4T 統合、AEM 統合、一般 UI  | 12月8日 水曜日 午前 8:00（PT） | Adobe Target | フォーラム Q＆A | Adobe Target コミュニティで、Adobe Target のシニア製品マネージャーである Robert Calangiu（@Robert_Calangiu）が参加し、Adobe Target の専門知識に関する質問について直接お答えします。<br>[詳細](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697?profile.language=ja) |
-| Adobe Campaign - 他のアプリケーションを介したデータのインポート | 2021年12月2日 木曜日 午前 8:00（PT） | Adobe Campaign | フォーラム Q＆A | 他のアプリケーションを介したデータのインポート - シニアテクニカルコンサルタントの Zariely Garcia が、テクニカルワークフローを使用して、SFTP/API を介してデータをインポートするためのベストプラクティスを説明します。 <br>[詳細](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
+| Adobe Target - セットアップと管理 UI、A4T 統合、AEM 統合、一般 UI  | 12 月 8 日 水曜日 午前 8:00（PT） | Adobe Target | フォーラム Q＆A | Adobe Target コミュニティで、Adobe Target のシニア製品マネージャーである Robert Calangiu（@Robert_Calangiu）が参加し、Adobe Target の専門知識に関する質問について直接お答えします。<br>[詳細](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697?profile.language=ja) |
+| Adobe Campaign - 他のアプリケーションを介したデータのインポート | 2021 年 12 月 2 日 木曜日 午前 8:00（PT） | Adobe Campaign | フォーラム Q＆A | 他のアプリケーションを介したデータのインポート - シニアテクニカルコンサルタントの Zariely Garcia が、テクニカルワークフローを使用して、SFTP/API を介してデータをインポートするためのベストプラクティスを説明します。 <br>[詳細](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -87,7 +87,7 @@ Experience League イベントは、アドビの製品エキスパートから�
 
 | イベント名 | 日時 | トピック | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2021年10月4～5日（PT） | オンデマンド | [アドビ開発者ライブ](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ja) | ビデオ | イベントを見逃した方や、特定のセッションをもう一度見たい場合は、Experience League で見つけることができます。Developers Live では、業界をまたいで設計、コンテンツ作成ワークフロー、ドキュメントサービス、顧客体験管理を支える最新の技術進歩と開発者ツールを紹介します。基調講演を視聴できるほか、Analytics API、クライアントデータレイヤー、Adobe I/O オープンソースプロジェクト、その他多くのことを学習できます。 |
+| 2021 年 10 月 4～5 日（PT） | オンデマンド | [アドビ開発者ライブ](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ja) | ビデオ | イベントを見逃した方や、特定のセッションをもう一度見たい場合は、Experience League で見つけることができます。Developers Live では、業界をまたいで設計、コンテンツ作成ワークフロー、ドキュメントサービス、顧客体験管理を支える最新の技術進歩と開発者ツールを紹介します。基調講演を視聴できるほか、Analytics API、クライアントデータレイヤー、Adobe I/O オープンソースプロジェクト、その他多くのことを学習できます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -113,13 +113,13 @@ Experience League イベントは、アドビの製品エキスパートから�
 
 [!DNL Adobe System Status] は、Adobe製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/ja) でご確認ください。
 
-（[!DNL Adobe System Status]の最新のリリース情報は、[2020年5月21日（PT）](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=ja)のリリースノートをご覧ください。）
+（[!DNL Adobe System Status]の最新のリリース情報は、[2020 年 5 月 21 日（PT）](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=ja)のリリースノートをご覧ください。）
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Experience Platform と[!UICONTROL モバイル SDK] に関するリリース更新情報と新しいドキュメントが含まれます。
 
-**2021年9月29日（PT）**
+**2021 年 9 月 29 日（PT）**
 
 詳しくは、[Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)を参照してください。
 
@@ -129,8 +129,8 @@ Experience Platform およびサービス用に公開された新しいビデオ
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021年11月 | [ファーストパーティデータコンテキストでのデータ共同作業](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/data-collaboration-in-the-first-party-data-context.html?lang=ja) | ビデオ | アクセスするデータを少なく抑え、エクスペリエンスプロミスで配信します。広告主、媒体社、代理店を問わず、このウェビナーを通じて、サードパーティ Cookie を使用しない将来のデータコラボレーションの機会を解放できます。 |
-| 2021年10月 | [[!DNL Platform] 管理](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin&amp;lang=ja) | コース | 権限やサンドボックス管理など、Experience Platform の管理アクティビティについて説明します。 |
+| 2021 年 11 月 | [ファーストパーティデータコンテキストでのデータ共同作業](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/data-collaboration-in-the-first-party-data-context.html?lang=ja) | ビデオ | アクセスするデータを少なく抑え、エクスペリエンスプロミスで配信します。広告主、媒体社、代理店を問わず、このウェビナーを通じて、サードパーティ Cookie を使用しない将来のデータコラボレーションの機会を解放できます。 |
+| 2021 年 10 月 | [[!DNL Platform] 管理](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin&amp;lang=ja) | コース | 権限やサンドボックス管理など、Experience Platform の管理アクティビティについて説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -145,7 +145,7 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 * [Adobe Analytics の新機能](#aa-features)
 * [Customer Journey Analytics の新機能](#cust-journey)
 * [Adobe Analytics の修正点](#aa-fixes)
-* [Analytics 管理者向けの重要な注意事項](#aa-notices) （更新日：2021 年 11 月 23 日）
+* [Analytics 管理者向けの重要な注意事項](#aa-notices)（更新日：2021 年 11 月 22 日（PT））
 * [Analytics コースとチュートリアル](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -153,11 +153,11 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 
 | 機能 | 説明 | [一般公開](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=ja) - ターゲット日 |
 | ----------- | ---------- | ------- |
-| Analysis Workspace の分レベルの日付範囲 | 分レベルの日付範囲は、パネルカレンダーの詳細設定で、またはカスタム日付範囲を作成する際に適用できます。日付範囲が何日にもわたるレポートを作成する場合、開始時間は最初の日、終了時間は範囲内の最終日に適用されます。 | 2021年10月18日（PT） |
-| [!UICONTROL メディア再生滞在時間] | アドビのストリーミングメディア再生[!UICONTROL 滞在時間] は、ビューアのエンゲージメントに関する貴重なインサイトを提供し、メディア企業は日分割機能を備えた高度な滞在時間分析を通じて、分単位のユーザーエンゲージメントに関する、より深く、より詳細なインサイトを得ることができます。特定の時点でのメディアストリームの視聴時間を確認できます。再生時間は、様々な粒度（新たな 5 分、15 分、30 分の時間粒度を含む）で分割できます。[詳細情報](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=ja) | 2021年10月18日（PT） |
-| クイック[!UICONTROL セグメントビルダー] | ビジネスユーザーは、シンプルなインラインプロジェクトワークフローで、基本的なセグメントをすばやく適用できます。[!UICONTROL セグメントビルダー]に移動する必要はありません。[詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=ja) | 2021年10月21日（PT） |
-| Analysis Workspace 左パネルの検索の改善 | 左パネル検索は、1）コンポーネントの最新性と関連性を引き続き考慮に入れることに加えて、部分一致よりも完全一致を優先します。2）一致した文字をハイライトして、検索結果をわかりやすくします。3）ディメンションに関連する分類を見つけやすくなります。4）最後に、ワイルドカード（`*`）検索をサポートして、必要な特定のコンポーネントをより簡単に見つけます。注意：ワイルドカード検索は、ディメンション項目レベルではまだ機能しません。 | 2021年10月21日（PT） |
-| ダークテーマ | [ダークテーマ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html?lang=ja#dark-theme)は表示オプションとして使用できます。 | 2021年10月21日（PT） |
+| Analysis Workspace の分レベルの日付範囲 | 分レベルの日付範囲は、パネルカレンダーの詳細設定で、またはカスタム日付範囲を作成する際に適用できます。日付範囲が何日にもわたるレポートを作成する場合、開始時間は最初の日、終了時間は範囲内の最終日に適用されます。 | 2021 年 10 月 18 日（PT） |
+| [!UICONTROL メディア再生滞在時間] | アドビのストリーミングメディア再生[!UICONTROL 滞在時間] は、ビューアのエンゲージメントに関する貴重なインサイトを提供し、メディア企業は日分割機能を備えた高度な滞在時間分析を通じて、分単位のユーザーエンゲージメントに関する、より深く、より詳細なインサイトを得ることができます。特定の時点でのメディアストリームの視聴時間を確認できます。再生時間は、様々な粒度（新たな 5 分、15 分、30 分の時間粒度を含む）で分割できます。[詳細情報](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=ja) | 2021 年 10 月 18 日（PT） |
+| クイック[!UICONTROL セグメントビルダー] | ビジネスユーザーは、シンプルなインラインプロジェクトワークフローで、基本的なセグメントをすばやく適用できます。[!UICONTROL セグメントビルダー]に移動する必要はありません。[詳細情報](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=ja) | 2021 年 10 月 21 日（PT） |
+| Analysis Workspace 左パネルの検索の改善 | 左パネル検索は、1）コンポーネントの最新性と関連性を引き続き考慮に入れることに加えて、部分一致よりも完全一致を優先します。2）一致した文字をハイライトして、検索結果をわかりやすくします。3）ディメンションに関連する分類を見つけやすくなります。4）最後に、ワイルドカード（`*`）検索をサポートして、必要な特定のコンポーネントをより簡単に見つけます。注意：ワイルドカード検索は、ディメンション項目レベルではまだ機能しません。 | 2021 年 10 月 21 日（PT） |
+| ダークテーマ | [ダークテーマ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html?lang=ja#dark-theme)は表示オプションとして使用できます。 | 2021 年 10 月 21 日（PT） |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -165,10 +165,10 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 
 | 機能 | 説明 | [一般公開](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=ja) - ターゲット日 |
 | ----------- | ---------- | ----- |
-| Analysis Workspace の分レベルの日付範囲 | 分レベルの日付範囲は、パネルカレンダーの詳細設定で、またはカスタム日付範囲を作成する際に適用できます。日付範囲が何日にもわたるレポートを作成する場合、開始時間は最初の日、終了時間は範囲内の最終日に適用されます。 | 2021年10月18日（PT） |
-| クイック[!UICONTROL フィルタービルダー] | ビジネスユーザーは、シンプルなインラインプロジェクトワークフローで、基本的なセグメントをすばやく適用できます。[!UICONTROL フィルタービルダー]に移動する必要はありません。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=ja) | 2021年10月21日（PT） |
-| Analysis Workspace 左パネルの検索の改善 | 左パネル検索は、1）コンポーネントの最新性と関連性を引き続き考慮に入れることに加えて、部分一致よりも完全一致を優先します。2）一致した文字をハイライトして、検索結果をわかりやすくします。3）ディメンションに関連する分類を見つけやすくなります。4）最後に、ワイルドカード（`*`）検索をサポートして、必要な特定のコンポーネントをより簡単に見つけます。注意：ワイルドカード検索は、ディメンション項目レベルではまだ機能しません。 | 2021年10月21日（PT） |
-| ダークテーマ | [ダークテーマ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/user-preferences.html?lang=ja#dark-theme)は表示オプションとして使用できます。 | 2021年10月21日（PT） |
+| Analysis Workspace の分レベルの日付範囲 | 分レベルの日付範囲は、パネルカレンダーの詳細設定で、またはカスタム日付範囲を作成する際に適用できます。日付範囲が何日にもわたるレポートを作成する場合、開始時間は最初の日、終了時間は範囲内の最終日に適用されます。 | 2021 年 10 月 18 日（PT） |
+| クイック[!UICONTROL フィルタービルダー] | ビジネスユーザーは、シンプルなインラインプロジェクトワークフローで、基本的なセグメントをすばやく適用できます。[!UICONTROL フィルタービルダー]に移動する必要はありません。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=ja) | 2021 年 10 月 21 日（PT） |
+| Analysis Workspace 左パネルの検索の改善 | 左パネル検索は、1）コンポーネントの最新性と関連性を引き続き考慮に入れることに加えて、部分一致よりも完全一致を優先します。2）一致した文字をハイライトして、検索結果をわかりやすくします。3）ディメンションに関連する分類を見つけやすくなります。4）最後に、ワイルドカード（`*`）検索をサポートして、必要な特定のコンポーネントをより簡単に見つけます。注意：ワイルドカード検索は、ディメンション項目レベルではまだ機能しません。 | 2021 年 10 月 21 日（PT） |
+| ダークテーマ | [ダークテーマ](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/user-preferences.html?lang=ja#dark-theme)は表示オプションとして使用できます。 | 2021 年 10 月 21 日（PT） |
 | ディメンション割り当てのルックバックウィンドウ | データビュー設定の「永続性」の下で、ディメンション割り当て設定に最大 90 日のルックバックウィンドウが追加されます。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html?lang=ja) | 2021 年 10 月 28 日（PT） |
 
 {style=&quot;table-layout:auto&quot;}
@@ -197,9 +197,9 @@ AN-270649
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
-| 「Global + China」RDC タイプ | 2021年11月22日（PT） | 「Global + China」は、新しい RDC(Regional Data Collection) タイプで、 [!UICONTROL 中国のパフォーマンス最適化アドオンパッケージ]. 以前は、データを中国のコレクションエンドポイントにルーティングするか、グローバルコレクションエンドポイントの 1 つにルーティングするかを決定する必要がありました。 これで、この RDC を選択できます **type** を使用すると、Adobeは、ユーザーの位置情報に基づいて最適な収集エンドポイントを決定できます。 |
-| 3 つの Analytics API サービスの提供終了 | 2021年09月16日（PT） | **2021年10月20日（PT）**、次の Analytics レガシー API サービスの提供が終了し、サービスが停止されます。これらのサービスを使用して現在構築されている統合は、その日以降使用できなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>アドビでは、お客様のご質問に対する回答や進め方に関するガイダンスを提供するために、[従来の API の EOL（サポート終了）に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe I/O](https://developer.adobe.com/console) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API のどちらにアクセスする場合にも使用できます。 |
-| データソースでのフル処理のサポート終了 | 2021年10月18日（PT） | **2022年1月31日（PT）**、アドビはフル処理のサポートを終了します。これにより、ユーザーはオフラインのヒットデータを Analytics に取り込めるようになります。この機能は、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を介して利用できます。[詳細情報](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=ja ) |
+| 「グローバル + 中国」RDC タイプ | 2021 年 11 月 22 日（PT） | 「グローバル + 中国」は、[!UICONTROL 中国のパフォーマンス最適化アドオンパッケージ]を使用して、グローバルな顧客のトラフィックのルーティングを簡素化する新しい地域データ収集（RDC）タイプです。以前は、データを中国の収集エンドポイントにルーティングするか、グローバルな収集エンドポイントの 1 つにルーティングするかを決定する必要がありました。これで、この RDC **タイプ**&#x200B;を選択して、アドビがユーザーの位置情報に基づいて最適な収集エンドポイントを決定できるようになります。 |
+| 3 つの Analytics API サービスの提供終了 | 2021 年 09 月 16 日（PT） | **2021 年 10 月 20 日（PT）**、次の Analytics レガシー API サービスの提供が終了し、サービスが停止されます。これらのサービスを使用して現在構築されている統合は、その日以降使用できなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>アドビでは、お客様のご質問に対する回答や進め方に関するガイダンスを提供するために、[従来の API の EOL（サポート終了）に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe I/O](https://developer.adobe.com/console) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API のどちらにアクセスする場合にも使用できます。 |
+| データソースでのフル処理のサポート終了 | 2021 年 10 月 18 日（PT） | **2022 年 1 月 31 日（PT）**、アドビはフル処理のサポートを終了します。これにより、ユーザーはオフラインのヒットデータを Analytics に取り込めるようになります。この機能は、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を介して利用できます。[詳細情報](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=ja ) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -213,11 +213,11 @@ AppMeasurement リリース（バージョン 2.22.2）の最新の更新につ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021年11月 | [Adobe Analytics のセグメントコンテナ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segment-containers.html?lang=ja) | ビデオ（更新） | このビデオでは、コンテナの使用方法と、各タイプのコンテナの例をいくつか学びます。 |
-| 2021年11月 | [Adobe Analytics での順次セグメント化](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/sequential-segmentation.html?lang=ja) | ビデオ（更新） | サイト上またはアプリケーション上での一連の行動から、Analysis Workspace でセグメントを作成する方法を説明します。 |
-| 2021年11月 | [順次セグメント化での前後のシーケンス](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/before-after-sequences-in-sequential-segmentation.html?lang=ja) | ビデオ（更新） | 特定のユーザーパスの前または後のデータのみを取得できるように Adobe Analytics でセグメント化する方法を説明します。 |
-| 2021年11月 | [Customer Journey Analytics 用の Report Builder](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/report-builder-for-customer-journey-analytics.html?lang=ja) | ビデオ | Report Builder のシンプルで柔軟なドラッグ＆ドロップ UI を使用すると、Customer Journey Analytics データから複雑なデータクエリやカスタムレポートをすべて Excel 内で作成できます。 |
-| 2021年10月 | [ビジュアライゼーションを使用したデータストーリーの把握](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=ja) | コース | プロジェクトにビジュアライゼーションを追加する方法、ビジュアライゼーションにデータを取り込む方法、各ビジュアライゼーションで表示できる内容など、ビジュアライゼーションの基本について説明します。必要な正確なデータを取得するための設定方法を説明します。また、標準的な分析にビジュアライゼーションを使用できるようにするためのヒントや使用例を説明します。 |
+| 2021 年 11 月 | [Adobe Analytics のセグメントコンテナ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segment-containers.html?lang=ja) | ビデオ（更新） | このビデオでは、コンテナの使用方法と、各タイプのコンテナの例をいくつか学びます。 |
+| 2021 年 11 月 | [Adobe Analytics での順次セグメント化](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/sequential-segmentation.html?lang=ja) | ビデオ（更新） | サイト上またはアプリケーション上での一連の行動から、Analysis Workspace でセグメントを作成する方法を説明します。 |
+| 2021 年 11 月 | [順次セグメント化での前後のシーケンス](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/before-after-sequences-in-sequential-segmentation.html?lang=ja) | ビデオ（更新） | 特定のユーザーパスの前または後のデータのみを取得できるように Adobe Analytics でセグメント化する方法を説明します。 |
+| 2021 年 11 月 | [Customer Journey Analytics 用の Report Builder](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/report-builder-for-customer-journey-analytics.html?lang=ja) | ビデオ | Report Builder のシンプルで柔軟なドラッグ＆ドロップ UI を使用すると、Customer Journey Analytics データから複雑なデータクエリやカスタムレポートをすべて Excel 内で作成できます。 |
+| 2021 年 10 月 | [ビジュアライゼーションを使用したデータストーリーの把握](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations&amp;lang=ja) | コース | プロジェクトにビジュアライゼーションを追加する方法、ビジュアライゼーションにデータを取り込む方法、各ビジュアライゼーションで表示できる内容など、ビジュアライゼーションの基本について説明します。必要な正確なデータを取得するための設定方法を説明します。また、標準的な分析にビジュアライゼーションを使用できるようにするためのヒントや使用例を説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -239,12 +239,12 @@ Audience Manager の修正点と改善点。
 
 ### リリースの概要ビデオ
 
-* 新機能の [2021年10月リリースの概要](https://video.tv.adobe.com/v/338253)ビデオ。
-* 新機能の [2021年9月リリースの概要](https://video.tv.adobe.com/v/337381)ビデオ。
+* 新機能の [2021 年 10 月リリースの概要](https://video.tv.adobe.com/v/338253)ビデオ。
+* 新機能の [2021 年 9 月リリースの概要](https://video.tv.adobe.com/v/337381)ビデオ。
 
 ### コミュニティ
 
-* [アドビ開発者向けライブ](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk) | 2021年10月4～5日、7:00（PDT）
+* [アドビ開発者向けライブ](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk) | 2021 年 10 月 4～5 日、7:00（PDT）
 
    アドビ開発者向けライブは、多様な背景と単一の目的を持つアドビ開発者とエクスペリエンスビルダーを結集し、素晴らしいエンドツーエンドのエクスペリエンスを作り出します。この 2 日間の会議では、開発者向けの重要な更新、技術セッション、コミュニティネットワークの機会を紹介します。
 
@@ -262,12 +262,12 @@ Audience Manager の修正点と改善点。
 
 | 公開日 | 名前 | 説明 | タイプ | バージョン |
 | -----------| ---------- | ---------- |---------- | ---------- |
-| 2021年11月 | [Adobe Experience Manager Sites の基本](https://experienceleague.adobe.com/docs/experience-manager-skill-builder/skill-builder/2021/authoring-fundamentals.html?lang=ja) | ビデオシリーズ | 豊富で魅力的な顧客体験を Adobe Experience Manager で作成する方法については、5 部構成のウェビナーシリーズを参照してください。基本的な概念と操作を学習しながら、コンテンツのオーサリングの構成要素から始めます。AEM 内でのデジタルアセットの管理機能と操作の基本について説明します。その後、コンテンツを再利用して複数のチャネルに配信することで、時間を節約し、より効率的な機能を見つけ出すことができます。 | AEM Sites |
-| 2021年11月 | [AEM as a Cloud Service への移行の計画](https://experienceleague.adobe.com/?recommended=ExperienceManager-A-1-2021.1.migration&amp;lang=ja) | コース | AEM as a Cloud Service への移行に関する考慮事項と、プロセスを簡略化する使用可能なツールについて説明します。 | AEM CS |
-| 2021年11月 | [AEM as a Cloud Service への移行](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2021.1.migration&amp;lang=ja) | コース | AEM 6 から Experience Manager as a Cloud Service に正常に移行する方法を説明します。 | AEM CS |
-| 2021年11月 | [インタラクティブ DoR のダウンロード](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/generate-interactive-dor.html?lang=ja#create-custom-servlet) | ビデオ | アダプティブフォームデータを含むインタラクティブ DoR のダウンロード方法を説明します。 | AEM Forms |
-| 2021年11月 | [Adobe Experience Manager as a Cloud Service エキスパートシリーズ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-experts-series.html?lang=ja) | ビデオシリーズ | Adobe Experience Manager (AEM) as a Cloud Service を構築するアドビのエキスパートエンジニアと、これを提供する Professional Services チームから説明します。アドビの専門家に参加していただき、AEM as a Cloud Service とは何か、AEM 6 との比較、AEM 6 から AEM as a Cloud Service への移行方法を確認します。 | AEM CS |
-| 2021年11月 | [サービスユーザー](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/service-users.html?lang=ja) | ビデオ | AEM コードでサービスユーザーを作成および使用して、AEM リポジトリーへの制御されたプログラムによるアクセスを提供する方法を説明します。 | AEM CS |
+| 2021 年 11 月 | [Adobe Experience Manager Sites の基本](https://experienceleague.adobe.com/docs/experience-manager-skill-builder/skill-builder/2021/authoring-fundamentals.html?lang=ja) | ビデオシリーズ | 豊富で魅力的な顧客体験を Adobe Experience Manager で作成する方法については、5 部構成のウェビナーシリーズを参照してください。基本的な概念と操作を学習しながら、コンテンツのオーサリングの構成要素から始めます。AEM 内でのデジタルアセットの管理機能と操作の基本について説明します。その後、コンテンツを再利用して複数のチャネルに配信することで、時間を節約し、より効率的な機能を見つけ出すことができます。 | AEM Sites |
+| 2021 年 11 月 | [AEM as a Cloud Service への移行の計画](https://experienceleague.adobe.com/?recommended=ExperienceManager-A-1-2021.1.migration&amp;lang=ja) | コース | AEM as a Cloud Service への移行に関する考慮事項と、プロセスを簡略化する使用可能なツールについて説明します。 | AEM CS |
+| 2021 年 11 月 | [AEM as a Cloud Service への移行](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2021.1.migration&amp;lang=ja) | コース | AEM 6 から Experience Manager as a Cloud Service に正常に移行する方法を説明します。 | AEM CS |
+| 2021 年 11 月 | [インタラクティブ DoR のダウンロード](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/generate-interactive-dor.html?lang=ja#create-custom-servlet) | ビデオ | アダプティブフォームデータを含むインタラクティブ DoR のダウンロード方法を説明します。 | AEM Forms |
+| 2021 年 11 月 | [Adobe Experience Manager as a Cloud Service エキスパートシリーズ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-experts-series.html?lang=ja) | ビデオシリーズ | Adobe Experience Manager (AEM) as a Cloud Service を構築するアドビのエキスパートエンジニアと、これを提供する Professional Services チームから説明します。アドビの専門家に参加していただき、AEM as a Cloud Service とは何か、AEM 6 との比較、AEM 6 から AEM as a Cloud Service への移行方法を確認します。 | AEM CS |
+| 2021 年 11 月 | [サービスユーザー](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/service-users.html?lang=ja) | ビデオ | AEM コードでサービスユーザーを作成および使用して、AEM リポジトリーへの制御されたプログラムによるアクセスを提供する方法を説明します。 | AEM CS |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -311,11 +311,11 @@ Adobe Commerce リリースノートについては、次のリンクを参照�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021年11月 | [Adobe Commerce のビデオとチュートリアル](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html?lang=ja) | チュートリアルホーム | これらのチュートリアルリソースには、トピックの概要を示すビデオシリーズや、特定のタスクおよびプロセスを対象とする個々のビデオが含まれます。このコレクションは、バックエンド開発者、フロントエンド開発者、システム管理者、マーチャント、組織内のその他の役割に役立つコンテンツを提供するように設計されています。 |
+| 2021 年 11 月 | [Adobe Commerce のビデオとチュートリアル](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/overview.html?lang=ja) | チュートリアルホーム | これらのチュートリアルリソースには、トピックの概要を示すビデオシリーズや、特定のタスクおよびプロセスを対象とする個々のビデオが含まれます。このコレクションは、バックエンド開発者、フロントエンド開発者、システム管理者、マーチャント、組織内のその他の役割に役立つコンテンツを提供するように設計されています。 |
 
 ## ![アイコン](/assets/target.png) [!DNL Target] {#target}
 
-最終更新日：**2021年10月20日（PT）**
+最終更新日：**2021 年 10 月 20 日（PT）**
 
 最新のリリース情報については、[[!DNL Target] リリースノート](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ja)を参照してください。
 
@@ -337,10 +337,10 @@ Adobe Campaign の最新のチュートリアルとコースです。
 
 | 公開日 | 名前 | 説明 | タイプ | バージョン |
 | -----------| ---------- | ---------- |---------- | ---------- |
-| 2021年11月 | [Campaign を Experience Platform に接続して宛先にする](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/import-experience-platform-data-into-campaign/connect-campaign-to-experience-platform-as-destination.html?lang=ja) | ビデオ | Amazon S3 の接続タイプを使用し、宛先に対して Adobe Experience Platform セグメントをアクティブ化する方法を説明します。 | AEP と Campaign V8 |
-| 2021年11月 | [Experience Platform との統合 - 概要](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=ja) | ビデオ | Campaign と Experience Cloud 間でのデータの共有方法を説明します。 | AEP と Campaign V8 |
-| 2021年11月 | [受信者データを Experience Platform から読み込んでメールを送信する](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/import-experience-platform-data-into-campaign/import-recipient-data-from-platform.html?lang=ja) | ビデオ | Adobe Experience Platform から Campaign に受信者データを読み込むために Adobe Campaign で外部アカウントを設定する方法を説明します。Experience Platform から読み込んだ受信者をアップロードおよびターゲティングするワークフローの作成方法を理解します。 | AEP と Campaign V8 |
-| 2021年11月 | [ワークフローでの SOAP API の使用](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ja) | ビデオチュートリアル | Adobe Campaign Soap API を使用し、API 経由で受信したデータに基づいて高度な配信ワークフローを作成する方法を説明します。 | Campaign V8 |
+| 2021 年 11 月 | [Campaign を Experience Platform に接続して宛先にする](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/import-experience-platform-data-into-campaign/connect-campaign-to-experience-platform-as-destination.html?lang=ja) | ビデオ | Amazon S3 の接続タイプを使用し、宛先に対して Adobe Experience Platform セグメントをアクティブ化する方法を説明します。 | AEP と Campaign V8 |
+| 2021 年 11 月 | [Experience Platform との統合 - 概要](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=ja) | ビデオ | Campaign と Experience Cloud 間でのデータの共有方法を説明します。 | AEP と Campaign V8 |
+| 2021 年 11 月 | [受信者データを Experience Platform から読み込んでメールを送信する](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/import-experience-platform-data-into-campaign/import-recipient-data-from-platform.html?lang=ja) | ビデオ | Adobe Experience Platform から Campaign に受信者データを読み込むために Adobe Campaign で外部アカウントを設定する方法を説明します。Experience Platform から読み込んだ受信者をアップロードおよびターゲティングするワークフローの作成方法を理解します。 | AEP と Campaign V8 |
+| 2021 年 11 月 | [ワークフローでの SOAP API の使用](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=ja) | ビデオチュートリアル | Adobe Campaign Soap API を使用し、API 経由で受信したデータに基づいて高度な配信ワークフローを作成する方法を説明します。 | Campaign V8 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -365,9 +365,9 @@ Adobe Journey Optimizer を使用すると、1 つのアプリケーションで
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021年10月 | [データエンジニア向け [!DNL Journey Optimizer] データの設定と管理](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2&amp;lang=ja) | コース | Journey Optimizer でのジャーニー管理に必要なデータの設定と管理方法について説明します。 |
-| 2021年10月 | [ジャーニー管理者およびマネージャー [!DNL Journey Optimizer] の概要](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=ja) | コース | 初めてのジャーニーを作成するために知っておくことをすべて説明します。 |
-| 2021年10月 | [ジャーニー管理者用 [!DNL Journey Optimizer] の設定](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1&amp;lang=ja) | コース | [!DNL Journey Optimizer] のアーキテクチャと統合のポイントを理解します。[!DNL Journey Optimizer] の設定方法を説明します。 |
+| 2021 年 10 月 | [データエンジニア向け [!DNL Journey Optimizer] データの設定と管理](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2&amp;lang=ja) | コース | Journey Optimizer でのジャーニー管理に必要なデータの設定と管理方法について説明します。 |
+| 2021 年 10 月 | [ジャーニー管理者およびマネージャー [!DNL Journey Optimizer] の概要](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1&amp;lang=ja) | コース | 初めてのジャーニーを作成するために知っておくことをすべて説明します。 |
+| 2021 年 10 月 | [ジャーニー管理者用 [!DNL Journey Optimizer] の設定](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1&amp;lang=ja) | コース | [!DNL Journey Optimizer] のアーキテクチャと統合のポイントを理解します。[!DNL Journey Optimizer] の設定方法を説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -412,7 +412,7 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 
 ### [!DNL Advertising Cloud] 全体の新機能 {#adcloud-all}
 
-最終更新日：**2021年10月27日（PT）**
+最終更新日：**2021 年 10 月 27 日（PT）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
@@ -422,7 +422,7 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 
 ### [!DNL Advertising Cloud DSP] の新機能  {#adcloud-dsp}
 
-最終更新日：**2021年10月27日（PT）**
+最終更新日：**2021 年 10 月 27 日（PT）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
@@ -437,11 +437,11 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 
 ### [!DNL Advertising Cloud Search] の新機能  {#adcloud-search}
 
-最終更新日：**2021年10月7日（PT）**
+最終更新日：**2021 年 10 月 7 日（PT）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL レポート]、[!UICONTROL 通知センター] | （10月9日（PT）リリース）カスタムレポートまたは予定レポートの作成が完了または失敗したときに Advertising Cloud Search から送信されるレポート関連のすべてのメール通知は、[!UICONTROL 通知センター]で処理されるようになりました。レポートについては、メール通知と web 通知がデフォルトで有効になっていますが、オプションで通知設定を変更できます。今回の変更により、<ul><li>メールの受信者は、Advertising Cloud Search に登録されている認証済みユーザーでかつ広告主のアカウントにアクセスできるユーザーに限定されます。この機能により、権限のないユーザーには機密データが送信されなくなります。</li><li>メールの形式とコンテンツでは、[!UICONTROL 通知センター]のテンプレートが使用されます。このテンプレートには、レポートの詳細が記述されており、すべてのレポート形式に対応する直接ダウンロードリンクが含まれています。</li><li>レポート通知は、[!UICONTROL 通知センター]の新しい通知タイプで、独自の通知設定を備えています。</li></ul>何らかの自動処理を使用してメール通知からレポートを取り込む場合は、フィルタリングロジックを更新して、プロセスが確実に継続されるようにしなければならないことがあります。 |
+| [!UICONTROL レポート]、[!UICONTROL 通知センター] | （10 月 9 日（PT）リリース）カスタムレポートまたは予定レポートの作成が完了または失敗したときに Advertising Cloud Search から送信されるレポート関連のすべてのメール通知は、[!UICONTROL 通知センター]で処理されるようになりました。レポートについては、メール通知と web 通知がデフォルトで有効になっていますが、オプションで通知設定を変更できます。今回の変更により、<ul><li>メールの受信者は、Advertising Cloud Search に登録されている認証済みユーザーでかつ広告主のアカウントにアクセスできるユーザーに限定されます。この機能により、権限のないユーザーには機密データが送信されなくなります。</li><li>メールの形式とコンテンツでは、[!UICONTROL 通知センター]のテンプレートが使用されます。このテンプレートには、レポートの詳細が記述されており、すべてのレポート形式に対応する直接ダウンロードリンクが含まれています。</li><li>レポート通知は、[!UICONTROL 通知センター]の新しい通知タイプで、独自の通知設定を備えています。</li></ul>何らかの自動処理を使用してメール通知からレポートを取り込む場合は、フィルタリングロジックを更新して、プロセスが確実に継続されるようにしなければならないことがあります。 |
 | 広告インサイト | ベータモードでは、追加のインサイトを利用できます。 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -454,11 +454,11 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2021年11月 | [ワークスペースの基本](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface.html?lang=ja) | ビデオ（更新） | Acrobat DC インターフェイスを使用して、一貫したワークスペースエクスペリエンスで、デスクトップ、web およびモバイルデバイス全体でファイルやツールに簡単にアクセスできるようにする方法を説明します。 |
-| 2021年11月 | [Acrobat Web でどこでも作業](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb.html?lang=ja) | ビデオ | ブラウザーの Acrobat Web ツールを使用して、どこからでもビジネスドキュメントのリクエストを処理する方法を説明します。 |
-| 2021年11月 | [Office web 版での PDF の作成](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb.html?lang=ja) | ビデオ | Microsoft® Office Web アプリ版を開いたまま PDFファイルを作成する方法を説明します。このアドオンでは、チーム向け Acrobat DC またはエンタープライズ向け Acrobat DC のサブスクリプションが必要です。 |
-| 2021年11月 | [リアルタイムでの共同作業](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html?lang=ja) | ビデオ | コメントを収集、回答に共同作業で対応、ドキュメントの進行状況を追跡するといった作業をどこにいてもリアルタイムで行うことで、プロジェクトを先に進めます。 |
-| 2021年11月 | [外出時の生産性](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=ja) | ビデオ | Acrobat Reader モバイルアプリを使用すれば、タブレットや携帯電話からより多くの適切な処理を実行できます。 |
+| 2021 年 11 月 | [ワークスペースの基本](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface.html?lang=ja) | ビデオ（更新） | Acrobat DC インターフェイスを使用して、一貫したワークスペースエクスペリエンスで、デスクトップ、web およびモバイルデバイス全体でファイルやツールに簡単にアクセスできるようにする方法を説明します。 |
+| 2021 年 11 月 | [Acrobat Web でどこでも作業](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb.html?lang=ja) | ビデオ | ブラウザーの Acrobat Web ツールを使用して、どこからでもビジネスドキュメントのリクエストを処理する方法を説明します。 |
+| 2021 年 11 月 | [Office web 版での PDF の作成](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb.html?lang=ja) | ビデオ | Microsoft® Office Web アプリ版を開いたまま PDFファイルを作成する方法を説明します。このアドオンでは、チーム向け Acrobat DC またはエンタープライズ向け Acrobat DC のサブスクリプションが必要です。 |
+| 2021 年 11 月 | [リアルタイムでの共同作業](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html?lang=ja) | ビデオ | コメントを収集、回答に共同作業で対応、ドキュメントの進行状況を追跡するといった作業をどこにいてもリアルタイムで行うことで、プロジェクトを先に進めます。 |
+| 2021 年 11 月 | [外出時の生産性](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=ja) | ビデオ | Acrobat Reader モバイルアプリを使用すれば、タブレットや携帯電話からより多くの適切な処理を実行できます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
