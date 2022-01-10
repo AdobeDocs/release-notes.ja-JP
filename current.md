@@ -6,9 +6,9 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b8afd3888f15c0b6dd63d523a5b2d78227a8a7e1
+source-git-commit: 8908cbcaf8fa0dbcc2f85cb9bbe8386dc9b68adb
 workflow-type: tm+mt
-source-wordcount: '4902'
+source-wordcount: '4903'
 ht-degree: 96%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 96%
 >
 >毎月[アドビの優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)をサブスクライブして、このページの更新に関する電子メール通知を受信します。このページはひと月にわたって保持されるので、定期的にアクセスして、アドビのエンタープライズ製品と Experience League のドキュメントが更新されていないか確認してください。
 
-リリース月：**2021 年 11 月**
+リリース月： **2021 年 11 月/12 月**
 
 最新の更新：**2022 年 1 月 4 日（PT）**
 
@@ -119,7 +119,7 @@ Experience League イベントは、アドビの製品エキスパートから�
 
 Experience Platform と[!UICONTROL モバイル SDK] に関するリリース更新情報と新しいドキュメントが含まれます。
 
-**2021 年 9 月 29 日（PT）**
+**2021 年 11 月 18 日**
 
 詳しくは、[Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)を参照してください。
 
@@ -317,7 +317,7 @@ Adobe Commerce リリースノートについては、次のリンクを参照�
 
 ## ![アイコン](/assets/target.png) [!DNL Target] {#target}
 
-最終更新日：**2021 年 10 月 20 日（PT）**
+最終更新日：**2022 年 1 月 6 日**
 
 最新のリリース情報については、[[!DNL Target] リリースノート](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ja)を参照してください。
 
