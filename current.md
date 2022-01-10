@@ -6,10 +6,10 @@ last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 81cf97e0a4f0280549c23a68b45ff3a7088dd644
+source-git-commit: b8afd3888f15c0b6dd63d523a5b2d78227a8a7e1
 workflow-type: tm+mt
 source-wordcount: '4902'
-ht-degree: 97%
+ht-degree: 96%
 
 ---
 
@@ -78,8 +78,8 @@ Experience League イベントは、アドビの製品エキスパートから�
 
 | イベント名 | 日時 | アプリケーション | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Adobe Target - セットアップと管理 UI、A4T 統合、AEM 統合、一般 UI  | 12 月 8 日 水曜日 午前 8:00（PT） | Adobe Target | フォーラム Q＆A | Adobe Target コミュニティで、Adobe Target のシニア製品マネージャーである Robert Calangiu（@Robert_Calangiu）が参加し、Adobe Target の専門知識に関する質問について直接お答えします。<br>[詳細](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697?profile.language=ja) |
-| Adobe Campaign - 他のアプリケーションを介したデータのインポート | 2021 年 12 月 2 日 木曜日 午前 8:00（PT） | Adobe Campaign | フォーラム Q＆A | 他のアプリケーションを介したデータのインポート - シニアテクニカルコンサルタントの Zariely Garcia が、テクニカルワークフローを使用して、SFTP/API を介してデータをインポートするためのベストプラクティスを説明します。 <br>[詳細](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
+| Adobe Target — セットアップと管理 UI、A4T 統合、AEM統合、一般 UI | 12 月 8 日（水）@ 8 a.m. PT | Adobe Target | フォーラム Q＆A | Adobe Target コミュニティで、Adobe Target のシニア製品マネージャーである Robert Calangiu（@Robert_Calangiu）が参加し、Adobe Target の専門知識に関する質問について直接お答えします。<br>[詳細](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697?profile.language=ja) |
+| Adobe Campaign - 他のアプリケーションを介したデータのインポート | 2021 年 12 月 2 日 木曜日 午前 8:00（PT） | Adobe Campaign | フォーラム Q＆A | 他のアプリケーションを使用したデータのインポート — シニアテクニカルコンサルタントの Zariely Garcia とのテクニカルワークフローを使用して、SFTP/API を使用してデータをインポートするためのベストプラクティス。 <br>[詳細](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&amp;wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9). |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -199,7 +199,7 @@ AN-270649
 | ----------- | ---------- | ---------- |
 | Reports &amp; Analytics の EOL | 2022 年 1 月 4 日（PT） | 有効 **2023 年 12 月 31 日** Adobeは、Reports &amp; Analytics とそれに伴うレポートおよび機能を廃止する予定です。 Reports &amp; Analytics を強化するレポート、ビジュアライゼーション、基盤となる技術は、Adobeの技術標準を満たさなくなりました。 Reports &amp; Analytics のほとんどの機能は、 [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=ja). 2015 年のAnalysis Workspaceのリリース以降、Reports &amp; Analytics の機能はAnalysis Workspaceに移行され、ワークフローパリティのしきい値に達しました。 [この通知](https://spark.adobe.com/page/6WnF8JK6IRDhf) では、提供終了プロセスについて説明しています。 |
 | 「グローバル + 中国」RDC タイプ | 2021 年 11 月 22 日（PT） | 「グローバル + 中国」は、[!UICONTROL 中国のパフォーマンス最適化アドオンパッケージ]を使用して、グローバルな顧客のトラフィックのルーティングを簡素化する新しい地域データ収集（RDC）タイプです。以前は、データを中国の収集エンドポイントにルーティングするか、グローバルな収集エンドポイントの 1 つにルーティングするかを決定する必要がありました。これで、この RDC **タイプ**&#x200B;を選択して、アドビがユーザーの位置情報に基づいて最適な収集エンドポイントを決定できるようになります。 |
-| 3 つの Analytics API サービスの提供終了 | 2021 年 09 月 16 日（PT） | オン **2021 年 10 月 21 日**：以下の Analytics レガシー API サービスは、提供終了日に達し、シャットダウンされました。 これらのサービスを使用して現在構築されている統合は、その日以降機能しなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>アドビでは、お客様のご質問に対する回答や進め方に関するガイダンスを提供するために、[従来の API の EOL（サポート終了）に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を用意しています。これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe I/O](https://developer.adobe.com/console) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API のどちらにアクセスする場合にも使用できます。 |
+| 3 つの Analytics API サービスの提供終了 | 2021 年 09 月 16 日（PT） | オン **2021 年 10 月 21 日**：以下の Analytics レガシー API サービスは、提供終了日に達し、シャットダウンされました。 これらのサービスを使用して現在構築されている統合は、その日以降機能しなくなります。<ul><li>1.3 Analytics API</li><li>1.4 SOAP Analytics API</li><li>従来の OAuth 認証（OAuth および JWT）</li></ul>Adobeが [従来の API EOL に関する FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) を使用して、ご質問に回答し、進め方に関するガイダンスを提供できます。 これらのサービスを使用する API 統合は、[1.4 Analytics REST API](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) または [2.0 Analytics API](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email) に移行できます。従来の OAuth アカウントは、[Adobe I/O](https://developer.adobe.com/console) Analytics 統合アカウントに移行できます。このアカウントは、1.4 Analytics API と 2.0 Analytics API のどちらにアクセスする場合にも使用できます。 |
 | データソースでのフル処理のサポート終了 | 2021 年 10 月 18 日（PT） | **2022 年 1 月 31 日（PT）**、アドビはフル処理のサポートを終了します。これにより、ユーザーはオフラインのヒットデータを Analytics に取り込めるようになります。この機能は、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を介して利用できます。[詳細情報](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=ja ) |
 
 {style=&quot;table-layout:auto&quot;}
@@ -428,11 +428,11 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| カスタムレポート | カスタムレポート用に、[!DNL Amazon S3] および *[!DNL report destinations]* と呼ばれる様々なタイプの FTP 配信場所を作成および管理できるようになりました。レポートの宛先を設定したら、新しいカスタムレポートをそれぞれ 1 つ以上の宛先タイプの場所に配信したり、電子メールの受信者に配信したりするように設定できます。[!DNL Amazon S3] および FTP 資格情報を更新しても、レポートの配信が中断されることはありません。<br><br>既存のレポートは、指定した電子メール受信者に引き続き送信されます。別のレポートの宛先への配信を設定するには、新しい宛先で新しいレポートを作成します。 |
+| カスタムレポート | カスタムレポート用に、[!DNL Amazon S3] および *[!DNL report destinations]* と呼ばれる様々なタイプの FTP 配信場所を作成および管理できるようになりました。レポートの宛先を設定したら、新しいカスタムレポートをそれぞれ 1 つ以上の宛先タイプの場所に配信したり、電子メールの受信者に配信したりするように設定できます。[!DNL Amazon S3] および FTP 資格情報を更新しても、レポートの配信が中断されることはありません。<br>既存のレポートは、指定した電子メール受信者に引き続き送信されます。別のレポートの宛先への配信を設定するには、新しい宛先で新しいレポートを作成します。 |
 | [!UICONTROL パッケージ]、[!UICONTROL プレースメント]、および [!UICONTROL 広告]ビュー | 1 日分のデータを表示する場合、トレンドグラフに時間別データが含まれるようになりました。任意の時点にカーソルを置くと、その時間のデータが表示されます。 |
 | [!UICONTROL プレースメント] | プレースメント[!UICONTROL インスペクター]に「[!UICONTROL 在庫]」タブが含まれるようになりました。このタブには、プレースメントのすべての取引とそれに関連する指標が表示されます。この情報を使用すると、カスタムレポートを生成せずに、すばやく調整を行ったり、問題をトラブルシューティングしたりできます。 |
 | [!UICONTROL 広告] | （広告に Clearcastclock 番号を含める権限を持つユーザー）別の広告に添付されている時計番号を使用しても、DSP でエラーが表示されなくなりました。**注意：**&#x200B;ベストプラクティスは、各ビデオ広告に一意の時計番号を使用することです。そうしないと、出版社はすべての広告を承認しません。 |
-| [!UICONTROL 取引 ID] | [!UICONTROL 取引 ID] 設定およびユーザーインターフェイスのその他の場所は、次の [!DNL Magnite] SSP<br> の新しいブランディングを反映しています。<ul><li>SSP「[!DNL Tremor]」（[!DNL Telaria]）は「[!DNL Magnite CTV]」になりました。</li><li>今後数週間で、「[!DNL Rubicon]」は「[!DNL Magnite DV+]」に変更されます。[!DNL DV+] はディスプレイ、ビデオ、およびオーディオなどのその他の形式を表します。</li></ul> |
+| [!UICONTROL 取引 ID] | [!UICONTROL 取引 ID] 設定およびユーザーインターフェイスのその他の場所は、次の [!DNL Magnite] SSP の新しいブランディングを反映しています。<ul><li>SSP「[!DNL Tremor]」（[!DNL Telaria]）は「[!DNL Magnite CTV]」になりました。</li><li>今後数週間で、「[!DNL Rubicon]」は「[!DNL Magnite DV+]」に変更されます。[!DNL DV+] はディスプレイ、ビデオ、およびオーディオなどのその他の形式を表します。</li></ul> |
 | [!DNL Freewheel] プログラムで保証された取引 | [!DNL Freewheel] プログラムで保証された取引の広告のステータスを[!UICONTROL 広告]表示から確認できるようになりました。以前は、[!UICONTROL 取引]表示からのみステータスを確認できました。 |
 
 {style=&quot;table-layout:auto&quot;}
