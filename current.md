@@ -1,6 +1,6 @@
 ---
 title: 最新のリリースノート
-description: ' [!DNL Experience Cloud]  製品およびサービスに関する最新のリリースノート、新機能、新規ドキュメントについて説明します。に関する新しいヘルプおよびチュートリアルを見つける [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise]、および [!DNL Document Cloud].'
+description: ' [!DNL Experience Cloud]  製品およびサービスに関する最新のリリースノート、新機能、新規ドキュメントについて説明します。 [!DNL Experience Cloud]、 [!DNL Creative Cloud for enterprise]、 [!DNL Document Cloud] に関する新しいヘルプとチュートリアルを検索します。'
 doc-type: release notes
 last-update: November 2021
 author: mfrei
@@ -240,7 +240,7 @@ Audience Manager の修正点と改善点。
 
 ### リリースの概要ビデオ
 
-* [2021 年 12 月リリースの概要](https://video.tv.adobe.com/v/339278) 新機能のビデオ。
+* 新機能の [2021年12月リリースの概要](https://video.tv.adobe.com/v/339278)ビデオ。
 * 新機能の [2021 年 10 月リリースの概要](https://video.tv.adobe.com/v/338253)ビデオ。
 * 新機能の [2021 年 9 月リリースの概要](https://video.tv.adobe.com/v/337381)ビデオ。
 
