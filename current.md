@@ -23,7 +23,7 @@ ht-degree: 40%
 >
 >このページの更新に関する毎月の電子メール通知を受け取るには、 [Adobe優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html). 頻繁にもう一度確認して、Experience Leagueで起こっていることの上に留まります。
 
-**2022 年 1 月**
+**2022年1月**
 
 最終更新日：**2022 年 1 月 14 日（PT）**
 
@@ -207,7 +207,7 @@ AppMeasurement リリース（バージョン 2.22.4）の最新の更新につ�
 | 2022 年 1 月 | [Adobe Analyticsの顧客セグメント化戦略とベストプラクティス](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/customer-segmentation-strategies.html?lang=en) | ビデオ | 木曜日に、顧客セグメントの基本、戦略、ベストプラクティスに焦点を当てた Analytics の Analytics インサイダーに参加します。 |
 | 2022 年 1 月 | [有料検索検出の設定](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configure-paid-search-detection.html#) | ビデオ | 推奨事項を含め、Adobe AnalyticsAdmin Consoleの有料検索検知の設定に関する手順を説明します。 |
 | 2022 年 1 月 | [リスト変数の設定](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-list-variables.html?lang=en) | ビデオ | Adobe Analyticsでリスト変数を設定して使用する方法と理由について説明します。 リスト変数を使用すると、1 つのeVarに複数の値を入力できます。 |
-| 2022 年 1 月 | [トラフィック変数 (prop) の設定](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-traffic-variables-props.html?lang=en) | ビデオ | トラフィック変数 ( _prop_、AnalyticsAdmin Console。 |
+| 2022 年 1 月 | [トラフィック変数（prop）の設定](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-traffic-variables-props.html?lang=en) | ビデオ | トラフィック変数 ( _prop_、AnalyticsAdmin Console。 |
 | 2022 年 1 月 | [処理ルールを使用した受信データの操作](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.html?lang=en) | ビデオ | Adobe Analyticsの処理ルールと、それらを使用できる要素について説明します。 処理ルールの使用に関するヒント、例、警告をいくつか取得します。 |
 | 2022 年 1 月 | [Analysis Workspace でのディメンションとしてのセグメントの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=ja) | 更新されたビデオ | Analysis Workspaceでディメンションとして使用して、セグメントを比較および視覚化する方法を説明します。 |
 | 2022 年 1 月 | [Adobe Analyticsでのセグメントの管理と共有](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segment-management-and-sharing.html?lang=en) | 更新されたビデオ | この更新されたビデオでは、セグメントの共有と管理に関するヒントを紹介します。 |
