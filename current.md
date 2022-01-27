@@ -6,10 +6,10 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: a5fd2d7d8668a3b75718d24a8af14498e2192a1a
+source-git-commit: 3ecd5dfeeee5692b7fb5c5fa4dcac497b3c49ce0
 workflow-type: tm+mt
-source-wordcount: '6575'
-ht-degree: 40%
+source-wordcount: '6573'
+ht-degree: 41%
 
 ---
 
@@ -25,12 +25,12 @@ ht-degree: 40%
 
 **2022年1月**
 
-最終更新日：**2022 年 1 月 14 日（PT）**
+最終更新日：**2022 年 1 月 26 日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; 管理](#ecloud)
 * [アドビ [!UICONTROL システムステータス]](#status)
-* [[!DNL Adobe Experience Platform]](#platform)
+* [[!DNL Adobe Experience Platform]](#platform) (更新日：**2022 年 1 月 26 日（PT）**)
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
@@ -111,10 +111,9 @@ Experience League イベントは、アドビの製品エキスパートから�
 
 リリースの更新情報、およびExperience Platformと [!UICONTROL モバイル SDK]:
 
-* 次回の予定リリース： **2022 年 1 月 27 日**
-* 最新リリース： **2021 年 11 月 18 日**
+* リリース： **2022 年 1 月 27 日**
 
-詳しくは、 [Experience Platformリリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja) 現在の状態を保つ
+詳しくは、 [Experience Platformリリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja) 最新のを読む
 
 ### 新しいExperience Platformチュートリアルとコース {#tutorials-platform}
 
@@ -186,7 +185,7 @@ AN-253294;AN-254976;AN-255377;AN-255561;AN-258550;AN-259336;AN-263935;AN-265094;
 | ----------- | ---------- | ---------- |
 | 従来の Analytics 許可リスト OAuth/JWT 統合の EOL 拡張機能の有効期限 | 2022 年 1 月 14 日（PT） | オン **2022 年 5 月 26 日**、 [Analytics 1.3 API、1.4 SOAP API およびレガシー Analytics OAuth/JWT EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md) 許可リスト拡張機能は有効期限が切れます。 従来の [!DNL Adobe Analytics] OAuth/JWT 資格情報により、クライアント統合をに移行する追加の時間が [Adobe IMS資格情報](https://developer.adobe.com/console). この有効期限はに影響します（ただし、に限定されません） [!DNL Adobe Analytics Livestream] および [!DNL Adobe Campaign] 必要な IMS 移行を完了していないお客様。 現在レガシーを使用しているお客様 [!DNL Analytics] Auth 拡張機能を介した OAuth/JWT 資格情報許可リストで、2022 年 5 月 25 日までに IMS 資格情報への移行を完了していない場合、Adobe サービスへのアクセス権が失われます。 Livestream のお客様は、これらを参照できます [説明](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/live-stream-api/getting_started.md) クライアントアプリケーションを IMS 資格情報に移行する際に使用されます。 [!DNL Campaign] の最新バージョンへのアップグレードについては、Adobeアカウントチームに問い合わせることができます。 [!DNL Campaign]. |
 | のサポート終了 [!DNL Reports & Analytics] | 2022 年 1 月 4 日（PT） | **2023 年 12 月 31 日**&#x200B;をもって、アドビは およびそれに付属するレポートと機能を廃止する予定です。[!DNL Reports & Analytics]以下を実現するレポート、ビジュアライゼーションおよび基盤となるテクノロジー [!DNL Reports & Analytics] もはやAdobeの技術基準を満たさない 最も多い [!DNL Reports & Analytics] 機能は、 [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=ja). 2015 年のAnalysis Workspaceリリース以降、 [!DNL Reports & Analytics] の機能と機能がAnalysis Workspaceに移行され、ワークフローパリティのしきい値に達しました。 [この通知](https://spark.adobe.com/page/6WnF8JK6IRDhf/)では、提供終了プロセスについて説明しています。 |
-| Secure File Transfer Protocol(SFTP) サービスのアップグレード | 2022 年 1 月 13 日（PT） | オン **2022 年 5 月 3 日**, [!DNL Adobe Analytics] は、ファイル転送のセキュリティを強化するために、Secure File Transfer Protocol(SFTP) サービスをアップグレードします。 この変更により、一部の SFTP クライアント設定はサポートされなくなります。 また、次の方法で利用できる接続オプションもいくつか追加します。 **2022 年 3 月 2 日**. これは、SFTP を使用してAdobe Analyticsに送信された、またはから取得されたデータにのみ影響します。 FTP プロトコルに影響はありません。 サービスの中断を避けるために、SFTP クライアント（コード、ツール、サービス）が、詳細に説明された変更に従っていることを確認してください [ここ](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/sftp-upgrade.html). |
+| Secure File Transfer Protocol(SFTP) サービスのアップグレード | 2022 年 1 月 13 日（PT） | オン **2022 年 5 月 3 日**, [!DNL Adobe Analytics] は、ファイル転送のセキュリティを強化するために、Secure File Transfer Protocol(SFTP) サービスをアップグレードします。 この変更により、一部の SFTP クライアント設定はサポートされなくなります。また、**2022年3月1日（PT）** までに利用可能となる接続オプションをいくつか追加します。これは、SFTP を使用して Adobe Analytics に送信した、または Adobe Analytics から取得したデータにのみ影響します。FTP プロトコルは影響を受けません。サービスの中断を避けるために、SFTP クライアント（コード、ツール、サービス）が、詳細に説明された変更に従っていることを確認してください [ここ](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/sftp-upgrade.html). |
 | _グローバル+中国_ RDC タイプ | 2021 年 11 月 22 日（PT） | _グローバル+中国_ は、 [!UICONTROL 中国のパフォーマンス最適化アドオンパッケージ]. 以前は、データを中国の収集エンドポイントにルーティングするか、グローバルな収集エンドポイントの 1 つにルーティングするかを決定する必要がありました。これで、この RDC *タイプ*&#x200B;を選択して、アドビがユーザーの位置情報に基づいて最適な収集エンドポイントを決定できるようになります。 |
 | データソースでのフル処理のサポート終了 | 2021 年 10 月 18 日（PT） | **2022 年 1 月 31 日（PT）**、アドビはフル処理のサポートを終了します。これにより、ユーザーはオフラインのヒットデータを Analytics に取り込めるようになります。この機能は、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を介して利用できます。[詳細情報](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=ja ) |
 
