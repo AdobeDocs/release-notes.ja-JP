@@ -6,9 +6,9 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3ecd5dfeeee5692b7fb5c5fa4dcac497b3c49ce0
+source-git-commit: e50b1d99621d2a32597e7a28c1602decef814ead
 workflow-type: tm+mt
-source-wordcount: '6573'
+source-wordcount: '6590'
 ht-degree: 98%
 
 ---
@@ -135,7 +135,6 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 リリース日：**2022年1月19日（PT）**
 
 * [Adobe Analytics の新機能](#aa-features)
-* [Customer Journey Analytics の新機能](#cust-journey)
 * [Adobe Analytics の修正点](#aa-fixes)
 * [Analytics 管理者向けの重要な注意事項](#aa-notices)
 * [Analytics コースとチュートリアル](#tutorials-analytics)
@@ -148,18 +147,6 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 | N/A |  | 詳しくは、[一般提供](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=ja)を参照してください。 |
 
 {style=&quot;table-layout:auto&quot;}
-
-### Customer Journey Analytics の新機能 {#cust-journey}
-
-| 機能 | 説明 | ターゲット日 |
-| ----------- | ---------- | ----- |
-| ディメンションのバインドと指標のバインドの「[!UICONTROL 永続性]」オプション | データビューを作成または編集する際に、ディメンションの永続性を別のディメンションまたは指標にバインドできます。 この概念は、Reports &amp; Analytics での _マーチャンダイジング_ として知られ、CJA でサポートされるようになりました。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html?lang=ja#binding-dimension) | 2022年1月19日（PT） |
-| [!UICONTROL 最初の事例] および [!UICONTROL 最後の事例] 配分モデル | これら 2 つの新しい配分モデルでは、指定した永続性の範囲内のディメンションの最初または最後に観測された値（ルックバックを含むセッション、ユーザーまたはカスタム期間）を取得します。 次に、指定した範囲内のすべてのイベントに配分モデルを適用します。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html?lang=ja#allocation-settings) | 2022年1月19日（PT） |
-| ディメンションとしての [!UICONTROL PersonID] および [!UICONTROL PersonID 名前空間] | `personID`（または `customerID`、または接続内のデータセットの結合に使用する ID など）をデータビューのディメンションとして公開します。この機能強化により、`personID` を接続から取り込み、データビューのディメンションとして含めやすくなりました。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=ja#optional-standard-components) | 2022年1月19日（PT） |
-
-{style=&quot;table-layout:auto&quot;}
-
-リリース情報については、[一般提供](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=ja) を参照してください。
 
 ### Adobe Analytics と Customer Journey Analytics における修正点 {#aa-fixes}
 
@@ -175,7 +162,7 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 * 夏時間により、スケジュールされたレポートが早く送信される問題を修正しました。（AN-276410、AN-276305）
 * ワークスペースで `.csv` ファイルにプロジェクトをダウンロードできない問題を修正しました。（AN-275834）
 
-#### Adobe Analytics および CJA におけるその他の修正点
+#### Adobe Analytics におけるその他の修正点
 
 AN-253294、AN-254976、AN-255377、AN-255561、AN-258550、AN-259336、AN-263935、AN-265094、AN-269441、AN-269486、AN-269855、AN-271166、AN-271588、AN-272088、AN-272249、AN-272859、AN-272873、AN-272885、AN-273229、AN-273913、AN-274237、AN-274472、AN-274491、AN-274619、AN-274766、AN-275248、AN-275259、AN-275271、AN-275315、AN-275388、AN-275418、AN-275597、AN-275643、AN-275650、AN-275651、AN-275675、AN-275682、AN-275704、AN-275711、AN-275796、AN-275834、AN-275923、AN-275941、AN-276044、AN-276125、AN-276157、AN-276397、AN-276597、AN-276789、AN-276834、AN-276861、AN-276870、AN-276963、AN-276975、AN-277000、AN-277044、AN-277093、AN-277200、AN-277215、AN-277271、AN-277281、AN-277362、AN-277419、AN-277492、AN-277498、AN-277533、AN-277619、AN-277675、AN-277681、AN-277767、AN-277805、AN-277810、AN-277818、AN-277875、AN-277933、AN-277988、AN-278105、AN-278115、AN-278122、AN-278192、AN-278407、AN-278437、AN-278559、AN-278604、AN-278610、AN-278709、AN-278835、AN-278849、AN-278881、 AN-279067、AN-279103、AN-279111、AN-279219、AN-279237、AN-279312
 
@@ -183,8 +170,8 @@ AN-253294、AN-254976、AN-255377、AN-255561、AN-258550、AN-259336、AN-26393
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
-| 従来の Analytics OAuth／JWT 統合の許可リスト EOL 拡張機能の有効期限 | 2022年1月14日（PT） | オン **2022 年 5 月 26 日**、 [Analytics 1.3 API、1.4 SOAP API およびレガシー Analytics OAuth/JWT EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md) 許可リスト拡張機能は有効期限が切れます。 従来の [!DNL Adobe Analytics] OAuth/JWT 資格情報により、クライアント統合をに移行する追加の時間が [Adobe IMS資格情報](https://developer.adobe.com/console). この有効期限は、必要な IMS 移行を完了していない [!DNL Adobe Analytics Livestream] および [!DNL Adobe Campaign] のお客様に影響します（ただし、これに限定されるものではありません）。現在、許可リスト拡張機能により従来の [!DNL Analytics] OAuth／JWT 認証情報を使用しているお客様は、2022年5月25日（PT）までに IMS 認証情報への移行が完了しない場合、アドビサービスへのアクセスができなくなる可能性があります。Livestream のお客様は、クライアントアプリケーションを IMS 認証情報に移行する関する以下の [説明](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/live-stream-api/getting_started.md) をご覧いただけます。[!DNL Campaign] のお客様は、[!DNL Campaign] の最新バージョンへのアップグレードについて、アドビアカウントチームにお問い合わせください。 |
-| のサポート終了 [!DNL Reports & Analytics] | 2022 年 1 月 4 日（PT） | **2023 年 12 月 31 日**&#x200B;をもって、アドビは およびそれに付属するレポートと機能を廃止する予定です。[!DNL Reports & Analytics]以下を実現するレポート、ビジュアライゼーションおよび基盤となるテクノロジー [!DNL Reports & Analytics] もはやAdobeの技術基準を満たさない 最も多い [!DNL Reports & Analytics] 機能は、 [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=ja). 2015 年のAnalysis Workspaceリリース以降、 [!DNL Reports & Analytics] の機能と機能がAnalysis Workspaceに移行され、ワークフローパリティのしきい値に達しました。 [この通知](https://spark.adobe.com/page/6WnF8JK6IRDhf/)では、提供終了プロセスについて説明しています。 |
+| 従来の Analytics OAuth／JWT 統合の許可リスト EOL 拡張機能の有効期限 | 2022年1月14日（PT） | オン **2022 年 5 月 26 日**、 [Analytics 1.3 API、1.4 SOAP API およびレガシー Analytics OAuth/JWT EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md) 許可リスト拡張機能は有効期限が切れます。 It was offered to provide customers using legacy [!DNL Adobe Analytics] OAuth/JWT credentials additional time to migrate their client integrations to [Adobe IMS credentials](https://developer.adobe.com/console). この有効期限は、必要な IMS 移行を完了していない [!DNL Adobe Analytics Livestream] および [!DNL Adobe Campaign] のお客様に影響します（ただし、これに限定されるものではありません）。現在、許可リスト拡張機能により従来の [!DNL Analytics] OAuth／JWT 認証情報を使用しているお客様は、2022年5月25日（PT）までに IMS 認証情報への移行が完了しない場合、アドビサービスへのアクセスができなくなる可能性があります。Livestream のお客様は、クライアントアプリケーションを IMS 認証情報に移行する関する以下の [説明](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/live-stream-api/getting_started.md) をご覧いただけます。[!DNL Campaign] のお客様は、[!DNL Campaign] の最新バージョンへのアップグレードについて、アドビアカウントチームにお問い合わせください。 |
+| のサポート終了 [!DNL Reports & Analytics] | 2022 年 1 月 4 日（PT） | **2023 年 12 月 31 日**&#x200B;をもって、アドビは およびそれに付属するレポートと機能を廃止する予定です。[!DNL Reports & Analytics]以下を実現するレポート、ビジュアライゼーションおよび基盤となるテクノロジー [!DNL Reports & Analytics] もはやAdobeの技術基準を満たさない 最も多い [!DNL Reports & Analytics] 機能は、 [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=ja). Since the release of Analysis Workspace in 2015, [!DNL Reports & Analytics] functionality and capabilities have been moved to Analysis Workspace and a threshold of workflow parity has been reached. [この通知](https://spark.adobe.com/page/6WnF8JK6IRDhf/)では、提供終了プロセスについて説明しています。 |
 | セキュアファイル転送プロトコル（SFTP）サービスのアップグレード | 2022年1月13日（PT） | **2022年5月2日（PT）**、 はファイル転送のセキュリティを強化するために、Secure File Transfer Protocol（SFTP）サービスをアップグレードします。 [!DNL Adobe Analytics]この変更により、一部の SFTP クライアント設定はサポートされなくなります。 また、**2022年3月1日（PT）** までには、利用できる接続オプションもいくつか追加される予定です。 これは、SFTP を使用して Adobe Analytics に送信された、または Adobe Analytics から取得されたデータにのみ影響します。 FTP プロトコルに影響はありません。 サービスの中断を避けるために、お使いの SFTP クライアント（コード、ツール、サービス）が、[ここ](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/sftp-upgrade.html?lang=ja) で詳細に説明された変更に従っていることを確認してください。 |
 | _グローバル + 中国_ RDC タイプ | 2021年11月22日（PT） | _グローバル + 中国_ は、 [!UICONTROL 中国のパフォーマンス最適化アドオンパッケージ] を使用して、グローバルな顧客のトラフィックのルーティングを簡素化する新しい地域データ収集（RDC）タイプです。以前は、データを中国の収集エンドポイントにルーティングするか、グローバルな収集エンドポイントの 1 つにルーティングするかを決定する必要がありました。これで、この RDC *タイプ*&#x200B;を選択して、アドビがユーザーの位置情報に基づいて最適な収集エンドポイントを決定できるようになります。 |
 | データソースでのフル処理のサポート終了 | 2021 年 10 月 18 日（PT） | **2022 年 1 月 31 日（PT）**、アドビはフル処理のサポートを終了します。これにより、ユーザーはオフラインのヒットデータを Analytics に取り込めるようになります。この機能は、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を介して利用できます。[詳細情報](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=ja ) |
@@ -218,6 +205,28 @@ AppMeasurement リリース（バージョン 2.22.4）の最新のアップデ�
 ### Analytics ヘルプリソース
 
 * [Adobe Analytics 製品ドキュメントとチュートリアル](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)
+
+## [!DNL Customer Journey Analytics] {#cja}
+
+* [Customer Journey Analytics の新機能](#cust-journey)
+
+リリース日：**2022年1月19日（PT）**
+
+### Customer Journey Analytics の新機能 {#cust-journey}
+
+| 機能 | 説明 | ターゲット日 |
+| ----------- | ---------- | ----- |
+| ディメンションのバインドと指標のバインドの「[!UICONTROL 永続性]」オプション | データビューを作成または編集する際に、ディメンションの永続性を別のディメンションまたは指標にバインドできます。 この概念は、Reports &amp; Analytics での _マーチャンダイジング_ として知られ、CJA でサポートされるようになりました。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html?lang=ja#binding-dimension) | 2022年1月19日（PT） |
+| [!UICONTROL 最初の事例] および [!UICONTROL 最後の事例] 配分モデル | これら 2 つの新しい配分モデルでは、指定した永続性の範囲内のディメンションの最初または最後に観測された値（ルックバックを含むセッション、ユーザーまたはカスタム期間）を取得します。 次に、指定した範囲内のすべてのイベントに配分モデルを適用します。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html?lang=ja#allocation-settings) | 2022年1月19日（PT） |
+| ディメンションとしての [!UICONTROL PersonID] および [!UICONTROL PersonID 名前空間] | `personID`（または `customerID`、または接続内のデータセットの結合に使用する ID など）をデータビューのディメンションとして公開します。この機能強化により、`personID` を接続から取り込み、データビューのディメンションとして含めやすくなりました。[詳細情報](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=ja#optional-standard-components) | 2022年1月19日（PT） |
+
+{style=&quot;table-layout:auto&quot;}
+
+リリース情報については、[一般提供](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=ja) を参照してください。
+
+### Analytics ヘルプリソース
+
+* [Customer Journey Analytics の製品分析](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=en)
 
 ## ![アイコン](/assets/audience-manager.png) Audience Manager {#aam}
 
@@ -320,14 +329,14 @@ Audience Manager の修正点と改善点。
 | 2022年1月 | [Adobe Developer App Builder を使用した Adobe Experience Manager as a Cloud Service の拡張](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/configuring-and-extending/app-builder/extending-aem-with-app-builder.html?lang=ja) | ビデオ（複数） | 新しい Adobe Developer App Builder は、AEM as a Cloud Service の機能を開発者が容易に拡張できる拡張フレームワークを提供します。 | AEM as a Cloud Service |
 | 2022年1月 | [AEM as a Cloud Service のための AEM ヘッドレスクイックセットアップ](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/quick-setup/cloud-service.html?lang=ja) | ビデオ | AEM ヘッドレスのクイックセットアップをご覧ください。WKND Site サンプルプロジェクトのコンテンツと AEM ヘッドレス GraphQL API を介してコンテンツを利用するサンプル React アプリ（SPA）を使用して、AEM ヘッドレスを実際に体験できます。 | AEMas a Cloud Service |
 | 2022年1月 | [高度なネットワーク機能](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/networking/advanced-networking.html?lang=ja) | ビデオ（複数） | AEM as a Cloud Service が、外部サービスとの接続を管理するための 3 つのオプション、柔軟なポート出力、専用出力 IP アドレスおよび仮想プライベートネットワークを提供する方法を説明します。AEM as a Cloud Service の Cloud Manager プログラムおよび環境は、一度に 1 種類の高度なネットワーク設定しか使用できません。 | AEMas a Cloud Service |
-| 2022年1月 | [関連する AEM コンテンツを使用して製品データを強化](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/authoring/enrich-product-associated-content.html?lang=ja) | ビデオ | マーケターが Adobe Experience Manager の関連コンテンツを使用して製品データを強化する仕組みについて説明します。AEM のアセット、 [!UICONTROL エクスペリエンスフラグメント]、 [!UICONTROL コンテンツフラグメント] などのコンテンツは、コマース製品に関連付けることができます。 | AEMas a Cloud Service |
+| 2022年1月 | [関連する AEM コンテンツを使用して製品データを強化](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/authoring/enrich-product-associated-content.html?lang=ja) | ビデオ | マーケターが Adobe Experience Manager の関連コンテンツを使用して製品データを強化する仕組みについて説明します。AEM のアセット、 [!UICONTROL エクスペリエンスフラグメント]、 [!UICONTROL コンテンツフラグメント] などのコンテンツは、コマース製品に関連付けることができます。 | AEM as a Cloud Service |
 | 2022年1月 | [メールサービス](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/networking/examples/email-service.html?lang=ja) | ビデオ | AEM の `DefaultMailService` を高度なネットワーク出力ポートを使用するように設定して、AEM as a Cloud Service からメールを送信します。 | AEMas a Cloud Service |
 | 2022年1月 | [Workfront 拡張コネクタの基本](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html?lang=ja) | ビデオ | Adobe Workfront および Experience Manager Assets 拡張コネクタの基本について説明します。また、 [プロジェクトフォルダー](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/project-folders.html?lang=ja) についても説明します。 | AEM Assets サービスと Workfront |
 | 2022年1月 | [AEM Sites を使い始める - クイックサイトの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/site-template/overview.html?lang=ja) | ビデオ（複数） | クイックサイト作成と事前定義済みのサイトテンプレートを使用し、ローコードのアプローチを使って Adobe Experience Manager で最初のサイトを作成する方法を説明します。 | AEM Sites |
 | 2022年1月 | [非標準ポートでの HTTP/HTTPS 接続（柔軟なポート出力用）](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/networking/examples/http-on-non-standard-ports-flexible-port-egress.html?lang=ja) | ビデオ（複数） | AEM as a Cloud Service で非標準ポート（80／443 以外）の HTTP／HTTPS 接続のプロキシを無効化する理由を説明します。 | AEMas a Cloud Service |
 | 2022年1月 | [アクティブなタブと完了したタブを示すアイコンの追加](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/ui-tips-and-tricks/active-complete.html?lang=ja) | ビデオ | 左側のタブナビゲーションを備えたアダプティブフォームがある場合に、タブのステータスを示すアイコンを表示する方法について説明します。 | AEM Forms |
 | 2022年1月 | [Adobe アセットリンクのセットアップ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html?lang=ja) | ビデオ | コンテンツ制作プロセスにおいて、クリエイティブチームとマーケティングチームはアセットでの共同作業が容易になり、ただちに組織に影響を与えます。 | AEM Assets |
-| 2022年1月 | [AEM Commerce as a Cloud Service を使い始める](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html?lang=ja) | ビデオ | マーケターが Adobe Experience Manager の関連コンテンツを使用して製品データを強化する仕組みについて説明します。AEM のアセット、エクスペリエンスフラグメントやコンテンツフラグメントなどのコンテンツを、コマース製品に関連付けることができます。 | AEMas a Cloud Service |
+| 2022年1月 | [AEM Commerce as a Cloud Service を使い始める](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html?lang=ja) | ビデオ | マーケターが Adobe Experience Manager の関連コンテンツを使用して製品データを強化する仕組みについて説明します。AEM のアセット、エクスペリエンスフラグメントやコンテンツフラグメントなどのコンテンツを、コマース製品に関連付けることができます。 | AEM as a Cloud Service |
 | 2022年1月 | [AEM Sites を使い始める - クイックサイトの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/site-template/overview.html?lang=ja) | ビデオ | クイックサイト作成と事前定義済みのサイトテンプレートを使用し、ローコードのアプローチを使って Adobe Experience Manager で最初のサイトを作成する方法を説明します。 | AEM Sites |
 | 2022年1月 | [関連する AEM コンテンツを使用して製品データを強化](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/authoring/enrich-product-associated-content.html?lang=ja) | ビデオ | マーケターが Adobe Experience Manager の関連コンテンツを使用して製品データを強化する仕組みについて説明します。AEM のアセット、エクスペリエンスフラグメントやコンテンツフラグメントなどのコンテンツを、コマース製品に関連付けることができます。 | AEMas a Cloud Service |
 
