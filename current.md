@@ -9,7 +9,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: e50b1d99621d2a32597e7a28c1602decef814ead
 workflow-type: tm+mt
 source-wordcount: '6590'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -25,12 +25,12 @@ ht-degree: 98%
 
 **2022年1月**
 
-最終更新日：**2022 年 1 月 26 日（PT）**
+最終更新日：**2022年1月26日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; 管理](#ecloud)
 * [アドビ [!UICONTROL システムステータス]](#status)
-* [[!DNL Adobe Experience Platform]](#platform) (更新日：**2022 年 1 月 26 日（PT）**)
+* [[!DNL Adobe Experience Platform]](#platform)（更新日：**2022年1月26日（PT）**）
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
@@ -59,7 +59,7 @@ Experience League イベントは、アドビの製品エキスパートから�
 
 スケジュールとイベントは次のとおりです。
 
-### Experience League LIVE{#exl-live}
+### Experience League LIVE {#exl-live}
 
 [Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja) は、Experience League チームが制作したライブストリーミング番組です。アドビ製品のエキスパートとつながるチャンスです。Adobe Experience Cloud のアプリケーションで活用できる実用的なヒントやコツ、戦略について学びましょう。
 
@@ -95,7 +95,7 @@ Experience League イベントは、アドビの製品エキスパートから�
 
 過去 1 か月は更新されていません。
 
-**[!DNL Experience Cloud Central UI Components]と管理に関するその他のヘルプリソース**
+**[!DNL Experience Cloud Central UI Components] と管理に関するその他のヘルプリソース**
 
 * [主要なインターフェイスコンポーネント](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=ja)およびユーザー管理の管理ヘルプ
 * [Places - 位置情報サービス](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=ja)のヘルプとリリースノート
@@ -111,9 +111,9 @@ Experience League イベントは、アドビの製品エキスパートから�
 
 Experience Platform と [!UICONTROL Mobile SDK] に関するリリース更新情報と新しいドキュメント：
 
-* リリース： **2022 年 1 月 27 日**
+* リリース：**2022年1月26日（PT）**
 
-詳しくは、 [Experience Platformリリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja) 最新のを読む
+最新情報については、[Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)を参照してください。
 
 ### 新しい Experience Platform チュートリアルおよびコース {#tutorials-platform}
 
@@ -170,9 +170,9 @@ AN-253294、AN-254976、AN-255377、AN-255561、AN-258550、AN-259336、AN-26393
 
 | 通知 | 追加日または更新日 | 説明 |
 | ----------- | ---------- | ---------- |
-| 従来の Analytics OAuth／JWT 統合の許可リスト EOL 拡張機能の有効期限 | 2022年1月14日（PT） | オン **2022 年 5 月 26 日**、 [Analytics 1.3 API、1.4 SOAP API およびレガシー Analytics OAuth/JWT EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md) 許可リスト拡張機能は有効期限が切れます。 It was offered to provide customers using legacy [!DNL Adobe Analytics] OAuth/JWT credentials additional time to migrate their client integrations to [Adobe IMS credentials](https://developer.adobe.com/console). この有効期限は、必要な IMS 移行を完了していない [!DNL Adobe Analytics Livestream] および [!DNL Adobe Campaign] のお客様に影響します（ただし、これに限定されるものではありません）。現在、許可リスト拡張機能により従来の [!DNL Analytics] OAuth／JWT 認証情報を使用しているお客様は、2022年5月25日（PT）までに IMS 認証情報への移行が完了しない場合、アドビサービスへのアクセスができなくなる可能性があります。Livestream のお客様は、クライアントアプリケーションを IMS 認証情報に移行する関する以下の [説明](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/live-stream-api/getting_started.md) をご覧いただけます。[!DNL Campaign] のお客様は、[!DNL Campaign] の最新バージョンへのアップグレードについて、アドビアカウントチームにお問い合わせください。 |
-| のサポート終了 [!DNL Reports & Analytics] | 2022 年 1 月 4 日（PT） | **2023 年 12 月 31 日**&#x200B;をもって、アドビは およびそれに付属するレポートと機能を廃止する予定です。[!DNL Reports & Analytics]以下を実現するレポート、ビジュアライゼーションおよび基盤となるテクノロジー [!DNL Reports & Analytics] もはやAdobeの技術基準を満たさない 最も多い [!DNL Reports & Analytics] 機能は、 [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=ja). Since the release of Analysis Workspace in 2015, [!DNL Reports & Analytics] functionality and capabilities have been moved to Analysis Workspace and a threshold of workflow parity has been reached. [この通知](https://spark.adobe.com/page/6WnF8JK6IRDhf/)では、提供終了プロセスについて説明しています。 |
-| セキュアファイル転送プロトコル（SFTP）サービスのアップグレード | 2022年1月13日（PT） | **2022年5月2日（PT）**、 はファイル転送のセキュリティを強化するために、Secure File Transfer Protocol（SFTP）サービスをアップグレードします。 [!DNL Adobe Analytics]この変更により、一部の SFTP クライアント設定はサポートされなくなります。 また、**2022年3月1日（PT）** までには、利用できる接続オプションもいくつか追加される予定です。 これは、SFTP を使用して Adobe Analytics に送信された、または Adobe Analytics から取得されたデータにのみ影響します。 FTP プロトコルに影響はありません。 サービスの中断を避けるために、お使いの SFTP クライアント（コード、ツール、サービス）が、[ここ](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/sftp-upgrade.html?lang=ja) で詳細に説明された変更に従っていることを確認してください。 |
+| 従来の Analytics OAuth／JWT 統合の許可リスト EOL 拡張機能の有効期限 | 2022年1月14日（PT） | **2022年5月25日（PT）**&#x200B;に、[Analytics 1.3 API、1.4 SOAP API および Legacy Analytics OAuth／JWT EOL](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md) 許可リスト拡張機能の有効期限が切れます。この拡張機能は、従来の [!DNL Adobe Analytics] OAuth／JWT 認証情報を使用している顧客に、クライアント統合を[アドビ IMS 認証報](https://developer.adobe.com/console)に移行するための時間的余裕を提供するために提供されました。この有効期限は、必要な IMS 移行を完了していない [!DNL Adobe Analytics Livestream] および [!DNL Adobe Campaign] のお客様に影響します（ただし、これに限定されるものではありません）。現在、許可リスト拡張機能により従来の [!DNL Analytics] OAuth／JWT 認証情報を使用しているお客様は、2022年5月25日（PT）までに IMS 認証情報への移行が完了しない場合、アドビサービスへのアクセスができなくなる可能性があります。Livestream のお客様は、クライアントアプリケーションを IMS 認証情報に移行する関する以下の [説明](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/live-stream-api/getting_started.md) をご覧いただけます。[!DNL Campaign] のお客様は、[!DNL Campaign] の最新バージョンへのアップグレードについて、アドビアカウントチームにお問い合わせください。 |
+| [!DNL Reports & Analytics] のサポート終了  | 2022年1月4日（PT） | **2023年12月31日（PT）**&#x200B;をもって、アドビは [!DNL Reports & Analytics] およびそれに付属するレポートと機能を廃止する予定です。[!DNL Reports & Analytics] を構成しているレポート、ビジュアライゼーションおよび基盤技術は、アドビの技術標準に適合しなくなりました。ほとんどの [!DNL Reports & Analytics] 機能は、[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=ja) 内でご利用いただけます。2015年の Analysis Workspace のリリース以降、[!DNL Reports & Analytics] の機能は Analysis Workspace に移行され、同等のワークフロー機能を提供できるようになりました。[この通知](https://spark.adobe.com/page/6WnF8JK6IRDhf/)では、提供終了プロセスについて説明しています。 |
+| セキュアファイル転送プロトコル（SFTP）サービスのアップグレード | 2022年1月13日（PT） | **2022年5月2日（PT）**、[!DNL Adobe Analytics] はファイル転送のセキュリティを強化するために、Secure File Transfer Protocol（SFTP）サービスをアップグレードします。この変更により、一部の SFTP クライアント設定はサポートされなくなります。 また、**2022年3月1日（PT）** までには、利用できる接続オプションもいくつか追加される予定です。 これは、SFTP を使用して Adobe Analytics に送信された、または Adobe Analytics から取得されたデータにのみ影響します。 FTP プロトコルに影響はありません。 サービスの中断を避けるために、お使いの SFTP クライアント（コード、ツール、サービス）が、[ここ](https://experienceleague.adobe.com/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/sftp-upgrade.html?lang=ja) で詳細に説明された変更に従っていることを確認してください。 |
 | _グローバル + 中国_ RDC タイプ | 2021年11月22日（PT） | _グローバル + 中国_ は、 [!UICONTROL 中国のパフォーマンス最適化アドオンパッケージ] を使用して、グローバルな顧客のトラフィックのルーティングを簡素化する新しい地域データ収集（RDC）タイプです。以前は、データを中国の収集エンドポイントにルーティングするか、グローバルな収集エンドポイントの 1 つにルーティングするかを決定する必要がありました。これで、この RDC *タイプ*&#x200B;を選択して、アドビがユーザーの位置情報に基づいて最適な収集エンドポイントを決定できるようになります。 |
 | データソースでのフル処理のサポート終了 | 2021 年 10 月 18 日（PT） | **2022 年 1 月 31 日（PT）**、アドビはフル処理のサポートを終了します。これにより、ユーザーはオフラインのヒットデータを Analytics に取り込めるようになります。この機能は、[一括データ挿入 API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) を介して利用できます。[詳細情報](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=ja ) |
 
@@ -329,14 +329,14 @@ Audience Manager の修正点と改善点。
 | 2022年1月 | [Adobe Developer App Builder を使用した Adobe Experience Manager as a Cloud Service の拡張](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/configuring-and-extending/app-builder/extending-aem-with-app-builder.html?lang=ja) | ビデオ（複数） | 新しい Adobe Developer App Builder は、AEM as a Cloud Service の機能を開発者が容易に拡張できる拡張フレームワークを提供します。 | AEM as a Cloud Service |
 | 2022年1月 | [AEM as a Cloud Service のための AEM ヘッドレスクイックセットアップ](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/quick-setup/cloud-service.html?lang=ja) | ビデオ | AEM ヘッドレスのクイックセットアップをご覧ください。WKND Site サンプルプロジェクトのコンテンツと AEM ヘッドレス GraphQL API を介してコンテンツを利用するサンプル React アプリ（SPA）を使用して、AEM ヘッドレスを実際に体験できます。 | AEMas a Cloud Service |
 | 2022年1月 | [高度なネットワーク機能](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/networking/advanced-networking.html?lang=ja) | ビデオ（複数） | AEM as a Cloud Service が、外部サービスとの接続を管理するための 3 つのオプション、柔軟なポート出力、専用出力 IP アドレスおよび仮想プライベートネットワークを提供する方法を説明します。AEM as a Cloud Service の Cloud Manager プログラムおよび環境は、一度に 1 種類の高度なネットワーク設定しか使用できません。 | AEMas a Cloud Service |
-| 2022年1月 | [関連する AEM コンテンツを使用して製品データを強化](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/authoring/enrich-product-associated-content.html?lang=ja) | ビデオ | マーケターが Adobe Experience Manager の関連コンテンツを使用して製品データを強化する仕組みについて説明します。AEM のアセット、 [!UICONTROL エクスペリエンスフラグメント]、 [!UICONTROL コンテンツフラグメント] などのコンテンツは、コマース製品に関連付けることができます。 | AEM as a Cloud Service |
+| 2022年1月 | [関連する AEM コンテンツを使用して製品データを強化](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/authoring/enrich-product-associated-content.html?lang=ja) | ビデオ | マーケターが Adobe Experience Manager の関連コンテンツを使用して製品データを強化する仕組みについて説明します。AEM のアセット、 [!UICONTROL エクスペリエンスフラグメント]、 [!UICONTROL コンテンツフラグメント] などのコンテンツは、コマース製品に関連付けることができます。 | AEMas a Cloud Service |
 | 2022年1月 | [メールサービス](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/networking/examples/email-service.html?lang=ja) | ビデオ | AEM の `DefaultMailService` を高度なネットワーク出力ポートを使用するように設定して、AEM as a Cloud Service からメールを送信します。 | AEMas a Cloud Service |
 | 2022年1月 | [Workfront 拡張コネクタの基本](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/basics.html?lang=ja) | ビデオ | Adobe Workfront および Experience Manager Assets 拡張コネクタの基本について説明します。また、 [プロジェクトフォルダー](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/project-folders.html?lang=ja) についても説明します。 | AEM Assets サービスと Workfront |
 | 2022年1月 | [AEM Sites を使い始める - クイックサイトの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/site-template/overview.html?lang=ja) | ビデオ（複数） | クイックサイト作成と事前定義済みのサイトテンプレートを使用し、ローコードのアプローチを使って Adobe Experience Manager で最初のサイトを作成する方法を説明します。 | AEM Sites |
 | 2022年1月 | [非標準ポートでの HTTP/HTTPS 接続（柔軟なポート出力用）](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/networking/examples/http-on-non-standard-ports-flexible-port-egress.html?lang=ja) | ビデオ（複数） | AEM as a Cloud Service で非標準ポート（80／443 以外）の HTTP／HTTPS 接続のプロキシを無効化する理由を説明します。 | AEMas a Cloud Service |
 | 2022年1月 | [アクティブなタブと完了したタブを示すアイコンの追加](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/ui-tips-and-tricks/active-complete.html?lang=ja) | ビデオ | 左側のタブナビゲーションを備えたアダプティブフォームがある場合に、タブのステータスを示すアイコンを表示する方法について説明します。 | AEM Forms |
 | 2022年1月 | [Adobe アセットリンクのセットアップ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html?lang=ja) | ビデオ | コンテンツ制作プロセスにおいて、クリエイティブチームとマーケティングチームはアセットでの共同作業が容易になり、ただちに組織に影響を与えます。 | AEM Assets |
-| 2022年1月 | [AEM Commerce as a Cloud Service を使い始める](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html?lang=ja) | ビデオ | マーケターが Adobe Experience Manager の関連コンテンツを使用して製品データを強化する仕組みについて説明します。AEM のアセット、エクスペリエンスフラグメントやコンテンツフラグメントなどのコンテンツを、コマース製品に関連付けることができます。 | AEM as a Cloud Service |
+| 2022年1月 | [AEM Commerce as a Cloud Service を使い始める](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html?lang=ja) | ビデオ | マーケターが Adobe Experience Manager の関連コンテンツを使用して製品データを強化する仕組みについて説明します。AEM のアセット、エクスペリエンスフラグメントやコンテンツフラグメントなどのコンテンツを、コマース製品に関連付けることができます。 | AEMas a Cloud Service |
 | 2022年1月 | [AEM Sites を使い始める - クイックサイトの作成](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/site-template/overview.html?lang=ja) | ビデオ | クイックサイト作成と事前定義済みのサイトテンプレートを使用し、ローコードのアプローチを使って Adobe Experience Manager で最初のサイトを作成する方法を説明します。 | AEM Sites |
 | 2022年1月 | [関連する AEM コンテンツを使用して製品データを強化](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/authoring/enrich-product-associated-content.html?lang=ja) | ビデオ | マーケターが Adobe Experience Manager の関連コンテンツを使用して製品データを強化する仕組みについて説明します。AEM のアセット、エクスペリエンスフラグメントやコンテンツフラグメントなどのコンテンツを、コマース製品に関連付けることができます。 | AEMas a Cloud Service |
 
