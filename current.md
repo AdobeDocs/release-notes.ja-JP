@@ -6,9 +6,9 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e50b1d99621d2a32597e7a28c1602decef814ead
+source-git-commit: c73e91e379acb34734b4ed3a1d267688ea3f1222
 workflow-type: tm+mt
-source-wordcount: '6590'
+source-wordcount: '6611'
 ht-degree: 99%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 99%
 
 **2022年1月**
 
-最終更新日：**2022年1月26日（PT）**
+最終更新日：**2022 年 2 月 3 日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Experience Cloud Central Interface Components] &amp; 管理](#ecloud)
@@ -37,7 +37,7 @@ ht-degree: 99%
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL XML Documentation for Adobe Experience Manager]](#xml-doc)
 * [[!DNL Adobe Commerce]](#magento)
-* [[!DNL Adobe Target]](#target)
+* [[!DNL Adobe Target]](#target) (更新日：**2022 年 2 月 3 日（PT）**)
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
@@ -415,9 +415,10 @@ Adobe Commerce リリースノートについては、次のリンクを参照�
 
 ## ![アイコン](/assets/target.png) [!DNL Adobe Target] {#target}
 
-最終更新日：**2022年1月11日**
+最終更新日： **2022 年 2 月 2 日**
 
-最新のリリース情報については、[Target リリースノート](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ja) を参照してください。
+* Adobe Targetのプレリリース情報については、 [Adobe Targetプレリリース](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ja) リリースノート。
+* 最新のリリース情報については、 [Target リリースノート](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en).
 
 ## ![アイコン](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
