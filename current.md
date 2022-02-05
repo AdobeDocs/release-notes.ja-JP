@@ -6,10 +6,10 @@ last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c73e91e379acb34734b4ed3a1d267688ea3f1222
+source-git-commit: 9e16facc25424bb8ce23e35230b7503195cf1a3d
 workflow-type: tm+mt
-source-wordcount: '6611'
-ht-degree: 99%
+source-wordcount: '6534'
+ht-degree: 98%
 
 ---
 
@@ -527,12 +527,11 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 
 ### [!DNL Advertising Cloud Search] の新機能  {#adcloud-search}
 
-最終更新日：**2021 年 10 月 7 日（PT）**
+最終更新日： **2022 年 2 月 5 日**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL レポート]、[!UICONTROL 通知センター] | （10 月 9 日（PT）リリース）カスタムレポートまたは予定レポートの作成が完了または失敗したときに Advertising Cloud Search から送信されるレポート関連のすべてのメール通知は、[!UICONTROL 通知センター]で処理されるようになりました。レポートについては、メール通知と web 通知がデフォルトで有効になっていますが、オプションで通知設定を変更できます。今回の変更により、<ul><li>メールの受信者は、Advertising Cloud Search に登録されている認証済みユーザーでかつ広告主のアカウントにアクセスできるユーザーに限定されます。この機能により、権限のないユーザーには機密データが送信されなくなります。</li><li>メールの形式とコンテンツでは、[!UICONTROL 通知センター]のテンプレートが使用されます。このテンプレートには、レポートの詳細が記述されており、すべてのレポート形式に対応する直接ダウンロードリンクが含まれています。</li><li>レポート通知は、[!UICONTROL 通知センター]の新しい通知タイプで、独自の通知設定を備えています。</li></ul>何らかの自動処理を使用してメール通知からレポートを取り込む場合は、フィルタリングロジックを更新して、プロセスが確実に継続されるようにしなければならないことがあります。 |
-| 広告インサイト | ベータモードでは、追加のインサイトを利用できます。 |
+| [!UICONTROL Bulksheets], [!UICONTROL 通知センター] | （1 月 23 日リリース）一括送信シート操作が完了または失敗した場合にAdvertising Cloud Searchが送信する一括送信シートの電子メール通知は、すべてで処理されるようになりました [!UICONTROL 通知センター].<br><br>[!UICONTROL Bulksheets] は、独自の通知設定を持つ新しい通知タイプで、 [!UICONTROL 通知センター]. 電子メール通知と Web 通知は、デフォルトで有効になっていますが、オプションで通知設定を変更できます。<br><br>電子メール通知の形式とコンテンツでは、 [!UICONTROL 通知センター] template に含まれ、関連する bulksheet ファイルまたはエラーファイルの直接ダウンロードリンクが含まれます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
