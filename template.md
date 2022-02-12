@@ -4,9 +4,9 @@ description: Experience Cloud リリースノート
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: b83f085d9fca7c4ae2b3519d32033a03aec28026
+source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '716'
 ht-degree: 93%
 
 ---
@@ -26,13 +26,13 @@ Adobe Experience Cloud の新機能および修正点です。
 >
 >リリース後に発表された新情報には、更新の日付が明記されます。
 
-最新の更新：**2021年9月**
+最新の更新： **2021 年 9 月**
 
 * [Experience Leagueライブイベント](#events)
 * [Experience Cloud の主要なインターフェイスコンポーネント](#ecloud)
+* [アドビシステムステータス](#status)
 * [Experience Platform](#platform)
 * [Experience Platformアプリケーションサービス](#services)
-* [Adobe システムステータス](#status)
 * [Journey Optimizer](#journey-opt)
 * [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
@@ -46,21 +46,15 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Document Cloud](#doc-cloud)
 * [Creative Cloud エンタープライズ版](#creative-cloud)
 
-## Adobe システムステータス {#status}
+## アドビシステムステータス {#status}
 
 機能と修正点。
 
-[Adobe システムステータス](https://status.adobe.com/)を参照してください。
+[Adobe システムステータス](https://status.adobe.com/ja)を参照してください。
 
-## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud 中央の UI コンポーネント {#ecloud}
+## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud の主要な UI コンポーネント {#ecloud}
 
-Experience Cloud の中央インターフェイスコンポーネントには、統合された製品ヘッダーからアクセスするアップデート（セルフヘルプ、検索、ユーザーアカウントの環境設定など）が含まれています。People、Places（場所）、および製品管理のアップデートについては、こちらを参照してください。
-
-| 機能 | 日付 | 説明 |
-| ------- | ------- | -------|
-| 機能 | 2021 年 9 月 | 説明 |
-
-{style=&quot;table-layout:auto&quot;}
+Experience Cloud の主要なインターフェイスコンポーネントには、統合された製品ヘッダーからアクセスするアップデート（セルフヘルプ、検索、ユーザーアカウントの環境設定など）が含まれています。People、Places（場所）、および製品管理のアップデートについては、こちらを参照してください。
 
 ### [!UICONTROL コアサービス] {#core-services}
 
@@ -236,7 +230,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 テキスト
 
-## 広告 {#adcloud}
+## Advertising {#adcloud}
 
 | 機能 | 説明 |
 | ------- | ------- |
@@ -263,7 +257,7 @@ Marketo Engage は、複雑な購入ジャーニーのすべてのステージ�
 
 リリース日：2020 年 2 月 21 日（PT）
 
-* **Microsoft® Dynamics  _Microsoft®の所有者の変更_ フローアクション：** Marketo Engageから直接リードまたは連絡先の所有者を変更します。
+* **Microsoft® Dynamics _Microsoft®の所有者の変更_ フローアクション：** リードまたは連絡先所有者を「Marketo Engage」から直接変更します。
 * **API 呼び出しの機能強化：**
    * ユーザー管理 API
    * カスタムオブジェクトスキーマ API
@@ -282,7 +276,7 @@ Marketo Engage は、複雑な購入ジャーニーのすべてのステージ�
 
 ### 発表
 
-**Marketo Engage サクセスセンター：** 2020 年 2 月に立ち上げ予定。サクセスセンターは製品内ヘルプセンターで、製品ドキュメントとコミュニティの検索、ハウツーガイドの起動、導入コンテンツへのアクセスなどをおこなうことができます。注意：この機能は、ANZでベータ版として開始され、四半期の後半に北米で公開されます。
+**Marketo Engage サクセスセンター：** 2020 年 2 月に立ち上げ予定。サクセスセンターは製品内ヘルプセンターで、製品ドキュメントとコミュニティの検索、ハウツーガイドの起動、導入コンテンツへのアクセスなどをおこなうことができます。注意：この機能は、ANZ でベータ版として開始され、四半期の後半に北米で公開されます。
 
 ### 廃止
 
