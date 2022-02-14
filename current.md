@@ -6,7 +6,7 @@ last-update: February 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e9a119ac8351d6431039b1e0387db1d4875a91bb
+source-git-commit: 85a73da3f5957c5d073d9b0018d1758f14432252
 workflow-type: tm+mt
 source-wordcount: '4933'
 ht-degree: 50%
@@ -25,7 +25,7 @@ Experience Maker の場合、成功への道は次のようになります。 [A
 >
 >このページの更新に関するメール通知を毎月受け取るには、 [Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html) を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
-**2022 年 2 月**
+**2022年2月**
 
 最終更新日：**2022 年 2 月 11 日（PT）**
 
@@ -96,7 +96,7 @@ Experience League イベントは、アドビの製品エキスパートから�
 
 **最新情報**
 
-* Adobeステータスで、製品レベルでインシデントをレポートするようになりました。 Status Cloud および Product ページは、インシデントの製品レベルのレポートに基づいて、新しい外観と強化されたフィルターを備えています。 これにより、製品がどのように影響を受けるかを理解しやすくなります [status.adobe.com](https://status.adobe.com/) 電子メール通知に、およびが含まれます。 購読していない場合は、このリンクを使用してパーソナライズされた購読設定を設定してください [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage)
+* Adobeステータスで、製品レベルでインシデントをレポートするようになりました。 Status Cloud および Product ページは、インシデントの製品レベルのレポートに基づいて、新しい外観と強化されたフィルターを備えています。 これにより、製品がどのように影響を受けるかを理解しやすくなります [status.adobe.com](https://status.adobe.com/) 電子メール通知に、およびが含まれます。 購読していない場合は、このリンクを使用してパーソナライズされた購読設定を設定してください [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage).
 
 * 使用権限と製品の購読に基づいてフィルタリングされたイベントで、ステータスホームページがパーソナライズされました。 ぜひ、 **status.adobe.com** > **[!UICONTROL マイイベント]** タブをクリックします。
 
