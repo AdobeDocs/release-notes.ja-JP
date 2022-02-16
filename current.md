@@ -6,9 +6,9 @@ last-update: February 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 10b5876c8ea0e21f0e10ea36165c0e3f1dab9665
+source-git-commit: f4b652db4759a65f38afe0fbd6dca07301875277
 workflow-type: tm+mt
-source-wordcount: '4940'
+source-wordcount: '4963'
 ht-degree: 50%
 
 ---
@@ -473,10 +473,11 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 
 ### [!DNL Advertising Cloud Search] の新機能  {#adcloud-search}
 
-最終更新日： **2022 年 2 月 5 日**
+最終更新日： **2022 年 2 月 17 日**
 
 | 機能 | 説明 |
 | ------- | ----------- |
+| [!UICONTROL Campaigns], [!UICONTROL Bulksheets] | （1 月 23 日リリース）([!DNL Microsoft Advertising accounts]) レスポンシブ検索広告 (RSA) を [!UICONTROL キャンペーン] > [!UICONTROL 広告] 表示/元 [!UICONTROL キャンペーン] > [!UICONTROL Bulksheets]. |
 | [!UICONTROL Bulksheets], [!UICONTROL 通知センター] | （1 月 23 日リリース）一括送信シート操作が完了または失敗した場合にAdvertising Cloud Searchが送信する一括送信シートの電子メール通知は、すべてで処理されるようになりました [!UICONTROL 通知センター].<br><br>[!UICONTROL Bulksheets] は、独自の通知設定を持つ新しい通知タイプで、 [!UICONTROL 通知センター]. 電子メール通知と Web 通知は、デフォルトで有効になっていますが、オプションで通知設定を変更できます。<br><br>電子メール通知の形式とコンテンツでは、 [!UICONTROL 通知センター] template に含まれ、関連する bulksheet ファイルまたはエラーファイルの直接ダウンロードリンクが含まれます。 |
 
 {style=&quot;table-layout:auto&quot;}
