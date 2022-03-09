@@ -289,7 +289,7 @@ Audience Manager の修正点と改善点。
 | 2022 年 2 月 | [古い AEM アーキタイプからの移行](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/updating-project-archetype.html?lang=ja) | ビデオ | 降順 | Forms CS |
 | 2022 年 2 月 | [AEM Forms CS のワークフローデータのストレージを外部化](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/create-aem-workflow/externalize-workflow.html?lang=ja) | ビデオ | Azure ストレージにワークフローデータを保存する方法を説明します。AEM Forms CS には、変数、添付ファイルなどのワークフローデータを外部ストレージアカウントに保存する新しい機能があります。 | AEM Forms CS |
 | 2022 年 2 月 | [Adobe Analytics と Experience Cloud 設定の自動化を統合](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/integrations/adobe-analytics-exc-setup-automation.html?lang=ja) | ビデオ | Experience Cloud 設定の自動化が、Experience Manager サイトと Experience Platform Launch および Adobe Analytics を統合し、実装するためのシンプルで自動化された方法をどのように提供するかを説明します。 | AEM Sites |
-| 2022 年 2 月 | [製品レコメンデーション](Shttps://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/authoring/product-recommendations.html?lang=ja) | ビデオ | これらの製品レコメンデーションを Adobe Experience Manager（AEM）ストアフロントに動的に挿入する方法について説明します。Adobe Commerce には、Adobe Sensei を利用したレコメンデーションエンジンが備わっています。 | AEM と Adobe Commerce |
+| 2022 年 2 月 | [製品レコメンデーション](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/authoring/product-recommendations.html?lang=ja) | ビデオ | これらの製品レコメンデーションを Adobe Experience Manager（AEM）ストアフロントに動的に挿入する方法について説明します。Adobe Commerce には、Adobe Sensei を利用したレコメンデーションエンジンが備わっています。 | AEM と Adobe Commerce |
 
 {style=&quot;table-layout:auto&quot;}
 
