@@ -108,7 +108,7 @@ Experience Platform 用に公開された新しいビデオ、チュートリア
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年3月 | [モバイルアプリでのAdobe Experience Cloudの実装のチュートリアル](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | コース | Adobe Experience Platform Mobile SDK を使用して、モバイルアプリにAdobe Experience Cloudアプリケーションを実装する方法を説明します。 |
+| 2022年3月 | [モバイルアプリでのAdobe Experience Cloudの実装のチュートリアル](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | コース | Adobe Experience Platform Mobile SDK を使用して、モバイルアプリにAdobe Experience Cloudアプリケーションを実装する方法について説明します。 |
 | 2022年3月 | [ファーストパーティデバイス ID の生成](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | ビデオ | ファーストパーティデバイス ID の生成とその仕組みについて説明します。 |
 | 2022年3月 | [データストリームの設定](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | ビデオ | Web およびMobile SDK 実装用のデータストリームを作成および設定する方法について説明します。 |
 
