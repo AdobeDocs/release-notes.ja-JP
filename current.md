@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e0d19d7aa41529dd32231cc2975eb5b03b7c8956
+source-git-commit: c99f4d0cb202a3abbc0db601371e84adba591f40
 workflow-type: tm+mt
-source-wordcount: '5786'
-ht-degree: 50%
+source-wordcount: '5681'
+ht-degree: 49%
 
 ---
 
@@ -69,14 +69,6 @@ Experience Leagueイベントは、Adobeの製品エキスパートから学び�
 [!DNL Adobe System Status] は、Adobe製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/ja) でご確認ください。
 
 ## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud — 一元的なインターフェイスコンポーネントと管理 {#ecloud}
-=======
-リリース日：**2021 年 11 月 16 日（PT）**
-
-**新着情報**
-
-* アドビステータスでは、製品レベルでインシデントをレポートするようになりました。ステータスクラウドと製品ページの外観が新しくなり、インシデントの製品レベルのレポートに基づいてフィルターが強化されました。これにより、[status.adobe.com](https://status.adobe.com/) やメール通知で、製品がどのような影響を受けているかを理解しやすくなります。まだ購読されていない場合は、リンク [https://status.adobe.com/ja/proactive-notifications/manage](https://status.adobe.com/ja/proactive-notifications/manage) を使用して個人購読の設定をお願いします。
-
-* 使用権限と製品の購読に基づいてフィルタリングされたイベントで、ステータスホームページがパーソナライズされるようになりました。**status.adobe.com**／**[!UICONTROL マイイベント]**&#x200B;タブで確認してください。
 
 Experience Cloud [中央の UI コンポーネント](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=ja) ホームページで使用できる機能と、永続的な製品ヘッダーが含まれます。 これらの機能には、ユーザープロファイル設定、環境設定、検索などが含まれます。 また、ユーザーと製品の管理、顧客属性、Experience CloudAudiences に関するヘルプも参照できます。
 
@@ -108,7 +100,7 @@ Experience Platform 用に公開された新しいビデオ、チュートリア
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年3月 | [モバイルアプリでのAdobe Experience Cloudの実装のチュートリアル](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | コース | Adobe Experience Platform Mobile SDK を使用して、モバイルアプリにAdobe Experience Cloudアプリケーションを実装する方法について説明します。 |
+| 2022年3月 | [モバイルアプリでのAdobe Experience Cloudの実装のチュートリアル](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | コース | Adobe Experience Platform Mobile SDK を使用して、モバイルアプリにAdobe Experience Cloudアプリケーションを実装する方法を説明します。 |
 | 2022年3月 | [ファーストパーティデバイス ID の生成](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | ビデオ | ファーストパーティデバイス ID の生成とその仕組みについて説明します。 |
 | 2022年3月 | [データストリームの設定](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | ビデオ | Web およびMobile SDK 実装用のデータストリームを作成および設定する方法について説明します。 |
 
