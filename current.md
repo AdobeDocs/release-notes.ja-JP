@@ -6,7 +6,7 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 06f9e80782bf7c1f34feda8ab39e6832d76f0bc1
+source-git-commit: eb5f320b029eb30f548c2016ac51e52c14de8199
 workflow-type: tm+mt
 source-wordcount: '5696'
 ht-degree: 49%
@@ -25,7 +25,7 @@ Experience Maker として成功するための道のりは、[Adobe Experience 
 >
 >このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
-最終更新日：**2022 年 3 月 18 日（PT）**
+最終更新日：**2022 年 3 月 21 日（PT）**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -102,7 +102,7 @@ Experience Platform 用に公開された新しいビデオ、チュートリア
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年3月 | [モバイルアプリでのAdobe Experience Cloudの実装のチュートリアル](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | コース | Adobe Experience Platform Mobile SDK を使用して、モバイルアプリにAdobe Experience Cloudアプリケーションを実装する方法について説明します。 |
+| 2022年3月 | [モバイルアプリでのAdobe Experience Cloudの実装のチュートリアル](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | コース | Adobe Experience Platform Mobile SDK を使用して、モバイルアプリにAdobe Experience Cloudアプリケーションを実装する方法を説明します。 |
 | 2022年3月 | [ファーストパーティデバイス ID の生成](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | ビデオ | ファーストパーティデバイス ID の生成とその仕組みについて説明します。 |
 | 2022年3月 | [データストリームの設定](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | ビデオ | Web およびMobile SDK 実装用のデータストリームを作成および設定する方法について説明します。 |
 
@@ -339,7 +339,7 @@ Experience Leagueに関するAdobe Commerceの新しいドキュメントとチ�
 
 ## ![アイコン](/assets/target.png) [!DNL Adobe Target] {#target}
 
-最終更新日：**2022 年 2 月 1 日（PT）**
+最終更新日： **2022 年 3 月 22 日**
 
 * プレリリース情報については、[Adobe Target プレリリース](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ja)を参照
 * 現在の情報については、[Adobe Target リリースノート](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=ja)を参照
