@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3f75b897e739d296d4b69d0f85d50ef4fa661ff0
+source-git-commit: 06f9e80782bf7c1f34feda8ab39e6832d76f0bc1
 workflow-type: tm+mt
-source-wordcount: '5702'
+source-wordcount: '5696'
 ht-degree: 49%
 
 ---
@@ -102,7 +102,7 @@ Experience Platform 用に公開された新しいビデオ、チュートリア
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年3月 | [モバイルアプリでのAdobe Experience Cloudの実装のチュートリアル](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | コース | Adobe Experience Platform Mobile SDK を使用して、モバイルアプリにAdobe Experience Cloudアプリケーションを実装する方法を説明します。 |
+| 2022年3月 | [モバイルアプリでのAdobe Experience Cloudの実装のチュートリアル](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | コース | Adobe Experience Platform Mobile SDK を使用して、モバイルアプリにAdobe Experience Cloudアプリケーションを実装する方法について説明します。 |
 | 2022年3月 | [ファーストパーティデバイス ID の生成](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html) | ビデオ | ファーストパーティデバイス ID の生成とその仕組みについて説明します。 |
 | 2022年3月 | [データストリームの設定](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html) | ビデオ | Web およびMobile SDK 実装用のデータストリームを作成および設定する方法について説明します。 |
 
@@ -116,7 +116,7 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 
 リリース日：**2022 年 3 月 23 日（PT）**
 
-* Adobe Analytics [リリースノート](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=ja) (**新しい場所**) ( レビュー担当者、に移動します。 `https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en`)
+* Adobe Analytics [リリースノート](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=ja)（**新しい場所**）
 * Adobe Analytics [製品ドキュメントとチュートリアル](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)
 
 ### AppMeasurement {#appm}
@@ -146,7 +146,7 @@ Adobe Experience Platform Mobile SDK の [リリースノートと変更ログ](
 
 リリース日：**2022 年 3 月 23 日（PT）**
 
-* Customer Journey Analytics [リリースノート](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=ja)  (**新しい場所**) ( レビュー担当者、に移動します。 `https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en`)
+* Customer Journey Analytics [リリースノート](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=ja)（**新しい場所**）
 * Customer Journey Analytics [製品ドキュメントとチュートリアル](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=ja)
 
 ## ![アイコン](/assets/audience-manager.png) Audience Manager {#aam}
