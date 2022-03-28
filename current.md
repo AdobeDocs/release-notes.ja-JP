@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: eb5f320b029eb30f548c2016ac51e52c14de8199
+source-git-commit: fe574c18fe36112968b6e58ddb8103239eed9632
 workflow-type: tm+mt
 source-wordcount: '5696'
-ht-degree: 49%
+ht-degree: 50%
 
 ---
 
@@ -389,7 +389,7 @@ Journey Optimizer では、スケジュールされたオムニチャネルキ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年3月 | [パーソナライゼーションライブラリで保存済みの式を使用および管理](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library.html?lang=en) | ビデオ | 保存したパーソナライゼーションライブラリ項目をメッセージで使用する方法と、パーソナライゼーションライブラリ項目を作成および管理する方法について説明します。 |
+| 2022年3月 | [パーソナライゼーションライブラリの保存済み式の使用と管理](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library.html?lang=en) | ビデオ | 保存済みのパーソナライゼーションライブラリ項目をメッセージで使用する方法と、パーソナライゼーションライブラリ項目を作成および管理する方法について説明します。 |
 
 ### [!DNL Journey Optimizer] のその他のリソース
 
