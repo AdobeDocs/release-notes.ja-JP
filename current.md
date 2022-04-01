@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c85a79e12550790ce932d45dcb0f9940f48c72ac
+source-git-commit: 7edf353026f9e8a595771602ea67eafd1bb77d96
 workflow-type: tm+mt
 source-wordcount: '5733'
-ht-degree: 99%
+ht-degree: 98%
 
 ---
 
@@ -60,7 +60,7 @@ Experience League イベントでは、アドビの製品エキスパートか�
 | [AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Adobe Live ウェビナー | Java™ や Sling などの従来の Experience Manager スキルがなくても、Adobe [!UICONTROL App Builder] のワークフローとツールを活用し、すばやく Bootstrap を実行してシングルページアプリ（SPA）をデプロイします。Experience Manager ヘッドレスを使用すると、マーケターと開発者は、それぞれ独自のドメインに関する専門知識を持つことができます。開発者は、アプリケーションのフレームワーク、スタイル設定、ルーティング全体を制御し、マーケターはコンテンツと表示方法を決定します。<br>**日付：** 3 月 23 日水曜日（PT）- [詳細と登録](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics：データを用いた効果的なストーリーの伝達](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Adobe Live ウェビナー | データのストーリーテリングは、アートと科学のバランスが取れたときに成功します。技術面に偏ってしっまうのはなぜでしょうか。Adobe Analytics のチャンピオンである Amy Ard が、創造性を損なうことのないデータのストーリーテリングを紹介するため、3 つのポイントについて説明します。<ul><li>機会または問題の特定</li><li>データによる説明</li><li>ソリューションの提供</li></ul>**日付：** 3 月 31 日木曜日（PT）- [詳細と登録](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b…%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
 | [Experience Makers - The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live ウェビナー | 初めての「Experience Maker - The Skill Exchange for Adobe Workfront」が 4 月 13 日（PT）に開催されることをお知らせします。この 3 時間の無料デジタルラーニングイベントは、Workfront に焦点を当てており、お客様は、業務管理を熟知している専門家や同業者に質問する機会を得ることができます。Workfront を初めて使用する方から、ベテランエキスパートである方まで、すべての人に役立つ情報を提供します。<br>**日付：** 4 月 13 日水曜日（PT）- [詳細と登録](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ja) | ビデオ | [!DNL Developers Live] では、さまざまな業界で設計、コンテンツ作成ワークフロー、ドキュメントサービス、顧客体験管理を支える最新の技術進歩と開発者ツールを紹介します。基調講演を視聴できるほか、Analytics API、クライアントデータレイヤー、Adobe I/O オープンソースプロジェクト、その他多くのことを学習できます。 |
+| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ja) | ビデオ | [!DNL Developers Live] では、さまざまな業界で設計、コンテンツ作成ワークフロー、ドキュメントサービス、顧客体験管理を支える最新の技術進歩と開発者ツールを紹介します。基調講演を表示し、Analytics API、クライアントデータレイヤー、Adobe開発者のオープンソースプロジェクトなどについて学びます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -259,7 +259,7 @@ Audience Manager の修正点と改善点：
 | -----------| ---------- | ---------- | ---------- | ------|
 | 2022 年 3 月 | [AEM ヘッドレスで開発を始める](https://experienceleague.adobe.com/landing/experience-manager/headless/developer.html?lang=ja) | コース | ExL の AEM ヘッドレス上のすべてのコンテンツをまとめる AEM ヘッドレスランディングページを作成します。 | AEM ヘッドレス |
 | 2022 年 3 月 | [Adobe Experience Manager as a Cloud Service で最初の web サイトを作成](https://experienceleague.adobe.com/?lang=ja#dashboard/learning) | コース | 事前定義済みの Site テンプレートを使用して、Experience Manager で新しい web サイトをすばやく生成します。 | AEM Sites |
-| 2022 年 3 月 | [送信されたデータ xml からノードを抽出](hhttps://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/extract-xml-node.html?lang=ja) | ビデオ | 別の XML ドキュメントからノードを抽出して XML ドキュメントを作成する、このカスタムプロセスの手順を説明します。このプロセスは、送信されたデータを XDP テンプレートと結合して PDF を生成する場合に使用します。 | AEM Forms |
+| 2022 年 3 月 | [送信されたデータ xml からノードを抽出](hhttps://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/extract-xml-node.html?lang=ja) | ビデオ | 別の XML ドキュメントからノードを抽出して XML ドキュメントを作成する、このカスタムプロセスの手順を説明します。 このプロセスは、送信されたデータを XDP テンプレートと結合して PDF を生成する場合に使用します。 | AEM Forms |
 | 2022 年 3 月 | [ドキュメントをファイルシステムに書き込む](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/write-payload-document.html?lang=ja) | ビデオ | ワークフローで生成されたドキュメントをファイルシステムに書き込む方法を説明します。 | AEM Forms |
 | 2022 年 3 月 | [カスタム関数](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/custom-functions-aem-forms.html?lang=ja) | ビデオ | AEM Forms 6.5 では、JavaScript 関数を定義する機能が導入されました。この機能は、ルールエディターを使用した複雑なビジネスルールの定義に使用できます。 | AEM Forms |
 | 2022 年 3 月 | [Workfront for Experience Manager 拡張コネクタエキスパートシリーズ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=ja) | ビデオ | この 4 部構成のビデオシリーズで、アドビの Workfront と Experience Manager Assets のエキスパートに参加しましょう。Workfront の Experience Manager 拡張コネクタについて詳しく説明します。 | AEM Assets、Workfront |
@@ -529,7 +529,7 @@ Document Cloud ヘルプについては、以下を参照してください。
 
 ## ![アイコン](/assets/experience-league.png) Customer Data Management - Voices {#voices}
 
-[Customer Data Management Voices](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=ja) は、顧客データ管理の技術およびマーケティングプラクティスのリーダーやスペシャリストのためのページです。このチュートリアルのコレクションには、同僚から話を聞き、インスピレーションを得て、MarTech の開発について学ぶためのリソースが一箇所に集められています。登録は不要です。クリックして視聴してください。
+[Customer Data Management Voices](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=ja) は、顧客データ管理の技術およびマーケティングプラクティスのリーダーやスペシャリストのためのページです。このチュートリアルのコレクションには、同僚から話を聞き、インスピレーションを得て、MarTech の開発について学ぶためのリソースが一箇所に集められています。登録は不要です。クリックして見るだけです。
 
 ## ![アイコン](/assets/experience-league.png) デジタルエクスペリエンスブループリント {#blueprints}
 
