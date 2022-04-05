@@ -6,10 +6,10 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fa2627b8bdd7e9b9f4159b366767c30f46721369
+source-git-commit: b3dc987d687b4feb7a5108bf5949ffd8e15f1211
 workflow-type: tm+mt
-source-wordcount: '5815'
-ht-degree: 96%
+source-wordcount: '5848'
+ht-degree: 94%
 
 ---
 
@@ -25,9 +25,9 @@ Experience Maker として成功するための道のりは、[Adobe Experience 
 >
 >このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
-最終更新日：**2022 年 4 月 1 日（PT）**
+最終更新日：**2022 年 4 月 5 日（PT）**
 
-* [[!DNL Experience League] イベント](#events) (**4 月 1 日**)
+* [[!DNL Experience League] イベント](#events) (**4 月 5 日** - AEM Gems リリース )
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 主要なインターフェイスコンポーネントと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -54,12 +54,14 @@ Experience Maker として成功するための道のりは、[Adobe Experience 
 
 Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。
 
+更新済み **2022 年 4 月 6 日**
+
 | イベント | タイプ | 説明 |
 | -----------|---------- | ----|
+| [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=en) | Adobe Live ウェビナー | 2022 年のAEM Gems アップデートが利用可能です。 AEM Gems は、Adobe Experience Managerに関する技術的な詳細を解説するオンラインセミナーシリーズで、Adobeの専門家が提供します。 <br>最新のAEM Gems について詳しくは、 [Adobe Experience Manager as a Cloud Service:2021 年 Review および 2022 年 Outlook](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=en) および [AEMヘッドレスと App Builder を使用してサイトをより迅速に構築](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=en).<br>頻繁にこれらのリリースノートを参照するか、 [Adobe優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html) AEM Gems やその他のイベントに常にアクセスできるようにするExperience League |
 | [Experience Makers - The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live ウェビナー | 初版を発表してうれしく思います _Experience Makers - The Skill Exchange for Adobe Workfront_. <br>この無料の 3 時間のデジタルラーニングイベントは、Workfrontにのみ焦点を当てています。 業務管理を最もよく知っている専門家や仲間に質問することができます。 Workfront を初めて使用する方から、ベテランエキスパートである方まで、すべての人に役立つ情報を提供します。<br>**日付：** 4 月 13 日水曜日午前 9 時。 — 午後 0 時 (PDT)。 [詳細と登録](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true):Adobeは、オンデマンドの録画に確実にアクセスできるように、参加できない場合でも登録することをお勧めします。 |
 | [Adobe Workfront System Admin Essentials:理想的なユーザーエクスペリエンスの設計](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live ウェビナー | Adobe Workfrontのカスタマーサクセスマネージャーである Mary Ann Erickson と、Liberty Mutual Insurance のクリエイティブ・オペレーションズ・アナリストである Steve Enos に参加して、理想的なユーザーエクスペリエンスの設計方法を見つけます。 <br>**日付：** 4 月 27 日（水） 時間：PDT 午前 8 時/英国午後 4 時。 <br>[詳細と登録](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
 | [Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja) | ライブおよびオンデマンドビデオ | Experience League チームが制作したライブストリーミング番組です。アドビ製品のエキスパートとつながるチャンスです。Adobe Experience Cloud のアプリケーションで活用できる実用的なヒントやコツ、戦略について学びましょう。<br> [詳細と過去のイベント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
-| [AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) | Adobe Live ウェビナー | Java™ や Sling などの従来の Experience Manager スキルがなくても、Adobe [!UICONTROL App Builder] のワークフローとツールを活用し、すばやく Bootstrap を実行してシングルページアプリ（SPA）をデプロイします。Experience Manager ヘッドレスを使用すると、マーケターと開発者は、それぞれ独自のドメインに関する専門知識を持つことができます。開発者は、アプリケーションのフレームワーク、スタイル設定、ルーティング全体を制御し、マーケターはコンテンツと表示方法を決定します。<br>**日付：** 3 月 23 日水曜日（PT）- [詳細と登録](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 | [Adobe Analytics：データを用いた効果的なストーリーの伝達](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) | Adobe Live ウェビナー | データのストーリーテリングは、アートと科学のバランスが取れたときに成功します。技術面に偏ってしっまうのはなぜでしょうか。Adobe Analytics のチャンピオンである Amy Ard が、創造性を損なうことのないデータのストーリーテリングを紹介するため、3 つのポイントについて説明します。<ul><li>機会または問題の特定</li><li>データによる説明</li><li>ソリューションの提供</li></ul>**日付：** 3 月 31 日木曜日（PT）- [詳細と登録](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b…%5d15Y000003A5SbQAK&amp;sfid=&amp;acctid=&amp;ecp=&amp;sdid=JCNCWJFP&amp;mv=display) |
 | [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ja) | ビデオ | [!DNL Developers Live] では、さまざまな業界で設計、コンテンツ作成ワークフロー、ドキュメントサービス、顧客体験管理を支える最新の技術進歩と開発者ツールを紹介します。基調講演を表示し、Analytics API、クライアントデータレイヤー、Adobe開発者のオープンソースプロジェクトなどについて学びます。 |
 
@@ -363,7 +365,7 @@ Adobe Campaign 用に公開された新しいチュートリアルとコース�
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | ------| ----- | -----| ------ | --- |
-| 2022 年 3 月 | [Experience Manager との統合 - 概要](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=ja) | ビデオ | Adobe Campaign と Adobe Experience Manager を接続して、Experience Manager でメール配信テンプレート、アセットおよびフォームを管理できます。 | AEM、Campaign v8 |
+| 2022 年 3 月 | [Experience Manager との統合 - 概要](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en) | ビデオ | Adobe Campaign と Adobe Experience Manager を接続して、Experience Manager でメール配信テンプレート、アセットおよびフォームを管理できます。 | AEM、Campaign v8 |
 | 2022 年 3 月 | [Experience Manager 統合用の Campaign を設定](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/configure-campaign-for-aem-integration.html?lang=ja) | ビデオ | 確認が必要な重要な設定や回避すべき潜在的な「問題点」など、Experience Manager と Campaign の統合を設定する方法について説明します。 | AEM、Campaign v8 |
 | 2022 年 3 月 | [Campaign への Experience Manager ページの承認と公開](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/create-a-campaign-delivery-with-content-from-experience-manager/approve-and-publish-aem-content-to-campaign.html?lang=ja) | ビデオ | ニュースレターを Experience Manager で作成し、承認して Campaign に公開する方法を説明します。 | AEM、Campaign v8 |
 | 2022 年 3 月 | [Campaign での Experience Manager メール配信の同期と送信](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/create-a-campaign-delivery-with-content-from-experience-manager/synchronize-and-send-an-aem-delivery-in-campaign.html?lang=ja) | ビデオ | Experience Manager で作成したニュースレターを使用して、Adobe Campaign からメールをテストし、送信する方法を説明します。 | AEM、Campaign v8 |
