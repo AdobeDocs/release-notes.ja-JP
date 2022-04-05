@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b3dc987d687b4feb7a5108bf5949ffd8e15f1211
+source-git-commit: 88d7c6385f680dba693d856585679c517589441d
 workflow-type: tm+mt
-source-wordcount: '5848'
+source-wordcount: '5828'
 ht-degree: 94%
 
 ---
@@ -180,7 +180,7 @@ Audience Manager の修正点と改善点：
 
 * **Adobe Experience Manager as a Cloud Service**
 
-   次を監視： [2022 年 3 月リリースの概要ビデオ](https://video.tv.adobe.com/v/341465) 2022.3.0（2022 年 3 月）リリースに追加された機能の概要。 今月のビデオから、Adobeは、フランス語 (FR)、ドイツ語 (DE) および日本語 (JP) でのローカライズされたクローズドキャプションを有効にしました。
+   次を監視： [2022 年 3 月リリースの概要ビデオ](https://video.tv.adobe.com/v/341465) 2022.3.0（2022 年 3 月）リリースに追加された機能の概要。 <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
    * [2022 年 1 月リリースの新機能の概要ビデオ](https://video.tv.adobe.com/v/340120)。
    * [2021 年 12 月リリースの新機能の概要ビデオ](https://video.tv.adobe.com/v/339278)。
