@@ -6,9 +6,9 @@ last-update: March 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: bbdac176cdaed65d6312a1274551d8da517764c6
+source-git-commit: 29615ef50c01bd12445aaa3d492d4b746b795f0d
 workflow-type: tm+mt
-source-wordcount: '5956'
+source-wordcount: '5952'
 ht-degree: 92%
 
 ---
@@ -482,11 +482,11 @@ Last updated: **October 27, 2021**
 
 ### [!DNL Advertising Cloud Search] の新機能  {#adcloud-search}
 
-最終更新日： **2022 年 4 月 8 日**
+最終更新日： **2022 年 4 月 12 日**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL キャンペーン]<br><br>[!UICONTROL 広告インサイト] | （4 月 7 日） [!DNL Google Ads] アカウント )Advertising Cloud Searchは、従来のからのすべての API 呼び出しを移行中です [!DNL Google AdWords API] 最新の [!DNL Google Ads API]. 新しい [!DNL Google Ads API] は既存の機能との継続性を確保し、アクセスを可能にします。 [!DNL Google’s] latest [!DNL Ads] 機能。<br><br>一部の機能は、まだ新しい API に更新されておらず、一時的に使用できなくなっています。<ul><li>場所の拡張：<ul>場所の拡張は、 [!UICONTROL 拡張機能] 表示</li><li>拡張機能は作成できません。</li><li>場所に対するフィルターが機能しません。</li></li></ul><li>[!UICONTROL 広告インサイト]:この [!UICONTROL インプレッション共有が失われました] および [!UICONTROL クエリクロスマッチングベータ] 分析は、4 月 11 日以降使用できなくなります。</li></ul>4 月末までにロケーション拡張機能の復元が予想されます。 影響を受ける [!UICONTROL 広告インサイト] モジュールを復元することもできます。推定日付と共に更新を送信します。 |
+| [!UICONTROL キャンペーン]<br><br>[!UICONTROL 広告インサイト] | (4 月 11 日； [!DNL Google Ads] アカウント )Advertising Cloud Searchは、従来のからのすべての API 呼び出しを移行しました [!DNL Google AdWords API] 最新の [!DNL Google Ads API]. 新しい [!DNL Google Ads API] は既存の機能との継続性を確保し、アクセスを可能にします。 [!DNL Google’s] latest [!DNL Ads] 機能。<br><br>一部の機能は、まだ新しい API に更新されておらず、一時的に使用できなくなっています。<ul><li>場所の拡張：<ul>場所の拡張は、 [!UICONTROL 拡張機能] 表示</li><li>拡張機能は作成できません。</li><li>場所に対するフィルターが機能しません。</li></li></ul><li>[!UICONTROL 広告インサイト]:この [!UICONTROL インプレッション共有が失われました] および [!UICONTROL クエリクロスマッチングベータ] 分析は使用できません。</li></ul>4 月末までにロケーション拡張機能の復元が予想されます。 影響を受ける [!UICONTROL 広告インサイト] モジュールを復元することもできます。推定日付と共に更新を送信します。 |
 | [!UICONTROL ポートフォリオ] | （3 月 13 日リリース）デフォルトでは、ハイブリッドの最適化はキャンペーンレベルで使用できます。 広告グループレベルでハイブリッド最適化をオプションで有効にできるようになりました。この最適化機能では、広告グループレベルで [!DNL Google] CPA または ROAS ターゲットを設定し、パフォーマンスをより正確に制御できます。<br>どのポートフォリオでも、ポートフォリオを起動する前に学習期間を許可して、十分なモデルカバレッジを確保する必要があります。同様に、ハイブリッドポートフォリオをキャンペーンレベルから広告グループレベルの最適化に変更した場合、ポートフォリオを約 2 週間アクティブ状態に設定します。これにより、最適化機能は、含まれている広告グループについて学習し、ターゲットを生成する時間を確保できます。<br>広告グループレベルの最適化をサポートするために、カスタムシミュレーションに広告グループ別の結果を含めることができるようになりました。広告グループレベルの最適化を含むハイブリッドポートフォリオを起動する前に、広告グループレベルの結果に関するカスタムシミュレーションを実行します。 |
 | [!UICONTROL ポートフォリオ] <br> [!UICONTROL Campaigns] | (Match 12 リリース；のベータ版機能 [!DNL Microsoft® Advertising] キャンペーン ) - [!UICONTROL コンバージョンを最大化] 入札戦略を作成し、オプションでクリックあたりの最大コストを設定します。<br> 他の自動入札戦略用のハイブリッド最適化ベータに既に参加している場合は、[!UICONTROL コンバージョンを最大化]戦略に自動的にアクセスでき、[!UICONTROL コンバージョンを最大化]戦略を使用したキャンペーンをハイブリッドポートフォリオに含めることができます。この戦略をハイブリッドポートフォリオで使用するには、Advertising Cloud Search の目標を [!DNL Microsoft® Ads] にアップロードできるようにする必要があります。ベータ版にまだ参加しておらず、参加を希望する場合は、[!DNL Adobe] アカウントマネージャーにお問い合わせください。 |
 | Campaign [!UICONTROL Audiences]<br><br>Campaign [!UICONTROL バルクシート] | （3 月 13 日リリース） [!DNL Microsoft® Advertising] キャンペーン ) — 任意の [!DNL Microsoft® Advertising] マーケット内オーディエンスを除くオーディエンスをキャンペーンレベルのターゲットまたは [!UICONTROL adgroup] — レベルのターゲット。 以前は、[!UICONTROL 広告グループ]レベルのターゲットとしてのみ使用できました。 |
