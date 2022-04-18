@@ -6,9 +6,9 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4f25c9ff1ac5f923c63ad8c7401146fff0f781da
+source-git-commit: 3d9450a10069ac060d21d844c6d5cc6e8d7b9bad
 workflow-type: tm+mt
-source-wordcount: '6116'
+source-wordcount: '6115'
 ht-degree: 43%
 
 ---
@@ -25,7 +25,7 @@ Experience Maker として成功するための道のりは、[Adobe Experience 
 >
 >このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
-最終更新日：**2022 年 4 月 15 日（PT）**
+最終更新日：**2022 年 4 月 18 日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -100,7 +100,7 @@ Experience Cloud の[主要な UI コンポーネント](https://experienceleagu
 
 の最新のリリース情報と新しいドキュメントです。 [!DNL Experience Platform] および [!UICONTROL モバイル SDK]:
 
-最新のリリース日： **2022 年 3 月 31 日**
+リリース日：**2022 年 4 月 27 日（PT）**
 
 * [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)
 
