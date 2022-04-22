@@ -6,10 +6,10 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f8a3a96d35bf434af09dc0b536984feb4ff7de27
+source-git-commit: 68df02857374608feb9ae1c848b6ca1357d73382
 workflow-type: tm+mt
-source-wordcount: '6118'
-ht-degree: 43%
+source-wordcount: '6428'
+ht-degree: 41%
 
 ---
 
@@ -25,7 +25,7 @@ Experience Maker として成功するための道のりは、[Adobe Experience 
 >
 >このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
-最終更新日：**2022 年 4 月 18 日（PT）**
+最終更新日：**2022 年 4 月 22 日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -500,12 +500,16 @@ Last updated: **October 27, 2021**
 
 ### [!DNL Advertising Cloud Search] の新機能  {#adcloud-search}
 
-最終更新日： **2022 年 4 月 12 日**
+最終更新日： **2022 年 4 月 23 日** （4 月 24 日リリース向け）
 
 | 機能 | 説明 |
 | ------- | ----------- |
+| [!UICONTROL オーディエンス] | ([!DNL Microsoft Advertising] カスタマーマッチの対象となるアカウント ) すべてのユーザーが、電子メールアドレスを含む CSV ファイルをアップロードすることで、カスタマーマッチ用オーディエンスを作成および管理できるようになりました。 データは、SHA-256 アルゴリズムを使用してハッシュ化する必要があります。 |
+| [!UICONTROL Campaigns] | オプトインした広告主は、次のベータ版機能を使用できます。<ul><li>([!DNL Microsoft Advertising] アカウント ) での既存のネイティブ広告キャンペーンの同期、読み取り専用表示、レポート（ビュースルーデータを含む）のサポート [!DNL Microsoft Audience Network]を含む [!DNL Microsoft Audience Ads].</li><li>([!DNL Google Ads] および [!DNL Microsoft Advertising] アカウント ) [!DNL Google Ads] キャンペーンとキャンペーン構造 [!DNL Microsoft Advertising] Advertising Cloud Search内から</li></ul>ベータ版プログラムに興味がある場合は、Adobeのアカウントマネージャーにお問い合わせください。 |
+| [!UICONTROL キャンペーン]<br><br>[!UICONTROL Portfolio] | ([!DNL Microsoft Advertising] キャンペーン ) 次の入札戦略に対するサポートを利用できます。<ul><li>（一般公開） [!UICONTROL コンバージョンを最大化], [!UICONTROL ターゲット CPA]、および [!UICONTROL 広告費用対効果のターゲット設定]:これらの戦略は、現在、誰でも利用できます。 これらの入札戦略を使用して、ハイブリッド（ただし標準ではない）ポートフォリオに検索キャンペーンを追加できます。</li><li>（ベータ版機能） [!UICONTROL Target インプレッション共有]:ハイブリッド最適化ベータに参加している場合は、この戦略を使用してキャンペーンを設定し、オプションでターゲットインプレッション共有、ターゲット広告の位置、クリックあたりの最大コストを設定できます。 注意：このオプションは、まだハイブリッドポートフォリオでサポートされておらず、標準ポートフォリオに追加できません。</li><li>（ベータ版機能） [!UICONTROL クリック数を最大化]:ハイブリッド最適化ベータに参加している場合は、この戦略でキャンペーンを設定し、必要に応じてクリックあたりの最大コストをターゲットに設定できます。 標準ポートフォリオまたはハイブリッドポートフォリオに、この戦略でキャンペーンを組み込むことができます。 この戦略をハイブリッドポートフォリオで使用するには、ポートフォリオの目標に含める必要があるのは [!DNL Adobe] プロパティ（指標）を使用し、Advertising Cloud Search目標のアップロードを有効にする必要があります。 [!DNL Microsoft Ads].</li></ul>ハイブリッド最適化ベータにまだ参加しておらず、参加したい場合は、 [!DNL Adobe] アカウントマネージャー。 |
+| [!UICONTROL 広告インサイト] | を除くすべてのインサイト [!UICONTROL クエリのクロスマッチング] および [!UICONTROL ハイブリッドPortfolio設定の準備] はベータ版から削除されました。 |
 | [!UICONTROL キャンペーン]<br><br>[!UICONTROL 広告インサイト] | (4 月 11 日； [!DNL Google Ads] アカウント )Advertising Cloud Searchは、従来のからのすべての API 呼び出しを移行しました [!DNL Google AdWords API] 最新の [!DNL Google Ads API]. 新しい [!DNL Google Ads API] 既存の機能の継続性を確保し、アクセスを可能にする [!DNL Google’s] latest [!DNL Ads] 機能。<br><br>一部の機能は、まだ新しい API に更新されておらず、一時的に使用できなくなっています。<ul><li>場所の拡張：<ul>場所の拡張は、 [!UICONTROL 拡張機能] 表示</li><li>拡張機能は作成できません。</li><li>場所に対するフィルターが機能しません。</li></li></ul><li>[!UICONTROL 広告インサイト]:この [!UICONTROL インプレッション共有が失われました] および [!UICONTROL クエリクロスマッチングベータ] 分析は使用できません。</li></ul>4 月末までにロケーション拡張機能の復元が予想されます。 影響を受ける [!UICONTROL 広告インサイト] モジュールを復元することもできます。推定日付と共に更新を送信します。 |
-| Adobe Analytics との統合 | （4 月 7 日）Advertising Cloudが [!DNL Analytics]、データ [!DNL Google Ads] および [!DNL Microsoft® Advertising] レスポンシブ検索広告 (RSA) は、 [!UICONTROL レスポンシブ広告タイプ] &quot;[!UICONTROL レスポンシブ検索広告].&quot; 以前は、 [!UICONTROL レスポンシブ広告タイプ] &quot;[!UICONTROL レスポンシブテキスト広告].&quot;<br><br>また、 [!UICONTROL レスポンシブ広告タイトル] が最初のヘッドラインと [!UICONTROL レスポンシブ広告の説明] は最初の説明を入力します。 |
+| Adobe Analytics との統合 | （4 月 7 日）Advertising Cloudが [!DNL Analytics]、データ [!DNL Google Ads] および [!DNL Microsoft Advertising] レスポンシブ検索広告 (RSA) は、 [!UICONTROL 広告タイプ] &quot;[!UICONTROL レスポンシブ検索広告]」と表示されます。 以前は、 [!UICONTROL 広告タイプ] &quot;[!UICONTROL テキスト広告].&quot; 非アクティブなキャンペーン内の RSA は再分類されません。<br><br>RSA の再分類については、 [!UICONTROL レスポンシブ広告タイトル] が最初のヘッドラインと [!UICONTROL レスポンシブ広告の説明] は最初の説明を入力します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
