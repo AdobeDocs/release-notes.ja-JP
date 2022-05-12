@@ -6,10 +6,10 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 68df02857374608feb9ae1c848b6ca1357d73382
+source-git-commit: cdf35cca137c192dfc32398565b693e4843b6418
 workflow-type: tm+mt
-source-wordcount: '6428'
-ht-degree: 94%
+source-wordcount: '6061'
+ht-degree: 90%
 
 ---
 
@@ -55,20 +55,16 @@ Experience Maker として成功するための道のりは、[Adobe Experience 
 
 Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。
 
-更新日：**2022年4月5日**
+更新済み **2022 年 5 月 12 日**
 
 | イベント | タイプ | 説明 |
 | -----------|---------- | ----|
+| イベント | タイプ | 説明 |
+| — | — | — |
+| [Journey Optimizerでのプッシュ通知 — モバイルアプリをプッシュ用に簡単に設定する方法](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Adobe Journey Optimizerを使用したプッシュ通知の一般的な使用例について説明し、Adobe Experience Platformを利用したプッシュ通知の設定方法に関する技術的な詳細を説明します。 <br>**日付：** 2022 年 5 月 12 日@午前 9 時 30 分 (PDT)<br>[スケジュールと過去のイベント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja) |
+| [Adobe Target コミュニティ](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940?profile.language=ja#M3096) | Q&amp;A コーヒーブレイク | 共有オーディエンス、Real-Time CDP、ファーストパーティデータ、エンドツーエンドのパーソナライゼーションワークフローなどに関するAdobe Targetの質問に回答する、Adobe Target製品チームの Brent Kostak と Drew Burns に参加します。<br>最近の [リアルタイムパーソナライズウェビナー](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/upcoming-webinar-4-28-22-real-time-personalization-with-adobe/td-p/449012) 次の項目に関する専門家への質問 [コーヒーブレーク糸](https://adobe.ly/3MyiDHa) Adobe Targetコミュニティで！<br>**日付：** 2022 年 5 月 25 日@午前 8 時 (PDT)<br>[詳細と登録](https://adobe.ly/3MyiDHa) |
+| [Adobe [!DNL Developers Live]:コマース](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=en) | オンデマンドビデオ | _Adobe Developers Live:Commerce 2022_ は、様々な背景と特異な目的を持つ開発者とエクスペリエンスビルダーを統合し、驚くべきエンドツーエンドのエクスペリエンスを作成します。 この 1 日間の仮想会議では、コマースおよびオープンソース開発者向けの重要な更新、テクニカルセッション、コミュニティネットワークの機会などが提供されます。 |
 | [Adobe Summit 2022](https://business.adobe.com/summit/adobe-summit.html) | オンデマンドセッション | Ryan Reynolds（アドビ、エグゼクティブ）、Rosalind Brewer（Walgreens Boots Alliance, Inc、CEO）、John Donahoe（NIKE, Inc.、CEO）、Gail J. McGovern（アメリカ赤十字社、CEO）の各氏が、カスタマーエクスペリエンスがいかにデジタル経済の通貨となるか、その方法を伝授します。<br>Adobe Summit 2022 の[オンデマンドセッション](https://business.adobe.com/summit/2022/sessions.html)を参照します。 |
-| [ヘッドフルからヘッドレス（およびその間のすべて）に対応する AEM](https://www.youtube.com/watch?v=idByz7WrhbQ) | Experience League LIVE | ホストである Danny Gordon とゲストの Amol Anand、Sachin Mali、Sean Steimer による、最も一般的な Adobe Experience Manager Sites 実装の詳細な分類をご覧ください。<br>**日付：** 2022年4月21日午前 9:00（PDT）<br>[スケジュールと過去のイベント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja) |
-| [オーディエンスの扱い方](https://www.youtube.com/watch?v=I8HKFkx16-E) | Experience Leagueライブ | Audience Manager と Real-Time CDP を使用したオーディエンス戦略を説明します。ホストの Doug Moore が、この Experience League LIVE イベントに Nick Cammuso と Jackie Chevallier を迎えます。<br>**日付：** 2022年4月28日午前 9:00（PDT）<br>[スケジュールと過去のイベント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
-| [Adobe Campaign Classic v7 および Campaign v8](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/adobe-campaign-community-q-amp-a-coffee-break-april-21st-8am-pt/td-p/444060?profile.language=ja) | Q&amp;A コーヒーブレイク | Join Scott Segrin、Eric Knee、David Loyd および Peter Mancuso - Adobe Campaign コミュニティの Adobe Campaign エンタープライズアーキテクチャチームによるライブ Q&amp;A です。<br>**日付：** 2022年4月21日午前 8:00（PDT）<br>[詳細および登録](https://adobe.ly/3NB6kuG) |
-| [Adobe Target コミュニティ](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940?profile.language=ja#M3096) | Q&amp;A コーヒーブレイク | Adobe Target コミュニティで Jim McTiernan が Adobe Target Recommendations、AB テストおよび MVT パーソナライゼーションに関する質問に回答します&#x200B;<br>**日付：** 2022年4月27日午前 8:00（PDT）<br>[詳細および登録](https://adobe.ly/3joCuvU%C2%A0) |
-| [AEM および CIF フレームワーク](https://adobe.ly/3O0uXl5) | AEM Gems | AEM と CIF フレームワークを統合し、リッチで没入感のある e コマースエクスペリエンスを構築します&#x200B;<br>**日付：** 2022年4月27日午前 8:00 時（PDT）／午後 5:00 時（CET）／午後 8:30 時（IST）<br>[詳細および登録](https://adobe.ly/3O0uXl5) |
-| [AEM Gems](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/overview.html?lang=ja) | Adobe Live ウェビナー | AEM Gems の 2022 アップデートが利用可能です。Gems on Adobe Experience Manager は、アドビのエキスパートによる技術的な詳細を解説するウェビナーシリーズです。<br>最新の AEM Gems については、[Adobe Experience Manager as a Cloud Service：2021 年のレビューと 2022 年の展望](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aemcloudservice-2021-review-and-outlook.html?lang=ja)および[Experience Manager ヘッドレスと App Builder を使用して、より迅速にサイトを作成](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/build-sites-faster-with-headless-and-appbuilder.html?lang=ja)を参照してください。<br>これらのリリースノートを頻繁に参照するか、[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) に登録して、AEM Gems およびその他の Experience League イベントの最新情報を把握してください。 |
-| [Experience Makers - The Skill Exchange for Adobe Workfront](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true) | Adobe Live ウェビナー | 初めての _Experience Makers - The Skill Exchange for Adobe Workfront_ をお知らせします。<br>これは、Workfront に焦点を当てた 3 時間の無料デジタル学習イベントです。作業管理に詳しいエキスパートや同業者に質問できます。Workfront を初めて使用する方から、ベテランエキスパートである方まで、すべての人に役立つ情報を提供します。<br>**日付：** 4月13日（水）午前 9:00 ～午後 12:00（PDT）。[詳細および登録](https://events.bizzabo.com/385867?promo=CustomerM&amp;tr=true)：アドビでは、参加できない場合でも登録をお勧めしています。登録することで、オンデマンド録画にアクセスできます。 |
-| [Adobe Workfront System Admin Essentials：理想的なユーザーエクスペリエンスのデザイン](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) | Adobe Live ウェビナー | Join Mary Ann Erickson（Adobe Workfront カスタマーサクセスマネージャー）と Steve Enos（Liberty Mutual Insurance、クリエイティブオペレーションアナリスト）が、理想的なユーザーエクスペリエンスをデザインする方法を説明します。<br>**日付：** 4月27日（水）。時間：午前 8:00（PDT）／午後 4:00（UK）。<br>[詳細および登録](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field) |
-| [Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=ja) | オンデマンドビデオ | [!DNL Developers Live] では、様々な業界で設計、コンテンツ作成ワークフロー、ドキュメントサービス、顧客体験管理を支える最新の技術進歩と開発者ツールを紹介します。基調講演の視聴に加えて、Analytics API、クライアントデータレイヤー、Adobe Developer オープンソースプロジェクト、その他多くのことを学習できます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
