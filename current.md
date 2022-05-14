@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8ddc70389416b26d1cd0c6be5a60c1d34f2cc954
+source-git-commit: c3e59ee55c248878950ccf28a97b778dac69e31a
 workflow-type: tm+mt
-source-wordcount: '4974'
+source-wordcount: '4977'
 ht-degree: 50%
 
 ---
@@ -25,7 +25,7 @@ Experience Maker として成功するための道のりは、[Adobe Experience 
 >
 >このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
-最終更新日：**2022 年 5 月 13 日（PT）**
+最終更新日：**2022 年 5 月 14 日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -406,6 +406,8 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2022 年 5 月 | [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) | ビデオ | Marketoロードマップの学習から始めます。 次に、製品としてのMarketoインスタンスを考えることの重要性を見つけます。 この新しく公開されたプログラムメンバーのカスタムフィールド、Marketo Engageのヒントやテクニックなどの潜在的なロック解除に関するアドバイスを得る [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) 2021 年 8 月から、現在はExperience League。 |
+
+{style=&quot;table-layout:auto&quot;}
 
 ### Core Marketo Engage の更新
 
