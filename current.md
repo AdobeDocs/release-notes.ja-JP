@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 0550d7a4ccf69654f6f205752a109fbb9a83e172
+source-git-commit: 84794d6d051c913cef2ca11504d8cc9857af3000
 workflow-type: tm+mt
-source-wordcount: '4972'
+source-wordcount: '4971'
 ht-degree: 50%
 
 ---
@@ -321,7 +321,7 @@ Experience Manager のリリースノートはすべて次のページに記載�
 
 Experience Managerガイド ( 旧称：XML Documentation for AEM) は、Experience Managerにデプロイされたアプリケーションです。 Adobe Experience Manager でのネイティブ DITA サポートを可能にし、AEM が DITA ベースのコンテンツの作成と配信を処理できる、強力なエンタープライズグレードのコンポーネントコンテンツ管理ソリューション（CCMS）です。
 
-[AEM 向け XML ドキュメント](https://www.adobe.com/jp/products/xml-documentation-for-experience-manager/features.html)について説明します。
+詳細情報： [Experience Managerガイド](https://www.adobe.com/jp/products/xml-documentation-for-experience-manager/features.html).
 
 ### その他のリソース
 
