@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 15310fdeb95016c4366dfed02076296fcc2a4734
+source-git-commit: 0550d7a4ccf69654f6f205752a109fbb9a83e172
 workflow-type: tm+mt
-source-wordcount: '4977'
+source-wordcount: '4972'
 ht-degree: 50%
 
 ---
@@ -36,7 +36,7 @@ Experience Maker として成功するための道のりは、[Adobe Experience 
 * [[!DNL Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
-* [[!DNL XML Documentation for Adobe Experience Manager]](#xml-doc)
+* [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
@@ -317,16 +317,16 @@ Experience Manager のリリースノートはすべて次のページに記載�
 * [Dynamic Media Classic ヘルプホーム](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=ja)
 * [Adobe Experience Manager ドキュメント：最近の更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=ja#aem-as-a-cloud-service)
 
-## ![アイコン](/assets/ec_appicon_24.png) Adobe Experience Manager の XML ドキュメント {#xml-doc}
+## ![アイコン](/assets/ec_appicon_24.png) Adobe Experience Managerガイド {#xml-doc}
 
-XML Documentation for Adobe Experience Manager は、AEM 上にデプロイされたアプリケーションです。Adobe Experience Manager でのネイティブ DITA サポートを可能にし、AEM が DITA ベースのコンテンツの作成と配信を処理できる、強力なエンタープライズグレードのコンポーネントコンテンツ管理ソリューション（CCMS）です。
+Experience Managerガイド ( 旧称：XML Documentation for AEM) は、Experience Managerにデプロイされたアプリケーションです。 Adobe Experience Manager でのネイティブ DITA サポートを可能にし、AEM が DITA ベースのコンテンツの作成と配信を処理できる、強力なエンタープライズグレードのコンポーネントコンテンツ管理ソリューション（CCMS）です。
 
 [AEM 向け XML ドキュメント](https://www.adobe.com/jp/products/xml-documentation-for-experience-manager/features.html)について説明します。
 
 ### その他のリソース
 
-* [XML Documentation for Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=ja) - Experience League のチュートリアル
-* [XML Documentation for Adobe Experience Manager の学習とサポート](https://helpx.adobe.com/jp/support/xml-documentation-for-experience-manager.html) - 製品ドキュメント
+* [Experience Managerガイド](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=ja) -Experience Leagueに関するチュートリアル
+* [Experience Managerガイドの学習とサポート](https://helpx.adobe.com/jp/support/xml-documentation-for-experience-manager.html)  — 製品ドキュメント
 
 ## ![アイコン](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
