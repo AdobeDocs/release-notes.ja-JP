@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 181c2ee19d1a3687355876f70f25c6e110a90ebc
+source-git-commit: d4aed4b509b13fbc0fc73d11dcb30ac4f2fdbfd7
 workflow-type: tm+mt
-source-wordcount: '4971'
+source-wordcount: '4935'
 ht-degree: 50%
 
 ---
@@ -25,7 +25,7 @@ Experience Maker として成功するための道のりは、[Adobe Experience 
 >
 >このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
-最終更新日：**2022 年 5 月 14 日（PT）**
+最終更新日：**2022 年 5 月 24 日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -39,7 +39,7 @@ Experience Maker として成功するための道のりは、[Adobe Experience 
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Campaign]](#ac) ( 更新済み **5 月 24 日**)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
@@ -55,11 +55,10 @@ Experience Maker として成功するための道のりは、[Adobe Experience 
 
 Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。
 
-更新済み **2022 年 5 月 14 日**
+更新済み **2022 年 5 月 25 日**
 
 | イベント | タイプ | 説明 |
 | -----------|---------- | ----|
-| [Adobe Analytics- Experience Makers - The Skill Exchange](https://events.bizzabo.com/389219?promo=ExperienceLeague&amp;tr=true) | 技能交換 | Adobe Analyticsに焦点を当てた無料の 3 時間デジタルイベントにご参加ください。 Workspace を最もよく知っている専門家や同業者に質問します。<br>2022 年 5 月 18 日@ 1:30pm-4:EST の午後 30 時<br> [詳細および登録](https://events.bizzabo.com/389219?promo=ExperienceLeague&amp;tr=true) |
 | [Adobe Campaign — カスタマーサクセスウェビナーシリーズ](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer:Adobe Campaignを使用した顧客ジャーニーの強化。 | ストリーミングの Kayo、Binge、Flashブランドのエンゲージメントオペレーション担当責任者、Anja Starun との Peer2Peer でのこのライブディスカッションに参加します。 Adobe Campaignを使用して個別化されたカスタマージャーニーを作成するためにチームが導入した成功戦略について、Sarah から直接お知らせします。 <br>**日付：** 5 月 26 日@午後 3 時 (EST) <br>[詳細と登録](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [Journey Optimizerでのプッシュ通知 — モバイルアプリをプッシュ用に簡単に設定する方法](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Adobe Journey Optimizerを使用したプッシュ通知の一般的な使用例について説明し、Adobe Experience Platformを利用したプッシュ通知の設定方法に関する技術的な詳細を説明します。 <br>**日付：** 2022 年 5 月 12 日@午前 9 時 30 分 (PDT)<br>[スケジュールと過去のイベント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja) |
 | [Adobe Target コミュニティ](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940?profile.language=ja#M3096) | Q&amp;A コーヒーブレイク | 共有オーディエンス、Real-Time CDP、ファーストパーティデータ、エンドツーエンドのパーソナライゼーションワークフローなどに関するAdobe Targetの質問に回答できるAdobe Target製品チームの Brent Kostak と Drew Burns に参加します。<br>最近の [リアルタイムパーソナライズウェビナー](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012) 次の項目に関する専門家への質問 [コーヒーブレーク糸](https://adobe.ly/3MyiDHa) Adobe Targetコミュニティで！<br>**日付：** 2022 年 5 月 25 日@午前 8 時 (PDT)<br>[詳細と登録](https://adobe.ly/3MyiDHa) |
@@ -277,7 +276,7 @@ Audience Manager の修正点と改善点：
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2022 年 5 月 | [AEM as a Cloud Service 2021.4.0 リリースの更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2021/2021-4-0.html?lang=en) | ビデオ | AEM製品チームから連絡を受け、Adobe Experience Managerの最新リリースの機能とイノベーションについて学びます。 | AEM Asset Essentials、Sites、Screens、Forms、Cloud Foundation |
+| 2022 年 5 月 | [AEM as a Cloud Service 2021.4.0 リリースアップデート](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2021/2021-4-0.html?lang=en) | ビデオ | AEM製品チームから連絡を受け、Adobe Experience Managerの最新リリースの機能とイノベーションについて学びます。 | AEM Asset Essentials、Sites、Screens、Forms、Cloud Foundation |
 | 2022 年 5 月 | [Cloud 5 AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/cloud-5/cloud5-introduction.html) | ビデオ | 5 分以下の短いビデオでAEM as a Cloud Serviceに関して必要なすべての有用な情報を入手できます。 シーズン 1 から始めます。 | AEM CS |
 | 2022 年 5 月 | [統合用のログイントークンの取得](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/cloud-5/cloud5-getting-login-token-integrations.html) | ビデオ | Cloud Service統合のためのログイントークンの取得方法と、そのための一部の使用例に関する詳細なガイドです。 | AEM CS |
 | 2022 年 5 月 | [カルーセルでの複数の PDF ドキュメントの表示](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/display-pdf-in-carousel.html?lang=en) | ビデオ | 複数のPDFドキュメントをフォームの入力者に表示してフォームを送信する前にレビューする場合の一般的な使用例について説明します。 | AEM Forms |
@@ -349,12 +348,14 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### 最新の Campaign 製品リリース
 
-の最新の機能、改善点、修正点について詳しくは、 [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=ja)、および [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=ja) リリースノート。
+**最新リリース：** [Campaign Standardリリース 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html) （2022 年 6 月）
+
+の最新の機能、改善点、修正点について詳しくは、 [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=ja)、および [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) リリースノート。
 
 ### Campaign ヘルプリソース
 
 * Adobe Campaign v8：[ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [実装ガイド](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=ja)
-* Adobe Campaign Standard：[Campaign Standard ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja) - [リリース計画](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ja)
+* Adobe Campaign Standard：[Campaign Standard ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja) - [リリース計画](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ja)
 * Adobe Campaign Classic：[Campaign Classic v7 ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ja)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ja) - [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ja)／[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ja) のハウツービデオ
 
