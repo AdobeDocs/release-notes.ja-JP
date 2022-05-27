@@ -6,10 +6,10 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3efc33c9d154e1943e4bbf5f3a6d1bd9c702ccaf
+source-git-commit: 045b3df6e345a97bd4172c752c953580e42181c6
 workflow-type: tm+mt
-source-wordcount: '4966'
-ht-degree: 50%
+source-wordcount: '5033'
+ht-degree: 49%
 
 ---
 
@@ -25,9 +25,9 @@ Experience Maker として成功するための道のりは、[ Experience Leagu
 >
 >このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
-最終更新日：**2022 年 5 月 24 日（PT）**
+最終更新日：**2022 年 5 月 27 日（PT）**
 
-* [[!DNL Experience League] イベント](#events)
+* [[!DNL Experience League] イベント](#events) ( 更新済み **5 月 28 日**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 主要なインターフェイスコンポーネントと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -55,10 +55,11 @@ Experience Maker として成功するための道のりは、[ Experience Leagu
 
 Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。
 
-更新済み **2022 年 5 月 27 日**
+更新日：**2022 年 5 月 28 日**
 
 | イベント | タイプ | 説明 |
 | -----------|---------- | ----|
+| [Experience Makers 政府フォーラム](https://adobegovforum.govexec.com/agenda/) | オンデマンドビデオ | 5 月 10 日の第 13 回年次 AEMGF は、バーチャル参加者と対面参加者の組み合わせで成功を収めました。 テーマに焦点を当てた主流とブレイクアウトセッション _人を最優先にするデジタルエクスペリエンス_. 含まれる上位のセッション _マンハンター：我々がパブロ・エスコバーを降ろした仕組み_, _CX の将来_、および _創造の黄金時代と現代の職場_. |
 | [エキスパートに質問する：Web SDK の基本](https://www.youtube.com/watch?v=g0KajUfq-S4) | ウェビナー | データ収集のベストプラクティスについて理解し、使用します。 <br>[スケジュールと過去のイベント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja) |
 | [Adobe Campaign — カスタマーサクセスウェビナーシリーズ](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer:Adobe Campaignを使用した顧客ジャーニーの強化。 | ストリーミングの Kayo、Binge、Flashブランドのエンゲージメントオペレーション担当責任者、Anja Starun との Peer2Peer でのこのライブディスカッションに参加します。 Adobe Campaignを使用して個別化されたカスタマージャーニーを作成するためにチームが導入した成功戦略について、Sarah から直接お知らせします。 <br>**日付：** 5 月 26 日@午後 3 時 (EST) <br>[詳細と登録](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [Adobe Target コミュニティ](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940?profile.language=ja#M3096) | Q&amp;A コーヒーブレイク | 共有オーディエンス、Real-Time CDP、ファーストパーティデータ、エンドツーエンドのパーソナライゼーションワークフローなどに関するAdobe Targetの質問に回答できるAdobe Target製品チームの Brent Kostak と Drew Burns に参加します。<br>最近の [リアルタイムパーソナライズウェビナー](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012) 次の項目に関する専門家への質問 [コーヒーブレーク糸](https://adobe.ly/3MyiDHa) Adobe Targetコミュニティで！<br>**日付：** 2022 年 5 月 25 日@午前 8 時 (PDT)<br>[詳細と登録](https://adobe.ly/3MyiDHa) |
