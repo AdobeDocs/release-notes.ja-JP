@@ -9,11 +9,11 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 045b3df6e345a97bd4172c752c953580e42181c6
 workflow-type: tm+mt
 source-wordcount: '5033'
-ht-degree: 49%
+ht-degree: 97%
 
 ---
 
-# Adobe Experience Cloud リリースノート - 2022 年 5 月
+# Adobe Experience Cloud リリースノート - 2022年5月
 
 ![バナー](assets/experience-cloud-banner-3.png)
 
@@ -25,7 +25,7 @@ Experience Maker として成功するための道のりは、[ Experience Leagu
 >
 >このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
-最終更新日：**2022 年 5 月 27 日（PT）**
+最終更新日：**2022年5月27日（PT）**
 
 * [[!DNL Experience League] イベント](#events) ( 更新済み **5 月 28 日**)
 * [[!DNL Adobe System Status]](#status)
@@ -55,17 +55,17 @@ Experience Maker として成功するための道のりは、[ Experience Leagu
 
 Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。
 
-更新日：**2022 年 5 月 28 日**
+更新日：**2022年5月27日（PT）**
 
 | イベント | タイプ | 説明 |
 | -----------|---------- | ----|
 | [Experience Makers 政府フォーラム](https://adobegovforum.govexec.com/agenda/) | オンデマンドビデオ | 5 月 10 日の第 13 回年次 AEMGF は、バーチャル参加者と対面参加者の組み合わせで成功を収めました。 テーマに焦点を当てた主流とブレイクアウトセッション _人を最優先にするデジタルエクスペリエンス_. 含まれる上位のセッション _マンハンター：我々がパブロ・エスコバーを降ろした仕組み_, _CX の将来_、および _創造の黄金時代と現代の職場_. |
 | [エキスパートに質問する：Web SDK の基本](https://www.youtube.com/watch?v=g0KajUfq-S4) | ウェビナー | データ収集のベストプラクティスについて理解し、使用します。 <br>[スケジュールと過去のイベント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja) |
-| [Adobe Campaign — カスタマーサクセスウェビナーシリーズ](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer:Adobe Campaignを使用した顧客ジャーニーの強化。 | ストリーミングの Kayo、Binge、Flashブランドのエンゲージメントオペレーション担当責任者、Anja Starun との Peer2Peer でのこのライブディスカッションに参加します。 Adobe Campaignを使用して個別化されたカスタマージャーニーを作成するためにチームが導入した成功戦略について、Sarah から直接お知らせします。 <br>**日付：** 5 月 26 日@午後 3 時 (EST) <br>[詳細と登録](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
-| [Adobe Target コミュニティ](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940?profile.language=ja#M3096) | Q&amp;A コーヒーブレイク | 共有オーディエンス、Real-Time CDP、ファーストパーティデータ、エンドツーエンドのパーソナライゼーションワークフローなどに関するAdobe Targetの質問に回答できるAdobe Target製品チームの Brent Kostak と Drew Burns に参加します。<br>最近の [リアルタイムパーソナライズウェビナー](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012) 次の項目に関する専門家への質問 [コーヒーブレーク糸](https://adobe.ly/3MyiDHa) Adobe Targetコミュニティで！<br>**日付：** 2022 年 5 月 25 日@午前 8 時 (PDT)<br>[詳細と登録](https://adobe.ly/3MyiDHa) |
-| [Journey Optimizerでのプッシュ通知 — モバイルアプリをプッシュ用に簡単に設定する方法](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Adobe Journey Optimizerを使用したプッシュ通知の一般的な使用例について説明し、Adobe Experience Platformを利用したプッシュ通知の設定方法に関する技術的な詳細を説明します。 <br>**日付：** 2022 年 5 月 12 日@午前 9 時 30 分 (PDT)<br>[スケジュールと過去のイベント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
-| [Adobe [!DNL Developers Live]:コマース](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=en) | オンデマンドビデオ | _Adobe Developers Live:Commerce 2022_ は、様々な背景と特異な目的を持つ開発者とエクスペリエンスビルダーを統合し、驚くべきエンドツーエンドのエクスペリエンスを作成します。 この 1 日間の仮想会議では、コマースおよびオープンソース開発者向けの重要な更新、テクニカルセッション、コミュニティネットワークの機会などが提供されます。 |
-| [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) | オンデマンドビデオ | Marketoロードマップの重要性と、計画の不良を回避する方法について説明します。 プログラムメンバーのカスタムフィールドの可能性、Marketo Engageのヒントやテクニックなど、 [!DNL Marketo] 2021 年 8 月からのスキル交換、今Experience League。 |
+| [Adobe Campaign - カスタマーサクセスウェビナーシリーズ](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer：Adobe Campaign によるカスタマージャーニーを強化。 | Streamotion の Kayo、Binge、Flash の各ブランドにおけるエンゲージメントオペレーションのトップ、Anja Starun とのこの Peer2Peer ライブディスカッションにご参加ください。Adobe Campaign を使用してチームが実装した、個人に合わせたカスタマージャーニーの成功戦略について直接聞くことができます。<br>**日付：** 5月26日午後 3:00（EST）<br>[詳細と登録](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
+| [Adobe Target コミュニティ](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940?profile.language=ja#M3096) | Q&amp;A コーヒーブレイク | Adobe Target 製品チームの Brent Kostak と Drew Burns が、共有オーディエンス、Real-Time CDP、ファーストパーティデータ、エンドツーエンドのパーソナライゼーションワークフローなど、Adobe Target に関する質問に回答します。<br>最近の[リアルタイムパーソナライゼーションウェビナー](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012?profile.language=ja)を視聴し、Adobe Target コミュニティの[コーヒーブレイクスレッド](https://adobe.ly/3MyiDHa)で、エキスパートに補足の質問ができます。<br>**日付：** 2022年5月25日午前 8:00（PDT）<br>[詳細と登録](https://adobe.ly/3MyiDHa) |
+| [Journey Optimizer によるプッシュ通知 - モバイルアプリでプッシュを簡単に設定する方法](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Adobe Journey Optimizer によるプッシュ通知の一般的なユースケースについて説明し、Adobe Experience Platform を使用したプッシュ通知のためのアプリを設定する方法について技術的な詳細を説明します。<br>**日付：** 2022年5月12日午前 9:30（PDT）<br>[スケジュールと過去のイベント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
+| [Adobe [!DNL Developers Live]：Commerce](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=ja) | オンデマンドビデオ | _Adobe Developers Live：Commerce 2022_ は、多様な背景と単一の目的を持つアドビ開発者とエクスペリエンスビルダーを結集し、素晴らしいエンドツーエンドのエクスペリエンスを作り出します。この 1 日限りのバーチャルカンファレンスでは、Commerce および Open Source Developer の重要なアップデート、技術セッション、コミュニティネットワーク形成の機会などが提供されます。 |
+| [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=ja) | オンデマンドビデオ | Marketo ロードマップの重要性と不十分な計画を回避する方法について説明します。Experience League でアクセスできる、2021年8月以降の [!DNL Marketo] Skill Exchange では、プログラムメンバーカスタムフィールドの可能性を引き出すアドバイスや、Marketo Engage のヒントとテクニックなどを得ることができます。 |
 | [Adobe Summit 2022](https://business.adobe.com/summit/adobe-summit.html) | オンデマンドセッション | Ryan Reynolds（アドビ、エグゼクティブ）、Rosalind Brewer（Walgreens Boots Alliance, Inc、CEO）、John Donahoe（NIKE, Inc.、CEO）、Gail J. McGovern（アメリカ赤十字社、CEO）の各氏が、カスタマーエクスペリエンスがいかにデジタル経済の通貨となるか、その方法を伝授します。<br>Adobe Summit 2022 の[オンデマンドセッション](https://business.adobe.com/summit/2022/sessions.html)を参照します。 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -94,7 +94,7 @@ Experience Cloud の[主要な UI コンポーネント](https://experienceleagu
 
 [!DNL Experience Platform] と [!UICONTROL Mobile SDK] の最新リリース情報および新規ドキュメント：
 
-リリース予定日： **2022 年 5 月 26 日**
+リリース予定日：**2022年5月25日（PT）**
 
 * [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)
 
@@ -104,13 +104,13 @@ Experience Cloud の[主要な UI コンポーネント](https://experienceleagu
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022年5月 | [セグメント一致の事前共有インサイト](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/segment-match-pre-share-insights.html) | ビデオ | データを共有する戦略的パートナーを決定する際は、顧客がどのように一致するかを把握し、そのデータ共有がどの程度役立つかを把握することが重要です。 セグメントの一致を使用すると、データを共有する前に、潜在的なデータパートナーとの重複を確認できます。 | [!DNL Real-time Customer Data Platform] |
-| 2022年5月 | [セグメントマッチの接続設定](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/segment-match-connection-setup.html?lang=en) | ビデオ | オーディエンスを共有できるようにパートナーとの間の接続を設定する方法について説明します。 このセグメントマッチ機能を設定すると、データパートナーとデータを相互に共有できるようになります。 | [!DNL Real-time Customer Data Platform] |
-| 2022年5月 | [セグメント一致データガバナンス](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/segment-match-data-governance.html?lang=en) | ビデオ | Real-Time CDPでデータガバナンスコントロールを設定し、使用して、データパートナーと共有できるデータセット（つまり、そのデータセットを使用するセグメント）を制限する方法について説明します。 | [!DNL Real-time Customer Data Platform] |
-| 2022年5月 | [セグメント一致設定フロー](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/segment-match-configuration-flow.html?lang=en) | ビデオ | を設定するプロセスを説明します。 [!UICONTROL セグメントの一致] データ共有のインスタンス。 | [!DNL Real-time Customer Data Platform] |
-| 2022年5月 | [宛先への接続](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/connecting-to-destinations.html) | ビデオ | リアルタイム CDP から宛先パートナーにデータを送信する前に、まずそれらのパートナーに接続します。 このビデオでは、このプロセス（通常は管理者が実行）について説明します。 | [!DNL Real-time Customer Data Platform] |
-| 2022年5月 | [スキーマの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html) | ビデオ | このビデオでは、XDM Individual Profile クラスと様々なフィールドグループを使用してAdobe Experience Platformでスキーマを作成する方法を説明します。 | Experience Platform |
-| 2022年5月 | [クエリサービスを使用して、Tableau のオムニチャネルインサイトを分析および視覚化します](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/analyze-and-visualize.html) | ビデオ | チャーン分析の例を使用して、Adobe Experience Platformのクエリサービスを外部のデータ視覚化ツールと共に使用する方法を説明します。 | Experience Platform |
+| 2022年5月 | [セグメントの一致によるインサイトの事前共有](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/segment-match-pre-share-insights.html?lang=ja) | ビデオ | データを共有する戦略的パートナーを決定する際に、そのデータ共有の有用性を知るには、顧客とのマッチングを把握ことが重要です。セグメントの一致を使用すると、データを共有する前に、潜在的なデータパートナーとの重複を確認できます。 | [!DNL Real-time Customer Data Platform] |
+| 2022年5月 | [セグメントの一致の接続設定](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/segment-match-connection-setup.html?lang=ja) | ビデオ | パートナーとの接続を設定して、オーディエンスを共有できるようにする方法を説明します。このセグメントの一致機能を設定すると、データパートナーとの間でデータをやり取りできるようになります。 | [!DNL Real-time Customer Data Platform] |
+| 2022年5月 | [セグメントの一致のデータガバナンス](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/segment-match-data-governance.html?lang=ja) | ビデオ | Real-Time CDP のデータガバナンスコントロールを設定および使用して、データパートナーと共有できるデータセット（およびそれらのデータセットを使用するセグメント）を制限できるようにする方法を説明します。 | [!DNL Real-time Customer Data Platform] |
+| 2022年5月 | [セグメントの一致の設定フロー](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/segment-match-configuration-flow.html?lang=ja) | ビデオ | データ共有のための[!UICONTROL セグメントの一致]インスタンスの設定プロセスを説明します。 | [!DNL Real-time Customer Data Platform] |
+| 2022年5月 | [宛先への接続](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/connecting-to-destinations.html?lang=ja) | ビデオ | Real-Time CDP から宛先パートナーにデータを送信する前に、最初にそれらのパートナーへの接続を行います。このビデオでは、通常、管理者が行うこのプロセスを説明します。 | [!DNL Real-time Customer Data Platform] |
+| 2022年5月 | [スキーマの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=ja) | ビデオ | このビデオでは、XDM Individual Profile クラスと様々なフィールドグループを使用して、Adobe Experience Platform でスキーマを作成する方法を示します。 | Experience Platform |
+| 2022年5月 | [Tableau でのクエリサービスを使用したオムニチャネルインサイトの分析と視覚化](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/analyze-and-visualize.html?lang=ja) | ビデオ | チャーン分析の例を使用して、Adobe Experience Platform のクエリサービスを外部データビジュアライゼーションツールで使用する方法を説明します。 | Experience Platform |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -120,7 +120,7 @@ Adobe Experience Platform Mobile SDK の[リリースノートと変更ログ](h
 
 ## ![アイコン](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-リリース日：**2022 年 5 月 18 日（PT）**
+リリース日：**2022年5月18日（PT）**
 
 * Adobe Analytics [リリースノート](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=ja)
 * Adobe Analytics [製品ドキュメントとチュートリアル](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)
@@ -137,28 +137,28 @@ Adobe Analytics 用に公開された新しいビデオチュートリアル、�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年5月 | [Report Builder](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/get-started-with-report-builder.html?lang=en) | ビデオ | インストール、サインイン、データReport Builderリクエストなど、インストールの基本について説明します。 |
-| 2022年5月 | [新しいランディングページに移動](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.html?lang=en) | ビデオ | 新しい Analytics ランディングページとその機能を最大限に活用する方法を説明します。 |
-| 2022年5月 | [次/前/ページの概要ワークスペースのパネルとレポート](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.html) | ビデオ | Analysis Workspaceの「次へ」と「前へ」と「ページの概要」の 2 つの新しいパネルタイプを確認します。 これらにより、Workspace は人気の高い [!UICONTROL Reports &amp; Analytics] レポート。 |
-| 2022年5月 | [Analysis Workspaceランディングページの更新](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.html?lang=en) | ビデオ | 新しいランディングページの改善点と追加点のいくつかを説明します。 お客様のご意見を参考に、列のサイズ変更、新しい列のタイプ、リアルタイムおよびボットレポートへのリンクなど、最も重要な機能を取り入れようとしました。 |
-| 2022年5月 | [正しい質問をしてるの？](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/are-you-asking-the-right-questions.html) | ビデオ | すべての可能な要素を記録するよりも、実用的なデータポイントを特定して収集する方が有益な方法を説明します。 これらのデータポイントを効率的に特定するには、基本的な計画と、関係者との創造的な議論が必要です。 |
-| 2022年5月 | [用途 [!UICONTROL Report Builder] Power BIのアドバンス配信オプション](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.html?lang=en) | ビデオ | Report BuilderブックをPower BIに送信する高度なスケジュールを設定する方法を説明します。 |
-| 2022年5月 | [スケジュールのReport Builderリクエスト](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/schedule-a-report-builder-request.html?lang=en) | ビデオ | ワークブックの基本的なスケジュールを設定するReport Builderを説明します。 |
+| 2022年5月 | [Report Builder の概要](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/get-started-with-report-builder.html?lang=ja) | ビデオ | インストール、サインイン、データリクエストを含む、Report Builder の使用の基礎について説明します。 |
+| 2022年5月 | [新しいランディングページのナビゲート](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.html?lang=ja) | ビデオ | 新しい Analytics ランディングページとその機能を最大限に活用する方法を学習します。 |
+| 2022年5月 | [次 / 前およびページの概要ワークスペースパネルおよびレポート](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.html?lang=ja) | ビデオ | Analysis Workspace の 2 つの新しいパネルタイプ（次 / 前およびページの概要）について確認します。これにより、Workspaceは、より一般的な [!UICONTROL Reports &amp; Analytics] レポートと同等になります。 |
+| 2022年5月 | [Analysis Workspace ランディングページの更新](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.html?lang=ja) | ビデオ | 新しいランディングページの大幅な改善および追加について説明します。お客様からのフィードバックを受けて、列のサイズ変更、新しい列のタイプ、リアルタイムおよびボットレポートへのリンクなど、最も目立った機能を組み込むように努めました。 |
+| 2022年5月 | [正しい質問をしていますか？](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/are-you-asking-the-right-questions.html?lang=ja) | ビデオ | 可能な限りすべての要素を記録するよりも、実用的なデータポイントを特定して収集することの方がいかに価値があるかを説明します。これらのデータポイントを効率的に特定するには、基本的な計画と関係者との創造的な議論が必要です。 |
+| 2022年5月 | [Power BI 向けの [!UICONTROL Report Builder] の高度な配信オプションの使用](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.html?lang=ja) | ビデオ | Report Builder ワークブックを Power BI に送信するための高度なスケジュールの設定方法を説明します。 |
+| 2022年5月 | [Report Builder リクエストのスケジュール設定](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/schedule-a-report-builder-request.html?lang=ja) | ビデオ | Report Builder ワークブックの基本的なスケジュールの設定方法を説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ## ![アイコン](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-リリース日：**2022 年 5 月 18 日（PT）**
+リリース日：**2022年5月18日（PT）**
 
 * Customer Journey Analytics [リリースノート](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=ja)
 * Customer Journey Analytics [製品ドキュメントとチュートリアル](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=ja)
 
 ## ![アイコン](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-最終更新日： **2022 年 3 月 24 日**
+最終更新日：**2022年3月23日（PT）**
 
-* [!DNL Streaming Media Analytics][ リリースノート](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=ja)
+* [!DNL Streaming Media Analytics] [リリースノート](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=ja)
 * [!DNL Streaming Media Analytics] [製品ドキュメントとチュートリアル](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=ja)
 
 <!-- ### New Customer Journey Analytics tutorials and courses {#tutorials-cja}
@@ -193,84 +193,84 @@ Audience Manager の修正点と改善点：
 
 * **Adobe Experience Manager as a Cloud Service**
 
-   次を監視： [2022 年 4 月リリースの概要ビデオ](https://video.tv.adobe.com/v/342612?quality=12) 2022.4.0（2022 年 4 月）リリースに追加された機能の概要。 <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
+   2022.4.0（2022年4月）リリースで追加された機能の概要については、[2022年4月リリースの概要ビデオ](https://video.tv.adobe.com/v/342612?quality=12)をご覧ください。 <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
-   * [2022 年 3 月リリースの概要ビデオ](https://video.tv.adobe.com/v/341465).
-   * [2022 年 1 月リリースの概要ビデオ](https://video.tv.adobe.com/v/340120).
-   * [2021 年 12 月リリースの概要ビデオ](https://video.tv.adobe.com/v/339278).
-   * [2021 年 10 月リリースの概要ビデオ](https://video.tv.adobe.com/v/338253).
-   * [2021 年 9 月リリースの概要ビデオ](https://video.tv.adobe.com/v/337381).
+   * [2022年3月リリースの概要ビデオ](https://video.tv.adobe.com/v/341465)。
+   * [2022年1月リリースの概要ビデオ](https://video.tv.adobe.com/v/340120)。
+   * [2021年12月リリースの概要ビデオ](https://video.tv.adobe.com/v/339278)。
+   * [2021年10月リリースの概要ビデオ](https://video.tv.adobe.com/v/338253)。
+   * [2021年9月リリースの概要ビデオ](https://video.tv.adobe.com/v/337381)。
 
 * **Experience Manager Sites as a Cloud Service**
 
    _新機能_
 
-   * コンテンツモデルのデータタイプを [翻訳可能な](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/content-fragments/content-fragments-models.html?lang=en#properties) コンテンツモデルエディターのチェックボックスを使用します。 また、Experience Manager翻訳ルールと設定は自動的に更新されます。
+   * コンテンツモデルエディターのチェックボックスを使用して、コンテンツモデルのデータタイプを[翻訳可能](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/content-fragments/content-fragments-models.html?lang=ja#properties)として定義できるようになりました。また、Experience Manager の翻訳ルールと設定は、自動的に更新されます。
 
    _プレリリースチャネルの新機能_
 
-   * エクスペリエンスフラグメントをプレビュー用に公開 — 訪問者に表示される最終的なエクスペリエンスをプレビューするには、スタンドアロンのエクスペリエンスフラグメントをExperience Managerのas a Cloud Serviceプレビューサービスに公開します。
+   * プレビューのための公開エクスペリエンスフラグメント – 訪問者が見ることのできる最終的なエクスペリエンスをプレビューするには、スタンドアロンのエクスペリエンスフラグメントを Experience Manager as a Cloud Service Preview Service に公開します。
 
 
 * **Experience Manager Assets as a Cloud Service**
 
    _新機能_
 
-   * 次の操作を実行できます。 [タグを並べ替え](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/organize-assets.html?lang=ja#use-tags-to-organize-assets) タグ名、作成日または変更日に基づいて昇順または降順でタグピッカーウィンドウを表示します。
+   * タグピッカーウィンドウで、タグ名、作成日、変更日に基づいて、昇順または降順で[タグを並べ替える](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/organize-assets.html?lang=ja#use-tags-to-organize-assets)ことができるようになりました。
 
 * **Adobe Experience Manager Forms as a Cloud Service**
 
    _新機能_
 
-   * **通信 — Formsas a Cloud ServiceSDK でのドキュメント操作 API のサポート** - [ドキュメント操作 API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html?lang=ja) ヘルプ：PDFドキュメントの組み合わせ、並べ替え、検証に役立ちます。 Experience Manager Formsas a Cloud ServiceSDK を利用して、ローカル開発環境で通信 — ドキュメント生成 API を使用できるようになりました。
-   * **レコードのドキュメントの生成にカスタム XCI を使用**  — 次の操作が可能になりました。 [カスタム XCI ファイルを使用してレコードのドキュメントの様々なプロパティを設定する](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en#use-a-custom-xci-file). プライマリ XCI をカスタム変更で上書きします。レコードのドキュメントの生成をより詳細に制御し、パーソナライゼーションやカスタマイズの機会を増やします。
-   * **アダプティブフォーム内で非表示の CAPTCHA を使用する** - [疑わしいアクティビティがある場合にのみ CAPTCHA チャレンジを表示する非表示の CAPTCHA](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/add-components-to-an-adaptive-form/captcha-adaptive-forms.html?lang=en). 不審なアクティビティがない場合、CAPTCHA チャレンジは表示されません。これにより、チェックボックス要件を持たずに人間がフォームを完成させたかどうかを評価し、カスタマイズ作業を軽減し、エンドユーザーエクスペリエンスを向上させることができます。
-   * **フォームデータモデル設定**  — 次の操作が可能になりました。 [複数の環境でフォームデータモデルの設定を再利用する](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/create-form-data-models.html?lang=en#runmode-specific-context-aware-config)を使用すると、データ統合をシンプル化し、IT コストを削減できます。
+   * **Communications - Forms as a Cloud Service SDK での Document Manipulation API のサポート** – [Document Manipulation API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html?lang=ja) は、PDF ドキュメントを組み合わせたり、並べ替えたり、検証したりするのに役立ちます。Experience Manager Forms as a Cloud Service SDK を利用して、ローカル開発環境でも Communications - Document Generation API を使用できるようになりました。
+   * **レコードのドキュメントの生成にカスタム XCI を使用** – [レコードのドキュメントの様々なプロパティを設定するためにカスタム XCI ファイルを使用](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=ja#use-a-custom-xci-file)できるようになりました。プライマリ XCI をカスタム変更で上書きします。レコードのドキュメントの生成をよりコントロールして、パーソナライゼーションおよびカスタマイズの機会を増やすことができます。
+   * **アダプティブフォームで非表示の CAPTCHA を使用** – [非表示の CAPTCHA を使用して、不審なアクティビティがある場合にのみ CAPTCHA チャレンジを表示](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/add-components-to-an-adaptive-form/captcha-adaptive-forms.html?lang=ja)できます。不審なアクティビティがない場合、CAPTCHA チャレンジは表示されません。チェックボックスを必要とせずに人間によるフォームの記入を評価し、カスタマイズの手間を省いて、エンドユーザーエクスペリエンスを向上させることができます。
+   * **フォームデータモデル設定** – [環境をまたいでフォームデータモデル設定を再利用](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/create-form-data-models.html?lang=ja#runmode-specific-context-aware-config)して、データ統合をシンプル化し、IT コストを削減できるようになりました。
 
 * **Experience Manager Screens as a Cloud Service**
 
    _新機能_
 
-   * チャネルの一括割り当て — ユーザーは、複数のチャネルを選択し、同時に複数のディスプレイに割り当てることができます。
+   * バルクチャネル割り当て - ユーザーは、1 回の操作で、複数のチャネルを選択し、同時に複数のディスプレイに割り当てることができます。
 
 * **Adobe Experience Manager as a Cloud Service の基盤**
 
    _**SDK ビルドアナライザー**_
 
-   Experience Manageras a Cloud ServiceSDK Build Analyzer Maven プラグインは、Maven プロジェクト内の問題を検出します。この問題には、存在しない依存関係も含まれます。 これを使用すると、ローカル開発中に、Cloud Manager でクラウド環境にデプロイする前に開発者が問題を見つけることができます。
+   Adobe Experience Manager as a Cloud Service SDK ビルドアナライザーの Maven プラグインでは、依存関係の欠落など、Maven プロジェクトの問題を検出します。これを使用すると、ローカル開発中に、Cloud Manager でクラウド環境にデプロイする前に開発者が問題を見つけることができます。
 
-   新しいアナライザが最近追加されました。
+   新しいアナライザーが最近追加されました。
 
-   * content-packages-validation — デプロイメント中にインストールされるパッケージの整形式のコンテンツ構文および構造を検証します。
-   Adobeでは、Maven プロジェクトを最新バージョンのアナライザーで更新するか、アナライザーをまだ実行していない場合は含めることをお勧めします。 詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/build-analyzer-maven-plugin.html?lang=ja)を参照してください。
+   * コンテンツパッケージ検証 – デプロイメント中にインストールされるパッケージについて、コンテンツの構文と構造が適切に形成されているかどうかを検証します。
+   アドビでは、アナライザーの最新バージョンで maven プロジェクトをアップデートするか、まだアップデートしていない場合はアナライザーを含めることをお勧めします。詳しくは、[ドキュメント](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/build-analyzer-maven-plugin.html?lang=ja)を参照してください。
 
 * **Cloud Manager**
 
    _新機能_
 
-   * 環境ページには、環境のバージョンを表示するExperience Manager列があります。
-   * パイプライン実行で、ユーザーインターフェイスの最上位レベルのエラーが実行画面に表示されるようになりました。
-   * Cloud Manager ユーザーインターフェイスを使用して、実稼動デプロイステップを再実行します。
-   * 実稼動デプロイステップを再実行するために、ビルドイメージを再利用します。
-   * ネットワークインフラストラクチャのセルフサービス削除を可能にする新しい API。
+   * 環境ページには、環境の Experience Manager バージョンを表示する列があります。
+   * パイプライン実行では、実行画面にユーザーインターフェイスの最上位レベルのエラーが表示されるようになりました。
+   * Cloud Manager ユーザーインターフェイスを介して、実稼動デプロイ手順を再実行します。
+   * 実稼動デプロイ手順を再実行するために、ビルド画像を再利用します。
+   * ネットワークインフラストラクチャのセルフサービスの削除を有効にするための新しい API。
 
 * **ベストプラクティスアナライザー**
 
    _新機能_
 
-   * サポートされていない Asset Manager API の使用状況を検出し、レポートする機能。 Experience Manageras a Cloud Serviceでサポートされなくなった API は 4 つあります。 お客様は、これらの API を使用しなくなり、新しいアセットアップロード方法を使用する必要があります。
-   * コンテンツフラグメントテンプレートの使用を検出する機能。 コンテンツフラグメントテンプレートは、Experience Manageras a Cloud Serviceでの新しいコンテンツフラグメント作成でサポートされなくなりました。 コンテンツフラグメントテンプレートを置き換えるには、コンテンツフラグメントモデルを作成する必要があります。
-   * リポジトリ内のアセットの metadate ノードの下に 100 を超える子孫を持つアセットを検出できます。 Adobeでは、不要なメタデータノードを削除することをお勧めします。これにより、そのようなアセットで構成されるフォルダーを読み込む際のパフォーマンスを向上させることができます。
-   * 使用されるデータストアのタイプを検出し、レポートする機能。
-   * パターンがExperience Managerフォームポータル用に更新されました。
+   * サポートされていない Asset Manager API の使用を検出およびレポートする機能。Experience Manager as a Cloud Service でサポートされなくなった API が 4 つあります。お客様は、これらの API がもう使用されていないことを確認し、アセットアップロードの新しい方法を使用している必要があります。
+   * コンテンツフラグメントテンプレートの使用を検出する機能。コンテンツフラグメントテンプレートは、Experience Manager as a Cloud Service 上での新しいコンテンツフラグメントの作成をサポートしなくなりました。お客様は、コンテンツフラグメントテンプレートを置き換えるために、コンテンツフラグメントモデルを作成する必要があります。
+   * リポジトリ内のアセットのメタデータノードの下に 100 以上の子孫を持つアセットを検出する機能。アドビでは、そのようなアセットで構成されるフォルダーを読み込む際にパフォーマンスを改善できるように、不要なメタデータノードを削除することをお勧めします。
+   * 使用されているデータストアのタイプを検出およびレポートする機能。
+   * Experience Manager フォームポータルの更新されたパターン。
 
 ### コミュニティ
 
-* **記録済みExperience ManagerGEM ウェビナー**
+* **録画済み Experience Manager GEMs ウェビナー**
 
-   * [_AEM &amp; CIF フレームワークを統合して、豊かで没入感のある e コマースエクスペリエンスを構築します。_](https://adobe.ly/3jorz5r).
+   * [_AEM と CIF フレームワークを統合し、リッチで没入感のある e コマースエクスペリエンスを構築_](https://adobe.ly/3jorz5r)します。
 
-* Experience Manageras a Cloud Service [2022.4.0 リリースの更新](https://adobe.ly/3LO0gOo).
+* Experience Manager as a Cloud Service [2022.4.0 リリースのアップデート](https://adobe.ly/3LO0gOo)。
 
 ### 新しい Adobe Experience Manager コースとチュートリアル {#tutorials-aem}
 
@@ -278,22 +278,22 @@ Audience Manager の修正点と改善点：
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2022年5月 | [AEM as a Cloud Service 2021.4.0 リリースアップデート](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2021/2021-4-0.html?lang=en) | ビデオ | AEM製品チームから連絡を受け、Adobe Experience Managerの最新リリースの機能とイノベーションについて学びます。 | AEM Asset Essentials、Sites、Screens、Forms、Cloud Foundation |
-| 2022年5月 | [Cloud 5 AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/cloud-5/cloud5-introduction.html) | ビデオ | 5 分以下の短いビデオでAEM as a Cloud Serviceに関して必要なすべての有用な情報を入手できます。 シーズン 1 から始めます。 | AEM CS |
-| 2022年5月 | [統合用のログイントークンの取得](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/cloud-5/cloud5-getting-login-token-integrations.html) | ビデオ | Cloud Service統合のためのログイントークンの取得方法と、そのための一部の使用例に関する詳細なガイドです。 | AEM CS |
-| 2022年5月 | [カルーセルでの複数の PDF ドキュメントの表示](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/display-pdf-in-carousel.html?lang=en) | ビデオ | 複数のPDFドキュメントをフォームの入力者に表示してフォームを送信する前にレビューする場合の一般的な使用例について説明します。 | AEM Forms |
-| 2022年5月 | [画像 (AEMヘッドレス )](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/how-to/images.html) | ビデオ | 画像を使用した、豊富で魅力的なAEMヘッドレスエクスペリエンスの開発などについて説明します。 | AEM ヘッドレス |
-| 2022年5月 | [AEMヘッドレスを含むリッチテキスト](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/how-to/localized-content.html) | ビデオ | 作成者がリッチテキストコンテンツを作成できるコンテンツフラグメントのデータ型である複数行テキストフィールドの使用方法について説明します。 | AEM ヘッドレス |
+| 2022年5月 | [AEM as a Cloud Service 2021.4.0 リリースのアップデート](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2021/2021-4-0.html?lang=ja) | ビデオ | AEM 製品チームが Adobe Experience Manager の最新リリースの機能およびイノベーションについて説明します。 | AEM Asset Essentials、Sites、Screens、Forms、Cloud Foundation |
+| 2022年5月 | [Cloud 5 AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/cloud-5/cloud5-introduction.html?lang=ja) | ビデオ | AEM as a Cloud Service について必要な役立つ情報を 5 分以内の短いビデオで紹介します。シーズン 1 から開始します。 | AEM CS |
+| 2022年5月 | [統合用のログイントークンの取得](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/cloud-5/cloud5-getting-login-token-integrations.html?lang=ja) | ビデオ | Cloud Service 統合用のログイントークンを取得する方法と、そのためのユースケースについて詳しく説明します。 | AEM CS |
+| 2022年5月 | [カルーセルでの複数の PDF ドキュメントの表示](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/display-pdf-in-carousel.html?lang=ja) | ビデオ | フォーム送信前に確認するための、フォーム入力者への複数の PDF ドキュメントの表示に関する一般的なユースケースについて説明します。 | AEM Forms |
+| 2022年5月 | [AEM ヘッドレスを使用した画像](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/how-to/images.html?lang=ja) | ビデオ | 画像を使用したリッチで魅力的な AEM ヘッドレスエクスペリエンスの開発などについて説明します。 | AEM ヘッドレス |
+| 2022年5月 | [AEM ヘッドレスを使用したリッチテキスト](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/how-to/localized-content.html?lang=ja) | ビデオ | 作成者によるリッチテキストコンテンツの作成を可能にするコンテンツフラグメントのデータタイプである、複数行テキストフィールドの使用方法を説明します。 | AEM ヘッドレス |
 | 2022年5月 | [出力専用 IP アドレス](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/networking/dedicated-egress-ip-address.html?lang=ja) | ビデオ | AEM からのアウトバウンド接続で専用 IP から発信できるようにする、出力専用 IP アドレスの設定と使用方法について説明します。 | AEM CS |
-| 2022年5月 | [コードのデプロイ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/deploy-code.html) | ビデオ | AEM as a Cloud Serviceの Cloud Manager パイプラインを使用して、コードを実稼動環境にデプロイする方法を説明します。 | AEM CS、Cloud Manager |
-| 2022年5月 | [後処理ワークフローの実行を無効にする](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/asset-microservices-configure-and-use.html#disable-post-processing-workflow-execution) | ドキュメント | 後処理が不要な場合に、「ワークフローの自動開始」の節で空のワークフローモデルを作成する方法を説明します。 | AEM CS |
-| 2022年5月 | [透かし](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/watermarks.html?lang=en) | ビデオ | AEMのas a Cloud Service的な透かし付け機能を使用すると、カスタムの画像レンディションに任意の PNG 画像を使用して透かしを追加できます。 | AEM Assets |
+| 2022年5月 | [コードのデプロイ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/deploy-code.html?lang=ja) | ビデオ | AEM as a Cloud Service の Cloud Manager パイプラインを使用してコードを実稼動環境にデプロイする方法を説明します。 | AEM CS、Cloud Manager |
+| 2022年5月 | [ワークフロー実行の後処理を無効にする](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/asset-microservices-configure-and-use.html?lang=ja#disable-post-processing-workflow-execution) | ドキュメント | 後処理が不要な場合に、「ワークフローの自動開始」セクションで空のワークフローモデルを作成する方法を説明します。 | AEM CS |
+| 2022年5月 | [透かし](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/watermarks.html?lang=ja) | ビデオ | AEM as a Cloud Service の透かし機能を使用すると、任意の PNG 画像を使用して、カスタム画像のレンディションを透かしにすることができます。 | AEM Assets |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Adobe Experience Manager リリース情報
 
-Experience Manager のリリースノートはすべて次のページに記載されています。
+Experience Manager のリリースノートはすべて以下のページに記載されています。
 
 * [Adobe Experience Manager as a Cloud Service リリース情報](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=ja)
 * [Adobe Experience Manager Cloud Manager リリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=ja)
@@ -319,27 +319,27 @@ Experience Manager のリリースノートはすべて次のページに記載�
 * [Dynamic Media Classic ヘルプホーム](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=ja)
 * [Adobe Experience Manager ドキュメント：最近の更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=ja#aem-as-a-cloud-service)
 
-## ![アイコン](/assets/ec_appicon_24.png) Adobe Experience Managerガイド {#xml-doc}
+## ![アイコン](/assets/ec_appicon_24.png) Adobe Experience Manager Guides {#xml-doc}
 
-Experience Managerガイド ( 旧称：XML Documentation for AEM) は、Experience Managerにデプロイされたアプリケーションです。 Adobe Experience Manager でのネイティブ DITA サポートを可能にし、AEM が DITA ベースのコンテンツの作成と配信を処理できる、強力なエンタープライズグレードのコンポーネントコンテンツ管理ソリューション（CCMS）です。
+Experience Manager Guides（以前の XML Documentation for Experience Manager）は、AEM にデプロイされたアプリケーションです。Adobe Experience Manager でのネイティブ DITA サポートを可能にし、AEM が DITA ベースのコンテンツの作成と配信を処理できる、強力なエンタープライズグレードのコンポーネントコンテンツ管理ソリューション（CCMS）です。
 
 詳細情報： [Experience Managerガイド](https://www.adobe.com/jp/products/xml-documentation-for-experience-manager/features.html).
 
 ### その他のリソース
 
-* [Experience Managerガイド](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=ja) -Experience Leagueに関するチュートリアル
-* [Experience Managerガイドの学習とサポート](https://helpx.adobe.com/jp/support/xml-documentation-for-experience-manager.html)  — 製品ドキュメント
+* [Experience Manager Guides](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=ja) - Experience League のチュートリアル
+* [Experience Manager Guides ラーニングとサポート](https://helpx.adobe.com/jp/support/xml-documentation-for-experience-manager.html) - 製品ドキュメント
 
 ## ![アイコン](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
-Adobe Commerce リリースノートについては、次のリンクを参照してください。
+Adobe Commerce リリースノートについては、以下のリンクを参照してください。
 
-* [Adobe CommerceとMagento Open Source2.4.x のリリースノート](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
+* [Adobe Commerce および Magento Open Source 2.4.x リリースノート](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
 * [Cloud Suite のリリースノート](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ## ![アイコン](/assets/target.png) [!DNL Adobe Target] {#target}
 
-最終更新日： **2022 年 5 月 10 日**
+最終更新日：**2022年5月9日（PT）**
 
 * プレリリース情報については、[Adobe Target プレリリース](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ja)を参照
 * 現在の情報については、[Adobe Target リリースノート](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=ja)を参照
@@ -352,7 +352,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 **最新リリース：** [Campaign Standardリリース 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html) （2022 年 6 月）
 
-の最新の機能、改善点、修正点について詳しくは、 [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=ja)、および [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) リリースノート。
+最新の機能、改善点、修正点について詳しくは、[Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja)、[Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=ja) および [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) リリースノートを参照してください。
 
 ### Campaign ヘルプリソース
 
@@ -375,19 +375,19 @@ Journey Optimizer では、スケジュールされたオムニチャネルキ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年5月 | [決定ルールの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-rules.html?lang=en) | ビデオ | 意思決定管理の決定ルールを作成する方法を説明します。 ルールまたは _決定ルール_ は、パーソナライズされたオファーに必要な構成要素コンポーネントの 1 つです。 |
-| 2022年5月 | [プレースメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-placements.html) | ビデオ | 意思決定管理のプレースメントを作成する方法を説明します。プレースメントは、オファーの構成要素の 1 つです。 プレースメントは、コンテンツタイプとチャネルの組み合わせです。例えば、メール内の画像や web サイトの HTML コードなどです。 |
-| 2022年5月 | [決定の作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-decisions.html) | ビデオ | 意思決定管理の決定を作成する方法を説明します。決定は、プレースメントとコレクションを 1 つのエンティティに組み合わせたものなので、最も関連性の高いオファーを顧客に提供するように決定を作成できます。 |
-| 2022年5月 | [決定ハブ API を使用したオファーの配信](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/deliver-offers-with-the-decisions-api.html) | ビデオ | 決定ハブ API を使用してオファーを配信する方法について説明します。 |
-| 2022年5月 | [フォールバックオファーの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-fallback-offers.html) | ビデオ | 意思決定管理のフォールバックオファーを作成する方法を説明します。フォールバックオファーは、パーソナライズされたオファーの対象にならない顧客に表示されるデフォルトのオファーです。 |
-| 2022年5月 | [コレクションの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-collections.html?lang=en) | ビデオ | 意思決定管理のコレクションを作成する方法を説明します。コレクションは、論理グループ内のオファーの管理に使用され、決定管理アクティビティの作成に必要です |
+| 2022年5月 | [決定ルールの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-rules.html?lang=ja) | ビデオ | 意思決定管理の決定ルールを作成する方法を説明します。ルール（_決定ルール_）は、パーソナライズされたオファーに必須の構成要素の 1 つです。 |
+| 2022年5月 | [プレースメントの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-placements.html?lang=ja) | ビデオ | 意思決定管理のプレースメントを作成する方法を説明します。プレースメントは、オファーの構成要素の 1 つです。 プレースメントは、コンテンツタイプとチャネルの組み合わせです。例えば、メール内の画像や web サイトの HTML コードなどです。 |
+| 2022年5月 | [決定の作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-decisions.html?lang=ja) | ビデオ | 意思決定管理の決定を作成する方法を説明します。決定は、プレースメントとコレクションを 1 つのエンティティに組み合わせたものなので、最も関連性の高いオファーを顧客に提供するように決定を作成できます。 |
+| 2022年5月 | [決定ハブ API を使用したオファーの配信](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/deliver-offers-with-the-decisions-api.html?lang=ja) | ビデオ | 決定ハブ API を使用してオファーを配信する方法について説明します。 |
+| 2022年5月 | [フォールバックオファーの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-fallback-offers.html?lang=ja) | ビデオ | 意思決定管理のフォールバックオファーを作成する方法を説明します。フォールバックオファーは、デフォルトのオファーで、パーソナライズされたオファーのいずれにも該当しない顧客に表示されます。 |
+| 2022年5月 | [コレクションの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-collections.html?lang=ja) | ビデオ | 意思決定管理のコレクションを作成する方法を説明します。コレクションは、オファーを論理グループに分けて管理するために使用されるもので、意思決定管理アクティビティの作成に必要です |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Journey Optimizer] のその他のリソース
 
 * [Journey Optimizer ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja)
-* [意思決定管理ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started-decision/starting-offer-decisioning.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ja)
+* [意思決定管理ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started-decision/starting-offer-decisioning.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=ja) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ja)
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
@@ -405,15 +405,15 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 
 [!DNL Marketo Engage] は、複雑な購入ジャーニーのすべてのステージにわたるエンゲージメントを通じてカスタマーエクスペリエンスを変革しようとしている経営陣や B2B マーケター向けの完全なアプリケーションです。
 
-新しく公開されたビデオExperience League:
+Experience League に新しく公開されたビデオイベント：
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年5月 | [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) | ビデオ | Marketoロードマップの学習から始めます。 次に、製品としてのMarketoインスタンスを考えることの重要性を見つけます。 この新しく公開されたプログラムメンバーのカスタムフィールド、Marketo Engageのヒントやテクニックなどの潜在的なロック解除に関するアドバイスを得る [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) 2021 年 8 月から、現在はExperience League。 |
+| 2022年5月 | [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) | ビデオ | Marketo ロードマップに関する学習から始めます。次に、Marketo インスタンスを製品として考えることの重要性を確認します。Experience League でアクセスできる、2021年8月以降に新しく公開された [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) では、プログラムメンバーカスタムフィールドの可能性を引き出すアドバイスや、Marketo Engage のヒントとテクニックなどを得ることができます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
-### Core Marketo Engage の更新
+### コア Marketo Engage の更新
 
 最新のリリーススケジュール情報とリリースノートについては、[!DNL Marketo Engage] [リリーススケジュール](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=ja)を参照してください。
 
@@ -461,13 +461,13 @@ Last updated: **October 27, 2021**
 
 ### [!DNL Advertising Cloud Search] の新機能  {#adcloud-search}
 
-最終更新日：**** 2022 年 14 月 12 日（PT）（5 月 5 日リリース）
+最終更新日：**2022 年5月12日（PT）**（5月14日リリース）
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | 次のベータ版機能は、すべての広告主が利用できます。<ul><li>([!DNL Microsoft® Advertising] アカウント ) での既存のネイティブ広告キャンペーンの同期、読み取り専用表示、レポート（ビュースルーデータを含む）のサポート [!DNL Microsoft® Audience Network]を含む [!DNL Microsoft® Audience Ads].</li><li>([!DNL Google Ads] および [!DNL Microsoft® Advertising] アカウント ) [!DNL Google Ads] キャンペーンとキャンペーン構造 [!DNL Microsoft® Advertising] から [!UICONTROL 検索] > [!UICONTROL ツール] > [!UICONTROL キャンペーンのインポートベータ版].<br><br>キャンペーンをインポートした後は、インポートジョブのステータスを確認し、エラーログを確認し、インポートスケジュールを編集、一時停止、削除することができます。</li></ul> |
-| [!UICONTROL キャンペーン]<br><br>[!UICONTROL Portfolio] | ([!DNL Microsoft® Advertising] キャンペーン ) 次の入札戦略をすべてのユーザーが利用できるようになりました。<ul><li>[!UICONTROL Target インプレッション共有]:この戦略でキャンペーンを設定し、オプションでターゲットのインプレッション共有、ターゲットの広告の位置、最大クリックコストを設定できます。 注意：このオプションは、まだハイブリッドポートフォリオでサポートされておらず、標準ポートフォリオに追加できません。</li><li>[!UICONTROL クリック数を最大化]:この戦略でキャンペーンを設定し、オプションでクリックあたりの最大コストのターゲットを設定できます。 標準ポートフォリオまたはハイブリッドポートフォリオに、この戦略でキャンペーンを組み込むことができます。 この戦略をハイブリッドポートフォリオで使用するには、ポートフォリオの目標に含める必要があるのは [!DNL Adobe] プロパティ（指標）を使用し、Advertising Cloud Search目標のアップロードを有効にする必要があります。 [!DNL Microsoft® Ads].</li></ul> |
-| Adobe Analytics との統合 | （4 月 7 日）Advertising Cloudが [!DNL Analytics]、データ [!DNL Google Ads] 動的検索広告は、2022 年 5 月 7 日から始まる広告グループレベルまでのみ利用できます。 |
+| [!UICONTROL キャンペーン] | すべての広告主は、以下のベータ機能を使用できます。<ul><li>（[!DNL Microsoft® Advertising] アカウント）[!DNL Microsoft® Audience Network]（[!DNL Microsoft® Audience Ads] を含む）上の既存のネイティブ広告キャンペーンの同期、読み取り専用表示およびレポート（ビュースルーデータを含む）のサポート。</li><li>（[!DNL Google Ads] および [!DNL Microsoft® Advertising] アカウント）[!DNL Google Ads] キャンペーンとキャンペーン構造を [!DNL Microsoft® Advertising] にインポートする機能（[!UICONTROL 検索]／[!UICONTROL ツール]／[!UICONTROL キャンペーンをインポートベータ版]）。<br><br>キャンペーンをインポートすると、インポートジョブのステータスの確認、エラーログの確認、インポートスケジュールの編集、一時停止、削除ができます。</li></ul> |
+| [!UICONTROL キャンペーン]<br><br>[!UICONTROL ポートフォリオ] | （[!DNL Microsoft® Advertising] キャンペーン）すべてのユーザーが以下の入札戦略を利用できるようになりました。<ul><li>[!UICONTROL 目標インプレッションシェア]：この戦略でキャンペーンを設定し、オプションで目標インプレッションシェア、ターゲット広告の掲載順位および上限クリック単価を設定できます。注意：このオプションは、まだハイブリッドポートフォリオではサポートされておらず、標準的なポートフォリオに追加することはできません。</li><li>[!UICONTROL クリック数の最大化]：この戦略でキャンペーンを設定し、オプションで目標上限クリック単価を設定できます。この戦略によるキャンペーンは、標準ポートフォリオまたはハイブリッドポートフォリオのどちらかに含めることができます。この戦略をハイブリッドポートフォリオで使用するには、ポートフォリオの目標を [!DNL Adobe] プロパティ（指標）のみに含め、Advertising Cloud Search の目標を [!DNL Microsoft® Ads] にアップロードできるようにする必要があります。</li></ul> |
+| Adobe Analytics との統合 | （4月7日（PT））Advertising Cloud が [!DNL Analytics] に送信するデータフィードでは、[!DNL Google Ads] 動的検索広告のデータは、2022年5月7日（PT）以降、広告グループレベルまでのみ利用できます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -477,10 +477,10 @@ Adobe Document Cloud 向けに新しく公開されたチュートリアルと�
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022年5月 | [アカウントアクセスの共有](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/share-account-access.html) | ビデオ | 別のユーザーのアカウントでトランザクションへの表示のみのアクセスを設定する方法を説明します。 | [!DNL Acrobat Sign] |
-| 2022年5月 | [ドキュメントテンプレートの管理](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/edit-a-template.html?lang=en) | ビデオ | ライブラリ内のテンプレートを編集または削除する方法について説明します。 | [!DNL Acrobat Sign] |
-| 2022年5月 | [Microsoft® Power Automate での最初のフローの作成](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfservices/create-workflow-power-automate.html?lang=en) | 記事 | Adobe PDF Services コネクタを使用して、Microsoft® Power Automate で最初のフローを作成する方法を説明します。 | ドキュメントサービス |
-| 2022年5月 | [Microsoft® Power Automate の資格情報を取得しています](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfservices/getting-credentials-power-automate.html?lang=en) | 記事 | Adobe PDF Services の使用またはトリアリングを開始するための資格情報を取得する方法について説明します。 体験版ユーザーか既存のお客様かに応じて、このチュートリアルでは資格情報を取得するための適切な手順について説明します。 | ドキュメントサービス |
+| 2022年5月 | [アカウントアクセスの共有](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/share-account-access.html?lang=ja) | ビデオ | 他のユーザーのアカウントのトランザクションに対して表示のみのアクセス権を設定する方法を説明します。 | [!DNL Acrobat Sign] |
+| 2022年5月 | [ドキュメントテンプレートの管理](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/edit-a-template.html?lang=ja) | ビデオ | ライブラリ内のテンプレートを編集または削除する方法を説明します。 | [!DNL Acrobat Sign] |
+| 2022年5月 | [Microsoft® Power Automate での最初のフローの作成](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfservices/create-workflow-power-automate.html?lang=ja) | 記事 | Adobe PDF Services コネクタを使用して、Microsoft® Power Automate で最初のフローを作成する方法を説明します。 | ドキュメントサービス |
+| 2022年5月 | [Microsoft® Power Automate の資格情報の取得](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfservices/getting-credentials-power-automate.html?lang=ja) | 記事 | Adobe PDF Services の使用または試用を開始するために、資格情報を取得する方法を説明します。このチュートリアルでは、体験版ユーザーか既存のお客様かに応じて、資格情報を取得するための適切な手順を説明します。 | ドキュメントサービス |
 
 {style=&quot;table-layout:auto&quot;}
 
