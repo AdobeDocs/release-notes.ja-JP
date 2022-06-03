@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 045b3df6e345a97bd4172c752c953580e42181c6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5033'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 97%
 
 ![バナー](assets/experience-cloud-banner-3.png)
 
-Experience Maker として成功するための道のりは、[ Experience League](https://experienceleague.adobe.com/?lang=ja#home) から始まります。膨大なハウツードキュメントのライブラリ、セルフガイドのチュートリアル、ハウツービデオ、あらゆるレベルや役割に対応したコース、仲間とのオンラインコミュニティ、必要な時には専門家によるサポートを利用できます。
+Experience Maker として成功するための道のりは、[Experience League](https://experienceleague.adobe.com/?lang=ja#home) から始まります。膨大なハウツードキュメントのライブラリ、セルフガイドのチュートリアル、ハウツービデオ、あらゆるレベルや役割に対応したコース、仲間とのオンラインコミュニティ、必要な時には専門家によるサポートを利用できます。
 
 始める準備はよろしいでしょうか。[5 分間のクイズにチャレンジしましょう](https://exploreadobe.com/experience-league-quiz/?sdid=4NM897N2&amp;mv=email&amp;mv2=nslsp)。
 
@@ -27,7 +27,7 @@ Experience Maker として成功するための道のりは、[ Experience Leagu
 
 最終更新日：**2022年5月27日（PT）**
 
-* [[!DNL Experience League] イベント](#events) ( 更新済み **5 月 28 日**)
+* [[!DNL Experience League] イベント](#events)（更新日：**5月27日（PT）**）
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 主要なインターフェイスコンポーネントと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -39,7 +39,7 @@ Experience Maker として成功するための道のりは、[ Experience Leagu
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac) ( 更新済み **5 月 24 日**)
+* [[!DNL Adobe Campaign]](#ac)（更新日：**5月24日（PT）**）
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
@@ -49,7 +49,7 @@ Experience Maker として成功するための道のりは、[ Experience Leagu
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [デジタルエクスペリエンスブループリント - チュートリアル](#blueprints)
 
-サポートが必要な場合[ Experience League](https://experienceleague.adobe.com/?lang=ja#home) にアクセスして、製品および技術ドキュメント、アドビがキュレートしたコース、ビデオチュートリアル、クイックアンサー、コミュニティインサイト、インストラクター主導のトレーニングをご覧ください。
+サポートが必要な場合[Experience League](https://experienceleague.adobe.com/?lang=ja#home) にアクセスして、製品および技術ドキュメント、アドビがキュレートしたコース、ビデオチュートリアル、クイックアンサー、コミュニティインサイト、インストラクター主導のトレーニングをご覧ください。
 
 ## ![アイコン](/assets/experience-league.png) [!DNL Experience League] イベント {#events}
 
@@ -59,11 +59,11 @@ Experience League イベントでは、アドビの製品エキスパートか�
 
 | イベント | タイプ | 説明 |
 | -----------|---------- | ----|
-| [Experience Makers 政府フォーラム](https://adobegovforum.govexec.com/agenda/) | オンデマンドビデオ | 5 月 10 日の第 13 回年次 AEMGF は、バーチャル参加者と対面参加者の組み合わせで成功を収めました。 テーマに焦点を当てた主流とブレイクアウトセッション _人を最優先にするデジタルエクスペリエンス_. 含まれる上位のセッション _マンハンター：我々がパブロ・エスコバーを降ろした仕組み_, _CX の将来_、および _創造の黄金時代と現代の職場_. |
-| [エキスパートに質問する：Web SDK の基本](https://www.youtube.com/watch?v=g0KajUfq-S4) | ウェビナー | データ収集のベストプラクティスについて理解し、使用します。 <br>[スケジュールと過去のイベント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja) |
+| [Experience Makers Government Forum](https://adobegovforum.govexec.com/agenda/) | オンデマンドビデオ | 5月10日（PT）の第 13 回年次 AEMGF は、バーチャルと対面での参加者を組み合わせ、成功を収めました。メインステージとブレイクアウトセッションは&#x200B;_国民を第一に考えたデジタル体験_&#x200B;のテーマに焦点を当てました。トップセッションには&#x200B;_脱獄囚捜査官：いかにパブロ エスコバルの逮捕に至ったか_、_CX の将来_、および&#x200B;_創造性の黄金時代と現代の職場_&#x200B;が含まれます。 |
+| [エキスパートに質問する：Web SDK の基本](https://www.youtube.com/watch?v=g0KajUfq-S4) | ウェビナー | データ収集のベストプラクティスについて理解し、使用します。<br>[スケジュールと過去のイベント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja) |
 | [Adobe Campaign - カスタマーサクセスウェビナーシリーズ](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer：Adobe Campaign によるカスタマージャーニーを強化。 | Streamotion の Kayo、Binge、Flash の各ブランドにおけるエンゲージメントオペレーションのトップ、Anja Starun とのこの Peer2Peer ライブディスカッションにご参加ください。Adobe Campaign を使用してチームが実装した、個人に合わせたカスタマージャーニーの成功戦略について直接聞くことができます。<br>**日付：** 5月26日午後 3:00（EST）<br>[詳細と登録](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [Adobe Target コミュニティ](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940?profile.language=ja#M3096) | Q&amp;A コーヒーブレイク | Adobe Target 製品チームの Brent Kostak と Drew Burns が、共有オーディエンス、Real-Time CDP、ファーストパーティデータ、エンドツーエンドのパーソナライゼーションワークフローなど、Adobe Target に関する質問に回答します。<br>最近の[リアルタイムパーソナライゼーションウェビナー](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012?profile.language=ja)を視聴し、Adobe Target コミュニティの[コーヒーブレイクスレッド](https://adobe.ly/3MyiDHa)で、エキスパートに補足の質問ができます。<br>**日付：** 2022年5月25日午前 8:00（PDT）<br>[詳細と登録](https://adobe.ly/3MyiDHa) |
-| [Journey Optimizer によるプッシュ通知 - モバイルアプリでプッシュを簡単に設定する方法](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Adobe Journey Optimizer によるプッシュ通知の一般的なユースケースについて説明し、Adobe Experience Platform を使用したプッシュ通知のためのアプリを設定する方法について技術的な詳細を説明します。<br>**日付：** 2022年5月12日午前 9:30（PDT）<br>[スケジュールと過去のイベント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
+| [Journey Optimizer によるプッシュ通知 - モバイルアプリでプッシュを簡単に設定する方法](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE | Adobe Journey Optimizer によるプッシュ通知の一般的なユースケースについて説明し、Adobe Experience Platform を使用したプッシュ通知のためのアプリを設定する方法について技術的な詳細を説明します。<br>**日付：** 2022年5月12日午前 9:30（PDT）<br>[スケジュールと過去のイベント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja) |
 | [Adobe [!DNL Developers Live]：Commerce](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=ja) | オンデマンドビデオ | _Adobe Developers Live：Commerce 2022_ は、多様な背景と単一の目的を持つアドビ開発者とエクスペリエンスビルダーを結集し、素晴らしいエンドツーエンドのエクスペリエンスを作り出します。この 1 日限りのバーチャルカンファレンスでは、Commerce および Open Source Developer の重要なアップデート、技術セッション、コミュニティネットワーク形成の機会などが提供されます。 |
 | [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=ja) | オンデマンドビデオ | Marketo ロードマップの重要性と不十分な計画を回避する方法について説明します。Experience League でアクセスできる、2021年8月以降の [!DNL Marketo] Skill Exchange では、プログラムメンバーカスタムフィールドの可能性を引き出すアドバイスや、Marketo Engage のヒントとテクニックなどを得ることができます。 |
 | [Adobe Summit 2022](https://business.adobe.com/summit/adobe-summit.html) | オンデマンドセッション | Ryan Reynolds（アドビ、エグゼクティブ）、Rosalind Brewer（Walgreens Boots Alliance, Inc、CEO）、John Donahoe（NIKE, Inc.、CEO）、Gail J. McGovern（アメリカ赤十字社、CEO）の各氏が、カスタマーエクスペリエンスがいかにデジタル経済の通貨となるか、その方法を伝授します。<br>Adobe Summit 2022 の[オンデマンドセッション](https://business.adobe.com/summit/2022/sessions.html)を参照します。 |
@@ -85,7 +85,7 @@ Experience Cloud の[主要な UI コンポーネント](https://experienceleagu
 **[!DNL Experience Cloud Central UI Components] と管理に関するその他のヘルプリソース**
 
 * Experience Cloud 中央 UI コンポーネントの[リースノート](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=ja) 
-* Experience Cloud（管理）の[ユーザーおよび製品の管理](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)
+* Experience Cloud（管理）の[ユーザーおよび製品の管理](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=ja)
 * Places Service [リリースノート](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=ja)
 * [ユーザー向けの製品ドキュメント - 顧客属性とオーディエンスライブラリ](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=ja)
 * [オブジェクトとエンティティの統合検索](https://experienceleague.adobe.com/docs/core-services/interface/services/search-experience-cloud.html?lang=ja)
@@ -315,7 +315,7 @@ Experience Manager のリリースノートはすべて以下のページに記�
 * [Adobe Experience Manager 6.4 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=ja)
 * [Adobe Experience Manager 6.3 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja)
 * [Adobe Experience Manager 6.2 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja#previous-updates)
-* [Adobe Experience Manager ドキュメントの以前のバージョン](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
+* [Adobe Experience Manager ドキュメントの以前のバージョン](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja#previous-updates)
 * [Dynamic Media Classic ヘルプホーム](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=ja)
 * [Adobe Experience Manager ドキュメント：最近の更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=ja#aem-as-a-cloud-service)
 
@@ -323,7 +323,7 @@ Experience Manager のリリースノートはすべて以下のページに記�
 
 Experience Manager Guides（以前の XML Documentation for Experience Manager）は、AEM にデプロイされたアプリケーションです。Adobe Experience Manager でのネイティブ DITA サポートを可能にし、AEM が DITA ベースのコンテンツの作成と配信を処理できる、強力なエンタープライズグレードのコンポーネントコンテンツ管理ソリューション（CCMS）です。
 
-詳細情報： [Experience Managerガイド](https://www.adobe.com/jp/products/xml-documentation-for-experience-manager/features.html).
+[Experience Manager ガイド](https://www.adobe.com/jp/products/xml-documentation-for-experience-manager/features.html)の詳細を説明します。
 
 ### その他のリソース
 
@@ -350,15 +350,15 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### 最新の Campaign 製品リリース
 
-**最新リリース：** [Campaign Standardリリース 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html) （2022 年 6 月）
+**最新リリース：** [Campaign Standard リリース 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html?lang=ja)（2022年6月）
 
-最新の機能、改善点、修正点について詳しくは、[Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja)、[Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=ja) および [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) リリースノートを参照してください。
+最新の機能、改善点、修正点について詳しくは、[Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja)、[Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=ja) および [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=ja) リリースノートを参照してください。
 
 ### Campaign ヘルプリソース
 
-* Adobe Campaign v8：[ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [実装ガイド](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=ja)
-* Adobe Campaign Standard：[Campaign Standard ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja) - [リリース計画](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ja)
-* Adobe Campaign Classic：[Campaign Classic v7 ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ja)
+* Adobe Campaign v8：[ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=ja) - [実装ガイド](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=ja)
+* Adobe Campaign Standard：[Campaign Standard ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja) - [リリース計画](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ja)
+* Adobe Campaign Classic：[Campaign Classic v7 ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ja)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ja) - [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ja)／[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=ja) のハウツービデオ
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
@@ -386,8 +386,8 @@ Journey Optimizer では、スケジュールされたオムニチャネルキ�
 
 ### [!DNL Journey Optimizer] のその他のリソース
 
-* [Journey Optimizer ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja)
-* [意思決定管理ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started-decision/starting-offer-decisioning.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=ja) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ja)
+* [Journey Optimizer ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja)
+* [意思決定管理ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started-decision/starting-offer-decisioning.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=ja) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ja)
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
@@ -399,7 +399,7 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 
 #### [!DNL Journey Orchestration] のその他のリソース
 
-* [Journey Orchestration ドキュメント](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ja) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ja)
+* [Journey Orchestration ドキュメント](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ja) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ja)
 
 ## ![アイコン](/assets/marketo.png) [!DNL Adobe Marketo Engage] {#marketo}
 
@@ -409,7 +409,7 @@ Experience League に新しく公開されたビデオイベント：
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年5月 | [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) | ビデオ | Marketo ロードマップに関する学習から始めます。次に、Marketo インスタンスを製品として考えることの重要性を確認します。Experience League でアクセスできる、2021年8月以降に新しく公開された [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) では、プログラムメンバーカスタムフィールドの可能性を引き出すアドバイスや、Marketo Engage のヒントとテクニックなどを得ることができます。 |
+| 2022年5月 | [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=ja) | ビデオ | Marketo ロードマップに関する学習から始めます。次に、Marketo インスタンスを製品として考えることの重要性を確認します。Experience League でアクセスできる、2021年8月以降に新しく公開された [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=ja) では、プログラムメンバーカスタムフィールドの可能性を引き出すアドバイスや、Marketo Engage のヒントとテクニックなどを得ることができます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
