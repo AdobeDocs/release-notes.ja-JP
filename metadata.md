@@ -9,14 +9,13 @@ source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 100%
-showfeedback: true
 
 ---
 
 
 # 社内用のメタデータ
 
-metadata.md ファイルにはリポジトリー内のユーザーガイド TOC.md ファイルから渡される repo-level メタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更したい場合は、任意の TOC.md ファイル内でおこないます。
+metadata.md ファイルには、リポジトリー内にあるユーザーガイドの TOC.md ファイルにパススルーされる、リポジトリーレベルのメタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更したい場合は、任意の TOC.md ファイル内でおこないます。
 
 | メタデータ | 説明 |
 |--- |--- |
