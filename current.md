@@ -6,9 +6,9 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 8c5b3c3246a9f14e48d77c294143464b1c9e72c0
+source-git-commit: 7ea7898bf65132824a5944dd9e936a1344d5a213
 workflow-type: tm+mt
-source-wordcount: '4708'
+source-wordcount: '4696'
 ht-degree: 54%
 
 ---
@@ -218,15 +218,14 @@ Audience Manager の修正点と改善点：
    * [Dynamic Mediaスマートイメージングで、AVIF ファイル形式がサポートされるようになりました](https://medium.com/adobetech/one-solution-fits-all-smart-imaging-with-aem-dynamic-media-be690b62df9f) - Google Core Web Vital (Largest Contentful Paint) をさらに改善し、AVIF は WebP に比べて 20%の追加サイズ削減を提供します。 AVIF は、JPEGに比べて最大 41%の平均サイズ削減を実現しています（一部の画像では 76%まで）。
    * Experience Manager Assets Brand Portalは、12 時間ごとに自動ジョブを実行し、Experience Managerに公開されたすべてのBrand Portalアセットを削除するようになりました。 その結果、投稿フォルダー内のアセットを手動で削除して、フォルダーサイズをしきい値の制限以下に保つ必要がなくなりました。 詳しくは、 [Experience Manager Assets Brand Portalの新機能](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=ja).
 
-      _プレリリースチャネルの新機能_
+   _プレリリースチャネルの新機能_
 
    * Experience Manager AssetsはAdobe Sensei AI 機能を今まで使用 [画像内の色を区別し、取り込み時にタグとして自動的に違いを適用する](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en). これらのタグは、画像の色合いに基づいて、より強化された検索エクスペリエンスを可能にします。 画像にタグ付けされる色の数を 1 ～ 40 の範囲で設定し、後でそれらの色に基づいて画像を検索できるようにします。
+
 
 * **Experience Manager Forms as a Cloud Service**
 
    _プレリリースチャネルの新機能_
-
-   * **通信 — Formsas a Cloud ServiceSDK でのドキュメント操作 API のサポート** -
 
    * **アダプティブFormsとMicrosoft® Power Automate の統合**  — 送信時にMicrosoft® Power Automate Cloud Flow を実行するようにアダプティブフォームを設定できるようになりました。 設定済みのアダプティブフォームは、キャプチャされたデータ、添付ファイルおよびレコードのドキュメントを Power Automate Cloud Flow に送信して処理します。 Microsoft® Power Automate の機能を活用しながら、カスタムのデータキャプチャエクスペリエンスを構築し、取り込んだデータに関するビジネスロジックを構築し、顧客ワークフローを自動化できます。
    * **アダプティブフォームを作成するためのウィザード**  — ビジネスユーザーにとってわかりやすいウィザードを使用して、アダプティブFormsをすばやくオーサリングできます。 このウィザードでは、事前設定済みのテンプレート、スタイル設定、フィールド、送信オプションを簡単に選択して、アダプティブフォームを作成するためのクイックタブナビゲーションが提供されます。
