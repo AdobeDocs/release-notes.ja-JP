@@ -6,10 +6,10 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5d75fb745b2694e31346b27efdb1d5f71fe91449
+source-git-commit: fbe6dd6b917a94fa8c26f832f373584becd6796a
 workflow-type: tm+mt
-source-wordcount: '4691'
-ht-degree: 53%
+source-wordcount: '4696'
+ht-degree: 54%
 
 ---
 
@@ -51,7 +51,7 @@ Experience Maker として成功するための道のりは、[Experience League
 
 ## ![アイコン](/assets/experience-league.png) [!DNL Experience League] イベント {#events}
 
-Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。
+[Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。](https://experienceleague.adobe.com/events/?lang=en)
 
 更新日：**2022 年 6 月 11 日**
 
@@ -160,7 +160,7 @@ Adobe Analytics 用に公開された新しいビデオチュートリアル、�
 | 2022年6月 | [データビューでのバインディングディメンション](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/binding-dimensions-in-data-views.html?lang=en) | ビデオ | 連結ディメンションについて説明します。 この機能を使用すると、あるディメンションを取得し、別のディメンションに接続して、より詳細に永続性を割り当てることができます。 |
 | 2022年6月 | [Customer Journey Analytics のランディングページ](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/cja-basics/customer-journey-analytics-landing-page.html) | ビデオ | Customer Journey Analytics のランディングページには、プロジェクトとモバイルスコアカードのデフォルトビューや、より効果的に作業を開始するのに役立つ学習セクションが用意されています。 |
 | 2022年6月 | [Adobe Analytics データの取り込み、マッピング、変換](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-prep/ingest-map-and-transform-adobe-analytics-data.html) | ビデオ | のデータ準備機能の使用方法を説明します。 [!DNL Analytics] データ（データ操作機能を含む）。 例えば、Analytics 変数を新しいカスタムフィールドにマッピングし、変換や計算を実行できます。 |
-| 2022年6月 | [サブ文字列コンポーネントの設定](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/configure-substring-component-settings.html) | ビデオ | 文字列操作メソッドを使用して、Customer Journey Analyticsレポート内のディメンション値の目的の部分を取得する方法を説明します。 適用後、データ変換は遡及的かつ即座におこなわれます。 |
+| 2022年6月 | [サブ文字列コンポーネントの設定](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/configure-substring-component-settings.html) | ビデオ | 文字列操作メソッドを使用して、Customer Journey Analytics レポートでディメンション値の目的の部分を取得する方法を説明します。適用後、データ変換は遡及的かつ即座に行われます。 |
 | 2022年6月 | [モバイルスコアカードの作成](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=ja) | ビデオ | エグゼクティブユーザー向けのダッシュボードの設定方法と表示方法について説明します。 |
 | 2022年6月 | [接続の作成とエクスペリエンスの編集](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/cja-connections-creation-and-edit-experience.html) | ビデオ | ローリングデータの保持期間を有効にする方法、イベントのタイムスタンプに基づいてデータのバックフィルを有効にしてリクエストする方法、およびデータセット別に既存のデータをインポートする方法を説明します。 |
 
