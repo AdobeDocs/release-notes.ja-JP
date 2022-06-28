@@ -6,10 +6,10 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fbe6dd6b917a94fa8c26f832f373584becd6796a
+source-git-commit: 13451e4d6d7b6726de9899368188b5d13107d6ff
 workflow-type: tm+mt
-source-wordcount: '4696'
-ht-degree: 54%
+source-wordcount: '4816'
+ht-degree: 56%
 
 ---
 
@@ -23,7 +23,7 @@ Experience Maker として成功するための道のりは、[Experience League
 >
 >このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
-最終更新日：**2022 年 6 月 12 日（PT）**
+最終更新日：**2022 年 6 月 28 日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -53,10 +53,12 @@ Experience Maker として成功するための道のりは、[Experience League
 
 [Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。](https://experienceleague.adobe.com/events/?lang=en)
 
-更新日：**2022 年 6 月 11 日**
+更新済み **2022 年 6 月 29 日**
 
 | イベント | タイプ | 説明 |
 | -----------|---------- | ----|
+| [ディープデータインテリジェンスを活用してパーソナライゼーションを強化](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | 顧客成功ウェビナー | Adobeエキスパートにご協力いただき、Adobe Analyticsの高度な機能により、深いデータ分析を加速し、タイムリーなインサイトを集約して、チャネル、瞬間、購入段階をまたいでパーソナライズされた顧客体験を強化します。<br>**日付：** 7 月 6 日@ 3 p.m. AEST - [詳細と登録](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
+| [Adobe Target — 成功のためのスキルアップ](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Makers | ブランドエクスペリエンスを汎用から天才に変える AI の力をテスト、パーソナライズ、認識するためのAdobe Targetの中心概念と機能を理解します。<br>**日付：** 6 月 30 日、7 月 1 日～ [詳細と登録](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 | Adobe Campaign、Journey Optimizer - [クロスチャネルの課題：規模に応じたパーソナライゼーション](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) | 仮想イベント | 451 Research のDirector・リサーチ・シェリル・キングストンから、変化のペースに追いつき、マーケティング技術を重要なイネーブラとして使用し、より多くのデータを使用するようになることについてお聞かせください。 また、2022 年のAdobe Summit中に共有された重要なセッションやヒントやテクニックにも再度アクセスします。専門家から、チャネルをまたいでパーソナライゼーションを大規模に推進する方法についてお聞きいただけます。<br>**日付：** 6 月 14 日～ [詳細と登録](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) |
 | [内部を見る — Cloud Manager 2022](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) | AEM Gems — 仮想イベント | 昨年リリースされた新機能の紹介、バックグラウンド開発の最新情報の紹介、2022 年の残りの部分の展開を楽しみにしてください。 <br>**日付：** 6 月 15 日～[詳細と登録](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) |
 | [信頼を構築し、影響を伝達してデジタル戦略を拡大する方法](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) | マスター円卓 | お客様のデジタル戦略の影響を効果的に伝える方法について、お話しします。 <br>**日付：** 6 月 21 日～ [詳細と登録](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) |
@@ -80,11 +82,11 @@ Experience Maker として成功するための道のりは、[Experience League
 
 Experience Cloud の[主要な UI コンポーネント](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=ja)には、ホームページで使用できる機能と、永続的な製品ヘッダーが含まれます。これらの機能には、ユーザープロファイル設定、環境設定、検索などが含まれます。また、ユーザーと製品の管理、顧客属性、Experience Cloud Audiences に関するヘルプも参照できます。
 
-リリース予定日： **2022 年 7 月 12 日**
+リリース予定日：**2022年7月11日（PT）**
 
 | 機能 | 説明 |
 | ------- | ------- |
-| 統合ホーム — クイックアクセスウィジェット | **より速く移動：** ホームエクスペリエンスをさらにパーソナライズし、どのアプリケーションが指先で操作できるかを決定できるようになりました。 新しいピン留め機能を使用して、前面と中央に表示するアプリケーションを選択します [!UICONTROL クイックアクセス]. <br>**スマートピン留めの情報を常に入手：** 新しいアプリケーションの検索が容易になりました。 新しく割り当てられたアプリケーションには _新規_ バッジと自動ピン [!UICONTROL クイックアクセス]. |
+| 統合ホーム - クイックアクセスウィジェット | **より速いナビゲーション：**&#x200B;ホームエクスペリエンスを細かくパーソナライズし、よく使うアプリケーションを指定できるようになりました。 新しいピン留め機能を使用して、[!UICONTROL クイックアクセス]で前面と中央に表示するアプリケーションを選択します。<br>**スマートピン留めで最新情報を入手：**&#x200B;新しいアプリケーションでは、さらに検索しやすくなりました。 新しく割り当てられたアプリケーションには、_新規_&#x200B;バッジと、[!UICONTROL クイックアクセス]への自動ピン留め機能が表示されます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -252,7 +254,7 @@ Audience Manager の修正点と改善点：
 
 * 再生 [Experience Manageras a Cloud Service2022.5.0 リリースの更新ビデオ](https://adobe.ly/3NDPR8Y) それがリリースされた内容をカバーしています。 (10 分)
 * GEMs ウェビナー — _フードの下を見るとCloud Manager 2022_
-   * 2022 年 6 月 15 日（水）
+   * 2022年6月15日（水）（PT）
    * 太平洋標準時 08:00;17:00 中央ヨーロッパ時間；20:30 インド標準時
    * [登録はこちらから](https://adobe.ly/3t4jfgp).
    * [ディスカッションスレッド](https://adobe.ly/3O0rdzd).
@@ -363,9 +365,9 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 | 2022年6月 | [配信テンプレートの設定](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/using-delivery-templates/configure-a-delivery-template.html) | ビデオ | アドホック配信用のテンプレートを設定する方法について説明します。 | Campaign v8 |
 | 2022年6月 | [繰り返し E メール配信と連続 E メール配信の作成](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/process-management/recurring-deliveries.html) | ビデオ | 繰り返し配信とスケジューラーアクティビティを設定する方法について説明します。 | Campaign v8 |
 | 2022年6月 | [エンリッチメントアクティビティの設定](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/data-management/enrichment-activity.html) | ビデオ | 配信ログ情報に基づいてエンリッチメントアクティビティを設定する方法を説明します。 | Campaign v8 |
-| 2022年6月 | [SMS の概要](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html) | ビデオ | SMS とは何か、SMS サービスプロバイダーの役割、Adobe Campaignがサービスプロバイダーに接続する方法について説明します。 サービスプロバイダーに渡される情報と使用可能なテクニカルノートを把握します。 | Campaign v8,Campaign Standard,Campaign Classicv7 |
-| 2022年6月 | [標準の SMPP プロバイダーの SMS アカウントを設定する](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=en) | ビデオ | Adobe Campaignで SMPP アカウントを設定する方法、SMS 配信結果を分析する方法、SR 処理を SMPP プロバイダーの仕様に合わせてカスタマイズする方法について説明します。 | Campaign v8、Campaign Classicv7 |
-| 2022年6月 | [SMS コネクタを SMPP プロバイダーに適応させる](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html) | ビデオ | SMS コネクタを SMPP プロバイダーに適応させる方法を説明します。 SMS 設定を微調整して、接続制限の処理、最大スループット、送信ウィンドウ、TLS を使用した暗号化の設定をおこないます。 | Campaign v8,Campaign Classicv7,Campaign Standard |
+| 2022年6月 | [SMS の概要](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=ja) | ビデオ | SMS とは何か、SMS サービスプロバイダーの役割、Adobe Campaignがサービスプロバイダーに接続する方法について説明します。 サービスプロバイダーに渡される情報と利用可能なテクニカルノートを理解します。 | Campaign v8,Campaign Standard,Campaign Classicv7 |
+| 2022年6月 | [標準の SMPP プロバイダーに対応する SMS アカウントの設定](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=ja ) | ビデオ | Adobe Campaignで SMPP アカウントを設定する方法、SMS 配信結果を分析する方法、SR 処理を SMPP プロバイダーの仕様に合わせてカスタマイズする方法について説明します。 | Campaign v8、Campaign Classicv7 |
+| 2022年6月 | [SMPP プロバイダーへの SMS コネクタの適応](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=ja) | ビデオ | SMS コネクタを SMPP プロバイダーに適応させる方法を説明します。 SMS 設定を微調整して、接続制限の処理や、最大スループット、送信ウィンドウ、TLS を使用した暗号化などの設定を行います。 | Campaign v8,Campaign Classicv7,Campaign Standard |
 
 {style=&quot;table-layout:auto&quot;}
 
