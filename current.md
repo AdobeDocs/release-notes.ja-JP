@@ -6,10 +6,10 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 13451e4d6d7b6726de9899368188b5d13107d6ff
+source-git-commit: 4256f9f814955a7819c8f0333ea8ba3bc9c2745a
 workflow-type: tm+mt
-source-wordcount: '4816'
-ht-degree: 56%
+source-wordcount: '4288'
+ht-degree: 58%
 
 ---
 
@@ -59,16 +59,8 @@ Experience Maker として成功するための道のりは、[Experience League
 | -----------|---------- | ----|
 | [ディープデータインテリジェンスを活用してパーソナライゼーションを強化](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | 顧客成功ウェビナー | Adobeエキスパートにご協力いただき、Adobe Analyticsの高度な機能により、深いデータ分析を加速し、タイムリーなインサイトを集約して、チャネル、瞬間、購入段階をまたいでパーソナライズされた顧客体験を強化します。<br>**日付：** 7 月 6 日@ 3 p.m. AEST - [詳細と登録](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
 | [Adobe Target — 成功のためのスキルアップ](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Makers | ブランドエクスペリエンスを汎用から天才に変える AI の力をテスト、パーソナライズ、認識するためのAdobe Targetの中心概念と機能を理解します。<br>**日付：** 6 月 30 日、7 月 1 日～ [詳細と登録](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
-| Adobe Campaign、Journey Optimizer - [クロスチャネルの課題：規模に応じたパーソナライゼーション](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) | 仮想イベント | 451 Research のDirector・リサーチ・シェリル・キングストンから、変化のペースに追いつき、マーケティング技術を重要なイネーブラとして使用し、より多くのデータを使用するようになることについてお聞かせください。 また、2022 年のAdobe Summit中に共有された重要なセッションやヒントやテクニックにも再度アクセスします。専門家から、チャネルをまたいでパーソナライゼーションを大規模に推進する方法についてお聞きいただけます。<br>**日付：** 6 月 14 日～ [詳細と登録](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) |
-| [内部を見る — Cloud Manager 2022](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) | AEM Gems — 仮想イベント | 昨年リリースされた新機能の紹介、バックグラウンド開発の最新情報の紹介、2022 年の残りの部分の展開を楽しみにしてください。 <br>**日付：** 6 月 15 日～[詳細と登録](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) |
-| [信頼を構築し、影響を伝達してデジタル戦略を拡大する方法](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) | マスター円卓 | お客様のデジタル戦略の影響を効果的に伝える方法について、お話しします。 <br>**日付：** 6 月 21 日～ [詳細と登録](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) |
-| [Experience Makers ライブ](https://business.adobe.com/events/experience-makers-live/experience-makers-award-winners.html?sdid=JQVGW4SX&amp;mv=email&amp;mv2=sponsored) | ビデオおよび仮想イベント | 2022 年の Adobe Experience Maker Awards は、ゲームを変える顧客体験と驚くほどのデジタル変換を祝います。 <br>アメリカ、日本、インド、オーストラリア、ニュージーランドのガラに参加します。 **6 月 23 日**<br>&#x200B;ヨーロッパ、中東、アフリカのガラに参加しましょう。 **6 月 24 日** <br> [詳細および登録](https://business.adobe.com/events/experience-makers-live/experience-makers-award-winners.html?sdid=JQVGW4SX&amp;mv=email&amp;mv2=sponsored) |
-| [エキスパートへの質問 — Real-Time CDP Connections](https://www.youtube.com/watch?v=hVwtxDYvzw4) | Experience League LIVE | お気に入りのAdobeエキスパートが、AdobeのReal-Time CDP Connections 製品を詳細にご覧いただけます。お客様は、サーバー側のタグ管理システムを使用して、任意の宛先にイベントを転送できます。<br>**日付：** 6 月 23 日@午前 9 時- [詳細](https://www.youtube.com/watch?v=hVwtxDYvzw4) |
-| [エキスパートに質問する：Web SDK の基本](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-05-26-22.html) | Experience Leagueライブ | データ収集のベストプラクティスについて理解し、使用します。<br>[スケジュールと過去のイベント](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja) |
-| [The Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/overview.html?lang=en) | 録画セッション | Skill Exchange にアクセスして、Adobe Experience Cloudソリューションの詳細を掘り下げることに重点を置いた、グローバルな一連の仮想カスタマーラーニングイベントをご覧ください。 |
-| [Experience Makers Government Forum](https://adobegovforum.govexec.com/agenda/) | オンデマンドビデオ | 5月10日（PT）の第 13 回年次 AEMGF は、バーチャルと対面での参加者を組み合わせ、成功を収めました。メインステージとブレイクアウトセッションは&#x200B;_国民を第一に考えたデジタル体験_&#x200B;のテーマに焦点を当てました。トップセッションには&#x200B;_脱獄囚捜査官：いかにパブロ エスコバルの逮捕に至ったか_、_CX の将来_、および&#x200B;_創造性の黄金時代と現代の職場_&#x200B;が含まれます。 |
-| [Adobe [!DNL Developers Live]：Commerce](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=ja) | オンデマンドビデオ | _Adobe Developers Live：Commerce 2022_ は、多様な背景と単一の目的を持つアドビ開発者とエクスペリエンスビルダーを結集し、素晴らしいエンドツーエンドのエクスペリエンスを作り出します。この 1 日限りのバーチャルカンファレンスでは、Commerce および Open Source Developer の重要なアップデート、技術セッション、コミュニティネットワーク形成の機会などが提供されます。 |
-| [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=ja) | オンデマンドビデオ | Marketo ロードマップの重要性と不十分な計画を回避する方法について説明します。Experience League でアクセスできる、2021年8月以降の [!DNL Marketo] Skill Exchange では、プログラムメンバーカスタムフィールドの可能性を引き出すアドバイスや、Marketo Engage のヒントとテクニックなどを得ることができます。 |
+
+詳しくは、 [イベント](https://experienceleague.adobe.com/events/?lang=en) Experience Leagueをオンにして更新を保持します。
 
 {style=&quot;table-layout:auto&quot;}
 
