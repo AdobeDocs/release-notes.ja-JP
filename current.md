@@ -6,7 +6,7 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4256f9f814955a7819c8f0333ea8ba3bc9c2745a
+source-git-commit: e2a292b6e5dc404f3c0164eec583cb4486746f53
 workflow-type: tm+mt
 source-wordcount: '4288'
 ht-degree: 95%
@@ -60,9 +60,9 @@ Experience Maker として成功するための道のりは、[Experience League
 | [ディープデータインテリジェンスを活用してパーソナライゼーションを強化](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | 顧客成功ウェビナー | Adobeエキスパートにご協力いただき、Adobe Analyticsの高度な機能により、深いデータ分析を加速し、タイムリーなインサイトを集約して、チャネル、瞬間、購入段階をまたいでパーソナライズされた顧客体験を強化します。<br>**日付：** 7 月 6 日@ 3 p.m. AEST - [詳細と登録](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
 | [Adobe Target — 成功のためのスキルアップ](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Makers | ブランドエクスペリエンスを汎用から天才に変える AI の力をテスト、パーソナライズ、認識するためのAdobe Targetの中心概念と機能を理解します。<br>**日付：** 6 月 30 日、7 月 1 日～ [詳細と登録](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 
-詳しくは、 [イベント](https://experienceleague.adobe.com/events/?lang=en) Experience Leagueをオンにして更新を保持します。
-
 {style=&quot;table-layout:auto&quot;}
+
+詳しくは、 [イベント](https://experienceleague.adobe.com/events/?lang=en) Experience Leagueをオンにして更新を保持します。
 
 ## ![アイコン](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
