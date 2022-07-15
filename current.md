@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 42023ff20f7b6811a608b640866abb9f6d7ccc18
+source-git-commit: 079b4297838820ebadaab2a6a29aa12985624dd5
 workflow-type: tm+mt
 source-wordcount: '5268'
 ht-degree: 52%
@@ -304,10 +304,10 @@ Adobe Commerce リリースノートについては、以下のリンクを参�
 | 2022年7月 | [Page Builder ユーザーガイド](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html) | 製品ドキュメント | 基本的なコンテンツコンポーネントを構築するための 3 つの手順を含む、ページビルダーの機能について説明します。 このガイドは管理者向けです。 ここでは、主なAdobe Commerceの設定と機能に関する基本的な知識を前提としています。 |
 | 2022年7月 | [B2B for Adobe Commerceガイド](https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html) | 管理ガイド | このモジュールのインストールと有効化に関する詳細な情報（機能の設定や管理など）を取得します。 |
 | 2022年7月 | [Adobe Commerce用 B2B — チュートリアル](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/company-accounts.html?lang=en) | ビデオ（複数） | 詳しくは、 [!UICONTROL 会社] Adobe Commerceのページ 会社アカウントを管理し、承認の保留中のリクエストをリストの上部に表示できます。 |
-| 2022年7月 | [クォリティパッチツールの使用](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/quality-patch-tool.html) | タイプ | 詳しくは、 [!UICONTROL クォリティパッチツール]:Adobe CommerceとMagento Open Sourceの品質パッチを提供するコマンドラインツールです。 |
+| 2022年7月 | [クォリティパッチツールの使用](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/quality-patch-tool.html) | ビデオ | 詳しくは、 [!UICONTROL クォリティパッチツール]:Adobe CommerceとMagento Open Sourceの品質パッチを提供するコマンドラインツールです。 |
 | 2022年7月 | [サイト全体の分析ツールダッシュボード](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/site-wide-analysis-tool.html) | ビデオ | サイト全体分析ツールの詳細 この機能は、Adobe Commerceインストールのセキュリティと操作性を確保するための詳細なシステムインサイトと推奨事項を含む、プロアクティブでセルフサービスツールおよび中央リポジトリです。 |
 | 2022年7月 | [支払いサービスを使用](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/payment-services.html) | ビデオ | 使用方法を学ぶ [!UICONTROL 支払いサービス] 運用オーバーヘッドを削減するには、収益を増やします。 |
-| 2022年7月 | [注文ステータスの管理](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/order-status.html) | タイプ | オーダーのステータスとその詳細を確認する方法、および必要に応じてオーダーのステータスを変更する方法について説明します。 |
+| 2022年7月 | [注文ステータスの管理](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/order-status.html) | ビデオ | オーダーのステータスとその詳細を確認する方法、および必要に応じてオーダーのステータスを変更する方法について説明します。 |
 | 2022年7月 | [マーケティングツール](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/catalog-price-rules.html?lang=en) | ビデオ（複数） | カタログ価格ルール、買い物かごの価格ルールの作成、関連する製品ルールの管理、ライブ検索などについて説明します。 |
 | 2022年7月 | [ビジネス価値を実現するコンテンツのパーソナライゼーションの革新](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/content-perosonalization.html?lang=en) | ビデオ | スキルビルダーのプレゼンテーションを表示し、コンテンツのオーサリングを民主化し、オムニチャネル配信を簡単にし、パーソナライゼーションを拡大するのに役立つAdobeのコンテンツソリューションの最近のイノベーションについて説明します。 |
 | 2022年7月 | [カタログ管理](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/seo-url-rewrites.html) | ビデオ | Adobe Commerceでのカタログ管理について説明します。 カテゴリの作成、カテゴリ内の製品の管理、在庫の管理などを行います。 |
