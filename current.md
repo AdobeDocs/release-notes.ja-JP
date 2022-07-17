@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9ae3ada52db9f358b41b4560932d5661e31664f7
+source-git-commit: 609676006717d61512be133a65bfac44a15c8651
 workflow-type: tm+mt
-source-wordcount: '5268'
-ht-degree: 52%
+source-wordcount: '5262'
+ht-degree: 51%
 
 ---
 
@@ -57,11 +57,11 @@ Experience League イベントでは、アドビの製品エキスパートか�
 
 | イベント | タイプ | 説明 |
 | -----------|---------- | ----|
-| [エキスパートに質問する：データストリームとデータ準備](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | Adobe Experience Cloudのデータ収集に関する 3 つのセッションの最後に、アドビのエキスパートが、Adobeのデータ収集準備などの機能を含む、データの高度なデータ収集機能について詳しく説明します。 このセッションの最後に、参加者はデジタルエクスペリエンスからデータを収集するための最新で最も強力な機能に自信を持つようになります&#x200B;<br>**日付：** 7 月 21 日@午前 9 時 (PST) - [詳細](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[今後および過去のエピソード](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=ja) |
+| [エキスパートに質問する：データストリームとデータ準備](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | Adobe Experience Cloudのデータ収集に関する 3 つのセッションの最後に、アドビのエキスパートが、Adobeのデータ収集準備などの機能を含む、データの高度なデータ収集機能について詳しく説明します。 このセッションの最後に、参加者はデジタルエクスペリエンスからデータを収集するための最新で最も強力な機能に自信を持つようになります&#x200B;<br>**日付：** 7 月 21 日@午前 9 時 (PST) - [詳細](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
-詳しくは、Experience League の[イベント](https://experienceleague.adobe.com/events/?lang=en)で最新情報をご確認ください。
+詳しくは、 [イベント](https://experienceleague.adobe.com/events/?lang=en) Experience Leagueで、今後のイベントや過去のエピソードの最新情報を常に確認できます。
 
 ## ![アイコン](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
@@ -316,7 +316,7 @@ Adobe Commerce リリースノートについては、以下のリンクを参�
 
 ## ![アイコン](/assets/target.png) [!DNL Adobe Target] {#target}
 
-最終更新日：**2022年6月7日（PT）**
+最終更新日：**2022年6月30日（PT）**
 
 * プレリリース情報については、[Adobe Target プレリリース](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ja)を参照
 * 現在の情報については、[Adobe Target リリースノート](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=ja)を参照
