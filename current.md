@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: ee6a9f29b652b02d6d67fed0007d180fc4cd4d9b
+source-git-commit: c14c711dc4e63f045e4de68f5f817e83f194bebd
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '5254'
+ht-degree: 51%
 
 ---
 
@@ -192,11 +192,11 @@ Audience Manager の修正点と改善点：
 
 * [2022 年 5 月リリースの概要ビデオ](https://video.tv.adobe.com/v/343321/?quality=12) 2022.5.0（2022 年 5 月）リリースに追加された機能の概要。
 * [2022年4月リリースの概要ビデオ](https://video.tv.adobe.com/v/342612?quality=12)
-* [2022年3月リリースの概要ビデオ](https://video.tv.adobe.com/v/341465)。
-* [2022年1月リリースの概要ビデオ](https://video.tv.adobe.com/v/340120)。
-* [2021年12月リリースの概要ビデオ](https://video.tv.adobe.com/v/339278)。
-* [2021年10月リリースの概要ビデオ](https://video.tv.adobe.com/v/338253)。
-* [2021年9月リリースの概要ビデオ](https://video.tv.adobe.com/v/337381)。
+* [2022 年 3 月リリースの概要ビデオ](https://video.tv.adobe.com/v/341465)
+* [2022 年 1 月リリースの概要ビデオ](https://video.tv.adobe.com/v/340120)
+* [2021 年 12 月リリースの概要ビデオ](https://video.tv.adobe.com/v/339278)
+* [2021 年 10 月リリースの概要ビデオ](https://video.tv.adobe.com/v/338253)
+* [2021 年 9 月リリースの概要ビデオ](https://video.tv.adobe.com/v/337381)
 
 ### Experience Manager [!DNL Sites] as a [!DNL Cloud Service]
 
