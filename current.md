@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: fa362724fe62c55d2556daf3757ea900c0c5ca3c
+source-git-commit: ee6a9f29b652b02d6d67fed0007d180fc4cd4d9b
 workflow-type: tm+mt
-source-wordcount: '5254'
-ht-degree: 51%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -57,7 +57,7 @@ Experience League イベントでは、アドビの製品エキスパートか�
 
 | イベント | タイプ | 説明 |
 | -----------|---------- | ----|
-| [エキスパートに質問する：データストリームとデータ準備](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | Adobe Experience Cloudのデータ収集に関する 3 つのセッションの最後に、アドビのエキスパートが、Adobeのデータ収集準備などの機能を含む、データの高度なデータ収集機能について詳しく説明します。 このセッションの最後に、参加者はデジタルエクスペリエンスからデータを収集するための最新で最も強力な機能に自信を持つようになります&#x200B;<br>**日付：** 7 月 21 日@午前 9 時 (PST) - [詳細](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
+| [エキスパートに質問する：データストリームとデータ準備](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) | Experience League LIVE | Adobe Experience Cloudのデータ収集に関する 3 つのセッションの最後に、アドビのエキスパートが、Adobeのデータ収集準備などの機能を含む、データの高度なデータ収集機能について詳しく説明します。 このセッションの最後に、参加者はデジタルエクスペリエンスからデータを収集するための最新で最も強力な機能に自信を持つようになります&#x200B;<br>**日付：** 7 月 21 日@午前 9 時 (PDT) - [詳細](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
 
