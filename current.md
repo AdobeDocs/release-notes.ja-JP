@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5c20e56d96b6fbe571cc686e2b4ed27559f39a3d
+source-git-commit: 58049fdc92ec5b172527c58d9d557d271e77b92c
 workflow-type: tm+mt
-source-wordcount: '5576'
+source-wordcount: '5577'
 ht-degree: 49%
 
 ---
@@ -75,8 +75,6 @@ Experience Cloud の[主要な UI コンポーネント](https://experienceleagu
 
 ### プロビジョニングの更新
 
-更新： **2022 年 7 月 20 日**
-
 >[!IMPORTANT]
 >
 >Experience Cloudのプロビジョニングに関する次の通知を確認してください。
@@ -85,9 +83,11 @@ Adobeは、一部のExperience Cloud製品間の相互運用性を支援する�
 
 Adobe Experience Platform [!UICONTROL データ収集] 次を含む [タグ](https://experienceleague.adobe.com/docs/tags.html?lang=en) を使用すると、シンプルな universal tag management を実現し、信頼性の高い、堅牢で完全なストリーミングデータインフラストラクチャを提供します。 タグを使用すると、顧客体験のデータ収集を簡略化し、エクスペリエンス配信を効率化できます。
 
-この更新を使用すると、管理者は次のAdmin Consoleの変更や追加を確認できます。
+**Admin Consoleの変更**
 
-1. Admin ConsoleのAdobe Experience Platform製品カードには、次が含まれます。
+管理者は、次のように、Admin Consoleの変更や追加を確認できます。
+
+* Admin ConsoleのAdobe Experience Platform製品カードには、次が含まれます。
 
    * Places
    * アシュランス
@@ -102,7 +102,7 @@ Adobe Experience Platform [!UICONTROL データ収集] 次を含む [タグ](htt
 
    現在Experience Platformを使用している組織の場合、 _場所_ は、Experience Platformカードに統合されます。
 
-1. Adobe Experience Platformのデータ収集（以前の Launch）およびプライバシーは、他のExperience Platform機能とは別の製品カードとして引き続き表示されます。
+* Adobe Experience Platformのデータ収集（以前の Launch）およびプライバシーは、他のExperience Platform機能とは別の製品カードとして引き続き表示されます。
 
 新機能の詳細については、各機能のExperience Leagueを参照してください。
 
