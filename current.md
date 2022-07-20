@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c14c711dc4e63f045e4de68f5f817e83f194bebd
+source-git-commit: d5e56e4a6877d4930a43407d0d149c3e224a8346
 workflow-type: tm+mt
-source-wordcount: '5254'
-ht-degree: 51%
+source-wordcount: '5571'
+ht-degree: 49%
 
 ---
 
@@ -72,6 +72,48 @@ Experience League イベントでは、アドビの製品エキスパートか�
 ## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud - 主要なインターフェイスコンポーネントと管理 {#ecloud}
 
 Experience Cloud の[主要な UI コンポーネント](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=ja)には、ホームページで使用できる機能と、永続的な製品ヘッダーが含まれます。これらの機能には、ユーザープロファイル設定、環境設定、検索などが含まれます。また、ユーザーと製品の管理、顧客属性、Experience Cloud Audiences に関するヘルプも参照できます。
+
+### プロビジョニングの更新
+
+>[!IMPORTANT]
+>
+>Experience Cloudのプロビジョニングに関する次の通知を確認してください。
+
+Adobeは、一部のExperience Cloud製品間の相互運用性を支援する基本的な機能に対するすべてのExperience Cloudのお客様のアクセスを提供するために、プロビジョニングを更新しています。 ユーザーには、Adobe Experience PlatformをExperience Cloud組織に新しい権限として追加し、 [!UICONTROL データ収集] を付属のサービスとして使用します。
+
+Adobe Experience Platform [!UICONTROL データ収集] 次を含む [タグ](https://experienceleague.adobe.com/docs/tags.html?lang=en) を使用すると、シンプルな universal tag management を実現し、信頼性の高い、堅牢で完全なストリーミングデータインフラストラクチャを提供します。 タグを使用すると、顧客体験のデータ収集を簡略化し、エクスペリエンス配信を効率化できます。
+
+この更新を使用すると、管理者は次のAdmin Consoleの変更や追加を確認できます。
+
+1. Admin ConsoleのAdobe Experience Platform製品カードには、次が含まれます。
+
+   * Places
+   * アシュランス
+   * ID 名前空間
+   * サンドボックス
+   * エクスペリエンスデータモデル
+   * スキーマ
+   * データストリーム
+   * 訪問者 ID
+
+   現在Experience Platformを使用していない組織の場合、 _Adobe Experience Platform_ 上記の機能を含む、Admin Console内の製品。
+
+   現在Experience Platformを使用している組織の場合、 _場所_ は、Experience Platformカードに統合されます。
+
+1. Adobe Experience Platformのデータ収集（以前の Launch）およびプライバシーは、他のExperience Platform機能とは別の製品カードとして引き続き表示されます。
+
+新機能の詳細については、各機能のExperience Leagueを参照してください。
+
+* [データ収集](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
+* [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=ja)
+* [アシュランス](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html%3Flang%3Dde)
+* [ID 名前空間](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=ja)
+* [サンドボックス](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=ja)
+* [エクスペリエンスデータモデル](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=ja)
+* [スキーマ](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=ja)
+* [データストリーム](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
+* [訪問者 ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
+* [プライバシー](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=ja)
 
 リリース： **2022 年 7 月 12 日**
 
