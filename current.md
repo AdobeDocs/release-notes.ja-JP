@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: b12e725da1878a88c7ff6341b7ab8d576672bca9
+source-git-commit: 62d9c958f05ff33f663f4e7e68bb081c3bd38b33
 workflow-type: tm+mt
-source-wordcount: '5706'
+source-wordcount: '5746'
 ht-degree: 89%
 
 ---
@@ -40,8 +40,8 @@ Experience Maker として成功するための道のりは、[Experience League
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
-* [[!DNL Adobe Marketo Engage]](#marketo)
-* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Marketo Engage]](#marketo) (**更新日：7 月 27 日**)
+* [[!DNL Adobe Workfront]](#workfront) (**更新日：7 月 27 日**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -467,6 +467,7 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2022年7月27日 | [Marketo Engageチュートリアル](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) | ビデオ | 次にアクセス： [Marketo Engageチュートリアルホーム](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) Experience Leagueに関する情報を参照してください。 |
 | 2022年7月 | [Marketo Engage と Adobe Experience Cloud による B2B エクスペリエンス](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-experiences.html?lang=ja) | ビデオ | Marketo Engage と Adobe Experience Cloud アプリケーションの統合と、解決される問題点を紹介します。 | Marketo Engage |
 | 2022年7月 | [連携して機能強化 - Adobe Marketo Engage と Real-Time CDP](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=ja) | ビデオ | Marketo Engage と RT-CDP（B2B エディション）を使用して B2B キャンペーンを調整する方法と、そのユースケースおよび利点について説明します。 | Marketo、Real-time Customer Data Platform |
 
