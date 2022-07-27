@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 32c6aff94fda6fa1a7d916b440aea7d656eafa44
+source-git-commit: 91b0d04c0a8b481e29a6c678ba9afc0484795433
 workflow-type: tm+mt
-source-wordcount: '5575'
-ht-degree: 94%
+source-wordcount: '5678'
+ht-degree: 90%
 
 ---
 
@@ -23,7 +23,7 @@ Experience Maker として成功するための道のりは、[Experience League
 >
 >このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
-最終更新：**2022年7月19日（PT）**
+最終更新：**2022年7月27日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -500,24 +500,23 @@ Last updated: **October 27, 2021**
 
 ### [!DNL Advertising Cloud DSP] の新機能 {#adcloud-dsp}
 
-最終更新日：**2022年7月14日（PT）**
+最終更新日：**2022年7月27日（PT）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| カスタムレポート | （5月31日（PT）リリース、ベータ版機能）Advertising Cloud DSP は、顧客データプラットフォーム（CDP）内で作成された認証済みシグナルで構成される、ファーストパーティセグメントを取り込めるようになりました。 |
-| [!UICONTROL 在庫] | （6月29日（PT）リリース）新しい[!UICONTROL 在庫]／[!UICONTROL 取引]表示には、[!UICONTROL キャンペーン]表示と同じデータカスタマイズ機能が含まれています（追加のフィルター、列のカスタマイズおよびカスタム表示、列の並び替え、データビジュアライゼーション（グラフ）表示を保存するオプションなど）。取引名の後の省略記号（…）をクリックすることで、各行でコマンドメニューを開くことができます。 |
-| [!UICONTROL 在庫インスペクター] | （6月29日（PT）リリース）プレースメント[!UICONTROL インスペクター]の「[!UICONTROL 在庫]」タブには、[!UICONTROL ビューアビリティ率]、[!UICONTROL クリック数]、[!UICONTROL 昨日の CPM]など、カスタマイズ可能なデータビジュアライゼーショングラフおよび拡張されたパフォーマンス指標が含まれています。 |
+| [!UICONTROL 在庫] | （7 月 28 日リリース） [!UICONTROL オークションインサイト] は、保証済みと保証されていないプライベート契約の両方の契約構成を分析できる新しいトラブルシューティングツールです。 このツールは、データのビジュアライゼーションを使用して、特定の期間内にキーオークション属性に対して受け取った値のトレンドと相対比率を表示します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Cloud Search] の新機能 {#adcloud-search}
 
-最終更新日：**2022年7月14日（PT）**
+最終更新日：**2022年7月27日（PT）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL インサイト] | （6月11日（PT）リリース）インプレッション共有の損失分析を、ベータ版機能として再び使用できるようになりました。 |
-| [!DNL Advanced Campaign Management] | （6月20日（PT））（[!DNL Google Ads] および [!DNL Microsoft Advertising] キャンペーン）[!UICONTROL キャンペーン]／[!UICONTROL 詳細設定（ACM）]から、在庫のコンテンツに基づいて、検索エンジン特有の広告テンプレートを使用した動的なレスポンシブ検索広告のバリエーションを作成できるようになりました。 |
+| [!UICONTROL キャンペーン] | ( すべての広告主向けのオプトインベータ機能。7 月 17 日リリース ) を作成および管理できるようになりました [!DNL Google Ads] パフォーマンスの最大キャンペーン数（手動でのアセットグループの作成やアセットのアップロードを含む）。 リンク先 [!DNL Google Merchant Center] 製品フィードはサポートされていません。<br><br>ベータ版をオプトインしたら、 [!UICONTROL キャンペーンタイプ] &quot;[!UICONTROL 最大パフォーマンス]」と入力し、キャンペーン設定内でアセットグループを設定します。 また、既存のパフォーマンス最大キャンペーンを、テーブルおよびトレンドグラフ形式のパフォーマンスデータと共に、 [!UICONTROL キャンペーン] 表示 キャンペーンレベルのパフォーマンスデータは、レポートおよびAdobe Analytics( [!DNL Analytics] 統合 )。<br><br>ベータ版のオプトインについては、 [!DNL Adobe] アカウントチーム。 |
+|  | [!DNL Google Ads] では、標準のショッピングキャンペーン、動的検索広告、配置の広告レベルのパフォーマンスデータを提供しなくなりました。 |
+| [!UICONTROL キャンペーン], [!DNL Advanced Campaign Management], [!UICONTROL レポート] | （7 月 17 日リリース）([!DNL Google Ads] および [!DNL Microsoft Advertising] キャンペーン ) レスポンシブ検索広告で、以下のサポートが利用できるようになりました。<ul><li>この [!UICONTROL 広告] レスポンシブ検索広告のプレビューを表示するようになりました。</li><li> （6 月 21 日以降）在庫の内容に基づいて、検索エンジン固有の広告テンプレートを使用して、動的なレスポンシブ検索広告バリエーションを次の場所から作成できるようになりました。 [!UICONTROL キャンペーン] > [!UICONTROL アドバンス (ACM)].</li><li>この [!UICONTROL 広告バリエーションレポート] には、2 つの新しいカスタム列が含まれます。&quot;[!UICONTROL クリエイティブタイトル],」は、広告のタイトル行のコンマ区切りのリストです。[!UICONTROL 説明],」と入力します。これは、広告の説明行のコンマ区切りリストです。</li></ul> |
 
 {style=&quot;table-layout:auto&quot;}
 
