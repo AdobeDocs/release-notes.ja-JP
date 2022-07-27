@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 91b0d04c0a8b481e29a6c678ba9afc0484795433
+source-git-commit: b12e725da1878a88c7ff6341b7ab8d576672bca9
 workflow-type: tm+mt
-source-wordcount: '5678'
-ht-degree: 90%
+source-wordcount: '5706'
+ht-degree: 89%
 
 ---
 
@@ -475,6 +475,10 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 ## ![アイコン](/assets/workfront.png) [!DNL Adobe Workfront] {#workfront}
 
 Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、複雑なプロセスの管理、および最高の作業を行うための統合作業管理アプリケーションです。
+
+**Workfrontチュートリアルホーム**
+
+**2022 年 7 月 28 日**:Workfront新着 [チュートリアルホームExperience League](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) すべてのトレーニングおよびチュートリアルビデオおよび記事に関する説明です。
 
 すべての製品の最新情報のまとめについては、[[!DNL Workfront] リリース](https://one.workfront.com/s/product-releases) ページを参照してください。
 
