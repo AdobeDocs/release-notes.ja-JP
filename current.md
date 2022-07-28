@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 62d9c958f05ff33f663f4e7e68bb081c3bd38b33
+source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
 workflow-type: tm+mt
-source-wordcount: '5746'
-ht-degree: 89%
+source-wordcount: '5842'
+ht-degree: 87%
 
 ---
 
@@ -53,10 +53,11 @@ Experience Maker として成功するための道のりは、[Experience League
 
 Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。2022年7月の最新情報について詳しくは、Experience League の[イベント](https://experienceleague.adobe.com/events/?lang=ja)を参照してください。
 
-更新日：**2022年7月17日（PT）**
+更新日：**2022年7月28日（PT）**
 
 | イベント | タイプ | 説明 |
 | -----------|---------- | ----|
+| [Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) | コミュニティ Q&amp;A コーヒーブレーク | 当社は、AdobePremier Supportビジネスコンサルタント、レイチェル・ブース ( `@rbooth115`. Adobe Targetコミュニティにサインインして、 [このスレッド](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) 専門知識（パーソナライゼーション、最適化、統合）の分野に関する質問について <br>**日付：** 8 月 3 日（水）@ 8 a.m. PDT - 9 a.m.- [詳細と登録](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) |
 | [エキスパートに質問する：データストリームとデータ準備](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=ja) | Experience League LIVE | Adobe Experience Cloud のデータ収集に関する 3 回のセッションのうちのこの最後のセッションでは、アドビのエキスパートが、データ収集のためのデータ準備などの機能を含む、アドビの高度なデータ収集機能を掘り下げます。このセッションの最後に、参加者はデジタルエクスペリエンスからデータを収集するための最新で最も強力な機能に自信を持つようになります&#x200B;<br>**日付：** 7 月 21 日@午前 9 時 (PDT) - [詳細](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
 
 {style=&quot;table-layout:auto&quot;}
@@ -467,7 +468,7 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年7月27日 | [Marketo Engageチュートリアル](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) | ビデオ | 次にアクセス： [Marketo Engageチュートリアルホーム](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) Experience Leagueに関する情報を参照してください。 |
+| 2022年7月27日（PT） | [Marketo Engageチュートリアル](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) | ビデオ | 次にアクセス： [Marketo Engageチュートリアルホーム](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) Experience Leagueに関する情報を参照してください。 |
 | 2022年7月 | [Marketo Engage と Adobe Experience Cloud による B2B エクスペリエンス](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-experiences.html?lang=ja) | ビデオ | Marketo Engage と Adobe Experience Cloud アプリケーションの統合と、解決される問題点を紹介します。 | Marketo Engage |
 | 2022年7月 | [連携して機能強化 - Adobe Marketo Engage と Real-Time CDP](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=ja) | ビデオ | Marketo Engage と RT-CDP（B2B エディション）を使用して B2B キャンペーンを調整する方法と、そのユースケースおよび利点について説明します。 | Marketo、Real-time Customer Data Platform |
 
