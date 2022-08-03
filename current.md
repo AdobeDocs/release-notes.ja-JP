@@ -80,13 +80,13 @@ Experience Cloud の[主要な UI コンポーネント](https://experienceleagu
 >
 >Experience Cloud のプロビジョニングに関する次のお知らせを確認してください。
 
-アドビは、プロビジョニングを更新して、すべての Experience Cloud のお客様が、一部の Experience Cloud 製品間の相互運用性を支援する基本機能にアクセスできるようにします。ユーザーには、Adobe Experience Platform を Experience Cloud 組織に新しい権限として追加し、[!UICONTROL データ収集]を付属のサービスとして使用します。
+Adobe は、一部の Experience Cloud 製品間の相互運用性を支援する基本的な機能に対するすべての Experience Cloud のお客様のアクセスを提供するために、プロビジョニングを更新しています。 ユーザーには、新しい使用権限として Experience Cloud 組織に Adobe Experience Platform が追加され、[!UICONTROL データ収集]のサービスが付属します。
 
-Adobe Experience Platform [!UICONTROL データ収集]には、シンプルなユニバーサルタグ管理用の[タグ](https://experienceleague.adobe.com/docs/tags.html?lang=ja)が含まれており、信頼性が高く、堅牢で、完全なストリーミングデータインフラストラクチャを提供します。タグを使用すると、カスタマーエクスペリエンスのデータ収集を簡素化し、エクスペリエンス配信を効率化できます。
+Adobe Experience Platform の[!UICONTROL データ収集]には、汎用性のあるタグ管理を簡素化するための[タグ](https://experienceleague.adobe.com/docs/tags.html?lang=ja)が含まれており、信頼性の高い、堅牢で完全なストリーミングデータインフラストラクチャを提供します。 タグを使用すると、顧客体験のデータ収集を簡略化し、エクスペリエンス配信を効率化できます。
 
-**Admin Console の変更**
+**Admin Console の変更点**
 
-管理者は、次のように、Admin Console に対する変更や追加を確認できます。
+管理者は、次のように、Admin Console の変更や追加を確認できます。
 
 * Admin Console の Adobe Experience Platform 製品カードには、次が含まれます。
 
@@ -101,11 +101,11 @@ Adobe Experience Platform [!UICONTROL データ収集]には、シンプルな�
 
    現在 Experience Platform を使用していない組織の場合、上記の機能を含む _Adobe Experience Platform_ 製品が Admin Console に表示されます。
 
-   現在 Experience Platform を使用している組織の場合、_Places_ は Experience Platform カードに統合されます。
+   現在 Experience Platform を使用している組織の場合、 _Places_ は Experience Platform カードに統合されます。
 
-* Adobe Experience Platform データ収集（以前の Launch）とプライバシーは、他の Experience Platform 機能とは別の製品カードとして引き続き表示されます。
+* Adobe Experience Platform のデータ収集（以前の Launch）およびプライバシーは、他の Experience Platform 機能とは別の製品カードとして引き続き表示されます。
 
-新機能について詳しくは、Experience League の各ページを参照してください。
+新機能の詳細については、Experience League の各ページを参照してください。
 
 * [データ収集](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=ja)
 * [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=ja)
