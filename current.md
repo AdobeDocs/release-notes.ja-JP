@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4f563e352d8e35609c0b15b047701ffe53cd6053
+source-git-commit: e405f1009de51d64df108edb01673f09c98f41f7
 workflow-type: tm+mt
-source-wordcount: '6346'
-ht-degree: 86%
+source-wordcount: '5981'
+ht-degree: 84%
 
 ---
 
@@ -53,12 +53,12 @@ Experience Maker として成功するための道のりは、[Experience League
 
 Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。2022年7月の最新情報について詳しくは、Experience League の[イベント](https://experienceleague.adobe.com/events/?lang=ja)を参照してください。
 
-更新日：**2022年7月28日（PT）**
+更新日：**2022 年 8 月 11 日（PT）**
 
 | イベント | タイプ | 説明 |
 | -----------|---------- | ----|
-| [Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) | コミュニティ Q&amp;A コーヒーブレーク | 当社は、AdobePremier Supportビジネスコンサルタント、レイチェル・ブース ( `@rbooth115`. Adobe Targetコミュニティにサインインして、 [このスレッド](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) 専門知識（パーソナライゼーション、最適化、統合）の分野に関する質問について <br>**日付：** 8 月 3 日（水）@ 8 a.m. PDT - 9 a.m.- [詳細と登録](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) |
-| [エキスパートに質問する：データストリームとデータ準備](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=ja) | Experience League LIVE | Adobe Experience Cloud のデータ収集に関する 3 回のセッションのうちのこの最後のセッションでは、アドビのエキスパートが、データ収集のためのデータ準備などの機能を含む、アドビの高度なデータ収集機能を掘り下げます。このセッションの最後には、参加者は、デジタルエクスペリエンスからデータを収集するための最新の最も強力な機能について、確実に理解していることでしょう&#x200B;<br>**日付：** 7月21日午前 9:00（PDT） - [詳細](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
+| [Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html?utm_source=experienceleague) | ウェビナー | _明日の成功を追い求める：データ品質と導入_  — このライブウェビナーで、Adobe Analytics Champions の Frederik Werner と Sarah Owen が、分析のあらゆる側面にデータ品質を組み込み、その周りに共有文化を作り出す方法を学ぶために参加しましょう。<p>**日付：** 8 月 25 日@ 11:00 a.m. ET - [詳細と登録](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html?utm_source=experienceleague) |
+| [Experience Makers ライブ](https://business.adobe.com/events/experience-makers-live.html?cgen=Q75XPNKK&amp;mv=other) | ウェビナー | Sara Blakely、Peyton Manning、Eli Manning によるキーノートを取り上げた Experience Makers の無料イベント。<p>**日付：** 9 月 13 日～14 日 — [詳細と登録](https://business.adobe.com/events/experience-makers-live.html?cgen=Q75XPNKK&amp;mv=other) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -78,45 +78,7 @@ Experience Cloud の[主要な UI コンポーネント](https://experienceleagu
 
 >[!IMPORTANT]
 >
->Experience Cloud のプロビジョニングに関する次のお知らせを確認してください。
-
-Adobe は、一部の Experience Cloud 製品間の相互運用性を支援する基本的な機能に対するすべての Experience Cloud のお客様のアクセスを提供するために、プロビジョニングを更新しています。 ユーザーには、新しい使用権限として Experience Cloud 組織に Adobe Experience Platform が追加され、[!UICONTROL データ収集]のサービスが付属します。
-
-Adobe Experience Platform の[!UICONTROL データ収集]には、汎用性のあるタグ管理を簡素化するための[タグ](https://experienceleague.adobe.com/docs/tags.html?lang=ja)が含まれており、信頼性の高い、堅牢で完全なストリーミングデータインフラストラクチャを提供します。 タグを使用すると、顧客体験のデータ収集を簡略化し、エクスペリエンス配信を効率化できます。
-
-**Admin Console の変更点**
-
-管理者は、次のように、Admin Console の変更や追加を確認できます。
-
-* Admin Console の Adobe Experience Platform 製品カードには、次が含まれます。
-
-   * Places
-   * Assurance
-   * ID 名前空間
-   * サンドボックス
-   * エクスペリエンスデータモデル
-   * スキーマ
-   * データストリーム
-   * 訪問者 ID
-
-   現在 Experience Platform を使用していない組織の場合、上記の機能を含む _Adobe Experience Platform_ 製品が Admin Console に表示されます。
-
-   現在 Experience Platform を使用している組織の場合、 _Places_ は Experience Platform カードに統合されます。
-
-* Adobe Experience Platform のデータ収集（以前の Launch）およびプライバシーは、他の Experience Platform 機能とは別の製品カードとして引き続き表示されます。
-
-新機能の詳細については、Experience League の各ページを参照してください。
-
-* [データ収集](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=ja)
-* [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=ja)
-* [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html?lang=ja)
-* [ID 名前空間](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=ja)
-* [サンドボックス](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=ja)
-* [エクスペリエンスデータモデル](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=ja)
-* [スキーマ](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=ja)
-* [データストリーム](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=ja)
-* [訪問者 ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=ja#section_3C9F6DF37C654D939625BB4D485E4354)
-* [プライバシー](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=ja)
+>管理者の皆様には、 [重要な通知](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=en#july---2022) Experience Cloudのプロビジョニングについて（2022 年 7 月に公開）。
 
 ### 機能の更新
 
@@ -130,7 +92,7 @@ Adobe Experience Platform の[!UICONTROL データ収集]には、汎用性の�
 
 **[!DNL Experience Cloud Central UI Components] と管理に関するその他のヘルプリソース**
 
-* Experience Cloud 中央 UI コンポーネントの[リースノート](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=ja) 
+* Experience Cloud 中央 UI コンポーネントの[リースノート](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=en) 
 * Experience Cloud（管理）の[ユーザーおよび製品の管理](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)
 * Places Service [リリースノート](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=ja)
 * [ユーザー向けの製品ドキュメント - 顧客属性とオーディエンスライブラリ](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=ja)
