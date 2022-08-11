@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
+source-git-commit: 4f563e352d8e35609c0b15b047701ffe53cd6053
 workflow-type: tm+mt
-source-wordcount: '5842'
-ht-degree: 92%
+source-wordcount: '6346'
+ht-degree: 86%
 
 ---
 
@@ -23,7 +23,7 @@ Experience Maker として成功するための道のりは、[Experience League
 >
 >このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
-最終更新日：**2022年7月27日（PT）**
+最新の更新：**2022年8月11日**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -41,7 +41,7 @@ Experience Maker として成功するための道のりは、[Experience League
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo) (**更新日：7 月 27 日**)
-* [[!DNL Adobe Workfront]](#workfront) (**更新日：7 月 27 日**)
+* [[!DNL Adobe Workfront]](#workfront) (**更新日：8 月 11 日**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -468,7 +468,7 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年7月27日（PT） | [Marketo Engageチュートリアル](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) | ビデオ | 次にアクセス： [Marketo Engageチュートリアルホーム](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) Experience Leagueに関する情報を参照してください。 |
+| 2022年7月27日 | [Marketo Engageチュートリアル](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) | ビデオ | 次にアクセス： [Marketo Engageチュートリアルホーム](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) Experience Leagueに関する情報を参照してください。 |
 | 2022年7月 | [Marketo Engage と Adobe Experience Cloud による B2B エクスペリエンス](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-experiences.html?lang=ja) | ビデオ | Marketo Engage と Adobe Experience Cloud アプリケーションの統合と、解決される問題点を紹介します。 | Marketo Engage |
 | 2022年7月 | [連携して機能強化 - Adobe Marketo Engage と Real-Time CDP](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=ja) | ビデオ | Marketo Engage と RT-CDP（B2B エディション）を使用して B2B キャンペーンを調整する方法と、そのユースケースおよび利点について説明します。 | Marketo、Real-time Customer Data Platform |
 
@@ -478,9 +478,30 @@ Experience Platform を使用して、各個人のニーズをリアルタイム
 
 Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、複雑なプロセスの管理、および最高の作業を行うための統合作業管理アプリケーションです。
 
-**Workfrontチュートリアルホーム**
+### 新しいAdobe Workfrontコースとチュートリアル {#tutorials-workfront}
 
-**2022 年 7 月 28 日**:Workfront新着 [チュートリアルホームExperience League](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) すべてのトレーニングおよびチュートリアルビデオおよび記事に関する説明です。
+新しいWorkfrontコースとExperience Leagueのチュートリアル。
+
+| 公開日 | 名前 | タイプ | 説明 |
+| -----------| ---------- | ---------- | ---------- |
+| 2022年8月 | [Workfront チュートリアル](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) | チュートリアルホーム | Experience Leagueに関するWorkfrontのチュートリアルの新しいホームにアクセスします。 |
+| 2022年8月 | [Workfrontを使い始める（システム管理者向け）](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin) | コース | ユーザーを設定し、システム設定でユーザーのエクスペリエンスを最適化する方法の最初の段階について説明します。 |
+| 2022年8月 | [システム設定に関する知識をWorkfront Administrators に提供する](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin) | コース | ユーザーの組織、カスタムフォーム、承認プロセスとマイルストーン、レイアウトテンプレートなど、ユーザーエクスペリエンスを強化するためのシステム設定に関する詳細情報を説明します。 |
+| 2022年8月 | [Workfront for Planners の概要](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners) | コース | プロジェクトの作成と計画を学び、Workfrontジャーニーを開始します。 Workfrontは物事を簡単にすることをお勧めします。 |
+| 2022年8月 | [プロジェクトの管理と閉じる](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners) | コース | これで、プロジェクトの作成と計画を学んだので、プロジェクトの管理と終了の方法を学ぶことができます。 |
+| 2022年8月 | [プランナーとしての作業管理の詳細な理解 ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | コース | プロジェクトの作成、計画、管理の基本を学習したら、Workfrontを最大限に活用するために必要なことが、さらにいくつかあります。 |
+| 2022年8月 | [Workfront for Workers の概要](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers) | コース | このコースは、Adobe Workfrontで作業用ライセンスを持ち、作業やリクエストを受け取り、プロジェクトやドキュメントのチームと共同作業するユーザー向けです。 |
+| 2022年8月 | [Adobe Workfront for Collaborators](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators) | コース | 新しいWorkfrontエクスペリエンスで、レビューまたはリクエストライセンスを使用して、タスク、ドキュメント、配達確認を簡単にリクエスト、確認、共同作業する方法を説明します。 |
+| 2022年8月 | [カスタムフォームの作成と管理](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms) | コース | システム内にカスタムフィールドを作成して、組織の固有の情報を取り込みます。 Workfrontでカスタムフォームを作成、共有、添付する方法を説明します。 |
+| 2022年8月 | [Workfront Proof — 管理と設定](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof) | コース | 配達確認の設定を調整し、アクションとレポートをカスタマイズし、配達確認ワークフローを設定する方法を説明します。 |
+| 2022年8月 | [Workfrontの配達確認 — 配達確認をアップロード](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof) | コース | レビューおよび承認用に配達確認をアップロードする方法を説明します。 |
+| 2022年8月 | [Workfront Proof — 作業のレビューと承認](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof) | コース | Workfront Proof をレビュー担当者または承認者として使用する方法を説明します。 |
+| 2022年8月 | [基本レポート要素](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting) | コース | レポート要素は、Workfrontのすべてのリストレポートにあるフィルター、ビューおよびグループです。 これらの情報を学習すると、カスタムレポートおよびカレンダーを作成するのに役立ちます。 |
+| 2022年8月 | [カスタムカレンダーの作成](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting) | コース | カスタムカレンダーでは、プロジェクト、タスク、問題から日付や情報を直接カレンダー形式で表示できます。 |
+| 2022年8月 | [カスタムレポートとダッシュボードの作成](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting) | コース | レポートは、データを表示するウィンドウです。 Workfrontで 3 つの異なるタイプのレポートを作成し、ダッシュボードで使用する方法を説明します。 |
+| 2022年8月 | [中間フィルターの作成](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.reporting) | コース | ワイルドカード、OR フィルタ、およびテキストモードをより深く理解できます。 組み込みのプロジェクト、タスクおよび問題のフィルターを開き、実際の状況の詳細を確認します。 |
+
+{style=&quot;table-layout:auto&quot;}
 
 すべての製品の最新情報のまとめについては、[[!DNL Workfront] リリース](https://one.workfront.com/s/product-releases) ページを参照してください。
 
