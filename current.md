@@ -6,10 +6,10 @@ last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 12468598e028faf1f4e359a435a76783706d01d9
+source-git-commit: b2912a6f4a778785d021f6ab2bedcdc0d98dd208
 workflow-type: tm+mt
-source-wordcount: '4134'
-ht-degree: 97%
+source-wordcount: '4152'
+ht-degree: 96%
 
 ---
 
@@ -23,7 +23,7 @@ Experience Maker として成功するための道のりは、[Experience League
 >
 >このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
-最新の更新：**2022年8月12日（PT）**
+最新の更新：**2022年8月23日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -41,7 +41,7 @@ Experience Maker として成功するための道のりは、[Experience League
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
-* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Workfront]](#workfront) ( 更新済み **8 月 24 日**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -86,7 +86,7 @@ Experience Cloud の[主要な UI コンポーネント](https://experienceleagu
 
 リリース予定日：**2022年8月24日（PT）**
 
-* [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)
 
 ### [!DNL Adobe Mobile] SDK
 
@@ -113,7 +113,7 @@ Adobe Analytics 用に公開された新しいビデオチュートリアル、�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年8月 | [フォールアウトビジュアライゼーションレポートの作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analyzing-customer-journeys/fallout-visualization.html) | ビデオ | フォールアウトレポートのユースケースと、Analysis Workspace でこのレポートを設定する方法について説明します。 |
+| 2022年8月 | [フォールアウトビジュアライゼーションレポートの作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analyzing-customer-journeys/fallout-visualization.html?lang=ja) | ビデオ | フォールアウトレポートのユースケースと、Analysis Workspace でこのレポートを設定する方法について説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -235,9 +235,9 @@ _新機能_
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2022年8月 | [AEM as a Cloud Service 2022.7.0 リリースの更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-7-0.html) | ビデオ | Adobe Experience Manager Assets、Assets Essentials、Sites、Commerce Integration Framework、Forms および Cloud Manager の最新リリースの機能とイノベーションについて、AEM 製品チームが説明します。 | AEM as a Cloud Service |
+| 2022年8月 | [AEM as a Cloud Service 2022.7.0 リリースの更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-7-0.html?lang=ja) | ビデオ | Adobe Experience Manager Assets、Assets Essentials、Sites、Commerce Integration Framework、Forms および Cloud Manager の最新リリースの機能とイノベーションについて、AEM 製品チームが説明します。 | AEM as a Cloud Service |
 | 2022年8月 | [AEM ヘッドレスチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=ja) | 更新された記事 | AEMヘッドレス SDK のチュートリアルが更新され、永続的なクエリと WKND 2.0 を使用できるようになりました。実践チュートリアルを使用して、様々なオプションの使用方法を検討し、適切なものを選択してください。 | AEMas a Cloud Service |
-| 2022年8月 | [AEM as a Cloud Service と Adobe Experience Cloud の統合](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations.html) | ビデオ | AEMas a Cloud Serviceの他のAdobe Experience Cloud製品との統合に関する詳細 | AEM CS、Experience Cloud |
+| 2022年8月 | [AEM as a Cloud Service と Adobe Experience Cloud の統合](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations.html?lang=ja) | ビデオ | AEMas a Cloud Serviceの他のAdobe Experience Cloud製品との統合に関する詳細 | AEM CS、Experience Cloud |
 | 2022年8月 | [Forms CS と Microsoft® Power Automate](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html) | ビデオ | アダプティブフォームの送信時に自動フローを起動します。 | AEM Forms |
 
 {style=&quot;table-layout:auto&quot;}
@@ -292,9 +292,9 @@ Adobe Commerce リリースノートについては、以下のリンクを参�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年8月 | [Adobe Commerce コンテンツおよびデザインガイド](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html) | 製品ドキュメント | Adobe Commerce のコンテンツとデザインに関する新しい製品ドキュメントのホームを参照してください。 |
-| 2022年8月 | [カタログサービスガイドの概要](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html) | 製品ドキュメント | [!UICONTROL カタログサービス]を紹介します。オンボーディングとインストールについて説明します。 |
-| 2022年8月 | [Adobe Commerce のクイックチェックアウト](https://experienceleague.adobe.com/docs/commerce-merchant-services/quick-checkout/overview.html) | 製品ドキュメント | Adobe Commerce の一般的なチェックアウトエクスペリエンスと、クイックチェックアウトのメリット、そのジャーニーに沿うためのベストプラクティスの概要を説明します。 |
+| 2022年8月 | [Adobe Commerce コンテンツおよびデザインガイド](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=ja) | 製品ドキュメント | Adobe Commerce のコンテンツとデザインに関する新しい製品ドキュメントのホームを参照してください。 |
+| 2022年8月 | [カタログサービスガイドの概要](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html?lang=ja) | 製品ドキュメント | [!UICONTROL カタログサービス]を紹介します。オンボーディングとインストールについて説明します。 |
+| 2022年8月 | [Adobe Commerce のクイックチェックアウト](https://experienceleague.adobe.com/docs/commerce-merchant-services/quick-checkout/overview.html?lang=ja) | 製品ドキュメント | Adobe Commerce の一般的なチェックアウトエクスペリエンスと、クイックチェックアウトのメリット、そのジャーニーに沿うためのベストプラクティスの概要を説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -370,7 +370,7 @@ New videos, tutorials, or courses published for Adobe Journey Optimizer.
 ### [!DNL Journey Optimizer] のその他のリソース
 
 * [Journey Optimizer ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja)
-* [意思決定管理ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=ja) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ja)
+* [意思決定管理ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=ja) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ja)
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
@@ -408,9 +408,11 @@ Experience Platform を使用すると、各個人のニーズをリアルタイ
 
 Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、複雑なプロセスの管理、および最高の作業を行うための統合作業管理アプリケーションです。
 
-### 新しい Adobe Sign コースとチュートリアル {#tutorials-workfront}
+### 新しい Adobe Workfront コースとチュートリアル {#tutorials-workfront}
 
 新しい Workfront コースと Experience League のチュートリアル。
+
+**更新日：8 月 23 日** すべてのWorkfrontチュートリアルと製品ドキュメントのExperience Leagueに関する翻訳は、近日中に提供されます。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
@@ -433,7 +435,7 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 
 {style=&quot;table-layout:auto&quot;}
 
-すべての製品の最新情報の総まとめについては、[[!DNL Workfront] 製品リリース](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html)ページを参照してください。
+すべての製品の最新情報の総まとめについては、[[!DNL Workfront] 製品リリース](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html?lang=ja)ページを参照してください。
 
 ## ![アイコン](/assets/advertising-cloud.png) Adobe Advertising Cloud {#adcloud}
 
@@ -487,9 +489,9 @@ Adobe Document Cloud 向けに新しく公開されたチュートリアルと�
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022年8月 | [新しい Workspace エクスペリエンス](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace.html) | ビデオ | Acrobat でアクティブ化してツールやファイル間をシームレスに移動できるようになる新しい Workspace エクスペリエンスについて説明します。 | Adobe Acrobat |
+| 2022年8月 | [新しい Workspace エクスペリエンス](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace.html?lang=ja) | ビデオ | Acrobat でアクティブ化してツールやファイル間をシームレスに移動できるようになる新しい Workspace エクスペリエンスについて説明します。 | Adobe Acrobat |
 | 2022年8月 | [オンライン支払の設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/set-up-online-payments.html?lang=ja) | ビデオ | ドキュメントにオンライン支払を設定する方法と支払に同意する方法を説明します。 | Acrobat Sign |
-| 2022年8月 | [スタンプによる署名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-stamp.html) | ビデオ | 署名ワークフローでスタンプを使用して、ドキュメントを承認済みまたは完了済みとしてマークする方法を説明します。 | Acrobat Sign |
+| 2022年8月 | [スタンプによる署名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-stamp.html?lang=ja) | ビデオ | 署名ワークフローでスタンプを使用して、ドキュメントを承認済みまたは完了済みとしてマークする方法を説明します。 | Acrobat Sign |
 | 2022年8月 | [署名の直接取得](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-in-person.html?lang=ja) | ビデオ | を使用して他のユーザーの署名を直接取得する方法を学ぶ [Acrobat Signモバイルアプリ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=ja). | Acrobat Sign |
 
 {style=&quot;table-layout:auto&quot;}
