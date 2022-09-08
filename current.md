@@ -6,7 +6,7 @@ last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f7f34c0454a5d936c88b1c49594902234febadb0
+source-git-commit: b463f30f9d36a0047933ce500d81a8f123d48131
 workflow-type: tm+mt
 source-wordcount: '5112'
 ht-degree: 79%
@@ -58,7 +58,7 @@ Experience League イベントでは、アドビの製品エキスパートか�
 | 製品/イベント名 | タイプ | 説明 |
 | -----------|---------- | ----|
 | **[!DNL Adobe Analytics]** | ウェビナー | _経験者 — スキル交換_ -Adobe [!DNL Analytics] エディション、専門家がAdobeの内部のスクープを提供 [!DNL Analytics]. <p>**日付：** 9 月 8 日@午前 9 時（太平洋標準時） — [詳細と登録](https://events.bizzabo.com/411737?promo=ExperienceLeague&amp;tr=true) |
-| **[!DNL Adobe Workfront]** | ワークショップ | 他のお客様とつながり、話し合う機会を探しています [!DNL Workfront] 機能？ CS Connections シリーズにご参加ください。 他のお客様と連絡を取り、組織のホットトピックについて話し合う月 1 回の機会。<p>>**日付：** 9 月 12 日@ MT 午前 7 時 ) [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | ワークショップ | 他のお客様とつながり、話し合う機会を探しています [!DNL Workfront] 機能？ CS Connections シリーズにご参加ください。 他のお客様と連絡を取り、組織のホットトピックについて話し合う月 1 回の機会。<p>**日付：** 9 月 12 日@ MT 午前 7 時 ) [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Experience Cloud]** | ウェビナー | _Experience Makers ライブ_ - Sara Blakely、Peyton Manning、Eli Manning のキーノートを含む無料イベント。<p>**日付：** 9月13〜14日（PT）- [詳細と登録](https://business.adobe.com/events/experience-makers-live.html?lang=ja) |
 | **[!DNL Adobe Workfront]** | ワークショップ | 図ワークフロー — 顧客サクセスチームに参加して、ライブディスカッションや図ワークフローのウォークスルー（取り込みから完了まで）をおこない、効果的な作業管理慣行の基盤を確立する方法を理解します。 <p>**日付：** 9月20〜日（PT）- [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Campaign]** （Classic と Standard） | ウェビナー | クロスチャネルマーケターにとって、ホリデーシーズン、ピークシーズン、そして最も忙しい時間が近い。 計画は順調に進んでいるはずです。 この [!DNL Adobe Campaign] Insider セッションでは、E メールの配信品質を支援するトピックについて説明しています。 [!DNL Adobe Campaign] パフォーマンスの調整、ワークフローおよび配信のベストプラクティスを実行し、インスタンスがピーク時のアクティビティに合わせて適切に動作するようにします。<p>**日付：** 9 月 15 日@午前 8 時（太平洋標準時） [詳細と登録](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/) |
