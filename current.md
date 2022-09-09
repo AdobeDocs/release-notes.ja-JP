@@ -6,14 +6,14 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2b212054c9798d6c4a78a382f838e037697e7d7d
+source-git-commit: 1c31b0d7fc934b0c54d250703d30bee7f344b1e7
 workflow-type: tm+mt
-source-wordcount: '5431'
-ht-degree: 42%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# 内部レビュー — Adobe Experience Cloudリリースノート — 2022 年 9 月
+# Adobe Experience Cloud リリースノート - 2022年9月
 
 ![バナー](assets/experience-cloud-banner-3.png)
 
