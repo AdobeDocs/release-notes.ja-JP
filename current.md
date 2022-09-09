@@ -6,7 +6,7 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1c31b0d7fc934b0c54d250703d30bee7f344b1e7
+source-git-commit: de17195b999264f06cb12433c97e8ebf6706a42e
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Experience Maker として成功するための道のりは、[Experience League
 
 最終更新日：**2022年9月9日（PT）**
 
-* [[!DNL Experience League] イベント](#events) ( 更新済み **9 月 8 日**)
+* [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 主要なインターフェイスコンポーネントと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -53,11 +53,10 @@ Experience Maker として成功するための道のりは、[Experience League
 
 Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。2022年7月の最新情報について詳しくは、Experience League の[イベント](https://experienceleague.adobe.com/events/?lang=ja)を参照してください。
 
-更新済み **2022 年 9 月 9 日**
+更新済み **2022 年 9 月 10 日**
 
 | 製品/イベント名 | タイプ | 説明 |
 | -----------|---------- | ----|
-| **[!DNL Adobe Analytics]** | ウェビナー | _経験者 — スキル交換_ -Adobe [!DNL Analytics] エディション、専門家がAdobeの内部のスクープを提供 [!DNL Analytics]. <p>**日付：** 9 月 8 日@午前 9 時（太平洋標準時） — [詳細と登録](https://events.bizzabo.com/411737?promo=ExperienceLeague&amp;tr=true) |
 | **[!DNL Adobe Workfront]** | ワークショップ | 他のお客様とつながり、話し合う機会を探しています [!DNL Workfront] 機能？ CS Connections シリーズにご参加ください。 他のお客様と連絡を取り、組織のホットトピックについて話し合う月 1 回の機会。<p>**日付：** 9 月 12 日@ MT 午前 7 時 ) [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Experience Cloud]** | ウェビナー | _Experience Makers ライブ_ - Sara Blakely、Peyton Manning、Eli Manning のキーノートを含む無料イベント。<p>**日付：** 9月13〜14日（PT）- [詳細と登録](https://business.adobe.com/events/experience-makers-live.html?lang=ja) |
 | **[!DNL Adobe Workfront]** | ワークショップ | 図ワークフロー — 顧客サクセスチームに参加して、ライブディスカッションや図ワークフローのウォークスルー（取り込みから完了まで）をおこない、効果的な作業管理慣行の基盤を確立する方法を理解します。 <p>**日付：** 9月20〜日（PT）- [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
