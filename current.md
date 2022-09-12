@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: adf718f29e5c8d8f24497565750372359fa26e0f
+source-git-commit: dfa7ca73f9e703e2b9d175a562bd422f57cb23f2
 workflow-type: tm+mt
-source-wordcount: '6445'
-ht-degree: 42%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ Experience Maker として成功するための道のりは、[Experience League
 >
 >このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
-最終更新日：**2022年9月9日（PT）**
+最終更新日：**2022年9月12日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -33,7 +33,7 @@ Experience Maker として成功するための道のりは、[Experience League
 * [[!DNL Customer Journey Analytics]](#cja)
 * [[!DNL Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) ( 更新済み **9 月 13 日**)
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
@@ -203,7 +203,7 @@ _新機能_
 _Forms のベータ機能_
 
 * **統合ストレージコネクタ**  — 統合ストレージコネクタを使用して、顧客管理リポジトリ内の処理中のデータを外部化します。 例えば、次のことができます。
-   * Forms ポータルの保存および再開機能を有効にし、顧客側で管理されるデータリポジトリにアダプティブフォームのドラフトを格納する
+   * Forms Portal の保存と再開機能を有効にし、顧客が管理するデータリポジトリにアダプティブフォームのドラフトを保存します。
    * 顧客が管理するリポジトリに、機密個人Experience Manager(SPD) を含むインプロセス・データ (Experience Manager・ワークフロー変数データ ) を格納します。
 * **Experience Manager Formsas a Cloud Service、通信** - [通信 API](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html) は、XDP テンプレートと XML データを組み合わせて、様々な形式の印刷ドキュメントを生成する場合に役立ちます。 このサービスを使用すると、同期モードでドキュメントを生成できます。API を使用すると、次の操作を可能にするアプリケーションを作成できます。
    * テンプレートファイルに XML データを入力してドキュメントを生成します。
