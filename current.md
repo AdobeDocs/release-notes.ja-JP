@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dfa7ca73f9e703e2b9d175a562bd422f57cb23f2
+source-git-commit: 3dade77ca8f59fbe80c96442b26bb9998dd0d381
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '6560'
+ht-degree: 41%
 
 ---
 
@@ -454,9 +454,8 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 リリースノート：[!DNL Adobe Advertising Cloud]
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
+* [ [!DNL Advertising Cloud DSP] の新機能](#adcloud-dsp)
 * [ [!DNL Advertising Cloud Search] の新機能](#adcloud-search)
-
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -472,17 +471,15 @@ Last updated: **August 9, 2022**
   
 -->
 
-<!--
+### [!DNL Advertising Cloud DSP] の新機能 {#adcloud-dsp}
 
-### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+最終更新日： **2022 年 9 月 13 日**
 
-Last updated: **July 27, 2022**
-
-| Feature | Description |
+| 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL Inventory] | (July 27 release) [!UICONTROL Auction Insights] is a new troubleshooting tool that allows you to analyze the deal composition of both guaranteed and non-guaranteed private deals. Using data visualizations, this tool shows the trend and relative proportions of values received for key auction attributes within a specific time period. |
+| [!UICONTROL パッケージと配置のペーシング] | （9 月 12 日リリース）フライトぺーシングと日中ペーシングに別々のぺーシング制御を利用できるようになりました。 以前は、1 つの戦略で両方が制御されていました。 既存のパッケージおよび配置の設定は、次のようにマッピングされました。<ul><li>レガシー **[!UICONTROL ペーシングフィル戦略]**=*[!UICONTROL 偶数]*  — 現在は次のように設定されています： **[!UICONTROL フライトぺーシング]**=*[!UICONTROL 偶数]* および **[!UICONTROL 日中ペーシング]**=*[!UICONTROL 偶数]*</li><li>レガシー **[!UICONTROL ペーシングフィル戦略]**=*[!UICONTROL 少し前に]*  — 現在は次のように設定されています： **[!UICONTROL フライトぺーシング]**=*[!UICONTROL 少し前に]* および **[!UICONTROL 日中ペーシング]**=*[!UICONTROL 偶数]*</li><li>レガシー **[!UICONTROL ペーシングフィル戦略]**=*[!UICONTROL Frontload]*  — 現在は次のように設定されています： **[!UICONTROL フライトぺーシング]**=*[!UICONTROL Frontload]* および **[!UICONTROL 日中ペーシング]**=*[!UICONTROL ASAP]*</li><li>レガシー **[!UICONTROL ペーシングフィル戦略]**=*[!UICONTROL 積極的な最前面負荷]*  — 現在は次のように設定されています： **[!UICONTROL フライトぺーシング]**=*[!UICONTROL 積極的な最前面負荷]* および **[!UICONTROL 日中ペーシング]**=*[!UICONTROL ASAP]*</li></ul> |
 
--->
+{style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Cloud Search] の新機能 {#adcloud-search}
 
