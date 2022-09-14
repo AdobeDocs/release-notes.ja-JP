@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3dade77ca8f59fbe80c96442b26bb9998dd0d381
+source-git-commit: 9cabd3285eeaca306d9da14d98cfa6b0311f5d11
 workflow-type: tm+mt
-source-wordcount: '6560'
+source-wordcount: '6495'
 ht-degree: 41%
 
 ---
@@ -246,13 +246,9 @@ _新機能_
 
 ### コミュニティ
 
-* 以下の包括的なリスト [Experience Leagueの最新のExperience Managerの内容は、こちらをご覧ください](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751?profile.language=ja#M29908).
-* [Adobe Experience Cloud](https://www.linkedin.com/company/adobe-experience-cloud/) コミュニティとは、ユーザーが顧客に対してゲームを変えるデジタルエクスペリエンスを作り出せるように、連携し、惹きつけ、力を与えるハートビートです。
-すべてのコミュニティアドバイザのリストを確認するには、次を参照してください [Adobeブログ](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors#gs.a6braz).
-* 新機能リクエストまたは提案をExperience Managerに送信する方法
-   * Experience Manager機能リクエストを送信する新しいプロセスが公開されました。 [アイデアの作成](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas?profile.language=ja). |
-   * 詳しくは、 [詳細はこちら](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425?profile.language=ja).
-   * [新しいアイデアの送信に関するExperience Manager](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager-blogs/guidelines-for-submitting-a-new-experience-manager-aem-idea/ba-p/382376).
+* AEMas a Cloud Service2022.7.0 - [リリースの更新](https://adobe.ly/3paYDAo).
+* **Experience Leagueショーケース**  — 複数のAdobe Experience Cloud製品で実行できる操作を、世界中に表示します。 [今すぐストーリーを送信します。](https://experienceleaguecommunities.adobe.com/t5/experience-league-showcase-2022/con-p/exl-showcase-2022?sdid=3NQZB6J7&amp;mv=email)
+* AEM User Group の設定 |AdobePTP、バンガロール | 2022 年 9 月 30 日 | [登録はこちらから](https://adobe.ly/3DlsUos) | [コミュニティスレッドについて](https://adobe.ly/3DhQwub).
 
 ### 新しい Adobe Experience Manager コースとチュートリアル {#tutorials-aem}
 
