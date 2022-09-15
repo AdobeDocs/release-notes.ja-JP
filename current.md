@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9cabd3285eeaca306d9da14d98cfa6b0311f5d11
+source-git-commit: 296c9809faaf551914e5ffbb086a198a0595196e
 workflow-type: tm+mt
-source-wordcount: '6495'
+source-wordcount: '6483'
 ht-degree: 41%
 
 ---
@@ -487,7 +487,7 @@ Last updated: **August 9, 2022**
 |  | ([!DNL Google Ads] アカウント ) Campaigns /広告ビューに、オプションの [!UICONTROL 広告の強さ] 列。各レスポンシブ検索広告 (RSA) がどの程度従うかを示します。 [!DNL Google Ads] パフォーマンスのベストプラクティス。<br><br>[!DNL Microsoft® Advertising] では、まだ API を介して同様のサポートを有効にしていません。 |
 |  | ([!DNL Microsoft® Advertising] アカウント ) の同期、読み取り専用、およびレポート（ビュースルーデータを含む）のサポートが、 [!DNL Microsoft® Audience Network]を含む [!DNL Microsoft®] オーディエンス広告。 |
 | [!UICONTROL キャンペーン], [!UICONTROL レポート] | パブリッシャーのインプレッション共有指標の数が増えると、次の週に、キャンペーン管理のビューとレポートの列として使用できるようになります。 |
-| [!UICONTROL コンバージョン値のルール] | ([!DNL Google Ads accounts];ベータ版機能を使用 ) 既存のコンバージョン値ルールを [!UICONTROL 最適化] > [!UICONTROL コンバージョン値のルール]. 次を持つ広告主 [!DNL Google Ads] 個々のアカウントレベル以下でのコンバージョントラッキングでも、ルールの作成と管理が可能です。<br><br>コンバージョン値ルールの自動最適化は、今後のリリースで利用できるようになります。 |
+| [!UICONTROL コンバージョン値のルール] | ([!DNL Google Ads accounts];ベータ版機能を使用 ) 既存のコンバージョン値ルールを [!UICONTROL 最適化] > [!UICONTROL コンバージョン値のルール]. 次を持つ広告主 [!DNL Google Ads] 個々のアカウントレベル以下でのコンバージョントラッキングでも、ルールの作成と管理が可能です。 |
 | [!UICONTROL ポートフォリオ] | ( オプトインベータ版機能。 [!DNL Google Ads] アカウント ) [!DNL YouTube] キャンペーン [!UICONTROL コンバージョンを最大化] ハイブリッドポートフォリオの入札戦略が、カスタムシミュレーションの結果に含まれるようになりました。 ハイブリッドポートフォリオには、次のみを含める必要があります [!DNL YouTube] キャンペーン。<br><br>ベータ版プログラムに参加するには、アカウントチームにお問い合わせください。 |
 | [!UICONTROL 広告インサイト] | この [!UICONTROL 広告インサイト] パフォーマンスと信頼性を向上させる新しいインフラストラクチャに基づいて、ビューは新しい外観とワークフローを備えています。 インサイト名をクリックし、設定を選択または入力して、「 [!UICONTROL Insight を生成].<br><br>一時的にレガシービューに戻るには、を有効にします。 [!UICONTROL 古い UI に切り替え] を右上に表示します。 従来のビューは 9 月末に削除されます。 |
 |  | この [!UICONTROL クエリクロスマッチングベータ] 分析が利用できるようになりました。 |
