@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 296c9809faaf551914e5ffbb086a198a0595196e
+source-git-commit: 892aae110e9a8d74f9e151a255110acedf984bcf
 workflow-type: tm+mt
-source-wordcount: '6483'
-ht-degree: 41%
+source-wordcount: '6692'
+ht-degree: 40%
 
 ---
 
@@ -493,7 +493,7 @@ Last updated: **August 9, 2022**
 |  | この [!UICONTROL クエリクロスマッチングベータ] 分析が利用できるようになりました。 |
 | [!UICONTROL レポート ] | ([!DNL Google Ads] アカウントのみ ) 新しい専門レポート [!UICONTROL RSA Assets レポート] 各アセット ([!UICONTROL クリエイティブタイトル] または [!UICONTROL 説明]) 1 つ以上のポートフォリオ内のレスポンシブ検索広告 (RSA)、または 1 つ以上のアカウント、キャンペーン、広告グループ用。 デフォルトでは、レポート期間中にアセットが無効（削除）になった場合でも、指定したデータ範囲で少なくとも 1 つのインプレッションを受け取ったアセットごとに 1 つの行がデータに含まれます。 **注意：** 「[!UICONTROL パフォーマンスデータのない行を含める]「 」というエラーが発生した場合でも、データを受信したことのないアセットのデータは含まれません。 |
 |  | レスポンシブ検索広告 (RSA) の追加サポートは、 [!UICONTROL 広告バリエーションレポート]:<ul><ul>([!DNL Google Ads] アカウントのみ ) [!UICONTROL 列] 設定、新しい[!UICONTROL 広告の強さ]「 」列は、RSA がどの程度従うかを示します。 [!DNL Google Ads] パフォーマンスのベストプラクティス。 同じ列を [!UICONTROL キャンペーン] > [!UICONTROL 広告] 表示 [!DNL Microsoft® Advertising] では、まだ API を介して同様のサポートを有効にしていません。</li><li>内 [!UICONTROL 列] 設定を使用すると、レポート結果を [!UICONTROL クリエイティブタイトル] および [!UICONTROL 説明].</li><li>内 [!UICONTROL 詳細フィルター] 設定では、 [!UICONTROL 広告テキスト] 両方に適用されるフィールド [!UICONTROL クリエイティブタイトル] および [!UICONTROL 説明].</li></ul> |
-| [!UICONTROL 推奨事項] | ([!DNL Google Ads] アカウントベータ版機能 ) 内 [!UICONTROL インサイトとレポート] > [!UICONTROL Recommendations Beta]を使用すると、次のことができます。<ul><li>以前に処理されていないレコメンデーションを一目で確認する [!DNL Google Ads] アカウント</li><li>アカウントのレコメンデーションを適用および却下します。</li><li>アカウントに適用された各レコメンデーションのログを表示します。</li></ul> |
+| [!UICONTROL 推奨事項] | ([!DNL Google Ads] アカウントベータ版機能 ) 内 [!UICONTROL インサイトとレポート] > [!UICONTROL Recommendations Beta]を使用すると、次のことができます。<ul><li>以前に処理されていないレコメンデーションを一目で確認する [!DNL Google Ads] アカウント</li><li>アカウントのレコメンデーションを適用および却下します。</li><li>アカウントに適用された各レコメンデーションのログを表示します。</li></ul><br>サポートされるRecommendations:<li><strong>レコメンデーションカテゴリレコメンデーションタイプ説明</strong></li><li>広告と拡張機能；CALL_EXTENSION;キャンペーンへの呼び出し拡張機能の追加</li><li>広告と拡張機能；CALLOUT_EXTENSION;キャンペーンへの引き出し線拡張機能の追加</li><li>広告と拡張機能；OPTIMIZE_AD_ROTATION;最適化された広告の回転を使用</li><li>広告と拡張機能；RESPONSIVE SEARCH_AD;新しいレスポンシブ検索広告の追加</li><li>広告と拡張機能；RESPONSIVE_SEARCH_AD_ASSET;広告へのレスポンシブ検索広告アセットの追加</li><li>広告と拡張機能；SITELINK_EXTENSION;キャンペーンへの sitelink 拡張機能の追加</li><li>広告と拡張機能；TEXT_AD;広告の提案の追加</li><li>入札と予算キャンペーンの予算予算によって制限されたキャンペーンを修正</li><li>入札と予算ENHANCED_CPC_OPT_IN;拡張 CPC での入札</li><li>入札と予算FORECASTING_CAMPAIGN 予算；将来予想されるキャンペーンを修正し、予算によって制限</li><li>入札と予算MARGINAL ROI_CAMPAIGN BUDGET;キャンペーン予算を調整して ROI を向上</li><li>入札と予算クリック数の最大化 OPT_IN;クリック数の最大化による入札</li><li>入札と予算コンバージョンの最大化 OPT_IN;コンバージョンを最大化して入札</li><li>入札と予算MOVE_UNUSED_BUDGET;未使用を制約付き予算に移動</li><li>入札と予算TARGET_CPA_OPT_IN;Target CPA との入札</li><li>入札と予算TARGET_ROAS_OPT_IN;Target ROAS での入札</li><li>キーワードとターゲティング；キーワード；新しいキーワードを追加</li><li>キーワードとターゲティング；SEARCH_PARTNERS_OPT_IN;Googleの検索パートナーとのリーチを拡大</li><li>キーワードとターゲティング；USE_BROAD MATCH KEYWORD;を使用したコンバージョンベースのキャンペーンで広範な一致を使用する <strong>完全に自動化されたコンバージョンベースの入札</strong></li> |
 | [!UICONTROL キャンペーンのインポート] | （ベータ版機能） [!DNL Google Display Network] 広告画像を含むキャンペーンを [!DNL Microsoft® Advertising] オーディエンスキャンペーン [!DNL Microsoft® Audience Network] から [!UICONTROL ツール] > [!UICONTROL キャンペーンのインポート]. キャンペーンをインポートすると、インポートジョブのステータスの確認、エラーログの確認、インポートスケジュールの編集、一時停止、削除ができます。 |
 
 {style=&quot;table-layout:auto&quot;}
