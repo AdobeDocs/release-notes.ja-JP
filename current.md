@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 892aae110e9a8d74f9e151a255110acedf984bcf
+source-git-commit: ceaa0175f0c01830cba0a247e248f054d1f39b89
 workflow-type: tm+mt
-source-wordcount: '6692'
-ht-degree: 40%
+source-wordcount: '6525'
+ht-degree: 41%
 
 ---
 
@@ -23,9 +23,9 @@ Experience Maker として成功するための道のりは、[Experience League
 >
 >このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
-最終更新日：**2022年9月12日（PT）**
+最終更新日：**2022年9月19日（PT）**
 
-* [[!DNL Experience League] イベント](#events)
+* [[!DNL Experience League] イベント](#events) ( 更新済み **9 月 20 日**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 主要なインターフェイスコンポーネントと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -53,24 +53,21 @@ Experience Maker として成功するための道のりは、[Experience League
 
 Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。2022年7月の最新情報について詳しくは、Experience League の[イベント](https://experienceleague.adobe.com/events/?lang=ja)を参照してください。
 
-更新済み **2022 年 9 月 10 日**
+更新済み **2022 年 9 月 20 日**
 
 | 製品/イベント名 | タイプ | 説明 |
 | -----------|---------- | ----|
 | **Experience Leagueショーケース** | コンテスト | AdobeにExperience Cloud製品を統合し、革新的でパーソナライズされた顧客体験を作成する方法を伝えます。 ストーリーを提出し、Adobeによって認識される！ **9 月 9 日～29 日のエントリ許可** - [詳細](https://experienceleaguecommunities.adobe.com/t5/experience-league-showcase-2022/con-p/exl-showcase-2022?sdid=3NQZB6J7&amp;mv=email) |
-| **[!DNL Adobe Workfront]** | ワークショップ | 他のお客様とつながり、話し合う機会を探しています [!DNL Workfront] 機能？ CS Connections シリーズにご参加ください。 他のお客様と連絡を取り、組織のホットトピックについて話し合う月 1 回の機会。<p>**日付：** 9 月 12 日@ MT 午前 7 時 ) [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
-| **[!DNL Experience Cloud]** | ウェビナー | _Experience Makers ライブ_ - Sara Blakely、Peyton Manning、Eli Manning のキーノートを含む無料イベント。<p>**日付：** 9月13〜14日（PT）- [詳細と登録](https://business.adobe.com/events/experience-makers-live.html?lang=ja) |
-| **[!DNL Adobe Campaign]** （Classic と Standard） | ウェビナー | クロスチャネルマーケター向けのホリデーシーズンと最も忙しい時間が近づいています。 計画は進行中です。 この [!DNL Adobe Campaign] Insider セッションでは、E メールの配信品質を支援するトピックについて説明しています。 [!DNL Adobe Campaign] パフォーマンスの調整、ワークフローおよび配信のベストプラクティスを追加し、ピーク時のアクティビティに合わせてインスタンスが適切に構成されるようにします。<p>**日付：** 9 月 15 日@午前 8 時（太平洋標準時） [詳細と登録](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/) |
-| **[!DNL Adobe Workfront]** | ワークショップ | 図ワークフロー — 顧客サクセスチームに参加して、ライブディスカッションや図ワークフローのウォークスルー（取り込みから完了まで）をおこない、効果的な作業管理慣行の基盤を確立する方法を理解します。 <p>**日付：** 9月20〜日（PT）- [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
-| **[!DNL Adobe Workfront]** | ウェビナー | _システム管理の基本事項：リソース管理の概要_ -Adobeを使用 [!DNL Workfront] リソースを管理するのは DREAM（実行する必要がある作業、アクセスできるリソースを把握し、使用可能な状況に基づいて割り当てる）です。 ぜひご参加ください。<p>**日付：** 9 月 21 日@英国午前 8 時 ) [詳細と登録](https://webinars.on24.com/adobe_workfront/AdminEssentialsRM?partnerref=exl) |
-| **[!DNL Adobe Workfront]** | ワークショップ | _値実現シリーズ：プロジェクトテンプレートの例を作成する_ .....に関する議論に参加して下さい。 [!UICONTROL プロジェクトテンプレート] そして、組織に価値を与え、効率性を高めるさまざまな方法を提供しています。 キャンペーン別、成果物別など、様々なテンプレート構造化方法でプロジェクトをサポートする方法についてブレインストーミングを行います。 お気に入りのデモを行い、最新の設計図を確認します。 <p>**日付：** 9 月 21 日@午後 12 時半 MT [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,fir0yEdzREq77VYkVxk2kw,W3nJ9w4q-U69PVqUTk7D6Q,zs6GtWtgRkyikfMUMzBEmw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
-| **[!DNL Adobe Workfront]** | ワークショップ | _10 人のコミュニケーションに関するヒント（ユーザーとユーザーの追跡を維持するため）_  — 効果的なコミュニケーションは、お客様、ユーザー、そして最終的には、企業の成功に不可欠な要素です。 このワークショップでは、10 のヒントを提供します。 [!DNL Workfront]  — パフォーマンスの向上、生産性の向上、不要な問題のリスクの軽減に役立ちます。 <p>**日付：** 9 月 22 日@午後 7 時 MT [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Jcg3aU0zf0uG9pB-_vmCUg,pdnZcB-mqk2_nMKUQEQnsA,xYRXQWa6OU6_tvNTp_vuFQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
-| **[!DNL Adobe Campaign Classic]** および **[!DNL Adobe Campaign Standard]** | ワークショップ | _コミュニティ Q&amp;A コーヒーブレーク_ - Tamara Wulf と Earl Ross に参加して、 [!DNL Adobe Campaign] Insider のオンラインセミナ _休日・四季折々の成功チェックリスト_. <p>**日付：** 9 月 22 日@午後 8 時 MT [詳細と登録](https://adobe.ly/3KHrGpl) |
-| **[!DNL Adobe Workfront]** | ワークショップ | _ダッシュボードによる採用の促進：プランナー_ - [!DNL Adobe Workfront] ペルソナ。 このセッションでは、多くの場合、プロジェクトまたはイニシアチブ管理の役割で機能するプランナーに焦点を当てます。 活動の認知と説明責任のための、積極的でチーム指向の空間を構築する方法を学びます。 <p>**日付：** 9 月 27 日@ MT 午前 9 時 ) [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
-| **[!DNL Adobe Workfront]** | ワークショップ | _値実現シリーズ：Workfrontジャーニーのロードマッピング_ —Workfrontジャーニーの次の機能 お客様の組織でAdobe Workfront向けの独自のロードマップを作成する方法について、お問い合わせください。 お気に入りのマイルストーンに関するアイデアをいくつか紹介し、ロードマップに加えて、以前のシステム管理者と同様に、アドビの経験を追加します。<p>**日付：** 10 月 4 日@午後 12 時半 MT [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Bx3LyyABjkC6f0LfiHlHgw,F_Tenijn5UulPjqprok8eg,7lni6LpvlEWagR1OIDfosA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | ワークショップ | 図ワークフロー — 顧客サクセスチームに参加して、ライブディスカッションや図ワークフローのウォークスルー（取り込みから完了まで）をおこない、効果的な作業管理慣行の基盤を確立する方法を理解します。 <p>**9 月 21 日** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | ウェビナー | _システム管理の基本事項：リソース管理の概要_ -Adobeを使用 [!DNL Workfront] リソースを管理するのは DREAM（実行する必要がある作業、アクセスできるリソースを把握し、使用可能な状況に基づいて割り当てる）です。 ぜひご参加ください。<p>**9 月 21 日@英国午前 8 時 )** - [詳細と登録](https://webinars.on24.com/adobe_workfront/AdminEssentialsRM?partnerref=exl) |
+| **[!DNL Adobe Workfront]** | ワークショップ | _値実現シリーズ：プロジェクトテンプレートの例を作成する_ .....に関する議論に参加して下さい。 [!UICONTROL プロジェクトテンプレート] そして、組織に価値を与え、効率性を高めるさまざまな方法を提供しています。 キャンペーン別、成果物別など、様々なテンプレート構造化方法でプロジェクトをサポートする方法についてブレインストーミングを行います。 お気に入りのデモを行い、最新の設計図を確認します。 <p>**9 月 21 日@午後 12 時半 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,fir0yEdzREq77VYkVxk2kw,W3nJ9w4q-U69PVqUTk7D6Q,zs6GtWtgRkyikfMUMzBEmw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | ワークショップ | _10 人のコミュニケーションに関するヒント（ユーザーとユーザーの追跡を維持するため）_  — 効果的なコミュニケーションは、お客様、ユーザー、そして最終的には、企業の成功に不可欠な要素です。 このワークショップでは、10 のヒントを提供します。 [!DNL Workfront]  — パフォーマンスの向上、生産性の向上、不要な問題のリスクの軽減に役立ちます。 <p>**9 月 22 日@午後 7 時 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Jcg3aU0zf0uG9pB-_vmCUg,pdnZcB-mqk2_nMKUQEQnsA,xYRXQWa6OU6_tvNTp_vuFQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Campaign Classic]** および **[!DNL Adobe Campaign Standard]** | ワークショップ | _コミュニティ Q&amp;A コーヒーブレーク_ - Tamara Wulf と Earl Ross に参加して、 [!DNL Adobe Campaign] Insider のオンラインセミナ _休日・四季折々の成功チェックリスト_. <p>**9 月 22 日@午後 8 時 MT** - [詳細と登録](https://adobe.ly/3KHrGpl) |
+| **[!DNL Adobe Workfront]** | ワークショップ | _ダッシュボードによる採用の促進：プランナー_ - [!DNL Adobe Workfront] ペルソナ。 このセッションでは、多くの場合、プロジェクトまたはイニシアチブ管理の役割で機能するプランナーに焦点を当てます。 活動の認知と説明責任のための、積極的でチーム指向の空間を構築する方法を学びます。 <p>**9 月 27 日@ MT 午前 9 時 )** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | ワークショップ | _値実現シリーズ：Workfrontジャーニーのロードマッピング_ —Workfrontジャーニーの次の機能 お客様の組織でAdobe Workfront向けの独自のロードマップを作成する方法について、お問い合わせください。 お気に入りのマイルストーンに関するアイデアをいくつか紹介し、ロードマップに加えて、以前のシステム管理者と同様に、アドビの経験を追加します。<p>**10 月 4 日@午後 12 時半 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Bx3LyyABjkC6f0LfiHlHgw,F_Tenijn5UulPjqprok8eg,7lni6LpvlEWagR1OIDfosA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Workfront]** | ワークショップ | _CS 接続：戦略的ベストプラクティスの共有_  — 他のお客様とつながり、Workfrontの機能について話し合う機会をお探しですか？ CS Connections シリーズにご参加ください。  他のお客様と連絡を取り、組織のホットトピックについて話し合う月 1 回の機会。 課題の解決、アイデアの共有、ベストプラクティスについて話し合うために、システム管理者と共にブレインストーミングをおこないます。 <p>**日付：** 10 月 10 日@午前 7 時 (MT) [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,gw8sK1IYp0qugO85lvn9HA,1hAkk731fE2cuzI1JCe2Aw,Lox5X4bDSUC_HaF3SDUy7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
-| **[!DNL Adobe Workfront]** | ワークショップ | _ユーザー管理による導入の促進_ —Workfrontを使い始めたとき、エンドユーザーに関連する設定機能をより深く知りたいと思っていますか？ レポートやダッシュボードの実践例を確認し、ユーザー管理を成功に導く基盤を設定し、有用で有益なエンドユーザーエクスペリエンスを作成する際に、カスタマーサクセスチームに参加します。<p>**日付：** 10 月 18 日@ MT 午前 9 時 ) [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,lJV3sMGDTE2CpLxcuzZQXg,KGHthDBZ80q9JJ-wzHyqBQ,mY-6BCClJkmc_bRvqGebtQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
-| **[!DNL Adobe Workfront]** | ワークショップ | _採用シリーズ：Workfrontを楽しむ（前）!_ アイデアの採用が必要な場合 持ってる！ 当社のチームは、ユーザーの採用状況の高さと低さを経験し、楽しみに焦点を当てることが成功の鍵です。 私たちは、私たちのために働いたいくつかの事を通じてチャットし、他のお客様とアイデアを共有するオープンなディスカッションの時間を十分提供します。<p>**日付：** 10 月 20 日@午後 12 時半 MT [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,0qiSuEYEcUSxTibSYXD-jA,8QGOKlkyJE25EiBggDF6Ng,WmVegsyV2E6ZDPSMCifdVw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | ワークショップ | _ユーザー管理による導入の促進_ —Workfrontを使い始めたとき、エンドユーザーに関連する設定機能をより深く知りたいと思っていますか？ レポートやダッシュボードの実践例を確認し、ユーザー管理を成功に導く基盤を設定し、有用で有益なエンドユーザーエクスペリエンスを作成する際に、カスタマーサクセスチームに参加します。<p>**10 月 18 日@ MT 午前 9 時 )** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,lJV3sMGDTE2CpLxcuzZQXg,KGHthDBZ80q9JJ-wzHyqBQ,mY-6BCClJkmc_bRvqGebtQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | ワークショップ | _採用シリーズ：Workfrontを楽しむ（前）!_ アイデアの採用が必要な場合 持ってる！ 当社のチームは、ユーザーの採用状況の高さと低さを経験し、楽しみに焦点を当てることが成功の鍵です。 私たちは、私たちのために働いたいくつかの事を通じてチャットし、他のお客様とアイデアを共有するオープンなディスカッションの時間を十分提供します。<p>**10 月 20 日@午後 12 時半 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,0qiSuEYEcUSxTibSYXD-jA,8QGOKlkyJE25EiBggDF6Ng,WmVegsyV2E6ZDPSMCifdVw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 
 {style=&quot;table-layout:auto&quot;}
 
