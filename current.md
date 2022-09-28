@@ -6,7 +6,7 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ceaa0175f0c01830cba0a247e248f054d1f39b89
+source-git-commit: ce5bafed072084badc26e0ba4326239910a3c72d
 workflow-type: tm+mt
 source-wordcount: '6525'
 ht-degree: 95%
@@ -375,7 +375,7 @@ Adobe [!DNL Journey Optimizer] 向けに新しく公開されたビデオ、チ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年9月 | [マーケター向けの意思決定管理の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | ビデオ | Adobe Journey Optimizer の意思決定管理機能について説明します。 このコースは、顧客に最高のオファーを提供することで、売上高、顧客体験、ロイヤルティを向上させたいマーケターを対象としています |
+| 2022年9月 | [マーケター向けの意思決定管理の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | コース | Adobe Journey Optimizer の意思決定管理機能について説明します。 このコースは、顧客に最高のオファーを提供することで、売上高、顧客体験、ロイヤルティを向上させたいマーケターを対象としています |
 | 2022年9月 | [キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/create-a-campaign.html?lang=ja) | ビデオ | アクションを直ちに実行するか、指定したスケジュールで実行して、特定のオーディエンスに 1 回限りのコンテンツを配信する方法を説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
