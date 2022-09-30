@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce5bafed072084badc26e0ba4326239910a3c72d
+source-git-commit: 94c4f698be83ab2820d3b352c3c40c67a6c1dce3
 workflow-type: tm+mt
 source-wordcount: '6525'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -21,11 +21,11 @@ Experience Maker として成功するための道のりは、[Experience League
 
 >[!NOTE]
 >
->このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
+>このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html) を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
 最終更新日：**2022年9月19日（PT）**
 
-* [[!DNL Experience League] イベント](#events) ( 更新済み **9 月 20 日**)
+* [[!DNL Experience League] イベント](#events)（更新日 **9月20日（PT）**）
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 主要なインターフェイスコンポーネントと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -53,21 +53,21 @@ Experience Maker として成功するための道のりは、[Experience League
 
 Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。2022年7月の最新情報について詳しくは、Experience League の[イベント](https://experienceleague.adobe.com/events/?lang=ja)を参照してください。
 
-更新日 **2022年19月9日（PT）**
+更新日：**2022年9月19日（PT）**
 
 | 製品／イベント名 | タイプ | 説明 |
 | -----------|---------- | ----|
 | **Experience League ショーケース** | コンテスト | Experience Cloud 製品を統合し、革新的でパーソナライズされた顧客体験を生み出す方法をアドビにお知らせください。 ストーリーを送信して、アドビの評価を得ましょう。**受付期間 9月9日～29日（PT）** - [詳細](https://experienceleaguecommunities.adobe.com/t5/experience-league-showcase-2022/con-p/exl-showcase-2022?sdid=3NQZB6J7&amp;mv=email&amp;profile.language=ja) |
-| **[!DNL Adobe Workfront]** | ワークショップ | 作図ワークフロー - カスタマーサクセスチームに参加して、ライブディスカッションや作図ワークフローのウォークスルー（取り込みから完了まで）を行い、効果的な作業管理プラクティスの基盤を確立する方法を理解します。 <p>**9 月 21 日** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
-| **[!DNL Adobe Workfront]** | ウェビナー | _システム管理の基本事項：リソース管理の概要_ - Adobe [!DNL Workfront] を使用すると、必要な作業やアクセスできるリソースを把握し、可用性に基づいて割り当てる、理想的なリソースの管理を実現できます。 方法をお知りになりたい方は、ぜひご参加ください。<p>**9 月 21 日@英国午前 8 時 )** - [詳細と登録](https://webinars.on24.com/adobe_workfront/AdminEssentialsRM?partnerref=exl) |
-| **[!DNL Adobe Workfront]** | ワークショップ | _価値実現シリーズ：プロジェクトテンプレートの例を作成_ - [!UICONTROL プロジェクトテンプレート]とそれらが組織に価値を付加し、効率性を高める様々な方法に関するディスカッションに参加してください。キャンペーン別、成果物別など、プロジェクトをサポートするテンプレートを構築するための様々なアプローチについてブレインストーミングを行います。 お気に入りのデモを行い、最新のブループリントについても説明します。 <p>**9 月 21 日@午後 12 時半 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,fir0yEdzREq77VYkVxk2kw,W3nJ9w4q-U69PVqUTk7D6Q,zs6GtWtgRkyikfMUMzBEmw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
-| **[!DNL Adobe Workfront]** | ワークショップ | _お客様とユーザーが成功するためのコミュニケーションに関する 10 のヒント_ - 効果的なコミュニケーションは、お客様、お客様のユーザー、そして最終的には、企業の成功に不可欠な要素です。 このワークショップでは、[!DNL Workfront] の内外を問わず、パフォーマンスと生産性を向上させ、不要な問題のリスクを軽減するための 10 のヒントを提供します。 <p>**9 月 22 日@午後 7 時 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Jcg3aU0zf0uG9pB-_vmCUg,pdnZcB-mqk2_nMKUQEQnsA,xYRXQWa6OU6_tvNTp_vuFQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
-| **[!DNL Adobe Campaign Classic]** および **[!DNL Adobe Campaign Standard]** | ワークショップ | _コミュニティ Q&amp;A コーヒー ブレイク_ - Tamara Wulf や Earl Ross と共に、_ホリデーシーズンとピークシーズンで成功するためのチェックリスト_&#x200B;に関する [!DNL Adobe Campaign] Insider ウェビナーで議論されているトピックについて、質問や疑問点をチャットしましょう。 <p>**9 月 22 日@午後 8 時 MT** - [詳細と登録](https://adobe.ly/3KHrGpl) |
-| **[!DNL Adobe Workfront]** | ワークショップ | _ダッシュボードによる導入の促進：プランナー_ - カスタマーサクセスチームと共に、[!DNL Adobe Workfront] ペルソナに基づく新しいダッシュボードシリーズを継続します。このセッションでは、プロジェクトやイニシアチブの管理の役割を担うことが多いプランナーに焦点を当てます。アクティビティの認知と説明責任のために、プロアクティブでチーム指向のスペースを作成する方法を学びます。 <p>**9 月 27 日@ MT 午前 9 時 )** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
-| **[!DNL Adobe Workfront]** | ワークショップ | _価値実現シリーズ：Workfront ジャーニーのロードマップ_ - Workfront ジャーニーの次のステップは？お客様の組織で Adobe Workfront 向けの独自のロードマップを作成する方法について説明します。ぜひご参加ください。ロードマップに追加するのに私たちが気に入っているマイルストーンと、以前のシステム管理者としての経験について、いくつかアイデアを共有します。<p>**10 月 4 日@午後 12 時半 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Bx3LyyABjkC6f0LfiHlHgw,F_Tenijn5UulPjqprok8eg,7lni6LpvlEWagR1OIDfosA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | ワークショップ | 作図ワークフロー - カスタマーサクセスチームに参加して、ライブディスカッションや作図ワークフローのウォークスルー（取り込みから完了まで）を行い、効果的な作業管理プラクティスの基盤を確立する方法を理解します。 <p>**9月20日（PT）** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | ウェビナー | _システム管理の基本事項：リソース管理の概要_ - Adobe [!DNL Workfront] を使用すると、必要な作業やアクセスできるリソースを把握し、可用性に基づいて割り当てる、理想的なリソースの管理を実現できます。 方法をお知りになりたい方は、ぜひご参加ください。<p>**9月21日午前 8:00 UK** - [詳細と登録](https://webinars.on24.com/adobe_workfront/AdminEssentialsRM?partnerref=exl) |
+| **[!DNL Adobe Workfront]** | ワークショップ | _価値実現シリーズ：プロジェクトテンプレートの例を作成_ - [!UICONTROL プロジェクトテンプレート]とそれらが組織に価値を付加し、効率性を高める様々な方法に関するディスカッションに参加してください。キャンペーン別、成果物別など、プロジェクトをサポートするテンプレートを構築するための様々なアプローチについてブレインストーミングを行います。 お気に入りのデモを行い、最新のブループリントについても説明します。 <p>**9月21日午後 12:30 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,fir0yEdzREq77VYkVxk2kw,W3nJ9w4q-U69PVqUTk7D6Q,zs6GtWtgRkyikfMUMzBEmw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | ワークショップ | _お客様とユーザーが成功するためのコミュニケーションに関する 10 のヒント_ - 効果的なコミュニケーションは、お客様、お客様のユーザー、そして最終的には、企業の成功に不可欠な要素です。 このワークショップでは、[!DNL Workfront] の内外を問わず、パフォーマンスと生産性を向上させ、不要な問題のリスクを軽減するための 10 のヒントを提供します。 <p>**9月22日午後 7:00 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Jcg3aU0zf0uG9pB-_vmCUg,pdnZcB-mqk2_nMKUQEQnsA,xYRXQWa6OU6_tvNTp_vuFQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Campaign Classic]** および **[!DNL Adobe Campaign Standard]** | ワークショップ | _コミュニティ Q&amp;A コーヒー ブレイク_ - Tamara Wulf や Earl Ross と共に、_ホリデーシーズンとピークシーズンで成功するためのチェックリスト_&#x200B;に関する [!DNL Adobe Campaign] Insider ウェビナーで議論されているトピックについて、質問や疑問点をチャットしましょう。 <p>**9月22日午後 8:00 MT** - [詳細と登録](https://adobe.ly/3KHrGpl) |
+| **[!DNL Adobe Workfront]** | ワークショップ | _ダッシュボードによる導入の促進：プランナー_ - カスタマーサクセスチームと共に、[!DNL Adobe Workfront] ペルソナに基づく新しいダッシュボードシリーズを継続します。このセッションでは、プロジェクトやイニシアチブの管理の役割を担うことが多いプランナーに焦点を当てます。アクティビティの認知と説明責任のために、プロアクティブでチーム指向のスペースを作成する方法を学びます。 <p>**9月27日午前 9:00 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | ワークショップ | _価値実現シリーズ：Workfront ジャーニーのロードマップ_ - Workfront ジャーニーの次のステップは？お客様の組織で Adobe Workfront 向けの独自のロードマップを作成する方法について説明します。ぜひご参加ください。ロードマップに追加するのに私たちが気に入っているマイルストーンと、以前のシステム管理者としての経験について、いくつかアイデアを共有します。<p>**10月4日午後 12:30 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Bx3LyyABjkC6f0LfiHlHgw,F_Tenijn5UulPjqprok8eg,7lni6LpvlEWagR1OIDfosA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Workfront]** | ワークショップ | _CS Connections：戦略的なベストプラクティスの共有_ - 他のお客様とつながり、Workfront の機能について話し合う機会をお探しですか？CS Connections シリーズにご参加ください。他のお客様とつながり、組織の最新トピックについて話し合う月 1 回の機会です。システム管理者と共にブレインストーミングを行い、課題を解決し、アイデアを共有し、ベストプラクティスについて話し合います。 <p>**日付：** 10月10日午前 7:00 MT - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,gw8sK1IYp0qugO85lvn9HA,1hAkk731fE2cuzI1JCe2Aw,Lox5X4bDSUC_HaF3SDUy7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
-| **[!DNL Adobe Workfront]** | ワークショップ | _ユーザー管理による導入の促進_ - Workfront を使い始めたばかりで、エンドユーザーに関連する設定機能について詳しく知りたいと考えていますか？カスタマーサクセスチームと共に、レポートとダッシュボードの実践的な例を確認し、ユーザー管理を成功させるための基盤を設定し、有用かつ有益なエンドユーザーエクスペリエンスを作成します。<p>**10 月 18 日@ MT 午前 9 時 )** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,lJV3sMGDTE2CpLxcuzZQXg,KGHthDBZ80q9JJ-wzHyqBQ,mY-6BCClJkmc_bRvqGebtQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
-| **[!DNL Adobe Workfront]** | ワークショップ | _導入シリーズ：Workfront を楽しいフロントに！_ 導入のアイデアをお探しですか？私たちがお役に立ちます。私たちのチームは、ユーザー導入の浮き沈みを経験してきましたが、楽しさに集中することが成功の鍵です。うまくいったことについてチャットし、他のお客様とアイデアを共有するためのオープンディスカッションに十分な時間を提供します。<p>**10 月 20 日@午後 12 時半 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,0qiSuEYEcUSxTibSYXD-jA,8QGOKlkyJE25EiBggDF6Ng,WmVegsyV2E6ZDPSMCifdVw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | ワークショップ | _ユーザー管理による導入の促進_ - Workfront を使い始めたばかりで、エンドユーザーに関連する設定機能について詳しく知りたいと考えていますか？カスタマーサクセスチームと共に、レポートとダッシュボードの実践的な例を確認し、ユーザー管理を成功させるための基盤を設定し、有用かつ有益なエンドユーザーエクスペリエンスを作成します。<p>**10月18日午前 9:00 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,lJV3sMGDTE2CpLxcuzZQXg,KGHthDBZ80q9JJ-wzHyqBQ,mY-6BCClJkmc_bRvqGebtQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | ワークショップ | _導入シリーズ：Workfront を楽しいフロントに！_ 導入のアイデアをお探しですか？私たちがお役に立ちます。私たちのチームは、ユーザー導入の浮き沈みを経験してきましたが、楽しさに集中することが成功の鍵です。うまくいったことについてチャットし、他のお客様とアイデアを共有するためのオープンディスカッションに十分な時間を提供します。<p>**10月20日午後 12:30 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,0qiSuEYEcUSxTibSYXD-jA,8QGOKlkyJE25EiBggDF6Ng,WmVegsyV2E6ZDPSMCifdVw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -93,7 +93,7 @@ Experience Cloud の[主要な UI コンポーネント](https://experienceleagu
 
 [!DNL Experience Platform] と [!UICONTROL Mobile SDK] の最新リリース情報および新規ドキュメント：
 
-リリース予定日： **2022年9月28日（PT）**
+リリース日：**2022年9月28日（PT）**
 
 * [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja) - （2022年8月24日（PT））
 
@@ -103,7 +103,7 @@ Experience Cloud の[主要な UI コンポーネント](https://experienceleagu
 
 ## ![アイコン](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-次回リリース：**2022年9月14日（PT）**
+リリース日：**2022年9月14日（PT）**
 
 最終更新日：**2022年9月6日**
 
@@ -489,7 +489,7 @@ Last updated: **August 9, 2022**
 |  | [!UICONTROL クエリクロスマッチングのベータ]分析が利用できるようになりました。 |
 | [!UICONTROL レポート ] | （[!DNL Google Ads] アカウントのみ）新しい専門レポートである [!UICONTROL RSA アセットレポート]には、1 つ以上のポートフォリオまたは 1 つ以上のアカウント、キャンペーン、広告グループのレスポンシブ検索広告（RSA）の各アセット（[!UICONTROL クリエイティブタイトル]または[!UICONTROL 説明]）のインプレッション指標が表示されます。デフォルトでは、レポート期間中にアセットが無効化（削除）された場合でも、指定したデータ範囲で少なくとも 1 つのインプレッションを受信したアセットごとに 1 つの行がデータに含まれます。 **注意：**「[!UICONTROL パフォーマンスデータのない行を含める]」オプションを選択した場合でも、データを受信したことのないアセットのデータは含まれません。 |
 |  | レスポンシブ検索広告（RSA）の追加サポートは、[!UICONTROL 広告バリエーションレポート]で利用できます。<ul><ul>（[!DNL Google Ads] アカウントのみ）[!UICONTROL 列]設定の新しい「[!UICONTROL 広告の有効性]」列は、RSA が [!DNL Google Ads] のベストプラクティスに従っているパフォーマンスを示します。同じ列は、[!UICONTROL キャンペーン]／[!UICONTROL 広告]ビューで利用できます。[!DNL Microsoft® Advertising] は、API を介した同様のサポートをまだ有効にしていません。</li><li>[!UICONTROL 列]設定では、レポート結果を[!UICONTROL クリエイティブタイトル]と[!UICONTROL 説明]で並べ替えることができます。</li><li>[!UICONTROL 詳細フィルター]設定では、[!UICONTROL クリエイティブタイトル]と[!UICONTROL 説明]の両方に適用される「[!UICONTROL 広告テキスト]」フィールドでフィルタリングできます。</li></ul> |
-| [!UICONTROL 推奨事項] | （[!DNL Google Ads] アカウント、ベータ版機能）[!UICONTROL インサイトとレポート]／[!UICONTROL レコメンデーションのベータ版]では、次のことができます。<ul><li>[!DNL Google Ads] アカウントで実行されていないすべてのレコメンデーションを一目で確認できます。</li><li>アカウントのレコメンデーションを適用および却下します。</li><li>アカウントに適用された各レコメンデーションのログを表示します。</li></ul><br>サポートされるRecommendations:<li><strong>レコメンデーションカテゴリレコメンデーションタイプ説明</strong></li><li>広告と拡張機能；CALL_EXTENSION;キャンペーンへの呼び出し拡張機能の追加</li><li>広告と拡張機能；CALLOUT_EXTENSION;キャンペーンへの引き出し線拡張機能の追加</li><li>広告と拡張機能；OPTIMIZE_AD_ROTATION;最適化された広告の回転を使用</li><li>広告と拡張機能；RESPONSIVE SEARCH_AD;新しいレスポンシブ検索広告の追加</li><li>広告と拡張機能；RESPONSIVE_SEARCH_AD_ASSET;広告へのレスポンシブ検索広告アセットの追加</li><li>広告と拡張機能；SITELINK_EXTENSION;キャンペーンへの sitelink 拡張機能の追加</li><li>広告と拡張機能；TEXT_AD;広告の提案の追加</li><li>入札と予算キャンペーンの予算予算によって制限されたキャンペーンを修正</li><li>入札と予算ENHANCED_CPC_OPT_IN;拡張 CPC での入札</li><li>入札と予算FORECASTING_CAMPAIGN 予算；将来予想されるキャンペーンを修正し、予算によって制限</li><li>入札と予算MARGINAL ROI_CAMPAIGN BUDGET;キャンペーン予算を調整して ROI を向上</li><li>入札と予算クリック数の最大化 OPT_IN;クリック数の最大化による入札</li><li>入札と予算コンバージョンの最大化 OPT_IN;コンバージョンを最大化して入札</li><li>入札と予算MOVE_UNUSED_BUDGET;未使用を制約付き予算に移動</li><li>入札と予算TARGET_CPA_OPT_IN;Target CPA との入札</li><li>入札と予算TARGET_ROAS_OPT_IN;Target ROAS での入札</li><li>キーワードとターゲティング；キーワード；新しいキーワードを追加</li><li>キーワードとターゲティング；SEARCH_PARTNERS_OPT_IN;Googleの検索パートナーとのリーチを拡大</li><li>キーワードとターゲティング；USE_BROAD MATCH KEYWORD;を使用したコンバージョンベースのキャンペーンで広範な一致を使用する <strong>完全に自動化されたコンバージョンベースの入札</strong></li> |
+| [!UICONTROL 推奨事項] | （[!DNL Google Ads] アカウント、ベータ版機能）[!UICONTROL インサイトとレポート]／[!UICONTROL レコメンデーションのベータ版]では、次のことができます。<ul><li>[!DNL Google Ads] アカウントで実行されていないすべてのレコメンデーションを一目で確認できます。</li><li>アカウントのレコメンデーションを適用および却下します。</li><li>アカウントに適用された各レコメンデーションのログを表示します。</li></ul><br>サポートされるレコメンデーション：<li><strong>レコメンデーションカテゴリ、レコメンデーションタイプ、説明</strong></li><li>広告と拡張機能、CALL_EXTENSION、キャンペーンへの呼び出し拡張機能の追加</li><li>広告と拡張機能、CALLOUT_EXTENSION、キャンペーンへのコールアウト拡張機能の追加</li><li>広告と拡張機能、OPTIMIZE_AD_ROTATION、最適化された広告の回転を使用</li><li>広告と拡張機能、RESPONSIVE SEARCH_AD、新しいレスポンシブ検索広告の追加</li><li>広告と拡張機能、RESPONSIVE_SEARCH_AD_ASSET、広告へのレスポンシブ検索広告アセットの追加</li><li>広告と拡張機能、SITELINK_EXTENSION、キャンペーンへのサイトリンク拡張機能の追加</li><li>広告と拡張機能、TEXT_AD、広告の提案の追加</li><li>入札と予算、CAMPAIGN BUDGET、予算によって制限されているキャンペーンの修正</li><li>入札と予算、ENHANCED_CPC_OPT_IN、拡張 CPC を使用した入札</li><li>入札と予算、FORECASTING_CAMPAIGN BUDGET、将来的に予算を使用した制限を受けることが予想されるキャンペーンの修正</li><li>入札と予算、MARGINAL ROI_CAMPAIGN BUDGET、ROI を向上させるキャンペーン予算の調整</li><li>入札と予算、MAXIMIZE CLICKS OPT_IN、クリック数の最大化を使用した入札</li><li>入札と予算、MAXIMIZE CONVERSIONS OPT_IN、コンバージョンの最大化を使用した入札</li><li>入札と予算、MOVE_UNUSED_BUDGET、未使用の制約付き予算への移動</li><li>入札と予算、TARGET_CPA_OPT_IN、Target CPA を使用した入札</li><li>入札と予算、TARGET_ROAS_OPT_IN、Target ROAS を使用した入札</li><li>キーワードとターゲティング、KEYWORD、新しいキーワードの追加</li><li>キーワードとターゲティング、SEARCH_PARTNERS_OPT_IN、Google 検索パートナーとのリーチの拡大</li><li>キーワードとターゲティング、USE_BROAD MATCH KEYWORD、<strong>完全に自動化されたコンバージョンベースの入札</strong>を使用した、コンバージョンベースのキャンペーンに対する部分一致の使用</li> |
 | [!UICONTROL キャンペーンのインポート] | （ベータ版機能）[!DNL Google Display Network] キャンペーン（広告画像を含む）を、[!UICONTROL ツール]／[!UICONTROL キャンペーンをインポート]から [!DNL Microsoft® Audience Network] の [!DNL Microsoft® Advertising] オーディエンスキャンペーンにインポートできます。キャンペーンをインポートすると、インポートジョブのステータスの確認、エラーログの確認、インポートスケジュールの編集、一時停止、削除ができます。 |
 
 {style=&quot;table-layout:auto&quot;}
