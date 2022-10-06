@@ -6,10 +6,10 @@ last-update: October 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e9a58cfb7742eb9326a02b4992e3c73aab9f5682
+source-git-commit: 2c7229afcce0251cb463a526381f09bbc8531e6e
 workflow-type: tm+mt
-source-wordcount: '6826'
-ht-degree: 71%
+source-wordcount: '5994'
+ht-degree: 67%
 
 ---
 
@@ -467,7 +467,8 @@ Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
 * [ [!DNL Advertising Cloud DSP] の新機能](#adcloud-dsp)
-* [ [!DNL Advertising Cloud Search] の新機能](#adcloud-search)
+
+<!-- * [New features in [!DNL Advertising Cloud Search]](#adcloud-search) -->
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -485,34 +486,36 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising Cloud DSP] の新機能 {#adcloud-dsp}
 
-最終更新日：**2022年9月12日（PT）**
+最終更新日：**2022 年 10 月 6 日（PT）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL パッケージとプレースメントのペーシング] | （9月12日（PT）リリース）フライトぺーシングと日中ペーシングに別々のぺーシング制御を利用できるようになりました。 以前は、1 つの戦略で両方を制御していました。 既存のパッケージと配置の設定は、次のようにマッピングされました。<ul><li>従来の **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Even]* が、現在は次のように設定：**[!UICONTROL Flight pacing]**=*[!UICONTROL Even]* および **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>従来の **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Slightly Ahead]* が、現在は次のように設定： **[!UICONTROL Flight pacing]**=*[!UICONTROL Slightly Ahead]* および **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>従来の **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Frontload]* が、現在は次のように設定： **[!UICONTROL Flight pacing]**=*[!UICONTROL Frontload]* および **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li><li>従来の **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Aggressive Frontload]* が、現在は次のように設定： **[!UICONTROL Flight pacing]**=*[!UICONTROL Aggressive Frontload]* および **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li></ul> |
+| [!UICONTROL キャンペーン] | （10 月 6 日リリース）新しいペーシング関連指標列を [!UICONTROL キャンペーン] ビュー：&quot;[!UICONTROL 昨日の OTS]&quot; （目標支出）, &quot;[!UICONTROL 昨日の配達],&quot; &quot;[!UICONTROL 昨日の目標],&quot; &quot;[!UICONTROL 今日の OTS]&quot; （目標支出）, &quot;[!UICONTROL 今日の配信],&quot;および&quot;[!UICONTROL 今日の目標].&quot; |
 
 {style=&quot;table-layout:auto&quot;}
 
-### [!DNL Advertising Cloud Search] の新機能 {#adcloud-search}
+<!--
 
-最終更新日：**2022年9月9日（PT）**（9月10日リリース）
+### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-| 機能 | 説明 |
+Last updated: **September 9, 2022** for September 10 release
+
+| Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL キャンペーン] | （[!DNL Google Ads] アカウント、ベータ版機能）[!UICONTROL キャンペーンタイプ]「[!UICONTROL パフォーマンスマックス]」を使用して、[!DNL Google Ads] スマート入札を使用してチャネル全体で広告のコンバージョンを表示および最適化する [!DNL Google Ads] パフォーマンスマックスキャンペーンを作成および管理できるようになりました。 |
-|  | （[!DNL Google Ads] アカウント）キャンペーン／広告ビューに、オプションの「[!UICONTROL 広告の有効性]」列が含まれるようになりました。各レスポンシブ検索広告（RSA）がパフォーマンスに関して [!DNL Google Ads] のベストプラクティスにどれだけ準拠しているかを示します。<br><br>[!DNL Microsoft® Advertising] では、まだ API を介して同様のサポートを有効にしていません。 |
-|  | （[!DNL Microsoft® Advertising] アカウント）同期、読み取り専用、レポート（ビュースルーデータを含む）のサポートが、 [!DNL Microsoft®] オーディエンス広告を含む、[!DNL Microsoft® Audience Network] の既存のネイティブ広告キャンペーンで利用できるようになりました。 |
-| [!UICONTROL キャンペーン]、[!UICONTROL レポート] | パブリッシャーのインプレッション共有指標の数が増えると、今後数週間のうちに、キャンペーン管理のビューとレポートの列として利用できるようになります。 |
-| [!UICONTROL コンバージョン値ルール] | （[!DNL Google Ads accounts]：ベータ版機能）[!UICONTROL 最適化]／[!UICONTROL コンバージョン値ルール]から既存のコンバージョン値ルールを表示できるようになりました。個々のアカウントレベル以下で [!DNL Google Ads] のコンバージョントラッキングを使用している広告主は、ルールを作成して管理することもできます。 |
-| [!UICONTROL ポートフォリオ] | （オプトインベータ版機能、[!DNL Google Ads] アカウント）ハイブリッドポートフォリオで[!UICONTROL コンバージョンを最大化]入札戦略を使用する [!DNL YouTube] キャンペーンが、カスタムシミュレーション結果に含まれるようになりました。 ハイブリッドポートフォリオには、[!DNL YouTube] キャンペーンのみを含める必要があります。<br><br>ベータ版プログラムに参加するには、アカウントチームにお問い合わせください。 |
-| [!UICONTROL 広告インサイト] | [!UICONTROL 広告インサイト]ビューは、パフォーマンスと信頼性を向上させる新しいインフラストラクチャに基づいて、新しい外観とワークフローを備えています。インサイト名をクリックし、設定を選択または入力して、「[!UICONTROL インサイトを生成]」をクリックするだけです。<br><br>一時的に従来のビューに戻すには、右上の「[!UICONTROL 古い UI に切り替え]」を有効にします。従来のビューは 9月末に削除されます。 |
-|  | [!UICONTROL クエリクロスマッチングのベータ]分析が利用できるようになりました。 |
-| [!UICONTROL レポート ] | （[!DNL Google Ads] アカウントのみ）新しい専門レポートである [!UICONTROL RSA アセットレポート]には、1 つ以上のポートフォリオまたは 1 つ以上のアカウント、キャンペーン、広告グループのレスポンシブ検索広告（RSA）の各アセット（[!UICONTROL クリエイティブタイトル]または[!UICONTROL 説明]）のインプレッション指標が表示されます。デフォルトでは、レポート期間中にアセットが無効化（削除）された場合でも、指定したデータ範囲で少なくとも 1 つのインプレッションを受信したアセットごとに 1 つの行がデータに含まれます。 **注意：**「[!UICONTROL パフォーマンスデータのない行を含める]」オプションを選択した場合でも、データを受信したことのないアセットのデータは含まれません。 |
-|  | レスポンシブ検索広告（RSA）の追加サポートは、[!UICONTROL 広告バリエーションレポート]で利用できます。<ul><ul>（[!DNL Google Ads] アカウントのみ）[!UICONTROL 列]設定の新しい「[!UICONTROL 広告の有効性]」列は、RSA が [!DNL Google Ads] のベストプラクティスに従っているパフォーマンスを示します。同じ列は、[!UICONTROL キャンペーン]／[!UICONTROL 広告]ビューで利用できます。[!DNL Microsoft® Advertising] は、API を介した同様のサポートをまだ有効にしていません。</li><li>[!UICONTROL 列]設定では、レポート結果を[!UICONTROL クリエイティブタイトル]と[!UICONTROL 説明]で並べ替えることができます。</li><li>[!UICONTROL 詳細フィルター]設定では、[!UICONTROL クリエイティブタイトル]と[!UICONTROL 説明]の両方に適用される「[!UICONTROL 広告テキスト]」フィールドでフィルタリングできます。</li></ul> |
-| [!UICONTROL 推奨事項] | （[!DNL Google Ads] アカウント、ベータ版機能）[!UICONTROL インサイトとレポート]／[!UICONTROL レコメンデーションのベータ版]では、次のことができます。<ul><li>[!DNL Google Ads] アカウントで実行されていないすべてのレコメンデーションを一目で確認できます。</li><li>アカウントのレコメンデーションを適用および却下します。</li><li>アカウントに適用された各レコメンデーションのログを表示します。</li></ul><br>サポートされるレコメンデーション：<li><strong>レコメンデーションカテゴリ、レコメンデーションタイプ、説明</strong></li><li>広告と拡張機能、CALL_EXTENSION、キャンペーンへの呼び出し拡張機能の追加</li><li>広告と拡張機能、CALLOUT_EXTENSION、キャンペーンへのコールアウト拡張機能の追加</li><li>広告と拡張機能、OPTIMIZE_AD_ROTATION、最適化された広告の回転を使用</li><li>広告と拡張機能、RESPONSIVE SEARCH_AD、新しいレスポンシブ検索広告の追加</li><li>広告と拡張機能、RESPONSIVE_SEARCH_AD_ASSET、広告へのレスポンシブ検索広告アセットの追加</li><li>広告と拡張機能；SITELINK_EXTENSION;追加 [!UICONTROL sitelink] Campaign の拡張</li><li>広告と拡張機能、TEXT_AD、広告の提案の追加</li><li>入札と予算、CAMPAIGN BUDGET、予算によって制限されているキャンペーンの修正</li><li>入札と予算、ENHANCED_CPC_OPT_IN、拡張 CPC を使用した入札</li><li>入札と予算、FORECASTING_CAMPAIGN BUDGET、将来的に予算を使用した制限を受けることが予想されるキャンペーンの修正</li><li>入札と予算、MARGINAL ROI_CAMPAIGN BUDGET、ROI を向上させるキャンペーン予算の調整</li><li>入札と予算、MAXIMIZE CLICKS OPT_IN、クリック数の最大化を使用した入札</li><li>入札と予算、MAXIMIZE CONVERSIONS OPT_IN、コンバージョンの最大化を使用した入札</li><li>入札と予算、MOVE_UNUSED_BUDGET、未使用の制約付き予算への移動</li><li>入札と予算、TARGET_CPA_OPT_IN、Target CPA を使用した入札</li><li>入札と予算、TARGET_ROAS_OPT_IN、Target ROAS を使用した入札</li><li>キーワードとターゲティング、KEYWORD、新しいキーワードの追加</li><li>キーワードとターゲティング、SEARCH_PARTNERS_OPT_IN、Google 検索パートナーとのリーチの拡大</li><li>キーワードとターゲティング、USE_BROAD MATCH KEYWORD、<strong>完全に自動化されたコンバージョンベースの入札</strong>を使用した、コンバージョンベースのキャンペーンに対する部分一致の使用</li> |
-| [!UICONTROL キャンペーンのインポート] | （ベータ版機能）[!DNL Google Display Network] キャンペーン（広告画像を含む）を、[!UICONTROL ツール]／[!UICONTROL キャンペーンをインポート]から [!DNL Microsoft® Audience Network] の [!DNL Microsoft® Advertising] オーディエンスキャンペーンにインポートできます。キャンペーンをインポートすると、インポートジョブのステータスの確認、エラーログの確認、インポートスケジュールの編集、一時停止、削除ができます。 |
+| [!UICONTROL Campaigns] | ([!DNL Google Ads] accounts; beta feature) You can now create and manage [!DNL Google Ads] performance max campaigns, which show and optimize conversions for your ads across channels using [!DNL Google Ads] smart bidding, using the [!UICONTROL Campaign Type] "[!UICONTROL Performance Max]."  |
+|  | ([!DNL Google Ads] accounts) The Campaigns > Ads view now includes an optional [!UICONTROL Ad Strength] column, which indicates how well each responsive search ad (RSA) follows [!DNL Google Ads] best practices for performance.<br><br>[!DNL Microsoft&reg; Advertising] doesn't yet enable similar support via their API. |
+|  | ([!DNL Microsoft&reg; Advertising] accounts) Synchronization, read-only, and reporting (including view-through data) support are now available for your existing native ad campaigns on the [!DNL Microsoft&reg; Audience Network], including those with [!DNL Microsoft&reg;] audience ads. |
+| [!UICONTROL Campaigns], [!UICONTROL Reports] | More publisher impression share metrics become available in the following weeks as columns in the campaign management views and reports. |
+| [!UICONTROL Conversion Value Rules] | ([!DNL Google Ads accounts]; beta feature) You can now view your existing conversion value rules from [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules]. Advertisers with [!DNL Google Ads] conversion tracking at the individual account level or lower can also create and manage rules. |
+| [!UICONTROL Portfolios] | (Opt-in beta feature; [!DNL Google Ads] accounts) [!DNL YouTube] campaigns with the [!UICONTROL Maximize Conversions] bid strategy in hybrid portfolios are now included in custom simulation results. The hybrid portfolio must include only [!DNL YouTube] campaigns.<br><br>To participate in the beta program, contact your account team. |
+| [!UICONTROL Advertising Insights] | The [!UICONTROL Advertising Insights] view has a new look and workflow, based on a new infrastructure that improves performance and reliability. Now, just click an insight name, select or enter the settings, and then click [!UICONTROL Generate Insight].<br><br>To temporarily return to the legacy view, enable [!UICONTROL Switch to old UI] in the upper right. The legacy view will be removed at the end of September. |
+|  | The [!UICONTROL Query Cross Matching Beta] analysis is now available. |
+| [!UICONTROL Reports] | ([!DNL Google Ads] accounts only) The new specialty report [!UICONTROL RSA Assets Report] shows impression metrics for each asset ([!UICONTROL Creative Title] or [!UICONTROL Description]) for the responsive search ads (RSAs) in one or more portfolios or one or more accounts, campaigns, and ad groups. By default, data includes one row for each asset that received at least one impression in the specified data range, even if the asset was disabled (removed) during the reporting period. **Note:** When you select the option to "[!UICONTROL Include rows with no performance data]," the data still won't include data for assets that have never received data. |
+|  | Additional support for responsive search ads (RSA) is available in the [!UICONTROL Ad Variation Report]:<ul><ul>([!DNL Google Ads] accounts only) In the [!UICONTROL Columns] settings, a new "[!UICONTROL Ad Strength]" column indicates how well the RSA follows [!DNL Google Ads] best practices for performance. The same column is available in the [!UICONTROL Campaigns] > [!UICONTROL Ads] view. [!DNL Microsoft&reg; Advertising] doesn't yet enable similar support via their API.</li><li>In the [!UICONTROL Columns] settings, you can sort the report results by [!UICONTROL Creative Titles] and by [!UICONTROL Descriptions].</li><li>In the [!UICONTROL Advanced Filters] settings, you can filter by the [!UICONTROL Ad Text] field, which applies to both [!UICONTROL Creative Titles] and [!UICONTROL Descriptions].</li></ul> |
+| [!UICONTROL Recommendations] | ([!DNL Google Ads] accounts; beta feature) Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations Beta], you can:<ul><li>See at a glance all recommendations that haven't been acted on for a [!DNL Google Ads] account.</li><li>Apply and dismiss the recommendations for an account.</li><li>View logs of each recommendation that was applied for an account.</li></ul><br>Supported Recommendations:<li><strong>Recommendation Category; Recommendation Type; Description</strong></li><li>Ads & extensions; CALL_EXTENSION; Add call extensions to campaign</li><li>Ads & extensions; CALLOUT_EXTENSION; Add callout extensions to campaign</li><li>Ads & extensions; OPTIMIZE_AD_ROTATION; Use optimized ad rotations</li><li>Ads & extensions; RESPONSIVE SEARCH_AD; Add new responsive search ad</li><li>Ads & extensions; RESPONSIVE_SEARCH_AD_ASSET; Add responsive search ad assets to an ad</li><li>Ads & extensions; SITELINK_EXTENSION; Add [!UICONTROL sitelink] extensions to Campaign</li><li>ads & extensions; TEXT_AD; Add ad suggestions</li><li>Bidding & budgets; CAMPAIGN BUDGET; Fix campaigns Limited by budget</li><li>Bidding & budgets; ENHANCED_CPC_OPT_IN; Bid with Enhanced CPC</li><li>Bidding & budgets; FORECASTING_CAMPAIGN BUDGET; Fix campaigns that are expected to become Limited by budget in the future</li><li>Bidding & budgets; MARGINAL ROI_CAMPAIGN BUDGET; Adjust campaign budget to increase ROI</li><li>Bidding & budgets; MAXIMIZE CLICKS OPT_IN; Bid with Maximize Clicks</li><li>Bidding & budgets; MAXIMIZE CONVERSIONS OPT_IN; Bid with Maximize Conversions</li><li>Bidding & budgets; MOVE_UNUSED_BUDGET; Move unused to constrained budgets</li><li>Bidding & budgets; TARGET_CPA_OPT_IN; Bid with Target CPA</li><li>Bidding & budgets; TARGET_ROAS_OPT_IN; Bid with Target ROAS</li><li>Keywords & targeting; KEYWORD; Add new keywords</li><li>keywords & targeting; SEARCH_PARTNERS_OPT_IN; Expand reach with Google search partners</li><li>keywords & targeting; USE_BROAD MATCH KEYWORD; Use broad match for conversion-based campaigns with <strong>Fully Automated Conversion Based Bidding</strong></li> |
+| [!UICONTROL Import Campaigns] | (Beta feature) You can import your [!DNL Google Display Network] campaigns, including ad images, into [!DNL Microsoft&reg; Advertising] audience campaigns on the [!DNL Microsoft&reg; Audience Network] from [!UICONTROL Tools] > [!UICONTROL Import Campaigns]. Once you import campaigns, you can check the status of your import job, review any error logs, and edit, pause, or delete your import schedule. |
 
-{style=&quot;table-layout:auto&quot;}
+-->
 
 ## ![アイコン](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
@@ -540,7 +543,7 @@ Last updated: **August 9, 2022**
 | 2022年9月 | [カスタムページを追加](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page.html?lang=ja) | ビデオ | 何千ものテンプレートから選択できる統合 Adobe Express アプリを使用して、PDF にカスタムページを追加する方法について説明します。 | Acrobat |
 | 2022年9月 | [既存の web フォームを変更](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=en) | ビデオ | 既存の web フォームを無効化、編集、再有効化する方法について説明します。 | Acrobat Sign |
 | 2022年9月 | [レポートの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report.html?lang=en) | ビデオ | 独自のレポートを作成して、ドキュメント署名プロセスを可視化したり、個々のグループやユーザーの行動を確認したりする方法について説明します。 | Acrobat Sign |
-| 2022年9月 | [レポートグラフの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-report.html?lang=en) | ビデオ（更新） | 新しいレポートエクスペリエンスで、独自のカスタムレポートやデータエクスポートをパーソナライズされたビューで作成、保存、管理する方法について説明します。 | Acrobat Sign |
+| 2022年9月 | [レポートグラフの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-report.html?lang=en) | 更新されたビデオ | 新しいレポートエクスペリエンスで、独自のカスタムレポートやデータエクスポートをパーソナライズされたビューで作成、保存、管理する方法について説明します。 | Acrobat Sign |
 | 2022年9月 | [カスタムワークフローの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/building-a-custom-workflow.html?lang=en) | 更新されたビデオ | ドキュメントワークフローを調整および自動化して、電子サインを取得し、フォームデータを収集し、重要なドキュメントの配信を確認して、ワークフロー管理を合理化する方法について説明します。 | Acrobat Sign |
 | 2022年9月 | [Microsoft Teams で署名用に送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/adobe-sign-teams-mortgage.html?lang=en) | 更新されたビデオ | 署名の契約を送信する方法、契約のステータスを確認する方法、Microsoft Teams 内からすべてのリマインダーを送信する方法について説明します。 | Acrobat Sign |
 | 2022年9月 | [ドキュメントへのフィールドの追加](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/adding-fields.html?lang=en) | 更新されたビデオ | ドキュメントにフィールドを自動的に配置する方法や、Acrobat Sign 内のドラッグ＆ドロップオーサリング環境を使用する方法について説明します。 | Acrobat Sign |
