@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 2c7229afcce0251cb463a526381f09bbc8531e6e
 workflow-type: tm+mt
 source-wordcount: '5994'
-ht-degree: 67%
+ht-degree: 99%
 
 ---
 
@@ -23,7 +23,7 @@ Experience Maker として成功するための道のりは、[Experience League
 >
 >このページの更新に関するメール通知を毎月受け取るには、[Adobe Priority 製品アップデート](https://www.adobe.com/subscription/priority-product-update.html) を購読してください。Experience League の最新情報を把握できるよう、頻繁にチェックしてください。
 
-このページでは、Experience Cloud製品リリースノートページと、Experience Leagueに関する最新のチュートリアル、コース、イベントにアクセスできます。
+このページでは、Experience Cloud 製品リリースノートページと、Experience League に関する最新のチュートリアル、コース、イベントにアクセスできます。
 
 最終更新日：**2022年10月4日（PT）**
 
@@ -53,11 +53,11 @@ Experience Maker として成功するための道のりは、[Experience League
 
 ## ![アイコン](/assets/experience-league.png) [!DNL Experience League] イベント {#events}
 
-Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。詳しくは、 [イベント](https://experienceleague.adobe.com/events/?lang=ja) Experience Leagueでの 2022 年 10 月の更新日。
+Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。2022年10月の最新情報について詳しくは、Experience League の[イベント](https://experienceleague.adobe.com/events/?lang=ja)を参照してください。
 
 | 製品／イベント名 | タイプ | 説明 |
 | -----------|---------- | ----|
-| **[!DNL Adobe Workfront]** | ワークショップ | _価値実現シリーズ：Workfront ジャーニーのロードマップ_ - Workfront ジャーニーの次のステップは？お客様の組織で Adobe Workfront 向けの独自のロードマップを作成する方法について説明します。ぜひご参加ください。お気に入りのマイルストーンに関するアイデアを得て、ロードマップに追加し、以前のシステム管理者としての経験を学びます。<p>**10月4日午後 12:30 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Bx3LyyABjkC6f0LfiHlHgw,F_Tenijn5UulPjqprok8eg,7lni6LpvlEWagR1OIDfosA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
+| **[!DNL Adobe Workfront]** | ワークショップ | _価値実現シリーズ：Workfront ジャーニーのロードマップ_ - Workfront ジャーニーの次のステップは？お客様の組織で Adobe Workfront 向けの独自のロードマップを作成する方法について説明します。ぜひご参加ください。ロードマップに追加できる私たちのお気に入りのマイルストーンと、元システム管理者としての経験を紹介します。<p>**10月4日午後 12:30 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Bx3LyyABjkC6f0LfiHlHgw,F_Tenijn5UulPjqprok8eg,7lni6LpvlEWagR1OIDfosA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Workfront]** | ワークショップ | _CS Connections：戦略的なベストプラクティスの共有_ - 他のお客様とつながり、Workfront の機能について話し合う機会をお探しですか？CS Connections シリーズにご参加ください。他のお客様とつながり、組織の最新トピックについて話し合う月 1 回の機会です。 <p>**10月10日午前 7:00 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,gw8sK1IYp0qugO85lvn9HA,1hAkk731fE2cuzI1JCe2Aw,Lox5X4bDSUC_HaF3SDUy7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Workfront]** | ワークショップ | _ユーザー管理による導入の促進_ - Workfront を使い始めたばかりで、エンドユーザーに関連する設定機能について詳しく知りたいと考えていますか？カスタマーサクセスチームと共に、レポートとダッシュボードの実践的な例を確認し、ユーザー管理を成功させるための基盤を設定し、有用かつ有益なエンドユーザーエクスペリエンスを作成します。<p>**10月18日午前 9:00 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,lJV3sMGDTE2CpLxcuzZQXg,KGHthDBZ80q9JJ-wzHyqBQ,mY-6BCClJkmc_bRvqGebtQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
 | **[!DNL Adobe Workfront]** | ワークショップ | _導入シリーズ：Workfront を楽しいフロントに！_ 導入のアイデアをお探しですか？私たちがお役に立ちます。私たちのチームは、ユーザー導入の浮き沈みを経験してきましたが、楽しさに集中することが成功の鍵です。うまくいったことについてチャットし、他のお客様とアイデアを共有するためのオープンディスカッションに十分な時間を提供します。<p>**10月20日午後 12:30 MT** - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,0qiSuEYEcUSxTibSYXD-jA,8QGOKlkyJE25EiBggDF6Ng,WmVegsyV2E6ZDPSMCifdVw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |
@@ -78,7 +78,7 @@ Experience Cloud の[主要な UI コンポーネント](https://experienceleagu
 
 ## 統合検索の更新
 
-* **パーソナライズ検索：** グローバル検索バーの検索結果が、ユーザーの使用頻度と最新性に合わせてパーソナライズされるようになりました。
+* **検索のパーソナライズ：**&#x200B;グローバル検索バーの検索結果が、ユーザーの使用頻度とリーセンシーに合わせてパーソナライズされるようになりました。
 
 ### プロビジョニングの更新
 
@@ -90,19 +90,19 @@ Experience Cloud の[主要な UI コンポーネント](https://experienceleagu
 
 [!DNL Experience Platform] と [!UICONTROL Mobile SDK] の最新リリース情報および新規ドキュメント：
 
-最新リリース： **2022 年 9 月 29 日**
+最新リリース：**2022年9月28日（PT）**
 
 * [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)
 
 ### 新しい Experience Platform チュートリアルおよびコース {#tutorials-platform}
 
-新しく公開されたAdobe Experience Platformビデオ、チュートリアル、コース。
+Adobe Experience Platform 用に公開された新しいビデオ、チュートリアル、コース。
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022年10月 | [列挙フィールドと推奨値を使用する](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/use-enumerated-fields.html) | ビデオ | セグメントビルダーインターフェイスで列挙フィールドと推奨値を使用して、わかりやすいドロップダウンメニューを作成する方法を説明します。 | データモデル (XDM) |
-| 2022年10月 | [データストリーム内の機密データの管理](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/manage-sensitive-data-in-datastreams.html) | ビデオ | データストリームで機密データを管理する方法を説明します。 | Web SDK |
-| 2022年10月 | [ダッシュボードの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/dashboards/create-a-dashboard.html) | ビデオ | Adobe Experience Platformでダッシュボードを作成する方法を説明します。 | ダッシュボード |
+| 2022年10月 | [列挙フィールドと推奨値を使用する](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/use-enumerated-fields.html?lang=ja) | ビデオ | セグメントビルダーインターフェイスで列挙フィールドと推奨値を使用して、わかりやすいドロップダウンメニューを作成する方法を説明します。 | Experience Data Model（XDM） |
+| 2022年10月 | [データストリーム内の機密データの管理](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/manage-sensitive-data-in-datastreams.html?lang=ja) | ビデオ | データストリームで機密データを管理する方法を説明します。 | Web SDK |
+| 2022年10月 | [ダッシュボードの作成](https://experienceleague.adobe.com/docs/platform-learn/tutorials/dashboards/create-a-dashboard.html?lang=ja) | ビデオ | Adobe Experience Platform でダッシュボードを作成する方法を説明します。 | ダッシュボード |
 
 ### [!DNL Adobe Mobile] SDK
 
@@ -110,11 +110,11 @@ Experience Cloud の[主要な UI コンポーネント](https://experienceleagu
 
 ## ![アイコン](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-次期リリース： **2022 年 10 月 6 日**
+次期リリース：**2022年10月5日（PT）**
 
 >[!NOTE]
 >
->10 月のリリースノートは、以下の日付で利用可能になります。 **2022 年 10 月 6 日**.
+>10月のリリースノートは、**2022年10月5日（PT）**&#x200B;に利用可能になります。
 
 * Adobe Analytics [リリースノート](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=ja)
 * Adobe Analytics [製品ドキュメントとチュートリアル](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)
@@ -131,18 +131,18 @@ Adobe Analytics 用に公開された新しいビデオチュートリアル、�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年10月 | [Analysis Workspace の複合グラフ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/combo-charts.html) | ビデオ | Analysis Workspace での複合グラフビジュアライゼーションについて説明します。  |
+| 2022年10月 | [Analysis Workspace の複合グラフ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/combo-charts.html?lang=ja) | ビデオ | Analysis Workspace での複合グラフビジュアライゼーションについて説明します。  |
 | 2022年9月 | [フロービジュアライゼーションの作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analyzing-customer-journeys/flow-visualization.html?lang=ja) | ビデオ | フロービジュアライゼーションを使用して、顧客がブランドで行った正確なジャーニーを調査する方法を説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ## ![アイコン](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-次期リリース： **2022 年 10 月 6 日**
+次期リリース：**2022年10月5日（PT）**
 
 >[!NOTE]
 >
->10 月のリリースノートは、以下の日付で利用可能になります。 **2022 年 10 月 6 日**.
+>10 月のリリースノートは **2022年10月5日（PT）**&#x200B;に公開されます。
 
 * Customer Journey Analytics [リリースノート](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=ja)
 * Customer Journey Analytics [製品ドキュメントとチュートリアル](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=ja)
@@ -172,32 +172,32 @@ CJA 用に公開された新しいビデオ、チュートリアル、または�
 
  Experience Manager の新機能、修正点および更新です。安定性、セキュリティ、パフォーマンスを高めるために、オンプレミス環境のお客様には最新のパッチをデプロイすることをお勧めします。
 
-### AEMのロードマップとリリースビデオ
+### AEM のロードマップとリリースビデオ
 
-Adobeは、次のリソースにアクセスして、リリース情報の最新情報を常に確認することをお勧めします。
+アドビでは、次のリソースにアクセスして最新のリリース情報を常に確認することをお勧めします。
 
-* [Experience Managerリリースのアップデートとロードマップ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ja) -Experience Managerリリースのロードマップ、以前のリリースの更新、ドキュメントの更新について説明します。
-* [Experience Managerのas a Cloud Service的なリリースアップデート](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en) - Adobe Experience Manager as a Cloud Serviceの最新機能の概要を簡単に説明します。
+* [Experience Manager リリースのアップデートとロードマップ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ja) - Experience Manager リリースのロードマップ、以前のリリースのアップデート、ドキュメントのアップデートについて説明します。
+* [Experience Manager as a Cloud Service リリースアップデート](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=ja) - Adobe Experience Manager as a Cloud Service の最新機能の概要を簡単に説明します。
 
 ### Experience Manager [!DNL Sites] as a [!DNL Cloud Service]
 
-_AEM Sitesの新機能_
+_AEM Sites の新機能_
 
-この [!UICONTROL 電子メール] コンポーネントを使用すると、AEMでコンテンツを作成し、そのコンテンツを e メールとして配信できます。 [!DNL Campaign Classic]. この [!UICONTROL コア電子メールコンポーネント]:
+[!UICONTROL メール]コンポーネントを使用すると、AEM でコンテンツを作成し、そのコンテンツを [!DNL Campaign Classic] 経由でメールとして配信できます。[!UICONTROL コアメールコンポーネント]：
 
-* は、 [コア WCM コンポーネント](https://github.com/adobe/aem-core-wcm-components) は、編集可能テンプレートとスタイルシステムをサポートしています。
+* 編集可能テンプレートとスタイルシステムをサポートする、[コア WCM コンポーネント](https://github.com/adobe/aem-core-wcm-components)をベースにしています。
 
-* 実稼動用に最適化された 10 個のコンポーネント（ページ、コンテナ、タイトル、テキスト、画像、ボタン、ティーザー、エクスペリエンスフラグメント、コンテンツフラグメント、セグメント化）を提供します。
+* メール用に最適化され、実稼動ですぐに使える 10 個のコンポーネント（ページ、コンテナ、タイトル、テキスト、画像、ボタン、ティーザー、エクスペリエンスフラグメント、コンテンツフラグメント、セグメント化）を提供します。
 
-* 次の機能を活用して、高度なパーソナライゼーションとセグメント化を実現します。 [キャンペーン変数の挿入](https://github.com/adobe/aem-core-email-components/wiki/RTE-Personalization) ほとんどのダイアログフィールドで、また柔軟な [セグメント化コンポーネント](https://github.com/adobe/aem-core-email-components/wiki/(Technical-Documentation)).
+* ほとんどのダイアログフィールドに [Campaign 変数](https://github.com/adobe/aem-core-email-components/wiki/RTE-Personalization)を挿入する機能と、柔軟な[セグメント化コンポーネント](https://github.com/adobe/aem-core-email-components/wiki/(Technical-Documentation))により、高度なパーソナライズとセグメント化を提供します。
 
-* 次の機能を利用して、最適な E メール対応HTML出力を提供： [CSS スタイルインライナー](https://github.com/adobe/aem-core-email-components/wiki/HTML-Inliner:-Technical-documentation)、 [HTML属性インライナー](https://github.com/adobe/aem-core-email-components/wiki/HTML-Inliner:-Technical-documentation)、および [HTML消毒剤](https://github.com/adobe/aem-core-email-components/wiki/HTML-sanitizing:-Technical-documentation).
+* [CSS スタイルインライナー](https://github.com/adobe/aem-core-email-components/wiki/HTML-Inliner:-Technical-documentation)、[HTML 属性インライナー](https://github.com/adobe/aem-core-email-components/wiki/HTML-Inliner:-Technical-documentation)、[HTML サニタイザー](https://github.com/adobe/aem-core-email-components/wiki/HTML-sanitizing:-Technical-documentation)により、メールに最適な HTML 出力を提供します。
 
-* どこでも E メールを作成できます。
+* どこでもメールを作成できます。
 
 _[!DNL Sites]プレリリースチャネルで利用できる新機能_
 
-* この [コンテンツフラグメントコンソール](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=ja) には、コンテンツフラグメントに関連付けられている言語コピーの合計数を表示するオプションが用意されています。 すべての言語コピーも表示できるワンクリックアクセスが提供されました。 また、ユーザーは、対象のロケールに基づいてテーブル表示をフィルタリングすることもできます。
+* [コンテンツフラグメントコンソール](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=ja)には、コンテンツフラグメントに関連付けられている言語コピーの合計数を表示するオプションが用意されています。 すべての言語コピーが表示できるワンクリックアクセスも提供されました。 また、ユーザーは、対象のロケールに基づいてテーブルビューをフィルタリングすることもできます。
 
 ### Experience Manager [!DNL Assets] as a [!DNL Cloud Service]
 
@@ -209,29 +209,29 @@ _[!DNL Assets]_ の新機能
 
 _新機能_
 
-[アダプティブFormsウィザード](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/create-an-adaptive-form-on-forms-cs/creating-adaptive-form.html?lang=en): [!DNL AEM Forms] 作成者がビジネスユーザーにとって使いやすいウィザードを提供します。 [!UICONTROL アダプティブForms]. このウィザードでは、事前設定済みのテンプレート、スタイル設定、フィールド、送信オプションを簡単に選択して、アダプティブフォームを作成するためのクイックタブナビゲーションが用意されています。 このリリースでは、ウィザードが次のように改善されました。
+[アダプティブフォームウィザード](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/create-an-adaptive-form-on-forms-cs/creating-adaptive-form.html?lang=ja)：[!DNL AEM Forms] でビジネスユーザーにとって使いやすいウィザードを使用して、素早く[!UICONTROL アダプティブフォーム]を作成できます。 このウィザードでは、事前設定済みのテンプレート、スタイル設定、フィールド、送信オプションを簡単に選択して、アダプティブフォームを作成するためのクイックタブナビゲーションを提供します。このリリースでは、ウィザードが次のように改善されました。
 
-* **フィールドを選択または選択解除します。** ウィザードでは、JSON およびフォームデータモデルスキーマに基づくアダプティブフォームを作成できます。 スキーマ内のフィールドのサブセットを選択して、アダプティブフォームに含めることができるようになりました。 選択したフィールドは、対応するアダプティブフォームのデータキャプチャコンポーネントに変換され、目的のアダプティブフォームをすばやく作成できます。
+* **フィールドの選択または選択解除：** ウィザードでは、JSON およびフォームデータモデルスキーマに基づくアダプティブフォームを作成できます。 スキーマ内のフィールドのサブセットを選択して、アダプティブフォームに含めることができるようになりました。 選択したフィールドは、対応するアダプティブフォームのデータキャプチャコンポーネントに変換され、目的のアダプティブフォームを素早く作成できます。
 
-* **静的テンプレートを使用：** 既存のレガシー静的テンプレートへの投資をお持ちのお客様は、ウィザードで静的テンプレートを使用してアダプティブフォームを作成することで、クラウドの採用プロセスを継続的に進めることができます。 これにより、古い静的テンプレートを最新の編集可能なテンプレートに移行する時間が増えます。
+* **静的テンプレートの使用：**&#x200B;従来の静的テンプレートに現在投資しているお客様は、ウィザードで静的テンプレートを使用してアダプティブフォームを作成することで、クラウド採用のジャーニーを継続的に進めることができます。 これにより、古い静的テンプレートを最新の編集可能なテンプレートに移行する時間が追加されます。
 
-* [サーバーサイドの処理中にレコードのドキュメント (DoR) から非表示のフィールドを削除する](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=ja):データ取得エクスペリエンスで表示されたフィールドのみを含むエンドユーザーのレコードのドキュメントPDFを生成できます。 フォームの送信時に、サーバーは送信されたデータに基づいてエンドユーザーに対して非表示にされたフィールドを検証し、レコードのドキュメントから一貫性を保つために除外します。
+* [サーバーサイド処理中にレコードのドキュメント（DoR）から非表示のフィールドを削除](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=ja)：データ取得エクスペリエンスで表示されたフィールドのみを含むエンドユーザーのレコードのドキュメント PDF を生成できます。 フォームの送信時に、サーバーは送信されたデータに基づいてエンドユーザーに対して非表示にされたフィールドを検証し、一貫性を保つためにレコードのドキュメントから除外します。
 
 ### Cloud Manager
 
 * [!DNL AEM Guides] は、サンドボックスプログラムでセルフサービス方式で設定できるようになりました。
 
-* を持たない顧客 [!DNL Cloud Manager] ロールはプログラムの詳細にアクセスできません。 ただし、次の場所からオーサーエンドポイントに移動することはできます： [!DNL Cloud Manager] ランディングページ。
+* [!DNL Cloud Manager] の役割を持たない顧客は、プログラムの詳細にアクセスできません。ただし、[!DNL Cloud Manager] ランディングページからオーサーエンドポイントに移動することはできます。
 
-* お客様が **インシデントと事前通知** AEMaaCS アプリケーションに関連するインシデントや推奨事項についてAdobeから連絡を受けるグループ。 詳しくは、 [通知用のユーザーグループ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/user-groups.html?lang=en) を参照してください。
+* 顧客は、**インシデントおよび事前通知**&#x200B;グループを設定し、AEMaaCS アプリケーションに関連するインシデントや推奨事項に関する情報をアドビから得ることができます。詳しくは、[通知用のユーザーグループ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/user-groups.html?lang=ja)を参照してください。
 
-* **[!UICONTROL プログラムアフォーダンスを追加]** 権限や権限に関連する理由で無効になっている場合、UI では一貫してツールヒントを提供します。
+* **[!UICONTROL プログラムアフォーダンスを追加]**&#x200B;し、権限やエンタイトルメントに関連する理由で無効になっている場合、UI で一貫してツールヒントを提供します。
 
-### [!DNL Workfront] (Experience Manager拡張コネクタ用 )
+### [!DNL Workfront] for Experience Manager 拡張コネクタ
 
-の最新バージョン (1.9.3) [!DNL Workfront] (Experience Manager拡張コネクタ用 ) が **2022 年 9 月 17 日**. 詳しくは、 [リリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/workfront/release-notes-enhanced-connector-workfront.html?lang=en) を参照してください。
+[!DNL Workfront] for Experience Manager 拡張コネクタの最新バージョン（1.9.3） が **2022年9月16日（PT）**&#x200B;に利用可能になりました。詳しくは、[リリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/workfront/release-notes-enhanced-connector-workfront.html?lang=ja)を参照してください。
 
-Adobeが推奨する [最新バージョン 1.9.3 にアップグレード](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html?lang=en) Workfront for Connector のExperience Manager強化
+アドビは、Workfront for Experience Manager 拡張コネクタの[最新バージョン 1.9.3 にアップグレード](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html?lang=ja)することを推奨します。 
 
 ### 新しい Adobe Experience Manager コースとチュートリアル {#tutorials-aem}
 
@@ -239,19 +239,19 @@ Adobeが推奨する [最新バージョン 1.9.3 にアップグレード](http
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2022年10月 | [AEM Formsの項目読み込みプロパティ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/using-item-load-path.html) | ビデオ | 項目読み込みパスプロパティを使用してドロップダウンリストを設定および設定する方法について説明します。 | AEM Forms CS |
-| 2022年10月 | [標準AEMプロジェクトアーキタイプのフロントエンドパイプラインを有効にする](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/enable-frontend-pipeline-devops/overview.html) | ビデオ | AEM Project Archetype を使用してAEM WKND Sites Project を有効にし、CSS、JavaScript、フォント、アイコンなどのフロントエンドリソースをデプロイし、開発からデプロイメントまでのサイクルを高速化する方法を説明します。 | AEM Sites |
-| 2022年10月 | [Next.js アプリ](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js.html) | ビデオ | 永続クエリを使用してAEM GraphQL API を使用してコンテンツに対してクエリを実行する方法を説明します。 JavaScript 版AEMヘッドレスクライアントは、アプリを強化する GraphQL の永続クエリを実行するために使用されます。 | AEM Sites |
-| 2022年10月 | [送信されたフォームデータからフォームの添付ファイルを抽出する](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-af-attachments-in-email.html) | ビデオ | フォームの添付ファイルを抽出し、Power Automate ワークフローで添付ファイルを電子メールで送信する方法を説明します。 | AEM Forms CS |
-| 2022年10月 | [DoR を電子メールの添付ファイルとして送信](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-DoR-email-attachment.html) | ビデオ | DoR を抽出し、Power Automate のワークフローで電子メール添付ファイルとして送信します。 | AEM Forms CS |
-| 2022年10月 | [コンテンツフラグメントコンソール](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-console.html?lang=en) | ビデオ | AEM as a Cloud Serviceのコンテンツフラグメントオーサリングコンソールの基本的な機能について説明します。 | AEM CS |
-| 2022年10月 | [AEMas a Cloud Serviceコンテンツ移行に関する FAQ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/faq.html) | ビデオ | AEM as a Cloud Serviceへのコンテンツの移行に関するよくある質問に対する回答を示します。 | AEM CS |
+| 2022年10月 | [AEM Forms の項目読み込みプロパティ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/using-item-load-path.html?lang=ja) | ビデオ | 項目読み込みパスプロパティを使用して、ドロップダウンリストを設定および入力する方法について説明します。 | AEM Forms CS |
+| 2022年10月 | [標準 AEM プロジェクトアーキタイプのフロントエンドパイプラインを有効にする](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/enable-frontend-pipeline-devops/overview.html?lang=ja) | ビデオ | AEM プロジェクトアーキタイプを使用して AEM WKND Sites プロジェクトを有効にし、CSS、JavaScript、フォント、アイコンなどのフロントエンドリソースをデプロイし、フロントエンドパイプラインを使用して、開発からデプロイメントまでのサイクルを高速化する方法を説明します。 | AEM Sites |
+| 2022年10月 | [Next.js アプリ](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js.html?lang=ja) | ビデオ | 永続クエリと AEM の GraphQL API を使用して、コンテンツに対してクエリを実行する方法を説明します。JavaScript 向け AEM ヘッドレスクライアントは、アプリを強化する GraphQL の永続クエリを実行するために使用されます。 | AEM Sites |
+| 2022年10月 | [送信されたフォームデータからフォームの添付ファイルを抽出する](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-af-attachments-in-email.html?lang=ja) | ビデオ | フォームの添付ファイルを抽出し、Power Automate ワークフローで添付ファイルをメールで送信する方法を説明します。 | AEM Forms CS |
+| 2022年10月 | [DoR をメールの添付ファイルとして送信する](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-DoR-email-attachment.html?lang=ja) | ビデオ | DoR を抽出し、Power Automate ワークフローでメール添付ファイルとして送信します。 | AEM Forms CS |
+| 2022年10月 | [コンテンツフラグメントコンソール](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-console.html?lang=ja) | ビデオ | AEM as a Cloud Service のコンテンツフラグメントオーサリングコンソールの基本的な機能について説明します。 | AEM CS |
+| 2022年10月 | [AEM as a Cloud Service コンテンツ移行に関する FAQ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/faq.html?lang=ja) | ビデオ | AEM as a Cloud Service へのコンテンツ移行に関するよくある質問に対する回答をご確認ください。 | AEM CS |
 | 2022年9月 | [AEM as a Cloud Service 2022.8.0 リリースの更新](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=ja) | ビデオ | Adobe Experience Manager [!DNL Assets]、[!DNL Assets Essentials]、[!DNL Sites]、Commerce Integration Framework、[!DNL Forms] および [!DNL Cloud Manager] の最新リリースの機能とイノベーションについて、AEM 製品チームが説明します。 | AEM CS |
-| 2022年9月 | [Web に最適化された画像配信](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/components/web-optimized-image-delivery.html?lang=en) | ビデオ | AEMコアコンポーネントを使用して、AEMのas a Cloud Serviceの Web サイトで Web に最適化された画像配信を有効にする方法について説明します。 | AEM Sites |
+| 2022年9月 | [Web に最適化された画像配信](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/components/web-optimized-image-delivery.html?lang=ja) | ビデオ | AEM コアコンポーネントを使用して、AEM as a Cloud Service で web に最適化された画像配信を有効にする方法について説明します。 | AEM Sites |
 | 2022年9月 | [Microsoft® Power Automate との統合](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html?lang=ja) | ビデオ | アダプティブフォームの送信時に自動フローを起動します。Forms CS を設定し、Microsoft® Power Automate と統合する手順について説明します。 送信されたフォームデータを解析し、DoR をメールの添付ファイルとして送信します。 | AEM Forms CS |
 | 2022年9月 | [アドビのコンテンツ管理フォーラムイベントシリーズ - 2022](https://experienceleague.adobe.com/docs/adobe-content-management-forum-events/events/2022/welcome.html?lang=ja) | ビデオ | Elliot Sedegah による歓迎の挨拶と AEM の概要をご覧ください。また、コンテンツ速度などのパワーを解き放つことについても説明します。 | AEM CS |
-| 2022年9月 | [スキル交換 - デベロッパートラック - Experience Makers Spotlight](https://experienceleague.adobe.com/docs/skill-exchange-events/events/aem/aug2022/developer-track/spotlight.html?lang=ja) | ビデオ | 2 人のエキスパート AEM ユーザーにご注目ください。 各エキスパートが、最高のAEMのヒントやトリックを共有します。 | AEM CS |
-| 2022年9月 | [スキル交換 - マーケター／Web パブリッシャー](https://experienceleague.adobe.com/docs/skill-exchange-events/events/aem/aug2022/marketer/reusability.html?lang=ja) | ビデオ | エクスペリエンスフラグメントを使用して、エコシステム全体での再利用と効率化を推進する方法を説明します。 これは ROI とドライブ速度に影響を及ぼします。 | AEM CS |
+| 2022年9月 | [スキル交換 - デベロッパートラック - Experience Makers Spotlight](https://experienceleague.adobe.com/docs/skill-exchange-events/events/aem/aug2022/developer-track/spotlight.html?lang=ja) | ビデオ | 2 人のエキスパート AEM ユーザーにご注目ください。 各エキスパートが、AEM の最高のヒントやコツを共有します。 | AEM CS |
+| 2022年9月 | [スキル交換 - マーケター／Web パブリッシャー](https://experienceleague.adobe.com/docs/skill-exchange-events/events/aem/aug2022/marketer/reusability.html?lang=ja) | ビデオ | エクスペリエンスフラグメントを利用して、エコシステム全体での再利用と効率化を推進する方法を説明します。これは ROI とドライブ速度に影響を及ぼします。 | AEM CS |
 | 2022年9月 | [AEM React 編集可能コンポーネント v2 の使用方法](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/how-to/react-core-components-v2.html?lang=ja) | ビデオ | AEM React 編集可能コンポーネントの使用方法を説明します。 AEM は、AEM React 編集可能コンポーネント v2 を提供します。これは、AEM SPA エディターを使用してコンテキスト内のコンポーネントの編集をサポートし、React コンポーネントの作成を可能にする Node.js ベースの SDK です。 | AEM CS |
 
 {style=&quot;table-layout:auto&quot;}
@@ -261,8 +261,8 @@ Adobeが推奨する [最新バージョン 1.9.3 にアップグレード](http
 Experience Manager のリリースノートはすべて以下のページに記載されています。
 
 * [Adobe Experience Manager as a Cloud Service リリースアップデート](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en)
-* [Adobe Experience Manager as a Cloud Serviceの最新のリリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
-* [Adobe Experience Manager as a Cloud Service リリース情報](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
+* [Adobe Experience Manager as a Cloud Service の現在のリリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja)
+* [Adobe Experience Manager as a Cloud Service リリース情報](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=ja)
 * [Adobe Experience Manager Cloud Manager リリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=ja)
 * [自動フォーム変換サービスリリースノート](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=ja)
 * [Adobe Experience Manager 6.5 Service Pack リリースノート](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=ja)
@@ -272,7 +272,7 @@ Experience Manager のリリースノートはすべて以下のページに記�
 * [Adobe Experience Manager デスクトップアプリケーションリリースノート](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=ja)
 * [Adobe Experience Manager Dispatcher リリースノート](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=ja)
 * [Adobe Primetime リリースノート](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=ja)
-* [Livefyre リリースノート](https://experienceleague.adobe.com/docs/discontinued/using/livefyre.html)
+* [Livefyre リリースノート](https://experienceleague.adobe.com/docs/discontinued/using/livefyre.html?lang=ja)
 
 ### Experience Manager に関するその他のヘルプリソース
 
@@ -299,18 +299,18 @@ Experience Manager のリリースノートはすべて以下のページに記�
 
 ## ![アイコン](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
-で使用できる新機能およびコンテンツ [!DNL Adobe Commerce].
+[!DNL Adobe Commerce] で利用できる新機能とコンテンツ。
 
 ### 支払いサービス{#payment-services}
 
 | 機能 | 説明 |
 | ------- | ------- |
-| [複数の PayPal アカウントを使用](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/configure/settings.html?lang=en#use-multiple-paypal-accounts) | 様々な PayPal ビジネスアカウントをマーチャントアカウントに使用して、複数の国で（異なる通貨で）取引できるようにする方法や、ビジネスの一部（すべてではなく一部）にAdobe Commerceを使用する方法を説明します。 |
-| [ソフト記述子の Web サイトへの追加またはビューの保存](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/configure/settings.html?lang=en#add-soft-descriptor) | 顧客トランザクション銀行明細書の店舗/ブランド/カタログ間を区切るために、Web サイトまたはストアビューにソフト記述子を追加する方法を説明します。 |
+| [複数の PayPal アカウントの使用](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/configure/settings.html?lang=ja#use-multiple-paypal-accounts) | 様々な PayPal ビジネスアカウントをマーチャントアカウントに使用して、複数の国で（異なる通貨で）取引できるようにする方法や、ビジネスのすべてではなく一部に Adobe Commerce を使用する方法について説明します。 |
+| [Web サイトまたはストアビューへのソフト記述子の追加](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/configure/settings.html?lang=ja#add-soft-descriptor) | Web サイトまたはストアビューにソフト記述子を追加し、顧客トランザクションの銀行取引明細書でストア／ブランド／カタログを区別する方法について説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
-### リリースノート： [!DNL Adobe Commerce]{#release-notes-commerce}
+### のリリースノート [!DNL Adobe Commerce] {#release-notes-commerce}
 
 * [Adobe Commerce および Magento Open Source 2.4.x リリースノート](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
 * [Cloud Suite のリリースノート](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
@@ -322,27 +322,27 @@ Experience Manager のリリースノートはすべて以下のページに記�
 
 >[!NOTE]
 >
->[!DNL Adobe Search&Promote] サービス終了が発生しました **2022 年 9 月 2 日**. 製品およびコマース検索の場合、[ライブサーチ](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=en)がアドビの検索アプリケーションです。詳しくは、[提供終了のお知らせ](https://experienceleague.adobe.com/docs/discontinued/using/search-promote.html?lang=en)を参照してください。
+>[!DNL Adobe Search&Promote] は **2022年9月1日（PT）**&#x200B;に提供終了となりました。製品およびコマース検索の場合、[ライブサーチ](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=ja)がアドビの検索アプリケーションです。詳しくは、[提供終了のお知らせ](https://experienceleague.adobe.com/docs/discontinued/using/search-promote.html?lang=ja)を参照してください。
 
-### の新しいチュートリアルとドキュメント [!DNL Adobe Commerce] {#tutorials-commerce}
+### [!DNL Adobe Commerce] の新しいチュートリアルとドキュメント {#tutorials-commerce}
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年10月 | [オンプレミスでのインストールの概要](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html) | 製品ドキュメント | Adobe CommerceとMagento Open Sourceのオンプレミスデプロイメントのインストールプロセスについて説明します。 |
-| 2022年10月 | [Commerce Magento クラウドインフラストラクチャ )](https://experienceleague.adobe.com/docs/commerce-operations/reference/commerce.html) | 製品ドキュメント | Adobe Commerce magento-cloud コマンドラインツールで使用可能なすべてのコマンド、引数、オプションについて説明します。 |
-| 2022年10月 | [Adobe Commerceのカタログサービス](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/catalog-service.html) | 製品ドキュメント | カタログサービスをインストールしてテストする方法を説明します。 |
-| 2022年10月 | [Adobe Commerce Merchandising and Promotions ガイド](https://experienceleague.adobe.com/docs/commerce-admin/marketing/guide-overview.html) | 製品ドキュメント | ターゲットを絞った割引やイベントを含む、マーチャンダイジングやプロモーションの機能についてお読みください。 |
+| 2022年10月 | [オンプレミスでのインストールの概要](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=ja) | 製品ドキュメント | Adobe Commerce と Magento Open Source のオンプレミスデプロイメントのインストールプロセスについて説明します。 |
+| 2022年10月 | [Commerce magento-cloud インフラストラクチャ)](https://experienceleague.adobe.com/docs/commerce-operations/reference/commerce.html?lang=ja) | 製品ドキュメント | Adobe Commerce magento-cloud コマンドラインツールで使用可能なすべてのコマンド、引数およびオプションについて説明します。 |
+| 2022年10月 | [Adobe Commerce のカタログサービス](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/catalog-service.html?lang=ja) | 製品ドキュメント | カタログサービスをインストールしてテストする方法について説明します。 |
+| 2022年10月 | [Adobe Commerce マーチャンダイジングおよびプロモーションガイド](https://experienceleague.adobe.com/docs/commerce-admin/marketing/guide-overview.html?lang=ja) | 製品ドキュメント | ターゲットを絞った割引やイベントなど、マーチャンダイジングおよびプロモーションの機能についてお読みください。 |
 | 2022年9月 | [Adobe Experience Manager でヘッドレスエクスペリエンスを提供](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=ja) | ビデオ | 機能強化された最新の Experience Manager コンテンツフラグメントおよびヘッドレスコンテンツ配信のための新しい GraphQL API を使用したヘッドレスエクスペリエンス管理について説明します。 |
-| 2022年9月 | [Adobe Commerce Catalog Management ガイド](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html) | ビデオ | 構築の基本的なコンテンツコンポーネントを含む、コンテンツとデザインの機能に関する詳細情報を取得します。 |
+| 2022年9月 | [Adobe Commerce Catalog Management ガイド](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html?lang=ja) | ビデオ | 構築の基本的なコンテンツコンポーネントを含む、コンテンツとデザインの機能に関する詳細情報を取得します。 |
 | 2022年9月 | [複数のコマースシステムの設定](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html?lang=ja) | ビデオ | 複数の Adobe Commerce 環境で AEM を設定する方法について説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ## ![アイコン](/assets/target.png) [!DNL Adobe Target] {#target}
 
-最終更新日：**2022年9月29日**
+最終更新日：**2022年9月29日（PT）**
 
-次回の予定リリース： **2022 年 10 月 4 日～6 日**
+次回の予定リリース：**2022年10月4日～6日（PT）**
 
 * プレリリース情報については、[Adobe Target プレリリース](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ja)を参照
 * 現在の情報については、[Adobe Target リリースノート](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=ja)を参照
@@ -361,10 +361,10 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022年10月 | [マーケター向けの意思決定管理の概要](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=en) | ビデオ | セグメントビルダーインターフェイスで列挙フィールドと推奨値を使用して、わかりやすいドロップダウンメニューを作成する方法を説明します。 | Campaign v8 |
+| 2022年10月 | [マーケター向けの意思決定管理の概要](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=ja) | ビデオ | セグメントビルダーインターフェイスで列挙フィールドと推奨値を使用して、わかりやすいドロップダウンメニューを作成する方法を説明します。 | Campaign v8 |
 | 2022年10月 | [Adobe Campaign の SMS の設定](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms) | コース | Campaign インスタンスを SMTP プロバイダーに接続する方法と、設定を分析し、トラブルシューティングを行う方法について説明します。 | Campaign v8 |
-| 2022年10月 | [完全なサブドメインデリゲーション](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/subdomains-and-certificates/subdomain-delegation.html?lang=en) | 更新されたビデオ | サブドメインを Adobe Campaign に完全にデリゲートする方法を説明します。 | コントロールパネル |
-| 2022年9月 | [Adobe Campaign の SMS の設定](https://experienceleague.adobe.com/docs/courses/using/campaign-a-1-2022-v8-setupsms.html?lang=en) | コース | Campaign インスタンスを SMTP プロバイダーに接続する方法と、設定を分析し、トラブルシューティングを行う方法について説明します。 | Campaign v8 |
+| 2022年10月 | [完全なサブドメインデリゲーション](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/subdomains-and-certificates/subdomain-delegation.html?lang=ja) | 更新されたビデオ | サブドメインを Adobe Campaign に完全にデリゲートする方法を説明します。 | コントロールパネル |
+| 2022年9月 | [Adobe Campaign の SMS の設定](https://experienceleague.adobe.com/docs/courses/using/campaign-a-1-2022-v8-setupsms.html?lang=ja) | コース | Campaign インスタンスを SMTP プロバイダーに接続する方法と、設定を分析し、トラブルシューティングを行う方法について説明します。 | Campaign v8 |
 | 2022年9月 | [SMPP プロトコルの詳細とトラブルシューティング](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=ja) | ビデオ | SMPP 接続が確立される方法、および SMPP が PDU を介してデータを交換する方法について説明します。 接続のトラブルシューティング方法を説明します。 | Campaign v8 |
 | 2022年9月 | [Adobe Campaign の SMS の設定](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms) | コース | Campaign インスタンスを SMTP プロバイダーに接続する方法と、設定を分析し、トラブルシューティングを行う方法について説明します。 | Campaign Classic v7 |
 
@@ -375,7 +375,7 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 * Adobe Campaign v8：[ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [実装ガイド](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html?lang=ja)
 * Adobe Campaign Standard：[Campaign Standard ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja) - [リリース計画](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ja)
 * Adobe Campaign Classic：[Campaign Classic v7 ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ja)
-* Adobe Campaign コントロールパネル：[ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=en) のハウツービデオ
+* Adobe Campaign コントロールパネル：[ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=ja) のハウツービデオ
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
@@ -391,9 +391,9 @@ Adobe [!DNL Journey Optimizer] 向けに新しく公開されたビデオ、チ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年10月 | [別のサンドボックスへのジャーニーのコピー](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/copy-a-journey.html?lang=en) | ビデオ | ジャーニーとその依存オブジェクトをサンドボックス間でコピーする方法を説明します。 |
-| 2022年10月 | [アラートを使用](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts.html?lang=en) | ビデオ | 予期しないジャーニー動作に対して事前定義済みのアラートを購読し、E メール、Journey Optimizer内、または API を使用して通知を受け取る方法を説明します。 |
-| 2022年9月 | [マーケター向けの意思決定管理の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | コース | Adobe Journey Optimizer の意思決定管理機能について説明します。 このコースは、顧客に最適なオファーを提供することで、売上高、顧客体験、ロイヤルティを向上させたいマーケター向けに設計されています |
+| 2022年10月 | [別のサンドボックスへのジャーニーのコピー](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/copy-a-journey.html?lang=ja) | ビデオ | ジャーニーとその依存オブジェクトをサンドボックス間でコピーする方法を説明します。 |
+| 2022年10月 | [アラートを使用](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts.html?lang=ja) | ビデオ | 予期しないジャーニー動作に対して事前定義済みのアラートを購読し、メール、Journey Optimizer 内、または API を使用して通知を受け取る方法を説明します。 |
+| 2022年9月 | [マーケター向けの意思決定管理の概要](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) | コース | Adobe Journey Optimizer の意思決定管理機能について説明します。 このコースは、顧客に最高のオファーを提供することで、売上高、カスタマーエクスペリエンス、ロイヤルティを向上させたいマーケターを対象としています |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -420,8 +420,8 @@ Experience Platform を使用すると、各個人のニーズをリアルタイ
 
 ### コア Marketo Engage の更新
 
-* 詳しくは、 [2022 年 10 月 — 最新のリリースノート](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html?lang=en) 最新情報について
-* 最新のリリーススケジュール情報とリリースノートについては、[!DNL Marketo Engage] [リリーススケジュール](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en)を参照してください。
+* 最新情報については、[2022年10月 - 現在のリリースノート](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html?lang=ja)を参照してください。
+* 最新のリリーススケジュール情報とリリースノートについては、[!DNL Marketo Engage] [リリーススケジュール](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=ja)を参照してください。
 
 <!-- ### New Marketo tutorials and courses {#tutorials-marketo}
 
@@ -433,22 +433,22 @@ New videos, tutorials, or courses published for Adobe Marketo.
 
 {style="table-layout:auto"} -->
 
-最新の製品ドキュメントについて詳しくは、[Marketo 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en)ホームを参照してください。
+最新の製品ドキュメントについて詳しくは、[Marketo 製品ドキュメント](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja)ホームを参照してください。
 
 ## ![アイコン](/assets/workfront.png) [!DNL Adobe Workfront] {#workfront}
 
 Adobe [!DNL Workfront] は、アイデアの共有、コンテンツの作成、複雑なプロセスの管理、および最高の作業を行うための統合作業管理アプリケーションです。
 
-### 新規Adobe [!DNL Workfront] コースとチュートリアル {#tutorials-workfront}
+### 新しい Adobe [!DNL Workfront] コースとチュートリアル {#tutorials-workfront}
 
-新規 [!DNL Workfront] Experience Leagueに関するチュートリアルのコースとコレクション。
+Experience League の新しい [!DNL Workfront] コースと チュートリアルのコレクション。
 
-**注意：**[[!DNL Workfront]すべての チュートリアルと製品ドキュメントの Experience League に関する翻訳は、近日中に提供されます。](https://experienceleague.adobe.com/docs/workfront.html?lang=en)
+**メモ：**[[!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront.html?lang=ja)すべての チュートリアルと製品ドキュメントの Experience League に関する翻訳は、近日中に提供されます。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2022年10月 | [ボードの列設定の追加と編集](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/boards/add-and-edit-column-settings-on-a-board.html?lang=ja) | ビデオ | ボードで列設定を追加および編集する方法を説明します。 |
-| 2022年10月 | [高度なレポート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) | ビデオ | API エクスプローラーとテキストモードを使用して、レポート UI の機能以外にも拡張フィルター、ビュー、グループを作成する方法を説明します。 |
+| 2022年10月 | [高度なレポート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ja) | ビデオ | API エクスプローラーとテキストモードを使用して、レポーティング UI の機能以外にも拡張フィルター、ビュー、グループを作成する方法を説明します。 |
 | 2022年9月 | [Workfront コース](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin&amp;lang=ja) | コース | Experience League の Workfront で利用可能な新しいコースをご覧ください。 |
 | 2022年9月 | [ベストプラクティス](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/agile-bp.html?lang=ja) | 記事 | [!DNL Workfront] ツールを使用して作業プロセスを強化する方法について、社内外の [!DNL Workfront] エキスパートからベストプラクティスを学びます。 |
 | 2022年9月 | [Boards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/boards/add-and-edit-column-settings-on-a-board.html?lang=en) | ビデオ | 新しい Boards ツールの使用方法と最新機能を説明する新しいチュートリアルをご覧ください。 |
@@ -523,31 +523,31 @@ Last updated: **September 9, 2022** for September 10 release
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022年10月 | [何かをスキャンしてPDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/mobile/scan-mobile-app.html) | ビデオ | 無料のAdobe Scanモバイルアプリを使用して、任意の紙のドキュメントをPDFに変換する方法を説明します。 | Acrobat |
-| 2022年10月 | [ページを整理](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/organize.html?lang=ja) | 更新されたビデオ | ページを好きなように並べ替える方法を学びます。すべてを数秒で実現できます。 不連続なページを挿入、置換、分割、並べ替え、回転、さらには抽出して、プロフェッショナルな外観のPDFを作成します。 | Acrobat |
-| 2022年10月 | [Dropboxのファイルの操作](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox.html?lang=en) | ビデオ | Acrobat内からDropboxファイルを開き、作成、編集、署名し、変更内容を保存する方法について説明します。 | Acrobat |
-| 2022年10月 | [Power Automate によるSharePointでのファイルの自動アーカイブ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/auto-archive-sharepoint-power-automate.html?lang=en) | ビデオ | Power Automate を使用して、署名済みドキュメントをSharePointライブラリに自動的にアーカイブする方法を説明します。 | Acrobat Sign |
-| 2022年10月 | [Salesforce でのデータマッピングの設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-data-mapping.html?) | ビデオ | Salesforce でAcrobat Signのデータマッピングを設定する方法を説明します。 データマッピングを使用すると、契約が署名された後で Salesforce にデータを取り込むことができます。 | Acrobat Sign |
-| 2022年10月 | [外部アーカイブの設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/set-up-your-external-archive.html?lang=en) | ビデオ | 署名済みの契約書のバックアップコピー用の外部アーカイブを作成する方法を説明します。 | Acrobat Sign |
-| 2022年10月 | [契約の管理と追跡](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-managing/manage-and-track.html?lang=en) | 更新されたビデオ | Acrobat Signで署名用に送信されたドキュメントを管理および追跡する方法について説明します。 | Acrobat Sign |
-| 2022年10月 | [Salesforce での結合マッピングの設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-merging-map.html?lang=en) | 更新されたビデオ | Salesforce のデータを直接Acrobat Signドキュメントに結合する方法を説明します。 | Acrobat Sign |
-| 2022年10月 | [Salesforce 用ドキュメントビルダー](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/create-an-agreement-template.html) | ビデオ | Salesforce 用 Document Builder を使用して、再利用可能なドキュメントテンプレートを作成する方法を説明します。 | Acrobat Sign |
-| 2022年10月 | [Web フォームデータの管理](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/manage-webform-data.html?lang=en) | ビデオ | Web フォームからデータをトラッキング、管理および書き出す方法について説明します。 | Acrobat Sign |
-| 2022年10月 | [Acrobat Signの液体モード](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html?lang=ja) | ビデオ | Liquid Mode によってモバイル署名エクスペリエンスを向上させる仕組みを説明します。ドキュメントの読み取りと署名を試みる際に、ピンチやズームを行わなくなりました。 | Acrobat Sign |
-| 2022年9月 | [開発者アカウントへの新規登録](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/oem/sign-up-developer-account.html?lang=en) | ビデオ | _Acrobat Sign の埋め込みクイックスタートガイド_&#x200B;のパート 1 では、Acrobat Sign API 開発者アカウントに新規登録する方法について説明します。新しい開発者アカウントは、Sign と API 機能で完全に有効になります。 | ドキュメントサービス |
-| 2022年9月 | [アプリケーションの作成](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/oem/creating-your-application.html?lang=en) | ビデオ | _Acrobat Sign の埋め込みクイックスタートガイド_&#x200B;のパート 2 では、Acrobat Sign API を使用してアプリケーションを作成する方法について説明します。 | ドキュメントサービス |
-| 2022年9月 | [埋め込みリンクの作成](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/oem/creating-an-embed-link.html?lang=en) | ビデオ | _Acrobat Sign の埋め込みクイックスタートガイド_&#x200B;のパート 3 では、OAuth 用の埋め込みリンクを作成する方法について説明します。アプリケーションは、この OAuth メソッドを使用してユーザーに対する権限を取得します。 | ドキュメントサービス |
-| 2022年9月 | [アクセストークンの生成](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/oem/generating-an-access-token.html?lang=en) | ビデオ | _Acrobat Sign の埋め込みクイックスタートガイド_&#x200B;のパート 4 では、Acrobat Sign API で使用できるアクセストークンを生成する方法について説明します。 | ドキュメントサービス |
-| 2022年9月 | [一時的なドキュメントの作成](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/oem/creating-a-transient-document.html?lang=en) | ビデオ | _Acrobat Sign の埋め込みクイックスタートガイド_&#x200B;のパート 5 では、一時的なドキュメントを作成する方法を説明します。 | ドキュメントサービス |
-| 2022年9月 | [自動調整レイアウト](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/auto-adjust-layout.html?lang=en) | ビデオ | コンテンツをリフローし、PDF のページ全体のレイアウトを自動調整する新しい編集モードについて説明します。 | Acrobat |
+| 2022年10月 | [スキャンして PDF に変換](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/mobile/scan-mobile-app.html?lang=ja) | ビデオ | 無料の Adobe Scan モバイルアプリを使用し、紙のドキュメントを PDF に変換する方法について説明します。 | Acrobat |
+| 2022年10月 | [ページを整理](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/organize.html?lang=ja) | 更新されたビデオ | 数秒で好きなようにページを並べ替える方法について説明します。連続していないページを挿入、置換、分割、並べ替え、回転、抽出し、プロフェッショナルな外観の PDF を作成します。 | Acrobat |
+| 2022年10月 | [Dropbox のファイルの操作](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox.html?lang=ja) | ビデオ | Acrobat 内から Dropbox ファイルを開き、作成、編集、署名し、変更内容を保存する方法について説明します。 | Acrobat |
+| 2022年10月 | [Power Automate による SharePoint でのファイルの自動アーカイブ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/auto-archive-sharepoint-power-automate.html?lang=ja) | ビデオ | Power Automate を使用し、署名済みドキュメントを SharePoint ライブラリに自動的にアーカイブする方法について説明します。 | Acrobat Sign |
+| 2022年10月 | [Salesforce でのデータマッピングの設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-data-mapping.html?lang=ja) | ビデオ | Salesforce で Acrobat Sign のデータマッピングを設定する方法について説明します。データマッピングを使用すると、契約書の署名後にデータを Salesforce に戻すことができます。 | Acrobat Sign |
+| 2022年10月 | [外部アーカイブの設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/set-up-your-external-archive.html?lang=jp) | ビデオ | 署名済みの契約書のバックアップコピー用の外部アーカイブを作成する方法について説明します。 | Acrobat Sign |
+| 2022年10月 | [契約書の管理とトラック](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-managing/manage-and-track.html?lang=ja) | 更新されたビデオ | Acrobat Sign で署名用に送信されたドキュメントを管理およびトラックする方法について説明します。 | Acrobat Sign |
+| 2022年10月 | [Salesforce での結合マッピングの設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-merging-map.html?lang=ja) | 更新されたビデオ | Salesforce のデータを Acrobat Sign ドキュメントに直接結合する方法について説明します。 | Acrobat Sign |
+| 2022年10月 | [Salesforce 用 Document Builder](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/create-an-agreement-template.html?lang=ja) | ビデオ | Salesforce 用 Document Builder を使用し、再利用可能なドキュメントテンプレートを作成する方法について説明します。 | Acrobat Sign |
+| 2022年10月 | [Web フォームデータの管理](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/manage-webform-data.html?lang=ja) | ビデオ | Web フォームからデータをトラック、管理および書き出す方法について説明します。 | Acrobat Sign |
+| 2022年10月 | [Acrobat Sign の Liquid Mode](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html?lang=ja) | ビデオ | Liquid Mode によってモバイル署名エクスペリエンスを向上させる仕組みを説明します。ドキュメントの読み取りと署名を試みる際に、ピンチやズームの操作が不要になりました。 | Acrobat Sign |
+| 2022年9月 | [開発者アカウントへの新規登録](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/oem/sign-up-developer-account.html?lang=ja) | ビデオ | _Acrobat Sign の埋め込みクイックスタートガイド_&#x200B;のパート 1 では、Acrobat Sign API 開発者アカウントに新規登録する方法について説明します。新しい開発者アカウントは、Sign と API 機能で完全に有効になります。 | ドキュメントサービス |
+| 2022年9月 | [アプリケーションの作成](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/oem/creating-your-application.html?lang=ja) | ビデオ | _Acrobat Sign の埋め込みクイックスタートガイド_&#x200B;のパート 2 では、Acrobat Sign API を使用してアプリケーションを作成する方法について説明します。 | ドキュメントサービス |
+| 2022年9月 | [埋め込みリンクの作成](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/oem/creating-an-embed-link.html?lang=ja) | ビデオ | _Acrobat Sign の埋め込みクイックスタートガイド_&#x200B;のパート 3 では、OAuth 用の埋め込みリンクを作成する方法について説明します。アプリケーションは、この OAuth メソッドを使用してユーザーに対する権限を取得します。 | ドキュメントサービス |
+| 2022年9月 | [アクセストークンの生成](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/oem/generating-an-access-token.html?lang=ja) | ビデオ | _Acrobat Sign の埋め込みクイックスタートガイド_&#x200B;のパート 4 では、Acrobat Sign API で使用できるアクセストークンを生成する方法について説明します。 | ドキュメントサービス |
+| 2022年9月 | [一時的なドキュメントの作成](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/oem/creating-a-transient-document.html?lang=ja) | ビデオ | _Acrobat Sign の埋め込みクイックスタートガイド_&#x200B;のパート 5 では、一時的なドキュメントを作成する方法を説明します。 | ドキュメントサービス |
+| 2022年9月 | [自動調整レイアウト](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/auto-adjust-layout.html?lang=ja) | ビデオ | コンテンツをリフローし、PDF のページ全体のレイアウトを自動調整する新しい編集モードについて説明します。 | Acrobat |
 | 2022年9月 | [カスタムページを追加](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page.html?lang=ja) | ビデオ | 何千ものテンプレートから選択できる統合 Adobe Express アプリを使用して、PDF にカスタムページを追加する方法について説明します。 | Acrobat |
-| 2022年9月 | [既存の web フォームを変更](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=en) | ビデオ | 既存の web フォームを無効化、編集、再有効化する方法について説明します。 | Acrobat Sign |
-| 2022年9月 | [レポートの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report.html?lang=en) | ビデオ | 独自のレポートを作成して、ドキュメント署名プロセスを可視化したり、個々のグループやユーザーの行動を確認したりする方法について説明します。 | Acrobat Sign |
-| 2022年9月 | [レポートグラフの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-report.html?lang=en) | 更新されたビデオ | 新しいレポートエクスペリエンスで、独自のカスタムレポートやデータエクスポートをパーソナライズされたビューで作成、保存、管理する方法について説明します。 | Acrobat Sign |
-| 2022年9月 | [カスタムワークフローの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/building-a-custom-workflow.html?lang=en) | 更新されたビデオ | ドキュメントワークフローを調整および自動化して、電子サインを取得し、フォームデータを収集し、重要なドキュメントの配信を確認して、ワークフロー管理を合理化する方法について説明します。 | Acrobat Sign |
-| 2022年9月 | [Microsoft Teams で署名用に送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/adobe-sign-teams-mortgage.html?lang=en) | 更新されたビデオ | 署名の契約を送信する方法、契約のステータスを確認する方法、Microsoft Teams 内からすべてのリマインダーを送信する方法について説明します。 | Acrobat Sign |
-| 2022年9月 | [ドキュメントへのフィールドの追加](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/adding-fields.html?lang=en) | 更新されたビデオ | ドキュメントにフィールドを自動的に配置する方法や、Acrobat Sign 内のドラッグ＆ドロップオーサリング環境を使用する方法について説明します。 | Acrobat Sign |
-| 2022年9月 | [送信オプションを設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/sending-options.html?lang=en) | 更新されたビデオ | ドキュメントを署名用に送信する際の様々なオプションを設定する方法について説明します。 | Acrobat Sign |
+| 2022年9月 | [既存の web フォームを変更](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=ja) | ビデオ | 既存の web フォームを無効化、編集、再有効化する方法について説明します。 | Acrobat Sign |
+| 2022年9月 | [レポートの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report.html?lang=ja) | ビデオ | 独自のレポートを作成して、ドキュメント署名プロセスを可視化したり、個々のグループやユーザーの行動を確認したりする方法について説明します。 | Acrobat Sign |
+| 2022年9月 | [レポートグラフの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-report.html?lang=ja) | 更新されたビデオ | 新しいレポートエクスペリエンスで、独自のカスタムレポートやデータエクスポートをパーソナライズされたビューで作成、保存、管理する方法について説明します。 | Acrobat Sign |
+| 2022年9月 | [カスタムワークフローの作成](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/building-a-custom-workflow.html?lang=ja) | 更新されたビデオ | ドキュメントワークフローを調整および自動化して、電子サインを取得し、フォームデータを収集し、重要なドキュメントの配信を確認して、ワークフロー管理を合理化する方法について説明します。 | Acrobat Sign |
+| 2022年9月 | [Microsoft Teams で署名用に送信](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/adobe-sign-teams-mortgage.html?lang=ja) | 更新されたビデオ | 署名の契約を送信する方法、契約のステータスを確認する方法、Microsoft Teams 内からすべてのリマインダーを送信する方法について説明します。 | Acrobat Sign |
+| 2022年9月 | [ドキュメントへのフィールドの追加](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/adding-fields.html?lang=ja) | 更新されたビデオ | ドキュメントにフィールドを自動的に配置する方法や、Acrobat Sign 内のドラッグ＆ドロップオーサリング環境を使用する方法について説明します。 | Acrobat Sign |
+| 2022年9月 | [送信オプションを設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/sending-options.html?lang=ja) | 更新されたビデオ | ドキュメントを署名用に送信する際の様々なオプションを設定する方法について説明します。 | Acrobat Sign |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -568,7 +568,7 @@ Document Cloud ヘルプについては、以下を参照してください。
 
 {style=&quot;table-layout:auto&quot;}
 
-最新のチュートリアルについては、[Creative Cloud エンタープライズ版チュートリアル](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=en) を参照してください。
+最新のチュートリアルについては、[Creative Cloud エンタープライズ版チュートリアル](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=ja) を参照してください。
 
 ## ![アイコン](/assets/experience-league.png) Customer Data Management - Voices {#voices}
 
