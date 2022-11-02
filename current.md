@@ -7,13 +7,13 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 4f760ba0834875bd36d4ea7a604458277cc55012
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5293'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
-# Adobe Experience Cloud リリースノート - 2022 年 11 月
+# Adobe Experience Cloud リリースノート - 2022年11月
 
 ![バナー](assets/experience-cloud-banner-3.png)
 
@@ -25,7 +25,7 @@ Experience Maker として成功するための道のりは、[Experience League
 
 このページでは、Experience Cloud 製品リリースノートページと、Experience League に関する最新のチュートリアル、コース、イベントにアクセスできます。
 
-リリース月：**2022 年 11 月**
+リリース月：**2022年11月**
 
 最終更新日：**2022年10月26日（PT）**
 
@@ -59,18 +59,18 @@ Experience League イベントでは、アドビの製品エキスパートか�
 
 今後のイベントは次のとおりです。
 
-* **[!DNL Journey Optimizer]:** 10 月 25 日～ _適切なオファーを適切なタイミングで決定管理で提供_
-* **[!DNL Workfront]:** 10 月 25 日～ _エキスパートに質問する：ワークフローとプロセスデザインのウェビナーのフォローアップ_
-* **[!DNL Analytics]:** 11 月 3 日～ _Adobe Analytics Champions のヒントとテクニック_
-* **[!DNL Workfront]:** 11 月 4 日～ _Adobe Workfront Admin Chat:Marketing &amp; Creative_
-* **[!DNL Experience Manager]:** 11 月 9 日～ _Adobe Developers Live:ヘッドレス_
-* **[!DNL Workfront]:** 11 月 9 日～ _Workfront水曜日 — コミュニティチャット_
+* **[!DNL Journey Optimizer]：** 10月25日（PT）- _意思決定管理で適切なオファーを適切なタイミングで提供_
+* **[!DNL Workfront]：** 10月25日（PT）- _エキスパートに質問：ワークフローとプロセスデザインのウェビナーのフォローアップ_
+* **[!DNL Analytics]：** 11月3日（PT）- _Adobe Analytics Champions のヒントとテクニック_
+* **[!DNL Workfront]：** 11月4日（PT）- _Adobe Workfront 管理者チャット：マーケティング＆クリエイティブ_
+* **[!DNL Experience Manager]：** 11月9日（PT）- _Adobe Developers Live：ヘッドレス_
+* **[!DNL Workfront]：** 11月9日（PT）- _Workfront Wednesday - コミュニティチャット_
 
-常に更新されるようにするには、 [イベントのExperience League](https://experienceleague.adobe.com/events/?lang=ja) 今後のイベントおよび過去のイベントに関する情報。
+常に最新の情報を把握しておくには、 [Experience League のイベント](https://experienceleague.adobe.com/events/?lang=ja)で今後のイベントや過去のイベントを参照してください。
 
 ## ![アイコン](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
-[!DNL Adobe System Status] は、アドビ製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com](https://status.adobe.com/ja) でご確認ください。
+[!DNL Adobe System Status] は、アドビ製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報、ステータス更新、電子メール通知を提供します。[status.adobe.com/ja](https://status.adobe.com/ja) でご確認ください。
 
 最新のリリース情報については、Adobe System Status の[リリースノート](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2022/02162022.html?lang=ja#status)を参照してください。
 
@@ -92,7 +92,7 @@ Experience Cloud の[主要な UI コンポーネント](https://experienceleagu
 
 [!DNL Experience Platform] と [!UICONTROL Mobile SDK] の最新リリース情報および新規ドキュメント：
 
-最新リリース： **2022 年 10 月 27 日**
+最新リリース：**2022年10月26日（PT）**
 
 * [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)
 
@@ -108,15 +108,15 @@ Adobe Experience Platform 用に公開された新しいビデオ、チュート
 
 ### [!DNL Adobe Mobile] SDK
 
-更新： **2022 年 10 月 20 日**  — 詳しくは、 [リリースノートと変更ログ](https://aep-sdks.gitbook.io/docs/release-notes) (Adobe Experience Platform Mobile SDK 用 )
+更新：**2022年10月19日（PT）**- Adobe Experience Platform Mobile SDK の[リリースノートと変更ログ](https://aep-sdks.gitbook.io/docs/release-notes)を参照してください。
 
 ## ![アイコン](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-11 月のリリース： **2022 年 10 月 27 日**
+11月のリリース：**2022年10月26日（PT）**
 
 >[!NOTE]
 >
->11 月のリリースノートは、以下の日付で入手できます。 **2022 年 10 月 27 日**.
+>11月のリリースノートは **2022年10月26日（PT）**&#x200B;に公開されます。
 
 * Adobe Analytics [リリースノート](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=ja)
 * Adobe Analytics [製品ドキュメントとチュートリアル](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)
@@ -133,10 +133,10 @@ Adobe Analytics 用に公開された新しいビデオチュートリアル、�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年11月 | [Analytics とは](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-is-analytics.html?lang=en) | 記事 | Adobe Analyticsを学ぶ前に、分析の基本について学びます。 |
-| 2022年11月 | [ダッシュボードのカスタム詳細ビューの作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/create-custom-detail-views.html?lang=en) | ビデオ | モバイルスコアカードプロジェクトを通じて関係者に伝えたいストーリーを絞り込むために、Adobe Analyticsダッシュボードのテキストを含む詳細ビューをカスタマイズする方法を説明します。 |
-| 2022年11月 | [主要指標の概要ビジュアライゼーション](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/key-metric-summary.html) | ビデオ | Analysis Workspaceでの主要指標の概要ビジュアライゼーションを説明します。このビジュアライゼーションを使用すると、1 つの期間内で重要な指標がどのようにトレンドを追跡しているかを確認できます。 また、2 つの期間にわたる指標のパフォーマンスを比較することもできます。 |
-| 2022年10月 | [Analysis Workspace の複合グラフ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/combo-charts.html) | ビデオ | Analysis Workspace での複合グラフビジュアライゼーションについて説明します。  |
+| 2022年11月 | [Analytics とは](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-is-analytics.html?lang=ja) | 記事 | Adobe Analytics を学ぶ前に、分析の基本について学びます。 |
+| 2022年11月 | [ダッシュボードのカスタム詳細ビューの作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/create-custom-detail-views.html?lang=ja) | ビデオ | Adobe Analytics ダッシュボードのテキストを含む詳細ビューをカスタマイズして、モバイルスコアカードプロジェクトを通じて関係者に伝えたいストーリーを絞り込む方法を説明します。 |
+| 2022年11月 | [主要指標の概要ビジュアライゼーション](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/key-metric-summary.html?lang=ja) | ビデオ | Analysis Workspace での主要指標の概要ビジュアライゼーションについて説明します。このビジュアライゼーションを使用すると、1 つの期間内で重要な指標が示すトレンドを確認できます。また、2 つの期間での指標のパフォーマンスを比較することもできます。 |
+| 2022年10月 | [Analysis Workspace の複合グラフ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/combo-charts.html?lang=ja) | ビデオ | Analysis Workspace での複合グラフビジュアライゼーションについて説明します。  |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -146,7 +146,7 @@ Adobe Analytics 用に公開された新しいビデオチュートリアル、�
 
 >[!NOTE]
 >
->11 月のリリースノートは、以下の日付で入手できます。 **2022 年 10 月 27 日**.
+>11月のリリースノートは **2022年10月26日（PT）**&#x200B;に公開されます。
 
 * Customer Journey Analytics [リリースノート](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=ja)
 * Customer Journey Analytics [製品ドキュメントとチュートリアル](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=ja)
@@ -181,8 +181,8 @@ New videos, tutorials, or courses published for CJA.
 アドビでは、次のリソースにアクセスして最新のリリース情報を常に確認することをお勧めします。
 
 * [Experience Manager リリースのアップデートとロードマップ](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=ja) - Experience Manager リリースのロードマップ、以前のリリースのアップデート、ドキュメントのアップデートについて説明します。
-* [Experience Managerのas a Cloud Service的なリリースアップデート](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=ja)  — の現在および過去のリリースに関する機能のビデオの概要を視聴する [!DNL Experience Manager as a Cloud Service].
-* [Adobe Experience Manager as a Cloud Serviceの最新のリリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja)  — 最新のリリースノートを読む [!DNL Experience Manager as a Cloud Service].
+* [Experience Manager as a Cloud Service リリースのアップデート](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=ja) - [!DNL Experience Manager as a Cloud Service] の現在および過去のリリースにおける機能の概要に関するビデオをご覧ください。
+* [Adobe Experience Manager as a Cloud Service の最新のリリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja) - [!DNL Experience Manager as a Cloud Service] の最新リリースノートをご覧ください。
 
 ### Experience Manager [!DNL Sites] as a [!DNL Cloud Service]
 
@@ -244,11 +244,11 @@ _新機能_
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2022年11月 | [AEMプロジェクトにサードパーティのバンドルを含める](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html) | ビデオ | AEMプロジェクトにサードパーティの OSGi バンドルを含める方法を説明します。 | AEM Forms |
-| 2022年11月 | [ECMA スクリプトを使用して、フラグメントを含むPDFドキュメントを生成します](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html) | ビデオ | XDP フラグメントを使用して PDF ファイルを生成する Output サービスの使用方法について説明します。 | AEM Forms |
-| 2022年11月 | [フラグメントを使用してPDFドキュメントを生成する](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service.html) | ビデオ | SDP フラグメントを使用してPDFファイルを生成する Output サービスの使用方法を説明します。 | AEM Forms |
-| 2022年11月 | [連結されたデータを抽出して文字列変数に保存する](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/save-submitted-data-in-string-variable.html) | ビデオ | 送信したデータを E メールの本文に含める方法を説明します。 | AEM Forms |
-| 2022年11月 | [AEM-CIF コアコンポーネントとExperience Platformの統合](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html) | ビデオ | AEMレンダリングの製品ページから CIF -Experience Platformコネクタを使用して、ストアフロントイベントデータをExperience Platformに送信する方法を説明します。 | AEM CS |
+| 2022年11月 | [AEM プロジェクトへのサードパーティバンドルの組み込み](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html?lang=ja) | ビデオ | AEM プロジェクトにサードパーティの OSGi バンドルを組み込む方法を説明します。 | AEM Forms |
+| 2022年11月 | [ECMA スクリプトを使用したフラグメント付き PDFドキュメントの生成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html?lang=ja) | ビデオ | Output サービスを利用して XDP フラグメントを使用した PDF ファイルを生成する方法について説明します。 | AEM Forms |
+| 2022年11月 | [フラグメントを使用した PDF ドキュメントの生成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service.html?lang=ja) | ビデオ |  Output サービスを利用して SDP フラグメントを使用した PDF ファイルを生成する方法を説明します。 | AEM Forms |
+| 2022年11月 | [バインドされたデータの抽出と文字列変数への保存](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/save-submitted-data-in-string-variable.html?lang=ja) | ビデオ | 送信データをメールの本文に含める方法を説明します。 | AEM Forms |
+| 2022年11月 | [AEM-CIF コアコンポーネントと Experience Platform の統合](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html?lang=ja) | ビデオ | CIF - Experience Platform コネクタを使用して、AEM でレンダリングした製品ページから Experience Platform にストアフロントイベントデータを送信する方法を説明します。 | AEM CS |
 | 2022年10月 | [AEM Forms の項目読み込みプロパティ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/using-item-load-path.html?lang=ja) | ビデオ | 項目読み込みパスプロパティを使用して、ドロップダウンリストを設定および入力する方法について説明します。 | AEM Forms CS |
 | 2022年10月 | [標準 AEM プロジェクトアーキタイプのフロントエンドパイプラインを有効にする](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/enable-frontend-pipeline-devops/overview.html?lang=ja) | ビデオ | AEM プロジェクトアーキタイプを使用して AEM WKND Sites プロジェクトを有効にし、CSS、JavaScript、フォント、アイコンなどのフロントエンドリソースをデプロイし、フロントエンドパイプラインを使用して、開発からデプロイメントまでのサイクルを高速化する方法を説明します。 | AEM Sites |
 | 2022年10月 | [Next.js アプリ](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js.html?lang=ja) | ビデオ | 永続クエリと AEM の GraphQL API を使用して、コンテンツに対してクエリを実行する方法を説明します。JavaScript 向け AEM ヘッドレスクライアントは、アプリを強化する GraphQL の永続クエリを実行するために使用されます。 | AEM Sites |
@@ -263,8 +263,8 @@ _新機能_
 
 Experience Manager のリリースノートはすべて以下のページに記載されています。
 
-* [Adobe Experience Manager as a Cloud Service リリースアップデート](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en)
-* [Adobe Experience Manager as a Cloud Service の現在のリリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
+* [Adobe Experience Manager as a Cloud Service リリースアップデート](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=ja)
+* [Adobe Experience Manager as a Cloud Service の現在のリリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja)
 * [Adobe Experience Manager as a Cloud Service リリース情報](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=ja)
 * [Adobe Experience Manager Cloud Manager リリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=ja)
 * [自動フォーム変換サービスリリースノート](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=ja)
@@ -285,7 +285,7 @@ Experience Manager のリリースノートはすべて以下のページに記�
 * [Adobe Experience Manager 6.4 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=ja)
 * [Adobe Experience Manager 6.3 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja)
 * [Adobe Experience Manager 6.2 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja#previous-updates)
-* [Adobe Experience Manager ドキュメントの以前のバージョン](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
+* [Adobe Experience Manager ドキュメントの以前のバージョン](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja#previous-updates)
 * [Dynamic Media Classic ヘルプホーム](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=ja)
 * [Adobe Experience Manager ドキュメント：最近の更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=ja#aem-as-a-cloud-service)
 
@@ -315,7 +315,7 @@ Experience Manager のリリースノートはすべて以下のページに記�
 
 ### のリリースノート [!DNL Adobe Commerce] {#release-notes-commerce}
 
-* 詳しくは、 [Adobe CommerceとMagento Open Sourceのリリースノート](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) 現在の状態を保つ
+* 最新情報について詳しくは、[Adobe Commerce および Magento Open Source のリリースノート](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=ja)を参照してください。
 
 >[!NOTE]
 >
@@ -325,9 +325,9 @@ Experience Manager のリリースノートはすべて以下のページに記�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年11月 | [セキュリティおよびコンプライアンスガイド](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/overview.html) | 製品ドキュメント | ターゲットを絞った割引やイベントを含む、Adobe Commerceのマーチャンダイジングやプロモーション機能に関する詳細情報を確認します。 |
-| 2022年10月 | [Adobe Commerce Support Knowledge Base](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/overview.html?lang=en) | サポートドキュメント | 公式ドキュメントでは、トラブルシューティングとベストプラクティス、ホストのお知らせ、FAQ への回答、および（何らかの理由で）言及されていない特定のシナリオについて説明します。 |
-| 2022年10月 | [オンプレミスでのインストールの概要](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html) | 製品ドキュメント | Adobe Commerce と Magento Open Source のオンプレミスデプロイメントのインストールプロセスについて説明します。 |
+| 2022年11月 | [セキュリティおよびコンプライアンスガイド](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/overview.html?lang=ja) | 製品ドキュメント | ターゲットを絞った割引やイベントなど、Adobe Commerce のマーチャンダイジングやプロモーション機能に関する詳細情報を説明します。 |
+| 2022年10月 | [Adobe Commerce サポートナレッジベース](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/overview.html?lang=ja) | サポートドキュメント | 公式ドキュメントでは、トラブルシューティングとベストプラクティス、ホストのお知らせ、よくある質問への回答および（何らかの理由で）記載されていない具体的なシナリオについて説明します。 |
+| 2022年10月 | [オンプレミスでのインストールの概要](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html?lang=ja) | 製品ドキュメント | Adobe Commerce と Magento Open Source のオンプレミスデプロイメントのインストールプロセスについて説明します。 |
 | 2022年10月 | [Commerce magento-cloud インフラストラクチャ)](https://experienceleague.adobe.com/docs/commerce-operations/reference/commerce.html?lang=ja) | 製品ドキュメント | Adobe Commerce magento-cloud コマンドラインツールで使用可能なすべてのコマンド、引数およびオプションについて説明します。 |
 | 2022年10月 | [Adobe Commerce のカタログサービス](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/catalog-service.html?lang=ja) | 製品ドキュメント | カタログサービスをインストールしてテストする方法について説明します。 |
 | 2022年10月 | [Adobe Commerce マーチャンダイジングおよびプロモーションガイド](https://experienceleague.adobe.com/docs/commerce-admin/marketing/guide-overview.html?lang=ja) | 製品ドキュメント | ターゲットを絞った割引やイベントなど、マーチャンダイジングおよびプロモーションの機能についてお読みください。 |
@@ -336,9 +336,9 @@ Experience Manager のリリースノートはすべて以下のページに記�
 
 ## ![アイコン](/assets/target.png) [!DNL Adobe Target] {#target}
 
-最終更新日：**2022 年 10 月 19 日（PT）**
+最終更新日：**2022年10月19日（PT）**
 
-次回の予定リリース： **10 月 25 日～27 日**
+次回の予定リリース：**10月25～27日（PT）**
 * プレリリース情報については、[Adobe Target プレリリース](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ja)を参照
 * 現在の情報については、[Adobe Target リリースノート](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=ja)を参照
 
@@ -357,16 +357,16 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2022年10月 | [マーケター向けの意思決定管理の概要](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=ja) | ビデオ | セグメントビルダーインターフェイスで列挙フィールドと推奨値を使用して、わかりやすいドロップダウンメニューを作成する方法を説明します。 | Campaign v8 |
-| 2022年10月 | [Adobe Campaign の SMS の設定](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms) | コース | Campaign インスタンスを SMTP プロバイダーに接続する方法と、設定を分析し、トラブルシューティングを行う方法について説明します。 | Campaign v8 |
+| 2022年10月 | [Adobe Campaign の SMS の設定](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms&amp;lang=ja) | コース | Campaign インスタンスを SMTP プロバイダーに接続する方法と、設定を分析し、トラブルシューティングを行う方法について説明します。 | Campaign v8 |
 | 2022年10月 | [完全なサブドメインデリゲーション](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/subdomains-and-certificates/subdomain-delegation.html?lang=ja) | 更新されたビデオ | サブドメインを Adobe Campaign に完全にデリゲートする方法を説明します。 | コントロールパネル |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Campaign ヘルプリソース
 
-* Adobe Campaign v8：[ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [実装ガイド](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html)
-* Adobe Campaign Standard：[Campaign Standard ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja) - [リリース計画](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ja)
-* Adobe Campaign Classic：[Campaign Classic v7 ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ja)
+* Adobe Campaign v8：[ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=ja) - [実装ガイド](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html?lang=ja)
+* Adobe Campaign Standard：[Campaign Standard ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja) - [リリース計画](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ja)
+* Adobe Campaign Classic：[Campaign Classic v7 ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ja)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=ja) のハウツービデオ
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
@@ -383,16 +383,16 @@ Adobe [!DNL Journey Optimizer] 向けに新しく公開されたビデオ、チ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | --------- | ---------- |
-| 2022年11月 | [条件ルールビルダーで動的コンテンツを作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/create-dynamic-content.html?lang=en) | ビデオ | 条件ルールを作成および保存する方法と、それらの条件ルールをすべてのチャネルのコンテンツに適用する方法について説明します。 |
-| 2022年10月 | [別のサンドボックスへのジャーニーのコピー](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/copy-a-journey.html?lang=en) | ビデオ | ジャーニーとその依存オブジェクトをサンドボックス間でコピーする方法を説明します。 |
-| 2022年10月 | [アラートを使用](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts.html?lang=en) | ビデオ | 予期しないジャーニー動作に対して事前定義済みのアラートを購読し、メール、Journey Optimizer 内、または API を使用して通知を受け取る方法を説明します。 |
+| 2022年11月 | [条件ルールビルダーでの動的コンテンツの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/create-dynamic-content.html?lang=ja) | ビデオ | 条件ルールを作成および保存する方法と、それらの条件ルールをすべてのチャネルのコンテンツに適用する方法について説明します。 |
+| 2022年10月 | [別のサンドボックスへのジャーニーのコピー](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/copy-a-journey.html?lang=ja) | ビデオ | ジャーニーとその依存オブジェクトをサンドボックス間でコピーする方法を説明します。 |
+| 2022年10月 | [アラートを使用](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts.html?lang=ja) | ビデオ | 予期しないジャーニー動作に対して事前定義済みのアラートを購読し、メール、Journey Optimizer 内、または API を使用して通知を受け取る方法を説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Journey Optimizer] のその他のリソース
 
-* [Journey Optimizer ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja)
-* [意思決定管理ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=ja) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ja)
+* [Journey Optimizer ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja)
+* [意思決定管理ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=ja) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ja)
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
@@ -404,7 +404,7 @@ Experience Platform を使用すると、各個人のニーズをリアルタイ
 
 #### [!DNL Journey Orchestration] のその他のリソース
 
-* [Journey Orchestration ドキュメント](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ja) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ja)
+* [Journey Orchestration ドキュメント](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ja) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ja)
 
 ## ![アイコン](/assets/marketo.png) [!DNL Adobe Marketo Engage] {#marketo}
 
@@ -470,28 +470,28 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising Cloud DSP] の新機能 {#adcloud-dsp}
 
-最終更新日：**2022 年 10 月 6 日（PT）**
+最終更新日：**2022年10月6日（PT）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL キャンペーン] | （10 月 6 日リリース）新しいペーシング関連指標列を [!UICONTROL キャンペーン] ビュー： **[!UICONTROL 昨日の OTS]** （目標支出） **[!UICONTROL 昨日の配達]**, **[!UICONTROL 昨日の目標]**, **[!UICONTROL 今日の OTS]** （目標支出） **[!UICONTROL 今日の配信]**、および **[!UICONTROL 今日の目標]**. |
+| [!UICONTROL キャンペーン] | （10月6日（PT）リリース）次に示す新しいペーシング関連の指標列を[!UICONTROL キャンペーン]ビューで使用できるようになりました。**[!UICONTROL 昨日の OTS]**（支出目標）、**[!UICONTROL 昨日の配信]**、**[!UICONTROL 昨日の目標]**、**[!UICONTROL 今日の OTS]**（支出目標）、**[!UICONTROL 今日の配信]**、および **[!UICONTROL 今日の目標]**。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Cloud Search] の新機能 {#adcloud-search}
 
-最終更新日： **2022 年 10 月 15 日** （10 月 15 日リリース）
+最終更新日：**2022年10月14日（PT）**、10月15日（PT）リリース
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL ポートフォリオ], [!UICONTROL キャンペーン] | （オプトインベータ版の機能）新しい **[!UICONTROL ネットワーク支出の制約]** 「 」オプションを使用すると、マルチネットワークポートフォリオ内の特定の広告ネットワークに対する予算割り当ての制限を定義できます。 このオプションは、毎日、毎週、毎月の支出戦略を持つポートフォリオの場合にのみ、 **[!UICONTROL キャンペーンの最大支出目標%を有効にする]** オプションが有効になっていません。 次の場合に **[!UICONTROL キャンペーン予算の制限を自動調整]** 「 」オプションが選択されている場合、キャンペーンの予算の複数設定および最小設定に対して設定された値内で制約が機能します。<br><br>での新しいネットワーク制約レポート [!UICONTROL 基本レポート] ポートフォリオで指定された最小および最大の検索エンジン予算と実際の費用（コスト）がすべて表示されます。<br><br>ベータ版プログラムに参加するには、アカウントチームにお問い合わせください。 |
-| キャンペーン、バルクシート、レポート | ( ベータ版の [!DNL Microsoft® Advertising] アカウント ) [!DNL Microsoft® Audience Network]:<ul><li>オーディエンスキャンペーンのステータス（キャンペーンタイプ）を作成、編集および変更できるようになりました **[!UICONTROL オーディエンス（画像）]** または **[!UICONTROL オーディエンス（フィード）]**)、広告グループ ( 広告グループタイプ **[!UICONTROL 対象ユーザ]**) および広告（クリエイティブタイプ） **[!UICONTROL レスポンシブ広告]**) を [!UICONTROL キャンペーン] bulksheets を表示して使用します。</li><li>既存のオーディエンスキャンペーンを、テーブルおよびトレンドグラフ形式のパフォーマンスデータと共に、 [!UICONTROL キャンペーン] 表示 広告レベルのパフォーマンスデータは、レポートおよびAdobe Analytics( [!DNL Analytics] 統合 )。</li></ul>最適化のサポートは、今後のリリースで利用できるようになります。 |
-|  | ( ベータ版の [!DNL Microsoft® Advertising] アカウント ) 検索キャンペーンで、マルチメディア広告を作成および管理できるようになりました。 [!UICONTROL キャンペーン] bulksheets の表示と使用 広告にはクリエイティブタイプがあります **[!UICONTROL マルチメディア広告]**.<br><br>マルチメディア広告を含むキャンペーンを標準ポートフォリオまたはハイブリッドポートフォリオに含めることができます。ただし、 [!UICONTROL Target インプレッション共有] （ハイブリッドポートフォリオでは、まだサポートされていません）。<br><br>既存のオーディエンスキャンペーンを、テーブルおよびトレンドグラフ形式のパフォーマンスデータと共に、 [!UICONTROL キャンペーン] 表示 広告レベルのパフォーマンスデータは、レポートや [!DNL Analytics] ( [!DNL Analytics] 統合 )。 |
-| [!UICONTROL キャンペーン]、[!UICONTROL レポート] | ( ベータ版の [!DNL Google Ads] および [!DNL Microsoft® Advertising] アカウント ) 投稿者のインプレッション共有指標は、次のキャンペーン管理ビューおよびレポートで列として使用できるようになりました。<ul><li>キャンペーン管理ビュー：以下を除くすべてのキャンペーンエンティティビュー [!UICONTROL 広告]. <b>注意：</b> 広告レベルのデータは、広告ネットワークからは利用できません。</li><li>基本レポート：を除くすべてのレポート [!UICONTROL 広告バリエーション], [!UICONTROL キャンペーン 1 時間ごと]、および [!UICONTROL ネットワーク制約] レポート。 <b>注意：</b> 広告レベルのデータは、広告ネットワークからは利用できません。</li><li>専門レポート： [!UICONTROL Adwords と Bing Audience Target], [!UICONTROL 日別インプレッション共有キャンペーン]、および [!UICONTROL キーワード日別インプレッション共有] レポート。</li></ul><b>注意：</b> これは、 [!UICONTROL 日別インプレッション共有キャンペーン] および [!UICONTROL キーワード日別インプレッション共有] 現在はレポートが冗長化され、将来のリリースで削除されます。 これらのレポートタイプを予定レポート、テンプレートまたはスプレッドシートフィードで使用する場合は、 [!UICONTROL Campaign] および [!UICONTROL キーワード] レポートを使用します。 それまでの間、一部の既存の指標は、これらのレポートタイプで重複します。 |
-| [!UICONTROL コンバージョン値ルール] | ([!DNL Google Ads accounts])  [!UICONTROL コンバージョン値のルール] 表示はベータ版ではなくなり、通常は利用可能です。 既存の [!DNL Google Ads] コンバージョン値のルール。 個々のアカウントレベル以下で [!DNL Google Ads] のコンバージョントラッキングを使用している広告主は、ルールを作成して管理することもできます。 |
-| [!UICONTROL 広告インサイト] | この [!UICONTROL インプレッション共有が失われました] および [!UICONTROL クエリのクロスマッチング] 分析は現在ベータ版ではなくなり、通常は利用可能です。 |
-| [!UICONTROL 推奨事項] | ([!DNL Google Ads] アカウントのみ ) [!UICONTROL Recommendations] 機能はベータ版から廃止され、通常は利用可能です。<ul><li>すべてを一目で確認 [!DNL Google Ads] アカウントに対して実行されていないレコメンデーション。</li><li>アカウントのレコメンデーションを適用および却下します。</li><li>アカウントに適用された各レコメンデーションのログを表示します。</li></ul> |
-| **[!UICONTROL キャンペーンのインポート]** | （ベータ版機能） [!DNL Google Ads] パフォーマンス最大キャンペーン（ローカルの在庫広告を含む）を [!DNL Microsoft® Advertising] ～からのスマートショッピングキャンペーン **[!UICONTROL ツール]** > **[!UICONTROL キャンペーンのインポート]**. キャンペーンをインポートすると、インポートジョブのステータスの確認、エラーログの確認、インポートスケジュールの編集、一時停止、削除ができます。 |
+| [!UICONTROL ポートフォリオ]、[!UICONTROL キャンペーン] | （オプトインベータ版の機能）新しい「**[!UICONTROL ネットワーク支出の制約]**」オプションを使用すると、マルチネットワークポートフォリオ内の特定の広告ネットワークに対する予算割り当ての制限を定義できます。このオプションは、「**[!UICONTROL キャンペーンの最大支出目標％を有効にする]**」オプションが有効になっていない場合に限り、日次、週次、月次の支出戦略を持つポートフォリオで使用できます。「**[!UICONTROL キャンペーン予算制限を自動調整]**」オプションが選択されている場合、複数および最小のキャンペーンの予算設定に対して設定された値内で制約が機能します。<br><br>[!UICONTROL 基本レポート]の新しいネットワーク制約レポートでは、ポートフォリオで指定された最小および最大の検索エンジン予算と実際の費用（コスト）がすべて表示されます。<br><br>ベータ版プログラムに参加するには、アカウントチームにお問い合わせください。 |
+| キャンペーン、バルクシート、レポート | （[!DNL Microsoft® Advertising] アカウントのベータ版機能）[!DNL Microsoft® Audience Network] でキャンペーンに対して使用可能となったサポートは次のとおりです。<ul><li>オーディエンスキャンペーンのステータス（キャンペーンタイプ&#x200B;**[!UICONTROL オーディエンス（画像）]**&#x200B;または&#x200B;**[!UICONTROL オーディエンス（フィード）]**）、広告グループ（広告グループタイプ&#x200B;**[!UICONTROL オーディエンス]**）および広告（クリエイティブタイプ&#x200B;**[!UICONTROL レスポンシブ広告]**）を[!UICONTROL キャンペーン]ビューおよび bulksheets を使用して、作成、編集および変更できるようになりました。</li><li>[!UICONTROL キャンペーン]ビューで、テーブル形式およびトレンドグラフ形式のパフォーマンスデータとともに、既存のオーディエンスキャンペーンを表示できます。また、広告レベルのパフォーマンスデータは、レポートや Adobe Analytics でも入手できます（[!DNL Analytics] 統合を利用する広告主向け）。</li></ul>最適化のサポートは、今後のリリースで利用できるようになります。 |
+|  | （[!DNL Microsoft® Advertising] アカウントのベータ版機能）検索キャンペーンで、[!UICONTROL キャンペーン]ビューおよび bulksheets を使用して、マルチメディア広告を作成および管理できるようになりました。広告には、クリエイティブタイプの&#x200B;**[!UICONTROL マルチメディア広告]**&#x200B;があります。<br><br>マルチメディア広告を使用したキャンペーンは、標準ポートフォリオまたはハイブリッドポートフォリオのいずれにも、[!UICONTROL ターゲットインプレッション共有]を除く任意の支出戦略に含めることができます（ターゲットインプレッション共有は、ハイブリッドポートフォリオではまだサポートされていません）。<br><br>[!UICONTROL キャンペーン]ビューで、パフォーマンスデータをデーブル形式およびトレンドグラフ形式で、既存のオーディエンスキャンペーンを表示できます。広告レベルのパフォーマンスデータは、レポートや [!DNL Analytics] でも入手できます（[!DNL Analytics] 統合を利用する広告主向け）。 |
+| [!UICONTROL キャンペーン]、[!UICONTROL レポート] | （[!DNL Google Ads] アカウントおよび [!DNL Microsoft® Advertising] アカウントのベータ版機能）投稿者インプレッション共有指標は、次のキャンペーン管理ビューおよびレポートで列として使用できるようになりました。<ul><li>キャンペーン管理ビュー：[!UICONTROL 広告]を除くすべてのキャンペーンエンティティビュー。<b>メモ：</b>広告レベルのデータは、広告ネットワークからは利用できません。</li><li>基本レポート：[!UICONTROL 広告バリエーション]レポート、[!UICONTROL 時間別キャンペーン]レポートおよび[!UICONTROL ネットワーク制約]レポートを除くすべてのレポート。<b>メモ：</b>広告レベルのデータは、広告ネットワークからは入手できません。</li><li>専門レポート：[!UICONTROL AdWords と Bing Audience Target] レポート、[!UICONTROL キャンペーン日別インプレッション共有]レポートおよび[!UICONTROL キーワード日別インプレッション共有]レポート。</li></ul><b>メモ：</b>[!UICONTROL キャンペーン日別インプレッション共有]レポートと[!UICONTROL キーワード日別インプレッション共有]レポートは冗長になったので、今後のリリースでは削除される予定です。これらのレポートタイプを予定レポート、テンプレートまたはスプレッドシートフィードで使用している場合は、代わりに[!UICONTROL キャンペーン]レポートと[!UICONTROL キーワード]レポートを使用するように変更します。それまでの間、これらのレポートタイプでは、既存の指標の一部が重複します。 |
+| [!UICONTROL コンバージョン値ルール] | （[!DNL Google Ads accounts]）[!UICONTROL コンバージョン値ルール]ビューはベータ版ではなくなり、一般公開されています。これを使用すると、既存の [!DNL Google Ads] コンバージョン値ルールを確認できます。個々のアカウントレベル以下で [!DNL Google Ads] のコンバージョントラッキングを使用している広告主は、ルールを作成し管理することもできます。 |
+| [!UICONTROL 広告インサイト] | [!UICONTROL インプレッション共有の消失]分析と[!UICONTROL クエリクロスマッチング]分析は現在ベータ版ではなくなり、一般公開されています。 |
+| [!UICONTROL Recommendations] | （[!DNL Google Ads] アカウントのみ）[!UICONTROL Recommendations] 機能はベータ版ではなくなり、一般公開されています。<ul><li>アカウントの行動に反映されていないすべての [!DNL Google Ads] レコメンデーションを一目で確認できます。</li><li>アカウントのレコメンデーションを適用および却下します。</li><li>アカウントに適用された各レコメンデーションのログを表示します。</li></ul> |
+| **[!UICONTROL キャンペーンのインポート]** | （ベータ版機能）ローカル在庫広告などの [!DNL Google Ads] パフォーマンス最大化キャンペーンを、**[!UICONTROL ツール]**／**[!UICONTROL キャンペーンをインポート]**&#x200B;で [!DNL Microsoft® Advertising] スマートショッピングキャンペーンにインポートできます。キャンペーンをインポートすると、インポートジョブのステータスの確認、エラーログの確認、インポートスケジュールの編集、一時停止、削除ができます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -501,8 +501,8 @@ Last updated: **August 9, 2022**
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2022年11月 | [D-Trust を使用して登録および署名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/dtrust/d-trust.html?lang=en) | ビデオ | D-Trust に ID を登録し、ドキュメントで D-Trust のデジタル署名を使用する方法を説明します。 | Acrobat Sign |
-| 2022年11月 | [新規管理者向け入門](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/get-started-admin.html) | ビデオ | この包括的なビデオガイドでは、組織を立ち上げて実行するために必要なすべてのツールについて説明します。 | Acrobat Sign |
+| 2022年11月 | [D-Trust を使用した登録と署名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/dtrust/d-trust.html?lang=ja) | ビデオ | D-Trust を使用して ID を登録し、ドキュメントで D-Trust デジタル署名を使用する方法を説明します。 | Acrobat Sign |
+| 2022年11月 | [新しい管理者向けの基礎知識](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/get-started-admin.html?lang=ja) | ビデオ | この包括的なビデオガイドでは、組織の立ち上げと運用に必要なすべてのツールについて説明します。 | Acrobat Sign |
 | 2022年10月 | [スキャンして PDF に変換](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/mobile/scan-mobile-app.html?lang=ja) | ビデオ | 無料の Adobe Scan モバイルアプリを使用し、紙のドキュメントを PDF に変換する方法について説明します。 | Acrobat |
 | 2022年10月 | [ページを整理](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/organize.html?lang=ja) | 更新されたビデオ | 数秒で好きなようにページを並べ替える方法について説明します。連続していないページを挿入、置換、分割、並べ替え、回転、抽出し、プロフェッショナルな外観の PDF を作成します。 | Acrobat |
 | 2022年10月 | [Dropbox のファイルの操作](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox.html?lang=ja) | ビデオ | Acrobat 内から Dropbox ファイルを開き、作成、編集、署名し、変更内容を保存する方法について説明します。 | Acrobat |
@@ -529,13 +529,13 @@ Document Cloud ヘルプについては、以下を参照してください。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年11月 | [驚くべきデジタルアセット](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/stocktutorials/stunning-digital-assets.html?lang=en) | PDF | Adobe Stockと CC ライブラリを統合して、印刷と画面に対して一貫性のあるプロフェッショナルなデザイン結果を作成する方法については、この実践チュートリアルを参照してください。 |
-| 2022年11月 | [CC ライブラリで CC ワークフローを改善する](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/cc-workflows-cc-libraries.html?lang=en) | PDF | Creative Cloudライブラリでデザイン要素を一緒に保ち、デザイナーやチームのプロジェクトの一貫性を確保する方法については、実践チュートリアルで説明します。 |
-| 2022年11月 | [Frame.io でのビデオレビュー](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html?lang=en) | PDF | Adobe Premiere Proの Frame.io 拡張機能を使用して、アセットを一元管理し、共有し、リアルタイムコメントを受け取り、改訂を追跡し、迅速な承認を得る方法を、この実践チュートリアルのタイムラインを離れることなく学習します。 |
+| 2022年11月 | [魅力的なデジタルアセット](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/stocktutorials/stunning-digital-assets.html?lang=ja) | PDF | この実践チュートリアルでは、Adobe Stock と CC ライブラリを統合して、印刷物と画面上で一貫性のあるプロフェッショナルなデザイン結果を作成する方法を説明します。 |
+| 2022年11月 | [CC ライブラリによる CC ワークフローの改善](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/cc-workflows-cc-libraries.html?lang=ja) | PDF | この実践チュートリアルでは、Creative Cloud ライブラリでデザイン要素をまとめ、デザイナーやチームにとってのプロジェクトの一貫性を確保する方法を説明します。 |
+| 2022年11月 | [Frame.io のビデオレビュー](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html?lang=ja) | PDF | この実践チュートリアルでは、Adobe Premiere Pro の Frame.io 拡張機能を使用して、アセットを一元管理して共有し、リアルタイムのコメントを受け取り、修正をトラックし、タイムラインを離れることなく迅速に承認を得る方法を説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
 
-最新のチュートリアルについては、[Creative Cloud エンタープライズ版チュートリアル](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=en) を参照してください。
+最新のチュートリアルについては、[Creative Cloud エンタープライズ版チュートリアル](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=ja) を参照してください。
 
 ## ![アイコン](/assets/experience-league.png) Customer Data Management - Voices {#voices}
 
