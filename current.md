@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 531e5fc5b1574e7798458d7c7f19a4c0f22ea7c6
+source-git-commit: ece304539959b8aa223e378f365852277213822f
 workflow-type: tm+mt
-source-wordcount: '5305'
-ht-degree: 99%
+source-wordcount: '4939'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ Experience Maker として成功するための道のりは、[Experience League
 
 このページでは、Experience Cloud 製品リリースノートページと、Experience League に関する最新のチュートリアル、コース、イベントにアクセスできます。
 
-最終更新日：**2022 年 11 月 14 日（PT）**
+最終更新日：**2022 年 11 月 17 日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -449,8 +449,9 @@ Experience League の新しい [!DNL Workfront] コースと チュートリア�
 リリースノート：[!DNL Adobe Advertising Cloud]
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-* [ [!DNL Advertising Cloud DSP] の新機能](#adcloud-dsp)
+<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
 * [ [!DNL Advertising Cloud Search] の新機能](#adcloud-search)
+
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -466,30 +467,26 @@ Last updated: **August 9, 2022**
 
 -->
 
-### [!DNL Advertising Cloud DSP] の新機能 {#adcloud-dsp}
+<!--
+### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-最終更新日：**2022年10月6日（PT）**
+Last updated: **October 6, 2022**
 
-| 機能 | 説明 |
+| Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL キャンペーン] | （10月6日（PT）リリース）次に示す新しいペーシング関連の指標列を[!UICONTROL キャンペーン]ビューで使用できるようになりました。**[!UICONTROL 昨日の OTS]**（支出目標）、**[!UICONTROL 昨日の配信]**、**[!UICONTROL 昨日の目標]**、**[!UICONTROL 今日の OTS]**（支出目標）、**[!UICONTROL 今日の配信]**、および **[!UICONTROL 今日の目標]**。 |
+| [!UICONTROL Campaigns] | (October 6 release) New pacing-related metric columns are available for the [!UICONTROL Campaigns] views: **[!UICONTROL Yesterday's OTS]** (on target spend), **[!UICONTROL Yesterday's delivery]**, **[!UICONTROL Yesterday's goal]**, **[!UICONTROL Today's OTS]** (on target spend), **[!UICONTROL Today's delivery]**, and **[!UICONTROL Today's Goal]**. |
 
-{style=&quot;table-layout:auto&quot;}
+-->
 
 ### [!DNL Advertising Cloud Search] の新機能 {#adcloud-search}
 
-最終更新日：**2022年10月14日（PT）**、10月15日（PT）リリース
+最終更新日： **2022 年 11 月 18 日** （11 月 15 日リリース）
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL ポートフォリオ]、[!UICONTROL キャンペーン] | （オプトインベータ版の機能）新しい「**[!UICONTROL ネットワーク支出の制約]**」オプションを使用すると、マルチネットワークポートフォリオ内の特定の広告ネットワークに対する予算割り当ての制限を定義できます。このオプションは、「**[!UICONTROL キャンペーンの最大支出目標％を有効にする]**」オプションが有効になっていない場合に限り、日次、週次、月次の支出戦略を持つポートフォリオで使用できます。「**[!UICONTROL キャンペーン予算制限を自動調整]**」オプションが選択されている場合、複数および最小のキャンペーンの予算設定に対して設定された値内で制約が機能します。<br><br>[!UICONTROL 基本レポート]の新しいネットワーク制約レポートでは、ポートフォリオで指定された最小および最大の検索エンジン予算と実際の費用（コスト）がすべて表示されます。<br><br>ベータ版プログラムに参加するには、アカウントチームにお問い合わせください。 |
-| キャンペーン、バルクシート、レポート | （[!DNL Microsoft® Advertising] アカウントのベータ版機能）[!DNL Microsoft® Audience Network] でキャンペーンに対して使用可能となったサポートは次のとおりです。<ul><li>オーディエンスキャンペーンのステータス（キャンペーンタイプ&#x200B;**[!UICONTROL オーディエンス（画像）]**&#x200B;または&#x200B;**[!UICONTROL オーディエンス（フィード）]**）、広告グループ（広告グループタイプ&#x200B;**[!UICONTROL オーディエンス]**）および広告（クリエイティブタイプ&#x200B;**[!UICONTROL レスポンシブ広告]**）を[!UICONTROL キャンペーン]ビューおよび bulksheets を使用して、作成、編集および変更できるようになりました。</li><li>[!UICONTROL キャンペーン]ビューで、テーブル形式およびトレンドグラフ形式のパフォーマンスデータとともに、既存のオーディエンスキャンペーンを表示できます。また、広告レベルのパフォーマンスデータは、レポートや Adobe Analytics でも入手できます（[!DNL Analytics] 統合を利用する広告主向け）。</li></ul>最適化のサポートは、今後のリリースで利用できるようになります。 |
-|  | （[!DNL Microsoft® Advertising] アカウントのベータ版機能）検索キャンペーンで、[!UICONTROL キャンペーン]ビューおよび bulksheets を使用して、マルチメディア広告を作成および管理できるようになりました。広告には、クリエイティブタイプの&#x200B;**[!UICONTROL マルチメディア広告]**&#x200B;があります。<br><br>マルチメディア広告を使用したキャンペーンは、標準ポートフォリオまたはハイブリッドポートフォリオのいずれにも、[!UICONTROL ターゲットインプレッション共有]を除く任意の支出戦略に含めることができます（ターゲットインプレッション共有は、ハイブリッドポートフォリオではまだサポートされていません）。<br><br>[!UICONTROL キャンペーン]ビューで、パフォーマンスデータをデーブル形式およびトレンドグラフ形式で、既存のオーディエンスキャンペーンを表示できます。広告レベルのパフォーマンスデータは、レポートや [!DNL Analytics] でも入手できます（[!DNL Analytics] 統合を利用する広告主向け）。 |
-| [!UICONTROL キャンペーン]、[!UICONTROL レポート] | （[!DNL Google Ads] アカウントおよび [!DNL Microsoft® Advertising] アカウントのベータ版機能）投稿者インプレッション共有指標は、次のキャンペーン管理ビューおよびレポートで列として使用できるようになりました。<ul><li>キャンペーン管理ビュー：[!UICONTROL 広告]を除くすべてのキャンペーンエンティティビュー。<b>メモ：</b>広告レベルのデータは、広告ネットワークからは利用できません。</li><li>基本レポート：[!UICONTROL 広告バリエーション]レポート、[!UICONTROL 時間別キャンペーン]レポートおよび[!UICONTROL ネットワーク制約]レポートを除くすべてのレポート。<b>メモ：</b>広告レベルのデータは、広告ネットワークからは入手できません。</li><li>専門レポート：[!UICONTROL AdWords と Bing Audience Target] レポート、[!UICONTROL キャンペーン日別インプレッション共有]レポートおよび[!UICONTROL キーワード日別インプレッション共有]レポート。</li></ul><b>メモ：</b>[!UICONTROL キャンペーン日別インプレッション共有]レポートと[!UICONTROL キーワード日別インプレッション共有]レポートは冗長になったので、今後のリリースでは削除される予定です。これらのレポートタイプを予定レポート、テンプレートまたはスプレッドシートフィードで使用している場合は、代わりに[!UICONTROL キャンペーン]レポートと[!UICONTROL キーワード]レポートを使用するように変更します。それまでの間、これらのレポートタイプでは、既存の指標の一部が重複します。 |
-| [!UICONTROL コンバージョン値ルール] | （[!DNL Google Ads accounts]）[!UICONTROL コンバージョン値ルール]ビューはベータ版ではなくなり、一般公開されています。これを使用すると、既存の [!DNL Google Ads] コンバージョン値ルールを確認できます。個々のアカウントレベル以下で [!DNL Google Ads] のコンバージョントラッキングを使用している広告主は、ルールを作成し管理することもできます。 |
-| [!UICONTROL 広告インサイト] | [!UICONTROL インプレッション共有の消失]分析と[!UICONTROL クエリクロスマッチング]分析は現在ベータ版ではなくなり、一般公開されています。 |
-| [!UICONTROL Recommendations] | （[!DNL Google Ads] アカウントのみ）[!UICONTROL Recommendations] 機能はベータ版ではなくなり、一般公開されています。<ul><li>アカウントの行動に反映されていないすべての [!DNL Google Ads] レコメンデーションを一目で確認できます。</li><li>アカウントのレコメンデーションを適用および却下します。</li><li>アカウントに適用された各レコメンデーションのログを表示します。</li></ul> |
-| **[!UICONTROL キャンペーンのインポート]** | （ベータ版機能）ローカル在庫広告などの [!DNL Google Ads] パフォーマンス最大化キャンペーンを、**[!UICONTROL ツール]**／**[!UICONTROL キャンペーンをインポート]**&#x200B;で [!DNL Microsoft® Advertising] スマートショッピングキャンペーンにインポートできます。キャンペーンをインポートすると、インポートジョブのステータスの確認、エラーログの確認、インポートスケジュールの編集、一時停止、削除ができます。 |
+| キャンペーン、バルクシート、レポート | ([!DNL Microsoft® Advertising] アカウント ) [!DNL Microsoft® Audience Network] はベータ版から削除されました。<ul><li>オーディエンスキャンペーンのステータス ( キャンペーンタイプ「[!UICONTROL オーディエンス（画像）]&quot;または&quot;[!UICONTROL オーディエンス（フィード）]&quot;)、広告グループ ( 広告グループタイプ&quot;[!UICONTROL 対象ユーザ]&quot;)、および広告 ( クリエイティブタイプ&quot;[!UICONTROL レスポンシブ広告]」) を [!UICONTROL キャンペーン] bulksheets を表示して使用します。</li><li>[!UICONTROL キャンペーン]ビューで、テーブル形式およびトレンドグラフ形式のパフォーマンスデータとともに、既存のオーディエンスキャンペーンを表示できます。また、広告レベルのパフォーマンスデータは、レポートや Adobe Analytics でも入手できます（[!DNL Analytics] 統合を利用する広告主向け）。</li></ul>最適化のサポートは、今後のリリースで利用できるようになります。 |
+|  | ([!DNL Microsoft® Advertising] アカウント ) マルチメディア広告のサポートは、ベータ版から終了しました。 検索キャンペーンでマルチメディア広告を作成および管理するには、 [!UICONTROL キャンペーン] bulksheets の表示と使用 広告にはクリエイティブタイプ「[!UICONTROL マルチメディア広告]」があります。<br><br>マルチメディア広告のあるキャンペーンは、[!UICONTROL ターゲットインプレッション共有]（ハイブリッドポートフォリオではまだサポートされていません）以外の支出戦略を使用する、標準ポートフォリオまたはハイブリッドポートフォリオに含めることができます。<br><br>[!UICONTROL キャンペーン]ビューで、パフォーマンスデータをデーブル形式およびトレンドグラフ形式で、既存のオーディエンスキャンペーンを表示できます。広告レベルのパフォーマンスデータは、レポートや [!DNL Analytics] でも入手できます（[!DNL Analytics] 統合を利用する広告主向け）。 |
+| [!UICONTROL オーディエンス], [!UICONTROL レポート] | ( ベータ版の [!DNL Microsoft® Advertising] アカウント ) [!DNL Microsoft® Advertising] 動的リマーケティングオーディエンスが同期され、で使用できるようになりました。 [!UICONTROL キャンペーン] > [!UICONTROL オーディエンス] と [!UICONTROL オーディエンスタイプ] &quot;[!UICONTROL 動的リマーケティング] &lt;*VisitorType*>」（「Dynamic Remarketing Past Buyers」など）に置き換えます。 また、動的なリマーケティングオーディエンスを作成、更新、削除することもできます。<br><br>オーディエンスをキャンペーンレベルおよび広告グループレベルの広告ターゲットおよび除外として使用できます。 ターゲットには入札修飾子を含めることができます。 **注意：** 動的リマーケティングオーディエンスターゲットの入札修飾子が、「[!UICONTROL 入札調整値の自動最適化]&quot;設定中です。<br><br>動的リマーケティングオーディエンスのデータは、 [!UICONTROL Audience Target レポート]. |
 
 {style=&quot;table-layout:auto&quot;}
 
