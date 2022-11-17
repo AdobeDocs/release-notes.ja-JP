@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ece304539959b8aa223e378f365852277213822f
+source-git-commit: 843063e0d596a197966d1b5d28b52415f9349a40
 workflow-type: tm+mt
-source-wordcount: '4939'
-ht-degree: 96%
+source-wordcount: '4997'
+ht-degree: 93%
 
 ---
 
@@ -27,7 +27,7 @@ Experience Maker として成功するための道のりは、[Experience League
 
 最終更新日：**2022 年 11 月 17 日（PT）**
 
-* [[!DNL Experience League] イベント](#events)
+* [[!DNL Experience League] イベント](#events) ( 更新済み **11 月 18 日**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 主要なインターフェイスコンポーネントと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -55,16 +55,13 @@ Experience Maker として成功するための道のりは、[Experience League
 
 Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。
 
-今後のイベントは次のとおりです。
+今後のイベント：
 
-* **[!DNL Journey Optimizer]：** 10月25日（PT）- _意思決定管理で適切なオファーを適切なタイミングで提供_
-* **[!DNL Workfront]：** 10月25日（PT）- _エキスパートに質問：ワークフローとプロセスデザインのウェビナーのフォローアップ_
-* **[!DNL Analytics]：** 11月3日（PT）- _Adobe Analytics Champions のヒントとテクニック_
-* **[!DNL Workfront]：** 11月4日（PT）- _Adobe Workfront 管理者チャット：マーケティング＆クリエイティブ_
-* **[!DNL Experience Manager]：** 11月9日（PT）- _Adobe Developers Live：ヘッドレス_
-* **[!DNL Workfront]：** 11月9日（PT）- _Workfront Wednesday - コミュニティチャット_
+* [Adobe Targetコーヒーブレーク](https://adobe.ly/3WoLYth) - **11 月 30 日** - _コミュニティ Q&amp;A コーヒーブレークとクリスティネルアナスタソアイ_
+* [カスタマーワークショップ](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12 月 1 日** - _エキスパートへの質問 — エンドユーザーの導入の成功に関するウェビナーフォローアップ_
+* [Q&amp;A チャット](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12 月 5 日** - _CS 接続 — 戦略的ベストプラクティスの共有_
 
-常に最新の情報を把握しておくには、 [Experience League のイベント](https://experienceleague.adobe.com/events/?lang=ja)で今後のイベントや過去のイベントを参照してください。
+完全なイベントスケジュールについては、 [イベントのExperience League](https://experienceleague.adobe.com/events/?lang=ja).
 
 ## ![アイコン](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
