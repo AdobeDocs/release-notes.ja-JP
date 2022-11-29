@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 843063e0d596a197966d1b5d28b52415f9349a40
+source-git-commit: be3d436320ff1bb71bd3c0e6d0551252b7e56b40
 workflow-type: tm+mt
-source-wordcount: '4997'
-ht-degree: 93%
+source-wordcount: '5136'
+ht-degree: 91%
 
 ---
 
@@ -446,9 +446,8 @@ Experience League の新しい [!DNL Workfront] コースと チュートリア�
 リリースノート：[!DNL Adobe Advertising Cloud]
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
+* [ [!DNL Advertising Cloud DSP] の新機能](#adcloud-dsp)
 * [ [!DNL Advertising Cloud Search] の新機能](#adcloud-search)
-
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -464,26 +463,26 @@ Last updated: **August 9, 2022**
 
 -->
 
-<!--
-### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+### [!DNL Advertising Cloud DSP] の新機能 {#adcloud-dsp}
 
-Last updated: **October 6, 2022**
+最終更新日： **2022 年 11 月 24 日**
 
-| Feature | Description |
+| 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (October 6 release) New pacing-related metric columns are available for the [!UICONTROL Campaigns] views: **[!UICONTROL Yesterday's OTS]** (on target spend), **[!UICONTROL Yesterday's delivery]**, **[!UICONTROL Yesterday's goal]**, **[!UICONTROL Today's OTS]** (on target spend), **[!UICONTROL Today's delivery]**, and **[!UICONTROL Today's Goal]**. |
+| 契約 | この [!UICONTROL 在庫] > [!UICONTROL 契約] 表示に「[!UICONTROL 契約の健全性]」列には、個々の個人契約の健康状態が示されます。&quot;[!UICONTROL 成功],&quot; &quot;[!UICONTROL 警告],&quot; &quot;[!UICONTROL 重大],&quot;または&quot;[!UICONTROL 使用不可].&quot; ステータスをクリックすると、契約が期待どおりに実行されない理由や支出がない理由、潜在的な問題のトラブルシューティング手順など、詳細を確認できます。 |
 
--->
+{style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Cloud Search] の新機能 {#adcloud-search}
 
-最終更新日： **2022 年 11 月 18 日** （11 月 15 日リリース）
+最終更新日： **2022 年 11 月 24 日** （11 月 15 日リリース）
 
 | 機能 | 説明 |
 | ------- | ----------- |
 | キャンペーン、バルクシート、レポート | ([!DNL Microsoft® Advertising] アカウント ) [!DNL Microsoft® Audience Network] はベータ版から削除されました。<ul><li>オーディエンスキャンペーンのステータス ( キャンペーンタイプ「[!UICONTROL オーディエンス（画像）]&quot;または&quot;[!UICONTROL オーディエンス（フィード）]&quot;)、広告グループ ( 広告グループタイプ&quot;[!UICONTROL 対象ユーザ]&quot;)、および広告 ( クリエイティブタイプ&quot;[!UICONTROL レスポンシブ広告]」) を [!UICONTROL キャンペーン] bulksheets を表示して使用します。</li><li>[!UICONTROL キャンペーン]ビューで、テーブル形式およびトレンドグラフ形式のパフォーマンスデータとともに、既存のオーディエンスキャンペーンを表示できます。また、広告レベルのパフォーマンスデータは、レポートや Adobe Analytics でも入手できます（[!DNL Analytics] 統合を利用する広告主向け）。</li></ul>最適化のサポートは、今後のリリースで利用できるようになります。 |
 |  | ([!DNL Microsoft® Advertising] アカウント ) マルチメディア広告のサポートは、ベータ版から終了しました。 検索キャンペーンでマルチメディア広告を作成および管理するには、 [!UICONTROL キャンペーン] bulksheets の表示と使用 広告にはクリエイティブタイプ「[!UICONTROL マルチメディア広告]」があります。<br><br>マルチメディア広告のあるキャンペーンは、[!UICONTROL ターゲットインプレッション共有]（ハイブリッドポートフォリオではまだサポートされていません）以外の支出戦略を使用する、標準ポートフォリオまたはハイブリッドポートフォリオに含めることができます。<br><br>[!UICONTROL キャンペーン]ビューで、パフォーマンスデータをデーブル形式およびトレンドグラフ形式で、既存のオーディエンスキャンペーンを表示できます。広告レベルのパフォーマンスデータは、レポートや [!DNL Analytics] でも入手できます（[!DNL Analytics] 統合を利用する広告主向け）。 |
 | [!UICONTROL オーディエンス], [!UICONTROL レポート] | ( ベータ版の [!DNL Microsoft® Advertising] アカウント ) [!DNL Microsoft® Advertising] 動的リマーケティングオーディエンスが同期され、で使用できるようになりました。 [!UICONTROL キャンペーン] > [!UICONTROL オーディエンス] と [!UICONTROL オーディエンスタイプ] &quot;[!UICONTROL 動的リマーケティング] &lt;*VisitorType*>」（「Dynamic Remarketing Past Buyers」など）に置き換えます。 また、動的なリマーケティングオーディエンスを作成、更新、削除することもできます。<br><br>オーディエンスをキャンペーンレベルおよび広告グループレベルの広告ターゲットおよび除外として使用できます。 ターゲットには入札修飾子を含めることができます。 **注意：** 動的リマーケティングオーディエンスターゲットの入札修飾子が、「[!UICONTROL 入札調整値の自動最適化]&quot;設定中です。<br><br>動的リマーケティングオーディエンスのデータは、 [!UICONTROL Audience Target レポート]. |
+| [!UICONTROL キャンペーンのインポート] | 読み込むすべてのオプション [!DNL Google Ads] キャンペーン [!DNL Microsoft Advertising] はベータ版から削除されました。<ul><li>インポート [!DNL Google Display Network] キャンペーン [!DNL Microsoft Advertising] オーディエンスキャンペーン [!DNL Microsoft Audience Network].</li><li>インポート [!DNL Google Ads] パフォーマンス最大キャンペーン（ローカルの在庫広告を含む）を [!DNL Microsoft Advertising] スマートショッピングキャンペーン。</li><li>（すでにベータ版から移行済み）読み込み [!DNL Google Ads] キャンペーンを次の場所で検索/表示 [!DNL Microsoft Advertising] キャンペーンの検索と表示。</li></ul>キャンペーンをインポートした後 [!UICONTROL 検索] > [!UICONTROL ツール] > [!UICONTROL キャンペーンのインポート]を使用すると、読み込みジョブのステータスを確認したり、エラーログを確認したり、読み込みスケジュールを編集、一時停止、削除したりできます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
