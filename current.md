@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 824837e33e52613fd761e4cb71c21ffb18f32da7
+source-git-commit: b0ef07bf757fdb4a71e4fa7eb11e57d3cb9bd043
 workflow-type: tm+mt
-source-wordcount: '4897'
-ht-degree: 94%
+source-wordcount: '4737'
+ht-degree: 92%
 
 ---
 
@@ -237,18 +237,14 @@ _新機能_
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- | ------|
+| 2022年12月 | [jQuery と Handlebars のフィルタリングコードのサンプル](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | ビデオ | jQuery と Handlebars を使用する JavaScript アプリを使用してデータをフィルタリングするAEMヘッドレスGraphQL API 機能を調べます。 このアプリは、アクティビティタイプでフィルタリングできる WKND アドベンチャのリストを作成します。 | AEM CS（ヘッドレス） |
+| 2022年12月 | [URL リダイレクト](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/administration/url-redirection.html) | ビデオ | AEMで URL のリダイレクトを実行するための様々なオプションについて説明します。 | AEM Learn |
 | 2022年11月 | [AEM プロジェクトへのサードパーティバンドルの組み込み](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html?lang=ja) | ビデオ | AEM プロジェクトにサードパーティの OSGi バンドルを組み込む方法を説明します。 | AEM Forms |
 | 2022年11月 | [ECMA スクリプトを使用したフラグメント付き PDFドキュメントの生成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html?lang=ja) | ビデオ | Output サービスを利用して XDP フラグメントを使用した PDF ファイルを生成する方法について説明します。 | AEM Forms |
 | 2022年11月 | [フラグメントを使用した PDF ドキュメントの生成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service.html?lang=ja) | ビデオ |  Output サービスを利用して SDP フラグメントを使用した PDF ファイルを生成する方法を説明します。 | AEM Forms |
 | 2022年11月 | [バインドされたデータの抽出と文字列変数への保存](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/save-submitted-data-in-string-variable.html?lang=ja) | ビデオ | 送信データをメールの本文に含める方法を説明します。 | AEM Forms |
 | 2022年11月 | [AEM-CIF コアコンポーネントと Experience Platform の統合](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html?lang=ja) | ビデオ | CIF - Experience Platform コネクタを使用して、AEM でレンダリングした製品ページから Experience Platform にストアフロントイベントデータを送信する方法を説明します。 | AEM CS |
 | 2022年10月 | [AEM Forms の項目読み込みプロパティ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/using-item-load-path.html?lang=ja) | ビデオ | 項目読み込みパスプロパティを使用して、ドロップダウンリストを設定および入力する方法について説明します。 | AEM Forms CS |
-| 2022年10月 | [標準 AEM プロジェクトアーキタイプのフロントエンドパイプラインを有効にする](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/enable-frontend-pipeline-devops/overview.html?lang=ja) | ビデオ | AEM プロジェクトアーキタイプを使用して AEM WKND Sites プロジェクトを有効にし、CSS、JavaScript、フォント、アイコンなどのフロントエンドリソースをデプロイし、フロントエンドパイプラインを使用して、開発からデプロイメントまでのサイクルを高速化する方法を説明します。 | AEM Sites |
-| 2022年10月 | [Next.js アプリ](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js.html?lang=ja) | ビデオ | 永続クエリと AEM の GraphQL API を使用して、コンテンツに対してクエリを実行する方法を説明します。JavaScript 向け AEM ヘッドレスクライアントは、アプリを強化する GraphQL の永続クエリを実行するために使用されます。 | AEM Sites |
-| 2022年10月 | [送信されたフォームデータからフォームの添付ファイルを抽出する](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-af-attachments-in-email.html?lang=ja) | ビデオ | フォームの添付ファイルを抽出し、Power Automate ワークフローで添付ファイルをメールで送信する方法を説明します。 | AEM Forms CS |
-| 2022年10月 | [DoR をメールの添付ファイルとして送信する](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-DoR-email-attachment.html?lang=ja) | ビデオ | DoR を抽出し、Power Automate ワークフローでメール添付ファイルとして送信します。 | AEM Forms CS |
-| 2022年10月 | [コンテンツフラグメントコンソール](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-console.html?lang=ja) | ビデオ | AEM as a Cloud Service のコンテンツフラグメントオーサリングコンソールの基本的な機能について説明します。 | AEM CS |
-| 2022年10月 | [AEM as a Cloud Service コンテンツ移行に関する FAQ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/faq.html?lang=ja) | ビデオ | AEM as a Cloud Service へのコンテンツ移行に関するよくある質問に対する回答をご確認ください。 | AEM CS |
 
 {style=&quot;table-layout:auto&quot;}
 
