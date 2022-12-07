@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1e7df40e37c8cdc40cec618c0ee2989ae8fca7ec
+source-git-commit: 824837e33e52613fd761e4cb71c21ffb18f32da7
 workflow-type: tm+mt
-source-wordcount: '5160'
-ht-degree: 97%
+source-wordcount: '4897'
+ht-degree: 94%
 
 ---
 
@@ -124,10 +124,12 @@ Adobe Analytics 用に公開された新しいビデオチュートリアル、�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2022年12月 | [セキュリティの強化](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/enhancing-security.html) | 更新されたビデオ | Adobe Analyticsへのアクセスを制御するためのカンパニー設定のセキュリティマネージャー設定について説明します。 これには、堅牢なパスワード、パスワードの有効期限と回復機能、E メールドメインの制限が含まれます。 |
+| 2022年12月 | [Analysis Workspaceプロジェクトをランディングページとして設定する](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.html) | 更新されたビデオ | 初心者ユーザーを簡単にワークスペース分析プロジェクトデータに導く効果的な方法について説明します。 |
+| 2022年12月 | [Reports &amp; Analytics のメニューのカスタマイズ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.html) | 更新されたビデオ | 組織内のユーザーに合わせて Reports &amp; Analytics メニューをカスタマイズする方法を説明します。 これにより、ユーザーが最も頻繁に使用するレポートを見つけるのに役立ちます。 |
 | 2022年11月 | [Analytics とは](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-is-analytics.html?lang=ja) | 記事 | Adobe Analytics を学ぶ前に、分析の基本について学びます。 |
 | 2022年11月 | [ダッシュボードのカスタム詳細ビューの作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/create-custom-detail-views.html?lang=ja) | ビデオ | Adobe Analytics ダッシュボードのテキストを含む詳細ビューをカスタマイズして、モバイルスコアカードプロジェクトを通じて関係者に伝えたいストーリーを絞り込む方法を説明します。 |
 | 2022年11月 | [主要指標の概要ビジュアライゼーション](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/key-metric-summary.html?lang=ja) | ビデオ | Analysis Workspace での主要指標の概要ビジュアライゼーションについて説明します。このビジュアライゼーションを使用すると、1 つの期間内で重要な指標が示すトレンドを確認できます。また、2 つの期間での指標のパフォーマンスを比較することもできます。 |
-| 2022年10月 | [Analysis Workspace の複合グラフ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/combo-charts.html?lang=ja) | ビデオ | Analysis Workspace での複合グラフビジュアライゼーションについて説明します。  |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -488,19 +490,9 @@ Last updated: **August 9, 2022**
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- |---------- |
+| 2022年12月 | [デッドラインとリマインダーの設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/set-deadlines-reminders.html?lang=en) | ビデオ | 定期的な電子メールのリマインダーと期限を送信して、ドキュメントの署名を迅速に行う方法を説明します。 | Acrobat Sign |
 | 2022年11月 | [D-Trust を使用した登録と署名](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/dtrust/d-trust.html?lang=ja) | ビデオ | D-Trust を使用して ID を登録し、ドキュメントで D-Trust 電子署名を使用する方法を説明します。 | Acrobat Sign |
 | 2022年11月 | [新しい管理者向けの基礎知識](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/get-started-admin.html?lang=ja) | ビデオ | この包括的なビデオガイドでは、組織の立ち上げと運用に必要なすべてのツールについて説明します。 | Acrobat Sign |
-| 2022年10月 | [スキャンして PDF に変換](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/mobile/scan-mobile-app.html?lang=ja) | ビデオ | 無料の Adobe Scan モバイルアプリを使用し、紙のドキュメントを PDF に変換する方法について説明します。 | Acrobat |
-| 2022年10月 | [ページを整理](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/organize.html?lang=ja) | 更新されたビデオ | 数秒で好きなようにページを並べ替える方法について説明します。連続していないページを挿入、置換、分割、並べ替え、回転、抽出し、プロフェッショナルな外観の PDF を作成します。 | Acrobat |
-| 2022年10月 | [Dropbox のファイルの操作](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox.html?lang=ja) | ビデオ | Acrobat 内から Dropbox ファイルを開き、作成、編集、署名し、変更内容を保存する方法について説明します。 | Acrobat |
-| 2022年10月 | [Power Automate による SharePoint でのファイルの自動アーカイブ](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/auto-archive-sharepoint-power-automate.html?lang=ja) | ビデオ | Power Automate を使用し、署名済みドキュメントを SharePoint ライブラリに自動的にアーカイブする方法について説明します。 | Acrobat Sign |
-| 2022年10月 | [Salesforce でのデータマッピングの設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-data-mapping.html?lang=ja) | ビデオ | Salesforce で Acrobat Sign のデータマッピングを設定する方法について説明します。データマッピングを使用すると、契約書の署名後にデータを Salesforce に戻すことができます。 | Acrobat Sign |
-| 2022年10月 | [外部アーカイブの設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/set-up-your-external-archive.html?lang=jp) | ビデオ | 署名済みの契約書のバックアップコピー用の外部アーカイブを作成する方法について説明します。 | Acrobat Sign |
-| 2022年10月 | [契約書の管理とトラック](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-managing/manage-and-track.html?lang=ja) | 更新されたビデオ | Acrobat Sign で署名用に送信されたドキュメントを管理およびトラックする方法について説明します。 | Acrobat Sign |
-| 2022年10月 | [Salesforce での結合マッピングの設定](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/set-up-merging-map.html?lang=ja) | 更新されたビデオ | Salesforce のデータを Acrobat Sign ドキュメントに直接結合する方法について説明します。 | Acrobat Sign |
-| 2022年10月 | [Salesforce 用 Document Builder](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/create-an-agreement-template.html?lang=ja) | ビデオ | Salesforce 用 Document Builder を使用し、再利用可能なドキュメントテンプレートを作成する方法について説明します。 | Acrobat Sign |
-| 2022年10月 | [Web フォームデータの管理](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/manage-webform-data.html?lang=ja) | ビデオ | Web フォームからデータをトラック、管理および書き出す方法について説明します。 | Acrobat Sign |
-| 2022年10月 | [Acrobat Sign の Liquid Mode](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html?lang=ja) | ビデオ | Liquid Mode によってモバイル署名エクスペリエンスを向上させる仕組みを説明します。ドキュメントの読み取りと署名を試みる際に、ピンチやズームの操作が不要になりました。 | Acrobat Sign |
 
 {style=&quot;table-layout:auto&quot;}
 
