@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b0ef07bf757fdb4a71e4fa7eb11e57d3cb9bd043
+source-git-commit: a10a35727dbfd636bd64d879b7ec01debe2ce833
 workflow-type: tm+mt
-source-wordcount: '4737'
-ht-degree: 92%
+source-wordcount: '4816'
+ht-degree: 91%
 
 ---
 
@@ -237,7 +237,9 @@ _新機能_
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2022年12月 | [jQuery と Handlebars のフィルタリングコードのサンプル](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | ビデオ | jQuery と Handlebars を使用する JavaScript アプリを使用してデータをフィルタリングするAEMヘッドレスGraphQL API 機能を調べます。 このアプリは、アクティビティタイプでフィルタリングできる WKND アドベンチャのリストを作成します。 | AEM CS（ヘッドレス） |
+| 2022年12月 | [React アプリコードのフィルタリングのサンプル](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-react-app.html) | ビデオ | コンテンツフラグメントを使用してモデル化された WKND アドベンチャを表示する簡単な React アプリです。 | AEMヘッドレス開発者ポータル |
+| 2022年12月 | [基本的な React アプリ](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/basic-react-app.html) | ビデオ | 永続クエリと AEM の GraphQL API を使用して、コンテンツに対してクエリを実行する方法を説明します。このアプリケーションは、WKND Adventures のフィルタリング可能なをレンダリングし、アドベンチャーを選択すると、アドベンチャーの詳細を表示します。 | AEMヘッドレス開発者ポータル |
+| 2022年12月 | [jQuery と Handlebars のフィルタリングコードのサンプル](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | ビデオ | jQuery と Handlebars を使用する JavaScript アプリを使用してデータをフィルタリングするAEMヘッドレスGraphQL API 機能を調べます。 このアプリは、アクティビティタイプでフィルタリングできる WKND アドベンチャのリストを作成します。 | AEMヘッドレス開発者ポータル |
 | 2022年12月 | [URL リダイレクト](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/administration/url-redirection.html) | ビデオ | AEMで URL のリダイレクトを実行するための様々なオプションについて説明します。 | AEM Learn |
 | 2022年11月 | [AEM プロジェクトへのサードパーティバンドルの組み込み](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html?lang=ja) | ビデオ | AEM プロジェクトにサードパーティの OSGi バンドルを組み込む方法を説明します。 | AEM Forms |
 | 2022年11月 | [ECMA スクリプトを使用したフラグメント付き PDFドキュメントの生成](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html?lang=ja) | ビデオ | Output サービスを利用して XDP フラグメントを使用した PDF ファイルを生成する方法について説明します。 | AEM Forms |
