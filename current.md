@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a10a35727dbfd636bd64d879b7ec01debe2ce833
+source-git-commit: d3ddc8b95ba69f19d3b7e5164a66793085ba5728
 workflow-type: tm+mt
-source-wordcount: '4816'
-ht-degree: 91%
+source-wordcount: '5055'
+ht-degree: 88%
 
 ---
 
@@ -25,7 +25,7 @@ Experience Maker として成功するための道のりは、[Experience League
 
 このページでは、Experience Cloud 製品リリースノートページと、Experience League に関する最新のチュートリアル、コースおよびイベントにアクセスできます。
 
-最終更新日：**2022 年 12 月 7 日（PT）**
+最終更新日：**2022 年 12 月 14 日（PT）**
 
 * [[!DNL Experience League] イベント](#events) ( 更新済み **12 月 7 日**)
 * [[!DNL Adobe System Status]](#status)
@@ -57,9 +57,10 @@ Experience League イベントでは、アドビの製品エキスパートか�
 
 今後のイベント：
 
-* [Adobe Target Webinar](https://personalizationwebinars.dxfieldmarketing.adobeevents.com/) - **12 月 8 日** - _Automated Personalizationが訪問ごとに動的にパーソナライズされたエクスペリエンスを提供する方法_
-* [Adobe Workfront Q&amp;A チャット](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,yYI06x24dkKhvGDSxMBXmw,lRaaz_Liok-58YBZhbX8hg,FdRnpmqR8kqOo_X3kTZuxQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12 月 12 日** - _エキスパートに質問する：変更管理に関するウェビナーのフォローアップ_
+* [Adobe Workfrontカスタマーワークショップ — 年末報告](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,kHWkCzk8E02pkY69r4KyyA,h_vw3D5bJkC7m6npGnBT0g,AVwLZha25kiVn7YzI6k8lA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12 月 15 日** - _実践デモを含む、Workfrontで最も効果的なレポートを活用して年末の成果を共有する方法に関するインタラクティブなディスカッションにご参加ください。_
 * [Adobe Workfront Customer Workshop](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12 月 21 日** - _1 時間のディスカッションで、Workfrontコミュニティのトレンドトピックを確認しましょう。_
+* [管理チャット：Marketing &amp; Creative](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1 月 6 日** - _このインタラクティブセッションは、他の管理者と連携し、ベストプラクティスについて説明し、Workfrontを最大限に活用するためのヒントとテクニックを紹介するものです。_
+* [CS 接続：戦略的ベストプラクティスの共有](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1 月 9 日** - _他のお客様とつながり、Workfrontの機能について話し合う機会をお探しですか？ CS Connections シリーズにご参加ください。 他のお客様とつながり、組織の最新トピックについて話し合う月 1 回の機会です。_
 
 イベントスケジュールについて詳しくは、[Experience League のイベント](https://experienceleague.adobe.com/events/?lang=ja)を参照してください。
 
@@ -237,6 +238,7 @@ _新機能_
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- | ------|
+| 2022年12月 | [永続的な GraphQL クエリ](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/persisted-queries.html) | ビデオ | Adobe Experience Manager as a Cloud Service で GraphQL クエリを永続化してパフォーマンスを最適化する方法を説明します。 | AEM CS |
 | 2022年12月 | [React アプリコードのフィルタリングのサンプル](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-react-app.html) | ビデオ | コンテンツフラグメントを使用してモデル化された WKND アドベンチャを表示する簡単な React アプリです。 | AEMヘッドレス開発者ポータル |
 | 2022年12月 | [基本的な React アプリ](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/basic-react-app.html) | ビデオ | 永続クエリと AEM の GraphQL API を使用して、コンテンツに対してクエリを実行する方法を説明します。このアプリケーションは、WKND Adventures のフィルタリング可能なをレンダリングし、アドベンチャーを選択すると、アドベンチャーの詳細を表示します。 | AEMヘッドレス開発者ポータル |
 | 2022年12月 | [jQuery と Handlebars のフィルタリングコードのサンプル](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | ビデオ | jQuery と Handlebars を使用する JavaScript アプリを使用してデータをフィルタリングするAEMヘッドレスGraphQL API 機能を調べます。 このアプリは、アクティビティタイプでフィルタリングできる WKND アドベンチャのリストを作成します。 | AEMヘッドレス開発者ポータル |
@@ -430,6 +432,7 @@ Experience League の新しい [!DNL Workfront] コースと チュートリア�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2022年12月 | [ADDDAYS、ADDWEEKDAY、ADDMONTHS、ADDYEARS 式の作成](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/create-adddays-addweekdays-addmonths-addyears-expressions.html?lang=en) | 更新されたビデオ | Adobe Workfrontの計算フィールドで ADD 式を使用および作成する方法を説明します。 |
 | 2022年10月 | [ボードの列設定の追加と編集](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/boards/add-and-edit-column-settings-on-a-board.html?lang=ja) | ビデオ | ボードで列設定を追加および編集する方法を説明します。 |
 | 2022年10月 | [高度なレポート](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=ja) | ビデオ | API エクスプローラーとテキストモードを使用して、レポーティング UI の機能以外にも拡張フィルター、ビュー、グループを作成する方法を説明します。 |
 
