@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d3ddc8b95ba69f19d3b7e5164a66793085ba5728
+source-git-commit: b816ec0c285388a2d73d5198e86ee0079013e953
 workflow-type: tm+mt
-source-wordcount: '5055'
-ht-degree: 88%
+source-wordcount: '4916'
+ht-degree: 90%
 
 ---
 
@@ -25,7 +25,7 @@ Experience Maker として成功するための道のりは、[Experience League
 
 このページでは、Experience Cloud 製品リリースノートページと、Experience League に関する最新のチュートリアル、コースおよびイベントにアクセスできます。
 
-最終更新日：**2022 年 12 月 14 日（PT）**
+最終更新日：**2022 年 12 月 26 日（PT）**
 
 * [[!DNL Experience League] イベント](#events) ( 更新済み **12 月 7 日**)
 * [[!DNL Adobe System Status]](#status)
@@ -57,8 +57,6 @@ Experience League イベントでは、アドビの製品エキスパートか�
 
 今後のイベント：
 
-* [Adobe Workfrontカスタマーワークショップ — 年末報告](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,kHWkCzk8E02pkY69r4KyyA,h_vw3D5bJkC7m6npGnBT0g,AVwLZha25kiVn7YzI6k8lA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12 月 15 日** - _実践デモを含む、Workfrontで最も効果的なレポートを活用して年末の成果を共有する方法に関するインタラクティブなディスカッションにご参加ください。_
-* [Adobe Workfront Customer Workshop](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **12 月 21 日** - _1 時間のディスカッションで、Workfrontコミュニティのトレンドトピックを確認しましょう。_
 * [管理チャット：Marketing &amp; Creative](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1 月 6 日** - _このインタラクティブセッションは、他の管理者と連携し、ベストプラクティスについて説明し、Workfrontを最大限に活用するためのヒントとテクニックを紹介するものです。_
 * [CS 接続：戦略的ベストプラクティスの共有](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1 月 9 日** - _他のお客様とつながり、Workfrontの機能について話し合う機会をお探しですか？ CS Connections シリーズにご参加ください。 他のお客様とつながり、組織の最新トピックについて話し合う月 1 回の機会です。_
 
@@ -108,7 +106,7 @@ Adobe Experience Platform 用に公開された新しいビデオ、チュート
 
 ## ![アイコン](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-最終更新日：**2022年11月18日（PT）**
+次期リリース： **2023 年 1 月 12 日**
 
 * Adobe Analytics [リリースノート](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=ja)
 * Adobe Analytics [製品ドキュメントとチュートリアル](https://experienceleague.adobe.com/docs/analytics.html?lang=ja)
@@ -136,7 +134,7 @@ Adobe Analytics 用に公開された新しいビデオチュートリアル、�
 
 ## ![アイコン](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-次回リリース：**2022年10月26日（PT）**
+次期リリース： **2023 年 1 月 12 日**
 
 >[!NOTE]
 >
@@ -256,8 +254,8 @@ _新機能_
 
 Experience Manager のリリースノートはすべて以下のページに記載されています。
 
-* [Adobe Experience Manager as a Cloud Service リリースアップデート](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en)
-* [Adobe Experience Manager as a Cloud Service の現在のリリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
+* [Adobe Experience Manager as a Cloud Service リリースアップデート](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=ja)
+* [Adobe Experience Manager as a Cloud Service の現在のリリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja)
 * [Adobe Experience Manager as a Cloud Service リリース情報](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=ja)
 * [Adobe Experience Manager Cloud Manager リリースノート](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=ja)
 * [自動フォーム変換サービスリリースノート](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=ja)
@@ -278,7 +276,7 @@ Experience Manager のリリースノートはすべて以下のページに記�
 * [Adobe Experience Manager 6.4 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=ja)
 * [Adobe Experience Manager 6.3 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja)
 * [Adobe Experience Manager 6.2 のラーニングとサポートのホーム](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja#previous-updates)
-* [Adobe Experience Manager ドキュメントの以前のバージョン](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
+* [Adobe Experience Manager ドキュメントの以前のバージョン](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=ja#previous-updates)
 * [Dynamic Media Classic ヘルプホーム](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=ja)
 * [Adobe Experience Manager ドキュメント：最近の更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=ja#aem-as-a-cloud-service)
 
@@ -357,9 +355,9 @@ Adobe Campaign は、オンラインおよびオフラインのマーケティ�
 
 ### Campaign ヘルプリソース
 
-* Adobe Campaign v8：[ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [実装ガイド](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html?lang=ja)
-* Adobe Campaign Standard：[Campaign Standard ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja) - [リリース計画](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ja)
-* Adobe Campaign Classic：[Campaign Classic v7 ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ja)
+* Adobe Campaign v8：[ドキュメント](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=ja) - [実装ガイド](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html?lang=ja)
+* Adobe Campaign Standard：[Campaign Standard ドキュメント](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ja) - [リリース計画](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=ja)
+* Adobe Campaign Classic：[Campaign Classic v7 ドキュメント](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=ja) - [最新のドキュメント更新](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=ja)
 * Adobe Campaign コントロールパネル：[ドキュメント](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=ja) のハウツービデオ
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
@@ -384,8 +382,8 @@ Adobe [!DNL Journey Optimizer] 向けに新しく公開されたビデオ、チ�
 
 ### [!DNL Journey Optimizer] のその他のリソース
 
-* [Journey Optimizer ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja)
-* [意思決定管理ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=ja) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ja)
+* [Journey Optimizer ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=ja)
+* [意思決定管理ドキュメント](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=ja) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=ja)
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
@@ -397,7 +395,7 @@ Experience Platform を使用すると、各個人のニーズをリアルタイ
 
 #### [!DNL Journey Orchestration] のその他のリソース
 
-* [Journey Orchestration ドキュメント](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ja) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ja)
+* [Journey Orchestration ドキュメント](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=ja) - [リリースノート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=ja) - [ハウツービデオ](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=ja) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html?lang=ja)
 
 ## ![アイコン](/assets/marketo.png) [!DNL Adobe Marketo Engage] {#marketo}
 
