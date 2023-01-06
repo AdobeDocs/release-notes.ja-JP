@@ -6,9 +6,9 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4fc67e3574096d0c2dda849bcb50209b37130fb1
+source-git-commit: 0b6455a86208c498304f7278c64b67e03d4ffc07
 workflow-type: tm+mt
-source-wordcount: '4990'
+source-wordcount: '4983'
 ht-degree: 91%
 
 ---
@@ -329,9 +329,6 @@ Experience Manager のリリースノートはすべて以下のページに記�
 
 ## ![アイコン](/assets/target.png) [!DNL Adobe Target] {#target}
 
-最終更新日：**2022年10月19日（PT）**
-
-次回の予定リリース：**10月25～27日（PT）**
 * プレリリース情報については、[Adobe Target プレリリース](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=ja)を参照
 * 現在の情報については、[Adobe Target リリースノート](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=ja)を参照
 
