@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b816ec0c285388a2d73d5198e86ee0079013e953
+source-git-commit: 4fc67e3574096d0c2dda849bcb50209b37130fb1
 workflow-type: tm+mt
-source-wordcount: '4916'
-ht-degree: 90%
+source-wordcount: '4990'
+ht-degree: 91%
 
 ---
 
@@ -25,9 +25,9 @@ Experience Maker として成功するための道のりは、[Experience League
 
 このページでは、Experience Cloud 製品リリースノートページと、Experience League に関する最新のチュートリアル、コースおよびイベントにアクセスできます。
 
-最終更新日：**2022 年 12 月 26 日（PT）**
+最終更新日：**2022年1月6日（PT）**
 
-* [[!DNL Experience League] イベント](#events) ( 更新済み **12 月 7 日**)
+* [[!DNL Experience League] イベント](#events) ( 更新済み **1 月 6 日**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - 主要なインターフェイスコンポーネントと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -57,8 +57,10 @@ Experience League イベントでは、アドビの製品エキスパートか�
 
 今後のイベント：
 
-* [管理チャット：Marketing &amp; Creative](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1 月 6 日** - _このインタラクティブセッションは、他の管理者と連携し、ベストプラクティスについて説明し、Workfrontを最大限に活用するためのヒントとテクニックを紹介するものです。_
-* [CS 接続：戦略的ベストプラクティスの共有](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1 月 9 日** - _他のお客様とつながり、Workfrontの機能について話し合う機会をお探しですか？ CS Connections シリーズにご参加ください。 他のお客様とつながり、組織の最新トピックについて話し合う月 1 回の機会です。_
+* [管理チャット：Marketing &amp; Creative](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1 月 6 日** - _このインタラクティブセッションは、他の管理者と連携し、ベストプラクティスに関する説明や、 [!DNL Workfront] ユーザーとユーザーに対して_
+* [CS 接続：戦略的ベストプラクティスの共有](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **1 月 9 日** - _他のお客様とつながり、話し合う機会を探しています [!DNL Workfront] 機能？ CS Connections シリーズにご参加ください。 他のお客様とつながり、組織の最新トピックについて話し合う月 1 回の機会です。_
+* [の新機能 [!DNL Adobe Workfront] 23.1](https://webinars.on24.com/adobe_workfront/whatsnewin231?partnerref=EXL) - **1 月 11 日** - _参加する [!DNL Adobe Workfront] 最新リリースの今後の機能および機能強化の詳細については、製品チームにお問い合わせください。_
+* [オンプレミスおよび AMS 環境用のAEMベストプラクティスアナライザー](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **1 月 19 日** - _AEMオンプレミスおよび AMS インスタンスに関する分析およびレポート機能を提供するAdobe Experience Manager Best Practices Analyzer ツールについて説明します。 AEM as a Cloud Serviceには適用されません。_
 
 イベントスケジュールについて詳しくは、[Experience League のイベント](https://experienceleague.adobe.com/events/?lang=ja)を参照してください。
 
@@ -123,9 +125,9 @@ Adobe Analytics 用に公開された新しいビデオチュートリアル、�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2022年12月 | [セキュリティの強化](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/enhancing-security.html) | 更新されたビデオ | Adobe Analyticsへのアクセスを制御するためのカンパニー設定のセキュリティマネージャー設定について説明します。 これには、堅牢なパスワード、パスワードの有効期限と回復機能、E メールドメインの制限が含まれます。 |
-| 2022年12月 | [Analysis Workspaceプロジェクトをランディングページとして設定する](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.html) | 更新されたビデオ | 初心者ユーザーを簡単にワークスペース分析プロジェクトデータに導く効果的な方法について説明します。 |
-| 2022年12月 | [Reports &amp; Analytics のメニューのカスタマイズ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.html) | 更新されたビデオ | 組織内のユーザーに合わせて Reports &amp; Analytics メニューをカスタマイズする方法を説明します。 これにより、ユーザーが最も頻繁に使用するレポートを見つけるのに役立ちます。 |
+| 2022年12月 | [セキュリティの強化](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/enhancing-security.html) | 更新されたビデオ | Adobe Analytics へのアクセスを制御するための会社設定のセキュリティマネージャー設定について説明します。これには、強力なパスワード、パスワードの有効期限およびリカバリー機能、電子メールドメイン制限などが含まれます。 |
+| 2022年12月 | [ランディングページとしての Analysis Workspace プロジェクトの設定](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.html) | 更新されたビデオ | 初心者ユーザーがワークスペース分析プロジェクトデータに簡単に精通する効果的な方法について説明します。 |
+| 2022年12月 | [Reports &amp; Analytics のメニューのカスタマイズ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.html) | 更新されたビデオ | 組織のユーザー用に Reports &amp; Analytics メニューをカスタマイズする方法を説明します。これは、ユーザーが最も頻繁に使用するレポートを見つけるのに役立ちます。 |
 | 2022年11月 | [Analytics とは](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-is-analytics.html?lang=ja) | 記事 | Adobe Analytics を学ぶ前に、分析の基本について学びます。 |
 | 2022年11月 | [ダッシュボードのカスタム詳細ビューの作成](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/create-custom-detail-views.html?lang=ja) | ビデオ | Adobe Analytics ダッシュボードのテキストを含む詳細ビューをカスタマイズして、モバイルスコアカードプロジェクトを通じて関係者に伝えたいストーリーを絞り込む方法を説明します。 |
 | 2022年11月 | [主要指標の概要ビジュアライゼーション](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/key-metric-summary.html?lang=ja) | ビデオ | Analysis Workspace での主要指標の概要ビジュアライゼーションについて説明します。このビジュアライゼーションを使用すると、1 つの期間内で重要な指標が示すトレンドを確認できます。また、2 つの期間での指標のパフォーマンスを比較することもできます。 |
