@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 97ced2d9addab71d26dc94ba55af5e5f9e23f227
+source-git-commit: 0f238ebb4a330646e16379cbb61f959a37cd7c87
 workflow-type: tm+mt
-source-wordcount: '5417'
-ht-degree: 56%
+source-wordcount: '5416'
+ht-degree: 57%
 
 ---
 
@@ -44,7 +44,7 @@ Experience Maker として成功するための道のりは、[Experience League
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL Adobe Advertising Cloud]](#adcloud)
+* [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [デジタルエクスペリエンスブループリント - チュートリアル](#blueprints)
@@ -138,7 +138,7 @@ CJA 用に公開された新しいビデオ、チュートリアル、または�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023年1月 | [スケジュールCustomer Journey AnalyticsのReport Builder](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/exporting/report-builder/schedule-cja-workbooks-using-report-builder.html?lang=en) | ビデオ | ワークブックのスケジュールをCustomer Journey Analytics用にReport Builderで設定する方法を説明します。 ワークブックのスケジュールを設定すると、最新のデータを含むReport Builderワークブックを更新し、事前に定義された定期的なスケジュールで関係者に送信するプロセスを自動化できます。 |
+| 2023年1月 | [Report Builder を使用した Customer Journey Analytics ワークブックのスケジューリング](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/exporting/report-builder/schedule-cja-workbooks-using-report-builder.html?lang=en) | ビデオ | Customer Journey Analytics の Report Builder でワークブックをスケジューリングする方法を説明します。ワークブックのスケジューリングにより、ユーザーは、最新のデータで Report Builder ワークブックの更新プロセスを自動化して、事前に定義された定期的なスケジュールで関係者に送信できます。 |
 | 2023年1月 | [日付フィールドのサポートの活用](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/use-cases/data-views-use-cases/leverage-date-field-support.html?lang=en) | ビデオ | Customer Journey Analytics内で日付および日時フィールドを使用できます。 日付または日付 — 時間フィールドの表示方法を選択し、「含める/除外」機能で日付固有の論理演算子を使用して、表示内容をフィルターします。 |
 | 2023年1月 | [初回のセッションとリピートセッション](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/use-cases/data-views-use-cases/first-time-and-returning-sessions.html?lang=en) | ビデオ | ユーザーの初回セッションと再訪問セッションを区別する方法を説明します。 これは、レポートに適用される 13 か月のルックバックによって実現されます。 |
 | 2023年1月 | [実験パネルの使用](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/panels/use-the-experimentation-panel.html?lang=en) | ビデオ | 実験データに基づいてビジュアライゼーションを自動的に作成する、実験パネルを設定および使用する方法を説明します。 |
@@ -331,7 +331,7 @@ Experience Manager のリリースノートはすべて以下のページに記�
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2023年1月 | [設定リファレンスガイド](https://experienceleague.adobe.com/docs/commerce-admin/config/guide-overview.html) | 新しいドキュメント | 設定タブ、ページ、セクション別に整理されたすべての Commerce 管理者ストア設定の説明情報を確認します。 |
-| 2023年1月 | [GraphQL for Adobe Commerceの概要](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html) | ビデオ | GraphQL on Adobe CommerceとMagento Open Sourceの使用方法を説明します。 クエリ、突然変異、スキーマの使用について説明します。 |
+| 2023年1月 | [GraphQL for Adobe Commerceの概要](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html) | ビデオ | Adobe Commerce と Magento Open Source で GraphQL を使用する方法をご確認ください。クエリ、ミューテーション、スキーマの使用について説明します。 |
 | 2023年1月 | [ライブ検索でのレコメンデーション](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html) | ビデオ | ライブ検索で商品のレコメンデーションをストアに追加し、非常に魅力的で関連性の高い、パーソナライズされたショッピングエクスペリエンスを生み出す方法を説明します。 |
 
 {style=&quot;table-layout:auto&quot;}
@@ -451,29 +451,29 @@ Experience League の新しい [!DNL Workfront] コースと チュートリア�
 
 すべての製品の最新情報の総まとめについては、[[!DNL Workfront] 製品リリース](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html?lang=ja)ページを参照してください。
 
-## ![アイコン](/assets/advertising-cloud.png) Adobe Advertising Cloud {#adcloud}
+## ![アイコン](/assets/advertising-cloud.png) Adobe広告 {#advertising}
 
-リリースノート：[!DNL Adobe Advertising Cloud]
+リリースノート：[!DNL Adobe Advertising]
 
-<!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-* [ [!DNL Advertising Cloud DSP] の新機能](#adcloud-dsp)
-* [ [!DNL Advertising Cloud Search] の新機能](#adcloud-search)
-<!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
+<!-- * [New features across [!DNL Advertising]](#advertising-all) -->
+* [ [!DNL Advertising DSP] の新機能](#advertising-dsp)
+* [ [!DNL Advertising Search] の新機能](#advertising-search)
+<!-- * [New [!DNL Advertising] tutorials](#tutorials-advertising) -->
 
 <!--
-### New features across [!DNL Advertising Cloud] {#adcloud-all}
+### New features across [!DNL Advertising] {#advertising-all}
 
 Last updated: **August 9, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| Integration with [!DNL Adobe Analytics] | (August 6 release) Improvements to the data feed that Advertising Cloud sends to [!DNL Analytics] result in fewer mismatches between click/cost/impression data from the search engines and related conversion data in [!DNL Analytics]. |
+| Integration with [!DNL Adobe Analytics] | (August 6 release) Improvements to the data feed that Advertising sends to [!DNL Analytics] result in fewer mismatches between click/cost/impression data from the search engines and related conversion data in [!DNL Analytics]. |
 
 {style="table-layout:auto"}
 
 -->
 
-### [!DNL Advertising Cloud DSP] の新機能 {#adcloud-dsp}
+### [!DNL Advertising DSP] の新機能 {#advertising-dsp}
 
 最終更新日：**2022年11月23日（PT）**
 
@@ -483,7 +483,7 @@ Last updated: **August 9, 2022**
 
 {style=&quot;table-layout:auto&quot;}
 
-### [!DNL Advertising Cloud Search] の新機能 {#adcloud-search}
+### [!DNL Advertising Search] の新機能 {#advertising-search}
 
 最終更新日： **2022 年 1 月 11 日**
 
