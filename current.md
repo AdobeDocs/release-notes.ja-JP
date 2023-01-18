@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0f238ebb4a330646e16379cbb61f959a37cd7c87
+source-git-commit: 5660df7c9bf29a10c46f0fda5b4b6b2a441532aa
 workflow-type: tm+mt
-source-wordcount: '5416'
-ht-degree: 57%
+source-wordcount: '5495'
+ht-degree: 56%
 
 ---
 
@@ -25,7 +25,7 @@ Experience Maker として成功するための道のりは、[Experience League
 
 このページでは、Experience Cloud 製品リリースノートページと、Experience League に関する最新のチュートリアル、コース、イベントにアクセスできます。
 
-最終更新日：**2023年1月11日（PT）**
+最終更新日：**2023年1月18日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -485,10 +485,11 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising Search] の新機能 {#advertising-search}
 
-最終更新日： **2022 年 1 月 11 日**
+最終更新日： **2022 年 1 月 19 日**
 
 | 機能 | 説明 |
 | ------- | ----------- |
+| キャンペーン、バルクシート、アドバンス (ACM) | (1 月 5 日リリース； [!DNL Google Ads] および [!DNL Microsoft Advertising] キャンペーン ) 広告ネットワークのエディターで広告をカスタマイズした場合、でレスポンシブ検索広告のテキストフィールドの属性として使用できるようになりました。 [!DNL Advertising Search]. 広告ヘッドライン、説明、および表示 URL の最初と 2 番目のパス内で、次の形式を使用して広告カスタマイズ機能を含めます。<ul><li>[!DNL Google Ads]:{CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]:{CUSTOMIZER.Attribute name:default text}</code></li></ul>広告タイトルの広告カスタマイザーの例：「大量の雨靴の在庫が `{CUSTOMIZER.Discount:10%}` 割引」 |
 | キャンペーン、バルクシート、レポート | （[!DNL Microsoft® Advertising] アカウント、11月15日リリース）[!DNL Microsoft® Audience Network] でのキャンペーンのサポートはベータ版ではなくなりました。<ul><li>オーディエンスキャンペーンのステータス（キャンペーンタイプ[!UICONTROL オーディエンス（画像）]または[!UICONTROL オーディエンス（フィード）]）、広告グループ（広告グループタイプ[!UICONTROL オーディエンス]）および広告（クリエイティブタイプ[!UICONTROL レスポンシブ広告]）を[!UICONTROL キャンペーン]ビューおよびバルクシートを使用して、作成、編集および変更できます。</li><li>[!UICONTROL キャンペーン]ビューで、テーブル形式およびトレンドグラフ形式のパフォーマンスデータとともに、既存のオーディエンスキャンペーンを表示できます。また、広告レベルのパフォーマンスデータは、レポートや Adobe Analytics でも入手できます（[!DNL Analytics] 統合を利用する広告主向け）。</li></ul>オーディエンスキャンペーンは、標準ポートフォリオまたはハイブリッドポートフォリオに含めることができます。 |
 |  | （[!DNL Microsoft® Advertising] アカウント、11月15日リリース）マルチメディア広告のサポートはベータ版ではなくなりました。検索キャンペーンで、[!UICONTROL キャンペーン]ビューおよびバルクシートを使用して、マルチメディア広告を作成および管理できます。広告にはクリエイティブタイプ「[!UICONTROL マルチメディア広告]」があります。<br><br>マルチメディア広告のあるキャンペーンは、[!UICONTROL ターゲットインプレッション共有]（ハイブリッドポートフォリオではまだサポートされていません）以外の支出戦略を使用する、標準ポートフォリオまたはハイブリッドポートフォリオに含めることができます。<br><br>[!UICONTROL キャンペーン]ビューで、パフォーマンスデータをデーブル形式およびトレンドグラフ形式で、既存のオーディエンスキャンペーンを表示できます。広告レベルのパフォーマンスデータは、レポートや [!DNL Analytics] でも入手できます（[!DNL Analytics] 統合を利用する広告主向け）。 |
 | [!UICONTROL オーディエンス]、[!UICONTROL レポート] | （[!DNL Microsoft® Advertising] アカウント、11月29日リリース）動的リマーケティングオーディエンスのサポートはベータ版ではなくなりました。<ul><li>動的リマーケティングオーディエンスが同期され、[!UICONTROL キャンペーン]／[!UICONTROL オーディエンス]で[!UICONTROL オーディエンスタイプ]「[!UICONTROL 動的リマーケティング] &lt;*VisitorType*>」（「動的リマーケティングの過去の購入者」など）で使用可能になります。また、動的なリマーケティングオーディエンスを作成、更新、削除することもできます。</li><li>オーディエンスをキャンペーンレベルおよび広告グループレベルの広告ターゲットおよび除外として使用できます。 ターゲットには入札修飾子を含めることができます。**メモ：** 動的リマーケティングオーディエンスターゲットの入札修飾子は、「[!UICONTROL 入札調整値を自動最適化]」設定のポートフォリオでは最適化されません。</li><li>動的リマーケティングオーディエンスのデータは、[!UICONTROL オーディエンスターゲットレポート]で確認できます。</li></ul> |
