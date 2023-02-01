@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 5660df7c9bf29a10c46f0fda5b4b6b2a441532aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5495'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -208,7 +208,7 @@ _プレリリースチャネルで利用できる新機能_
    * **[テンプレートエディターのフォームデータモデル](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/create-an-adaptive-form-on-forms-cs/creating-adaptive-form.html?lang=ja#edit-form-model-properties-of-an-adaptive-form-edit-form-model)** - テンプレートエディターで、フォームデータモデルスキーマをアダプティブフォームテンプレートに関連付けることができます。これにより、アダプティブフォームの作成に要する時間を短縮できます。このオプションはアダプティブフォームエディターにも追加されており、既存のフォームのフォームデータモデルを選択または変更できるようになっています。
    * **[テンプレートエディターでのレコードのドキュメント](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=ja#document-of-record-support-in-adaptive-form-editor-dor-support-in-adaptiveform)** - テンプレートを使用して作成したすべてのフォームに対して、レコードのドキュメントの生成を標準化できるようになりました。この機能は、組織の要件のコンプライアンスと標準化を強化するのに役立ちます。
 * **[AEM Sites ページからのアダプティブフォームウィザードの起動](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/embed-adaptive-form-aem-sites.html?lang=ja)** - AEM Sites ページでは、アダプティブフォームのサポートが拡張されました。AEM Sites ページを表示したまま、新しいアダプティブフォームを作成したり、既存のアダプティブフォームを埋め込んだりできるようになりました。
-* **[レコードのドキュメント内のチェックボックスとラジオボタンの表示位置の変更](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=ja#customize-the-branding-information-in-document-of-record)**：[!UICONTROL レコードのドキュメント]内のチェックボックスとラジオボタンの希望する位置（[!UICONTROL 水平]、[!UICONTROL 垂直]、[!UICONTROL アダプティブフォームと同じ]）を設定できるようになりました。このオプションは、レコードのドキュメント内のチェックボックスオプションとラジオボタンオプションの位置を決定します。
+* **[レコードのドキュメント内のチェックボックスとラジオボタンの表示位置の変更](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=ja#customize-the-branding-information-in-document-of-record-customize-the-branding-information-in-document-of-record)**：[!UICONTROL レコードのドキュメント]内のチェックボックスとラジオボタンの希望する位置（[!UICONTROL 水平]、[!UICONTROL 垂直]、[!UICONTROL アダプティブフォームと同じ]）を設定できるようになりました。このオプションは、レコードのドキュメント内のチェックボックスオプションとラジオボタンオプションの位置を決定します。
 
 ### Experience Manager as a [!DNL Cloud Service] の基盤
 
@@ -451,7 +451,7 @@ Experience League の新しい [!DNL Workfront] コースと チュートリア�
 
 すべての製品の最新情報の総まとめについては、[[!DNL Workfront] 製品リリース](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html?lang=ja)ページを参照してください。
 
-## ![アイコン](/assets/advertising-cloud.png) Adobe広告 {#advertising}
+## ![アイコン](/assets/advertising-cloud.png) Adobe Advertising {#advertising}
 
 リリースノート：[!DNL Adobe Advertising]
 
@@ -489,7 +489,7 @@ Last updated: **August 9, 2022**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| キャンペーン、バルクシート、アドバンス (ACM) | (1 月 5 日リリース； [!DNL Google Ads] および [!DNL Microsoft Advertising] キャンペーン ) 広告ネットワークのエディターで広告をカスタマイズした場合、でレスポンシブ検索広告のテキストフィールドの属性として使用できるようになりました。 [!DNL Advertising Search]. 広告ヘッドライン、説明、および表示 URL の最初と 2 番目のパス内で、次の形式を使用して広告カスタマイズ機能を含めます。<ul><li>[!DNL Google Ads]:{CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]:{CUSTOMIZER.Attribute name:default text}</code></li></ul>広告タイトルの広告カスタマイザーの例：「大量の雨靴の在庫が `{CUSTOMIZER.Discount:10%}` 割引」 |
+| キャンペーン、バルクシート、アドバンス（ACM） | （1月5日リリース、[!DNL Google Ads] および [!DNL Microsoft Advertising] キャンペーン）広告ネットワークのエディターで広告カスタマイズ機能を作成した場合、[!DNL Advertising Search] のレスポンシブ検索広告のテキストフィールドで属性として使用できるようになりました。広告の見出し、説明および表示 URL の 1 番目と 2 番目のパス内に、次の形式を使用して広告カスタマイズ機能を含めます。<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>広告タイトルにおける広告カスタマイズ機能の例：「豊富な在庫のレインブーツが `{CUSTOMIZER.Discount:10%}` 割引」 |
 | キャンペーン、バルクシート、レポート | （[!DNL Microsoft® Advertising] アカウント、11月15日リリース）[!DNL Microsoft® Audience Network] でのキャンペーンのサポートはベータ版ではなくなりました。<ul><li>オーディエンスキャンペーンのステータス（キャンペーンタイプ[!UICONTROL オーディエンス（画像）]または[!UICONTROL オーディエンス（フィード）]）、広告グループ（広告グループタイプ[!UICONTROL オーディエンス]）および広告（クリエイティブタイプ[!UICONTROL レスポンシブ広告]）を[!UICONTROL キャンペーン]ビューおよびバルクシートを使用して、作成、編集および変更できます。</li><li>[!UICONTROL キャンペーン]ビューで、テーブル形式およびトレンドグラフ形式のパフォーマンスデータとともに、既存のオーディエンスキャンペーンを表示できます。また、広告レベルのパフォーマンスデータは、レポートや Adobe Analytics でも入手できます（[!DNL Analytics] 統合を利用する広告主向け）。</li></ul>オーディエンスキャンペーンは、標準ポートフォリオにもハイブリッドポートフォリオにも含めることができます。 |
 |  | （[!DNL Microsoft® Advertising] アカウント、11月15日リリース）マルチメディア広告のサポートはベータ版ではなくなりました。検索キャンペーンで、[!UICONTROL キャンペーン]ビューおよびバルクシートを使用して、マルチメディア広告を作成および管理できます。広告にはクリエイティブタイプ「[!UICONTROL マルチメディア広告]」があります。<br><br>マルチメディア広告のあるキャンペーンは、[!UICONTROL ターゲットインプレッション共有]（ハイブリッドポートフォリオではまだサポートされていません）以外の支出戦略を使用する、標準ポートフォリオまたはハイブリッドポートフォリオに含めることができます。<br><br>[!UICONTROL キャンペーン]ビューで、パフォーマンスデータをデーブル形式およびトレンドグラフ形式で、既存のオーディエンスキャンペーンを表示できます。広告レベルのパフォーマンスデータは、レポートや [!DNL Analytics] でも入手できます（[!DNL Analytics] 統合を利用する広告主向け）。 |
 | [!UICONTROL オーディエンス]、[!UICONTROL レポート] | （[!DNL Microsoft® Advertising] アカウント、11月29日リリース）動的リマーケティングオーディエンスのサポートはベータ版ではなくなりました。<ul><li>動的リマーケティングオーディエンスが同期され、[!UICONTROL キャンペーン]／[!UICONTROL オーディエンス]で[!UICONTROL オーディエンスタイプ]「[!UICONTROL 動的リマーケティング] &lt;*VisitorType*>」（「動的リマーケティングの過去の購入者」など）で使用可能になります。また、動的なリマーケティングオーディエンスを作成、更新、削除することもできます。</li><li>オーディエンスをキャンペーンレベルおよび広告グループレベルの広告ターゲットおよび除外として使用できます。 ターゲットには入札修飾子を含めることができます。**メモ：** 動的リマーケティングオーディエンスターゲットの入札修飾子は、「[!UICONTROL 入札調整値を自動最適化]」設定のポートフォリオでは最適化されません。</li><li>動的リマーケティングオーディエンスのデータは、[!UICONTROL オーディエンスターゲットレポート]で確認できます。</li></ul> |
