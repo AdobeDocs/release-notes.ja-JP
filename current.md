@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ac727f5e20503266d2d64da66ee95b4ae4779fb5
+source-git-commit: 668e3a94c48a157a4abd3496754fac219c342362
 workflow-type: tm+mt
-source-wordcount: '5497'
-ht-degree: 99%
+source-wordcount: '5407'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,9 @@ Experience Maker として成功するための道のりは、[Experience League
 
 このページでは、Experience Cloud 製品リリースノートページと、Experience League に関する最新のチュートリアル、コース、イベントにアクセスできます。
 
-最終更新日：**2023年2月3日（PT）**
+リリース月： **2023 年 1 月**
+
+最終更新日：**2023年2月5日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -57,10 +59,13 @@ Experience League イベントでは、アドビの製品エキスパートか�
 
 今後のイベント：
 
-* [オンプレミス環境および AMS 環境用の AEM ベストプラクティスアナライザー](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **1月18日（PT）** - _AEM オンプレミスインスタンスおよび AMS インスタンスに関する分析およびレポート機能を提供する Adobe Experience Manager ベストプラクティスアナライザーツールについて説明します。AEM as a Cloud Service には適用されません。_
-* [Adobe Experience League ライブ：データ収集のハイライトとロードマップ](https://www.youtube.com/watch?v=Gj_FDCMgU8I) - **1月26日** - _アドビではデータ収集が重要です。使用するデータを信頼できる必要があります。昨年はリリースで盛りだくさんな年でしたが、今後も素晴らしいものを予定しています。このライブストリームイベントでは、データ収集の専門家と協力して、最近の重要な更新の概要と、今後のロードマップ項目を確認できます。_ [詳細および登録](https://engage.adobe.com/ExpLeagueLive-230126.html).
+* [!DNL Workfront] - **2 月 7 日** - _ユーザーとユーザーを追跡し続けるための 10 のコミュニケーションに関するヒント_
 
-イベントスケジュールについて詳しくは、[Experience League のイベント](https://experienceleague.adobe.com/events/?lang=ja)を参照してください。
+* [!DNL Campaign Classic] - **2 月 9 日** - _T. Rowe 価格が顧客エンゲージメントを促進_
+
+* [!DNL Campaign Standard] - **2 月 9 日**  — コミュニティコーヒーブレーク — _Adobe [!DNL Campaign] コミュニティ Q&amp;A コーヒーブレーク — APAC_
+
+イベントの登録と完全なスケジュールについては、 [イベントのExperience League](https://experienceleague.adobe.com/events/?lang=ja).
 
 ## ![アイコン](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
