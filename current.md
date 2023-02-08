@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f3a7fe1adc438d0fce977ba01b77fd99fc75776e
+source-git-commit: 1b71ade96af12784be613e71e4ff89e57fa4a1c2
 workflow-type: tm+mt
-source-wordcount: '5028'
-ht-degree: 60%
+source-wordcount: '5006'
+ht-degree: 59%
 
 ---
 
@@ -526,23 +526,21 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising DSP] の新機能 {#advertising-dsp}
 
-最終更新日：**2023 年 02 月 3 日（PT）**
+最終更新日：**2023 年 02 月 8 日（PT）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL 契約] | （1 月 25 日リリース）在庫/契約表示レポートのペーシングで、保証された契約に関する新しい「PG Impression Pacing」支出列が追加されました。 |
-| [!UICONTROL キャンペーン] | （1 月 4 日のリリース）選択した日付範囲でおこなわれた変更を示す変更ログを各キャンペーンで使用できるようになりました。 変更ログは、既にパッケージと配置に使用できました。 |
+| [!UICONTROL キャンペーン] | (2 月 3 日リリース；ベータ版機能 ) 変更ログをグラフ形式で表示し、任意のエントリにメモを追加できるようになりました。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Search] の新機能 {#advertising-search}
 
-最終更新日：**2022年1月18日（PT）**
+最終更新日：**2023 年 02 月 8 日（PT）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL キャンペーン], [!UICONTROL Bulksheets], [!UICONTROL アドバンス (ACM)] | (1 月 5 日リリース： [!DNL Google Ads] および [!DNL Microsoft Advertising] キャンペーン ) — 広告ネットワークのエディターで広告をカスタマイズした場合、でレスポンシブ検索広告のテキストフィールドの属性として使用できるようになりました [!DNL Advertising Search]. 広告の見出し、説明および表示 URL の 1 番目と 2 番目のパス内に、次の形式を使用して広告カスタマイズ機能を含めます。<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>広告タイトルにおける広告カスタマイズ機能の例：「豊富な在庫のレインブーツが `{CUSTOMIZER.Discount:10%}` 割引」 |
-| [!UICONTROL キャンペーンのインポート] | (1 月 5 日リリース： [!DNL Google Ads] および [!DNL Microsoft Advertising] キャンペーン ) — をレプリケートできます [!DNL Google Ads] 広告カスタマイズ機能を利用できます。 [!DNL Microsoft Advertising] キャンペーンから [!UICONTROL 検索] > [!UICONTROL ツール] > [!UICONTROL キャンペーンのインポート]. インポートジョブをカスタマイズしない場合、これらは自動的にレプリケートされます。 読み込む対象を指定して読み込みジョブをカスタマイズする場合は、必ず [!UICONTROL フィード] > [!UICONTROL 広告カスタマイズフィード。] |
+| [!UICONTROL キャンペーン] | （2 月 6 日リリース）ベータ版機能 ) 読み取り専用同期のサポートが、 [!DNL Google Ads] 検出キャンペーン。 検出キャンペーンには [!UICONTROL キャンペーンタイプ] &quot;[!UICONTROL 検出],&quot; [!UICONTROL 広告グループタイプ] &quot;[!UICONTROL 検出],&quot;および [!UICONTROL クリエイティブタイプ] &quot;[!UICONTROL 探索広告]」または「[!UICONTROL 検出カルーセル広告]&quot; （マルチ画像カルーセル広告の場合） 標準ポートフォリオとハイブリッドポートフォリオに検出キャンペーンを含めることができます。<br><br>検出キャンペーンの広告レベルのデータは、レポートで使用できます。 Adobe Analytics統合の広告主の場合、広告レベルのデータは [!DNL Analytics]. 同様に、 [!DNL Analytics] データは [!DNL Search];データは、アップグレードされたを使用して送信されます `s_kwcid` トラッキングパラメーター ( `s_kwcid` 通常はアカウントに使用する形式です。 通常、古いバージョンの `s_kwcid`を使用する場合、クリック/コストデータと売上高データは、 `s_kwcids`ただし、両方のデータセットは、完全に分類され、同じキャンペーンとアカウントで集計されます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
