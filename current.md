@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7f360b3fcd35cc9ab8b52a9cc7e3ffaaff9e2ebc
+source-git-commit: a7eb01e1f3f7aa4cbfc881dc045c5319b0e721a2
 workflow-type: tm+mt
-source-wordcount: '5407'
-ht-degree: 98%
+source-wordcount: '5076'
+ht-degree: 97%
 
 ---
 
@@ -495,11 +495,8 @@ Last updated: **August 9, 2022**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| キャンペーン、バルクシート、アドバンス（ACM） | （1月5日リリース、[!DNL Google Ads] および [!DNL Microsoft Advertising] キャンペーン）広告ネットワークのエディターで広告カスタマイズ機能を作成した場合、[!DNL Advertising Search] のレスポンシブ検索広告のテキストフィールドで属性として使用できるようになりました。広告の見出し、説明および表示 URL の 1 番目と 2 番目のパス内に、次の形式を使用して広告カスタマイズ機能を含めます。<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>広告タイトルにおける広告カスタマイズ機能の例：「豊富な在庫のレインブーツが `{CUSTOMIZER.Discount:10%}` 割引」 |
-| キャンペーン、バルクシート、レポート | （[!DNL Microsoft® Advertising] アカウント、11月15日リリース）[!DNL Microsoft® Audience Network] でのキャンペーンのサポートはベータ版ではなくなりました。<ul><li>オーディエンスキャンペーンのステータス（キャンペーンタイプ[!UICONTROL オーディエンス（画像）]または[!UICONTROL オーディエンス（フィード）]）、広告グループ（広告グループタイプ[!UICONTROL オーディエンス]）および広告（クリエイティブタイプ[!UICONTROL レスポンシブ広告]）を[!UICONTROL キャンペーン]ビューおよびバルクシートを使用して、作成、編集および変更できます。</li><li>[!UICONTROL キャンペーン]ビューで、テーブル形式およびトレンドグラフ形式のパフォーマンスデータとともに、既存のオーディエンスキャンペーンを表示できます。また、広告レベルのパフォーマンスデータは、レポートや Adobe Analytics でも入手できます（[!DNL Analytics] 統合を利用する広告主向け）。</li></ul>オーディエンスキャンペーンは、標準ポートフォリオにもハイブリッドポートフォリオにも含めることができます。 |
-|  | （[!DNL Microsoft® Advertising] アカウント、11月15日リリース）マルチメディア広告のサポートはベータ版ではなくなりました。検索キャンペーンで、[!UICONTROL キャンペーン]ビューおよびバルクシートを使用して、マルチメディア広告を作成および管理できます。広告にはクリエイティブタイプ「[!UICONTROL マルチメディア広告]」があります。<br><br>マルチメディア広告のあるキャンペーンは、[!UICONTROL ターゲットインプレッション共有]（ハイブリッドポートフォリオではまだサポートされていません）以外の支出戦略を使用する、標準ポートフォリオまたはハイブリッドポートフォリオに含めることができます。<br><br>[!UICONTROL キャンペーン]ビューで、パフォーマンスデータをデーブル形式およびトレンドグラフ形式で、既存のオーディエンスキャンペーンを表示できます。広告レベルのパフォーマンスデータは、レポートや [!DNL Analytics] でも入手できます（[!DNL Analytics] 統合を利用する広告主向け）。 |
-| [!UICONTROL オーディエンス]、[!UICONTROL レポート] | （[!DNL Microsoft® Advertising] アカウント、11月29日リリース）動的リマーケティングオーディエンスのサポートはベータ版ではなくなりました。<ul><li>動的リマーケティングオーディエンスが同期され、[!UICONTROL キャンペーン]／[!UICONTROL オーディエンス]で[!UICONTROL オーディエンスタイプ]「[!UICONTROL 動的リマーケティング] &lt;*VisitorType*>」（「動的リマーケティングの過去の購入者」など）で使用可能になります。また、動的なリマーケティングオーディエンスを作成、更新、削除することもできます。</li><li>オーディエンスをキャンペーンレベルおよび広告グループレベルの広告ターゲットおよび除外として使用できます。 ターゲットには入札修飾子を含めることができます。**メモ：** 動的リマーケティングオーディエンスターゲットの入札修飾子は、「[!UICONTROL 入札調整値を自動最適化]」設定のポートフォリオでは最適化されません。</li><li>動的リマーケティングオーディエンスのデータは、[!UICONTROL オーディエンスターゲットレポート]で確認できます。</li></ul> |
-| [!UICONTROL キャンペーンのインポート] | （11月15日リリース）[!DNL Google Ads] キャンペーンを [!DNL Microsoft® Advertising] にインポートするすべてのオプションはベータ版ではなくなりました。<ul><li>[!DNL Google Display Network] キャンペーンを [!DNL Microsoft® Audience Network] の [!DNL Microsoft® Advertising] オーディエンスキャンペーンにインポートします。</li><li>[!DNL Google Ads] パフォーマンス最大キャンペーン（ローカル在庫広告を含む）を [!DNL Microsoft® Advertising] スマートショッピングキャンペーンにインポートします。</li><li>（既にベータ版ではなくなりました）[!DNL Google Ads] 検索キャンペーンとディスプレイキャンペーンを [!DNL Microsoft® Advertising] 検索キャンペーンとディスプレイキャンペーンにインポートします。</li></ul>[!UICONTROL 検索]／[!UICONTROL ツール]／[!UICONTROL キャンペーンをインポート]からキャンペーンをインポートすると、インポートジョブのステータスの確認、エラーログの確認、インポートスケジュールの編集、一時停止、削除ができます。 |
+| [!UICONTROL キャンペーン], [!UICONTROL Bulksheets], [!UICONTROL アドバンス (ACM)] | （1月5日リリース、[!DNL Google Ads] および [!DNL Microsoft Advertising] キャンペーン）広告ネットワークのエディターで広告カスタマイズ機能を作成した場合、[!DNL Advertising Search] のレスポンシブ検索広告のテキストフィールドで属性として使用できるようになりました。広告の見出し、説明および表示 URL の 1 番目と 2 番目のパス内に、次の形式を使用して広告カスタマイズ機能を含めます。<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>広告タイトルにおける広告カスタマイズ機能の例：「豊富な在庫のレインブーツが `{CUSTOMIZER.Discount:10%}` 割引」 |
+| [!UICONTROL キャンペーンのインポート] | (1 月 5 日リリース； [!DNL Google Ads] および [!DNL Microsoft Advertising] キャンペーン ) [!DNL Google Ads] 広告カスタマイズ機能を利用できます。 [!DNL Microsoft Advertising] キャンペーンから [!UICONTROL 検索] > [!UICONTROL ツール] > [!UICONTROL キャンペーンのインポート]. インポートジョブをカスタマイズしない場合、これらは自動的にレプリケートされます。 読み込む対象を指定して読み込みジョブをカスタマイズする場合は、必ず [!UICONTROL フィード] > [!UICONTROL 広告カスタマイズフィード。] |
 
 {style=&quot;table-layout:auto&quot;}
 
