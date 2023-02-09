@@ -6,9 +6,9 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1b71ade96af12784be613e71e4ff89e57fa4a1c2
+source-git-commit: b485f46078429951e5d8470deab579da1a47d84c
 workflow-type: tm+mt
-source-wordcount: '5006'
+source-wordcount: '4983'
 ht-degree: 59%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 59%
 
 ## 製品リリースのアップデートとイベント — 2023 年 2 月
 
-最終更新コンテンツ： **2023 年 2 月 9 日**
+最終更新コンテンツ： **2023 年 2 月 10 日**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -58,8 +58,6 @@ ht-degree: 59%
 Experience League イベントでは、アドビの製品エキスパートから学び、やり取りし、回答を得ることができます。
 
 * [!DNL Campaign Standard] - **2 月 9 日 |IST 午前 9 時 30 分**  — コミュニティコーヒーブレーク — _Adobe [!DNL Campaign] コミュニティ Q&amp;A コーヒーブレーク — APAC_ - [詳細と登録](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/adobe-campaign-community-q-amp-a-coffee-break-february-9th-9/td-p/568425)
-
-* [!DNL Campaign Standard] - **2 月 9 日 | PST 午前 9 時**  — コミュニティコーヒーブレーク — _[!DNL Campaign]コミュニティ Q&amp;A コーヒーブレーク — 南北アメリカ/EMEA_ - [詳細と登録](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/adobe-campaign-community-q-amp-a-coffee-break-february-9th-9am/td-p/568421)
 
 * [!DNL Workfront] - **2 月 9 日 | MT 午前 10 時 )** - _Customer Panel - Logging Time_ - [詳細と登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ApJEa7JdN0is2sG3HRpLDA,9brRsWkVcEahJAdD813wug,Xm1T4YtdIEGZaxxbANkVRg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
