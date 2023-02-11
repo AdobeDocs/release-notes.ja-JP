@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b485f46078429951e5d8470deab579da1a47d84c
+source-git-commit: 5fd02900727340c256c76ba0faca53f25147a02a
 workflow-type: tm+mt
-source-wordcount: '4983'
-ht-degree: 59%
+source-wordcount: '5082'
+ht-degree: 58%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 59%
 
 ## 製品リリースのアップデートとイベント — 2023 年 2 月
 
-最終更新コンテンツ： **2023 年 2 月 10 日**
+最終更新コンテンツ： **2023 年 2 月 11 日**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -534,11 +534,13 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising Search] の新機能 {#advertising-search}
 
-最終更新日：**2023 年 02 月 8 日（PT）**
+最終更新日：**2023 年 02 月 10 日（PT）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
 | [!UICONTROL キャンペーン] | （2 月 6 日リリース）ベータ版機能 ) 読み取り専用同期のサポートが、 [!DNL Google Ads] 検出キャンペーン。 検出キャンペーンには [!UICONTROL キャンペーンタイプ] &quot;[!UICONTROL 検出],&quot; [!UICONTROL 広告グループタイプ] &quot;[!UICONTROL 検出],&quot;および [!UICONTROL クリエイティブタイプ] &quot;[!UICONTROL 探索広告]」または「[!UICONTROL 検出カルーセル広告]&quot; （マルチ画像カルーセル広告の場合） 標準ポートフォリオとハイブリッドポートフォリオに検出キャンペーンを含めることができます。<br><br>検出キャンペーンの広告レベルのデータは、レポートで使用できます。 Adobe Analytics統合の広告主の場合、広告レベルのデータは [!DNL Analytics]. 同様に、 [!DNL Analytics] データは [!DNL Search];データは、アップグレードされたを使用して送信されます `s_kwcid` トラッキングパラメーター ( `s_kwcid` 通常はアカウントに使用する形式です。 通常、古いバージョンの `s_kwcid`を使用する場合、クリック/コストデータと売上高データは、 `s_kwcids`ただし、両方のデータセットは、完全に分類され、同じキャンペーンとアカウントで集計されます。 |
+|  | ([!DNL Google Ads] アカウント2 月 11 日リリース ) の[!UICONTROL Target インプレッション共有]「入札戦略は、検索ネットワーク上のキャンペーンでのみ使用できるようになりました。 この入札戦略の場合、 [!DNL Google Ads] ( [!DNL Search]) は、ターゲットのインプレッション共有と広告の位置を達成するために、入札を最適化します。 必要に応じて、 [!UICONTROL Target インプレッション共有] パーセント [!UICONTROL ターゲット広告の位置]、および [!UICONTROL 最大 CPC] （クリックあたりのコスト）。 このオプションは、ハイブリッドポートフォリオではまだサポートされていません。 |
+| [!UICONTROL Bulksheets] | ([!DNL Microsoft] キャンペーン；2 月 12 日リリース ) 一括送信シートに「[!UICONTROL コールトゥアクション]&quot;および&quot;[!UICONTROL コールトゥアクション言語]」マルチメディア広告（レスポンシブ広告フォーマット）の列。[!UICONTROL クリエイティブ（RSA を除く）]&quot;行 |
 
 {style=&quot;table-layout:auto&quot;}
 
