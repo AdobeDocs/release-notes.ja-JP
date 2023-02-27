@@ -5,14 +5,14 @@ doc-type: release notes
 last-update: June 2021
 author: mfrei
 source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '716'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
-# テンプレート - Adobe Experience Cloud リリースノート — 2021 年 ○ 月
+# テンプレート - Adobe Experience Cloud リリースノート — 2021年○月
 
 ![バナー](/assets/experience-cloud-banner-3.png)
 
@@ -24,15 +24,15 @@ Adobe Experience Cloud の新機能および修正点です。
 
 >[!NOTE]
 >
->リリース後に発表された新情報には、更新の日付が明記されます。
+>リリース後に公開された新しい情報には、公開日が明記されます。
 
-最新の更新： **2021 年 9 月**
+最終更新日：**2021年9月**
 
-* [Experience Leagueライブイベント](#events)
+* [Experience League ライブイベント](#events)
 * [Experience Cloud の主要なインターフェイスコンポーネント](#ecloud)
-* [アドビシステムステータス](#status)
+* [アドビシステムのステータス](#status)
 * [Experience Platform](#platform)
-* [Experience Platformアプリケーションサービス](#services)
+* [Experience Platform アプリケーションサービス](#services)
 * [Journey Optimizer](#journey-opt)
 * [[!DNL Analytics]](#analytics) および [Customer Journey Analytics](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
@@ -46,11 +46,11 @@ Adobe Experience Cloud の新機能および修正点です。
 * [Document Cloud](#doc-cloud)
 * [Creative Cloud エンタープライズ版](#creative-cloud)
 
-## アドビシステムステータス {#status}
+## アドビシステムのステータス {#status}
 
 機能と修正点。
 
-[Adobe システムステータス](https://status.adobe.com/ja)を参照してください。
+[アドビシステムのステータス](https://status.adobe.com/ja)を参照してください。
 
 ## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud の主要な UI コンポーネント {#ecloud}
 
@@ -66,10 +66,10 @@ Experience Cloud の主要なインターフェイスコンポーネントには
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-[!DNL Experience Platform,] のリリースノート（[!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration]、[!UICONTROL Offers]、[!UICONTROL People]、[!UICONTROL Places]、[!UICONTROL Mobile Services]、およびセキュリティ速報を含む）。
+[!DNL Experience Platform,] のリリースノート（[!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration]、[!UICONTROL オファー]、[!UICONTROL People]、[!UICONTROL Places]、[!UICONTROL Mobile Services]、およびセキュリティ速報を含む）。
 
 * [Experience Cloud ID サービス](#ecid)
-* [Experience Platform リリースノート](https://docs.adobe.com/content/help/ja-JP/experience-platform/release-notes/latest.html)
+* [Experience Platform リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)
 * [Experience Platform Launch](#launch)
 * [Journey Orchestration](#journey)
 * [Mobile Services および Mobile SDK](#mobile)
@@ -80,7 +80,7 @@ Experience Cloud の主要なインターフェイスコンポーネントには
 
 ### [!UICONTROL Experience Platform Launch] {#launch}
 
-詳しくは、
+参照：
 
 ### [!UICONTROL Journey Orchestration] {#journey}
 
@@ -105,7 +105,7 @@ Adobe [!UICONTROL Experience Platform] を使用すると、ジャーニーの�
 
 ## Analytics {#analytics}
 
-Adobe Analytics の新機能および修正点です。
+Adobe Analytics の新機能および修正点：
 
 ### Adobe Analytics の新機能 {#aa-features}
 
@@ -115,7 +115,7 @@ Adobe Analytics の新機能および修正点です。
 | 機能 B | テキスト |
 | 機能 C | テキスト |
 
-### [!DNL Media Analytics] および [!DNL iOS] 用 [!DNL Android™] SDK（以前の VHL SDK）  {#aa-va}
+### [!DNL iOS] および [!DNL Android™] 用 [!DNL Media Analytics] SDK（以前の VHL SDK）  {#aa-va}
 
 | 機能 | 説明 |
 | ------- | ------- |
@@ -222,15 +222,15 @@ Adobe Experience Manager（AEM）の新機能、修正点および更新です�
 * 修正
 * 修正
 
-## キャンペーン {#ac}
+## Campaign {#ac}
 
-Adobe Campaign は、オンラインおよびオフラインのマーケティングチャネルにわたって 1 対 1 のメッセージを届けるために直感的で自動化された方法を提供します。顧客の習慣や好みによって特定されたエクスペリエンスを利用して、顧客が欲しいものを予測できるようになりました。
+Adobe Campaign は、オンラインおよびオフラインのマーケティングチャネルにわたって 1 対 1 のメッセージを届けるために直感的で自動化された方法を提供します。顧客の習慣や好みに合わせて決定したエクスペリエンスを利用して、顧客が何を求めているかを予測できるようになりました。
 
 ### その他のリソース
 
 テキスト
 
-## Advertising {#adcloud}
+## 広告 {#adcloud}
 
 | 機能 | 説明 |
 | ------- | ------- |
@@ -257,7 +257,7 @@ Marketo Engage は、複雑な購入ジャーニーのすべてのステージ�
 
 リリース日：2020 年 2 月 21 日（PT）
 
-* **Microsoft® Dynamics _Microsoft®の所有者の変更_ フローアクション：** リードまたは連絡先所有者を「Marketo Engage」から直接変更します。
+* **Microsoft Dynamics _Microsoft® フローにおける所有者の変更_アクション：** Marketo Engage から直接リードまたは連絡先所有者を変更します。
 * **API 呼び出しの機能強化：**
    * ユーザー管理 API
    * カスタムオブジェクトスキーマ API
@@ -276,7 +276,7 @@ Marketo Engage は、複雑な購入ジャーニーのすべてのステージ�
 
 ### 発表
 
-**Marketo Engage サクセスセンター：** 2020 年 2 月に立ち上げ予定。サクセスセンターは製品内ヘルプセンターで、製品ドキュメントとコミュニティの検索、ハウツーガイドの起動、導入コンテンツへのアクセスなどをおこなうことができます。注意：この機能は、ANZ でベータ版として開始され、四半期の後半に北米で公開されます。
+**Marketo Engage サクセスセンター：** 2020 年 2 月に立ち上げ予定。サクセスセンターは製品内ヘルプセンターで、製品ドキュメントとコミュニティの検索、ハウツーガイドの起動、導入コンテンツへのアクセスなどを行うことができます。メモ：この機能は ANZ でベータ版として開始され、四半期の後半に北米で公開予定です。
 
 ### 廃止
 
