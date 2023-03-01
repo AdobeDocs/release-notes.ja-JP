@@ -6,7 +6,7 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 857554e2e67ba846740e4a529d9f0d6d2e21fc18
+source-git-commit: 6e423665d7e8b0b8559cad3e1824d92dc66709fd
 workflow-type: tm+mt
 source-wordcount: '5139'
 ht-degree: 96%
@@ -27,11 +27,11 @@ ht-degree: 96%
 
 成功への道筋は [Experience League](https://experienceleague.adobe.com/?lang=ja#home) から始まります。セルフサービスの[製品ドキュメント](https://experienceleague.adobe.com/docs/?lang=ja)とガイド付きの[チュートリアルビデオ](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ja)の膨大なライブラリを参照してください。自分のレベルと役割に合った[コース](https://experienceleague.adobe.com/?lang=ja#courses)を見つけたり、同業者のオンライン[コミュニティ](https://experienceleaguecommunities.adobe.com/?profile.language=ja)に質問したり、必要に応じて専門家の[サポート](https://experienceleague.adobe.com/?support-tab=home&amp;lang=ja#support)を受けたりできます。
 
-## Adobe Summit 2023
+## Adobe [!DNL Summit] 2023 年
 
 ラスベガスで私たちと一緒に、あなたのスキルセットを拡張し、インスピレーションを引き出し、デジタル経済を個人的にする力を与える接続を構築します。 ベガスでの世界クラスのイベントに参加できない人々のために、無料でどこからでも私たちに参加してください。
 
-[!BADGE Summit に登録]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other" tooltip="Summit に登録"}
+[!BADGE 登録]{type=Informative url=&quot;https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other&quot; tooltip=&quot;登録先 [!DNL Adobe Summit]&quot;}
 
 ## 製品リリースのアップデートとイベント - 2023年2月
 
