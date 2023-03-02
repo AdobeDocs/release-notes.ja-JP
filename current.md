@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6e423665d7e8b0b8559cad3e1824d92dc66709fd
+source-git-commit: 0d56cb0d35c17a40b51b7244a4842215a298b76b
 workflow-type: tm+mt
-source-wordcount: '5139'
-ht-degree: 96%
+source-wordcount: '5241'
+ht-degree: 93%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 96%
 
 ## 製品リリースのアップデートとイベント - 2023年2月
 
-コンテンツの最終更新日：**2023年2月10日（PT）**
+最終更新コンテンツ： **2023 年 3 月 3 日**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -530,23 +530,24 @@ Last updated: **August 9, 2022**
 
 ### [!DNL Advertising DSP] の新機能 {#advertising-dsp}
 
-最終更新日：**2023年2月8日（PT）**
+最終更新日： **2023 年 3 月 3 日**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL キャンペーン] | （2月3日リリース、ベータ版機能）変更ログをグラフ形式で表示でき、任意のエントリにメモを追加できるようになりました。 |
+| [!UICONTROL キャンペーン] | （2 月 15 日リリース）変更ログをグラフ形式で表示し、任意のエントリにメモを追加できるようになりました。 |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### [!DNL Advertising Search] の新機能 {#advertising-search}
 
-最終更新日：**2023年2月10日（PT）**
+最終更新日： **2023 年 3 月 3 日**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL キャンペーン] | （2月6日リリース、ベータ版機能）[!DNL Google Ads] ディスカバリーキャンペーンに対する読み取り専用同期がサポートされるようになりました。検出キャンペーンには [!UICONTROL キャンペーンタイプ] &quot;[!UICONTROL 検出],&quot; [!UICONTROL 広告グループタイプ] &quot;[!UICONTROL 検出],&quot;および [!UICONTROL クリエイティブタイプ] &quot;[!UICONTROL 探索広告]」または「[!UICONTROL 検出カルーセル広告]&quot; （マルチ画像カルーセル広告の場合） 標準ポートフォリオとハイブリッドポートフォリオにディスカバリーキャンペーンを含めることができます。<br><br>ディスカバリーキャンペーンの広告レベルのデータは、レポートで入手できます。 Adobe Analytics 統合を使用する広告主の場合、広告レベルのデータは [!DNL Analytics] で入手できます。同様に、[!DNL Analytics] データは [!DNL Search] で入手できます。（アカウントに通常使用している `s_kwcid` 形式にかかわらず）アップグレードされた `s_kwcid` トラッキングパラメーターを使用して、データが送信されます。 古いバージョンの `s_kwcid` を通常使用している場合、クリック／コストデータと売上高データは、異なる `s_kwcids` を使用してトラッキングされますが、どちらのデータセットも、同じキャンペーンおよびアカウントの下で完全に分類され集計されます。 |
+| [!UICONTROL キャンペーン] | (Google Ads アカウントベータ版機能を開く；2 月 24 日リリース ) の読み取り専用同期のサポート [!DNL Google Ads] 検出キャンペーンは、すべての広告主に対してベータモードです。  検出キャンペーンには [!UICONTROL キャンペーンタイプ] &quot;[!UICONTROL 検出],&quot; [!UICONTROL 広告グループタイプ] &quot;[!UICONTROL 検出],&quot;および [!UICONTROL クリエイティブタイプ] &quot;[!UICONTROL 探索広告]」または「[!UICONTROL 検出カルーセル広告]&quot; （マルチ画像カルーセル広告の場合） 標準ポートフォリオとハイブリッドポートフォリオにディスカバリーキャンペーンを含めることができます。<br><br>ディスカバリーキャンペーンの広告レベルのデータは、レポートで入手できます。 Adobe Analytics 統合を使用する広告主の場合、広告レベルのデータは [!DNL Analytics] で入手できます。同様に、[!DNL Analytics] データは [!DNL Search] で入手できます。（アカウントに通常使用している `s_kwcid` 形式にかかわらず）アップグレードされた `s_kwcid` トラッキングパラメーターを使用して、データが送信されます。 古いバージョンの `s_kwcid` を通常使用している場合、クリック／コストデータと売上高データは、異なる `s_kwcids` を使用してトラッキングされますが、どちらのデータセットも、同じキャンペーンおよびアカウントの下で完全に分類され集計されます。 |
 |  | ([!DNL Google Ads] アカウント2 月 11 日リリース ) の[!UICONTROL Target インプレッション共有]「入札戦略は、検索ネットワーク上のキャンペーンでのみ使用できるようになりました。 この入札戦略の場合、 [!DNL Google Ads] ( [!DNL Search]) は、ターゲットのインプレッション共有と広告の位置を達成するために、入札を最適化します。 必要に応じて、 [!UICONTROL Target インプレッション共有] パーセント [!UICONTROL ターゲット広告の位置]、および [!UICONTROL 最大 CPC] （クリックあたりのコスト）。 このオプションは、ハイブリッドポートフォリオではまだサポートされていません。 |
 | [!UICONTROL Bulksheets] | ([!DNL Microsoft] キャンペーン；2 月 12 日リリース ) 一括送信シートに「[!UICONTROL コールトゥアクション]&quot;および&quot;[!UICONTROL コールトゥアクション言語]」マルチメディア広告（レスポンシブ広告フォーマット）の列。[!UICONTROL クリエイティブ（RSA を除く）]&quot;行 |
+| Google Manager アカウント | （2 月 24 日リリース）新しい [!UICONTROL 管理者] > [!UICONTROL 管理者アカウント] 機能を使用すると、 [!DNL Google Ads] 管理者アカウント [!DNL Search] クロスアカウントコンバージョンをアップロードします。 ( ) アップロードする場合は、この機能を使用します。 [!DNL Adobe] — トラッキングされたアカウント間のコンバージョン指標から [!DNL Google Ads] マネージャーアカウントまたは b) 次の項目にクロスアカウントコンバージョンを含むポートフォリオ目標をアップロード [!DNL Google Ads] ハイブリッド最適化の場合。<br><br>管理者アカウントの資格情報を追加すると、オプションの「[!UICONTROL クロスアカウントコンバージョンのマネージャアカウント]」列 [!UICONTROL キャンペーン] > [!UICONTROL アカウント] 「 」には、各子アカウントのマネージャーアカウント ID が表示され、「 」列には、manager アカウントが認証されていない場合にエラーが表示されます。 |
 
 {style=&quot;table-layout:auto&quot;}
 
