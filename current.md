@@ -31,7 +31,7 @@ ht-degree: 93%
 
 ラスベガスで私たちと一緒に、あなたのスキルセットを拡張し、インスピレーションを引き出し、デジタル経済を個人的にする力を与える接続を構築します。 ベガスでの世界クラスのイベントに参加できない人々のために、無料でどこからでも私たちに参加してください。
 
-[!BADGE 登録]{type=Informative url=&quot;https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other&quot; tooltip=&quot;登録先 [!DNL Adobe Summit]&quot;}
+[!BADGE 登録]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&mv=other"; tooltip="登録先 [!DNL Adobe Summit]"}
 
 ## 製品リリースのアップデートとイベント - 2023年2月
 
