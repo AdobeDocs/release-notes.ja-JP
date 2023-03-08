@@ -1,15 +1,15 @@
 ---
 description: Experience Cloud 製品およびサービスに関する以前のリリースノートです。Creative Cloud エンタープライズ版および Document Cloud に関する新しいヘルプとチュートリアルをご覧ください。
-seo-description: 2018 年以前の Adobe Experience Cloud の新機能および修正点です。
+seo-description: New features and fixes in the Adobe Experience Cloud - 2018 and earlier.
 title: 2018 年以前のリリースノート
-solution: Experience Cloud,Analytics,Target,Advertising Cloud
-seo-title: Adobe Experience Cloud の 2018 年以前のリリースノート
+solution: Experience Cloud,Analytics,Target,Advertising
+seo-title: Release Notes for 2018 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 exl-id: 4e553328-1e96-48d6-addd-ff51be5eb6df
-source-git-commit: ec65b571a62c7bc87f40ddf5d79d35e98587c0db
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+source-git-commit: eef9efd5591a9bdf3bdd0d89237b75304c49bc55
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
