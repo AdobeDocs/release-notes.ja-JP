@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: cc637cf51aac23cf129fae75a7a7f63f9d678eb3
+source-git-commit: d340d4d039920764e3853f0f86e9049cf4b4ccfd
 workflow-type: tm+mt
-source-wordcount: '4641'
+source-wordcount: '4620'
 ht-degree: 46%
 
 ---
@@ -94,8 +94,6 @@ Experience League イベントは、Adobeの製品エキスパートから学び
 | Adobeステータス API | <ul><li>Adobeステータス API は、Adobeクラウド製品とサービスの停止、中断、メンテナンスイベントに関する詳細情報とリアルタイムの更新を提供します。</li><li>API はで設定する必要があります。 [Adobe Developer Console](https://developer.adobe.com/console) を使用する前に設定します。 組織がAdobeAPI にアクセスするには、1 つ以上のAdobe製品の権限が必要です。 適切な権限を持つ開発者コンソールアカウントが必要です。</li><li>ドキュメントを確認してください [ここ](https://developer.adobe.com/adobe-status/) およびガイドに従って設定します。</li><li>設定が完了したら、 [API リファレンスドキュメント](https://developer.adobe.com/adobe-status/api/) をクリックして、使用可能な API とそれらを呼び出すための署名を表示します。</li></ul> |
 
 {style="table-layout:auto"}
-
-最新のリリース情報については、Adobe System Status の[リリースノート](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/02082023.html?lang=ja#status)を参照してください。
 
 +++
 
