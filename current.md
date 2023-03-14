@@ -6,9 +6,9 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d340d4d039920764e3853f0f86e9049cf4b4ccfd
+source-git-commit: 92c5b2be01a67c03ac79ae6e6f1dc1bb275c36f0
 workflow-type: tm+mt
-source-wordcount: '4620'
+source-wordcount: '4607'
 ht-degree: 46%
 
 ---
@@ -115,7 +115,7 @@ _3 月は更新されていません。_
 
 +++詳細
 
-* [Experience Platformリリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)  — 予定リリース — **2032 年 3 月 30 日**
+* [Experience Platformリリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)  — 予定リリース — **2023 年 3 月 30 日**
 
 ### 新しい [!DNL Experience Platform] のチュートリアルとコース
 
@@ -481,7 +481,7 @@ Adobe [!DNL Journey Optimizer] 向けに新しく公開されたビデオ、チ�
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2023年3月 | [トレーニングサンドボックスの設定](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=en) | チュートリアル | トレーニング用にサンドボックスを設定する方法について説明します。 スキーマの設定、サンプルデータの取り込み、イベントの作成に必要な手順を実行します。 |
-| 2023年3月 | [Journey Optimizerの課題](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | 課題 | 課題は、学習した内容を実践するために必要なシナリオと要件を提供します。各課題は、実装する固有のユースケースに対応します。 <p>新しい課題：<ul><li>[夏物コレクションのお知らせの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[注文確認の作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)</li><li>[製品補充通知の作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/product-replenishment-challenge.html?lang=en)</li></ul> |
+| 2023年3月 | [Journey Optimizerの課題](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en) | 課題 | 課題は、学習した内容を実践するために必要なシナリオと要件を提供します。各課題は、実装する固有のユースケースに対応します。 <p>新しい課題：<ul><li>[夏物コレクションのお知らせの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[注文確認の作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)</li></ul> |
 
 {style="table-layout:auto"}
 
