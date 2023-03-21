@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4e24ba2510e2ed90a11c05e952312b8b08603d80
+source-git-commit: 474b94e449ae89e0428f46fab1e3fca1cd10f0f5
 workflow-type: tm+mt
-source-wordcount: '4607'
-ht-degree: 99%
+source-wordcount: '4500'
+ht-degree: 94%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 99%
 
 ## 製品リリースのアップデートとイベント
 
-最終更新日：**2023年3月15日（PT）**
+最終更新日：**2023年3月20日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -601,24 +601,24 @@ Last updated: **August 9, 2022**
 
 Adobe Advertising の最新機能について説明します。
 
-最終更新日：**2023年3月2日（PT）**
+<!--
+Last updated: **March 2, 2023**
 
-| 機能 | 説明 |
+| Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL キャンペーン] | （2月15日（PT）リリース）変更ログをグラフ形式で表示でき、任意のエントリにメモを追加できるようになりました。 |
+| [!UICONTROL Campaigns] | (February 15 release) You can now view change logs in chart form, and you can add notes to any entry. |
 
 {style="table-layout:auto"}
+-->
 
 ### [!DNL Advertising Search] の新機能 {#advertising-search}
 
-最終更新日：**2023年3月2日（PT）**
+最終更新日： **2023 年 3 月 3 日**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL キャンペーン] | （Google Ads アカウント、オープンベータ版機能、2月23日（PT）リリース）[!DNL Google Ads] ディスカバリーキャンペーンの読み取り専用同期のサポートは、すべての広告主に対してベータモードになっています。ディスカバリーキャンペーンには、[!UICONTROL キャンペーンタイプ]の「[!UICONTROL ディスカバリー]」、[!UICONTROL 広告グループタイプ]の「[!UICONTROL ディスカバリー]」および [!UICONTROL クリエイティブタイプ]の「[!UICONTROL ディスカバリー広告]」（シングル画像広告の場合）または「[!UICONTROL ディスカバリーカルーセル広告]」（マルチ画像カルーセル広告の場合）があります。標準ポートフォリオとハイブリッドポートフォリオにディスカバリーキャンペーンを含めることができます。<br><br>ディスカバリーキャンペーンの広告レベルのデータは、レポートで入手できます。 Adobe Analytics 統合を使用する広告主の場合、広告レベルのデータは [!DNL Analytics] で入手できます。同様に、[!DNL Analytics] データは [!DNL Search] で入手できます。（アカウントに通常使用している `s_kwcid` 形式にかかわらず）アップグレードされた `s_kwcid` トラッキングパラメーターを使用して、データが送信されます。 古いバージョンの `s_kwcid` を通常使用している場合、クリック／コストデータと売上高データは、異なる `s_kwcids` を使用してトラッキングされますが、どちらのデータセットも、同じキャンペーンおよびアカウントの下で完全に分類され集計されます。 |
-|  | （[!DNL Google Ads]  アカウント、2月11日（PT）リリース）「[!UICONTROL ターゲットインプレッション共有]」入札戦略が検索ネットワーク上のキャンペーンでのみサポートされるようになりました。 この入札戦略の場合、ターゲットインプレッション共有と広告位置を達成するために、（[!DNL Search] ではなく）[!DNL Google Ads] が入札を最適化します。オプションで、[!UICONTROL ターゲットインプレッション共有]（パーセント）、[!UICONTROL ターゲット広告位置]および[!UICONTROL 最大 CPC]（クリック単価）を入力できます。 このオプションは、ハイブリッドポートフォリオではまだサポートされていません。 |
-| [!UICONTROL バルクシート] | （[!DNL Microsoft] キャンペーン、2月11日（PT）リリース）バルクシートには、「[!UICONTROL クリエイティブ（RSA を除く）]」行を使用する「[!UICONTROL コールトゥアクション]」列と「[!UICONTROL コールトゥアクション言語]」列がマルチメディア広告（レスポンシブ広告形式）向けに含まれるようになりました。 |
-| Google Manager アカウント | （2月23日（PT）リリース）新しい[!UICONTROL 管理者]／[!UICONTROL 管理者アカウント]機能を使用すると、[!DNL Search] でのクロスアカウントコンバージョンのアップロード先となる [!DNL Google Ads] 管理者アカウントの認証を提供できます。この機能を使用するのは、a) [!DNL Adobe] が追跡するクロスアカウントコンバージョン指標を [!DNL Google Ads] 管理者アカウントにアップロードする場合、または b) クロスアカウントコンバージョンを含むポートフォリオ目標をハイブリッド最適化のために [!DNL Google Ads] にアップロードする場合です。<br><br>管理者アカウントの資格情報を追加すると、[!UICONTROL キャンペーン]／[!UICONTROL アカウント]ビューの「[!UICONTROL クロスアカウントコンバージョンの管理者アカウント]」オプション列に、子アカウントごとの管理者アカウント ID が示され、管理者アカウントが認証されていない場合は、この列にエラーが表示されます。 |
+| [!UICONTROL キャンペーン] | ([!DNL Microsoft Advertising] オーディエンスキャンペーン；ベータ版機能を開く；3 月 19 日リリース ) オーディエンスキャンペーンで拡張 CPC(eCPC) 入札戦略を使用できるようになりました。 入札は、子の広告グループ設定内で設定できます。<br><br>eCPC を持つオーディエンスキャンペーンをポートフォリオに含めて最適化することができます。 |
+| [!UICONTROL キャンペーン]、[!UICONTROL レポート] | ([!DNL Google Ads] および [!DNL Microsoft Advertising] アカウント3 月 19 日リリース ) キャンペーン管理のビューとレポートで、次の新しい目立ち度指標を使用できます。<ul><li><p>[!UICONTROL コンテンツは]:ディスプレイ/オーディエンスネットワーク上の広告に対して受け取ったインプレッション数を、受け取る資格のあったディスプレイ広告インプレッションの推定数で割った値です。</p><p>これと他の&quot;[!UICONTROL コンテンツ]*&quot;指標は、コンテンツ広告に関連するエンティティや関連する基本レポートのすべてのキャンペーン管理ビューで使用できます。  [!UICONTROL 検索エンジン], [!UICONTROL 検索エンジンアカウント], [!UICONTROL Campaign], [!UICONTROL 広告グループ]、および [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL 失われたコンテンツ IS （予算）]:1 日あたりの予算または月別の予算が少なすぎるので、ディスプレイ/オーディエンスネットワーク上の広告が受け取らなかったインプレッションの推定割合。<p></li><li><p>[!UICONTROL 失われたコンテンツ IS（ランク）]:広告のランクが低いので、ディスプレイ/オーディエンスネットワークに広告が表示されなかった推定インプレッション数の割合。</p></li><li><p>[!UICONTROL 完全一致 IS を検索]:キーワードと完全に一致する検索に対して受け取ったインプレッション数を、受け取る資格のある推定完全一致インプレッション数で割った値です。</p><p>この指標は、検索広告に関連するエンティティおよび関連する基本レポートのすべてのキャンペーン管理ビューで使用できます。  [!UICONTROL 検索エンジン], [!UICONTROL 検索エンジンアカウント], [!UICONTROL Campaign], [!UICONTROL 広告グループ], [!UICONTROL キーワード], [!UICONTROL 製品グループ]、および [!UICONTROL Portfolio]. また、 [!UICONTROL 制約], [!UICONTROL ラベルの分類]、および [!UICONTROL ラベル値] レポート。</p></li></ul> |
 
 {style="table-layout:auto"}
 
