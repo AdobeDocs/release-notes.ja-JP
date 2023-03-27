@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 474b94e449ae89e0428f46fab1e3fca1cd10f0f5
+source-git-commit: b1534eb00000b636d0a53d8fa6b12e564b1035a7
 workflow-type: tm+mt
-source-wordcount: '4500'
-ht-degree: 94%
+source-wordcount: '4534'
+ht-degree: 93%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 94%
 
 ## 製品リリースのアップデートとイベント
 
-最終更新日：**2023年3月20日（PT）**
+最終更新日：**2023年3月27日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -613,11 +613,12 @@ Last updated: **March 2, 2023**
 
 ### [!DNL Advertising Search] の新機能 {#advertising-search}
 
-最終更新日： **2023 年 3 月 3 日**
+最終更新日：**2023年3月27日（PT）**
 
 | 機能 | 説明 |
 | ------- | ----------- |
 | [!UICONTROL キャンペーン] | ([!DNL Microsoft Advertising] オーディエンスキャンペーン；ベータ版機能を開く；3 月 19 日リリース ) オーディエンスキャンペーンで拡張 CPC(eCPC) 入札戦略を使用できるようになりました。 入札は、子の広告グループ設定内で設定できます。<br><br>eCPC を持つオーディエンスキャンペーンをポートフォリオに含めて最適化することができます。 |
+| [!UICONTROL キャンペーン], [!UICONTROL Portfolio] | ([!DNL Google Ads] アカウント（オープンベータ版機能）最適化サポートが [!DNL Google Ads] 最大パフォーマンスキャンペーンに関連付け、ハイブリッドポートフォリオに追加できます。 入札戦略のターゲットとキャンペーンの予算は、キャンペーンレベルで設定します。 |
 | [!UICONTROL キャンペーン]、[!UICONTROL レポート] | ([!DNL Google Ads] および [!DNL Microsoft Advertising] アカウント3 月 19 日リリース ) キャンペーン管理のビューとレポートで、次の新しい目立ち度指標を使用できます。<ul><li><p>[!UICONTROL コンテンツは]:ディスプレイ/オーディエンスネットワーク上の広告に対して受け取ったインプレッション数を、受け取る資格のあったディスプレイ広告インプレッションの推定数で割った値です。</p><p>これと他の&quot;[!UICONTROL コンテンツ]*&quot;指標は、コンテンツ広告に関連するエンティティや関連する基本レポートのすべてのキャンペーン管理ビューで使用できます。  [!UICONTROL 検索エンジン], [!UICONTROL 検索エンジンアカウント], [!UICONTROL Campaign], [!UICONTROL 広告グループ]、および [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL 失われたコンテンツ IS （予算）]:1 日あたりの予算または月別の予算が少なすぎるので、ディスプレイ/オーディエンスネットワーク上の広告が受け取らなかったインプレッションの推定割合。<p></li><li><p>[!UICONTROL 失われたコンテンツ IS（ランク）]:広告のランクが低いので、ディスプレイ/オーディエンスネットワークに広告が表示されなかった推定インプレッション数の割合。</p></li><li><p>[!UICONTROL 完全一致 IS を検索]:キーワードと完全に一致する検索に対して受け取ったインプレッション数を、受け取る資格のある推定完全一致インプレッション数で割った値です。</p><p>この指標は、検索広告に関連するエンティティおよび関連する基本レポートのすべてのキャンペーン管理ビューで使用できます。  [!UICONTROL 検索エンジン], [!UICONTROL 検索エンジンアカウント], [!UICONTROL Campaign], [!UICONTROL 広告グループ], [!UICONTROL キーワード], [!UICONTROL 製品グループ]、および [!UICONTROL Portfolio]. また、 [!UICONTROL 制約], [!UICONTROL ラベルの分類]、および [!UICONTROL ラベル値] レポート。</p></li></ul> |
 
 {style="table-layout:auto"}
