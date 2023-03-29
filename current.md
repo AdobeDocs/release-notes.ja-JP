@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b1534eb00000b636d0a53d8fa6b12e564b1035a7
+source-git-commit: a33a3738aa82ce68eef6b40a9a34b7697eb7cb7b
 workflow-type: tm+mt
-source-wordcount: '4534'
-ht-degree: 93%
+source-wordcount: '4471'
+ht-degree: 91%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 93%
 
 ## 製品リリースのアップデートとイベント
 
-最終更新日：**2023年3月27日（PT）**
+最終更新日：**2023年3月29日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -59,17 +59,13 @@ Experience League の最新情報についてご確認ください。イベン�
 
 +++今後のイベント
 
-* **[!DNL Analytics]** | _Adobe Analytics を使用して、インサイトを得るまでの時間を短縮_ | **3月9日（PT）午前 8:00 PT** |  [登録](https://adobeanalyticsvirtualanalyst2023.experienceleague.adobeevents.com/)
+* **[!DNL Marketo]** | _Adobe Marketo Engageが大きい場合は、小規模チームがインスタンスを最大化する方法を学びます。_ | **3 月 30 日@ 8:00 AM PT** |  [登録](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-adobe-marketo-engage-may-be-big-learn-how-a-small-team-maximizes-their-instance/)
 
-* **[!DNL Marketo Engage]** | _Marketo と Mocha：配信品質（第 1 部）_ | **3月9日（PT）午後 1:00 ET** | [登録](https://register.gotowebinar.com/register/6250682251177513567)
+* **[!DNL Workfront]** | _接続：マーケティング&amp;クリエイティブ向け Admin Chat_ | **3 月 31 日@ 10:00 AM MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,zQqh7GuOYEKk9nj6La13sw,21mIvr6FckuR3RV6fXWwoA,rsGLF_yiOEma4deQintntQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _交流：戦略的管理チャット_ | **3月13日（PT）午前 7:00 MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,lgDkllfW8EatH2CVDH9nVQ,JWCg6TzBMUS5dX7i0qHSsA,CjE7t_FXgEaepx27DZn_7g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Marketo Engage]** | _Marketoとモチャ：配信品質（第 2 部）_ | **4 月 5 日@午後 1:00 ET** | [登録](https://register.gotowebinar.com/register/6818591002040103259)
 
-* **[!DNL Workfront]** | _システム管理の要点：インターフェイスデザインのユーザーエクスペリエンスの向上_ | **3月15日（PT）午前 8:00 PT** | [登録](https://event.on24.com/wcc/r/4123271/D486841B3D743479F12BAC0C583C10ED?partnerref=exl)
-
-* **[!DNL Marketo Engage]** | _Marketo コミュニティ Q＆A コーヒーブレーク_ | **3月15日（PT）午前 8:00 PT** | [登録](https://mecommunityqacoffeebreak0315.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_ME&amp;utm_content=230315)
-
-* **[!DNL Adobe Summit]** |_究極のエクスペリエンスが帰ってきました。当社のベガスでのイベントに参加して、スキルを磨き、世界のトップブランドから学び、刺激を受けましょう。_ | **3月19日（PT）午前 9:00 PT** | [登録](https://summit.adobe.com/na/?promoid=2K4PC9V3&amp;mv=other)
+* **[!DNL Adobe Summit]** |_1 年を通してサミットを再訪！_ | **オンデマンド** | [詳細](https://business.adobe.com/summit/adobe-summit.html)
 
 今後のイベントやオンデマンドの過去のイベントの詳細なスケジュールについては、[Experience League イベント](https://experienceleague.adobe.com/events/?lang=ja)を参照してください。
 
