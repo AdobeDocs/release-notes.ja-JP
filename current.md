@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7feb48c8588b9463ba0a01479cd3c1d64668bbe0
+source-git-commit: fe9ee338ec6803e4f9fb2dde4748d751c47e0e47
 workflow-type: tm+mt
-source-wordcount: '4580'
-ht-degree: 89%
+source-wordcount: '4634'
+ht-degree: 88%
 
 ---
 
@@ -614,15 +614,13 @@ Last updated: **August 9, 2022**
 
 Adobe Advertising の最新機能について説明します。
 
-<!--
-Last updated: **March 2, 2023**
+最終更新日：**2023年4月10日**
 
-| Feature | Description |
+| 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (February 15 release) You can now view change logs in chart form, and you can add notes to any entry. |
+| [!UICONTROL レポート ] | （3 月リリース）新しい [!UICONTROL 世帯] レポートには、デバイス/ cookie レベルではなく、IP アドレスに基づいた世帯レベルで、様々なディメンションのインプレッション数、リーチおよび頻度が表示されます。 レポートには、次の 9 つのディメンションが含まれます。 [!UICONTROL Campaign], [!UICONTROL パッケージ], [!UICONTROL 配置], [!UICONTROL サイト/アプリ], [!UICONTROL メディアタイプ], [!UICONTROL デバイス], [!UICONTROL 対象ユーザ], [!UICONTROL クリエイティブの長さ]、およびユーザー作成 [!UICONTROL タグ]. |
 
 {style="table-layout:auto"}
--->
 
 ### [!DNL Advertising Search] の新機能 {#advertising-search}
 
