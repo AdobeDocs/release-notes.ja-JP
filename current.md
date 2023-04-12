@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 678916a1d510e0bfb2d7f4cb54a568aa7a693ede
+source-git-commit: 7080614a0a487b61eaaca2d50404698ad4228941
 workflow-type: tm+mt
-source-wordcount: '5815'
+source-wordcount: '5816'
 ht-degree: 60%
 
 ---
@@ -96,7 +96,7 @@ Experience League の最新情報についてご確認ください。イベン�
 
 [!DNL Adobe System Status] では、アドビ製品およびサービスの停止、中断およびメンテナンスイベントに関する詳細情報、ステータス更新およびメール通知を提供します。[status.adobe.com/ja](https://status.adobe.com/ja) でご確認ください。
 
-詳しくは、 [リリースノート](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=ja#status) Adobeのステータスの情報を参照してください。
+詳しくは、 [2023 年 3 月リリースノート](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=ja#status) Adobeのステータスの情報を参照してください。
 
 +++
 
