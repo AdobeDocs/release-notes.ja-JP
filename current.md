@@ -6,10 +6,10 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7080614a0a487b61eaaca2d50404698ad4228941
+source-git-commit: 4d6f4cc165539812857d090a7938863da6133bb3
 workflow-type: tm+mt
-source-wordcount: '5816'
-ht-degree: 60%
+source-wordcount: '5717'
+ht-degree: 62%
 
 ---
 
@@ -495,13 +495,13 @@ Adobe Target のプレリリースノート、現在のリリースノートお�
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2023年4月 | [クエリデータ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/data-management/query-data.html?lang=en) | ビデオ | クエリエディターを使用してデータに対してクエリを実行する方法を説明します。 | Campaign v8 |
-| 2023年4月 | [E メール配信に添付ファイルを追加する](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/add-attachments-to-an-email-delivery.html?lang=en) | ビデオ | E メール配信に添付ファイルを追加する方法と、様々なタイプの E メール添付ファイルを設定する方法について説明します。 | Campaign v8 |
+| 2023年4月 | [メール配信への添付ファイルの追加](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/add-attachments-to-an-email-delivery.html?lang=en) | ビデオ | メール配信に添付ファイルを追加する方法と、様々なタイプのメール添付ファイルを設定する方法について説明します。 | Campaign v8 |
 | 2023年4月 | [A/B テスト用の配信の設定](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/configure-deliveries-for-ab-testing.html) | ビデオ | A/B テスト用に配信を設定する方法を説明します。 | Campaign v8 |
 | 2023年4月 | [ランディングページの設定](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/configure-landingpages.html) | ビデオ | ランディングページの作成および設定方法について説明します。 | Campaign v8 |
 | 2023年4月 | [スケジューラーアクティビティの設定](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/configure-scheduler-activities.html) | ビデオ | ワークフローでスケジューラーアクティビティを設定する方法を説明します。 | Campaign v8 |
 | 2023年4月 | [環境設定センターの作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/create-a-preference-center.html) | ビデオ | Adobe Campaignの Web アプリケーションエディターを使用して、環境設定センターを作成する方法を説明します。 | Campaign v8 |
 | 2023年4月 | [タイムゾーンの管理](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/manage-time-zones.html) | ビデオ | スケジュールされたワークフローアクティビティにタイムゾーンを適用する方法を説明します。 | Campaign v8 |
-| 2023年4月 | [強制隔離管理の理解](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/monitoring-messages/quarantine-management.html) | ビデオ | Adobe Campaignでの強制隔離管理の仕組みと強制隔離アドレスの管理方法を説明します。 | Campaign v8 |
+| 2023年4月 | [強制隔離管理について](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/monitoring-messages/quarantine-management.html) | ビデオ | Adobe Campaign での強制隔離管理の仕組みと、強制隔離されたアドレスの管理方法について説明します。 | Campaign v8 |
 | 2023年4月 | [メッセージのスケジュール](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/schedule-messages.html) | ビデオ | メール配信をスケジュールする方法を説明します。 | Campaign v8 |
 | 2023年4月 | [メール配信の配達確認の送信](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/sending-test-preparing-sending-email.html) | ビデオ | 最終的な受信者に送信する前に、メールメッセージをテストする方法を説明します。 | Campaign v8 |
 
@@ -676,13 +676,12 @@ Adobe Advertising の最新機能について説明します。
 
 ### [!DNL Advertising Search] の新機能 {#advertising-search}
 
-最終更新日：**2023年3月27日（PT）**
+最終更新日：**2023年4月14日**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL キャンペーン] | ([!DNL Microsoft® Advertising] オーディエンスキャンペーン；ベータ版機能を開く；3 月 19 日リリース ) オーディエンスキャンペーンで拡張 CPC(eCPC) 入札戦略を使用できるようになりました。 入札は、子の広告グループ設定内で設定できます。<br><br>eCPC を持つオーディエンスキャンペーンをポートフォリオに含めて最適化することができます。 |
-| [!UICONTROL キャンペーン], [!UICONTROL Portfolio] | ([!DNL Google Ads] アカウント（オープンベータ版機能）最適化サポートが [!DNL Google Ads] 最大パフォーマンスキャンペーンに関連付け、ハイブリッドポートフォリオに追加できます。 入札戦略のターゲットとキャンペーンの予算は、キャンペーンレベルで設定します。 |
-| [!UICONTROL キャンペーン]、[!UICONTROL レポート] | ([!DNL Google Ads] および [!DNL Microsoft® Advertising] アカウント3 月 19 日リリース ) キャンペーン管理のビューとレポートで、次の新しい目立ち度指標を使用できます。<ul><li><p>[!UICONTROL コンテンツは]:ディスプレイ/オーディエンスネットワーク上の広告に対して受け取ったインプレッション数を、受け取る資格のあるディスプレイ広告インプレッションの推定数で割った値です。</p><p>この他 [!UICONTROL コンテンツ] 指標は、コンテンツ広告に関連するエンティティや関連する基本レポートのすべてのキャンペーン管理ビューで使用できます。  [!UICONTROL 検索エンジン], [!UICONTROL 検索エンジンアカウント], [!UICONTROL Campaign], [!UICONTROL 広告グループ]、および [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL 失われたコンテンツ IS （予算）]:1 日あたりの予算または月別の予算が少なすぎるので、ディスプレイ/オーディエンスネットワーク上の広告が受け取らなかったインプレッションの推定割合。<p></li><li><p>[!UICONTROL 失われたコンテンツ IS（ランク）]:広告のランクが低いので、ディスプレイ/オーディエンスネットワークに広告が表示されなかった推定インプレッション数の割合。</p></li><li><p>[!UICONTROL 完全一致 IS を検索]:キーワードと完全に一致する検索に対して受け取ったインプレッション数を、受け取る資格のある推定完全一致インプレッション数で割った値です。</p><p>この指標は、検索広告に関連するエンティティおよび関連する基本レポートのすべてのキャンペーン管理ビューで使用できます。  [!UICONTROL 検索エンジン], [!UICONTROL 検索エンジンアカウント], [!UICONTROL Campaign], [!UICONTROL 広告グループ], [!UICONTROL キーワード], [!UICONTROL 製品グループ]、および [!UICONTROL Portfolio]. また、 [!UICONTROL 制約], [!UICONTROL ラベルの分類]、および [!UICONTROL ラベル値] レポート。</p></li></ul> |
+| [!UICONTROL キャンペーン] | ([!DNL Microsoft® Advertising] オーディエンスキャンペーン；4 月 15 日リリース ) オーディエンスキャンペーンで「手動 CPM」入札戦略を使用できるようになりました。 入札は、子の広告グループ設定内で設定できます。<br>&lt;brOptimization support isn’t available for CPM campaigns. |
+| [!UICONTROL Recommendations] | 6 つの新しい ([!DNL Google Ads] レコメンデーションは、次の場所から入手できます： [!UICONTROL インサイトとレポート] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL レスポンシブ検索により、広告の強度が向上します]:レスポンシブ検索広告の広告の強さを改善するための提案</li><li>[!UICONTROL ローカルキャンペーンをパフォーマンス最大にアップグレード]:従来のローカルキャンペーンをパフォーマンス最大キャンペーンにアップグレード</li><li>[!UICONTROL スマートショッピングキャンペーンをパフォーマンス最大にアップグレード]:従来のスマートショッピングキャンペーンをパフォーマンス最大キャンペーンにアップグレード</li><li>[!UICONTROL 予測セットのターゲット ROAS]:トラフィックの増加を予測し、入札戦略を次のように変更する季節のイベントの前に予算を引き上げます。 [!DNL Maximize Conversion Value] から [!DNL Target ROAS]</li><li>[!UICONTROL Target CPA の入札額を低く抑え過ぎます]:次を [!DNL Target CPA] コンバージョンが少なすぎる、または何もコンバージョンがない場合の推奨金額</li><li>[!UICONTROL 表示拡張オプトイン]:ディスプレイの拡張を使用するようにキャンペーンを更新してリーチを拡大する</li></ul>アセットの追加と削除、キャンペーンタイプの変更、予算と入札戦略の変更はパフォーマンスに影響を与える可能性があるので、十分な情報に基づいて判断できるよう、各レコメンデーションの長所と短所についてAdobeアカウントチームと話し合うことをお勧めします。 |
 
 {style="table-layout:auto"}
 
