@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dd8bffc183b46ee92c3817727a2b1abfeddc1641
+source-git-commit: 4aa55aa5b4cc86978db180250642588a45b87962
 workflow-type: tm+mt
-source-wordcount: '5731'
-ht-degree: 47%
+source-wordcount: '5725'
+ht-degree: 46%
 
 ---
 
@@ -472,9 +472,9 @@ Adobe Target のプレリリースノート、現在のリリースノートお�
 
 最新の機能、改善点、修正点について詳しくは、[Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=ja)、[Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=ja) および [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=ja) リリースノートを参照してください。
 
-### 新しい [!DNL Campaign] のチュートリアルとコース {#tutorials-campaign}
+### 新しい [!DNL Campaign] チュートリアル {#tutorials-campaign}
 
-新しく公開された Adobe Campaign ビデオ、チュートリアル、コース。
+[!DNL Adobe Campaign] 用に公開された新しいビデオ、チュートリアル、またはコース。
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- |---------- |
@@ -516,7 +516,7 @@ Adobe Target のプレリリースノート、現在のリリースノートお�
 
 最新の機能、改善点および修正点について詳しくは、[Journey Optimizer リリースノート](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=ja)を参照してください。
 
-### 新しい [!DNL Journey Optimizer] のチュートリアルとコース {#tutorials-ajo}
+### 新しい [!DNL Journey Optimizer] チュートリアル {#tutorials-ajo}
 
 Adobe [!DNL Journey Optimizer] 向けに新しく公開されたビデオ、チュートリアル、コース。
 
