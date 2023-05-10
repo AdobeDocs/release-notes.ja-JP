@@ -6,9 +6,9 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5d83d82ee19300866c7b75bddd173ffe58f3300b
+source-git-commit: dd8bffc183b46ee92c3817727a2b1abfeddc1641
 workflow-type: tm+mt
-source-wordcount: '5744'
+source-wordcount: '5731'
 ht-degree: 47%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 47%
 
 ## 製品リリースのアップデートとイベント
 
-最終更新日：**2023年5月9日（PT）**
+最終更新日：**2023年5月10日（PT）**
 
 * [[!DNL Experience League] イベント](#events)
 * [アドビでの認定](#certification)
@@ -47,8 +47,8 @@ ht-degree: 47%
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Commerce]](#commerce)
 * [[!DNL Target]](#target)
-* [[!DNL Campaign]](#ac)
-* [[!DNL Journey Optimizer]](#journey-opt)
+* [[!DNL Campaign]](#ac)（更新日：**5月10日（PT）**）
+* [[!DNL Journey Optimizer]](#journey-opt) ( 更新済み **5 月 11 日**)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
@@ -478,10 +478,10 @@ Adobe Target のプレリリースノート、現在のリリースノートお�
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023年5月 | [調査の作成](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | ビデオ | Adobe Campaign Classicで調査を作成する方法を説明します。 | Campaign v8 |
-| 2023年5月 | [調査の作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | ビデオ | Adobe Campaign Classicで調査を作成する方法を説明します。 | Campaign Classic |
-| 2023年5月 | [E メール配信コンテンツのデザイン](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | ビデオ | E メール配信コンテンツの設定、パーソナライズ、テストの方法について説明します。 テンプレートの使用、画像のアップロード、顔文字の追加、バーコードおよび QR コードの埋め込みの方法を説明します。 | Campaign Classic |
-| 2023年5月 | [配信の監視](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | ビデオ | メッセージログ、ジョブログ、配信ログを理解します。 | Campaign Standard |
+| 2023年5月 | [調査の作成](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | ビデオ | で調査を作成する方法を説明します。 [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
+| 2023年5月 | [調査の作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | ビデオ | で調査を作成する方法を説明します。 [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
+| 2023年5月 | [E メール配信コンテンツのデザイン](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | ビデオ | E メール配信コンテンツの設定、パーソナライズ、テストの方法について説明します。 テンプレートの使用、画像のアップロード、顔文字の追加、バーコードおよび QR コードの埋め込みの方法を説明します。 | [!DNL Campaign Classic] |
+| 2023年5月 | [配信の監視](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | ビデオ | メッセージログ、ジョブログ、配信ログを理解します。 | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
 
@@ -522,9 +522,9 @@ Adobe [!DNL Journey Optimizer] 向けに新しく公開されたビデオ、チ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023年5月 | [Web キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | ビデオ | Journey Optimizerキャンペーンで Web ビジュアルエディターを使用して Web エクスペリエンスを作成する方法を説明します。 |
+| 2023年5月 | [Web キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | ビデオ | Web Visual Editor を使用して Web エクスペリエンスを作成する方法については、 [!DNL Journey Optimizer] キャンペーン。 |
 | 2023年5月 | [Web キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | ビデオ | Web キャンペーンとは何かを理解します。 Web キャンペーンのプロパティを設定、確認、パブリッシュする方法について説明します。 |
-| 2023年5月 | [クラウドストレージの場所へのデータセットの書き出し](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | ビデオ | Journey OptimizerからAmazon S3 の宛先にデータセットを書き出す方法を説明します。 |
+| 2023年5月 | [クラウドストレージの場所へのデータセットの書き出し](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | ビデオ | からデータセットを書き出す方法を説明します。 [!DNL Journey Optimizer] から [!DNL Amazon] S3 の宛先。 |
 
 {style="table-layout:auto"}
 
