@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4aa55aa5b4cc86978db180250642588a45b87962
+source-git-commit: 264ad6eeeb05af620941cd57ceaf18c82faf019e
 workflow-type: tm+mt
-source-wordcount: '5725'
-ht-degree: 46%
+source-wordcount: '5723'
+ht-degree: 47%
 
 ---
 
@@ -368,7 +368,7 @@ _既知の問題_
 | 2023年5月 | [インタラクティブ通信のテキストエディターのカスタマイズ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/interactive-communications/customize-text-editor.html) | ビデオ | インタラクティブ通信のテキストエディターをカスタマイズして、カスタムのフォントとサイズを追加します。 | AEM Forms |
 | 2023年5月 | [AEM FormsおよびAcrobat Signを使用した React アプリ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/react-ic-sign/introduction.html) | ビデオ | ネイティブ React アプリから送信されたデータを使用してインタラクティブ通信ドキュメントを作成し、Acrobat署名ウィジェットを使用して署名するためにエンドユーザーに提示する | AEM Forms |
 | 2023年5月 | [Forms CS と SharePoint の統合](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-in-sharepoint.html) | ビデオ | AEM Forms CS とMicrosoft® Sharepoint の設定と統合について説明します。 | AEM Forms CS |
-| 2023年5月 | [フォームの送信を 1 つのドライブに保存](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | ビデオ | アダプティブフォームを設定して、1 つのドライブにフォームデータを保存します。 | AEM Forms CS |
+| 2023年5月 | [OneDrive にフォーム送信を保存](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html) | ビデオ | OneDrive にフォームデータを保存するためのアダプティブフォームの設定 | AEM Forms CS |
 | 2023年5月 | [AEM Headless から最適化された画像を使用する方法](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html?lang=ja) | ビデオ | AEMヘッドレスで最適化された画像を使用する方法を説明します。 | AEM CS |
 | 2023年5月 | [AEMヘッドレスで大きな結果を得る方法](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/large-result-sets.html?lang=en) | ビデオ | AEMヘッドレスを使用して大きな結果セットを操作する方法を説明します。 | AEM CS |
 
@@ -480,7 +480,7 @@ Adobe Target のプレリリースノート、現在のリリースノートお�
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2023年5月 | [調査の作成](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | ビデオ | で調査を作成する方法を説明します。 [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
 | 2023年5月 | [調査の作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | ビデオ | で調査を作成する方法を説明します。 [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
-| 2023年5月 | [E メール配信コンテンツのデザイン](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | ビデオ | E メール配信コンテンツの設定、パーソナライズ、テストの方法について説明します。 テンプレートの使用、画像のアップロード、顔文字の追加、バーコードおよび QR コードの埋め込みの方法を説明します。 | [!DNL Campaign Classic] |
+| 2023年5月 | [メール配信コンテンツのデザイン](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | ビデオ | メール配信コンテンツの設定、パーソナライズ、テストの方法を説明します。テンプレートの使用、画像のアップロード、顔文字の追加、バーコードおよび QR コードの埋め込みの方法を説明します。 | [!DNL Campaign Classic] |
 | 2023年5月 | [配信の監視](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | ビデオ | メッセージログ、ジョブログ、配信ログを理解します。 | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
@@ -523,7 +523,7 @@ Adobe [!DNL Journey Optimizer] 向けに新しく公開されたビデオ、チ�
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
 | 2023年5月 | [Web キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | ビデオ | Web Visual Editor を使用して Web エクスペリエンスを作成する方法については、 [!DNL Journey Optimizer] キャンペーン。 |
-| 2023年5月 | [Web キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | ビデオ | Web キャンペーンとは何かを理解します。 Web キャンペーンのプロパティを設定、確認、パブリッシュする方法について説明します。 |
+| 2023年5月 | [Web キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | ビデオ | Web キャンペーンとは何かを理解します。Web キャンペーンのプロパティを設定、レビュー、公開する方法を説明します。 |
 | 2023年5月 | [クラウドストレージの場所へのデータセットの書き出し](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | ビデオ | からデータセットを書き出す方法を説明します。 [!DNL Journey Optimizer] から [!DNL Amazon] S3 の宛先。 |
 
 {style="table-layout:auto"}
@@ -680,7 +680,7 @@ Adobe Advertising の最新機能について説明します。
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL キャンペーン] | ([!DNL Microsoft® Advertising] オーディエンスキャンペーン；4 月 15 日リリース ) オーディエンスキャンペーンで「手動 CPM」入札戦略を使用できるようになりました。 入札は、子の広告グループ設定内で設定できます。<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
+| [!UICONTROL キャンペーン] | ([!DNL Microsoft® Advertising] オーディエンスキャンペーン；4 月 15 日リリース ) オーディエンスキャンペーンで「手動 CPM」入札戦略を使用できるようになりました。 入札は、子の広告グループ設定内で設定できます。<br><br>最適化は、CPM キャンペーンではサポートされません。 |
 | [!UICONTROL Recommendations] | 6 つの新しい ([!DNL Google Ads] レコメンデーションは、次の場所から入手できます： [!UICONTROL インサイトとレポート] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL レスポンシブ検索により、広告の強度が向上します]:レスポンシブ検索広告の広告の強さを改善するための提案</li><li>[!UICONTROL ローカルキャンペーンをパフォーマンス最大にアップグレード]:従来のローカルキャンペーンをパフォーマンス最大キャンペーンにアップグレード</li><li>[!UICONTROL スマートショッピングキャンペーンをパフォーマンス最大にアップグレード]:従来のスマートショッピングキャンペーンをパフォーマンス最大キャンペーンにアップグレード</li><li>[!UICONTROL 予測セットのターゲット ROAS]:トラフィックの増加を予測し、入札戦略を次のように変更する季節のイベントの前に予算を引き上げます。 [!DNL Maximize Conversion Value] から [!DNL Target ROAS]</li><li>[!UICONTROL Target CPA の入札額を低く抑え過ぎます]:次を [!DNL Target CPA] コンバージョンが少なすぎる、または何もコンバージョンがない場合の推奨金額</li><li>[!UICONTROL 表示拡張オプトイン]:ディスプレイの拡張を使用するようにキャンペーンを更新してリーチを拡大する</li></ul>アセットの追加と削除、キャンペーンタイプの変更、予算と入札戦略の変更はパフォーマンスに影響を与える可能性があるので、十分な情報に基づいて判断できるよう、各レコメンデーションの長所と短所についてAdobeアカウントチームと話し合うことをお勧めします。 |
 
 {style="table-layout:auto"}
