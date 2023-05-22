@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 264ad6eeeb05af620941cd57ceaf18c82faf019e
+source-git-commit: 0e1fab47a83180404fa92c44bf420e5b3e81818d
 workflow-type: tm+mt
-source-wordcount: '5723'
-ht-degree: 97%
+source-wordcount: '5725'
+ht-degree: 94%
 
 ---
 
@@ -31,9 +31,9 @@ ht-degree: 97%
 
 ## 製品リリースのアップデートとイベント
 
-最終更新日：**2023年5月10日（PT）**
+最終更新日：**2023年5月22日（PT）**
 
-* [[!DNL Experience League] イベント](#events)
+* [[!DNL Experience League] イベントと更新](#events) ( 更新済み **5 月 23 日**)
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] インターフェイスおよび管理](#ecloud)
@@ -56,29 +56,34 @@ ht-degree: 97%
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
-## ![アイコン](/assets/experience-league.png) [!DNL Experience League] イベント {#events}
+## ![アイコン](/assets/experience-league.png) [!DNL Experience League] イベントと更新 {#events}
 
 Experience League の最新情報についてご確認ください。イベントは、アドビの製品エキスパートから学んだり、質問の回答を得たり、製品エキスパートと交流したりするのにうってつけの場です。
 
-更新日：**2023年5月9日（PT）**
+更新日：**2023年5月22日（PT）**
+
+**Experience League:** 所有する製品のコンテンツ検索結果をフィルタリングする方法をカスタマイズできます。 結果の表示基準：
+
+* チュートリアル
+* コース
+* ドキュメント
+* 製品
+* イベント
+* 証明書
+
+に移動します。 [Experience League](https://experienceleague.adobe.com/?lang=ja#home) そして調べろ！
 
 +++今後のイベント
 
-* **[!DNL Campaign]** | _Adobe Campaign：毎回、メールマーケティングを適切に活用_ | **5月11日午前 9:00 BST** |  [登録](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
-
-* **[!DNL Workfront]** | _学習：Workfront の計算カスタムフィールド_ | **5月11日午前 10:30 MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,yCYVwQotCU2TAORLyPoHJA,_4xblJcMAkOcN_Yr0Ufvtw,LHF-Iz1B3kihhT_9ZlkFog?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Commerce]** | _Commerce とコーヒー：顧客の忠誠度と定着度を高める 7 つの方法_ | **5月11日午後 1:00 PT** | [登録](https://register.gotowebinar.com/#register/4149787110381957724)
-
-* **[!DNL Workfront]** | _交流：戦略的管理チャット_ | **5月15日午前 8:00 CT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Manager Sites]** | _Adobe Experience Manager Sites スーパーチャージャーワークショップ_ | **5月16日午前 9:00 BST** | [登録](https://landing.adobe.com/acs/AEM-ValueAcceleratorSeries-EMEA2023.html)
-
-* **[!DNL Experience Manager Sites]** | _コンテンツ用に作成：コンテンツおよびエクスペリエンスフラグメントコンポーネント_ | **5月16日午前 8:00 PT** | [登録](https://engage.adobe.com/adobe-experience-manager-building-blocks-registration-page.html)
-
-* **[!DNL Analytics]** | _Experience Makers - Adobe Analytics のスキル交換 - APAC_ | **5月17日午後 1:30 AEST** | [登録](https://cvent.me/vWyONx?RefId=Experience+League)
-
 * **[!DNL Experience Manager]** | _開発者のライブ：構成可能なエクスペリエンス - ライブセッションとコミュニティネットワークの機会を備えた 1 日限りの仮想会議。_ | **5月23日午前 8:00 MDT** | [登録](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=appu)
+
+* **[!DNL Workfront]** | _学習：Adobe Workfrontでのスクラムの概要_ | **5 月 23 日@午後 2 時 (CT)** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Target]** | _組織を超えてデータ駆動型パーソナライゼーションを実現_ | **5 月 24 日@ 8:00 AM PT** | [登録](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+
+* **[!DNL Workfront]** | _エキスパートに質問する：プロジェクトテンプレートの基礎に関するウェビナーのフォローアップ_ | **5 月 24 日@ 10:00 AM CT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Manager Assets]** | _エスプレッソス&amp;Experience Manager- AEM Assets Migration_ | **5 月 25 日@午後 1:00 PT** | [登録](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
 
 その他Experience League の[イベント](https://experienceleague.adobe.com/events/?lang=ja)に移動して、過去のイベントを表示し、予定を確認します。
 
