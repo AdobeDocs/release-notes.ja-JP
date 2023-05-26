@@ -1,15 +1,15 @@
 ---
 title: 最新のリリースノート
-description: Adobe  [!DNL Experience Cloud]  製品とサービスの最新のリリースノートをお読みください。Experience League に関する今後のイベントおよび新しいドキュメントについて説明します。  [!DNL Experience Cloud]  アプリケーションの最新のチュートリアルとコースを確認します。
+description: Adobe [!DNL Experience Cloud]  製品とサービスの最新のリリースノートをお読みください。Experience League に関する今後のイベントおよび新しいドキュメントについて説明します。  [!DNL Experience Cloud]  アプリケーションの最新のチュートリアルとコースを確認します。
 doc-type: release notes
 last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 0e1fab47a83180404fa92c44bf420e5b3e81818d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5725'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 94%
 
 最終更新日：**2023年5月22日（PT）**
 
-* [[!DNL Experience League] イベントと更新](#events) ( 更新済み **5 月 23 日**)
+* [[!DNL Experience League] イベントとアップデート](#events)（更新日：**5月22日**（PT））
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] インターフェイスおよび管理](#ecloud)
@@ -48,7 +48,7 @@ ht-degree: 94%
 * [[!DNL Commerce]](#commerce)
 * [[!DNL Target]](#target)
 * [[!DNL Campaign]](#ac)（更新日：**5月10日（PT）**）
-* [[!DNL Journey Optimizer]](#journey-opt) ( 更新済み **5 月 11 日**)
+* [[!DNL Journey Optimizer]](#journey-opt)（更新日：**5月10日（PT）**）
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
@@ -56,34 +56,34 @@ ht-degree: 94%
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
-## ![アイコン](/assets/experience-league.png) [!DNL Experience League] イベントと更新 {#events}
+## ![アイコン](/assets/experience-league.png) [!DNL Experience League] イベントとアップデート {#events}
 
 Experience League の最新情報についてご確認ください。イベントは、アドビの製品エキスパートから学んだり、質問の回答を得たり、製品エキスパートと交流したりするのにうってつけの場です。
 
 更新日：**2023年5月22日（PT）**
 
-**Experience League:** 所有する製品のコンテンツ検索結果をフィルタリングする方法をカスタマイズできます。 結果の表示基準：
+**Experience League のコンテンツ検索の強化：**&#x200B;所有する製品のコンテンツ検索結果をフィルタリングする方法をカスタマイズできます。結果の表示基準：
 
 * チュートリアル
 * コース
 * ドキュメント
 * 製品
 * イベント
-* 証明書
+* 認定制度
 
-に移動します。 [Experience League](https://experienceleague.adobe.com/?lang=ja#home) そして調べろ！
+[Experience League](https://experienceleague.adobe.com/?lang=ja#home) に移動して、確認してください。
 
 +++今後のイベント
 
 * **[!DNL Experience Manager]** | _開発者のライブ：構成可能なエクスペリエンス - ライブセッションとコミュニティネットワークの機会を備えた 1 日限りの仮想会議。_ | **5月23日午前 8:00 MDT** | [登録](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=appu)
 
-* **[!DNL Workfront]** | _学習：Adobe Workfrontでのスクラムの概要_ | **5 月 23 日@午後 2 時 (CT)** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _学習：Adobe Workfront でのスクラムの概要_ | **5月23日 午後 2:00 CT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Target]** | _組織を超えてデータ駆動型パーソナライゼーションを実現_ | **5 月 24 日@ 8:00 AM PT** | [登録](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+* **[!DNL Target]** | _組織を強化して、データ駆動型パーソナライゼーションを実現_ | **5月24日 午前 8:00 PT** | [登録](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Workfront]** | _エキスパートに質問する：プロジェクトテンプレートの基礎に関するウェビナーのフォローアップ_ | **5 月 24 日@ 10:00 AM CT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _エキスパートに質問：プロジェクトテンプレートの基盤に関するウェビナーのフォローアップ_ | **5月24日 午前 10:00 CT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager Assets]** | _エスプレッソス&amp;Experience Manager- AEM Assets Migration_ | **5 月 25 日@午後 1:00 PT** | [登録](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+* **[!DNL Experience Manager Assets]** | _エスプレッソ＆Experience Manager - AEM Assets の移行_ | **5月25日 午後 1:00 PT** | [登録](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
 
 その他Experience League の[イベント](https://experienceleague.adobe.com/events/?lang=ja)に移動して、過去のイベントを表示し、予定を確認します。
 
@@ -373,7 +373,7 @@ _既知の問題_
 | 2023年5月 | [インタラクティブ通信でのテキストエディターのカスタマイズ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/interactive-communications/customize-text-editor.html?lang=ja) | ビデオ | インタラクティブ通信でテキストエディターをカスタマイズして、カスタムのフォントとサイズを追加します。 | AEM Forms |
 | 2023年5月 | [AEM Forms および Acrobat Sign を使用した React アプリ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/react-ic-sign/introduction.html?lang=ja) | ビデオ | ネイティブ React アプリから送信されたデータを用いてインタラクティブ通信ドキュメントを作成し、Acrobat Sign ウィジェットを使用して署名するようエンドユーザーに提示します | AEM Forms |
 | 2023年5月 | [Forms CS と SharePoint の統合](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-in-sharepoint.html?lang=ja) | ビデオ | AEM Forms CS と Microsoft® SharePoint の設定および統合について説明します。 | AEM Forms CS |
-| 2023年5月 | [OneDrive にフォーム送信を保存](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html?lang=ja) | ビデオ | OneDrive にフォームデータを保存するためのアダプティブフォームの設定 | AEM Forms CS |
+| 2023年5月 | [OneDrive へのフォームの送信データの保存](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html?lang=ja) | ビデオ | アダプティブフォームを設定して、OneDrive にフォームデータを保存します。 | AEM Forms CS |
 | 2023年5月 | [AEM ヘッドレスから最適化された画像を使用する方法](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html?lang=ja) | ビデオ | AEM ヘッドレスで最適化された画像を使用する方法を説明します。 | AEM CS |
 | 2023年5月 | [AEM ヘッドレスで大きな結果を操作する方法](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/large-result-sets.html?lang=ja) | ビデオ | AEM ヘッドレスを使用して大きな結果セットを操作する方法を説明します。 | AEM CS |
 
@@ -483,10 +483,10 @@ Adobe Target のプレリリースノート、現在のリリースノートお�
 
 | 公開日 | 名前 | タイプ | 説明 | アプリケーション |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023年5月 | [調査の作成](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en) | ビデオ | で調査を作成する方法を説明します。 [!DNL Adobe Campaign] v8. | [!DNL Campaign] v8 |
-| 2023年5月 | [調査の作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en) | ビデオ | で調査を作成する方法を説明します。 [!DNL Adobe Campaign Classic]. | [!DNL Campaign Classic] |
-| 2023年5月 | [メール配信コンテンツのデザイン](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html) | ビデオ | メール配信コンテンツの設定、パーソナライズ、テストの方法を説明します。テンプレートの使用、画像のアップロード、顔文字の追加、バーコードおよび QR コードの埋め込みの方法を説明します。 | [!DNL Campaign Classic] |
-| 2023年5月 | [配信の監視](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html) | ビデオ | メッセージログ、ジョブログ、配信ログを理解します。 | [!DNL Campaign Standard] |
+| 2023年5月 | [サーベイの作成](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=ja) | ビデオ | [!DNL Adobe Campaign] v8 でサーベイを作成する方法を説明します。 | [!DNL Campaign] v8 |
+| 2023年5月 | [サーベイの作成](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=ja) | ビデオ | [!DNL Adobe Campaign Classic] でサーベイを作成する方法を説明します。 | [!DNL Campaign Classic] |
+| 2023年5月 | [メール配信コンテンツのデザイン](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html?lang=ja) | ビデオ | メール配信コンテンツの設定、パーソナライズ、テストの方法を説明します。テンプレートの使用、画像のアップロード、顔文字の追加、バーコードおよび QR コードの埋め込みの方法を説明します。 | [!DNL Campaign Classic] |
+| 2023年5月 | [配信の監視](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html?lang=ja) | ビデオ | メッセージログ、ジョブログ、配信ログを説明します。 | [!DNL Campaign Standard] |
 
 {style="table-layout:auto"}
 
@@ -527,9 +527,9 @@ Adobe [!DNL Journey Optimizer] 向けに新しく公開されたビデオ、チ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023年5月 | [Web キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en) | ビデオ | Web Visual Editor を使用して Web エクスペリエンスを作成する方法については、 [!DNL Journey Optimizer] キャンペーン。 |
-| 2023年5月 | [Web キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en) | ビデオ | Web キャンペーンとは何かを理解します。Web キャンペーンのプロパティを設定、レビュー、公開する方法を説明します。 |
-| 2023年5月 | [クラウドストレージの場所へのデータセットの書き出し](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en) | ビデオ | からデータセットを書き出す方法を説明します。 [!DNL Journey Optimizer] から [!DNL Amazon] S3 の宛先。 |
+| 2023年5月 | [Web キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=ja) | ビデオ | [!DNL Journey Optimizer] キャンペーンで web ビジュアルエディターを使用して web エクスペリエンスを作成する方法を説明します。 |
+| 2023年5月 | [Web キャンペーンの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=ja) | ビデオ | Web キャンペーンとは何かを理解します。Web キャンペーンのプロパティを設定、レビュー、公開する方法を説明します。 |
+| 2023年5月 | [クラウドストレージの場所へのデータセットの書き出し](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=ja) | ビデオ | [!DNL Journey Optimizer] から [!DNL Amazon] S3 の宛先にデータセットを書き出す方法を説明します。 |
 
 {style="table-layout:auto"}
 
@@ -685,7 +685,7 @@ Adobe Advertising の最新機能について説明します。
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL キャンペーン] | （[!DNL Microsoft® Advertising] オーディエンスキャンペーン、4月15日（PT）リリース）オーディエンスキャンペーンで「手動 CPM」入札戦略を使用できるようになりました。入札は、子の広告グループ設定内で設定できます。<br><br>最適化は、CPM キャンペーンではサポートされません。 |
+| [!UICONTROL キャンペーン] | （[!DNL Microsoft® Advertising] オーディエンスキャンペーン、4月15日（PT）リリース）オーディエンスキャンペーンで「手動 CPM」入札戦略を使用できるようになりました。入札は、子の広告グループ設定内で設定できます。<br><br>最適化サポートは CPM キャンペーンでは利用できません。 |
 | [!UICONTROL Recommendations] | 6 つの新しいレコメンデーション（[!DNL Google Ads] のレコメンデーションは、[!UICONTROL インサイトとレポート]／[!UICONTROL レコメンデーション]から入手できます）。<ul><li>[!UICONTROL レスポンシブ検索による広告効果の向上]：レスポンシブ検索広告の広告効果を向上させるための提案</li><li>[!UICONTROL ローカルキャンペーンのパフォーマンス最大化へのアップグレード]：従来のローカルキャンペーンをパフォーマンス最大化キャンペーンにアップグレードします</li><li>[!UICONTROL スマートショッピングキャンペーンのパフォーマンス最大化へのアップグレード]：従来のスマートショッピングキャンペーンをパフォーマンス最大化キャンペーンにアップグレードします</li><li>[!UICONTROL Target ROAS の予測設定]：トラフィックの増加が予測される季節的なイベントの前に予算を引き上げ、入札戦略を [!DNL Maximize Conversion Value] から [!DNL Target ROAS] に変更します</li><li>[!UICONTROL Target CPA 入札を上げるのが低すぎる]：[!DNL Target CPA] が低すぎてコンバージョン数が少ない、またはまったくない場合は、推奨される金額だけ引き上げます</li><li>[!UICONTROL ディスプレイ拡張のオプトイン]：ディスプレイ拡張を使用するようにキャンペーンを更新してリーチを拡大します</li></ul>アセットの追加と削除、キャンペーンタイプの変更、予算と入札戦略の変更はパフォーマンスに影響を与える可能性があるので、情報に基づいた決定を行えるよう、各レコメンデーションの長所と短所についてアドビアカウントチームと話し合うことをお勧めします。 |
 
 {style="table-layout:auto"}
