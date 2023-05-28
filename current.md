@@ -314,7 +314,7 @@ _新機能_
 
 **バグの修正**
 
-* [証明書](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-ssl-certificates/introduction.html?lang=ja)の有効期限が切れると、その証明書に関連付けられた[ドメイン名](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/introduction.html?lang=ja)と [IP 許可リスト](hhttps://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction.html?lang=ja)は CDN から削除されなくなります。このような場合でも、サイトには引き続きアクセスできます。
+* [証明書](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-ssl-certificates/introduction.html?lang=ja)の有効期限が切れると、その証明書に関連付けられた[ドメイン名](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/introduction.html?lang=ja)と [IP 許可リスト](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction.html?lang=ja)は CDN から削除されなくなります。このような場合でも、サイトには引き続きアクセスできます。
 * Cloud Manager UI では、[SSL 証明書](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-ssl-certificates/introduction.html?lang=ja)の有効期限が近づいていることを示す警告がよりわかりやすく表示されます。
 * お客様が環境を作成または削除できないというまれな状況が修正されました。
 
