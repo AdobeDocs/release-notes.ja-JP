@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0e1fab47a83180404fa92c44bf420e5b3e81818d
-workflow-type: ht
-source-wordcount: '5725'
-ht-degree: 100%
+source-git-commit: a7e6c7877348d715c09f6bf14efdd26e487d3481
+workflow-type: tm+mt
+source-wordcount: '5609'
+ht-degree: 98%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
 ## 製品リリースのアップデートとイベント
 
-最終更新日：**2023年5月22日（PT）**
+最終更新日：**2023年5月30日（PT）**
 
 * [[!DNL Experience League] イベントとアップデート](#events)（更新日：**5月22日**（PT））
 * [アドビでの認定](#certification)
@@ -52,7 +52,7 @@ ht-degree: 100%
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
-* [[!DNL Advertising]](#advertising)
+* [[!DNL Advertising]](#advertising)（更新日：**5月30日（PT）**）
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
@@ -60,7 +60,7 @@ ht-degree: 100%
 
 Experience League の最新情報についてご確認ください。イベントは、アドビの製品エキスパートから学んだり、質問の回答を得たり、製品エキスパートと交流したりするのにうってつけの場です。
 
-更新日：**2023年5月22日（PT）**
+更新日：**2023年5月30日（PT）**
 
 **Experience League のコンテンツ検索の強化：**&#x200B;所有する製品のコンテンツ検索結果をフィルタリングする方法をカスタマイズできます。結果の表示基準：
 
@@ -75,17 +75,13 @@ Experience League の最新情報についてご確認ください。イベン�
 
 +++今後のイベント
 
-* **[!DNL Experience Manager]** | _開発者のライブ：構成可能なエクスペリエンス - ライブセッションとコミュニティネットワークの機会を備えた 1 日限りの仮想会議。_ | **5月23日午前 8:00 MDT** | [登録](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=appu)
+* **[!DNL Experience Manager - Cloud Manager]** | _DAEM チャンピオンの営業時間 — AEM Cloud Manager_ | **5 月 31 日@ 7:30 AM PT** | [登録](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-cloud-manager/)
 
-* **[!DNL Workfront]** | _学習：Adobe Workfront でのスクラムの概要_ | **5月23日 午後 2:00 CT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Journey Optimizer]** | _Adobe Journey Optimizer Community Q&amp;A Coffee Break with Ivan Mironchuk Peter Fransen, Jason Hickey &amp; Sandra Hausmann_ | **5 月 31 日@ 8:00 AM PT** | [登録](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/adobe-journey-optimizer-community-q-amp-a-coffee-break-may-31st/td-p/593283)
 
-* **[!DNL Target]** | _組織を強化して、データ駆動型パーソナライゼーションを実現_ | **5月24日 午前 8:00 PT** | [登録](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+* **[!DNL Audience Manager]** | _Adobe Audience Managerの価値の最大化：業界の変更点への移行と RTCDP への移行_ | **6 月 1 日@ 10:00 AM PT** | [登録](https://adobeint-mid-prod13-m.adobe-campaign.com/nl/jsp/m.jsp?c=%40jfezFOPoEnsrkA40AZ0d3VjOp%2B7K65ZgXxAbnn8Jwu4%3D)
 
-* **[!DNL Workfront]** | _エキスパートに質問：プロジェクトテンプレートの基盤に関するウェビナーのフォローアップ_ | **5月24日 午前 10:00 CT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Manager Assets]** | _エスプレッソ＆Experience Manager - AEM Assets の移行_ | **5月25日 午後 1:00 PT** | [登録](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
-
-その他Experience League の[イベント](https://experienceleague.adobe.com/events/?lang=ja)に移動して、過去のイベントを表示し、予定を確認します。
+[詳細情報...](https://experienceleague.adobe.com/events/?lang=ja)
 
 +++
 
@@ -671,11 +667,11 @@ Last updated: **August 9, 2022**
 
 Adobe Advertising の最新機能について説明します。
 
-最終更新日：**2023年4月10日（PT）**
+最終更新日： **2023 年 5 月 31 日**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL レポート] | （3月リリース）新しい[!UICONTROL 世帯]レポートは、デバイス／cookie レベルではなく、IP アドレスに基づく世帯レベルで、様々なディメンションにわたるインプレッション数、リーチ、頻度を示します。レポートには、[!UICONTROL キャンペーン]、[!UICONTROL パッケージ]、[!UICONTROL プレースメント]、[!UICONTROL サイト／アプリ]、[!UICONTROL メディアタイプ]、[!UICONTROL デバイス]、[!UICONTROL オーディエンス]、[!UICONTROL クリエイティブの長さ]、ユーザー作成[!UICONTROL タグ]の 9 つのディメンションが含まれます。 |
+| [!UICONTROL キャンペーン] | （5 月 25 日リリース）キャンペーン、パッケージおよび広告を一時停止またはアクティブ化できるようになりました。 既に配置を一時停止してアクティブ化していました。 |
 
 {style="table-layout:auto"}
 
