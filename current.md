@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 10e294e2d7e56e168bf2552002beb16923a23e0d
+source-git-commit: d1b6f4a7fdbf4c94e1a122dfbbda78346494bbf7
 workflow-type: tm+mt
-source-wordcount: '5635'
-ht-degree: 97%
+source-wordcount: '5517'
+ht-degree: 96%
 
 ---
 
@@ -677,14 +677,14 @@ Adobe Advertising の最新機能について説明します。
 
 {style="table-layout:auto"}
 
-### [!DNL Advertising Search] の新機能 {#advertising-search}
+### [!DNL Advertising Search, Social, & Commerce] の新機能 {#advertising-search}
 
-最終更新日：**2023年4月14日（PT）**
+最終更新日： **2023 年 6 月 2 日**
 
 | 機能 | 説明 |
 | ------- | ----------- |
-| [!UICONTROL キャンペーン] | （[!DNL Microsoft® Advertising] オーディエンスキャンペーン、4月15日（PT）リリース）オーディエンスキャンペーンで「手動 CPM」入札戦略を使用できるようになりました。入札は、子の広告グループ設定内で設定できます。<br><br>最適化サポートは CPM キャンペーンでは利用できません。 |
-| [!UICONTROL Recommendations] | 6 つの新しいレコメンデーション（[!DNL Google Ads] のレコメンデーションは、[!UICONTROL インサイトとレポート]／[!UICONTROL レコメンデーション]から入手できます）。<ul><li>[!UICONTROL レスポンシブ検索による広告効果の向上]：レスポンシブ検索広告の広告効果を向上させるための提案</li><li>[!UICONTROL ローカルキャンペーンのパフォーマンス最大化へのアップグレード]：従来のローカルキャンペーンをパフォーマンス最大化キャンペーンにアップグレードします</li><li>[!UICONTROL スマートショッピングキャンペーンのパフォーマンス最大化へのアップグレード]：従来のスマートショッピングキャンペーンをパフォーマンス最大化キャンペーンにアップグレードします</li><li>[!UICONTROL Target ROAS の予測設定]：トラフィックの増加が予測される季節的なイベントの前に予算を引き上げ、入札戦略を [!DNL Maximize Conversion Value] から [!DNL Target ROAS] に変更します</li><li>[!UICONTROL Target CPA 入札を上げるのが低すぎる]：[!DNL Target CPA] が低すぎてコンバージョン数が少ない、またはまったくない場合は、推奨される金額だけ引き上げます</li><li>[!UICONTROL ディスプレイ拡張のオプトイン]：ディスプレイ拡張を使用するようにキャンペーンを更新してリーチを拡大します</li></ul>アセットの追加と削除、キャンペーンタイプの変更、予算と入札戦略の変更はパフォーマンスに影響を与える可能性があるので、情報に基づいた決定を行えるよう、各レコメンデーションの長所と短所についてアドビアカウントチームと話し合うことをお勧めします。 |
+| [!UICONTROL キャンペーン], [!UICONTROL レポート], [!UICONTROL 目標] | ( ベータ版を開く。5 月 30 日リリース ) で追跡したコンバージョン ( [!DNL Microsoft Advertising] ユニバーサルイベントトラッキング (UET) タグが、campaign 管理のビューとレポートで新しく使用できるようになりました。 また、 [!DNL Microsoft Advertising] キャンペーン。 |
+| [!UICONTROL レポート] | ( ベータ版を開く。5 月 30 日リリース ) 3 つの新しい専門レポートには、 [!DNL Microsoft Advertising] 広告の拡張： [!UICONTROL MSA Ad Extension の詳細レポート], [!UICONTROL 広告別 MSA 広告拡張レポート]、および [!UICONTROL キーワード別 MSA 広告拡張レポート]. |
 
 {style="table-layout:auto"}
 
