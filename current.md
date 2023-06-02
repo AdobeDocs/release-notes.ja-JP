@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a7e6c7877348d715c09f6bf14efdd26e487d3481
+source-git-commit: 10e294e2d7e56e168bf2552002beb16923a23e0d
 workflow-type: tm+mt
-source-wordcount: '5609'
-ht-degree: 98%
+source-wordcount: '5635'
+ht-degree: 97%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 98%
 * [[!DNL Experience League] イベントとアップデート](#events)（更新日：**5月22日**（PT））
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Experience Cloud] インターフェイスおよび管理](#ecloud)
+* [[!DNL Experience Cloud] インターフェイスと管理](#ecloud) ( 更新済み **5 月 25 日**)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Analytics]](#analytics)
@@ -119,7 +119,9 @@ Experience Cloud インターフェイスのホームページ、管理（製品
 
 +++詳細
 
-_5月の更新はありません。_
+リリース： **2023 年 5 月 26 日**
+
+* ヘルプメニューが更新され、Experience Leagueチュートリアルビデオ、製品ドキュメント、コミュニティの投稿からの検索結果が含まれるようになりました。 結果をExperience Leagueで表示できます。
 
 ヘルプについては、[Experience Cloud インターフェイスおよび管理ガイド](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=ja)（[!UICONTROL 顧客属性]と[!UICONTROL オーディエンス]を含む）を参照してください。
 
