@@ -6,10 +6,10 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0dfcb85115d9518f189ef1f0b7eb211a2c268bee
+source-git-commit: 01e7af15dd8f11dd705458d3381922d42e547388
 workflow-type: tm+mt
-source-wordcount: '6365'
-ht-degree: 50%
+source-wordcount: '6363'
+ht-degree: 51%
 
 ---
 
@@ -31,12 +31,12 @@ ht-degree: 50%
 
 ## 製品リリースのアップデートとイベント
 
-最終更新日：**2023年6月6日（PT）**
+最終更新日：**2023年6月7日（PT）**
 
 * [[!DNL Experience League] イベントと更新](#events)
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Experience Cloud] インターフェイスと管理](#ecloud) ( 更新済み **5 月 25 日**)
+* [[!DNL Experience Cloud] インターフェイスおよび管理](#ecloud)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
