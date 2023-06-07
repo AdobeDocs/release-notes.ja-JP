@@ -6,7 +6,7 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 01e7af15dd8f11dd705458d3381922d42e547388
+source-git-commit: 94d037e3a163088639d27f9b2952cf7eefe00f23
 workflow-type: tm+mt
 source-wordcount: '6363'
 ht-degree: 51%
@@ -143,6 +143,8 @@ Adobe Experience Platform の新しく公開されたビデオ、チュートリ
 | 2023年6月 | [セグメントとプロファイル属性のアクティブ化](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/activate-segments-and-profile-attributes.html?lang=ja) | ビデオ | 次の場所からセグメントとプロファイル属性をアクティブ化する方法を説明します。 [!DNL Real-Time Customer Data Platform] Adobe [!DNL Target]. Web サイト、モバイルアプリ、その他のデジタルプロパティに、パーソナライズされたコンテンツをリアルタイムで表示します。 |
 | 2023年6月 | [ラベルを使用してデータを分類する](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-labels.html) | ビデオ | スキーマとデータセットにラベルを適用する方法を説明します。 データ使用ラベルを使用すると、データにタグを付けて分類し、企業のポリシー、契約上の義務、コンプライアンス要件、地域の規制を [!DNL Experience Platform]. |
 | 2023年6月 | [用途 [!DNL Real-Time CDP] Adobeのプロファイル属性 [!DNL Target]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-profile-attributes-in-target.html) | ビデオ | 使用方法を学ぶ [!DNL Real-Time Customer Data Platform] Adobeのプロファイル属性 [!DNL Target] を使用して、web サイトやモバイルアプリでパーソナライズされたエクスペリエンスを提供します。 |
+
+{style="table-layout:auto"}
 
 +++
 
