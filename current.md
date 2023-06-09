@@ -6,7 +6,7 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94d037e3a163088639d27f9b2952cf7eefe00f23
+source-git-commit: f5ea5fd49968d95b322127435b048b61ed8b2709
 workflow-type: tm+mt
 source-wordcount: '6363'
 ht-degree: 51%
@@ -620,7 +620,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].-->
 | -----------| ---------- | ---------- | ---------- |
 | 2023年6月 | [デフォルトプログラム](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs.html) | ビデオ | 最初の [!UICONTROL デフォルトのプログラム]. |
 | 2023年6月 | [メールプログラム](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/email-programs.html) | ビデオ | A/B テストを使用して電子メールプログラムを作成する方法については、この詳しい手順のチュートリアルをご覧ください。 |
-| 2023年6月 | [エンゲージメントプログラム](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs/engagement-programs-overview.html) | ビデオ | 最初のエンゲージメントプログラムを構築するには、この詳しい手順のチュートリアルに従います。 |
+| 2023年6月 | [エンゲージメントプログラム](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-programs.html) | ビデオ | 最初のエンゲージメントプログラムを構築するには、この詳しい手順のチュートリアルに従います。 |
 | 2023年6月 | [イベントプログラム](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/event-programs.html) | ビデオ | このビデオを見て、基本的な理解を深め、最初のイベントプログラムを構築します。 |
 | 2023年6月 | [イベントプログラムの作成](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en) | ビデオ | で事前に作成されたプログラムに基づく展示会イベントプログラムを作成する方法を説明します。 [!DNL Marketo]. |
 | 2023年6月 | [Reporting and Analytics](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/reporting/reporting-and-analytics.html?lang=en) | ビデオ | ページの [!DNL Analytics] および [!UICONTROL データベース] セクションを使用して、標準の様々なレポートを [!DNL Marketo Engage]. |
@@ -738,7 +738,7 @@ Adobe Advertising の最新機能について説明します。
 | 2023年6月 | [PowerPoint へのPDFの変換](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-powerpoint.html) | ビデオ | この 60 秒ビデオチュートリアルでは、完全に編集可能なMicrosoft PowerPoint ドキュメントにPDFファイルを変換する方法を説明します。 | Acrobat |
 | 2023年6月 | [リアルタイムでの共同作業](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html?lang=ja) | ビデオ | あらゆる場所でリモート作業を行う場合、シームレスなコラボレーションが、迅速かつ大規模なコンテンツ配信に不可欠です。 コメントを収集、回答に共同作業で対応、ドキュメントの進行状況を追跡するといった作業をどこにいてもリアルタイムで行うことで、プロジェクトを先に進めます。 | Acrobat Sign |
 | 2023年6月 | [フォームデータを管理](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/manage-form-data.html) | ビデオ | レポートまたは Excel スプレッドシートで表示および管理できるように、ドキュメントのフォームデータを統合する方法を説明します。 | Acrobat Sign |
-| 2023年6月 | [Acrobat Signの認証方法](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html?lang=en) | ビデオ | ドキュメントに署名しているユーザーの ID を認証するためにAcrobat Signで使用できる様々な方法について説明します。 ID 認証を使用すると、不正を減らし、署名されたドキュメントにセキュリティの層を増やすことができます。 |  |
+| 2023年6月 | [Acrobat Signの認証方法](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html?lang=en) | ビデオ | ドキュメントに署名しているユーザーの ID を認証するためにAcrobat Signで使用できる様々な方法について説明します。 ID 認証を使用すると、不正を減らし、署名されたドキュメントにセキュリティの層を増やすことができます。 | |
 | 2023年6月 | [ユーザーの追加](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/add-users-to-your-account.html?lang=en) | ビデオ | Acrobat Signのユーザーを追加および管理する方法について説明します。 ユーザー管理は、Admin Console内で発生します。 | Acrobat Sign |
 | 2023年6月 | [ユーザー向けレポートオプション](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/report-options.html?lang=en) | ビデオ | Acrobat Signの管理者は、ユーザーのレポートオプションを設定する方法を学びます。 | Acrobat Sign |
 
