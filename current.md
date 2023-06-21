@@ -6,10 +6,10 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 768938cac02fcc31f707cf1763619eb60d35a1dc
+source-git-commit: d2eef17db6049b1d106ffa37e3fa25432216b6e8
 workflow-type: tm+mt
-source-wordcount: '6179'
-ht-degree: 93%
+source-wordcount: '6079'
+ht-degree: 91%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 93%
 
 ## 製品リリースの最新情報とイベント
 
-最終更新日：**2023年6月7日（PT）**
+最終更新日：**2023年6月21日（PT）**
 
 * [[!DNL Experience League] のイベントと最新情報](#events)
 * [アドビでの認定](#certification)
@@ -64,15 +64,13 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++今後のイベント
 
-* **[!DNL Workfront]** | _交流：マーケティング＆クリエイティブ向け管理チャット_ | **6月6日午後 3:00 MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,xDk-NFOQNUSCrwRemwbIYw,hTUwAaMesk-RUHhGMuTCKQ,xpzBbYDs1kKxAlpGmXT1JQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Commerce]** | _コマース&amp;コーヒー：B2B 成功の実現_ | **6 月 22 日@午後 1:00 ET** | [登録](https://register.gotowebinar.com/register/2180200047542819420)
 
-* **[!DNL Marketo Engage]** | _Marketo ＆ Mochas - カスタマージャーニー管理：ライフサイクルモデリング_ | **6月8日午後 1:00 ET** | [登録](https://register.gotowebinar.com/register/8576570459027384151)
+* **[!DNL Experience Manager]** | _マスターのExperience Manager認定 — 準備、設定、認定を取得！_ | **6 月 28 日@ 8:00 AM PT** | [登録](https://adobe.ly/3Ni6XeL)
 
-* **[!DNL Workfront]** | _エキスパートに質問：Adobe Workfront と Creative Cloud のコストのかからない統合を活用_ | **6月8日午前 10:30 MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ueSOCVtFIkmna7wZj0qUpA,vIUNhWnBmkOH38v4q3nQ8A,VszLUMl3W0268EAiz1tQ_w?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Marketo Engage]** | _Marketo Engage_ | **6 月 28 日@ 8:00 AM PT** | [登録](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
 
-* **[!DNL Workfront]** | _交流：Workfront 戦略的管理チャット_ | **6月12日午前 8:00 CT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,In1kkaMFJ0Kkz4rHJ_FjWA,VULVBg2HWUWGxssI6bizyQ,zDPownyw9EGwqszZO1cshQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _エキスパートに質問：Workfront の営業時間内のリソース管理_ | **6月13日午後 2:00 MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,f3xda2S9qUiQFiyPwkN8bw,X4tGbEP2nEaLWQC3N4UNng,9hWdr3sEFEe7-p-YB9u-yg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _エキスパートに質問する：研究センターの設立に関するウェビナーのフォローアップ_ | **6 月 28 日@ 10:00 AM CT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 [詳細情報...](https://experienceleague.adobe.com/events?lang=ja/)
 
