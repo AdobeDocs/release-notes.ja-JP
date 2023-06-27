@@ -6,9 +6,9 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d2eef17db6049b1d106ffa37e3fa25432216b6e8
+source-git-commit: ea5d551af30eb02a07b87506775b8c9e5180a508
 workflow-type: tm+mt
-source-wordcount: '6079'
+source-wordcount: '6166'
 ht-degree: 91%
 
 ---
@@ -41,7 +41,8 @@ ht-degree: 91%
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cja)
-* [[!DNL Streaming Media Analytics]](#sma)<!-- * [[!DNL Audience Manager]](#aam) -->
+* [[!DNL Streaming Media Analytics]](#sma)
+* [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -241,12 +242,18 @@ Adobe Analytics 用に公開された新しいビデオチュートリアル、�
 * [!DNL Streaming Media Analytics] [リリースノート](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html)
 * [!DNL Streaming Media Analytics] [製品ドキュメントとチュートリアル](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=ja)
 
-<!-- ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
+## ![アイコン](/assets/audience-manager.png) Audience Manager {#aam}
 
-Updates and new content for [!DNL Audience Manager].
+[!DNL Audience Manager] のアップデートと新しいコンテンツ。
 
-+++Details
++++詳細
 
+2023 年 7 月より、Adobeは、 [!DNL Data Integration Library (DIL)] そして [!DNL DIL] 拡張子。
+既存のお客様は、引き続き [!DNL DIL] 実装。 しかし、Adobeは発展しない [!DNL DIL] この点を越えて お客様は、 [Experience PlatformWeb SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=ja) 長期のデータ収集戦略に対応するために使用されます。 2023 年 7 月以降に新しいデータ収集統合を実装する場合は、 [Experience PlatformWeb SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=ja) 代わりに、
+
++++
+
+<!-- 
 ### [!DNL Audience Manager] support knowledge base
 
 New articles and updates to existing articles for [!DNL Audience Manager].
@@ -262,7 +269,7 @@ New articles and updates to existing articles for [!DNL Audience Manager].
 
 For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html) on Experience League.
 
-+++ -->
+ -->
 
 ## ![アイコン](/assets/aem.png) Adobe Experience Manager {#aem}
 
