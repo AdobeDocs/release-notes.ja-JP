@@ -6,7 +6,7 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 35e5429a141ab07dbaac97d168197ffcdadbea2b
+source-git-commit: c08bbc9f5d6e25782426c3cc7ee9ccdc43157a1f
 workflow-type: tm+mt
 source-wordcount: '6168'
 ht-degree: 98%
@@ -352,7 +352,7 @@ _リリースのハイライト_
 
 >[!IMPORTANT]
 >
->アドビでは、Workfront for Experience Manager 拡張コネクタの[最新バージョン 1.9.10 にアップグレード](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets-view/integrations/workfront-connector-install.html?lang=en)することをお勧めします。<!-- NEW. LEAVE IN FOR JUNE 7 -->
+>アドビでは、Workfront for Experience Manager 拡張コネクタの[最新バージョン 1.9.10 にアップグレード](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install.html?lang=ja)することをお勧めします。<!-- NEW. LEAVE IN FOR JUNE 7 -->
 
 _既知の問題_
 
