@@ -6,10 +6,10 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c08bbc9f5d6e25782426c3cc7ee9ccdc43157a1f
+source-git-commit: 1920ee48d086e95dfcfe608f6c17e0cbd197b99c
 workflow-type: tm+mt
-source-wordcount: '6168'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,9 +31,9 @@ ht-degree: 98%
 
 ## 製品リリースの最新情報とイベント
 
-最終更新日：**2023年6月21日（PT）**
+最新の更新： **2023 年 7 月 11 日** （イベントページ）
 
-* [[!DNL Experience League] のイベントと最新情報](#events)
+* [[!DNL Experience League] イベントと更新](#events) ( 更新済み **7 月 11 日**)
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] インターフェイスおよび管理](#ecloud)
@@ -65,15 +65,19 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++今後のイベント
 
-* **[!DNL Commerce]** | _Commerce とコーヒー：B2B 成功の実現_ | **6月22日午後 1:00 ET** | [登録](https://register.gotowebinar.com/register/2180200047542819420)
+* **[!DNL Workfront]** | _接続：コミュニティチャット_ | **7 月 13 日@ 10:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,uwMNG0gwA02-Wu9Xq90mrw,WUjKeYMc_UuHvDNaLK1fNQ,PtEPc-2kMU-u_LlbNihIRA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager]** | _Experience Manager 認定の技術を習得 - 準備、設定、認定の取得_ | **6月28日午前 8:00 PT** | [登録](https://adobe.ly/3Ni6XeL)
+* **[!DNL Analytics]** | _マーケティング、アップおよびクローズを測定_ | **7 月 13 日@ 9:00 AM BST** | [登録](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Marketo Engage]** | _Marketo Engage を使用したマーケティングキャンペーンの追跡、分析、最適化_ | **6月28日午前 8:00 PT** | [登録](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
+* **[!DNL Workfront]** | _接続：マーケティング&amp;クリエイティブ向け Admin Chat_ | **7 月 14 日@ 10:00 AM MT** | [登録](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Workfront]** | _エキスパートに質問：エクセレンスセンターの設立に関するウェビナーのフォローアップ_ | **6月28日午前 10:00 CT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Analytics]** | _マーケティングチャネルの価値のロック解除_ | **7 月 18 日@ 8:00 AM PT** | [登録](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-[詳細情報...](https://experienceleague.adobe.com/events?lang=ja/)
+* **[!DNL AEM as a Cloud Service]** | _効果的なセキュリティ戦略のCloud Service_ | **7 月 18 日@ 8:00 AM PT** | [登録](https://engage.adobe.com/Security-in-the-cloud-webinar-registration.com.html?sdid=3SH1B1RV)
+
+* **[!DNL Workfront]** | _学習：Adobe Workfront 23.3 リリースのまとめ_ | **7 月 20 日@ 11:00 AM CT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Je34nFV8mUmZdJPLSSyi5w,udIB9iEIOE-oBiAHzx2lFQ,t2YddgmhWkq780UhYr3y0Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+すべて表示 [今後のイベント](https://experienceleague.adobe.com/events?lang=ja/) または参照 [イベントの記録](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ja). 左側のナビゲーションを使用して、シリーズのタイプやアプリケーションに基づいて記録されたイベントを検索できるようになりました。
 
 +++
 
