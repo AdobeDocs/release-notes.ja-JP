@@ -5,11 +5,10 @@ doc-type: release notes
 last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0494b8a966761103756447351dc8171bb897bd34
+source-git-commit: 4dadca326d9e6a132beab1da488cb6675aa7ffc5
 workflow-type: tm+mt
-source-wordcount: '5811'
+source-wordcount: '5809'
 ht-degree: 41%
 
 ---
@@ -32,9 +31,9 @@ ht-degree: 41%
 
 ## 製品リリースの最新情報とイベント
 
-最終更新日：**2023年7月10日（PT）**
+最終更新日：**2023年7月11日（PT）**
 
-* [[!DNL Experience League] イベントと更新](#events) ( 更新済み **7 月 11 日**)
+* [[!DNL Experience League] のイベントと最新情報](#events)
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] インターフェイスおよび管理](#ecloud)
