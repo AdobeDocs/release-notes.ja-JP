@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: bf84dd7489440a296b62838a2b93d8d47fb61962
+source-git-commit: ff12c5a38af50a6cf7b44b0e6914cba6f3254b86
 workflow-type: tm+mt
-source-wordcount: '4318'
+source-wordcount: '4317'
 ht-degree: 53%
 
 ---
@@ -279,7 +279,7 @@ Experience Manager の新機能、修正点および更新です。安定性、�
 
 ### 最新リリースの概要ビデオ
 
-2023.02.0（2023年2月）リリースに追加された機能の概要については、[2023年2月リリースの概要ビデオ](https://video.tv.adobe.com/v/3416885)をご覧ください。
+次を監視： [2023 年 6 月リリースの概要ビデオ](https://video.tv.adobe.com/v/3420971/) 2023.06.0リリースで追加された機能の概要は、こちらを参照してください。
 
 <!-- ### [!DNL Experience Manager Sites] as a [!DNL Cloud Service] 
 
