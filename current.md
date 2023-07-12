@@ -6,9 +6,9 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fad4343c9edcfbb296767a4cef17b5a363f096ab
+source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
 workflow-type: tm+mt
-source-wordcount: '5838'
+source-wordcount: '5836'
 ht-degree: 41%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 41%
 
 ## 製品リリースの最新情報とイベント
 
-最終更新日：**2023年7月11日（PT）**
+最終更新日：**2023年7月12日（PT）**
 
 * [[!DNL Experience League] のイベントと最新情報](#events)
 * [アドビでの認定](#certification)
@@ -424,19 +424,19 @@ AEMas a Cloud Service [2023.6.0 — リリースの更新](https://adobe.ly/444z
 
 Experience Manager 用に新しく公開されたビデオ、チュートリアルまたはコース。
 
-| 公開日 | 名前 | タイプ | 説明 | アプリケーション |
+| 公開日 | アプリケーション | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- | ------|
-| 2023年7月 | [クイックアクセス](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | ビデオ | 方法 [!UICONTROL クイックアクセス] は、個人用のレンズとしてを次に提供することで、生産性を高め、ワークフローを合理化できます。 [!DNL AEM Assets]. この機能を使用すると、割り当てられたタスクに必要なすべてのアセットを指先で管理できます。 | [!DNL AEM Assets] |
-| 2023年7月 | [表示 _ありがとう_ ヘッドレスフォーム送信時のメッセージ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | 記事 | 表示： _ありがとう_ ヘッドレスフォーム送信が成功したときのメッセージ。 | [!DNL AEM Forms] |
-| 2023年7月 | [ブックマークレットのプレビュー — コードサンプル](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | 記事 | JavaScript ブックマークレットを作成して、[!UICONTROL  App Builder コンテンツフラグメント] AEMのコンテキストでの拡張 [!UICONTROL コンテンツフラグメント] ページ。 | [!UICONTROL コンテンツフラグメント] |
-| 2023年7月 | [XML へのコンテンツフラグメントの書き出し](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | 記事 | カスタムボタンを [!UICONTROL コンテンツフラグメントエディター] ヘッダーメニューを使用 `headerMenu` 拡張ポイント。 この例では、ヘッダーメニューにボタンを追加する方法と、クリックイベントを処理してアクティブな [!UICONTROL コンテンツフラグメント] を XML または CSV として追加します。 | [!UICONTROL コンテンツフラグメント] |
-| 2023年7月 | [カードクリック時のフォームの表示](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | 記事 | カード表示からフォームにドリルダウンします. | [!DNL AEM Forms] |
-| 2023年7月 | [リッチテキストエディター (RTE) へのウィジェットの追加](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | ビデオ | AEMでリッチテキストエディター (RTE) にウィジェットを追加する方法を説明します。 [!UICONTROL コンテンツフラグメントエディター]. | [!UICONTROL コンテンツフラグメント] |
-| 2023年7月 | [リッチテキストエディターへのバッジの追加](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | ビデオ | AEMでリッチテキストエディター (RTE) にバッジを追加する方法を説明します。 [!UICONTROL コンテンツフラグメントエディター]. | [!UICONTROL コンテンツフラグメント] |
-| 2023年7月 | [カスタムグリッド列](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | ビデオ | カスタムグリッド列を [!UICONTROL コンテンツフラグメントコンソール]. | [!UICONTROL コンテンツフラグメント] |
-| 2023年7月 | [3D アセット](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | ビデオ | での 3D アセットのサポートについて説明します。 [!DNL AEM Assets as a Cloud Service]. | [!DNL AEM Assets] |
-| 2023年7月 | [参照](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | ビデオ | AEMコンテンツフラグメントコンソールとエディターを使用して、参照コンテンツを簡単に理解し、管理する方法を説明します。 | [!DNL AEM Sites] |
-| 2023年7月 | [送信されたデータに基づいて応答をカスタマイズ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | ビデオ | ヘッドレスアダプティブフォームの送信を処理するカスタム送信サービスを作成します。 | [!DNL AEM Forms] |
+| 2023年7月 | [!DNL AEM Assets] | [クイックアクセス](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html) | ビデオ | 方法 [!UICONTROL クイックアクセス] は、個人用のレンズとしてを次に提供することで、生産性を高め、ワークフローを合理化できます。 [!DNL AEM Assets]. この機能を使用すると、割り当てられたタスクに必要なすべてのアセットを指先で管理できます。 |
+| 2023年7月 | [!DNL AEM Assets] | [3D アセット](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en) | ビデオ | での 3D アセットのサポートについて説明します。 [!DNL AEM Assets as a Cloud Service]. |
+| 2023年7月 | [!DNL AEM Forms] | [表示 _ありがとう_ ヘッドレスフォーム送信時のメッセージ](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html) | 記事 | 表示： _ありがとう_ ヘッドレスフォーム送信が成功したときのメッセージ。 |
+| 2023年7月 | [!DNL AEM Forms] | [カードクリック時のフォームの表示](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html) | 記事 | カード表示からフォームにドリルダウンします. |
+| 2023年7月 | [!DNL AEM Forms] | [送信されたデータに基づいて応答をカスタマイズ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | ビデオ | ヘッドレスアダプティブフォームの送信を処理するカスタム送信サービスを作成します。 |
+| 2023年7月 | [!UICONTROL コンテンツフラグメント] | [ブックマークレットのプレビュー](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | 記事 | JavaScript ブックマークレットを作成して、[!UICONTROL  App Builder コンテンツフラグメント] AEMのコンテキストでの拡張 [!UICONTROL コンテンツフラグメント] ページ。 |
+| 2023年7月 | [!UICONTROL コンテンツフラグメント] | [XML へのコンテンツフラグメントの書き出し](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | 記事 | カスタムボタンを [!UICONTROL コンテンツフラグメントエディター] ヘッダーメニューを使用 `headerMenu` 拡張ポイント。 この例では、ヘッダーメニューにボタンを追加する方法と、クリックイベントを処理してアクティブな [!UICONTROL コンテンツフラグメント] を XML または CSV として追加します。 |
+| 2023年7月 | [!UICONTROL コンテンツフラグメント] | [リッチテキストエディター (RTE) へのウィジェットの追加](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | ビデオ | AEMでリッチテキストエディター (RTE) にウィジェットを追加する方法を説明します。 [!UICONTROL コンテンツフラグメントエディター]. |
+| 2023年7月 | [!UICONTROL コンテンツフラグメント] | [リッチテキストエディターへのバッジの追加](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | ビデオ | AEMでリッチテキストエディター (RTE) にバッジを追加する方法を説明します。 [!UICONTROL コンテンツフラグメントエディター]. |
+| 2023年7月 | [!UICONTROL コンテンツフラグメント] | [カスタムグリッド列](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | ビデオ | カスタムグリッド列を [!UICONTROL コンテンツフラグメントコンソール]. |
+| 2023年7月 | [!DNL AEM Sites] | [参照](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | ビデオ | AEMコンテンツフラグメントコンソールとエディターを使用して、参照コンテンツを簡単に理解し、管理する方法を説明します。 |
 
 {style="table-layout:auto"}
 
