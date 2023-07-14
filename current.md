@@ -6,7 +6,7 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: eca7833d696a00e7e1c7fd4d605cd55dfdee2d7f
+source-git-commit: 40796032c6e2464215de160b6834bb7cc841b379
 workflow-type: tm+mt
 source-wordcount: '5836'
 ht-degree: 41%
@@ -133,7 +133,7 @@ Experience Cloudの中央インターフェイスコンポーネントに関す�
 
 Adobe [!DNL Experience Platform] 向けに新しく公開されたビデオ、チュートリアル、コース。
 
-| タイプ | 製品の機能 | 説明 |
+| 公開日 | 製品の機能 | 説明 |
 | -----------| ---------- |---------- |
 | 2023年7月 | [サンプルデータの読み込み先 [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html?lang=ja) | 更新されたビデオ | 設定方法 [!DNL Experience Platform] サンドボックス環境にサンプルデータが含まれています。 の使用 [!UICONTROL Postman] コレクション：フィールドグループ、スキーマ、データセットを作成し、サンプルデータを [!DNL Experience Platform]. |
 | 2023年7月 | [ [!DNL Experience Platform]  API の認証とアクセス](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html?lang=ja) | 更新されたビデオ | Adobe [!DNL Experience Platform] API このチュートリアルでは、認証資格情報の作成と作成のプロセスについて説明します。 [!DNL Experience Platform] API リクエスト。 |
