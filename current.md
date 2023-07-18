@@ -6,7 +6,7 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 40796032c6e2464215de160b6834bb7cc841b379
+source-git-commit: 86a6d628b123ec77f5b64e0a80dc0b0dc56bb72a
 workflow-type: tm+mt
 source-wordcount: '5836'
 ht-degree: 41%
@@ -31,7 +31,7 @@ ht-degree: 41%
 
 ## 製品リリースの最新情報とイベント
 
-最終更新日：**2023年7月12日（PT）**
+最終更新日：**2023年7月18日（PT）**
 
 * [[!DNL Experience League] のイベントと最新情報](#events)
 * [アドビでの認定](#certification)
@@ -176,7 +176,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Real-Time Customer D
 
 ### AppMeasurement {#appm}
 
-リリースバージョン：**2.23.0**
+リリースバージョン：**2.24.0**
 
 * [JavaScript 版 AppMeasurement リリースノート](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=ja)
 
@@ -360,7 +360,7 @@ Adobe Acrobat Sign Solutions for Government との統合により、Adobeのパ�
 
 [フォームデータモデルの強化された認証方法](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=ja):AEM Forms（フォームデータモデル）を互換性のあるデータソースに接続するためのクライアント資格情報ベースの認証が導入され、セキュリティが強化されました。 この機能強化により、データの保護を強化し、偽装やユーザーログインを必要としなくなりました。
 
-[繰り返し可能なセクションでのアダプティブFormsの作成](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/create-forms-repeatable-sections.html):コアコンポーネントベースのアダプティブフォームで、アコーディオン、ウィザード、パネル、水平タブの各コンポーネントを作成して、繰り返し可能なセクションを作成できるようになりました。
+[繰り返し可能なセクションでのアダプティブFormsの作成](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/create-forms-repeatable-sections.html?lang=ja):コアコンポーネントベースのアダプティブフォームで、アコーディオン、ウィザード、パネル、水平タブの各コンポーネントを作成して、繰り返し可能なセクションを作成できるようになりました。
 
 これらの繰り返し可能なセクションでは、フィールド数を固定せずに、エントリ数を無制限に指定できます。 これは、必要なデータインスタンスがあらかじめ不明な場合に役立ちます。 Formsのユーザーは、セクションを簡単に追加または削除できるので、フォームを様々なデータ入力シナリオに対応でき、同じデータに関する複数のオカレンスを簡単に収集できます。
 
@@ -433,7 +433,7 @@ Experience Manager 用に新しく公開されたビデオ、チュートリア�
 | 2023年7月 | [!DNL AEM Forms] | [送信されたデータに基づいて応答をカスタマイズ](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html) | ビデオ | ヘッドレスアダプティブフォームの送信を処理するカスタム送信サービスを作成します。 |
 | 2023年7月 | [!UICONTROL コンテンツフラグメント] | [ブックマークレットのプレビュー](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet) | 記事 | JavaScript ブックマークレットを作成して、[!UICONTROL  App Builder コンテンツフラグメント] AEMのコンテキストでの拡張 [!UICONTROL コンテンツフラグメント] ページ。 |
 | 2023年7月 | [!UICONTROL コンテンツフラグメント] | [XML へのコンテンツフラグメントの書き出し](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html) | 記事 | カスタムボタンを [!UICONTROL コンテンツフラグメントエディター] ヘッダーメニューを使用 `headerMenu` 拡張ポイント。 この例では、ヘッダーメニューにボタンを追加する方法と、クリックイベントを処理してアクティブな [!UICONTROL コンテンツフラグメント] を XML または CSV として追加します。 |
-| 2023年7月 | [!UICONTROL コンテンツフラグメント] | [リッチテキストエディター (RTE) へのウィジェットの追加](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | ビデオ | AEMでリッチテキストエディター (RTE) にウィジェットを追加する方法を説明します。 [!UICONTROL コンテンツフラグメントエディター]. |
+| 2023年7月 | [!UICONTROL コンテンツフラグメント] | [リッチテキストエディター（RTE）へのウィジェットの追加](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html) | ビデオ | AEMでリッチテキストエディター (RTE) にウィジェットを追加する方法を説明します。 [!UICONTROL コンテンツフラグメントエディター]. |
 | 2023年7月 | [!UICONTROL コンテンツフラグメント] | [リッチテキストエディターへのバッジの追加](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html) | ビデオ | AEMでリッチテキストエディター (RTE) にバッジを追加する方法を説明します。 [!UICONTROL コンテンツフラグメントエディター]. |
 | 2023年7月 | [!UICONTROL コンテンツフラグメント] | [カスタムグリッド列](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html) | ビデオ | カスタムグリッド列を [!UICONTROL コンテンツフラグメントコンソール]. |
 | 2023年7月 | [!DNL AEM Sites] | [参照](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | ビデオ | AEMコンテンツフラグメントコンソールとエディターを使用して、参照コンテンツを簡単に理解し、管理する方法を説明します。 |
