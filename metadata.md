@@ -2,12 +2,14 @@
 cloud: Experience Cloud
 type: Documentation
 solution: Experience Cloud
+feature-set: Experience Cloud
+feature: Release Notes
 role: User,Admin,Developer
 product: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.ja-JP
 index: true
-source-git-commit: 61ddca8eea54372f44bbfd1e0e32e58cbb44e31c
+source-git-commit: af038757181530a07c2f09bf50debb776c21de35
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 100%
