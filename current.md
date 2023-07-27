@@ -225,7 +225,7 @@ Adobe [!DNL Analytics] 用に公開された新しいビデオチュートリア
 | 2023年7月 | [Analysis Workspace でのすべてのユーザーとの共有](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.html?lang=ja) | ビデオ | [!UICONTROL Analysis Workspace] での&#x200B;**[!UICONTROL すべてのユーザーとの共有]**&#x200B;機能について説明します。この機能を使用すると、Adobe [!DNL Analytics] または [!DNL Customer Journey Analytics] にアクセスできない人物（組織外の受信者など）に、[!UICONTROL Workspace] プロジェクトへの読み取り専用アクセス権を付与できます。 |
 | 2023年7月 | [基本的な訪問者指標について](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=ja) | ビデオ | ページビュー数、訪問回数および訪問者数と、これらの基本的な指標を使用して web サイトのトラフィックを把握する方法を説明します。 |
 | 2023年7月 | [エグゼクティブがモバイルスコアカードにアクセスするのを支援](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/dashboards/assist-executives-to-access-mobile-scorecards.html?lang=ja) | ビデオ | [!DNL Analytics] ダッシュボードモバイルアプリケーションを使用して [!DNL Customer Journey Analytics] で作成されたモバイルスコアカードにエグゼクティブがアクセスできるように支援します。モバイルスコアカードを通じて、いつでも主要パフォーマンス指標と詳細ビュー（分類）にアクセスできます。 |
-| 2023年7月 | [CJA チュートリアルの新着情報](hhttps://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/overview.html?lang=ja) | ビデオ | [!DNL Customer Journey Analytics] チュートリアルの 7月の新着情報をご確認ください。 |
+| 2023年7月 | [CJA チュートリアルの新着情報](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/overview.html?lang=ja) | ビデオ | [!DNL Customer Journey Analytics] チュートリアルの 7月の新着情報をご確認ください。 |
 
 {style="table-layout:auto"}
 
