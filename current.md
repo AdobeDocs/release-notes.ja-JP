@@ -6,10 +6,10 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94e567e767551992e794b8c8476307d441d77953
-workflow-type: ht
-source-wordcount: '5503'
-ht-degree: 100%
+source-git-commit: 6b12174eedf7e70da0b04b027b6b2a5372b005f6
+workflow-type: tm+mt
+source-wordcount: '5421'
+ht-degree: 97%
 
 ---
 
@@ -31,9 +31,9 @@ ht-degree: 100%
 
 ## 製品リリースの最新情報とイベント
 
-最終更新日：**2023年8月9日（PT）**
+最終更新日：**2023年8月29日（PT）**
 
-* [[!DNL Experience League] のイベントと最新情報](#events)
+* [[!DNL Experience League] イベントと更新](#events) ( 更新済み **8 月 30 日**)
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] インターフェイスおよび管理](#ecloud)
@@ -72,20 +72,17 @@ Experience League に関する新しい [Experience Cloud アプリケーショ�
 
 +++Experience League に関する今後のイベント
 
-* **[!DNL WORKFRONT]** | カスタマーワークショップ | _交流 - Workfront 戦略的管理チャット_ | **8月14日午前 7:00 CT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL JOURNEY OPTIMIZER]** |ウェビナー |Adobe Journey Optimizerの専門家とのコミュニティ Q&amp;A コーヒーブレーク Siddharth Jain、Chetan Prasad &amp; Nikhil Sharma_ | **8 月 30 日@ 8:00 AM pT** | [登録](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-august-30th-with-adobe-journey/ev-p/612867)
 
-* **[!DNL EXPERIENCE MANAGER]** | Experience Makers | _Adobe Experience Manager のスキル交換_ | **8月17日午前 9:00 PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE CLOUD]** |ウェビナー | _完璧なブレンド：Marketo+Workfront_ | **8 月 31 日@午後 1:00 ET** | [登録](https://attendee.gotowebinar.com/register/1243658035029822043?source=ExL)
 
-* **[!DNL WORKFRONT]** | Experience Makers | _Adobe Workfront のスキル交換_ | **8月16日午前 9:00 PT** | [登録](https://cvent.me/OnVZk3?rt=GK3dI3eyIEu5Ln9oKu3x0Q&amp;RefId=Experience+League)
-* **[!DNL ANALYTICS]** | Experience Makers | _Adobe Analytics のスキル交換_ | **8月17日午前 9:00 PT** | [登録](https://cvent.me/OnVZk3?rt=GK3dI3eyIEu5Ln9oKu3x0Q&amp;RefId=Experience+League)
+* **[!DNL WORKFRONT]** |コミュニティイベント | _Adobe Workfront Connect：マーケティング&amp;クリエイティブ向け Admin Chat_ | **9 月 1 日@ 10:00 AM MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KBvGRYIBNkS8UYZoXhEzyg,NxN8MJvklk2hHdVSkoIQlQ,IOANuFGpiEehM82GeIib2g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL TARGET]** | ウェビナー | _ピークシーズンに備えて ROI 効果を最大化するための戦略化_ | **8月17日午前 8:00 PT** | [登録](https://adobepeakseasonreadiness2023.experienceleague.adobeevents.com/)
+* **[!DNL MARKETO ENGAGE]** |コミュニティイベント | _でのメール配信品質の向上[!DNL Marketo Engage]_ | **9 月 7 日@ 8:00 AM PT** | [登録](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
 
-* **[!DNL WORKFRONT]** | カスタマーワークショップ | _Workfront で学ぶ - リクエストされたキュー_ | **8月22日午前 9:00 MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Tu1ThXWIykiOZEfcg-DHeA,HXziSkoXUkm1SUYQGdEkZA,G-p3ztGJpkCWE8JFONuXNg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **一般** | Livestream | _App Builder Live - OAuth への移行_ | **9 月 7 日@ 9:00 AM PT** | [登録](https://www.eventbrite.com/e/app-builder-live-migrating-to-oauth-tickets-687485968037?aff=explg)
 
-* **[!DNL EXPERIENCE CLOUD]** | ウェビナー | _最適なブレンド：Adobe Analytics + Adobe Commerce_ | **8月22日午前 11:00 MT** | [登録](https://register.gotowebinar.com/register/8741953502398625879?source=ExL)
-
-* **[!DNL EXPERIENCE CLOUD]** | ウェビナー | _最適なブレンド：Marketo + Workfront_ | **8月31日午前 11:00 MT** | [登録](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
+* **[!DNL WORKFRONT]** |カスタマーワークショップ | _学習：フルタイムシステム管理者のケース作成_ | **9 月 7 日@ 12:00 PM CT** | [登録](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
 
 [今後のイベント](https://experienceleague.adobe.com/events/?lang=ja)をすべて表示するか、[イベントの録画](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ja)を参照してください。左側のナビゲーションを使用して、シリーズタイプやアプリケーションを基にイベントの録画を検索できるようになりました。
 
@@ -324,7 +321,7 @@ _プレリリースチャネルの新機能_
 _新機能_
 
 * **画像スマートタグ用の改善された人工知能フレームワーク** - Experience Manager Assets では、画像スマートタグ用に改善された人工知能フレームワークを使用するようになりました。このコンテンツインテリジェンスの結果、取り込み時にすべての画像アセットに使用できるスマートタグの関連度と精度が向上します。
-* **Assets リストビューの列の表示の設定** - Assets Essentials では、名前、ステータス、形式、寸法、サイズ、変更済みなど、Assets リストビューに表示する列を選択できるようになりました。
+* **Assets リスト表示の列の表示の設定** - Assets Essentials では、名前、ステータス、形式、寸法、サイズ、変更済みなど、Assets リスト表示に表示する列を選択できるようになりました。
 * **関連性に基づいた検索結果の並べ替え** - Assets Essentials では、デフォルトで関連性に基づいて検索結果を並べ替えるようになりました。検索したアセットを、`Name`、`Relevance`、`Size`、`Modified` および `Created` の昇順または降順に並べ替えることができます。
 
 ### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
