@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 6b12174eedf7e70da0b04b027b6b2a5372b005f6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '5421'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 97%
 
 最終更新日：**2023年8月29日（PT）**
 
-* [[!DNL Experience League] イベントと更新](#events) ( 更新済み **8 月 30 日**)
+* [[!DNL Experience League] イベントと最新情報](#events)（更新日：**8月29日（PT）**）
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] インターフェイスおよび管理](#ecloud)
@@ -72,17 +72,17 @@ Experience League に関する新しい [Experience Cloud アプリケーショ�
 
 +++Experience League に関する今後のイベント
 
-* **[!DNL JOURNEY OPTIMIZER]** |ウェビナー |Adobe Journey Optimizerの専門家とのコミュニティ Q&amp;A コーヒーブレーク Siddharth Jain、Chetan Prasad &amp; Nikhil Sharma_ | **8 月 30 日@ 8:00 AM pT** | [登録](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-august-30th-with-adobe-journey/ev-p/612867)
+* **[!DNL JOURNEY OPTIMIZER]** | ウェビナー | Adobe Journey Optimizer エキスパートの Siddharth Jain、Chetan Prasad および Nikhil Sharma_ とのコミュニティ Q&amp;A コーヒーブレーク | **8月30日午前 8:00 PT** | [登録](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-august-30th-with-adobe-journey/ev-p/612867)
 
-* **[!DNL EXPERIENCE CLOUD]** |ウェビナー | _完璧なブレンド：Marketo+Workfront_ | **8 月 31 日@午後 1:00 ET** | [登録](https://attendee.gotowebinar.com/register/1243658035029822043?source=ExL)
+* **[!DNL EXPERIENCE CLOUD]** | ウェビナー | _最適なブレンド：Marketo + Workfront_ | **8月31日午後 1:00 ET** | [登録](https://attendee.gotowebinar.com/register/1243658035029822043?source=ExL)
 
-* **[!DNL WORKFRONT]** |コミュニティイベント | _Adobe Workfront Connect：マーケティング&amp;クリエイティブ向け Admin Chat_ | **9 月 1 日@ 10:00 AM MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KBvGRYIBNkS8UYZoXhEzyg,NxN8MJvklk2hHdVSkoIQlQ,IOANuFGpiEehM82GeIib2g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | コミュニティイベント | _Adobe Workfront Connect：マーケティング＆クリエイティブ向け管理チャット_ | **9月1日午前 10:00 MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KBvGRYIBNkS8UYZoXhEzyg,NxN8MJvklk2hHdVSkoIQlQ,IOANuFGpiEehM82GeIib2g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL MARKETO ENGAGE]** |コミュニティイベント | _でのメール配信品質の向上[!DNL Marketo Engage]_ | **9 月 7 日@ 8:00 AM PT** | [登録](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
+* **[!DNL MARKETO ENGAGE]** | コミュニティイベント | _でのメール配信品質の向上[!DNL Marketo Engage]_ | **9月7日午前 8:00 PT** | [登録](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
 
-* **一般** | Livestream | _App Builder Live - OAuth への移行_ | **9 月 7 日@ 9:00 AM PT** | [登録](https://www.eventbrite.com/e/app-builder-live-migrating-to-oauth-tickets-687485968037?aff=explg)
+* **一般** | Livestream | _App Builder Live - OAuth への移行_ | **9月7日午前 9:00 PT** | [登録](https://www.eventbrite.com/e/app-builder-live-migrating-to-oauth-tickets-687485968037?aff=explg)
 
-* **[!DNL WORKFRONT]** |カスタマーワークショップ | _学習：フルタイムシステム管理者のケース作成_ | **9 月 7 日@ 12:00 PM CT** | [登録](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
+* **[!DNL WORKFRONT]** | カスタマーワークショップ | _学ぶ：フルタイムシステム管理者のケース作成_ | **9月7日午後 12:00 CT** | [登録](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
 
 [今後のイベント](https://experienceleague.adobe.com/events/?lang=ja)をすべて表示するか、[イベントの録画](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ja)を参照してください。左側のナビゲーションを使用して、シリーズタイプやアプリケーションを基にイベントの録画を検索できるようになりました。
 
