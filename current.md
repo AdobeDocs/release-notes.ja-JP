@@ -6,9 +6,9 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 90be4cc050b3e0219f86648a99427a883d5ec185
+source-git-commit: 54b40c6a51aaccdc0e9b121d82c30f3112d4d754
 workflow-type: tm+mt
-source-wordcount: '7103'
+source-wordcount: '7100'
 ht-degree: 46%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 46%
 
 ## 製品リリースの最新情報とイベント
 
-最終更新日：**2023年9月13日（PT）**
+最終更新日：**2023年9月18日（PT）**
 
 * [[!DNL Experience League] のイベントと最新情報](#events)
 * [アドビでの認定](#certification)
@@ -41,7 +41,7 @@ ht-degree: 46%
 * [[!DNL Experience Cloud] インターフェイスおよび管理](#ecloud)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) **（9 月 14 日リリース）**
+* [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cja)
 * [[!DNL Streaming Media Analytics]](#sma)
 * [[!DNL Audience Manager]](#aam)
@@ -55,6 +55,7 @@ ht-degree: 46%
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [[!DNL Adobe Advertising]](#advertising)
+* [[!DNL Adobe Pass]](#pass) (formerly [!DNL Adobe Primetime])
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 * [顧客データ管理 - 担当者の声](#voices)
@@ -76,10 +77,6 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++Experience League に関する今後のイベント
 
-* **[!DNL COMMERCE]** |ウェビナー | _ピークシーズンの準備_ | **9 月 14 日@午後 1:00 ET** | [登録](https://register.gotowebinar.com/register/1649826426335413079?source=ExL)
-
-* **[!DNL WORKFRONT]** | Q&amp;A チャット | _専門家への質問：スキル交換の成長トラック_ | **9 月 15 日@ 10:00 AM MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ti9YHZqvVUyqJ5ooYWQSYQ,Vc_WBSS-uEGcM_vITdto1A,QitJ7x6tM0GLC9Ahpcgblg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** |カスタマーワークショップ | _Admin 101 - Workfrontの概要_ | **9 月 19 日@ 10:00 AM CT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ro1ksXUe10a6IwM8fXCIHg,-FBAvqy1W0aUZDRPXCzn3A,JaIpLTwA3E2wq1vRimwKjQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _AEM as a Cloud Service向けNew Relic APM の機能を活用_ | **9 月 20 日@ 8:00 AM PT** | [登録](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-harness-the-power-of-new-relic-apm-for-aem-as-a-cloud-service-boost-performance-amp-issue-resolution/)
@@ -93,6 +90,8 @@ Experience League に関するエキサイティングなイベントについ�
 * **[!DNL WORKFRONT]** |コミュニティイベント | _接続：マーケティング&amp;クリエイティブ向け管理チャット_ | **10 月 6 日@ 10:00 AM MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,GEPFgV3sAkazC0HNeX4Qiw,MfXhfQkRaEeNxpVhAjrevw,etCOBCAjk0iAVD0DNRskXQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** |カスタマーワークショップ | _Admin 101:Workfrontを使用するためのユーザーの取得_ | **10 月 17 日@ 9:00 AM MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+<!-- * **[!DNL AEM]** and **[!DNL COMMERCE]** | Developers Live | _Content and Commerce_ | **November 6 @ 9:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) -->
 
 [今後のイベント](https://experienceleague.adobe.com/events/?lang=ja)をすべて表示するか、[イベントの録画](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ja)を参照してください。左側のナビゲーションを使用して、シリーズタイプやアプリケーションを基にイベントの録画を検索できるようになりました。
 
@@ -770,6 +769,16 @@ Last updated: **August 9, 2022**
 [ [!DNL Advertising Search, Social, & Commerce] の新機能](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/home.html?lang=ja)を参照してください。
 
 +++
+
+## ![アイコン](/assets/pass.png) [!DNL Adobe Pass] {#pass}
+
+[!DNL Adobe Pass] は、放送局、ケーブルネットワークおよびサービスプロバイダーに適したマルチスクリーン TV プラットフォームです。ユーザーの心をつかむパーソナライズ可能な視聴体験を作成し、収益化できます。
+
+>[!NOTE]
+>
+>_[!DNL Adobe Primetime]_は_[!DNL Adobe Pass]_ になりました。再ブランド化の作業が完了するまで、近い将来、ドキュメントに両方のブランド名が表示される可能性があります。
+
+詳しくは、 [Adobe Passリリースノート](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=ja) リリース固有の情報、システム要件、制限事項、修正された問題、既知の問題を見つけるには、次の手順に従います。
 
 ## ![アイコン](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
