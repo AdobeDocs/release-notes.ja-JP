@@ -6,9 +6,9 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 54b40c6a51aaccdc0e9b121d82c30f3112d4d754
+source-git-commit: 8e68c850554a8d3d464c4ae77bf4f3ede156c5d8
 workflow-type: tm+mt
-source-wordcount: '7100'
+source-wordcount: '7132'
 ht-degree: 46%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 46%
 
 ## 製品リリースの最新情報とイベント
 
-最終更新日：**2023年9月18日（PT）**
+最終更新日：**2023年9月19日（PT）**
 
 * [[!DNL Experience League] のイベントと最新情報](#events)
 * [アドビでの認定](#certification)
@@ -91,7 +91,7 @@ Experience League に関するエキサイティングなイベントについ�
 
 * **[!DNL WORKFRONT]** |カスタマーワークショップ | _Admin 101:Workfrontを使用するためのユーザーの取得_ | **10 月 17 日@ 9:00 AM MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-<!-- * **[!DNL AEM]** and **[!DNL COMMERCE]** | Developers Live | _Content and Commerce_ | **November 6 @ 9:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) -->
+* **[!DNL AEM]** および **[!DNL COMMERCE]** | Developers Live | _コンテンツとコマース：に関する深い掘り下げセッション [!UICONTROL エッジ配信サービス]，ヘッドレス機能，拡張性，合成性，生産性ツール_ | **11 月 6 日@ 9:00 AM MT** | [登録](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
 [今後のイベント](https://experienceleague.adobe.com/events/?lang=ja)をすべて表示するか、[イベントの録画](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ja)を参照してください。左側のナビゲーションを使用して、シリーズタイプやアプリケーションを基にイベントの録画を検索できるようになりました。
 
