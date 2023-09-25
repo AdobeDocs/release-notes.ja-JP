@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 8e68c850554a8d3d464c4ae77bf4f3ede156c5d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '7132'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 98%
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [[!DNL Adobe Advertising]](#advertising)
-* [[!DNL Adobe Pass]](#pass) (formerly [!DNL Adobe Primetime])
+* [[!DNL Adobe Pass]](#pass)（旧 [!DNL Adobe Primetime]）
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 * [顧客データ管理 - 担当者の声](#voices)
@@ -68,7 +68,7 @@ Experience League に関するエキサイティングなイベントについ�
 
 | 公開日 | アプリケーション | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2023年9月 | Experience Cloud | [効果的な Audience Activation 戦略の設定](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=ja) | カスタマーサクセスウェビナー | データ管理戦略、Adobe Audience Managerの概要と機能、Adobe Audience Managerの使用例、データ管理戦略を設定するためのアクションプランの重要性について説明します。 |
+| 2023年9月 | Experience Cloud | [効果的な Audience Activation 戦略の設定](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=ja) | カスタマーサクセスウェビナー | データ管理戦略の重要性、Adobe Audience Manager の概要と機能、Adobe Audience Manager のユースケース、データ管理戦略を設定するための行動計画について説明します |
 | 2023年夏 | Experience Cloud | [Experience Cloud アプリケーションの統合チュートリアルホーム](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html?lang=ja) | ビデオ | 最も一般的な Experience Cloud アプリケーションの統合について説明します。[ソリューション](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=ja)または[アプリケーション](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=ja)ごとに統合チュートリアルを参照してください。このコンテンツは頻繁に更新されるので、頻繁にチェックしてください。 |
 
 {style="table-layout:auto"}
@@ -91,7 +91,7 @@ Experience League に関するエキサイティングなイベントについ�
 
 * **[!DNL WORKFRONT]** | カスタマーワークショップ | _管理 101：Workfront を使用するユーザーの獲得_ | **10月17日午前 9:00 MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL AEM]** および **[!DNL COMMERCE]** | Developers Live | _コンテンツとコマース：に関する深い掘り下げセッション [!UICONTROL エッジ配信サービス]，ヘッドレス機能，拡張性，合成性，生産性ツール_ | **11 月 6 日@ 9:00 AM MT** | [登録](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+* **[!DNL AEM]** および **[!DNL COMMERCE]** | Developers Live | _コンテンツとコマース：[!UICONTROL Edge 配信サービス]、ヘッドレス機能、拡張性、合成性、生産性ツール_&#x200B;に関する詳細セッション | **11月6日午前 9:00 MT** | [登録](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
 [今後のイベント](https://experienceleague.adobe.com/events/?lang=ja)をすべて表示するか、[イベントの録画](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ja)を参照してください。左側のナビゲーションを使用して、シリーズタイプやアプリケーションを基にイベントの録画を検索できるようになりました。
 
@@ -772,13 +772,13 @@ Last updated: **August 9, 2022**
 
 ## ![アイコン](/assets/pass.png) [!DNL Adobe Pass] {#pass}
 
-[!DNL Adobe Pass] は、放送局、ケーブルネットワークおよびサービスプロバイダーに適したマルチスクリーン TV プラットフォームです。ユーザーの心をつかむパーソナライズ可能な視聴体験を作成し、収益化できます。
+[!DNL Adobe Pass] は、放送局、ケーブルネットワークおよびサービスプロバイダーに適した、マルチスクリーン TV プラットフォームです。ユーザーの心をつかむパーソナライズ可能な視聴体験を作成し、収益化できます。
 
 >[!NOTE]
 >
->_[!DNL Adobe Primetime]_は_[!DNL Adobe Pass]_ になりました。再ブランド化の作業が完了するまで、近い将来、ドキュメントに両方のブランド名が表示される可能性があります。
+>_[!DNL Adobe Primetime]_は_[!DNL Adobe Pass]_ になりました。近い将来、再ブランド化の作業が完了するまで、ドキュメントに両方のブランド名が表示される可能性があります。
 
-詳しくは、 [Adobe Passリリースノート](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=ja) リリース固有の情報、システム要件、制限事項、修正された問題、既知の問題を見つけるには、次の手順に従います。
+リリース固有の情報、システム要件、制限事項、修正された問題、既知の問題については、[Adobe Pass リリースノート](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=ja)を参照してください。
 
 ## ![アイコン](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
