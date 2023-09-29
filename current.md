@@ -6,9 +6,9 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a0cad6ed033fec45ce4697dc64011ee675506433
+source-git-commit: b889ad2ce5a36b05621fc206e62d5b365a6fb5a3
 workflow-type: tm+mt
-source-wordcount: '7204'
+source-wordcount: '7206'
 ht-degree: 97%
 
 ---
@@ -50,7 +50,7 @@ ht-degree: 97%
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
-* [[!DNL Journey Optimizer]](#journey-opt)
+* [[!DNL Journey Optimizer]](#journey-opt) ( 更新済み **9 月 28 日**)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
