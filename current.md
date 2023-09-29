@@ -6,10 +6,10 @@ last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 646fa448526e3d74f4c88c77325fa65adaad5ae2
+source-git-commit: a0cad6ed033fec45ce4697dc64011ee675506433
 workflow-type: tm+mt
-source-wordcount: '7065'
-ht-degree: 98%
+source-wordcount: '7204'
+ht-degree: 97%
 
 ---
 
@@ -647,6 +647,11 @@ Adobe [!DNL Journey Optimizer] 向けに新しく公開されたビデオ、チ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
+| 2023年9月 | [フラグメントの管理、作成、使用](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html?lang=ja) | ビデオ | Adobe Journey Optimizer でフラグメントを管理、作成、使用する方法について説明します。 |
+| 2023年9月 | [Web エディターでのシングルページアプリケーション (SPA) のサポート](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | ビデオ | Journey Optimizer Web エディターでシングルページアプリケーション (SPA) を作成する方法を説明します。 |
+| 2023年9月 | [チャネルレベルのレポート](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports.html) | ビデオ | チャネルレベルでレポートにアクセス、ナビゲート、および書き出す方法について説明します。 |
+| 2023年9月 | [CSV 形式でのレポートの書き出し](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format.html) | ビデオ | レポートおよび単一のウィジェットの CSV レポートをダウンロードする方法を説明します。 |
+| 2023年9月 | [Web エディターでのシングルページアプリケーション (SPA) のサポート](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html) | ビデオ | Journey Optimizer Web エディターでシングルページアプリケーション (SPA) を作成する方法を説明します。 |
 | 2023年9月 | [ジャーニーでアプリ内メッセージを作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html?lang=ja) | ビデオ | アプリ内メッセージの概要と、ジャーニーでの適用方法について説明します。ジャーニーでアプリ内メッセージを作成する方法と、ジャーニーをテストして公開する方法について説明します。 |
 
 {style="table-layout:auto"}
