@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b3412fc88c958976a09a92056b29f55bc0cd2351
+source-git-commit: 7088f9b9644c7c555c3f1a061adf140c7f95e07a
 workflow-type: tm+mt
-source-wordcount: '7502'
+source-wordcount: '7500'
 ht-degree: 63%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 63%
 
 最終更新日：**2023年10月4日（PT）**
 
-* [[!DNL Experience League] イベントと更新](#events) ( 更新日： **9 月 28 日**)
+* [[!DNL Experience League] のイベントと最新情報](#events)
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud]  — 一元的なインターフェイスと管理](#ecloud)
@@ -79,9 +79,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 * **[!DNL ANALYTICS]** |ウェビナー | _Adobe Analyticsで実用的なインサイトを見つけて配信する_ | **10 月 5 日@ 9:00 AM BST** | [登録](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL WORKFRONT]** |ウェビナー | _Adobe Workfront 23.10 の新機能_ | **10 月 5 日@ 7:00 AM PT** | [登録](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
+* **[!DNL WORKFRONT]** |ウェビナー | _Adobe Workfront 23.10 の新機能_ | **10 月 5 日@ 10:00 AM ET** | [登録](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
 
-* **[!DNL EXPERIENCE MANAGER]** |ウェビナー | _Espressos &amp;Experience Manager:Dynamic Mediaへのアップグレード_ | **10 月 5 日@午後 1:00 ET** | [登録](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
+* **[!DNL EXPERIENCE MANAGER]** |ウェビナー | _Espressos &amp;Experience Manager:Dynamic Mediaへのアップグレード_ | **10 月 5 日@ 11:00 PM MDT** | [登録](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
 
 * **[!DNL WORKFRONT]** |カスタマーワークショップ | _専門家への質問： Workfront Fusion を使用した作業プロセスの自動化_ | **10 月 5 日@ 11:00 AM MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -89,7 +89,7 @@ Experience League に関するエキサイティングなイベントについ�
 
 * **[!DNL WORKFRONT]** | カスタマーワークショップ | _管理 101：Workfront を使用するユーザーの獲得_ | **10月17日午前 9:00 MT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL AEM]** および **[!DNL COMMERCE]** | Developers Live | _コンテンツとコマース：に関する深い掘り下げセッション [!UICONTROL エッジ配信サービス]、ヘッドレス機能、拡張機能、コンポーザビリティ、および生産性ツール_ | **11 月 6 日@ 9:00 AM MT** | [登録](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+* **[!DNL AEM]** および **[!DNL COMMERCE]** | Developers Live | _コンテンツとコマース：に関する深い掘り下げセッション [!UICONTROL エッジ配信サービス]、ヘッドレス機能、拡張機能、コンポーザビリティ、および生産性ツール_ | **11 月 6 日@ 8:00 AM MT** | [登録](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
 [今後のイベント](https://experienceleague.adobe.com/events/?lang=ja)をすべて表示するか、[イベントの録画](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ja)を参照してください。左側のナビゲーションを使用して、シリーズタイプやアプリケーションを基にイベントの録画を検索できるようになりました。
 
