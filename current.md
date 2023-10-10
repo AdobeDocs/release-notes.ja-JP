@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7be5fe7a514f31b4c798166332adba5fe96d6919
+source-git-commit: b7a89fac869a56dbf2d0624e48c5cc01acac68c6
 workflow-type: tm+mt
-source-wordcount: '7531'
+source-wordcount: '7533'
 ht-degree: 64%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 64%
 
 ## 製品リリースの最新情報とイベント
 
-最終更新日：**2023年10月4日（PT）**
+最終更新日：**2023年10月9日（PT）**
 
 * [[!DNL Experience League] のイベントと最新情報](#events)
 * [アドビでの認定](#certification)
@@ -54,7 +54,7 @@ ht-degree: 64%
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL Adobe Mix Modeler]](#mix-modeler)
+* [[!DNL Adobe Mix Modeler]](#mix-modeler) （更新） **10 月 9 日**)
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)（旧 [!DNL Adobe Primetime]）
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
