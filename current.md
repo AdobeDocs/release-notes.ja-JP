@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b7a89fac869a56dbf2d0624e48c5cc01acac68c6
+source-git-commit: c7daf1d029be332b56281f4c26bfb7170a81d8a0
 workflow-type: tm+mt
-source-wordcount: '7533'
+source-wordcount: '7532'
 ht-degree: 99%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 99%
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-![バナー](assets/release-notes-header.png)
+<!-- ![Banner](assets/release-notes-header.png) -->
 
 **2023年10月**
 
