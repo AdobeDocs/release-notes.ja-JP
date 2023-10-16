@@ -6,9 +6,9 @@ last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c7daf1d029be332b56281f4c26bfb7170a81d8a0
+source-git-commit: 230040e579ffeedd77e493036bf23f0c1ea33d63
 workflow-type: tm+mt
-source-wordcount: '7532'
+source-wordcount: '7515'
 ht-degree: 99%
 
 ---
@@ -21,19 +21,13 @@ ht-degree: 99%
 
 **2023年10月**
 
-このページでは、Experience League で提供している製品リリース情報、イベントおよび学習の機会に関する最新情報を常に取得できます。
-
->[!TIP]
->
->このページの更新に関するメール通知を毎月受け取るには、[アドビ優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。頻繁にチェックして、アドビのエンタープライズアプリケーションに関する最新情報を常に把握しておいてください。
-
-**サポートが必要な場合**
-
-[Experience League](https://experienceleague.adobe.com/?lang=ja#home) にログインし、アドビのセルフサービスリソースライブラリ全体で検索エクスペリエンスをカスタマイズしてください。すべてのレベルと役割に合った[製品ドキュメント](https://experienceleague.adobe.com/docs/?lang=ja)、[チュートリアルビデオ](https://experienceleague.adobe.com/?lang=jadocs/home-tutorials.html)、[コース](https://experienceleague.adobe.com/?lang=ja#courses)および[イベント](https://experienceleague.adobe.com/events?lang=ja/)を参照してください。同業者のオンライン[コミュニティ](https://experienceleaguecommunities.adobe.com/?profile.language=ja)に質問したり、最も必要なときに専門家の[サポート](https://experienceleague.adobe.com/?support-tab=home&amp;lang=ja#support)を受けたりできます。
+このページでは、Experience League で提供している製品リリース情報、イベントおよび学習の機会に関する最新情報を常に取得できます。このページの更新に関するメール通知を毎月受け取るには、[アドビ優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。
 
 ## 製品リリースの最新情報とイベント
 
-最終更新日：**2023年10月9日（PT）**
+[Experience League](https://experienceleague.adobe.com/?lang=ja#home) にログインし、アドビのセルフサービスリソースライブラリ全体で検索エクスペリエンスをカスタマイズしてください。すべてのレベルと役割に合った[製品ドキュメント](https://experienceleague.adobe.com/docs/?lang=ja)、[チュートリアルビデオ](https://experienceleague.adobe.com/?lang=jadocs/home-tutorials.html)、[コース](https://experienceleague.adobe.com/?lang=ja#courses)および[イベント](https://experienceleague.adobe.com/events?lang=ja/)を参照してください。同業者のオンライン[コミュニティ](https://experienceleaguecommunities.adobe.com/?profile.language=ja)に質問したり、最も必要なときに専門家の[サポート](https://experienceleague.adobe.com/?support-tab=home&amp;lang=ja#support)を受けたりできます。
+
+更新日： **2023 年 10 月 10 日**
 
 * [[!DNL Experience League] のイベントと最新情報](#events)
 * [アドビでの認定](#certification)
