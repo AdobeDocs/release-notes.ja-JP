@@ -1,15 +1,15 @@
 ---
 title: 最新のリリースノート
-description: Adobe [!DNL Experience Cloud]  製品とサービスの最新のリリースノートをお読みください。Experience League に関する今後のイベントおよび新しいドキュメントについて説明します。  [!DNL Experience Cloud]  アプリケーションの最新のチュートリアルとコースを確認します。
+description: Adobeの最新のリリースノートを見つける [!DNL Experience Cloud] 製品とサービス。 Experience League に関する今後のイベントおよび新しいドキュメントについて説明します。  [!DNL Experience Cloud]  アプリケーションの最新のチュートリアルとコースを確認します。
 doc-type: release notes
 last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 790546c9672ac26887a54b6e7dfcc8de914bc79c
+source-git-commit: efc6139288b9f5db66cfd4b72ef3778572986c43
 workflow-type: tm+mt
-source-wordcount: '6774'
-ht-degree: 69%
+source-wordcount: '6940'
+ht-degree: 66%
 
 ---
 
@@ -17,28 +17,35 @@ ht-degree: 69%
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-
 <!-- ![Banner](assets/release-notes-header.png) -->
 
+このページでは、Experience CloudおよびAdobeのエンタープライズアプリケーションのリリースノートを検索できます。 セルフヘルプを最大限に活用するには、次の場所にサインインしてください： [Experience League](https://experienceleague.adobe.com/?lang=ja#home) およびは、以下を含む、Adobeの無料のセルフヘルプリソースライブラリ全体で検索エクスペリエンスをカスタマイズできます。
 
-[Experience League](https://experienceleague.adobe.com/?lang=ja#home) にログインし、アドビのセルフサービスリソースライブラリ全体で検索エクスペリエンスをカスタマイズしてください。すべてのレベルと役割に合った[製品ドキュメント](https://experienceleague.adobe.com/docs/?lang=ja)、[チュートリアルビデオ](https://experienceleague.adobe.com/?lang=jadocs/home-tutorials.html)、[コース](https://experienceleague.adobe.com/?lang=ja#courses)および[イベント](https://experienceleague.adobe.com/events?lang=ja/)を参照してください。同業者のオンライン[コミュニティ](https://experienceleaguecommunities.adobe.com/?profile.language=ja)に質問したり、最も必要なときに専門家の[サポート](https://experienceleague.adobe.com/?support-tab=home&amp;lang=ja#support)を受けたりできます。
+* [製品ドキュメント](https://experienceleague.adobe.com/docs/?lang=ja)
+* [チュートリアルビデオ](https://experienceleague.adobe.com/?lang=jadocs/home-tutorials.html)
+* [コース](https://experienceleague.adobe.com/?lang=ja#courses)
+* [Experience League に関するイベント](https://experienceleague.adobe.com/events?lang=ja/)
+* [コミュニティ — 製品別](https://experienceleaguecommunities.adobe.com/?profile.language=ja)
+* [アプリケーションのサポート](https://experienceleague.adobe.com/?support-tab=home&amp;lang=ja#support)
 
 このページの更新に関するメール通知を毎月受け取るには、[アドビ優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。
 
-**2023 年 11 月**
+<!-- Browse [product documentation](https://experienceleague.adobe.com/docs/), [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html), [courses](https://experienceleague.adobe.com/#courses), and [events](https://experienceleague.adobe.com/events/) for all levels and roles. Ask questions from your online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it most. -->
 
-最終更新日：**2023年10月25日（PT）**
+## 2023年11月
 
-* [[!DNL Experience League] のイベントと最新情報](#events)
+最終更新日：**2023年10月27日（PT）**
+
+* [[!DNL Experience League] イベントと更新](#events) （更新済み） **10 月 27 日**)
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
-* [[!DNL Adobe Experience Platform]](#platform)<!-- * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp) -->
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Experience Platform]](#platform) ( リリース済み **10 月 25 日**)<!-- * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp) -->
+* [[!DNL Adobe Analytics]](#analytics) ( リリース済み **10 月 25 日**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) ( リリース済み **10 月 25 日**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) ( リリース済み **10 月 27 日**)
 * [[!DNL Adobe Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
@@ -64,15 +71,23 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++Experience League に関する今後のイベント
 
-* **[!DNL WORKFRONT]** |コーヒーブレーク | _Workfront・コーヒー・ブレーク：採用のためのコミュニケーション方法_ | **10 月 26 日@ 8:30 AM PTT** | [登録](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ec-p/621879#M67)
-
-* **[!DNL WORKFRONT]** |Experience Leagueライブ | _Workfrontリリースディープダイブ — ニューWorkfrontホーム_ | **10 月 26 日@ 9:00 AM PT** | [登録](https://engage.adobe.com/ExpLeagueLive-231026.html)
-
 * **[!DNL WORKFRONT]** |カスタマーワークショップ | _学習： Adobe Workfront Q4-2023 Release Roundup_ | **10 月 31 日@ 8:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,FZ_q0Nj-e0Sdz_UVakcklg,AheeuqBcdE6mNKFzR5xdKQ,UmZrNBnSp0-fUfkhbYAHYg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL EXPERIENCE PLATFORM]** |ウェビナー | _小売でのオムニチャネルの課題を克服_ | **11 月 1 日@ 9:00 AM PT** | [登録](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
 
+* **[!DNL CAMPAIGN]** |ウェビナー | _Adobe Campaign：クロスチャネルキャンペーンをシームレスに調整、開始、測定します。_ | **11 月 2 日@ 9:00 AM BST** | [登録](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
+
+* **[!DNL MARKETO]** および **[!DNL MARKETO ENGAGE]** |仲間から学ぶ | _Marketo EngageとDynamic Chatを使用した、サイロ化されたチャネルとデータへの取り組み_ | **11 月 2 日@ 8:00 AM pT** | [登録](https://engage.marketo.com/tackling_siloed_channels_register.html?utm_source=exl)
+
+* **[!DNL ANALYTICS]** |仲間から学ぶ | _Adobe Analyticsの効果的なデータ視覚化の技術と科学_ | **11 月 2 日@ 11:00 AM ET** | [登録](https://engage.adobe.com/Impactful_Data_Visualizations_webinar.html)
+
+* **[!DNL WORKFRONT]** |仲間から学ぶ | _顧客への質問パネル — グループ管理者による作業の手引き_ | **11 月 2 日@ 10:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,WfmCjhXZYUmNAJ-noEDg9g,dmjkxx2DG06DJQsHegWI0g,Vnx4PzU9W0qE-ldYN2UOqw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** |カスタマーワークショップ | _接続：マーケティング&amp;クリエイティブ向け管理チャット_ | **11 月 3 日@ 9:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,7pgtykoMIUqlZFb7CwXTmA,XPcnsKNUuEaV0VRZ7j1jSg,hCoEu5MMXU6Zo734VOiyGg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL AEM]** および **[!DNL COMMERCE]** | Developers Live | _コンテンツとコマース：[!UICONTROL Edge 配信サービス]、ヘッドレス機能、拡張性、合成性、生産性ツール_&#x200B;に関する詳細セッション | **11月6日午前 8:00（MT）** | [登録](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+
+* **[!DNL EXPERIENCE MANAGER SITES]** |ウェビナー | _コンテンツの作成と管理における効率性の向上_ | **11 月 7 日@ 8:00 AM PT** | [登録](https://aemexperiencefragments2023.experienceleague.adobeevents.com/)
 
 詳細を表示 [今後のイベント](https://experienceleague.adobe.com/events/?lang=ja) または参照 [イベントの記録](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ja) Experience League。
 
@@ -141,7 +156,7 @@ Experience Cloud の主要なインターフェイスコンポーネントに関
 
 +++詳細
 
-* [[!DNL Experience Platform] リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja)
+* [[!DNL Experience Platform] リリースノート](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=ja) (**10 月 25 日**)
 
 * [[!DNL Experience Platform] Mobile SDK リリースノート](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
