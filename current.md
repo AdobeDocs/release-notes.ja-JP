@@ -1,6 +1,6 @@
 ---
 title: 最新のリリースノート
-description: Adobeの最新のリリースノートを見つける [!DNL Experience Cloud] 製品とサービス。 Experience League に関する今後のイベントおよび新しいドキュメントについて説明します。  [!DNL Experience Cloud]  アプリケーションの最新のチュートリアルとコースを確認します。
+description: Adobe  [!DNL Experience Cloud]  製品とサービスの最新のリリースノートをお読みください。Experience League に関する今後のイベントおよび新しいドキュメントについて説明します。  [!DNL Experience Cloud]  アプリケーションの最新のチュートリアルとコースを確認します。
 doc-type: release notes
 last-update: November 2023
 author: mfrei
