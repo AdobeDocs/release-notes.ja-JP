@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7fa9fdbba2d8089af11af45ad2dfa4fd2254de28
+source-git-commit: 53e36cf4a14b8917af8ca264eab876d16bac3731
 workflow-type: tm+mt
-source-wordcount: '6959'
+source-wordcount: '6920'
 ht-degree: 96%
 
 ---
@@ -514,7 +514,6 @@ Experience Manager 用に新しく公開されたビデオ、チュートリア�
 | 2023年10月 | AEM CS | [[!DNL AEM as a Cloud Service]  のビデオとチュートリアル](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=ja) | 更新されたビデオ | Adobe Experience Manager as a Cloud Service の Edge 配信サービスを含む、更新された概要ビデオをご覧ください。 |
 | 2023年10月 | AEM CS | [プライベート証明書を使用した内部 API の呼び出し](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/call-internal-apis-having-private-certificate.html?lang=ja) | ビデオ | プライベート証明書または自己署名証明書を使用した、AEM から web API への HTTPS 呼び出し方法を説明します。 |
 | 2023年10月 | AEM CS | [AEM Cloud Service とは](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/what-is-aem-as-a-cloud-service.html?lang=ja) | 更新されたビデオ | Adobe Experience Manager as a Cloud Service の概要を説明し、他のバージョンの Adobe Experience Manager との違いを調べます。 |
-| 2023年10月 | AEM CS | [AEM の進化](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/evolution.html?lang=ja) | 更新されたビデオ | AEM 6.5 から AEM as a Cloud Service、最終的に Edge 配信サービスに至るまで、AEM の進化と提供する価値について説明します。 |
 | 2023年10月 | コンテンツフラグメント | [コンテンツフラグメントコンソールのビデオ](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html?lang=ja) | 更新されたビデオ | 説明 |
 | 2023年10月 | セキュリティ | [AEM からの相互トランスポート層セキュリティ（mTLS）認証](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/mutual-tls-authentication.html?lang=ja) | ビデオ | 相互トランスポート層セキュリティ（mTLS）認証が必要な AEM から web API への HTTPS 呼び出しを行う方法について説明します。 |
 
