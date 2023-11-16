@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 53e36cf4a14b8917af8ca264eab876d16bac3731
+source-git-commit: 28242010ab0a6583e0fe0b5d9338527bd564a32e
 workflow-type: tm+mt
-source-wordcount: '6920'
-ht-degree: 96%
+source-wordcount: '6902'
+ht-degree: 95%
 
 ---
 
@@ -34,9 +34,9 @@ ht-degree: 96%
 
 ## 2023年11月
 
-最終更新日：**2023年10月27日（PT）**
+最終更新日：**2023年11月16日（PT）**
 
-* [[!DNL Experience League] イベントと更新](#events) （更新済み） **10 月 27 日**)
+* [[!DNL Experience League] イベントと更新](#events) （更新済み） **11 月 17 日**)
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
@@ -71,23 +71,17 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++Experience League に関する今後のイベント
 
-* **[!DNL WORKFRONT]** |カスタマーワークショップ | _学習：Adobe Workfront 2023年第 4 四半期リリースのまとめ_ | **10月31日午前 8:00 PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,FZ_q0Nj-e0Sdz_UVakcklg,AheeuqBcdE6mNKFzR5xdKQ,UmZrNBnSp0-fUfkhbYAHYg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL JOURNEY OPTIMIZER]** |ウェビナー | _マルチチャネルキャンペーンの最適化のマスター_ | **11 月 28 日@ 8:00 AM PT** | [登録](https://adobejourneyoptimizerintegrations2023.experienceleague.adobeevents.com/)
 
-* **[!DNL EXPERIENCE PLATFORM]** | ウェビナー | _小売でのオムニチャネルの課題を克服_ | **11月1日午前 9:00 PT** | [登録](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
+* **[!DNL WORKFRONT]** | Q&amp;A チャット | _エキスパートへの質問：Workfront for Training &amp; Enablement Webinar Follow Up（トレーニングとイネーブルメントに関するウェビナーのフォローアップ）_ | **11 月 29 日@ 8:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,pbmEfJ_84Uyl4sMSFkTp7Q,MDVrhXnhAkSGge9zSz2BNg,07tf6wlMn0GBGI_LSuvLbQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL CAMPAIGN]** |ウェビナー | _Adobe Campaign：クロスチャネルキャンペーンをシームレスに調整、開始、測定します。_ | **11 月 2 日@ 9:00 AM BST** | [登録](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
+* **[!DNL WORKFRONT]** |コミュニティイベント | _接続： Adobe Workfront Community Chat_ | **12 月 5 日@ 10:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Q476otp5xUiO9ZMtkUcRgQ,u7FGXWt5EUGiSm43A4zXTg,TpNUAD7m4U6tDosCDYTrcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL MARKETO]** および **[!DNL MARKETO ENGAGE]** |仲間から学ぶ | _Marketo EngageとDynamic Chatを使用した、サイロ化されたチャネルとデータへの取り組み_ | **11 月 2 日@ 8:00 AM pT** | [登録](https://engage.marketo.com/tackling_siloed_channels_register.html?utm_source=exl)
+* **[!DNL WORKFRONT]** |コミュニティイベント | _連携： Workfront Strategic Admin Chat_ | **12 月 11 日@ 6:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,xBAvE_BSWkauyfCwoTsetQ,5St7yxZUykegmOBjGD2aIw,b4zaJWQ6jkWBLGEk_0vZ0A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL ANALYTICS]** |仲間から学ぶ | _Adobe Analyticsの効果的なデータ視覚化の技術と科学_ | **11 月 2 日@ 11:00 AM ET** | [登録](https://engage.adobe.com/Impactful_Data_Visualizations_webinar.html)
+* **[!DNL WORKFRONT]** |カスタマーワークショップ | _Admin 101 - Workfrontに関する質問を投稿_ | **12 月 12 日@ 8:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Wva1DB17Sk-4iO-lqe_V_g,bAywbVUch0OGG4WTjwuE_Q,6M7Cm8V6GEutt8-1Hzg_gA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** |仲間から学ぶ | _顧客への質問パネル — グループ管理者による作業の手引き_ | **11 月 2 日@ 10:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,WfmCjhXZYUmNAJ-noEDg9g,dmjkxx2DG06DJQsHegWI0g,Vnx4PzU9W0qE-ldYN2UOqw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** |カスタマーワークショップ | _接続：マーケティング&amp;クリエイティブ向け管理チャット_ | **11 月 3 日@ 9:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,7pgtykoMIUqlZFb7CwXTmA,XPcnsKNUuEaV0VRZ7j1jSg,hCoEu5MMXU6Zo734VOiyGg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL AEM]** および **[!DNL COMMERCE]** | Developers Live | _コンテンツとコマース：[!UICONTROL Edge 配信サービス]、ヘッドレス機能、拡張性、合成性、生産性ツール_&#x200B;に関する詳細セッション | **11月6日午前 8:00（MT）** | [登録](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
-
-* **[!DNL EXPERIENCE MANAGER SITES]** |ウェビナー | _コンテンツの作成と管理における効率性の向上_ | **11 月 7 日@ 8:00 AM PT** | [登録](https://aemexperiencefragments2023.experienceleague.adobeevents.com/)
+* **[!DNL WORKFRONT]** |カスタマーワークショップ | _学習：年末のレポート_ | **12 月 19 日@ 8:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,AGTk8_saLUy8gNI9wD0PPQ,o3Q8HuN-Eka2GNNPPRiffA,Ox_u0YaaOkGanBtcn4E0pg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League で[今後のイベント](https://experienceleague.adobe.com/events/?lang=ja)をさらに表示するか、[イベントの録画](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ja)を参照してください。
 
