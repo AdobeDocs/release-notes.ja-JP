@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 28242010ab0a6583e0fe0b5d9338527bd564a32e
+source-git-commit: 20653cbc6b9ffc851c61b1dbe1508fece4f720fe
 workflow-type: tm+mt
-source-wordcount: '6902'
+source-wordcount: '6888'
 ht-degree: 95%
 
 ---
@@ -19,18 +19,9 @@ ht-degree: 95%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-このページでは、Experience CloudおよびAdobeのエンタープライズアプリケーションのリリースノートを検索できます。 セルフヘルプを最大限に活用するには、次の場所にサインインしてください： [Experience League](https://experienceleague.adobe.com/?lang=ja#home) およびは、以下を含む、Adobeの無料のセルフヘルプリソースライブラリ全体で検索エクスペリエンスをカスタマイズできます。
-
-* [製品ドキュメント](https://experienceleague.adobe.com/docs/?lang=ja)
-* [チュートリアルビデオ](https://experienceleague.adobe.com/?lang=jadocs/home-tutorials.html)
-* [コース](https://experienceleague.adobe.com/?lang=ja#courses)
-* [Experience League に関するイベント](https://experienceleague.adobe.com/events?lang=ja/)
-* [コミュニティ — 製品別](https://experienceleaguecommunities.adobe.com/?profile.language=ja)
-* [アプリケーションのサポート](https://experienceleague.adobe.com/?support-tab=home&amp;lang=ja#support)
+このページでは、Experience CloudおよびAdobeのエンタープライズアプリケーションのリリースノートを検索できます。 セルフヘルプを最大限に活用するには、次の場所にサインインしてください： [Experience League](https://experienceleague.adobe.com/?lang=ja#home) の無料ライブラリをまたいで検索エクスペリエンスをAdobeにカスタマイズ [ドキュメント](https://experienceleague.adobe.com/docs/?lang=ja), [コース](https://experienceleague.adobe.com/?lang=ja#courses), [イベント](https://experienceleague.adobe.com/events?lang=ja/), [コミュニティフォーラム](https://experienceleaguecommunities.adobe.com/?profile.language=ja)、および [サポート](https://experienceleague.adobe.com/?support-tab=home&amp;lang=ja#support).
 
 このページの更新に関するメール通知を毎月受け取るには、[アドビ優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。
-
-<!-- Browse [product documentation](https://experienceleague.adobe.com/docs/), [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html), [courses](https://experienceleague.adobe.com/#courses), and [events](https://experienceleague.adobe.com/events/) for all levels and roles. Ask questions from your online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it most. -->
 
 ## 2023年11月
 
