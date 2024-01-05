@@ -6,7 +6,7 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: deba7f42b2c1f34c67047c2e7caeeec7263ae1a1
+source-git-commit: 031c4bc36905490c421e548c306d810a4d5d23b2
 workflow-type: tm+mt
 source-wordcount: '5877'
 ht-degree: 92%
@@ -77,9 +77,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 * **[!DNL WORKFRONT]** | カスタマーワークショップ | _接続：マーケティング&amp;クリエイティブ向け管理チャット_ | マーケティングチームやクリエイティブチームのシステム管理者ですか？ このお客様主導のセッションでは、他の管理者と連携して、ベストプラクティスやヒントについて話し合います。 | **2 月 2 日@午前 9:00（太平洋標準時）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | カスタマーワークショップ | _Admin 101:Workfrontを使用するためのユーザーの取得_ | Workfrontを初めて？ 新しい管理者向けの月次ミートアップにご参加ください。 今月は、ユーザーの採用に関するベストプラクティスについて説明します。 | **2 月 14 日@ 8:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** | カスタマーワークショップ | _コネクト： Industry Circle - Higher Education_ | 2024 年に新たに開催されたこの最初の業界サークルは、高等教育のWorkfront管理者をネットワークに統合し、経験を共有し、学習とベストプラクティスを共有するように設計された非公式の円卓会議です。 | **2 月 8 日@午前 9:00（太平洋標準時）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | カスタマーワークショップ | _Admin 101:Workfrontを使用するためのユーザーの取得_ | Workfrontを初めて？ 新しい管理者向けの月次ミートアップにご参加ください。 今月は、ユーザーの採用に関するベストプラクティスについて説明します。 | **2 月 14 日@ 8:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League で[今後のイベント](https://experienceleague.adobe.com/events/?lang=ja)をさらに表示するか、[イベントの録画](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ja)を参照してください。
 
