@@ -6,7 +6,7 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 031c4bc36905490c421e548c306d810a4d5d23b2
+source-git-commit: 62df401007938e2d84633996957ca98661a2fad8
 workflow-type: tm+mt
 source-wordcount: '5877'
 ht-degree: 92%
@@ -713,7 +713,7 @@ Experience League で [!DNL Journey Orchestration] の最新のリリースノ�
 
 ### Core Marketo Engage の更新
 
-* 最新情報については、[2023年10月 - 現在のリリースノート](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html?lang=ja)を参照してください。
+* 最新情報については、[2024年1月 - 現在のリリースノート](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html?lang=ja)を参照してください。
 * 最新のリリーススケジュール情報とリリースノートについては、[!DNL Marketo Engage] [リリーススケジュール](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=ja)を参照してください。
 
 ### 新しい Marketo Engage チュートリアルとコース {#tutorials-marketo}
@@ -746,7 +746,7 @@ Experience League で公開されている新しい [!DNL Workfront] チュー�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2023年10月 | [Workfront チュートリアルの新着情報](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=ja#what%E2%80%99s-new%3F) | 複数のビデオ | 過去 1 か月間にリリースされた最新のチュートリアルを記載しています。 |
+| 2024年1月 | [Workfront チュートリアルの新着情報](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=ja#what%E2%80%99s-new%3F) | 複数のビデオ | 過去 1 か月間にリリースされた最新のチュートリアルを記載しています。 |
 
 {style="table-layout:auto"}
 
