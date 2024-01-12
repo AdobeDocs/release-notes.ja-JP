@@ -6,10 +6,10 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f207f7f7dc042e0c7d8e3f8248cfbf1f29aa85b6
+source-git-commit: e67997d7c36585caece1d94124d3064588eec6ef
 workflow-type: tm+mt
-source-wordcount: '5841'
-ht-degree: 92%
+source-wordcount: '6123'
+ht-degree: 88%
 
 ---
 
@@ -28,6 +28,7 @@ ht-degree: 92%
 最終更新日：**2024年1月12日（PT）**
 
 * [[!DNL Experience League] イベントと更新](#events) （更新済み） **1 月 13 日**)
+* [[!DNL Adobe GenStudio]](#genstudio) - **新規：**
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
@@ -80,6 +81,23 @@ Experience League に関するエキサイティングなイベントについ�
 Experience League で[今後のイベント](https://experienceleague.adobe.com/events/?lang=ja)をさらに表示するか、[イベントの録画](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ja)を参照してください。
 
 +++
+
+## ![アイコン](/assets/experience-league.png) Adobe GenStudio {#genstudio}
+
+[Adobe GenStudio](https://business.adobe.com/solutions/adobe-genstudio.html) は、生成 AI とインテリジェントな自動化により、コンテンツサプライチェーンを迅速かつシンプル化するエンドツーエンドのソリューションです。
+
++++詳細
+
+| 公開日 | 名前 | タイプ | 説明 |
+| -----------| ---------- | ---------- | ---------- |
+| 2024年1月 | [GenStudioTutorials](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en) | ビデオ | 新しい [!DNL Adobe GenStudio]. GenStudio は、生成 AI とインテリジェントな自動化により、コンテンツサプライチェーンを迅速かつシンプル化するエンドツーエンドのソリューションです。 |
+| 2024年1月 | [ワークフローと計画：作業を合理化し、迅速化](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=en) | ビデオ | コンテンツの作成と完了を計画するプロセスを通じて、コンテンツ要件の接続と追跡に苦労する企業向けです。 プロジェクト間での効果的なプロセス、計画、承認、データの一貫性が欠如しているため、この企業の生産性と効率性の両方のコンテンツ・サプライ・チェーンが奪われています。 |
+| 2024年1月 | [クリエイティブの生産性：クリエイティブチームの追加](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=en) | ビデオ | ロックスタークリエイティブが存在するが、コンテンツの作成を成し遂げる必要がある企業のため。 GenStudio は、GenAI を超えるツールを提供し、このチームがコンテンツの作成、配信、検出性を高めるのに役立ちます。 |
+| 2024年1月 | [マーケティングの俊敏性：クリエイティブ以外の人が規模を拡大できるようにします。](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=en) | ビデオ | Adobe GenStudioでは、クリエイティブチームやスタジオでの完全な治療なしにコンテンツリクエストに対処できる場合があります。 Adobeは、ツールをマーケターやその他の潜在的なコンテンツ作成者に提供します。 これらのツールを使用すると、コンテンツのバリエーションをすばやく作成できます。 更新は、コンテンツサプライチェーンに接続される広範な個人グループによって実行され、コンテンツのスループットと市場投入時間を大幅に増加させます。 |
+| 2024年1月 | [配信とアクティベーション：パワーエクスペリエンスとパフォーマンス](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=en) | ビデオ | 適切なチャネルで適切な個人の前に適切なコンテンツを取得するのをサポートする必要がある企業向けです。 GenStudio は、他のどのソリューションよりも接続を向上させると同時に、全体的なコンテンツのパフォーマンスを確保するための分析も提供します。 |
+
+{style="table-layout:auto"}
+
 
 ## ![アイコン](/assets/certification-badge.png)認定制度{#certification}
 
