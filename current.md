@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 62df401007938e2d84633996957ca98661a2fad8
+source-git-commit: f207f7f7dc042e0c7d8e3f8248cfbf1f29aa85b6
 workflow-type: tm+mt
-source-wordcount: '5877'
+source-wordcount: '5841'
 ht-degree: 92%
 
 ---
@@ -25,9 +25,9 @@ ht-degree: 92%
 
 ## 2023年11月／12月
 
-最終更新日：**2024年1月5日（PT）**
+最終更新日：**2024年1月12日（PT）**
 
-* [[!DNL Experience League] イベントと更新](#events) （更新済み） **1 月 5 日**)
+* [[!DNL Experience League] イベントと更新](#events) （更新済み） **1 月 13 日**)
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
@@ -59,15 +59,11 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience League に関するイベント
 
-更新済み **2024 年 1 月 6 日**
+更新済み **2024 年 1 月 13 日**
 
 +++Experience League に関する今後のイベント
 
-* **[!DNL WORKFRONT]** | コミュニティイベント | _接続：マーケティング&amp;クリエイティブ向け管理チャット_ | マーケティングチームやクリエイティブチームのシステム管理者ですか？ このお客様主導のセッションでは、他の管理者と連携して、ベストプラクティスやヒントについて話し合います。 | **1 月 5 日@ 9:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,V-X5f42hW0yoR5sMCdOf_A,HEbDtYKlaEy13R0ITK-L7A,kbKNwK39r0KA4csQTMMfaw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | コミュニティイベント | _接続：Workfront Collective_ | 他のWorkfrontのお客様と共同で問題解決と成功共有のセッションをおこなえます。 | **1 月 8 日@ 6:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,P4UOkToG0EG2lSFnXW0zww,7Mik09hqxEW8tNXlzaPNEA,l7ip8UiiKkyv8QRJ6i6FCg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | ウェビナー | _Workfront 24.1 の新機能_ | Workfront 24.1 のお客様向けリリースウェビナー | **1 月 11 日@ 8:00 AM MT** | [登録](https://webinars.on24.com/adobe_workfront/whatsnewin241?partnerref=ExperienceLeagueEvents)
+* **[!DNL ANALYTICS and CJA]** | Experience Leagueライブ | _Adobe Analyticsのデータと分析をCustomer Journey Analyticsに取り込む_ | 自動プロセスを使用して、Adobe AnalyticsからCustomer Journey Analyticsにデータと分析を移動する方法、および途中で考慮すべき問題について説明します。 | **1 月 17 日@ 10:00 AM PT** | [登録](https://engage.adobe.com/ExpLeagueLive-240117.html)
 
 * **[!DNL WORKFRONT]** | カスタマーワークショップ | _Admin 101 - Workfrontの概要_ | Workfrontを初めて？ このイベントは、新しいシステム管理者に、リソースの概要、システムナビゲーションの概要、初期セットアップのベストプラクティスを提供します。 | **1 月 17 日@ 8:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -77,7 +73,7 @@ Experience League に関するエキサイティングなイベントについ�
 
 * **[!DNL WORKFRONT]** | カスタマーワークショップ | _接続：マーケティング&amp;クリエイティブ向け管理チャット_ | マーケティングチームやクリエイティブチームのシステム管理者ですか？ このお客様主導のセッションでは、他の管理者と連携して、ベストプラクティスやヒントについて話し合います。 | **2 月 2 日@午前 9:00（太平洋標準時）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | カスタマーワークショップ | _コネクト： Industry Circle - Higher Education_ | 2024 年に新たに開催されたこの最初の業界サークルは、高等教育のWorkfront管理者をネットワークに統合し、経験を共有し、学習とベストプラクティスを共有するように設計された非公式の円卓会議です。 | **2 月 8 日@午前 9:00（太平洋標準時）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | カスタマーワークショップ | _コネクト： Industry Circle - Higher Education_ | 2024 年に新たに開催されたこの最初の業界サークルは、高等教育のWorkfront管理者をネットワークに統合し、経験を共有し、学習し、ベストプラクティスについて話し合うための非公式な円卓会議です。 | **2 月 8 日@午前 9:00（太平洋標準時）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | カスタマーワークショップ | _Admin 101:Workfrontを使用するためのユーザーの取得_ | Workfrontを初めて？ 新しい管理者向けの月次ミートアップにご参加ください。 今月は、ユーザーの採用に関するベストプラクティスについて説明します。 | **2 月 14 日@ 8:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
