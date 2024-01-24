@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
+source-git-commit: b0ed2e287f72205ce6c0564d778d9a936ee53092
 workflow-type: tm+mt
-source-wordcount: '6259'
+source-wordcount: '6300'
 ht-degree: 38%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 38%
 
 最終更新日：**2024年1月24日（PT）**
 
-* [[!DNL Experience League] のイベントと最新情報](#events)
+* [[!DNL Experience League] イベントと更新](#events) ( 更新済み **1 月 24 日**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **新規：**
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -57,7 +57,7 @@ ht-degree: 38%
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) ( 更新済み **1 月 24 日**)
 * [顧客データ管理 - 担当者の声](#voices)
 * [デジタルエクスペリエンスブループリント](#blueprints)
 * [アドビ製品のセキュリティの脆弱性](https://helpx.adobe.com/jp/security.html)
@@ -826,7 +826,13 @@ Experience League で公開されている新しい [!DNL Workfront] チュー�
 
 [!DNL Adobe Creative Cloud for enterprise] のアプリケーション向けに新しく公開されたビデオ、チュートリアル、コース。
 
+更新済み **2024 年 1 月 25 日**
+
 +++詳細
+
+| 公開日 | アプリケーション | 名前 | タイプ | 説明 |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| 2024年1月 | [!DNL Adobe Express] | [TutorialsのAdobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | ビデオ | を活用した生成 AI で際立つ素晴らしい作品を創り出しましょう [!DNL Adobe Firefly]. フライヤー、TikToks、履歴書、リールを [!DNL Adobe Express]. |
 
 最新のチュートリアルについては、[Creative Cloud エンタープライズ版チュートリアル](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=ja)を参照してください。
 
