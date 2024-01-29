@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dff2ca5ce3e8a0dbe3e12e9e81a37da784a4d1f9
+source-git-commit: 72c690de35f883c2ef9904d4fa0cbe2d6432405b
 workflow-type: tm+mt
-source-wordcount: '6299'
-ht-degree: 97%
+source-wordcount: '6481'
+ht-degree: 94%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 97%
 
 ## 2024年1月
 
-最終更新日：**2024年1月24日（PT）**
+最終更新日：**2024年1月29日（PT）**
 
-* [[!DNL Experience League] イベントと更新](#events) ( 更新済み **1 月 24 日**)
+* [[!DNL Experience League] イベントと更新](#events) ( 更新済み **1 月 30 日**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **新規**
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -45,7 +45,7 @@ ht-degree: 97%
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) ( 更新済み **1 月 30 日**)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -68,11 +68,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience League に関するイベント
 
-更新日：**2024年1月24日（PT）**
+更新日：**2024年1月29日（PT）**
 
 +++Experience League に関する今後のイベント
-
-* **[!DNL WORKFRONT]** | ウェビナー | _Marketo &amp; Mocas：アトリビューションダッシュボードの基本_ | アトリビューションモデルと MPI ダッシュボードは、重要なパフォーマンス指標をすぐに活用するように設定されていますか。 アドビのAdobeエキスパートに加わり、これらのツールを使用してマーケティングチームを成功に導く方法を学びます。 | **1 月 25 日@午後 1:00 ET** | [登録](https://adobeevents.adobeconnect.com/exxuez7gobns/event/registration.html?campaign-id=ExL)
 
 * **[!DNL EXPERIENCE MANAGER SITES]** | ウェビナー | _コンテンツの作成と管理における効率性の向上_ | Adobe Experience Manager Sitesエクスペリエンスフラグメントを使用して、コンテンツの速度を高める方法を説明します。 あらゆるチャネルにわたって、様々でパーソナライズされたエクスペリエンスを大規模に配信する際のヒントを紹介します。 | **2 月 1 日@ AM 9:00 GMT** | [登録](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
 
@@ -82,7 +80,19 @@ Experience League に関するエキサイティングなイベントについ�
 
 * **[!DNL WORKFRONT]** | カスタマーワークショップ | _交流：業界サークル - 高等教育_ | 2024年に新設されたこの最初の業界サークルは、高等教育の [!DNL Workfront] 管理者を集めてネットワークを作り、エクスペリエンス、学習、ベストプラクティスを共有することを目的とした非公式のラウンドテーブルディスカッションです。| **2月8日午前 9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **[!DNL ANALYTICS]** | ウェビナー | _データドリップ：マーケティングチャネルとアトリビューションモデリング_ | 顧客とのやり取りがコンバージョンに与える影響を把握しているか。 Adobe AnalyticsでマーケティングAdobeを設定し、AI を活用してカスタムアトリビューションモデルを構築する方法を紹介する際は、アドビのチャネルエキスパートにご参加ください。 | **2 月 8 日@午後 1:00 ET** | [登録](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | コミュニティイベント | _Workfront Collective_ | 他のWorkfrontのお客様と、月次の共同問題解決および成功共有セッションにご参加ください。 | **2月12日6:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL DATA COLLECTION]** | ウェビナー | _データストリームの優先順位付け_ | キャンペーンオーケストレーションのデータストリームの優先順位付けを管理し、組織でデータドリブン型パーソナライゼーションを実行する能力を強化する方法について説明します。 | **2月13日9:30（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL WORKFRONT]** | カスタマーワークショップ | _管理 101：[!DNL Workfront]_ を使用するユーザーの獲得 | [!DNL Workfront] を初めて使用する場合新しい管理者向けの月例ミートアップに参加してください。今月は、ユーザーの採用に関するベストプラクティスについて説明します。| **2月14日午前 8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL EXPERIENCE PLATFORM]** | ウェビナー | _戦略的リーダーシップの解放：エグゼクティブ・スポンサーシップの力_ | 戦略的な影響を通じて組織の目標を効果的に達成するための戦術を取得します。 このセッションは、エグゼクティブスポンサーシップの向上を求めるエグゼクティブに力を与えるように設計されています。 | **2月15日10:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL EXPERIENCE PLATFORM]** | ウェビナー | _チームのメリット：機能を活用して、成功を合理化_ | 製品統合によってデジタルワークフローを合理化し、チームの効率を高め、ビジネスプロセスを拡張する方法を説明します。 効率的なチーム内でのコラボレーションを改善し、生産性を最大限に高めるためのテクニックを学びます。 | **2月20日10:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Q&amp;A チャット | _カスタマーサポートへの質問 — 一般的なレイアウトテンプレートのトラブルシューティングと問題の表示_ | Workfrontカスタマーサポートチームに参加して、「エキスパートに聞く」タイプのセッションで、レイアウトテンプレートとビューに焦点を当てたベストプラクティスとトラブルシューティングのヒントを学びましょう。 | **2月22日9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League でその他の[今後のイベント](https://experienceleague.adobe.com/events/?lang=ja)を確認するか、[イベントの録画](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ja)を参照してください。
 
