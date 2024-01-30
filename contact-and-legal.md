@@ -9,7 +9,7 @@ internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
 workflow-type: ht
-source-wordcount: '235'
+source-wordcount: '219'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Adobe Experience Cloud カスタマーケアチームによる支援を受けられます。以下のような様々な手段をご利用いただけます。
 
-次を参照してください。[アドビエンタープライズサポートへのお問い合わせ](https://helpx.adobe.com/jp/contact/enterprise-support.ec.html)
+[アドビエンタープライズサポートへのお問い合わせ](https://helpx.adobe.com/jp/contact/enterprise-support.ec.html)を参照してください
 
 ## サービス、利用可能な機能、課金 {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
