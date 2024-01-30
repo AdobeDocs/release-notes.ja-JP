@@ -6,7 +6,7 @@ breadcrumb-title: リリースノート
 user-guide-description: Adobe Experience Cloud および Experience Platform の新機能、修正点、重要な注意事項について説明します。
 user-guide-url: https://www.adobe.com
 source-git-commit: 04b43454e3b3423940b99c2bbb678a87fb34b684
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
