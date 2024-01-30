@@ -9,8 +9,8 @@ mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.ja-JP
 index: true
 source-git-commit: b81b4c2b163849709da81c6ee7c461f32a6d3236
-workflow-type: tm+mt
-source-wordcount: '153'
+workflow-type: ht
+source-wordcount: '151'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ metadata.md ファイルには、リポジトリー内にあるユーザーガ�
 
 | メタデータ | 説明 |
 |--- |--- |
-| solution-title | 記事ヘッダーでリンクとして使用します。簡潔にしてください。 |
+| solution-title | 記事のヘッダー内でリンクとして使用します。簡潔にしてください。 |
 | solution-hub-url | Helpx ハブページを開きます |
 | solution-icon | ソリューションタイトルの横にソリューションアイコンを表示します。未実装 |
 | getting-started-title | チュートリアルが適切でない場合はほとんど使用されません |
