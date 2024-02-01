@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 72c690de35f883c2ef9904d4fa0cbe2d6432405b
+source-git-commit: 6d49c1d7f803c208e2fe243c09e2aae949675783
 workflow-type: tm+mt
-source-wordcount: '6481'
-ht-degree: 94%
+source-wordcount: '6394'
+ht-degree: 96%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 94%
 
 ## 2024年1月
 
-最終更新日：**2024年1月29日（PT）**
+最終更新日：**2024年2月1日（PT）**
 
-* [[!DNL Experience League] イベントと更新](#events) ( 更新済み **1 月 30 日**)
+* [[!DNL Experience League] イベントと更新](#events) ( 更新済み **2 月 1 日**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **新規**
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -68,13 +68,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience League に関するイベント
 
-更新日：**2024年1月29日（PT）**
+更新済み **2024 年 2 月 2 日**
 
 +++Experience League に関する今後のイベント
-
-* **[!DNL EXPERIENCE MANAGER SITES]** | ウェビナー | _コンテンツの作成と管理における効率性の向上_ | Adobe Experience Manager Sitesエクスペリエンスフラグメントを使用して、コンテンツの速度を高める方法を説明します。 あらゆるチャネルにわたって、様々でパーソナライズされたエクスペリエンスを大規模に配信する際のヒントを紹介します。 | **2 月 1 日@ AM 9:00 GMT** | [登録](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
-
-* **[!DNL COMMERCE]** | ウェビナー | _Commerce &amp; Coffee: AI を使用した e コマースエクスペリエンスのパーソナライズ_ | 個々の顧客に対して e コマースのエクスペリエンスをパーソナライズするのがこれまでより簡単になりませんでした。 Adobeの Corey Gelato に参加して、AI がAdobe Commerceで製品、E メール、Web サイトを簡単に調整する方法を学びましょう。 | **2 月 1 日@午後 1:00 ET** | [登録](https://adobeevents.adobeconnect.com/e1yzux2yrk00/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | カスタマーワークショップ | _つながる：マーケティング＆クリエイティブ向け管理チャット_ | マーケティングチームやクリエイティブチームのシステム管理者の場合このお客様主導のセッションでは、他の管理者と交流し、ベストプラクティスやヒントとコツについて話し合います。| **2月2日午前 9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
