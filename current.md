@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d49c1d7f803c208e2fe243c09e2aae949675783
+source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
 workflow-type: tm+mt
-source-wordcount: '6394'
-ht-degree: 96%
+source-wordcount: '6393'
+ht-degree: 95%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 96%
 
 ## 2024年1月
 
-最終更新日：**2024年2月1日（PT）**
+最終更新日：**2024年2月7日（PT）**
 
-* [[!DNL Experience League] イベントと更新](#events) ( 更新済み **2 月 1 日**)
+* [[!DNL Experience League] イベントと更新](#events) ( 更新済み **2 月 7 日**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **新規**
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -68,11 +68,11 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience League に関するイベント
 
-更新済み **2024 年 2 月 2 日**
+更新済み **2024 年 2 月 8 日**
 
 +++Experience League に関する今後のイベント
 
-* **[!DNL WORKFRONT]** | カスタマーワークショップ | _つながる：マーケティング＆クリエイティブ向け管理チャット_ | マーケティングチームやクリエイティブチームのシステム管理者の場合このお客様主導のセッションでは、他の管理者と交流し、ベストプラクティスやヒントとコツについて話し合います。| **2月2日午前 9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | Experience Leagueライブ | _ユースケースプレイブック：数回のクリックでユースケースをデプロイするためのセルフサービステンプレート_ | ユースケースプレイブックで、数回のクリックでマーケティング目標を実装オブジェクトに変換する方法を説明します。 | **2月8日午前 9:00（PT）** | [登録](https://engage.adobe.com/ExpLeagueLive-240208.html)
 
 * **[!DNL WORKFRONT]** | カスタマーワークショップ | _交流：業界サークル - 高等教育_ | 2024年に新設されたこの最初の業界サークルは、高等教育の [!DNL Workfront] 管理者を集めてネットワークを作り、エクスペリエンス、学習、ベストプラクティスを共有することを目的とした非公式のラウンドテーブルディスカッションです。| **2月8日午前 9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
