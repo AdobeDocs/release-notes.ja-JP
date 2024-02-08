@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
 workflow-type: tm+mt
 source-wordcount: '6393'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 95%
 
 最終更新日：**2024年2月7日（PT）**
 
-* [[!DNL Experience League] イベントと更新](#events) ( 更新済み **2 月 7 日**)
+* [[!DNL Experience League] イベントとアップデート](#events)（更新日：**2月7日（PT）**）
 * [[!DNL Adobe GenStudio]](#genstudio) - **新規**
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -45,7 +45,7 @@ ht-degree: 95%
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem) ( 更新済み **1 月 30 日**)
+* [[!DNL Adobe Experience Manager]](#aem)（更新日：**1月29日（PT）**）
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -57,7 +57,7 @@ ht-degree: 95%
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) ( 更新済み **1 月 24 日**)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)（更新日：**1月24日（PT）**）
 * [顧客データ管理 - 担当者の声](#voices)
 * [デジタルエクスペリエンスブループリント](#blueprints)
 * [アドビ製品のセキュリティの脆弱性](https://helpx.adobe.com/jp/security.html)
@@ -68,7 +68,7 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience League に関するイベント
 
-更新済み **2024 年 2 月 8 日**
+更新日：**2024年2月7日（PT）**
 
 +++Experience League に関する今後のイベント
 
@@ -76,19 +76,19 @@ Experience League に関するエキサイティングなイベントについ�
 
 * **[!DNL WORKFRONT]** | カスタマーワークショップ | _交流：業界サークル - 高等教育_ | 2024年に新設されたこの最初の業界サークルは、高等教育の [!DNL Workfront] 管理者を集めてネットワークを作り、エクスペリエンス、学習、ベストプラクティスを共有することを目的とした非公式のラウンドテーブルディスカッションです。| **2月8日午前 9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL ANALYTICS]** | ウェビナー | _データドリップ：マーケティングチャネルとアトリビューションモデリング_ | 顧客とのやり取りがコンバージョンに与える影響を把握しているか。 Adobe AnalyticsでマーケティングAdobeを設定し、AI を活用してカスタムアトリビューションモデルを構築する方法を紹介する際は、アドビのチャネルエキスパートにご参加ください。 | **2 月 8 日@午後 1:00 ET** | [登録](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
+* **[!DNL ANALYTICS]** | ウェビナー | _データドリップ：マーケティングチャネルとアトリビューションモデリング_ | 顧客とのやり取りがコンバージョンに与える影響をご存知ですか？アドビのエキスパートが、マーケティングチャネルを設定し、Adobe Analytics で AI を活用してカスタムアトリビューションモデルを作成する方法について説明します。| **2月7日午前 10:00（PT）** | [登録](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
 
-* **[!DNL WORKFRONT]** | コミュニティイベント | _Workfront Collective_ | 他のWorkfrontのお客様と、月次の共同問題解決および成功共有セッションにご参加ください。 | **2月12日6:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | コミュニティイベント | _Workfront Collective_ | 他の Workfront のお客様と、月次の共同問題解決および成功共有セッションにご参加ください。| **2月12日午前 6:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL DATA COLLECTION]** | ウェビナー | _データストリームの優先順位付け_ | キャンペーンオーケストレーションのデータストリームの優先順位付けを管理し、組織でデータドリブン型パーソナライゼーションを実行する能力を強化する方法について説明します。 | **2月13日9:30（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL DATA COLLECTION]** | ウェビナー | _データストリームの優先順位付け_ | キャンペーンオーケストレーションのデータストリームの優先順位付けを管理し、組織のデータ駆動型パーソナライゼーションの実行力を強化する方法について説明します。| **2月13日午前 9:30（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | カスタマーワークショップ | _管理 101：[!DNL Workfront]_ を使用するユーザーの獲得 | [!DNL Workfront] を初めて使用する場合新しい管理者向けの月例ミートアップに参加してください。今月は、ユーザーの採用に関するベストプラクティスについて説明します。| **2月14日午前 8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE PLATFORM]** | ウェビナー | _戦略的リーダーシップの解放：エグゼクティブ・スポンサーシップの力_ | 戦略的な影響を通じて組織の目標を効果的に達成するための戦術を取得します。 このセッションは、エグゼクティブスポンサーシップの向上を求めるエグゼクティブに力を与えるように設計されています。 | **2月15日10:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | ウェビナー | _戦略的リーダーシップの解放：エグゼクティブスポンサーシップの力_ | 戦略的な影響を通じて組織の目標を効果的に達成するための戦術を取得します。このセッションは、エグゼクティブスポンサーシップを強化しようとしているエグゼクティブに力を与えることを目的としています。| **2月15日午前 10:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE PLATFORM]** | ウェビナー | _チームのメリット：機能を活用して、成功を合理化_ | 製品統合によってデジタルワークフローを合理化し、チームの効率を高め、ビジネスプロセスを拡張する方法を説明します。 効率的なチーム内でのコラボレーションを改善し、生産性を最大限に高めるためのテクニックを学びます。 | **2月20日10:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | ウェビナー | _チームのメリット：機能を活用して、成功を効率化_ | 製品統合によってデジタルワークフローを効率化し、チームの効率を高め、ビジネスプロセスを拡張する方法について説明します。効率的なチーム内でのコラボレーションを改善し、生産性を最大限に高めるためのテクニックを学びます。| **2月20日10:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Q&amp;A チャット | _カスタマーサポートへの質問 — 一般的なレイアウトテンプレートのトラブルシューティングと問題の表示_ | Workfrontカスタマーサポートチームに参加して、「エキスパートに聞く」タイプのセッションで、レイアウトテンプレートとビューに焦点を当てたベストプラクティスとトラブルシューティングのヒントを学びましょう。 | **2月22日9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Q &amp; A チャット | _カスタマーサポートへの質問 - レイアウトテンプレートおよびビューに関する一般的な問題のトラブルシューティング_ | Workfront カスタマーサポートチームによる「専門家に聞く」タイプのセッションに参加し、レイアウトテンプレートとビューに焦点を当てたベストプラクティスとトラブルシューティングのヒントについて学びます。| **2月22日午前 9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League でその他の[今後のイベント](https://experienceleague.adobe.com/events/?lang=ja)を確認するか、[イベントの録画](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ja)を参照してください。
 
@@ -838,7 +838,7 @@ Experience League で公開されている新しい [!DNL Workfront] チュー�
 
 | 公開日 | アプリケーション | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2024年1月 | [!DNL Adobe Express] | [TutorialsのAdobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | ビデオ | を活用した生成 AI で際立つ素晴らしい作品を創り出しましょう [!DNL Adobe Firefly]. フライヤー、TikToks、履歴書、リールを [!DNL Adobe Express]. |
+| 2024年1月 | [!DNL Adobe Express] | [Adobe Express のチュートリアル](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=ja) | ビデオ | [!DNL Adobe Firefly] を活用した生成 AI を使用して、素晴らしい作品の作成を始めましょう。[!DNL Adobe Express] を使用して、チラシ、TikTok、履歴書、リールをデザインします。 |
 
 最新のチュートリアルについては、[Creative Cloud エンタープライズ版チュートリアル](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=ja)を参照してください。
 
