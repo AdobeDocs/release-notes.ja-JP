@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c7869172861d322f3fb404855f8698d4bc0c1de0
+source-git-commit: a4a69849a5df4dff25467dd89e9e8f563b53a826
 workflow-type: tm+mt
-source-wordcount: '6393'
-ht-degree: 99%
+source-wordcount: '6207'
+ht-degree: 100%
 
 ---
 
@@ -70,17 +70,7 @@ Experience League に関するエキサイティングなイベントについ�
 
 更新日：**2024年2月7日（PT）**
 
-+++Experience League に関する今後のイベント
-
-* **[!DNL EXPERIENCE PLATFORM]** | Experience Leagueライブ | _ユースケースプレイブック：数回のクリックでユースケースをデプロイするためのセルフサービステンプレート_ | ユースケースプレイブックで、数回のクリックでマーケティング目標を実装オブジェクトに変換する方法を説明します。 | **2月8日午前 9:00（PT）** | [登録](https://engage.adobe.com/ExpLeagueLive-240208.html)
-
-* **[!DNL WORKFRONT]** | カスタマーワークショップ | _交流：業界サークル - 高等教育_ | 2024年に新設されたこの最初の業界サークルは、高等教育の [!DNL Workfront] 管理者を集めてネットワークを作り、エクスペリエンス、学習、ベストプラクティスを共有することを目的とした非公式のラウンドテーブルディスカッションです。| **2月8日午前 9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | ウェビナー | _データドリップ：マーケティングチャネルとアトリビューションモデリング_ | 顧客とのやり取りがコンバージョンに与える影響をご存知ですか？アドビのエキスパートが、マーケティングチャネルを設定し、Adobe Analytics で AI を活用してカスタムアトリビューションモデルを作成する方法について説明します。| **2月7日午前 10:00（PT）** | [登録](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | コミュニティイベント | _Workfront Collective_ | 他の Workfront のお客様と、月次の共同問題解決および成功共有セッションにご参加ください。| **2月12日午前 6:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL DATA COLLECTION]** | ウェビナー | _データストリームの優先順位付け_ | キャンペーンオーケストレーションのデータストリームの優先順位付けを管理し、組織のデータ駆動型パーソナライゼーションの実行力を強化する方法について説明します。| **2月13日午前 9:30（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
++++詳細
 
 * **[!DNL WORKFRONT]** | カスタマーワークショップ | _管理 101：[!DNL Workfront]_ を使用するユーザーの獲得 | [!DNL Workfront] を初めて使用する場合新しい管理者向けの月例ミートアップに参加してください。今月は、ユーザーの採用に関するベストプラクティスについて説明します。| **2月14日午前 8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -105,7 +95,7 @@ Experience League でその他の[今後のイベント](https://experienceleagu
 | 2024年1月 | [GenStudio チュートリアル](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=ja) | ビデオ | 新しい [!DNL Adobe GenStudio] で Experience League チュートリアルを参照してください。[!DNL GenStudio] は、生成 AI とインテリジェントな自動化により、コンテンツサプライチェーンを高速化および簡素化するエンドツーエンドのソリューションです。 |
 | 2024年1月 | [ワークフローと計画：作業の効率化と高速化](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=ja) | ビデオ | 企画や制作から、完成に至るコンテンツ要件を結び付けて追跡することに苦労している会社向けです。効果的なプロセス、計画、承認、プロジェクト全体でのデータの一貫性の欠如により、この会社のコンテンツサプライチェーンの生産性と効率性は失われています。 |
 | 2024年1月 | [クリエイティブな生産性：クリエイティブチームの強化](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=ja) | ビデオ | カリスマ的なクリエイティブなユーザーは存在するが、コンテンツ作成を強化する必要がある会社向けです。[!DNL GenStudio] は、このチームがコンテンツの制作、配信、検出性を高めるのに役立つ [!DNL GenAI] を強化したツールを提供します。 |
-| 2024年1月 | [マーケティングの俊敏性：非クリエイティブユーザーのスケールを支援](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=ja) | ビデオ | Adobe [!DNL GenStudio] を使用すると、クリエイティブチーム／スタジオが完全に対処しなくても、コンテンツのリクエストに対応できる場合があります。アドビでは、マーケターやその他の潜在的なコンテンツ作成者にツールを提供します。これらのツールを使用すると、コンテンツのバリエーションを迅速に作成できます。更新は、コンテンツサプライチェーンに接続された、より広範な個人グループによって実行できるので、コンテンツのスループットと市場投入までの時間が大幅に向上します。 |
+| 2024年1月 | [マーケティングの俊敏性：非クリエイティブユーザーのスケールを支援](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=ja) | ビデオ | Adobe [!DNL GenStudio] を使用すると、クリエイティブチーム／スタジオが完全に処理しなくても、コンテンツのリクエストに対応できる場合があります。アドビでは、マーケターやその他の潜在的なコンテンツ作成者にツールを提供します。これらのツールを使用すると、コンテンツのバリエーションを迅速に作成できます。更新は、コンテンツサプライチェーンに接続された、より広範な個人グループによって実行できるので、コンテンツのスループットと市場投入までの時間が大幅に向上します。 |
 | 2024年1月 | [配信とアクティベーション：エクスペリエンスとパフォーマンスの強化](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=ja) | ビデオ | 適切なチャネルで適切な個人に適切なコンテンツを提供するためのサポートが必要な会社向けです。[!DNL GenStudio] は、他のどのソリューションよりも優れた接続を実現すると同時に、全体的なコンテンツのパフォーマンスを確保するための分析も提供します。 |
 
 {style="table-layout:auto"}
