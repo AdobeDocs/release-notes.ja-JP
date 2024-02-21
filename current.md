@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4cb8fce5ba7d00f4462cfaa5c29523a15c3ae0c2
-workflow-type: ht
-source-wordcount: '5528'
+source-git-commit: 342d9caad0c8a904c94a2a8c087f19955f796095
+workflow-type: tm+mt
+source-wordcount: '5447'
 ht-degree: 100%
 
 ---
@@ -70,10 +70,6 @@ Experience League に関するエキサイティングなイベントについ�
 更新日：**2024年2月14日（PT）**
 
 +++詳細
-
-* **[!DNL EXPERIENCE PLATFORM]** | ウェビナー | _戦略的リーダーシップの解放：エグゼクティブスポンサーシップの力_ | 戦略的な影響を通じて組織の目標を効果的に達成するための戦術を取得します。このセッションは、エグゼクティブスポンサーシップを強化しようとしているエグゼクティブに力を与えることを目的としています。| **2月15日午前 10:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL EXPERIENCE PLATFORM]** | ウェビナー | _チームのメリット：機能を活用して、成功を効率化_ | 製品統合によってデジタルワークフローを効率化し、チームの効率を高め、ビジネスプロセスを拡張する方法について説明します。効率的なチーム内でのコラボレーションを改善し、生産性を最大限に高めるためのテクニックを学びます。| **2月20日10:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Q &amp; A チャット | _カスタマーサポートへの質問 - レイアウトテンプレートおよびビューに関する一般的な問題のトラブルシューティング_ | Workfront カスタマーサポートチームによる「専門家に聞く」タイプのセッションに参加し、レイアウトテンプレートとビューに焦点を当てたベストプラクティスとトラブルシューティングのヒントについて学びます。| **2月22日午前 9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -257,7 +253,7 @@ Adobe [!DNL Analytics] 用に公開された新しいビデオチュートリア
 
 +++詳細
 
-[!DNL Customer Journey Analytics] リリース日：**2024年2月16日（PT）**
+[!DNL Customer Journey Analytics]リリース日：**2024年2月16日（PT）**
 
 * [!DNL Customer Journey Analytics] [リリースノート](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=ja)
 
