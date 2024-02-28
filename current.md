@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1dc1f22cdf45150c58eb6a72641c70f988aaf5b5
+source-git-commit: 4a1ad43ae7911334cbe58d633c4929d5645580f9
 workflow-type: tm+mt
-source-wordcount: '5457'
-ht-degree: 99%
+source-wordcount: '5779'
+ht-degree: 93%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 99%
 
 ## 2024年2月
 
-最終更新日：**2024年2月26日（PT）**
+最終更新日：**2024年2月28日（PT）**
 
-* [[!DNL Experience League] イベントと更新](#events)  （更新済み） **2 月 27 日**)
+* [[!DNL Experience League] イベントと更新](#events)  （更新済み） **2 月 29 日**)
 * [[!DNL Adobe GenStudio]](#genstudio)
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -67,11 +67,27 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience League に関するイベント
 
-更新日：**2024年2月26日（PT）**
+更新日：**2024年2月28日（PT）**
 
 +++詳細
 
-* **WORKFRONT** | Q&amp;A チャット | _Ask Customer Panel: Workfrontでキャリアを進める_ | 2024 年の最初のパネルは、Workfrontの専門知識を活かしてキャリアを築いた 3 人の感動的なWorkfrontのお客様によって開始されます。 1 時間のディスカッションに参加して、成功に必要なスキルを学んでください。 | **2月27日8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,2fZ2UKkqy0WZ22Alb9JdRQ,qGWMHwKiJ06A_XgUeGVhYg,cta_ZoLBA06u-8UH8SlbCQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **EXPERIENCE MANAGER** | ウェビナー | _EMEA AEM Community イベント_ | コンテンツサプライチェーンに関する素晴らしい対話型セッションを開き、お客様の目標、お客様のこれまでの実績、お客様が直面する課題、および対処方法について話し合います。 | **2 月 29 日@午後 3:00 GMT** | [登録](https://registration.adobe.com/AdobeAEM24/)
+
+* **管理者とキャンペーン** | Experience Leagueライブ | _新しいAdobe Campaign Web ユーザーインターフェイスを先に進める_ | 2 月 29 日に、新しいAdobe Campaign Web User Interface を使用したクロスチャネル戦略の計画、立ち上げ、評価方法と、新しい Generative AI 機能のプレビューをご利用いただけます。 | **2月29日8:00（PT）** | [登録](https://engage.adobe.com/ExpLeagueLive-240229.html)
+
+* **EXPERIENCE MANAGER** | Livestream | _App Builder が 10.0 に変わる_ | App Builder のエンジニアリングチームに参加して、最新の CLI リリースの新機能と、デバッグをより簡単かつ容易におこなえる新しい方法を含む将来の状況を確認してください。 | **2月29日午前 9:00（PT）** | [登録](https://streamyard.com/watch/i7TEbhnR73h9)
+
+* **WORKFRONT** | カスタマーワークショップ | _学習：Workfront（法務およびコンプライアンスに関する法律）_ | 法務およびコンプライアンスチームとの連携により、プロセスを合理化し、Workfrontプラットフォームを組織内のより多くの閲覧者に拡大し、採用を拡大する方法に関するワークショップにご参加ください。 | **2月29日9:30（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | コミュニティイベント | _接続：マーケティング&amp;クリエイティブ向け管理チャット_ | マーケティングチームやクリエイティブチームのシステム管理者ですか？ このお客様主導のセッションでは、他の管理者と連携して、ベストプラクティスやヒントについて話し合います。 | **3 月 1 日@午前 9:00 （太平洋標準時）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | ウェビナー | _Workfrontの使用を開始：リソース管理_ | AdobeのWorkfront Business Advisor は、ブループリントを使用して、ニーズに応じて発展する作業管理システムを簡単に作成するための手順を進め、Workfrontで最も効果的な使用例の 1 つである Resource Management を調べます。 | **3 月 7 日@午後 1:00 ET** | [登録](https://adobeevents.adobeconnect.com/exdj5n4atw60/event/registration.html?campaign-id=ExL)
+
+* **WORKFRONT** | コミュニティイベント | _接続：Workfront Collective_ | 他のWorkfrontのお客様と共同で問題解決と成功共有のセッションをおこなえます。 | **3 月 11 日@ 6:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | コミュニティイベント | _接続：Workfront Collective_ | 他のWorkfrontのお客様と共同で問題解決と成功共有のセッションをおこなえます。 | **3 月 11 日@ 6:00 AM PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **EXPERIENCE MANAGER** | ウェビナー | _エスプレッソスとExperience Manager: AEMがクラウドでより強力な理由_ | Best Practice Analyzer &amp; Cloud Acceleration Manager などのツールを使用して、コンテンツの評価と移行計画を通じて、クラウドへのスムーズな移行を確実におこなう方法について、Adobeのエキスパートと話し合います。 | **3 月 14 日@午後 1:00 ET** | [登録](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
 
 * **Adobe Summit** | デジタルエクスペリエンス会議 | _スキルを広げ、最新のトレンドを見つけ、エクスペリエンス主導の成長の未来を探る_ | 主要なブランドから学び、生成 AI の未来を発見し、エクスペリエンス主導の成長に備えます。| **3月25日～28日 @ラスベガスとオンライン** | [登録](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
