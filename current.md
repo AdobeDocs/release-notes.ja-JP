@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e18508b13d1c859f0aa3c3bd50cdad0db30a685f
+source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
 workflow-type: tm+mt
-source-wordcount: '5771'
-ht-degree: 98%
+source-wordcount: '5582'
+ht-degree: 99%
 
 ---
 
@@ -71,17 +71,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **Experience Manager** | ウェビナー | _EMEA AEM コミュニティイベント_ | コンテンツサプライチェーンに関する素晴らしいインタラクティブなセッションを開催し、お客様の目標、これまでの実績、直面している課題、対処方法について話し合います。| **2月29日午後 3:00（GMT）** | [登録](https://registration.adobe.com/AdobeAEM24/)
+* **CAMPAIGN (V7、V8)** | コーヒーブレーク | _Adobe Campaignコミュニティ Q&amp;A コーヒーブレーク_ | Adobe Campaign製品チームとの新しいAdobe Campaign Web ユーザーインターフェイスに関する 1 時間の長いチャットセッションにご参加ください。 | **3月7日8:00（PT）** | [登録](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
-* **管理者とキャンペーン** | Experience Leagueライブ | _新しいAdobe Campaign Web ユーザーインターフェイスを先に進める_ | 2 月 29 日に、新しいAdobe Campaign Web User Interface を使用したクロスチャネル戦略の計画、立ち上げ、測定方法を学び、新しい Generative AI 機能のプレビューを得るためにご参加ください。 | **2月29日8:00（PT）** | [登録](https://engage.adobe.com/ExpLeagueLive-240229.html)
-
-* **EXPERIENCE MANAGER** | Livestream | _App Builder が 10.0 に変わる_ | App Builder のエンジニアリングチームに参加して、最新の CLI リリースの新機能と、デバッグをより簡単におこなえる新しい方法を含む将来の状況を確認してください。 | **2月29日午前 9:00（PT）** | [登録](https://streamyard.com/watch/i7TEbhnR73h9)
-
-* **Workfront** | カスタマーワークショップ | _学習：法務およびコンプライアンス向け Workfront_ | 法務およびコンプライアンスチームとの連携により、プロセスを効率化し、組織内のより多くのオーディエンスに Workfront プラットフォームを拡張し、導入を拡大する方法について説明するワークショップにご参加ください。| **2月29日9:30（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Workfront** | コミュニティイベント | _つながる：マーケティング＆クリエイティブ向け管理チャット_ | マーケティングチームやクリエイティブチームのシステム管理者の場合このお客様主導のセッションでは、他の管理者と連携して、ベストプラクティス、ヒント、テクニックについて話し合います。 | **3月1日午前 9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | ウェビナー | _Workfront の使用を開始：リソース管理_ | アドビの Workfront ビジネスアドバイザーが、ニーズに合わせて進化する作業管理システムを簡単に作成するためのブループリントを使用して、Workfront の最も影響力のあるユースケースの 1 つであるリソース管理を紹介します。| **3月7日午後 1:00（ET）** | [登録](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5653751992/event_landing.html?sco-id=5639062191&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **WORKFRONT** | ウェビナー | _Workfront の使用を開始：リソース管理_ | アドビの Workfront ビジネスアドバイザーが、ニーズに合わせて進化する作業管理システムを簡単に作成するためのブループリントを使用して、Workfront の最も影響力のあるユースケースの 1 つであるリソース管理を紹介します。| **3月7日午後 1:00（ET）** | [登録](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
 * **Workfront** | コミュニティイベント | _つながり：Workfront Collective_ | 他の Workfront のお客様と、共同問題解決および成功共有セッションにご参加ください。| **3月11日午前 6:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
