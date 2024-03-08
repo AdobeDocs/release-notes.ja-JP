@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
+source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
 workflow-type: tm+mt
-source-wordcount: '5582'
+source-wordcount: '5499'
 ht-degree: 99%
 
 ---
@@ -70,10 +70,6 @@ Experience League に関するエキサイティングなイベントについ�
 更新日：**2024年2月28日（PT）**
 
 +++詳細
-
-* **CAMPAIGN (V7、V8)** | コーヒーブレーク | _Adobe Campaignコミュニティ Q&amp;A コーヒーブレーク_ | Adobe Campaign製品チームとの新しいAdobe Campaign Web ユーザーインターフェイスに関する 1 時間の長いチャットセッションにご参加ください。 | **3月7日8:00（PT）** | [登録](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
-
-* **WORKFRONT** | ウェビナー | _Workfront の使用を開始：リソース管理_ | アドビの Workfront ビジネスアドバイザーが、ニーズに合わせて進化する作業管理システムを簡単に作成するためのブループリントを使用して、Workfront の最も影響力のあるユースケースの 1 つであるリソース管理を紹介します。| **3月7日午後 1:00（ET）** | [登録](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
 * **Workfront** | コミュニティイベント | _つながり：Workfront Collective_ | 他の Workfront のお客様と、共同問題解決および成功共有セッションにご参加ください。| **3月11日午前 6:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
