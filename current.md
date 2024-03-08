@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0c7a6c54b5f8fac7ae5295e8a28b968bda9c3bab
+source-git-commit: da61f809f1bdd6ce4f3ac650f40a72a2a0f37c6e
 workflow-type: tm+mt
-source-wordcount: '5499'
-ht-degree: 99%
+source-wordcount: '5572'
+ht-degree: 98%
 
 ---
 
@@ -73,9 +73,11 @@ Experience League に関するエキサイティングなイベントについ�
 
 * **Workfront** | コミュニティイベント | _つながり：Workfront Collective_ | 他の Workfront のお客様と、共同問題解決および成功共有セッションにご参加ください。| **3月11日午前 6:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Workfront** | コミュニティイベント | _つながり：Workfront Collective_ | 他の Workfront のお客様と、共同問題解決および成功共有セッションにご参加ください。| **3月11日午前 6:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | カスタマーワークショップ | _Admin 101:Workfrontデータの取得_ | Workfrontを初めて？ 毎月の「新しい管理者」のメッセージに参加して、質問をしたり、リソースや推奨事項を取得したり、他の新しい管理者に会ったり、このセッションでは、Workfrontでレポートされるすべての事柄のベストプラクティスを学んだりします。 | **3月13日8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,POtiORmhEE2cwlhRFM2JMw,dUgy5MAHzkeSpm357qe4Ww,lKFY7SPny0-i8YfbN5Ow3g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Experience Manager** | ウェビナー | _エスプレッソ＆ Experience Manager：AEM がクラウドでより強力な理由_ | アドビのエキスパートが、ベストプラクティスアナライザーや Cloud Acceleration Manager などのツールを使用したコンテンツの評価と移行計画を通じて、クラウドへのスムーズな移行を確実に行う方法について話し合います。| **3月14日午後 1:00（ET）** | [登録](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5621127355/event_landing.html?sco-id=5643219583&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **EXPERIENCE MANAGER** | AEM GEMS | _AEMオーサリングの概要とEdge Delivery Services_ | AEM GEMs ウェビナーに参加して、Edge Delivery ServicesでAEMオーサリングを開始できます。 AEM Cloud Service を使用して、WYSIWYG オーサリングと共にAEM対応プロジェクト開発を作成する方法を説明します。 | **3月13日9:00（PT）** | [登録](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-getting-started-with-aem-authoring-and-edge-delivery-services/)
+
+* **Experience Manager** | ウェビナー | _エスプレッソ＆ Experience Manager：AEM がクラウドでより強力な理由_ | アドビのエキスパートが、ベストプラクティスアナライザーや Cloud Acceleration Manager などのツールを使用したコンテンツの評価と移行計画を通じて、クラウドへのスムーズな移行を確実に行う方法について話し合います。| **3月14日午後 1:00（ET）** | [登録](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
 
 * **Adobe Summit** | デジタルエクスペリエンス会議 | _スキルを広げ、最新のトレンドを見つけ、エクスペリエンス主導の成長の未来を探る_ | 主要なブランドから学び、生成 AI の未来を発見し、エクスペリエンス主導の成長に備えます。| **3月25日～28日 @ラスベガスとオンライン** | [登録](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
