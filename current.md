@@ -6,10 +6,10 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e4ed429fbc8ecdaa4149c9796c50c57272918613
+source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
 workflow-type: tm+mt
-source-wordcount: '6152'
-ht-degree: 67%
+source-wordcount: '6115'
+ht-degree: 66%
 
 ---
 
@@ -605,7 +605,6 @@ Adobe Campaign向けに公開された新しいビデオチュートリアルま
 | 2024年2月 | Campaign web ユーザーインターフェイス | [オーディエンスの管理と構築](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/manage-and-build-audiences.html) | ビデオ | オーディエンスの作成と管理方法、配信用のオーディエンスの選択方法、コントロール母集団の定義方法について説明します。 |
 | 2024年2月 | Campaign web ユーザーインターフェイス | [ターゲティングワークフローの作成](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/workflows/create-a-targeting-workflow.html) | ビデオ | ワークフローの動作とターゲティングワークフローの作成方法について説明します。 |
 | 2024年2月 | Campaign web ユーザーインターフェイス | [メール配信の作成](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-delivery.html) | ビデオ | メール配信をゼロから作成し、オーディエンスの定義、コンテンツの設計、プレビューのシミュレートを行い、配達確認を送信する方法について説明します。 |
-| 2024年2月 | Campaign web ユーザーインターフェイス | [E メールコンテンツをゼロから設計する](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-email-content-from-scratch.html) | ビデオ | メールデザイナーの操作方法について説明します。メールをゼロから構造化して設計する方法と、メールをパーソナライズしてテストする方法ついて説明します。 |
 | 2024年2月 | Campaign Web ユーザーインターフェイス、Experience Platform | [Experience Platform](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-an-audience-with-experience-platform.html) | ビデオ | Adobe Campaignで宛先オーディエンスを使用するExperience Platformを作成する方法を説明します。 |
 | 2024年2月 | Campaign web ユーザーインターフェイス | [アップロードHTML](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-by-uploading-html.html) | ビデオ | HTML をアップロードしてメールを作成する方法、メールデザイナーと互換性を持たせる方法、テンプレートに変換する方法について説明します。 |
 | 2024年2月 | Campaign web ユーザーインターフェイス | [配信停止 (DOS) と配信停止 (DON&#39;t)](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/unsubscribe-dos-and-do-nots.html) | 記事 | 配信停止を管理する際に実行する操作と回避する操作のリストを使用します。 |
