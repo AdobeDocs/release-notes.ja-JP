@@ -6,10 +6,10 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8911d232f3e218b9f5549d7626ef65ac92996bfc
+source-git-commit: 4c1b46ffb7598946d87cd1d61330cf2a694d853e
 workflow-type: tm+mt
-source-wordcount: '6115'
-ht-degree: 66%
+source-wordcount: '6023'
+ht-degree: 67%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 66%
 
 ## 2024年3月
 
-最終更新日：**2024年3月13日（PT）**
+最終更新日：**2024年3月15日（PT）**
 
 * [[!DNL Experience League] のイベントと最新情報](#events)
 * [アドビでの認定](#certification)
@@ -40,8 +40,8 @@ ht-degree: 66%
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Analytics]](#analytics) ( リリース済み **3 月 14 日**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) ( リリース済み **3 月 14 日**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,15 +67,11 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience League に関するイベント
 
-更新済み **2024 年 3 月**
+更新済み **2024 年 3 月 16 日**
 
 +++詳細
 
-* **WORKFRONT** | カスタマーワークショップ | _Admin 101:Workfrontデータの取得_ | Workfrontを初めて？ 毎月の「新しい管理者」のメッセージに参加して、質問をしたり、リソースや推奨事項を取得したり、他の新しい管理者に会ったり、このセッションでは、Workfrontでレポートされるすべての事柄のベストプラクティスを学んだりします。 | **3月13日8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,POtiORmhEE2cwlhRFM2JMw,dUgy5MAHzkeSpm357qe4Ww,lKFY7SPny0-i8YfbN5Ow3g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **EXPERIENCE MANAGER** | AEM GEMS | _AEMオーサリングの概要とEdge Delivery Services_ | AEM GEMs ウェビナーに参加して、Edge Delivery ServicesでAEMオーサリングを開始できます。 AEM Cloud Service を使用して、WYSIWYG オーサリングと共にAEM対応プロジェクト開発を作成する方法を説明します。 | **3月13日9:00（PT）** | [登録](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-getting-started-with-aem-authoring-and-edge-delivery-services/)
-
-* **Experience Manager** | ウェビナー | _エスプレッソ＆ Experience Manager：AEM がクラウドでより強力な理由_ | アドビのエキスパートが、ベストプラクティスアナライザーや Cloud Acceleration Manager などのツールを使用したコンテンツの評価と移行計画を通じて、クラウドへのスムーズな移行を確実に行う方法について話し合います。| **3月14日午後 1:00（ET）** | [登録](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
+* **WORKFRONT** | カスタマーワークショップ | _Admin 101 - Workfrontに関する質問_ | 以前の Admin 101 セッションを見逃したのか、それともまだ質問がありますか。 1 時間のフォローアップに参加して、セッションを要約し、Q&amp;A に向けて開く予定のシリーズに参加してください。 | **3月20日8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,1YdEYKuO-0KE3ermHwWEfg,UN_LlgnRokKfDGTmj7vhVg,XjCFMeclLEmuHQZslDQYHw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Adobe Summit** | デジタルエクスペリエンス会議 | _スキルを広げ、最新のトレンドを見つけ、エクスペリエンス主導の成長の未来を探る_ | 主要なブランドから学び、生成 AI の未来を発見し、エクスペリエンス主導の成長に備えます。| **3月25日～28日 @ラスベガスとオンライン** | [登録](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
