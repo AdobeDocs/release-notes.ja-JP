@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e82e5513e7dcc435eaa1182db8c6ff3f246d47f3
+source-git-commit: ea0c4b9aaed870ca77014eed1db8a3915a937d2f
 workflow-type: tm+mt
-source-wordcount: '5974'
+source-wordcount: '6002'
 ht-degree: 99%
 
 ---
@@ -714,6 +714,12 @@ Experience League で [!DNL Journey Orchestration] の最新のリリースノ�
 
 +++詳細
 
+### [!DNL Adobe Workfront] 更新
+
+* 詳しくは、 [Adobe Workfront製品リリース](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) Workfrontのリリーススケジュール情報およびリリースノートのページです。
+
+* 詳しくは、 [Adobe Workfront Fusion リリースアクティビティの概要](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity) を参照してください。
+
 ### Adobe [!DNL Workfront] の新しいコースとチュートリアル {#tutorials-workfront}
 
 Experience League で公開されている新しい [!DNL Workfront] チュートリアル。
@@ -741,7 +747,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 {style="table-layout:auto"}
 -->
 
-全製品の最新情報の総まとめについては、[[!DNL Workfront] 製品リリース](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html?lang=ja)ページを参照してください。
+最新の製品ドキュメントについて詳しくは、 [Adobe [!DNL Workfront] ドキュメントのホームページ](https://experienceleague.adobe.com/en/docs/workfront/using/home).
 
 +++
 
