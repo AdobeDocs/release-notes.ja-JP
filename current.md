@@ -6,7 +6,7 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 76b633e2b12a93934e043c2e71636de51453dfe5
+source-git-commit: f768519d6c60ae2865ac881126a30d819b3c8846
 workflow-type: tm+mt
 source-wordcount: '6053'
 ht-degree: 94%
@@ -32,7 +32,7 @@ ht-degree: 94%
 
 ## 2024年3月
 
-最終更新日：**2024年3月29日（PT）**
+最終更新日：**2024年3月31日（PT）**
 
 * [[!DNL Experience League] イベントと更新](#events) ( 更新済み **3 月 30 日**)
 * [アドビでの認定](#certification)
@@ -67,7 +67,7 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience League に関するイベント
 
-更新済み **2024 年 3 月 30 日**
+更新済み **2024 年 3 月 31 日**
 
 +++詳細
 
@@ -81,11 +81,11 @@ Experience League に関するエキサイティングなイベントについ�
 
 * **WORKFRONT** | カスタマーワークショップ | _学習： Adobe Workfrontでの 10 のテキストモードのヒント_ | テキストモードでレポートの知識を広げたい場合は、 もうこれ以上は見ないで！ このワークショップでは、テキストモードの基本と API エクスプローラーについて簡単に紹介し、続いてAdobe Workfrontで 10 個のテキストモードのヒントを紹介します。 | **4月18日午前 9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-Experience League でその他の[今後のイベント](https://experienceleague.adobe.com/events/?lang=ja)を確認するか、[イベントの録画](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ja)を参照してください。
-
 * **WORKFRONT** | コミュニティイベント | _接続：Workfront Collective_ | 同僚のWorkfrontシステム管理者に、毎月行われる集団的なブレーンストーミングおよび共有セッションに参加してください。ここでは、最新の更新とベストプラクティスについて説明します。 | **4月22日6:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Q&amp;A チャット | _質問：Adobeビジネスプラットフォームへの移行_ | Q&amp;A に参加し、テクニカルサポートエンジニアと共に、Adobeビジネスプラットフォーム移行に向けた最善の準備方法と期待される事項を学んでください。 | **4月23日8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+Experience League でその他の[今後のイベント](https://experienceleague.adobe.com/events/?lang=ja)を確認するか、[イベントの録画](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ja)を参照してください。
 
 +++
 
