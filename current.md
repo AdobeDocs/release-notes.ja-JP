@@ -6,10 +6,10 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f768519d6c60ae2865ac881126a30d819b3c8846
+source-git-commit: e581a323e92bda30c755d7030c024edb06c6f6a1
 workflow-type: tm+mt
-source-wordcount: '6053'
-ht-degree: 94%
+source-wordcount: '5962'
+ht-degree: 95%
 
 ---
 
@@ -34,14 +34,14 @@ ht-degree: 94%
 
 最終更新日：**2024年3月31日（PT）**
 
-* [[!DNL Experience League] イベントと更新](#events) ( 更新済み **3 月 30 日**)
+* [[!DNL Experience League] イベントとアップデート](#events) （更新日： **3 月 29 日（Pt）**）
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) ( リリース済み **3 月 14 日**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) ( リリース済み **3 月 14 日**)
+* [[!DNL Adobe Analytics]](#analytics) （リリース日 **3 月 13 日（Pt）**）
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （リリース日 **3 月 13 日（Pt）**）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,23 +67,19 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience League に関するイベント
 
-更新済み **2024 年 3 月 31 日**
+更新日 **2024 年 3 月 31 日（Pt）**
 
 +++詳細
 
-* **Workfront** | コミュニティイベント | _つながる：マーケティング＆クリエイティブ向け管理チャット_ | マーケティングチームやクリエイティブチームのシステム管理者の場合このお客様主導のセッションでは、他の管理者と交流し、ベストプラクティスやヒントとコツについて話し合います。| **4月5日午前 9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** |お客様ワークショップ | _学習：Adobe Workfront 2024 年第 2 四半期リリースのまとめ_ |2024 年第 2 四半期リリースに含まれる最新の機能強化について、他のWorkfront システム管理者と共に確認します。 メリット、導入計画、変更の管理について説明します。 | **4月16日8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | カスタマーワークショップ | _Admin 101:Workfrontの概要_ | Workfrontを初めて？ 101 ヶ月に 1 回の管理者会議に参加して、質問をしたり、リソースを取得したり、ベストプラクティスを学んだり、他の新しい管理者と会ったりします。 このセッションでは、初期セットアップと設定に焦点を当てます。 | **4月10日8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,8EcZ9ObE6E6vfXJJKbUE-Q,c4BGCPZ3kEetwRnBo4FL-A,AfPWNe36XUiXIb3Ne0B3mQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **MARKETO ENGAGE** |他のユーザーから学ぶ | _強力なワークフロー自動化のロック解除：Marketo Engage REST API の実用的なアプリケーション_ |リードの一括結合、UTM トラッキングプログラムの作成、ChatGPT を活用した送信時間の最適化など、REST API を使用してワークフローを合理化する実際のユースケースにインスピレーションを得ながらライブで参加しましょう。 | **4月17日8:00（PT）** | [登録](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
 
-* **WORKFRONT** | カスタマーワークショップ | _学習：Adobe Workfront2024 年第 2 四半期リリースのまとめ_ | 2024 年第 2 四半期リリースに含まれる最新の機能強化について確認する際は、他のWorkfront Sys 管理者にご参加ください。 メリット、展開計画、変更管理について説明します。 | **4月16日8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** |お客様ワークショップ | _学習：Adobe Workfrontの 10 のテキストモードに関するヒント_ | テキストモードでレポートの知識を広げたいですか？ これ以上は見るな。 このワークショップでは、テキストモードの基本と API エクスプローラーの概要を説明し、その後、Adobe Workfrontで 10 個のテキストモードのヒントを提供します。 | **4月18日午前 9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **MARKETO ENGAGE** | 仲間から学ぶ | _強力なワークフロー自動化のロック解除：Marketo EngageREST API の実用的なアプリケーション_ | REST API を使用して、リードを一括で結合したり、UTM トラッキングプログラムを作成したり、ChatGPT を活用して送信時間を最適化したりするなど、実際の使用例に触発され、活用してください。 | **4月17日8:00（PT）** | [登録](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
+* **WORKFRONT** | コミュニティイベント | _Connect:Workfront Collective_ |仲間のWorkfront システム管理者と共に、この毎月開催される共同ブレーンストーミングおよびシェアリングセッションで、最新のアップデートとベストプラクティスについて話し合います。 | **4月22日6:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | カスタマーワークショップ | _学習： Adobe Workfrontでの 10 のテキストモードのヒント_ | テキストモードでレポートの知識を広げたい場合は、 もうこれ以上は見ないで！ このワークショップでは、テキストモードの基本と API エクスプローラーについて簡単に紹介し、続いてAdobe Workfrontで 10 個のテキストモードのヒントを紹介します。 | **4月18日午前 9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | コミュニティイベント | _接続：Workfront Collective_ | 同僚のWorkfrontシステム管理者に、毎月行われる集団的なブレーンストーミングおよび共有セッションに参加してください。ここでは、最新の更新とベストプラクティスについて説明します。 | **4月22日6:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Q&amp;A チャット | _質問：Adobeビジネスプラットフォームへの移行_ | Q&amp;A に参加し、テクニカルサポートエンジニアと共に、Adobeビジネスプラットフォーム移行に向けた最善の準備方法と期待される事項を学んでください。 | **4月23日8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Q&amp;A チャット | _質問：Adobeビジネスプラットフォームへの移行_ | テクニカルサポートエンジニアとの Q&amp;A で、Adobeビジネスプラットフォームの移行に向けて何を期待し、最適な準備方法を学びましょう。 | **4月23日8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League でその他の[今後のイベント](https://experienceleague.adobe.com/events/?lang=ja)を確認するか、[イベントの録画](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=ja)を参照してください。
 
@@ -91,7 +87,7 @@ Experience League でその他の[今後のイベント](https://experienceleagu
 
 ## ![アイコン](/assets/experience-league.png) アドビのコンテンツサプライチェーン {#content-supply-chain}
 
-[コンテンツサプライチェーン](https://business.adobe.com/solutions/adobe-genstudio.html)について説明します。生成 AI とインテリジェントな自動化により、コンテンツを高速化および簡素化するアドビのエンドツーエンドのソリューションです。
+について [コンテンツのサプライチェーン](https://business.adobe.com/solutions/adobe-genstudio.html)は、ジェネレーティブ AI とインテリジェント自動化により、コンテンツを高速化および簡素化するAdobeのエンドツーエンドソリューションです。
 
 +++詳細
 
@@ -718,9 +714,9 @@ Experience League で [!DNL Journey Orchestration] の最新のリリースノ�
 
 ### [!DNL Adobe Workfront] 更新
 
-* 詳しくは、 [Adobe Workfront製品リリース](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) Workfrontのリリーススケジュール情報およびリリースノートのページです。
+* を参照してください。 [Adobe Workfront製品のリリース](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) Workfrontのリリーススケジュール情報とリリースノートのページです。
 
-* 詳しくは、 [Adobe Workfront Fusion リリースアクティビティの概要](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity) を参照してください。
+* を参照してください。 [Adobe Workfront Fusion リリースアクティビティの概要](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity) を参照してください。
 
 ### Adobe [!DNL Workfront] の新しいコースとチュートリアル {#tutorials-workfront}
 
@@ -749,7 +745,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 {style="table-layout:auto"}
 -->
 
-最新の製品ドキュメントについて詳しくは、 [Adobe [!DNL Workfront] ドキュメントのホームページ](https://experienceleague.adobe.com/en/docs/workfront/using/home).
+最新の製品ドキュメントについては、 [Adobe [!DNL Workfront] ドキュメントのホームページ](https://experienceleague.adobe.com/en/docs/workfront/using/home).
 
 +++
 
