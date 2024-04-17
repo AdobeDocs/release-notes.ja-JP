@@ -6,10 +6,10 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e581a323e92bda30c755d7030c024edb06c6f6a1
+source-git-commit: 71091a1c41425c3fc5109753a96028aea1765388
 workflow-type: tm+mt
-source-wordcount: '5962'
-ht-degree: 95%
+source-wordcount: '5857'
+ht-degree: 96%
 
 ---
 
@@ -70,10 +70,6 @@ Experience League に関するエキサイティングなイベントについ�
 更新日 **2024 年 3 月 31 日（Pt）**
 
 +++詳細
-
-* **WORKFRONT** |お客様ワークショップ | _学習：Adobe Workfront 2024 年第 2 四半期リリースのまとめ_ |2024 年第 2 四半期リリースに含まれる最新の機能強化について、他のWorkfront システム管理者と共に確認します。 メリット、導入計画、変更の管理について説明します。 | **4月16日8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **MARKETO ENGAGE** |他のユーザーから学ぶ | _強力なワークフロー自動化のロック解除：Marketo Engage REST API の実用的なアプリケーション_ |リードの一括結合、UTM トラッキングプログラムの作成、ChatGPT を活用した送信時間の最適化など、REST API を使用してワークフローを合理化する実際のユースケースにインスピレーションを得ながらライブで参加しましょう。 | **4月17日8:00（PT）** | [登録](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
 
 * **WORKFRONT** |お客様ワークショップ | _学習：Adobe Workfrontの 10 のテキストモードに関するヒント_ | テキストモードでレポートの知識を広げたいですか？ これ以上は見るな。 このワークショップでは、テキストモードの基本と API エクスプローラーの概要を説明し、その後、Adobe Workfrontで 10 個のテキストモードのヒントを提供します。 | **4月18日午前 9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
