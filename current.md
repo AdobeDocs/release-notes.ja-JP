@@ -6,10 +6,10 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7832bcbd5c8454d0553578b76b7fec79fd1bd453
+source-git-commit: af76851090b09db9cc561e43f12ff735b0e992e8
 workflow-type: tm+mt
-source-wordcount: '6293'
-ht-degree: 52%
+source-wordcount: '6240'
+ht-degree: 54%
 
 ---
 
@@ -67,11 +67,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience League に関するイベント
 
-更新日：**2024年4月12日**
+更新日：**2024年4月19日**
 
 +++詳細
-
-* **WORKFRONT** |お客様ワークショップ | _学習：Adobe Workfrontの 10 のテキストモードに関するヒント_ | テキストモードでレポートの知識を広げたいですか？ これ以上は見るな。 このワークショップでは、テキストモードの基本と API エクスプローラーの概要を説明し、その後、Adobe Workfrontで 10 個のテキストモードのヒントを提供します。 | **4月18日午前 9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | コミュニティイベント | _Connect:Workfront Collective_ |仲間のWorkfront システム管理者と共に、この毎月開催される共同ブレーンストーミングおよびシェアリングセッションで、最新のアップデートとベストプラクティスについて話し合います。 | **4月22日6:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -291,7 +289,7 @@ Experience Manager の新機能、修正点および更新です。安定性、�
 
 * [Experience Manager リリースのアップデートとロードマップ](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/home) - Experience Manager リリースのロードマップ、以前のリリースのアップデート、ドキュメントのアップデートについて説明します。
 * [Experience Manager as a Cloud Service リリースのアップデート](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview) - [!DNL Experience Manager as a Cloud Service] の現在および過去のリリースにおける機能の概要に関するビデオをご覧ください。
-* [Adobe Experience Manager（AEM）as a Cloud Service の最新のリリースノート](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) - [!DNL Experience Manager as a Cloud Service] の最新リリースノートを参照してください。
+* [Adobe Experience Manager（AEM）as a Cloud Service の最新のリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) - [!DNL Experience Manager as a Cloud Service] の最新リリースノートを参照してください。
 
 <!-- ### Latest Release Overview video
 
@@ -416,7 +414,7 @@ _既知の問題_
 
 * [Experience Manager as a Cloud Service リリース情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/home)
 * [Experience Manager as a Cloud Service リリースアップデート](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
-* [Experience Manager as a Cloud Service の現在のリリースノート](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
+* [Experience Manager as a Cloud Service の現在のリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [Adobe Experience Manager as a Cloud Service リリース情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/home)
 * [Adobe Experience Manager Cloud Manager リリースノート](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [自動フォーム変換サービスリリースノート](https://experienceleague.adobe.com/en/docs/aem-forms-automated-conversion-service/using/release-notes)
@@ -444,12 +442,12 @@ Experience Manager 用に新しく公開されたビデオ、チュートリア�
 | 2024年4月 | AEM Assets | [アセットの書き出し](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/export) | ビデオ | カスタマイズ可能な Node.js スクリプトを使用してアセットをローカルマシンに書き出す方法を説明します。 |
 | 2024年4月 | AEM ヘッドレス | [AEM ヘッドレスでのコンテンツの保護](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/protected-content) | ビデオ | AEM パブリッシュから AEM ヘッドレスコンテンツを提供する際に、データの整合性とセキュリティを確保することは、機密性の高いコンテンツを提供する場合に重要です。 このチュートリアルでは、AEM ヘッドレス GraphQL API エンドポイントから提供されるコンテンツを保護する方法について説明します。 |
 | 2024年4月 | AEM CS | [AEM チャンピオンのベストプラクティスとヒント – 移行後](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/experience-manager/cloud-service/cloud-manager-best-practices/post-migration) | ビデオ | AEMのエキスパートである Wilson Faure 氏からの貴重なインサイトをご覧ください。 このビデオでは、移行後の重要な戦略と、移行を最適化するためのヒントを詳しく説明します。 移行後の数日および数週間で、何に焦点を当てるべきかを明確にします。 |
-| 2024年4月 | AEM Assets | [Cloud 5 - AEM Assets ドキュメントオーサリングの統合](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-integrate-assets) | ビデオ | AEM Assetsをドキュメントオーサリングと統合して、Edge Delivery Servicesで優れたエクスペリエンスを提供する方法について説明します。 |
-| 2024年4月 | AEM Sites | [Edge Delivery Servicesでバリエーションを生成](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations) | ビデオ | Edge Delivery Servicesのバリエーションを生成する概要と、マーケターにとって役立つ方法について説明します。 |
-| 2024年4月 | AEM Sites | [Edge Delivery Servicesでバリエーションを生成するためのSidekickの設定](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations-sidekick-config) | ビデオ | Edge Delivery Servicesドキュメントのオーサリングでバリエーションを生成するためのサイドキックの設定方法を確認します。 |
-| 2024年4月 | AEM Sites | [Edge Delivery Servicesの生成 AI プロンプトテンプレート](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/prompt-templates-for-content-variations) | ビデオ | コンテンツのバリエーションを生成するために、Edge Delivery Servicesドキュメントのオーサリングで生成 AI プロンプトテンプレートを使用する方法を調べます。 |
-| 2024年4月 | AEM Sites | [Edge Delivery Servicesの生成 AI カスタムプロンプトテンプレート](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/custom-prompt-templates) | ビデオ | コンテンツのバリエーションを生成するために、Edge Delivery Servicesドキュメントのオーサリングで生成 AI のカスタムプロンプトテンプレートを作成する方法を探索します。 |
-| 2024年4月 | AEM Sites | [生成 AI がEdge Delivery Servicesにカスタムプロンプトテンプレートを保存](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/save-custom-prompt-template) | ビデオ | コンテンツのバリエーションを生成するために、Edge Delivery Servicesドキュメントのオーサリングで生成 AI のカスタムプロンプトテンプレートを保存する方法を探索します。 |
+| 2024年4月 | AEM Assets | [Cloud 5 - AEM Assets ドキュメントオーサリングの統合](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-integrate-assets) | ビデオ | AEM Assets をドキュメントオーサリングと統合して、Edge Delivery Services で優れたエクスペリエンスを提供する方法について確認します。 |
+| 2024年4月 | AEM Sites | [Edge Delivery Servicesでバリエーションを生成](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations) | ビデオ | Edge Delivery Services でバリエーションを生成する概要と、それがマーケターにとってどのように役立つかを理解します。 |
+| 2024年4月 | AEM Sites | [Edge Delivery Servicesでバリエーションを生成するためのSidekickの設定](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations-sidekick-config) | ビデオ | Edge Delivery Services ドキュメントのオーサリングでバリエーションを生成するための Sidekick の設定方法を確認します。 |
+| 2024年4月 | AEM Sites | [Edge Delivery Servicesの生成 AI プロンプトテンプレート](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/prompt-templates-for-content-variations) | ビデオ | コンテンツのバリエーションを生成するために、Edge Delivery Services ドキュメントのオーサリングで生成 AI プロンプトテンプレートを使用する方法を確認します。 |
+| 2024年4月 | AEM Sites | [Edge Delivery Servicesの生成 AI カスタムプロンプトテンプレート](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/custom-prompt-templates) | ビデオ | コンテンツのバリエーションを生成するために、Edge Delivery Services ドキュメントのオーサリングで生成 AI のカスタムプロンプトテンプレートを作成する方法を確認します。 |
+| 2024年4月 | AEM Sites | [生成 AI がEdge Delivery Servicesにカスタムプロンプトテンプレートを保存](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/save-custom-prompt-template) | ビデオ | コンテンツのバリエーションを生成するために、Edge Delivery Services ドキュメントのオーサリングで生成 AI のカスタムプロンプトテンプレートを保存する方法を確認します。 |
 | 2024年3月 | AEM Forms | [AEM Forms Designer](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/forms-designer/design-view) | ビデオ | の新しい短いビデオを見る [!DNL Experience Manager Forms]. |
 | 2024年3月 | AEM CS | [AEM チャンピオンのベストプラクティスとヒント - AEM as a Cloud Service環境への移行に伴う一般的な課題への対処](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/experience-manager/cloud-service/cloud-manager-best-practices/migration-challenges) | ビデオ | AEMのエキスパートである Wilson Faure が共有する、貴重なインサイトとベストプラクティスをご覧ください。 このビデオでは、AEM as a Cloud Serviceへの移行中に発生する一般的な課題を詳しく説明し、スムーズに移行を成功させるための推奨事項と専門的なヒントを紹介します。 |
 | 2024年3月 | AEM Sites | [Cloud 5 – でのイベントの公開、非公開 [!DNL Edge Delivery Services]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-publish-events) | ビデオ | で、公開時にトリガーされるイベントと非公開になるイベントを探索します [!DNL Edge Delivery Services] これらのイベントの使用例や使用例と同様に、 |
@@ -492,13 +490,13 @@ Experience Manager 用に新しく公開されたビデオ、チュートリア�
 
 ### [!DNL Experience Manager] に関するその他のヘルプリソース
 
-* [Dynamic Media Classic ヘルプホーム](https://experienceleague.adobe.com/en/docs/dynamic-media-classic/using/home)
+* [Dynamic Media Classic ヘルプホーム](https://experienceleague.adobe.com/ja/docs/dynamic-media-classic/using/home)
 * [Adobe Experience Manager as a Cloud Service に関するガイド](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/overview/introduction)
 * [Cloud Manager ユーザーガイド](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/introduction)
 * [Adobe Experience Manager 6.5 のラーニングとサポートのホーム](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/deploying/introduction/platform)
-* [Adobe Experience Manager 6.4 のラーニングとサポートのホーム](https://experienceleague.adobe.com/en/docs/experience-manager-64)
+* [Adobe Experience Manager 6.4 のラーニングとサポートのホーム](https://experienceleague.adobe.com/ja/docs/experience-manager-64)
 * [Adobe Experience Manager ドキュメント：最近の更新](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates)
-* [Adobe Experience Manager ドキュメントの以前のバージョン](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
+* [Adobe Experience Manager ドキュメントの以前のバージョン](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
 
 +++
 
