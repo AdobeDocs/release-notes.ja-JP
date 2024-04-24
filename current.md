@@ -6,10 +6,10 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: af76851090b09db9cc561e43f12ff735b0e992e8
+source-git-commit: d650848e6b2726166669a50d03f73cd1d6db5630
 workflow-type: tm+mt
-source-wordcount: '6240'
-ht-degree: 54%
+source-wordcount: '6106'
+ht-degree: 55%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 54%
 
 ## 2024年4月
 
-最終更新日：**2024年4月17日（PT）**
+最終更新日：**2024年4月24日（PT）**
 
 * [[!DNL Experience League] のイベントと最新情報](#events)
 * [アドビでの認定](#certification)
@@ -70,13 +70,6 @@ Experience League に関するエキサイティングなイベントについ�
 更新日：**2024年4月19日**
 
 +++詳細
-
-* **WORKFRONT** | コミュニティイベント | _Connect:Workfront Collective_ |仲間のWorkfront システム管理者と共に、この毎月開催される共同ブレーンストーミングおよびシェアリングセッションで、最新のアップデートとベストプラクティスについて話し合います。 | **4月22日6:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Q&amp;A チャット | _質問：Adobeビジネスプラットフォームへの移行_ | テクニカルサポートエンジニアとの Q&amp;A で、Adobeビジネスプラットフォームの移行に向けて何を期待し、最適な準備方法を学びましょう。 | **4月23日8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-
-* **WORKFRONT** |他のユーザーから学ぶ | _システム管理業務のスタッフ配置_ | Workfrontをサポートするために必要な管理者の数 場合によります。 4 月 25 日（PT）にご参加いただき、デルおよびAdobeの同僚から、適切な管理者を今日採用することで、コストのかかるミスを回避する方法についてお聞きください。 | **4月23日8:00（PT）** | [登録](https://webinars.on24.com/adobe_workfront/AdoptionStaffingAdmin?partnerref=exl)
 
 * **WORKFRONT** | エキスパートに質問：Fusion の運用 | _システム管理業務のスタッフ配置_ | エキスパートの Andy Hess が、Adobe Workfront Fusion の運用について、その定量化方法や、シナリオでの使用を最適化するためのヒントやテクニックなどについて説明します。 | **4月30日10:30（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
