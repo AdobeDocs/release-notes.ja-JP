@@ -6,10 +6,10 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d650848e6b2726166669a50d03f73cd1d6db5630
+source-git-commit: 3f72ee17f088aa775dd54e62937f4e3ca3333eb4
 workflow-type: tm+mt
-source-wordcount: '6106'
-ht-degree: 100%
+source-wordcount: '6189'
+ht-degree: 98%
 
 ---
 
@@ -74,6 +74,10 @@ Experience League に関するエキサイティングなイベントについ�
 * **Workfront** | エキスパートに質問：Fusion の運用 | _システム管理業務のスタッフ配置_ | Adobe Workfront Fusion の運用について、その定量化方法、シナリオでの使用を最適化するためのヒントやテクニックなどを、エキスパートの Andy Hess が説明します。| **4月30日午前 10:30（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Journey Optimizer** | コーヒーブレーク | _Adobe Journey Optimizer コミュニティ Q＆A コーヒーブレーク_ | Adobe Journey Optimizer のエキスパートと共に、Journey Optimizer の新しいコードベースのエクスペリエンスチャネルに関する質問やチャットをお楽しみください。| **5月8日午前 8:00（PT）** | [登録](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816)
+
+* **COMMERCE** | ウェビナー | _Commerceとコーヒー：E コマースの基本事項の習得_ | シニアCommerce戦略コンサルタントの Corey Gelato が、パーソナライズされたカスタマープロモーション、ロイヤルティプログラム、最適化された支払いと配送プロセスなど、成功のための e コマースの基本事項を説明します。 | **5月2日10:00（PT）** | [登録](https://adobeevents.adobeconnect.com/ewpnh2ilj4ee/event/registration.html?campaign-id=ExL)
+
+* **COMMERCE** |お客様ワークショップ | _Admin 101: Getting Users to Use Workfront_ |Workfrontに行きますか。 Admin 101 の毎月のミートアップに参加して、質問をしたり、リソースを得たり、ベストプラクティスを学んだり、他の新しい管理者と会ったりします。 今月は、ユーザーの採用について話し合います。 | **5月8日午前 8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League で[今後のイベント](https://experienceleague.adobe.com/events/)を確認するか、[イベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を参照してください。
 
