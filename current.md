@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3f72ee17f088aa775dd54e62937f4e3ca3333eb4
+source-git-commit: 6859f12eeda24987eba695b25bac8b1b98f7b96d
 workflow-type: tm+mt
-source-wordcount: '6189'
+source-wordcount: '6236'
 ht-degree: 98%
 
 ---
@@ -67,7 +67,7 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience League に関するイベント
 
-更新日：**2024年4月19日（PT）**
+更新日：**2024年4月26日（PT）**
 
 +++詳細
 
@@ -77,7 +77,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 * **COMMERCE** | ウェビナー | _Commerceとコーヒー：E コマースの基本事項の習得_ | シニアCommerce戦略コンサルタントの Corey Gelato が、パーソナライズされたカスタマープロモーション、ロイヤルティプログラム、最適化された支払いと配送プロセスなど、成功のための e コマースの基本事項を説明します。 | **5月2日10:00（PT）** | [登録](https://adobeevents.adobeconnect.com/ewpnh2ilj4ee/event/registration.html?campaign-id=ExL)
 
-* **COMMERCE** |お客様ワークショップ | _Admin 101: Getting Users to Use Workfront_ |Workfrontに行きますか。 Admin 101 の毎月のミートアップに参加して、質問をしたり、リソースを得たり、ベストプラクティスを学んだり、他の新しい管理者と会ったりします。 今月は、ユーザーの採用について話し合います。 | **5月8日午前 8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** |お客様ワークショップ | _Admin 101: Getting Users to Use Workfront_ | Workfrontを初めて使用する場合 Admin 101 の毎月のミートアップに参加して、質問をしたり、リソースを得たり、ベストプラクティスを学んだり、他の新しい管理者と会ったりします。 今月は、ユーザーの採用について話し合います。 | **5月8日午前 8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | コミュニティイベント | _Workfront産業界サークル：高等教育_ | Workfrontの高等教育機関のお客様で、集団的な問題解決や他の管理者との学習内容の共有に関心がある場合は、WGU と協力して 1 時間のオープンディスカッションに参加してください。 | **5月9日午前 8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,jHukwQBRqkKZAQQmjDUyUg,MMnd2IdMvUmPnHLRw6PKLg,Cp-GtpugCkeOq3zdsIZDsQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League で[今後のイベント](https://experienceleague.adobe.com/events/)を確認するか、[イベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を参照してください。
 
