@@ -6,9 +6,9 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce21e4ccca04ec63195b8e522d1c9195723261ef
+source-git-commit: 850bd90d2ecf012068c90278c10958e119fc7438
 workflow-type: tm+mt
-source-wordcount: '6236'
+source-wordcount: '6188'
 ht-degree: 98%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 98%
 
 ## 2024年4月
 
-最終更新日：**2024年4月24日（PT）**
+最終更新日：**2024年5月1日（PT）**
 
 * [[!DNL Experience League] のイベントと最新情報](#events)
 * [アドビでの認定](#certification)
@@ -67,11 +67,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience League に関するイベント
 
-更新日：**2024年4月30日（PT）**
+更新日：**2024年5月1日（PT）**
 
 +++詳細
-
-* **Workfront** | エキスパートに質問：Fusion の運用 | _システム管理業務のスタッフ配置_ | Adobe Workfront Fusion の運用について、その定量化方法、シナリオでの使用を最適化するためのヒントやテクニックなどを、エキスパートの Andy Hess が説明します。| **4月30日午前 10:30（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Journey Optimizer** | コーヒーブレーク | _Adobe Journey Optimizer コミュニティ Q＆A コーヒーブレーク_ | Adobe Journey Optimizer のエキスパートと共に、Journey Optimizer の新しいコードベースのエクスペリエンスチャネルに関する質問やチャットをお楽しみください。| **5月8日午前 8:00（PT）** | [登録](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816)
 
