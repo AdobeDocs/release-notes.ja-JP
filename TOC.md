@@ -5,9 +5,9 @@ user-guide-title: Adobe Experience Cloud リリースノート
 breadcrumb-title: リリースノート
 user-guide-description: Adobe Experience Cloud および Experience Platform の新機能、修正点、重要な注意事項について説明します。
 user-guide-url: https://www.adobe.com
-source-git-commit: 7e82418bb44ee63eee79edb7eed1f8b9c15e8131
-workflow-type: ht
-source-wordcount: '91'
+source-git-commit: f4dd8ae6c05681828d6fd1d54bb816fd7c8fa0e5
+workflow-type: tm+mt
+source-wordcount: '93'
 ht-degree: 100%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 100%
 + [最新のリリースノート](current.md)
 + 以前のリリースノート {#previous}
    + 2024年 {#2024}
+      + [2024年4月](c-legacy-releases/2024/04172024.md)
       + [2024年3月](c-legacy-releases/2024/03132024.md)
       + [2024年2月](c-legacy-releases/2024/02142024.md)
       + [2024年1月](c-legacy-releases/2024/01112024.md)
