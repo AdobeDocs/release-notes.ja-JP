@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 57bfa1093269549f16f34757ee9e083472098800
+source-git-commit: 776ff803675808b4695782c2fef15858a555bbae
 workflow-type: tm+mt
-source-wordcount: '6445'
+source-wordcount: '6449'
 ht-degree: 54%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 54%
 
 ## 2024年5月
 
-最終更新日：**2024年5月15日（PT）**
+最終更新日：**2024年5月16日（PT）**
 
 * [[!DNL Experience League] のイベントと最新情報](#events)
 * [アドビでの認定](#certification)
@@ -228,7 +228,7 @@ Experience League に関する [!DNL Real-Time Customer Data Platform] の最新
 
 [!DNL Analytics] リリース日： **2024 年 5 月 15 日（Pt）**
 
-* [!DNL Analytics] [リリースノート](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=ja)
+* [!DNL Analytics] [リリースノート](https://experienceleague.adobe.com/ja/docs/analytics/release-notes/latest)
 
 * [!DNL Analytics] [製品ドキュメントとチュートリアル](https://experienceleague.adobe.com/ja/docs/analytics)
 
@@ -466,10 +466,10 @@ Experience Manager 用に新しく公開されたビデオ、チュートリア�
 | 2024年5月 | [!DNL AEM Sites] | [バリエーションの生成 – Edge Delivery Servicesでテンプレートを促す](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/prompt-templates) | ビデオ | Edge Delivery ドキュメントオーサリングで生成 AI プロンプトテンプレートを使用してコンテンツのバリエーションを生成する方法を説明します。 |
 | 2024年5月 | [!DNL AEM Sites] | [バリエーションの生成 – Edge Delivery Servicesのカスタムプロンプトテンプレート](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/custom-prompt-templates) | ビデオ | Edge Delivery Servicesドキュメントのオーサリングでバリエーションを生成するためのカスタムプロンプトテンプレートを作成する方法を説明します。 |
 | 2024年5月 | [!DNL AEM Sites] | [バリエーションの生成 – Edge Delivery Servicesーにカスタムプロンプトテンプレートを保存する](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/save-custom-prompt-template) | ビデオ | Edge Delivery ドキュメントオーサリングで、コンテンツのバリエーションを生成するための生成 AI カスタムプロンプトテンプレートを保存する方法を説明します。 |
-| 2024年5月 | [!DNL AEM Sites] | [Edge Delivery の「バリエーションを生成」機能のサイドキックを設定する方法](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations-sidekick-config.html?lang=en) | ビデオ | Edge Delivery ドキュメントオーサリングの「バリエーションを生成」機能のサイドキックを設定する方法を説明します。 |
+| 2024年5月 | [!DNL AEM Sites] | [Edge Delivery の「バリエーションを生成」機能のサイドキックを設定する方法](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/configure-sidekick) | ビデオ | Edge Delivery ドキュメントオーサリングの「バリエーションを生成」機能のサイドキックを設定する方法を説明します。 |
 | 2024年5月 | [!DNL AEM Assets] | [アセットの書き出し](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/sharing/export) | 記事 | カスタマイズ可能なを使用して、アセットをローカルマシンに書き出す方法を説明します `Node.js` スクリプト。 このエクスポートスクリプトは、を使用してAEMからアセットをプログラムでダウンロードする方法の例を提供します。 [!DNL AEM Assets] HTTP API （特にオリジナルレンディションに焦点を当てて、最高の品質を確保します）。 |
 | 2024年5月 | [!DNL AEM Forms] | [GuideBridge API を使用したフォームデータのPOST化](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/core-component-based-forms/submit-data-using-guidebridge-api) | 記事 | 使用方法 [!UICONTROL 保存して再開] フォームを保存して、後でフォームの入力と再開する場合 |
-| 2024年5月 | [!DNL AEM Sites] | [での生成 AI [!DNL AEM Sites]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-generative-ai-for-aem-sites.html) | ビデオ | で利用できる新しいジェネレーティブ AI 機能を探索する [!DNL AEM Sites] ドキュメントのオーサリング。 |
+| 2024年5月 | [!DNL AEM Sites] | [での生成 AI [!DNL AEM Sites]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-generative-ai-for-aem-sites) | ビデオ | で利用できる新しいジェネレーティブ AI 機能を探索する [!DNL AEM Sites] ドキュメントのオーサリング。 |
 | 2024年5月 | [!DNL AEM Forms] | [ChatBot を使用してPDFフォームに入力する](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/chatbot-and-aem-forms/introduction) | ビデオ | Chatbot を使用してPDFフォームに入力する方法を説明します。 |
 | 2024年5月 | AEM ヘッドレス | [AEM ヘッドレスでのコンテンツの保護](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/protected-content) | 記事 | AEM ヘッドレスでコンテンツを保護する方法について説明します。 |
 | 2024年5月 | AEM CS | [高度なネットワーク機能](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/networking/advanced-networking) | 記事 | AEM as a Cloud Service の高度なネットワークオプションについて説明します。 |
@@ -497,7 +497,7 @@ Experience Manager 用に新しく公開されたビデオ、チュートリア�
 | 2024年4月 | [[!DNL Marcom]  – 日別メンテナンスでリビジョンクリーンアップが表示されない –  [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24037) | 新しい記事 | の表示について説明します [!UICONTROL リビジョンのクリーンアップ] でのタスク [!DNL Adobe Experience Manager (AEM)] の下の UI [!UICONTROL 日別メンテナンス]（特に、へのアップグレード後） [!DNL SP17]を参照し、の管理に関するインサイトを提供します  [!UICONTROL リビジョンのガベージコレクション] 使用時 [!DNL MongoDB] データストアとして使用する。 |
 | 2024年4月 | [によるフルテキスト検索を無効にする [!DNL mime] カスタムで入力 [!DNL Tika] での設定 [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24046) | 新しい記事 | をカスタマイズする方法を説明します [!DNL Tika] ファイルに基づいた全文検索を無効にする設定 [!DNL mime] タイプ。 |
 | 2024年4月 | [[!DNL Scene7]：ポスターフレームまたはビデオサムネールを選択します](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24053) | 新しい記事 | で特定のビデオサムネールまたはポスター画像を指定する方法について説明します [!DNL Adobe Experience Manager (AEM)] ～の文脈で [!DNL Scene7]現在の名称： **[!DNL Dynamic Media]**. |
-| 2024年4月 | [追加方法 `stricthostcheck` 。対象： [!DNL AEMaaCS] dispatcher 設定](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24069) | 新しい記事 | 追加方法を学ぶ `stricthostcheck` 。対象： [!DNL AEMaaCS] dispatcher 設定。 |
+| 2024年4月 | [追加方法 `stricthostcheck` 。対象： [!DNL AEMaaCS] Dispatcher 設定](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24069) | 新しい記事 | 追加方法を学ぶ `stricthostcheck` 。対象： [!DNL AEMaaCS] Dispatcher 設定。 |
 | 2024年4月 | [[!DNL Adobe Experience Manager]：表示できません [!DNL Java] ソース [!DNL JSP/HTL] 未満 `/libs`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24079) | 新しい記事 | を表示する方法を学ぶ [!DNL Java] ソース [!DNL JSP/HTL] 未満 `/libs` を無効にする [!DNL Adobe Experience Manager as a Cloud Service's aem-precompiled-scripts] バンドル。 |
 | 2024年4月 | [[!DNL Adobe Experience Manager]：の最初の調査手順 `No renderer for extension html`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24080) | 新しい記事 | エラーメッセージの原因について説明します。 `No renderer for extension html`で web ページを開こうとしたときに発生しました [!DNL Adobe Experience Manager]. |
 | 2024年4月 | [パージ [!DNL Fastly CDN] を使用する場合のキャッシュ [!DNL WAF] または [!DNL BYOCDN]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24097) | 新しい記事 | のキャッシュのパージを設定する方法について説明します [!DNL AEM as a Cloud Service] を使用する場合 [!DNL Web Application Firewall (WAF)] またはカスタム [!DNL CDN] 解決策（[!DNL BYOCDN]）に設定します。 これらの複雑な設定の操作方法を理解することは、効率的なコンテンツ配信を維持するために重要です。 |
@@ -659,7 +659,7 @@ Adobe [!DNL Journey Optimizer] 向けに新しく公開されたビデオ、チ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2024年5月 | [アクションの作成](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/create-actions.html) | ビデオ | アクションの概要、でのプロファイルとジャンプの編集アクションの使用方法について説明します [!DNL Journey Optimizer]およびカスタムアクションの設定方法。 |
+| 2024年5月 | [アクションの作成](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/create-actions) | ビデオ | アクションの概要、でのプロファイルとジャンプの編集アクションの使用方法について説明します [!DNL Journey Optimizer]およびカスタムアクションの設定方法。 |
 | 2024年5月 | [メッセージエディターによる HTML メールコンテンツの取り込みと作成](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content) | ビデオ | 既存の HTML コンテンツの読み込み、デザインの調整、ミラーページと購読解除リンクの追加およびコンテンツのコーディング方法について説明します。 |
 | 2024年5月 | [MMS API 資格情報とチャネルサーフェスの設定](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/configure-mms-api-credentials-and-channel-surfaces) | ビデオ | 接続方法を学ぶ [!DNL Journey Optimizer] を MMS サービスプロバイダーに送信し、MMS チャネルサーフェスの作成方法を説明します。 |
 | 2024年5月 | [コードベースのエクスペリエンスキャンペーンを作成](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/code-based-experience-channel/create-a-code-based-experience-campaign) | ビデオ | 開発環境とシームレスに統合するためのサーバーサイド、API ベース、SDK ベースの実装方法のサポートを利用してパーソナライゼーションを拡張する、コードベースのエクスペリエンスキャンペーンを作成する方法について説明します。 |
