@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3bfd6c90c7d3113f95e46b8f355cb581835b3242
+source-git-commit: 45296141bb022d720f3d50d1dfe282224bde72d1
 workflow-type: tm+mt
-source-wordcount: '6457'
+source-wordcount: '6546'
 ht-degree: 54%
 
 ---
@@ -67,7 +67,7 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience League に関するイベント
 
-更新日：**2024年5月15日（PT）**
+更新日：**2024年5月17日（PT）**
 
 +++詳細
 
@@ -76,6 +76,10 @@ Experience League に関するエキサイティングなイベントについ�
 * **WORKFRONT** | コミュニティイベント | _Adobe Workfrontの業界サークル：小売_ | Workfrontの小売分野のお客様で、集団的な問題解決に関心があり、他の管理者との学習内容の共有に興味がある場合は、DSW および Nordstrom の管理者を中心とする 1 時間のオープンディスカッションにご参加ください。 | **5月23日11:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | コーヒーブレーク | _Adobe Workfront コミュニティ Q&amp;A コーヒーブレーク：Adobeビジネスプラットフォームの移行_ | コミュニティのWorkfrontのエキスパートと共に、Adobeビジネスプラットフォーム、組織のAdobe Admin Consoleへの移行などについて質問しましょう。 | **5月29日午前 8:00（PT）** | [登録](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
+
+* **WORKFRONT** | ウェビナー | _Workfrontで目を覚ます。環境の最適化とメンテナンス_ | Adobeのビジネスアドバイザーが、クリーンアップやトレーニングの戦略、導入計画、継続的な改善策などを通じて、Adobe Workfrontの作業管理環境を最適化するためのインサイトを共有します。 | **6 月 6 日午後 1:00 ET** | [登録](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
+
+* **Workfront** | コミュニティイベント | _つながる：マーケティング＆クリエイティブ向け管理チャット_ | マーケティングチームやクリエイティブチームのシステム管理者の場合このお客様主導のセッションでは、他の管理者と交流し、ベストプラクティスやヒントとコツについて話し合います。| **6 月 7 日午前 9:00 PT** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 さらに表示 [今後のイベント](https://experienceleague.adobe.com/events/) または参照 [過去のイベント録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview) Experience League上。
 
