@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 776ff803675808b4695782c2fef15858a555bbae
+source-git-commit: 3bfd6c90c7d3113f95e46b8f355cb581835b3242
 workflow-type: tm+mt
-source-wordcount: '6449'
+source-wordcount: '6457'
 ht-degree: 54%
 
 ---
@@ -71,7 +71,7 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **WORKFRONT** | Q&amp;A チャット | _エキスパートに質問：管理業務のスタッフ配置 – ウェビナーのフォローアップ_ |お客様の同僚やデルとAdobeの専門家と共に、ウェビナーのフォローアップイベントに参加して、お客様の管理業務のスタッフ配置に関する話し合いを続けてください。 | **5月16日午前 8:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,GXUvIFWKiEanOME_WMN1Hw,BMP5cgCS5UOxsAdDHNDUyw,RoMIPwb8AkKNMLe_k5S2ww?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **REAL-TIME CUSTOMER DATA PLATFORMと TARGET** | ウェビナー | _完璧なブレンド：RTCDP、Target、Friends_ | シニアソリューションコンサルタントの Josh Kimball 氏が、RTCDP がクロスチャネルデータを顧客プロファイルに統合し、Adobe Targetにシームレスに接続して、これらのセグメントに対してパーソナライズされた戦略をアクティブ化する方法を説明します。 | **5 月 23 日午前 1:00 （東部標準時）** | [登録](https://adobeevents.adobeconnect.com/ev550gaxnx7r/event/registration.html?campaign-id=ExL)
 
 * **WORKFRONT** | コミュニティイベント | _Adobe Workfrontの業界サークル：小売_ | Workfrontの小売分野のお客様で、集団的な問題解決に関心があり、他の管理者との学習内容の共有に興味がある場合は、DSW および Nordstrom の管理者を中心とする 1 時間のオープンディスカッションにご参加ください。 | **5月23日11:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
