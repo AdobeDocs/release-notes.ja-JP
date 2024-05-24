@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 45296141bb022d720f3d50d1dfe282224bde72d1
+source-git-commit: 5c27e02cd941862486885944c1e74838a10ac3f9
 workflow-type: tm+mt
-source-wordcount: '6546'
-ht-degree: 94%
+source-wordcount: '6446'
+ht-degree: 95%
 
 ---
 
@@ -67,13 +67,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience League に関するイベント
 
-更新日：**2024年5月17日（PT）**
+更新日：**2024年5月24日（PT）**
 
 +++詳細
-
-* **REAL-TIME CUSTOMER DATA PLATFORMと TARGET** | ウェビナー | _完璧なブレンド：RTCDP、Target、Friends_ | シニアソリューションコンサルタントの Josh Kimball 氏が、RTCDP がクロスチャネルデータを顧客プロファイルに統合し、Adobe Targetにシームレスに接続して、これらのセグメントに対してパーソナライズされた戦略をアクティブ化する方法を説明します。 | **5 月 23 日午前 1:00 （東部標準時）** | [登録](https://adobeevents.adobeconnect.com/ev550gaxnx7r/event/registration.html?campaign-id=ExL)
-
-* **WORKFRONT** | コミュニティイベント | _Adobe Workfront の業界サークル：小売_ | Workfront の小売のお客様で、集団的な問題解決や、他の管理者との学習内容の共有に興味がある場合は、DSW と Nordstrom の管理者を中心とする 1 時間のオープンディスカッションにご参加ください。| **5月23日11:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | コーヒーブレーク | _Adobe Workfront コミュニティ Q＆A コーヒーブレーク：Adobe Business Platform への移行_ | コミュニティの Workfront のエキスパートと共に参加して、Adobe Business Platform、組織の Adobe Admin Console への移行などについて質問しましょう。| **5月29日午前 8:00（PT）** | [登録](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763?profile.language=ja)
 
