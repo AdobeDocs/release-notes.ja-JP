@@ -6,7 +6,7 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 44a28ba76ef778ff8b609b836f7cde6a8ad265e7
+source-git-commit: 7aac2cd48bd037c3f860328e3418d7af6ad58d7d
 workflow-type: tm+mt
 source-wordcount: '4917'
 ht-degree: 99%
@@ -290,8 +290,9 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 |March 2024|[Add forecasting to your visualization](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/forecasting)|Video |Learn how to add forecasting numbers to your time series visualization in Customer Journey Analytics.|
 
 {style="table-layout:auto"}
+ -->
 
-+++ -->
++++
 
 ## ![アイコン](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
