@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5c27e02cd941862486885944c1e74838a10ac3f9
+source-git-commit: 44a28ba76ef778ff8b609b836f7cde6a8ad265e7
 workflow-type: tm+mt
-source-wordcount: '6446'
-ht-degree: 100%
+source-wordcount: '4917'
+ht-degree: 99%
 
 ---
 
@@ -311,149 +311,19 @@ Experience Manager の新機能、修正点および更新です。安定性、�
 
 +++詳細
 
-### [!DNL Experience Manager] のロードマップとリリースビデオ
-
-アドビでは、次のリソースにアクセスして最新のリリース情報を常に確認することをお勧めします。
-
-* [Experience Manager リリースのアップデートとロードマップ](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/home) - Experience Manager リリースのロードマップ、以前のリリースのアップデート、ドキュメントのアップデートについて説明します。
-* [Experience Manager as a Cloud Service リリースのアップデート](https://experienceleague.adobe.com/ja/docs/events/aemcs-release-update-recordings/overview) - [!DNL Experience Manager as a Cloud Service] の現在および過去のリリースにおける機能の概要に関するビデオをご覧ください。
-* [Adobe Experience Manager（AEM）as a Cloud Service の最新のリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) - [!DNL Experience Manager as a Cloud Service] の最新リリースノートを参照してください。
-
-<!-- ### Latest Release Overview video
-
-Watch the [November 2023 Release Overview video](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/2023/2023-11-0.html?lang=en) for a summary of the features added in the 2023.11.0 (November 2023) release. -->
-
-### [!DNL Experience Manager Sites] as a [!DNL Cloud Service]
-
-_[!DNL AEM Sites]_ での Extension Manager
-
-新しい [ [!DNL AEM Sites] の Extension Manager](https://developer.adobe.com/uix/docs/extension-manager/) を探索して、UI 拡張機能を設定して AEM 設定をパーソナライズします。
-
-[!DNL AEM Sites] での Extension Manager を使用すると、開発者や実務担当者は、[!DNL AEM Sites] の機能を強化するために [Adobe App Builder](https://developer.adobe.com/app-builder/) で作成された [UI 拡張機能](https://developer.adobe.com/uix/docs/)にアクセスしたり、このような拡張機能を管理およびカスタマイズしたりできます。
-
-Extension Manager を使用すると、次のことを実行できます。
-
-* インスタンスごとに拡張機能を有効または無効にする
-* 拡張機能パラメーターの設定
-* 拡張機能のプレビューと、共有可能なプレビューリンクの生成
-* インタラクティブなデモを通じて UI 拡張機能を確認する
-* ファーストパーティの拡張機能を使用してアドビの実験的な機能にアクセスする。
-
-アドビでは、UI 拡張機能に関するフィードバックや新しいユースケースを積極的に求めています。連絡を希望される場合は、[uix@adobe.com](mailto:uix@adobe.com) までメールを送信してください。
-
-### [!DNL Experience Manager Assets] as a [!DNL Cloud Service]
-
-_管理ビューのプレリリース機能_
-
-* **サポートされているすべてのビデオタイプのプレビューレンディション**：Experience Manager Assets では、処理プロファイル設定を行わなくても、サポートされているすべてのビデオタイプのプレビューレンディションをデフォルトで生成するようになりました。
-
-_アセットビュー_
-
-* **[!UICONTROL スマートタグ]のブロックリスト**：Assets Essentials では、アセットをリポジトリにアップロードする際に、[!UICONTROL スマートタグ]として追加したくない単語で構成されるブロックリストを作成します。この機能は、ブランドのコンプライアンスを保持し、スマートタグのモデレートにかかる作業を軽減するのに役立ちます。
-
-### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
-
-_早期導入プログラム_
-
-* **[Adobe Workfront Fusion シナリオへのアダプティブフォームの送信](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/forms/integrate/services/submit-adaptive-form-to-workfront-fusion)** - Forms as a Cloud Service には、アダプティブフォームを Adobe Workfront に簡単に接続するための標準オプションが用意されています。これにより、Adobe Workfront シナリオにアダプティブフォームを送信するプロセスが簡単になり、アダプティブフォームの送信時に Workfront Fusion シナリオをトリガーできます。
-
-* **[右横書き言語のサポート](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/supporting-new-language-localization-core-components)** - コアコンポーネントに基づいて作成されたアダプティブフォームを、アラビア語、ペルシア語、ウルドゥー語などの右横書き（RTL）言語で表示できるようになりました。RTL 言語は、世界中で 20 億人以上によって使用されています。RTL 言語のフォームを使用すると、アダプティブフォームのリーチを拡大して、これらの多様なオーディエンスに対応し、RTL マーケットを選択できます。特定の地域では、現地語でフォームを提供することが法的に義務付けられています。現地の言語に対応することで、より幅広いオーディエンスに扉を開くだけでなく、関連する法律や規制を確実に遵守できます。
-
-* **[DocAssurance API（通信 API の一部）を使用したドキュメントの保護](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications-introduction)** - DocAssurance API を使用すると、ドキュメントに署名して暗号化することで機密情報を保護できます。暗号化により、ドキュメントの内容は判読できない形式に変換され、許可されたユーザーのみがアクセスできるようになります。この強化された保護層は、貴重なデータを不正な目から守るだけでなく、安心感ももたらします。Signature API を使用して、組織は配布する PDF ドキュメントおよび受信する Adobe PDF ドキュメントのセキュリティとプライバシーを保護できます。このサービスでは、デジタル署名と証明書を使用して、意図された受信者のみがドキュメントを変更できるようにします。
-
-早期導入プログラムに参加し、機能へのアクセスをリクエストするには、ご自身の公式メール ID から [aem-forms-early-adopter-program@adobe.com](mailto:aem-forms-early-adopter-program@adobe.com) にメールを送信してください。
-
-### [!DNL Experience Manager] as a [!DNL Cloud Service Foundation]
-
-* **Dynatrace を使用するお客様が AEM の使用状況を監視できる** - Dynaterace 環境との接続をリクエストしてアプリケーションのパフォーマンスを監視する[方法を説明](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/dynatrace)します。Dynatrace が有効になっている場合、すべてのお客様が利用できる New Relic APM は、データの収集を停止します。
-
-* **サイトテーマとサイトテンプレートを使用したフロントエンドコードの RDE サポート** - [迅速な開発環境（RDE）](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments)では、[サイトテーマ](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/sites/administering/site-creation/site-themes)と[サイトテンプレート](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/sites/administering/site-creation/site-templates)に基づくフロントエンドコードを早期導入者向けにサポートするようになりました。RDE では、[フロントエンドパイプライン](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/sites/administering/site-creation/enable-front-end-pipeline)ではなくコマンドラインディレクティブを使用して行われます。これを試してフィードバックを提供する場合は、[aemcs-rde-support@adobe.com](mailto:aemcs-rde-support@adobe.com) 宛てにメールを送信してください。
-
-### [!DNL Cloud Manager]
-
-_新機能_
-
-* Cloud Manager は、メイン[証明書](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-ssl-certificates/introduction)だけでなく、中間証明書の有効期限も検証するようになりました。
-* CDN [ログ](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-logs)は、圧縮形式で返されるようになりました。
-
-_早期導入プログラム_
-
-今後の機能をテストする機会を得るには、アドビの早期導入プログラムに参加してください。
-
-* **リアルユーザーモニタリング（RUM）を使用したクライアントサイド収集** - [リアルユーザーモニタリング（RUM）データサービス](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/content-requests)を使用して、AEM as a Cloud Service のクライアントサイド収集を有効にすることができます。
-
-  リアルユーザーモニタリング（RUM）データサービスは、ユーザーインタラクションをより正確に反映し、高い信頼性で web サイトのエンゲージメントを測定できるようにします。ページのパフォーマンスに関する高度なインサイトを得る、絶好の機会です。これは、アドビ管理の CDN またはアドビ管理以外の CDN を使用するお客様にとって有益です。アドビ管理以外の CDN を使用しているお客様は、自動トラフィックレポートを有効にできるようになり、トラフィックレポートをアドビと共有する必要がなくなりました。
-
-  この新機能をテストしてフィードバックを共有することに興味がある場合は、お使いの Adobe ID に関連付けられているメールアドレスから [aemcs-rum-adopter@adobe.com](mailto:aemcs-rum-adopter@adobe.com) 宛てにメールを送信してください。メールには実稼動環境、ステージング環境、開発環境のドメイン名を記載してください。この機能の早期導入プログラムの利用は制限されています。
-
-* **独自の GitHub を使用可能** - GitHub を使用してリポジトリを管理している場合は、[Cloud Manager を通じて GitHub リポジトリ内でコードを直接検証できるようになりました](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/managing-code/byo-github)。この統合により、コードをアドビのリポジトリと一貫して同期する必要がなくなり、プルリクエストをメインブランチに結合する前に検証できるようになります。
-
-  この新機能をテストしてフィードバックを共有することに興味がある場合は、お使いの Adobe ID に関連付けられているメールアドレスから [Grp-CloudManager_BYOG@adobe.com](mailto:Grp-CloudManager_BYOG@adobe.com) 宛てにメールを送信してください。
-
-* **セルフサービスのコンテンツ復元** - [新しいセルフサービスのコンテンツ復元機能](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/operations/restore)では、最大 7 日間のバックアップ復元が提供され、早期導入者は以下の機能を評価目的で使用できます。
-
-   * 過去 24 時間のポイントインタイムバックアップの復元。
-   * 最大 7 日間の固定時間の復元。
-
-  この新機能のテストとフィードバックの共有に関心がある場合は、お使いの Adobe ID に関連付けられているメールアドレスから [aemcs-restorefrombackup-adopter@adobe.com](mailto:aemcs-restorefrombackup-adopter@adobe.com) 宛てにメールを送信してください。
-
-   * 早期導入プログラムは開発環境にのみ制限されています。
-   * この機能の早期導入プログラムの利用は制限されています。
-   * この機能は、誤って削除したコンテンツを回復するためのものであり、災害復旧を目的としたものではありません。
-
-* **エクスペリエンス監査ダッシュボード** - [Cloud Manager エクスペリエンス監査ダッシュボード](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard)には、ページのパフォーマンススコアのトレンド表示と、スコアの改善に役立つインサイトおよびレコメンデーションが含まれています。エクスペリエンス監査は、Cloud Manager 実稼動パイプラインのステップとして含まれます。
-
-  ダッシュボードには、web アプリの品質を向上させるためのオープンソースの自動化ツールである Google Lighthouse を使用します。公開されている web ページや認証が必要な web ページに対して実行できます。パフォーマンス、アクセシビリティ、プログレッシブ web アプリ、SEO などの監査が行われます。
-
-  新しいダッシュボードのテスト運用に関心がありますか？開始するには、Adobe ID に関連付けられたメールアドレスから [aem-lighthouse-pilot@adobe.com](mailto:aem-lighthouse-pilot@adobe.com) にメールを送信します。
-
-_バグの修正_
-
-* 設定ファイルの場所が正しく設定されていない場合に、設定パイプラインがビルド手順で失敗し、不明なエラーメッセージが表示されるエラーを修正しました。エラーメッセージが明確になり、設定ファイルの場所が正しいことをユーザーが確認する必要があることが示されます。
-* `BUILD_MAVEN_TRANSFER_ARTIFACT_ERROR` が原因でビルド手順がステータス `FAILED` で終了した場合、宛先ブランチとの結合の競合により、エラーと正しく記述されるようになりました。
-
-### [!DNL Workfront for Experience Manager] 拡張コネクタ
-
-Workfront for Experience Manager 拡張コネクタの最新バージョン 1.9.18 のリリース日は、2024年3月8日（PT）です。
-
-_リリースのハイライト_
-
-Workfront for Experience Manager 拡張コネクタの最新バージョンには、次のバグ修正が含まれています。
-
-* 複数アセットのアップロードを Workfront から処理する際に問題が発生する。
-* Workfront を使用して Experience Manager 内のフォルダーを検索する際に、閉じ引用符を追加しないと、`SERVER_ERROR` が表示される。
-
->[!NOTE]
->
->AEM 6.4 の延長サポートは終了しました。詳しくは、アドビの[テクニカルサポート期間](https://helpx.adobe.com/jp/support/programs/eol-matrix.html)を参照してください。[サポートされているバージョンについては、こちら](https://experienceleague.adobe.com/ja/docs)を参照してください。
-
->[!IMPORTANT]
->
->アドビでは、Workfront for Experience Manager 拡張コネクタの[最新バージョン 1.9.18 にアップグレード](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install)することをお勧めします。
-
-_既知の問題_
-
-* AEM 6.4 でプロジェクトにリンクしたフォルダーを設定する際に、[!DNL Experience Manager] は「**サブフォルダー**」フィールドと「**ポートフォリオのプロジェクトにリンクしたフォルダーを作成**」フィールドの値を保存しません。「**サブフォルダー**」フィールドの値が&#x200B;**未定義**&#x200B;に更新されます。設定を保存すると、「**ポートフォリオのプロジェクトにリンクされたフォルダーを作成**」フィールドの値が&#x200B;**デフォルトのポートフォリオ**&#x200B;に自動的に更新されます。
-* 従来の Workfront エクスペリエンスを使用する場合、**詳細**&#x200B;ドロップダウンリストで選択できる「**送信先**」オプションでは、Experience Manager 内のターゲット宛先を選択できません。**ドキュメントアクション**&#x200B;ドロップダウンリストを使用することで、「**送信先**」オプションが正常に機能します。新しい Workfront エクスペリエンスの&#x200B;**詳細**&#x200B;ドロップダウンリストと&#x200B;**ドキュメントアクション**&#x200B;ドロップダウンリストでは、「**送信先**」オプションは正常に機能します。
-
-### Experience Manager リリース情報
+### Experience Managerリリース情報
 
 [!DNL Experience Manager] のリリースノートはすべて次のページに記載されています。
 
-* [Experience Manager as a Cloud Service リリース情報](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/home)
-* [Experience Manager as a Cloud Service リリースアップデート](https://experienceleague.adobe.com/ja/docs/events/aemcs-release-update-recordings/overview)
+* [Experience Manager リリースのアップデートとロードマップ](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/home) - Experience Manager リリースのロードマップ、以前のリリースのアップデート、ドキュメントのアップデートについて説明します。
 * [Experience Manager as a Cloud Service の現在のリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
-* [Adobe Experience Manager as a Cloud Service リリース情報](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/home)
+* [Adobe Experience Manager 6.5 Service Pack リリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes)
 * [Adobe Experience Manager Cloud Manager リリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [自動フォーム変換サービスリリースノート](https://experienceleague.adobe.com/ja/docs/aem-forms-automated-conversion-service/using/release-notes)
-* [Adobe Experience Manager 6.5 Service Pack リリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes)
-* [Adobe Experience Manager 6.4 累積修正パックリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-64/release-notes/cfp-release-notes)
 * [Adobe Experience Manager Assets Dynamic Media リリースノート](https://experienceleague.adobe.com/ja/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
 * [Adobe Experience Manager Brand Portal リリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
-* [Adobe Experience Manager デスクトップアプリケーションリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-desktop-app/using/release-notes)
+* [Experience Managerデスクトップアプリケーションリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-desktop-app/using/release-notes)
 * [Adobe Experience Manager Dispatcher リリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-dispatcher/using/getting-started/release-notes)
-* [Adobe Primetime リリースノート](https://experienceleague.adobe.com/ja/docs/pass)
-* [Livefyre リリースノート](https://experienceleague.adobe.com/ja/docs/discontinued/using/livefyre)
 
 ### [!DNL Experience Manager] の新しいチュートリアルとコース {#tutorials-aem}
 
@@ -507,28 +377,7 @@ Experience Manager 用に新しく公開されたビデオ、チュートリア�
 
 {style="table-layout:auto"}
 
-### [!DNL Experience Manager] に関するその他のヘルプリソース
-
-* [Dynamic Media Classic ヘルプホーム](https://experienceleague.adobe.com/ja/docs/dynamic-media-classic/using/home)
-* [Adobe Experience Manager as a Cloud Service に関するガイド](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/overview/introduction)
-* [Cloud Manager ユーザーガイド](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-manager/content/introduction)
-* [Adobe Experience Manager 6.5 のラーニングとサポートのホーム](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/implementing/deploying/introduction/platform)
-* [Adobe Experience Manager 6.4 のラーニングとサポートのホーム](https://experienceleague.adobe.com/ja/docs/experience-manager-64)
-* [Adobe Experience Manager ドキュメント：最近の更新](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates)
-* [Adobe Experience Manager ドキュメントの以前のバージョン](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
-
 +++
-
-<!-- ## ![Icon](/assets/ec_appicon_24.png) Adobe [!DNL Experience Manager Guides] {#xml-doc}
-
-[!DNL Experience Manager Guides] is an application deployed onto AEM. It is a powerful, enterprise-grade component content management solution (CCMS) which enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery.
-
-Learn more about [[!DNL Experience Manager Guides]](https://business.adobe.com/products/experience-manager/guides/features.html).
-
-### Additional resources
-
-* [[!DNL Experience Manager Guides]](https://experienceleague.adobe.com/docs/experience-manager-guides-learn/videos/overview.html) - tutorials on Experience League
-* [[!DNL Experience Manager Guides] Learn & Support](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html) - product documentation -->
 
 ## ![アイコン](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
