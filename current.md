@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7aac2cd48bd037c3f860328e3418d7af6ad58d7d
+source-git-commit: aee0af049df43d0004e8d3b9686731cbb27587b4
 workflow-type: tm+mt
-source-wordcount: '4917'
-ht-degree: 99%
+source-wordcount: '4957'
+ht-degree: 98%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 99%
 
 ## 2024年5月
 
-最終更新日：**2024年5月16日（PT）**
+最終更新日：**2024年5月28日（PT）**
 
 * [[!DNL Experience League] のイベントと最新情報](#events)
 * [アドビでの認定](#certification)
@@ -40,8 +40,8 @@ ht-degree: 99%
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)（**5月15日（PT）**&#x200B;リリース）
-* [[!DNL Adobe Customer Journey Analytics]](#cja)（**5月15日（PT）**&#x200B;リリース）
+* [[!DNL Adobe Analytics]](#analytics) （リリース日 **5 月 15 日（Pt）**）
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （リリース日 **5 月 15 日（Pt）**）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -67,10 +67,11 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience League に関するイベント
 
-更新日：**2024年5月24日（PT）**
+更新日：**2024年5月28日（PT）**
 
 +++詳細
 
+* **あなたによるエクスペリエンス** | ビデオ | _あなたによる体験_ Adobeの DX ソリューションで高い専門性と影響力を持つユーザーが日常的に作成するコンテンツを特徴としています。 製品の専門知識をレベルアップさせるために必要なインスピレーションを見つけます。 | [オンデマンドで利用可能](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
 * **WORKFRONT** | コーヒーブレーク | _Adobe Workfront コミュニティ Q＆A コーヒーブレーク：Adobe Business Platform への移行_ | コミュニティの Workfront のエキスパートと共に参加して、Adobe Business Platform、組織の Adobe Admin Console への移行などについて質問しましょう。| **5月29日午前 8:00（PT）** | [登録](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763?profile.language=ja)
 
 * **Workfront** | ウェビナー | _Workfront の使用を開始：環境の最適化とメンテナンス_ | アドビのビジネスアドバイザーが、クリーンアップやトレーニングの戦略、実装計画、継続的な改善策などを通じて、Adobe Workfront の作業管理環境を最適化するためのインサイトを共有します。| **6月6日午後 1:00（ET）** | [登録](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
