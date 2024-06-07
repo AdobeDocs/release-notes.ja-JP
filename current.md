@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2c43781a5d8372dc6967f0d193d5cfd3a369c0f5
+source-git-commit: 108f6e465fc220340aaa4bf233093bf182d58702
 workflow-type: tm+mt
-source-wordcount: '5007'
-ht-degree: 97%
+source-wordcount: '5114'
+ht-degree: 94%
 
 ---
 
@@ -73,13 +73,17 @@ Experience League に関するエキサイティングなイベントについ�
 
 * **あなたによるエクスペリエンス** | ビデオ | _あなたによる体験_ Adobeの DX ソリューションで高い専門性と影響力を持つユーザーが日常的に作成するコンテンツを特徴としています。 製品の専門知識をレベルアップさせるために必要なインスピレーションを見つけます。 | [オンデマンドで利用可能](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
 
-* **Workfront** | ウェビナー | _Workfront の使用を開始：環境の最適化とメンテナンス_ | アドビのビジネスアドバイザーが、クリーンアップやトレーニングの戦略、実装計画、継続的な改善策などを通じて、Adobe Workfront の作業管理環境を最適化するためのインサイトを共有します。| **6月6日午後 1:00（ET）** | [登録](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
-
 * **Workfront** | コミュニティイベント | _つながる：マーケティング＆クリエイティブ向け管理チャット_ | マーケティングチームやクリエイティブチームのシステム管理者の場合このお客様主導のセッションでは、他の管理者と交流し、ベストプラクティスやヒントとコツについて話し合います。| **6月7日午前 9:00（PT）** | [登録](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **COMMERCE** | ウェビナー | _Brew の背景：Adobe Commerce・インテリジェンス（fka MBI）_ |お客様の e コマースデータを、カスタムダッシュボードやレポートを通じて実用的なインサイトに変えるように設計された強力なツール、Adobe Commerce Intelligence （旧称Magento Business Intelligence）の詳細についてご確認ください。 | **11月6日午後 1:00（ET）** | [登録](https://adobeevents.adobeconnect.com/ex795wtgzy1v/event/registration.html?campaign-id=ExL)
 
 * **MARKETO ENGAGE** | コーヒーブレーク | _Adobe Dynamic Chat向けのジェネレーティブ AI 機能_ |新しく追加されたAdobe Dynamic Chat機能について、エキスパートにお問い合わせください。チャットボットでのフリーフォーム、双方向の会話などが可能になります。 | **6月12日8:00（PT）** | [登録](https://mugs.marketo.com/events/details/marketo-marketo-coffee-breaks-presents-adobe-marketo-engage-community-coffee-break-gen-ai-for-dynamic-chat/)
+
+* **CREATIVE CLOUD、EXPERIENCE MANAGERおよびWORKFRONT** | Q&amp;A チャット | _質問：Workfront、Creative Cloud、AEMを使用したコンテンツサプライチェーンの構築_ | Adobeのカスタマーサクセスチームやシティナショナルバンクと共に、Workfront、Creative Cloud、AEMの統合に関するベストプラクティス、メリット、価値の促進について、1 時間のインタビュー形式のディスカッションをご覧ください。 | **6月18日10:30（PT）** | [登録](https://events.teams.microsoft.com/event/ff76e5c9-8c8c-4dc4-927c-902a446215b7@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **MARKETO MEASURE** | ウェビナー | _Marketo Measureと Mocha：アクティビティとカスタムモデル_ |AdobeのMarketo Measure エキスパートが、カスタム属性モデルとアクティビティ属性を使用して、CRM アクティビティレコードから直接タッチポイントを使用してセールスデータとマーケティングデータを整合する方法を説明します。 | **20月6日午後 1:00（ET）** | [登録](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5696306635/event_landing.html?sco-id=5696306640&amp;campaign-id=ExL&amp;_charset_=utf-8)
+
+* **WORKFRONT** |お客様ワークショップ | _ラーニング：Workfrontでの作業の優先順位付けと戦略的計画_ |Workfront カスタマーサクセスチームと共に、年間計画のベストプラクティス、優先順位付けの正式なプロセスを作成する方法、全体的な整合性を確保するためにプロジェクトデータを表示するおすすめのビューについて学びます。 | **6月25日9:30（PT）** | [登録](https://events.teams.microsoft.com/event/f765ea5b-c5a6-41d1-ac0d-ffea34ae1b11@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League でその他の[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を参照してください。
 
