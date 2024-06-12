@@ -6,7 +6,7 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fbb4dc8b9e98de3010799a797da4714952a1700d
+source-git-commit: 1cafd2d5ef95cefa906742e028796600dca3bcbd
 workflow-type: tm+mt
 source-wordcount: '4006'
 ht-degree: 43%
@@ -652,7 +652,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 | 公開日 | アプリケーション | 名前 | タイプ | 説明 |
 | -----------| -----------|---------- | ---------- | ---------- |
 | 2024年5月 | [!DNL Firefly] | [商品用に再利用可能なシーンの作成](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes) | ビデオ | ハンドバッグやアクセサリーなどの商品の再利用可能なシーンを作成する方法を説明します。再利用可能なシーンを作成すると、web サイトの商品を季節的または任意のタイミングで更新できるので、デジタルマーチャンダイジングが高速化します。 |
-| 2024年5月 | [!DNL Firefly] | [クリエイティブなアイデア発想の高速化](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | ビデオ | アイデアをすばやく視覚化し、ビジネスキャンペーンの概念を探る方法を説明します。クリエイティブなアイデア発想を高速化することで、組織は高品質のコンテンツを迅速に作成できます。 |
+| 2024年5月 | [!DNL Firefly] | [クリエイティブなアイデア発想の高速化](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | ビデオ | アイデアを視覚化し、ビジネスキャンペーンの概念を探索する方法を説明します。 クリエイティブなアイデア発想を高速化することで、組織は高品質のコンテンツを迅速に作成できます。 |
 
 最新のチュートリアルについては、[Creative Cloud エンタープライズ版チュートリアル](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview)を参照してください。
 
