@@ -6,7 +6,7 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3e248cbbf78e9379263d6f76a6c8078fd28ff93f
+source-git-commit: fbb4dc8b9e98de3010799a797da4714952a1700d
 workflow-type: tm+mt
 source-wordcount: '4006'
 ht-degree: 43%
@@ -122,12 +122,12 @@ Experience League の最新のチュートリアルについては、[コンテ�
 
 最近のリリースノートについては、以下を参照してください。
 
-* [2024 年 5 月 15 日（Pt）](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024)
-* [2024年1月30日（PT）](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2024/02142024)
-* [2023年10月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2023/10042023)
-* [2023年8月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2023/08092023)
-* [2023年3月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2023/03082023)
-* [2023年1月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2023/02082023)
+* [2024 年 5 月 15 日（Pt）](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024#status)
+* [2024年1月30日（PT）](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/02142024#status)
+* [2023年10月](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/10042023#status)
+* [2023年8月](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/08092023#status)
+* [2023年3月](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/03082023#status)
+* [2023年1月](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/02082023#status)
 
 +++
 
