@@ -6,10 +6,10 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 73136bb756a8be56a3c265b30a36005911c141d4
+source-git-commit: 38946bebc2e663fc6ac9e03e200d179f0916b433
 workflow-type: tm+mt
-source-wordcount: '3853'
-ht-degree: 98%
+source-wordcount: '4011'
+ht-degree: 95%
 
 ---
 
@@ -71,9 +71,15 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **WORKFRONT** |お客様ワークショップ | _Admin 101 - Workfrontの概要_ | Workfrontを初めて使用する場合 「新規管理者」の月次ミーティングに参加して、質問をしたり、リソースや推奨事項を取得したり、他の新規管理者と会ったり、このセッションでは、Workfront環境を設定するためのベストプラクティスを学んだりします。 | **7 月 9 日午前 9:00 MT** | [登録](https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Workfront** | コミュニティイベント | _つながる：マーケティング＆クリエイティブ向け管理チャット_ | マーケティングチームやクリエイティブチームのシステム管理者の場合このお客様主導のセッションでは、他の管理者と交流し、ベストプラクティスやヒントとコツについて話し合います。| **7 月 12 日午前 10:00 MT** | [登録](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
+* **WORKFRONT** | コーヒーブレーク | _コーヒーブレイクのキャンペーン：クリエイティブブリーフの取り込み内容とベストプラクティス_ | クリエイティブな概要のベストプラクティスに関する 2 回目のコーヒーブレイクのウェップステークスにご参加ください。 新しい戦略を見つけ、インサイトを共有します。 質問、コメント、ヒントを送信して、Workfront swag を獲得する機会を得ます。 逃すな！ | **7 月 16 日午前 11:00 MT** | [登録](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
+
+* **WORKFRONT** |お客様ワークショップ | _学習：Adobe Workfront 2024 年第 3 四半期リリースのまとめ+環境対策_ |最新のリリース機能とそのメリットについて説明する、四半期ごとのリリースレビューセッションにご参加ください。 このセッションでは、期待される「環境促進」の機能についても議論します。 | **7 月 18 日午前 9:00 MT** | [登録](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **EXPERIENCE MANAGER、EXPERIENCE MANAGER ASSETSおよびEXPERIENCE MANAGER SITES** | ウェビナー | _エスプレッソとExperience Manager: AEMによるデジタルの俊敏性_ | AEMを CMS 領域の最も一般的な課題に対するソリューションにする、AEM SitesおよびAssetsの最新のイノベーションについて説明します。 ユニバーサルエディター、ヘッドレスおよびドキュメントベースのオーサリング、Assets UI について説明します。 | **7 月 18 日午前 11:00 MT** | [登録](https://adobeevents.adobeconnect.com/ev3w9wtf5th2/event/registration.html?campaign-id=ExL)
+
+その他Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 +++
 
 ## ![アイコン](/assets/experience-league.png) アドビのコンテンツサプライチェーン {#content-supply-chain}
