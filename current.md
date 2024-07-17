@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 936f9884f1a75fbd55abdcfbbfa0fdbaa2415e44
+source-git-commit: 2af1f8d226d3fc7e0f1157179444ef2fdd483f1d
 workflow-type: tm+mt
-source-wordcount: '3681'
-ht-degree: 47%
+source-wordcount: '3640'
+ht-degree: 44%
 
 ---
 
@@ -71,17 +71,17 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **[!DNL WORKFRONT]** |お客様ワークショップ | _学習：Adobe Workfront 2024 年第 3 四半期リリースのまとめ+環境対策_ |最新のリリース機能とそのメリットについて説明する、四半期ごとのリリースレビューセッションにご参加ください。 このセッションでは、期待される「環境促進」の機能についても議論します。 | **7 月 18 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** |お客様ワークショップ | _学習：Adobe[!DNL Workfront]2024 年第 3 四半期リリースのまとめ+環境対策_ |最新のリリース機能とそのメリットについて説明する、四半期ごとのリリースレビューセッションにご参加ください。 このセッションでは、期待される「環境促進」の機能についても議論します。 | **7 月 18 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE MANAGER]、[!DNL EXPERIENCE MANAGER ASSETS] および[!DNL EXPERIENCE MANAGER SITES]** | ウェビナー | _エスプレッソ&amp;Experience Manager:AEMによるデジタルの俊敏性_ | AEMを CMS 領域の最も一般的な課題に対するソリューションにする、AEM SitesおよびAssetsの最新のイノベーションについて説明します。 ユニバーサルエディター、ヘッドレスおよびドキュメントベースのオーサリング、Assets UI について説明します。 | **7 月 18 日午前 11:00 MT** | [ 登録 ](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **[!DNL EXPERIENCE MANAGER]、[!DNL EXPERIENCE MANAGER ASSETS] および[!DNL EXPERIENCE MANAGER SITES]** | ウェビナー | _エスプレッソ&amp;[!DNL Experience Manager:]:AEMによるデジタルの俊敏性_ | AEMを CMS 領域の最も一般的な課題に対するソリューションにする、AEM SitesおよびAssetsの最新のイノベーションについて説明します。 ユニバーサルエディター、ヘッドレスおよびドキュメントベースのオーサリング、Assets UI について説明します。 | **7 月 18 日午前 11:00 MT** | [ 登録 ](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
-* **[!DNL WORKFRONT]** | コミュニティイベント | _Connect:Workfrontコレクティブ_ |他のお客様とつながり、Workfrontの機能について話し合い、アイデアを共有し、共通の課題を解決するためのブレインストーミングを組み合わせるように設計された、月次のWorkfront集合会議に参加してください。 | **7 月 22 日午前 7:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | コミュニティイベント | _Connect: [!DNL Workfront] Collective_ |他のお客様とつながり、[!DNL Workfront] の機能について話し合い、アイデアを共有し、共通の課題を解決するためのブレインストーミングを組み合わせるように設計された、月次のマンデー [!DNL Workfront] ースの集合会議に参加してください。 | **7 月 22 日午前 7:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** |お客様ワークショップ | _お客様について：Workfrontを使用した再編成_ |お客様および以前のお客様による 1 時間のプレゼンテーションに参加してください。お客様の経験と、Workfrontを使用して組織再編成の構造とプロセスの変化を支援する方法に関する推奨事項をお伝えします。 | **7 月 23 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** |お客様ワークショップ | _お客様について：再編成に [!DNL Workfront] を使用する_ |お客様および以前のお客様による 1 時間のプレゼンテーションにご参加ください。お客様の経験と、[!DNL Workfront] を使用して組織再編成の構造とプロセスの変化を支援する方法に関する推奨事項を共有します。 | **7 月 23 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL MARKETO AND MARKETO ENGAGE]** | ウェビナー | _Marketoとモチャ：基金の積み重ね – 成熟度パート 1_ | Adobeのビジネスアドバイザーと共に、組織のMarketoの使用状況を最適に開発する方法を学びます。 インスタンスガバナンスからプログラムライブラリまで、すべてを確認します。ライブラリでは、プログラムの構築を開始するためにいくつかのプログラムをホストします。 | **7 月 25 日午前 11:00 MT** | [ 登録 ](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5706378570/event_landing.html?sco-id=5706388344&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
-* **[!DNL WORKFRONT]** | ウェビナー | _Workfront カスタマーサポートに問い合わせる – 計算式のトラブルシューティング_ |計算式について 1 時間は、Workfront カスタマーサポートチームにご参加ください。 一般的な例、トラブルシューティングのヒント、主な学習事項、ライブデモの間では、このセッションは見逃せません。 | **7 月 31 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | ウェビナー | _カスタマーサポート [!DNL Workfront] 問い合わせる – 計算式のトラブルシューティング_ |[!DNL Workfront] スタマーサポートチームに参加して、計算式に関する 1 時間をご覧ください。 一般的な例、トラブルシューティングのヒント、主な学習事項、ライブデモの間では、このセッションは見逃せません。 | **7 月 31 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 その他Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
@@ -247,9 +247,9 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 +++
 
-## ![アイコン](/assets/aem.png) Adobe Experience Manager {#aem}
+## ![アイコン](/assets/aem.png) Adobe [!DNL Experience Manager:] {#aem}
 
-Experience Manager の新機能、修正点および更新です。安定性、セキュリティ、パフォーマンスを高めるために、オンプレミス環境のお客様には最新のパッチをデプロイすることをお勧めします。
+[!DNL Experience Manager:] の新機能、修正点および更新です。安定性、セキュリティ、パフォーマンスを高めるために、オンプレミス環境のお客様には最新のパッチをデプロイすることをお勧めします。
 
 +++詳細
 
@@ -257,19 +257,19 @@ Experience Manager の新機能、修正点および更新です。安定性、�
 
 [!DNL Experience Manager] のリリースノートはすべて次のページに記載されています。
 
-* [Experience Manager リリースのアップデートとロードマップ](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/home) - Experience Manager リリースのロードマップ、以前のリリースのアップデート、ドキュメントのアップデートについて説明します。
-* [Experience Manager as a Cloud Service の現在のリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
-* [Adobe Experience Manager 6.5 Service Pack リリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes)
-* [Adobe Experience Manager Cloud Manager リリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-manager/content/release-notes/current)
+* [[!DNL Experience Manager:]  リリースのアップデートとロードマップ ](https://experienceleague.adobe.com/ja/docs/experience-manager-release-information/aem-release-updates/home) - [!DNL Experience Manager:] リリースのロードマップ、以前のリリースのアップデート、ドキュメントのアップデートについて説明します。
+* as a Cloud Service [ [!DNL Experience Manager:]  の最新のリリースノート ](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
+* [[!DNL Experience Manager:] 6.5 サービスパックのリリースノート ](https://experienceleague.adobe.com/ja/docs/experience-manager-65/content/release-notes/release-notes)
+* [[!DNL Experience Manager:] Cloud Manager リリースノート ](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [自動フォーム変換サービスリリースノート](https://experienceleague.adobe.com/ja/docs/aem-forms-automated-conversion-service/using/release-notes)
-* [Adobe Experience Manager Assets Dynamic Media リリースノート](https://experienceleague.adobe.com/ja/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
-* [Adobe Experience Manager Brand Portal リリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
-* [Experience Manager デスクトップアプリリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-desktop-app/using/release-notes)
-* [Adobe Experience Manager Dispatcher リリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-dispatcher/using/getting-started/release-notes)
+* [[!DNL Experience Manager:] Assets Dynamic Media リリースノート ](https://experienceleague.adobe.com/ja/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
+* [[!DNL Experience Manager:] Brand Portal リリースノート ](https://experienceleague.adobe.com/ja/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes)
+* [[!DNL Experience Manager:]  デスクトップアプリケーションリリースノート ](https://experienceleague.adobe.com/ja/docs/experience-manager-desktop-app/using/release-notes)
+* [[!DNL Experience Manager:] Dispatcher リリースノート ](https://experienceleague.adobe.com/ja/docs/experience-manager-dispatcher/using/getting-started/release-notes)
 
 ### 新しい [!DNL Experience Manager] チュートリアル {#tutorials-aem}
 
-Experience League に関する [!DNL Experience Manager] の新しい公開済みチュートリアル。
+[!DNL Experience Manager:] で [!DNL Experience Manager] 用するために公開された新しいチュートリアル。
 
 | 公開日 | アプリケーション | 名前 | タイプ | 説明 |
 | ----------| ---------- | ---------- | ---------- |---------- |
@@ -513,9 +513,9 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 ### [!DNL Adobe Workfront] の更新
 
-* Workfront のリリーススケジュール情報とリリースノートについては、[Adobe Workfront 製品のリリース](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/product-releases)のページを参照してください。
+* リリース スケジュールの情報とリリース ノートについては、[Adobe [!DNL Workfront]  製品リリース ](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/product-releases) ページ [!DNL Workfront] 参照してください。
 
-* Fusion の最新情報については、[Adobe Workfront Fusion リリースアクティビティの概要](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity)を参照してください。
+* Fusion に関する最新情報については、[Adobe [!DNL Workfront] Fusion リリースアクティビティの概要 ](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity) を参照してください。
 
 ### 新しい Adobe [!DNL Workfront] チュートリアル {#tutorials-workfront}
 
@@ -523,13 +523,13 @@ Experience League の新しい [!DNL Workfront] チュートリアルとイベ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2024年7月 | [ 予定外作業の処理 ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work) | ビデオ | Adobe Workfrontで予定外作業を処理する方法について説明します。 |
+| 2024年7月 | [ 予定外作業の処理 ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/handle-unplanned-work) | ビデオ | Adobe [!DNL Workfront] を使用して予定外作業を処理する方法を説明します。 |
 | 2024年7月 | [プロジェクト詳細の入力](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details) | ビデオ | プロジェクトの作成時に必要となる、最も一般的なプロジェクト設定について説明します。 |
 | 2024年7月 | [ タスクの順序付けを学ぶ ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks) | ビデオ | 先行タスクについて、また先行タスクがプロジェクト内のタスクを順序付けする方法を説明します。 次に、期間と先行タスクを使用してタイムラインを作成する方法を説明します。 |
 | 2024年7月 | [ 予定時間数について ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours) | ビデオ | 予定時間数、予定時間数がプロジェクトにとって重要な理由、予定時間数をタスクに追加する方法を説明します。 |
 | 2024年7月 | [ リクエストの作成 ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/make-a-request) | ビデオ | リクエスト エリアを見つけて、リクエストを作成する方法を説明します。 送信されたリクエストとドラフトのリクエストを表示する方法を説明します。 |
-| 2024年7月 | [リクエストの更新](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request) | ビデオ | 送信したリクエストを検索し、Workfront で更新する方法を説明します。 |
-| 2024年7月 | [ ベストプラクティス – スケジュール ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/best-practices/schedules-bp) | ビデオ | Workfront スケジュールの設定、管理、使用に関する、Adobe Workfrontのエキスパートによるベストプラクティスの推奨事項について説明します。 |
+| 2024年7月 | [リクエストの更新](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request) | ビデオ | 送信したリクエストを検索し、それらのリクエストを [!DNL Workfront] で更新する方法を説明します。 |
+| 2024年7月 | [ ベストプラクティス – スケジュール ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/best-practices/schedules-bp) | ビデオ | スケジュールの設定、管理、使用に関する、Adobe[!DNL Workfront] エキスパートによるベストプラクティスのレコメンデーション [!DNL Workfront] 確認します。 |
 
 {style="table-layout:auto"}
 
