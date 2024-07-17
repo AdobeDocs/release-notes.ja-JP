@@ -34,14 +34,14 @@ ht-degree: 95%
 
 最終更新日：**2024年6月25日（PT）**
 
-* [[!DNL Experience League] イベントとアップデート](#events) （**6 月 25 日（Pt）**）
+* [[!DNL Experience League]  イベントと最新情報 ](#events) （**6 月 25 日**）
 * [アドビでの認定](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) （リリース日 **6 月 12 日（Pt）**）
-* [[!DNL Adobe Customer Journey Analytics]](#cja) （リリース日 **6 月 12 日（Pt）**）
+* [[!DNL Adobe Analytics]](#analytics) （リリース日 **6 月 12 日**）
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （リリース日 **6 月 12 日**）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -71,13 +71,13 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **Workfront** | コミュニティイベント | _つながる：マーケティング＆クリエイティブ向け管理チャット_ | マーケティングチームやクリエイティブチームのシステム管理者の場合このお客様主導のセッションでは、他の管理者と交流し、ベストプラクティスやヒントとコツについて話し合います。| **7 月 12 日午前 10:00 MT** | [登録](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Workfront** | コミュニティイベント | _つながる：マーケティング＆クリエイティブ向け管理チャット_ | マーケティングチームやクリエイティブチームのシステム管理者の場合このお客様主導のセッションでは、他の管理者と交流し、ベストプラクティスやヒントとコツについて話し合います。| **7 月 12 日午前 10:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | コーヒーブレーク | _コーヒーブレイクのキャンペーン：クリエイティブブリーフの取り込み内容とベストプラクティス_ | クリエイティブな概要のベストプラクティスに関する 2 回目のコーヒーブレイクのウェップステークスにご参加ください。 新しい戦略を見つけ、インサイトを共有します。 質問、コメント、ヒントを送信して、Workfront swag を獲得する機会を得ます。 逃すな！ | **7 月 16 日午前 11:00 MT** | [登録](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
+* **WORKFRONT** | コーヒーブレーク | _コーヒーブレイクのキャンペーン：クリエイティブブリーフの取り込みとベストプラクティス_ | クリエイティブな概要のベストプラクティスに関する 2 回目のコーヒーブレイクのウェップステークスにご参加ください。 新しい戦略を見つけ、インサイトを共有します。 質問、コメント、ヒントを送信して、Workfront swag を獲得する機会を得ます。 逃すな！ | **7 月 16 日午前 11:00 MT** | [ 登録 ](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
 
-* **WORKFRONT** |お客様ワークショップ | _学習：Adobe Workfront 2024 年第 3 四半期リリースのまとめ+環境対策_ |最新のリリース機能とそのメリットについて説明する、四半期ごとのリリースレビューセッションにご参加ください。 このセッションでは、期待される「環境促進」の機能についても議論します。 | **7 月 18 日午前 9:00 MT** | [登録](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** |お客様ワークショップ | _学習：Adobe Workfront 2024 年第 3 四半期リリースのまとめ+環境対策_ |最新のリリース機能とそのメリットについて説明する、四半期ごとのリリースレビューセッションにご参加ください。 このセッションでは、期待される「環境促進」の機能についても議論します。 | **7 月 18 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **EXPERIENCE MANAGER、EXPERIENCE MANAGER ASSETSおよびEXPERIENCE MANAGER SITES** | ウェビナー | _エスプレッソとExperience Manager: AEMによるデジタルの俊敏性_ | AEMを CMS 領域の最も一般的な課題に対するソリューションにする、AEM SitesおよびAssetsの最新のイノベーションについて説明します。 ユニバーサルエディター、ヘッドレスおよびドキュメントベースのオーサリング、Assets UI について説明します。 | **7 月 18 日午前 11:00 MT** | [登録](https://adobeevents.adobeconnect.com/ev3w9wtf5th2/event/registration.html?campaign-id=ExL)
+* **EXPERIENCE MANAGER、EXPERIENCE MANAGER ASSETS、EXPERIENCE MANAGER SITES** | ウェビナー | _エスプレッソ&amp;Experience Manager:AEMによるデジタルの俊敏性_ | AEMを CMS 領域の最も一般的な課題に対するソリューションにする、AEM SitesおよびAssetsの最新のイノベーションについて説明します。 ユニバーサルエディター、ヘッドレスおよびドキュメントベースのオーサリング、Assets UI について説明します。 | **7 月 18 日午前 11:00 MT** | [ 登録 ](https://adobeevents.adobeconnect.com/ev3w9wtf5th2/event/registration.html?campaign-id=ExL)
 
 その他Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 +++

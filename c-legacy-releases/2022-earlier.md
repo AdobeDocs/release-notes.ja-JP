@@ -5,7 +5,8 @@ title: 2021 年以前のリリースノート
 solution: Experience Cloud,Analytics,Target,Advertising
 seo-title: Release Notes for 2021 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
-source-git-commit: a3458fe06ca6ee189da76ad8cb06287fc839a03c
+exl-id: 980a6e5e-a561-4fb5-b1cc-467ddabf0d01
+source-git-commit: 590f0a21ab8ef16b2ccf9f651a2ef2e7cae48ff3
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 75%
