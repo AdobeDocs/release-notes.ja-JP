@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2af1f8d226d3fc7e0f1157179444ef2fdd483f1d
+source-git-commit: ef4b1f6c217c9aedcbe2aed16526190bb26fc81e
 workflow-type: tm+mt
-source-wordcount: '3640'
-ht-degree: 44%
+source-wordcount: '3577'
+ht-degree: 43%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 44%
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [顧客データ管理 - 担当者の声](#voices)
 * [デジタルエクスペリエンスブループリント](#blueprints)
-* [アドビでの認定](#certification)
+* [Adobeにおける認定 ](https://experienceleague.adobe.com/ja/docs/certification/program/overview)
 * [アドビ製品のセキュリティの脆弱性](https://helpx.adobe.com/jp/security.html)
 
 ## ![アイコン](/assets/experience-league.png) [!DNL Experience League] のイベントと最新情報 {#events}
@@ -150,6 +150,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 |April 2024|[[!DNL AEP - Adobe Experience Platform] Use Case [!UICONTROL Playbooks] menu is missing](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24108)|New article| Learn about the solution for when the [!UICONTROL Playbooks] menu is missing from your [!UICONTROL sandbox].|
 
 {style="table-layout:auto"} -->
+
 +++
 
 ## ![アイコン](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
@@ -643,18 +644,18 @@ Experience League の最新のチュートリアルについては、[コンテ�
 
 [デジタルエクスペリエンスブループリント](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/overview)は、戦略に取り組み、確立されたビジネス上の問題を解決するための反復可能な実装です。各ブループリントは、価値の高いビジネス上の問題、アーキテクチャ、実装手順、技術的な考慮事項、および関連ドキュメントへのリンクを説明する一連の成果物を提供します。
 
-## ![アイコン](/assets/certification-badge.png)認定制度{#certification}
+<!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-すべてのアドビ認定制度候補者にご注目ください。Experience League の Experience Cloud [認定制度](https://experienceleague.adobe.com/ja/docs/certification/program/overview)サイトをご覧ください。
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
 
-+++詳細
++++Details
 
-[Experience Cloud 認定制度](https://experienceleague.adobe.com/ja/docs/certification/program/overview)サイトは、すべての [!DNL Experience Cloud] 認定制度に関連するコンテンツのワンストップショップであり、定期的に更新されて次の内容が反映されます。
+The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
-* 利用可能な認定制度
-* アドビアプリケーションの認定制度の更新
-* 認定制度プログラムの更新
+* Available certifications
+* Certification renewals for Adobe applications
+* Certification program updates
 
-その他Experience League の[アドビ認定制度](https://experienceleague.adobe.com/ja/docs/certification/program/overview)にアクセスして、今日から認定制度へのジャーニーを開始しましょう。
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
 
-+++
++++ -->
