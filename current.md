@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ef4b1f6c217c9aedcbe2aed16526190bb26fc81e
+source-git-commit: 7f6fded5411ad9eb451cec9529ec3400a9b15e1b
 workflow-type: tm+mt
-source-wordcount: '3577'
-ht-degree: 43%
+source-wordcount: '3536'
+ht-degree: 44%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 43%
 
 ## 2024年7月
 
-最終更新日：**2024年7月17日（PT）**
+最終更新日：**2024年7月23日（PT）**
 
 * [[!DNL Experience League] のイベントとアップデート](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -71,17 +71,15 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **[!DNL WORKFRONT]** |お客様ワークショップ | _学習：Adobe[!DNL Workfront]2024 年第 3 四半期リリースのまとめ+環境対策_ |最新のリリース機能とそのメリットについて説明する、四半期ごとのリリースレビューセッションにご参加ください。 このセッションでは、期待される「環境促進」の機能についても議論します。 | **7 月 18 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL EXPERIENCE MANAGER]、[!DNL EXPERIENCE MANAGER ASSETS] および[!DNL EXPERIENCE MANAGER SITES]** | ウェビナー | _エスプレッソ&amp;[!DNL Experience Manager:]:AEMによるデジタルの俊敏性_ | AEMを CMS 領域の最も一般的な課題に対するソリューションにする、AEM SitesおよびAssetsの最新のイノベーションについて説明します。 ユニバーサルエディター、ヘッドレスおよびドキュメントベースのオーサリング、Assets UI について説明します。 | **7 月 18 日午前 11:00 MT** | [ 登録 ](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
-* **[!DNL WORKFRONT]** | コミュニティイベント | _Connect: [!DNL Workfront] Collective_ |他のお客様とつながり、[!DNL Workfront] の機能について話し合い、アイデアを共有し、共通の課題を解決するためのブレインストーミングを組み合わせるように設計された、月次のマンデー [!DNL Workfront] ースの集合会議に参加してください。 | **7 月 22 日午前 7:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** |お客様ワークショップ | _お客様について：再編成に [!DNL Workfront] を使用する_ |お客様および以前のお客様による 1 時間のプレゼンテーションにご参加ください。お客様の経験と、[!DNL Workfront] を使用して組織再編成の構造とプロセスの変化を支援する方法に関する推奨事項を共有します。 | **7 月 23 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL MARKETO AND MARKETO ENGAGE]** | ウェビナー | _Marketoとモチャ：基金の積み重ね – 成熟度パート 1_ | Adobeのビジネスアドバイザーと共に、組織のMarketoの使用状況を最適に開発する方法を学びます。 インスタンスガバナンスからプログラムライブラリまで、すべてを確認します。ライブラリでは、プログラムの構築を開始するためにいくつかのプログラムをホストします。 | **7 月 25 日午前 11:00 MT** | [ 登録 ](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5706378570/event_landing.html?sco-id=5706388344&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 * **[!DNL WORKFRONT]** | ウェビナー | _カスタマーサポート [!DNL Workfront] 問い合わせる – 計算式のトラブルシューティング_ |[!DNL Workfront] スタマーサポートチームに参加して、計算式に関する 1 時間をご覧ください。 一般的な例、トラブルシューティングのヒント、主な学習事項、ライブデモの間では、このセッションは見逃せません。 | **7 月 31 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL COMMERCE]** | ウェビナー | _Commerceとコーヒー：B2B e コマースの成功戦略_ | Commerce上級戦略コンサルタントの Corey Gelato が、最も効果的な B2B e コマースのトレンドを紹介し、お客様がAdobe Commerce内で活用できる戦略をレビューします。 | **8 月 1 日午前 11:00 MT** | [ 登録 ](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | コミュニティイベント | _交流：マーケティング&amp;クリエイティブ向け管理チャット_ |あなたはマーケティングチームまたはクリエイティブチームのシステム管理者ですか？ このお客様主導のセッションでは、他の管理者と交流し、ベストプラクティスやヒントとコツについて話し合います。| **8 月 2 日午前 10:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 その他Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
