@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce3509b0e50a2febbd002d677bf31282c42684dd
+source-git-commit: 261f4a4a4ee24f61415febb87e95d9ffb4359ab7
 workflow-type: tm+mt
-source-wordcount: '3621'
-ht-degree: 93%
+source-wordcount: '3491'
+ht-degree: 94%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 93%
 
 ## 2024年7月
 
-最終更新日：**2024年7月23日（PT）**
+最終更新日：**2024年8月2日（PT）**
 
 * [[!DNL Experience League] のイベントとアップデート](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -67,15 +67,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience League に関するイベント
 
-更新日：**2024年7月26日（PT）**
+更新日：**2024年8月2日（PT）**
 
 +++詳細
-
-* **[!DNL WORKFRONT]** | ウェビナー | _カスタマーサポート[!DNL Workfront]に問い合わせる – 計算式のトラブルシューティング_ | [!DNL Workfront]カスタマーサポートチームに参加して、計算式について 1 時間学びましょう。一般的な例、トラブルシューティングのヒント、主な学習事項、ライブデモなど、このセッションは見逃せません。| **7月31日午前 9:00（MT）** | [登録](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | ウェビナー | _Commerceとコーヒー：B2B e コマースの成功戦略_ | Commerce上級戦略コンサルタントの Corey Gelato が、最も効果的な B2B e コマースのトレンドを紹介し、お客様がAdobe Commerce内で活用できる戦略をレビューします。 | **8 月 1 日午前 11:00 MT** | [ 登録 ](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | コミュニティイベント | _交流：マーケティング&amp;クリエイティブ向け管理チャット_ |あなたはマーケティングチームまたはクリエイティブチームのシステム管理者ですか？ このお客様主導のセッションでは、他の管理者と交流し、ベストプラクティスやヒントとコツについて話し合います。| **8 月 2 日午前 10:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** |お客様ワークショップ | _Admin 101: Workfrontを使用するためのユーザーの取得_ | Workfrontを初めて使用する場合 Admin 101 の毎月のミートアップに参加して、質問をしたり、リソースを得たり、ベストプラクティスを学んだり、他の新しい管理者と会ったりします。 今月は、ユーザーの採用について話し合います。 | **8 月 6 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/25756c69-c2ae-41d5-a5b8-b257193b1313@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
