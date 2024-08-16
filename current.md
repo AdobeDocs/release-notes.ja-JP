@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4a405ffdd266ebadf9d43e4e4696b40d670ee3ff
+source-git-commit: 79f6a9ae7032ed3a640c4925b14e334ceb1354e4
 workflow-type: tm+mt
-source-wordcount: '3052'
-ht-degree: 52%
+source-wordcount: '3097'
+ht-degree: 51%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 52%
 
 最終更新日：**2024年8月14日（PT）**
 
-* [[!DNL Experience League] のイベントとアップデート](#events)
+* [[!DNL Experience League]  イベントとアップデート ](#events) （更新日：**8 月 16 日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -66,13 +66,23 @@ ht-degree: 52%
 
 Experience League に関するエキサイティングなイベントについて説明します。アドビの製品エキスパートから学んだり、質問の回答を得たり、製品エキスパートと交流したりするのにうってつけの場です。
 
+### Experience Leagueのプレイリスト（新規）
+
+更新：**2024 年 8 月 16 日**
+
+ビデオ [ 再生リスト ](https://experienceleague.adobe.com/en/playlists) がExperience Leagueで新しく追加されました。 プレイリストは、求めるスキルや知識をすばやく習得できるように設計された、厳選されたビデオコレクションです。
+
+プレイリストを参照するには、**[!UICONTROL 学習]**/**[!UICONTROL プレイリスト]** に移動します。
+
+>[!NOTE]
+>
+>**コース** はExperience Leagueから廃止されます。 コースのブックマークがある場合は、対応するプレイリストにリダイレクトされます。
+
+プレイリストやヘルプの問題に関するフィードバックをExperience Leagueに送信する場合は、各ページの下部にあるフィードバック ポップアップを使用します。
+
 ### Experience League に関するイベント
 
-更新日：**2024年8月14日（PT）**
-
 +++詳細
-
-* **[!DNL EXPERIENCE MANAGER]** | Experience Maker | _Adobe Experience Manager技能交流_ | 8 月 14 日（PT）の無料デジタルカスタマーラーニングイベントにご参加ください。 エキスパートや同業者から、AEMの最適な使用方法について説明します。 あなたの質問に答えるイベントの時間があります。 | **8 月 14 日午前 10:00 MT** | [ 登録 ](https://adobe.ly/4c7TAqZ%60)
 
 * **[!DNL WORKFRONT]** | Experience Maker | _Adobe Workfront技能交流_ | 8 月 15 日（PT）に、Workfrontに焦点を当てたコンテンツを含む無料のデジタルカスタマーラーニングイベントにご参加ください。 日常の業務でWorkfrontをどのように使用しているかについて、エキスパートや同業者から話を聞くことができます。 | **8 月 15 日午前 10:00 MT** | [ 登録 ](https://adobe.ly/4c7TAqZ)
 
