@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 59f082ddef93b5ca415ccc3da5a1220b6aeae88b
+source-git-commit: 4955798262f3d97c1a7944dbadab05d70cb66c40
 workflow-type: tm+mt
-source-wordcount: '3099'
-ht-degree: 51%
+source-wordcount: '3185'
+ht-degree: 50%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 51%
 
 ## 2024年8月
 
-最終更新日：**2024年8月16日（PT）**
+最終更新日：**2024年8月20日（PT）**
 
-* [[!DNL Experience League]  イベントとアップデート ](#events) （更新日：**8 月 16 日**）
+* [[!DNL Experience League]  イベントとアップデート ](#events) （更新日：**8 月 20 日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -84,11 +84,15 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **[!DNL WORKFRONT]** | Experience Maker | _Adobe Workfront技能交流_ | 8 月 15 日（PT）に、Workfrontに焦点を当てたコンテンツを含む無料のデジタルカスタマーラーニングイベントにご参加ください。 日常の業務でWorkfrontをどのように使用しているかについて、エキスパートや同業者から話を聞くことができます。 | **8 月 15 日午前 10:00 MT** | [ 登録 ](https://adobe.ly/4c7TAqZ)
+* **[!DNL EXPERIENCE CLOUD]** | コミュニティイベント | _2025 AdobeExperience Maker Awards_ | 2025Adobeエクスペリエンスメーカー賞の作品が募集されています。 非凡は始まりに過ぎない。 大胆なビジョン。 優れた顧客体験。 | **なし** | [ 今すぐ申請 ](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | コミュニティイベント | _Connect:Workfrontコレクティブ_ |他のお客様とつながり、Workfrontの機能について話し合い、アイデアを共有し、共通の課題を解決するためのブレインストーミングを組み合わせるように設計された、月次のWorkfront コレクティブ イベントに参加してください。 | **8 月 19 日午前 7:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/96be978b-7cb2-453d-b8a8-991101596488@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** |お客様ワークショップ |_学習：取り込みプロセスでのWorkfront リクエストキューの使用_ |お客様の組織の作業をトラッキング、整理、レポートするための、Workfront リクエストキューの利点とベストプラクティスに関するディスカッションに参加してください。 | **8 月 21 日午前 9:30 MT** | [ 登録 ](https://events.teams.microsoft.com/event/ba631a2b-d656-42ca-99e9-3a78d0229c7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL REAL-TIME CUSTOMER DATA PLATFORM]** | コミュニティイベント | _AEP/RTCDP のタイミングと期待される結果_ |Adobeのグローバルリードである Seth Burke が、Real-time Customer Data Platform（RTCDP）をナビゲートするためのベストプラクティスを詳しく説明する、洞察に満ちたウェビナーに参加しましょう。 | **8 月 20 日午後 12:00 MT** | [ 登録 ](https://adobeevents.adobeconnect.com/tech-sessions/event/registration.html)
+* **[!DNL ANALYTICS]** | コミュニティイベント | _データドリップ：Adobe Analyticsの基本知識とその先_ |Adobe Analyticsのエキスパートが、ワークスペースを整理したり、初心者向けのAdobe Analyticsのラーニングパスをナビゲートしたり、サードパーティのデータビジュアライゼーションツールと接続したりするためのベストプラクティスを説明します。 | **8 月 22 日午前 11:00 MT** | [ 登録 ](https://adobeevents.adobeconnect.com/et45xd86xdq9/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** |お客様ワークショップ | _学ぶ：Workfront Fusion の事例の作成_ | カスタマーサクセスチームと共に、Deloitte とAdobe Workfront統合コンサルティングによる 1 時間のインタラクティブワークショップに参加して、時間節約を定量化し、Workfront Fusion の強力なビジネスケースを構築する方法を学びます。 | **8 月 27 日午前 10:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL JOURNEY OPTIMIZER]** | コーヒーブレーク | _Adobe Journey Optimizer コミュニティ Q&amp;A コーヒーブレーク_ |Journey Optimizerの専門家による 3 時間ほどの AMA のようなチャットセッションで、Journey Optimizerのジャーニー実験、フリークエンシーキャップ、多言語メッセージの機能を試す必要があります。 | **9 月 4 日午前 9:00 MT** | [ 登録 ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
 
 その他Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
