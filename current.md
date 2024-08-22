@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4955798262f3d97c1a7944dbadab05d70cb66c40
+source-git-commit: 4f85a610d82980e431f5e3692e1fecb28677478b
 workflow-type: tm+mt
-source-wordcount: '3185'
-ht-degree: 90%
+source-wordcount: '3155'
+ht-degree: 92%
 
 ---
 
@@ -32,9 +32,9 @@ ht-degree: 90%
 
 ## 2024年8月
 
-最終更新日：**2024年8月20日（PT）**
+最終更新日：**2024年8月22日（PT）**
 
-* [[!DNL Experience League]  イベントとアップデート ](#events) （更新日：**8 月 20 日**）
+* [[!DNL Experience League]  イベントとアップデート ](#events) （更新日：**8 月 22 日（PT**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -68,17 +68,22 @@ Experience League に関するエキサイティングなイベントについ�
 
 ### Experience Leagueのプレイリスト（新規）
 
-更新：**2024 年 8 月 16 日**
+更新：**2024 年 8 月 22 日**
 
-ビデオ [ 再生リスト ](https://experienceleague.adobe.com/en/playlists) がExperience Leagueで新しく追加されました。 プレイリストは、求めるスキルや知識をすばやく習得できるように設計された、厳選されたビデオコレクションです。
+新しいビデオ [ 再生リスト ](https://experienceleague.adobe.com/ja/playlists) がExperience Leagueで入手できます。 プレイリストは、求めるスキルや知識をすばやく習得できるように設計された、厳選されたビデオコレクションです。
+
+プレイリストの機能は次のとおりです。
+
+* ビデオの自動再生
+* チャプター選択と再生速度
+* 中断した箇所から再開する
+* ビデオトランスクリプト
 
 プレイリストを参照するには、**[!UICONTROL 学習]**/**[!UICONTROL すべてのプレイリストを参照]** に移動します。
 
 >[!NOTE]
 >
->**コース** はExperience Leagueから廃止されます。 コースのブックマークがある場合は、対応するプレイリストにリダイレクトされます。
-
-プレイリストやヘルプの問題に関するフィードバックをExperience Leagueに送信する場合は、各ページの下部にあるフィードバック ポップアップを使用します。
+>**コース** はExperience Leagueから廃止されます。 コースをブックマークした場合、対応するプレイリストが存在すれば、そのプレイリストにリダイレクトされます。 場合によっては、探しているトピックをカバーする新しいプレイリストを参照する必要があります。
 
 ### Experience League に関するイベント
 
@@ -86,13 +91,11 @@ Experience League に関するエキサイティングなイベントについ�
 
 * **[!DNL EXPERIENCE CLOUD]** | コミュニティイベント | _2025 AdobeExperience Maker Awards_ | 2025Adobeエクスペリエンスメーカー賞の作品が募集されています。 非凡は始まりに過ぎない。 大胆なビジョン。 優れた顧客体験。 | **なし** | [ 今すぐ申請 ](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** |お客様ワークショップ |_学習：取り込みプロセスでのWorkfront リクエストキューの使用_ |お客様の組織の作業をトラッキング、整理、レポートするための、Workfront リクエストキューの利点とベストプラクティスに関するディスカッションに参加してください。 | **8月21日9:30（MT）** | [登録](https://events.teams.microsoft.com/event/ba631a2b-d656-42ca-99e9-3a78d0229c7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | コミュニティイベント | _データドリップ：Adobe Analyticsの基本知識とその先_ |Adobe Analyticsのエキスパートが、ワークスペースを整理したり、初心者向けのAdobe Analyticsのラーニングパスをナビゲートしたり、サードパーティのデータビジュアライゼーションツールと接続したりするためのベストプラクティスを説明します。 | **8月22日11:00（MT）** | [登録](https://adobeevents.adobeconnect.com/et45xd86xdq9/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** |お客様ワークショップ | _学ぶ：Workfront Fusion の事例の作成_ | カスタマーサクセスチームと共に、Deloitte とAdobe Workfront統合コンサルティングによる 1 時間のインタラクティブワークショップに参加して、時間節約を定量化し、Workfront Fusion の強力なビジネスケースを構築する方法を学びます。 | **8月27日10:00（MT）** | [登録](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL JOURNEY OPTIMIZER]** | コーヒーブレーク | _Adobe Journey Optimizer コミュニティ Q&amp;A コーヒーブレーク_ |Journey Optimizerの専門家による 3 時間ほどの AMA のようなチャットセッションで、Journey Optimizerのジャーニー実験、フリークエンシーキャップ、多言語メッセージの機能を試す必要があります。 | **9 月 4 日午前 9:00 MT** | [ 登録 ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL WORKFRONT]** | コミュニティイベント | _交流：マーケティング&amp;クリエイティブ向け管理チャット_ |あなたはマーケティングチームまたはクリエイティブチームのシステム管理者ですか？ このお客様主導のセッションでは、他の管理者と交流し、ベストプラクティスやヒントとコツについて話し合います。| **9 月 6 日午前 10:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 その他Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
