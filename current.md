@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4f85a610d82980e431f5e3692e1fecb28677478b
+source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
 workflow-type: tm+mt
-source-wordcount: '3155'
-ht-degree: 92%
+source-wordcount: '3186'
+ht-degree: 90%
 
 ---
 
@@ -28,13 +28,19 @@ ht-degree: 92%
 
 最高のセルフヘルプエクスペリエンスを実現するには、[Experience League](https://experienceleague.adobe.com/ja#home) にログインし、アドビの[ドキュメント](https://experienceleague.adobe.com/ja/docs)、[コース](https://experienceleague.adobe.com/?lang=ja#courses)、[イベント](https://experienceleague.adobe.com/events/)、[コミュニティフォーラム](https://experienceleaguecommunities.adobe.com/?profile.language=ja)、[サポート](https://experienceleague.adobe.com/?support-tab=home&amp;lang=ja#support)の無料ライブラリ全体での検索エクスペリエンスをカスタマイズします。
 
+**フィードバックを残す**
+
+**_このコンテンツは役に立ちましたか？各ペ_** ジの下部にあるポップアップ。 フィードバックがキュレーションされ、コンテンツ作成者に配信されます。
+
+**通知を受け取**
+
 このページの更新に関するメール通知を毎月受け取るには、[アドビ優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。
 
 ## 2024年8月
 
-最終更新日：**2024年8月22日（PT）**
+最終更新日：**2024年8月28日（PT）**
 
-* [[!DNL Experience League]  イベントとアップデート ](#events) （更新日：**8 月 22 日（PT**）
+* [[!DNL Experience League]  イベントとアップデート ](#events) （更新日：**8 月 28 日（PT**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -91,9 +97,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 * **[!DNL EXPERIENCE CLOUD]** | コミュニティイベント | _2025 AdobeExperience Maker Awards_ | 2025Adobeエクスペリエンスメーカー賞の作品が募集されています。 非凡は始まりに過ぎない。 大胆なビジョン。 優れた顧客体験。 | **なし** | [ 今すぐ申請 ](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** |お客様ワークショップ | _学ぶ：Workfront Fusion の事例の作成_ | カスタマーサクセスチームと共に、Deloitte とAdobe Workfront統合コンサルティングによる 1 時間のインタラクティブワークショップに参加して、時間節約を定量化し、Workfront Fusion の強力なビジネスケースを構築する方法を学びます。 | **8月27日10:00（MT）** | [登録](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL JOURNEY OPTIMIZER]** | コーヒーブレーク | _Adobe Journey Optimizer コミュニティ Q&amp;A コーヒーブレーク_ |Journey Optimizerの専門家による 3 時間ほどの AMA のようなチャットセッションで、Journey Optimizerのジャーニー実験、フリークエンシーキャップ、多言語メッセージの機能を試す必要があります。 | **9 月 4 日午前 9:00 MT** | [ 登録 ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _AEMの迅速な開発環境の新機能_ |参加して、RDE を使用して開発のターンアラウンド時間を短縮し、コード変更のフィードバックをほぼ瞬時に得る方法を学びましょう。 ログの改善、フロントエンドのサポートなどの最新機能を紹介します。 | **9 月 4 日午前 9:00 MT** | [ 登録 ](https://adobe.ly/4cwc5W4)
 
 * **[!DNL WORKFRONT]** | コミュニティイベント | _交流：マーケティング&amp;クリエイティブ向け管理チャット_ |あなたはマーケティングチームまたはクリエイティブチームのシステム管理者ですか？ このお客様主導のセッションでは、他の管理者と交流し、ベストプラクティスやヒントとコツについて話し合います。| **9 月 6 日午前 10:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
