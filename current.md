@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea5f9d71aa7c077749f8ef0903362532688c7e44
+source-git-commit: 5999b9ecba0626d515248194beaabc77613ddf2f
 workflow-type: tm+mt
-source-wordcount: '3186'
+source-wordcount: '3215'
 ht-degree: 90%
 
 ---
@@ -38,11 +38,11 @@ ht-degree: 90%
 
 ## 2024年8月
 
-最終更新日：**2024年8月28日（PT）**
+最終更新日：**2024年9月3日（PT）**
 
-* [[!DNL Experience League]  イベントとアップデート ](#events) （更新日：**8 月 28 日（PT**）
+* [[!DNL Experience League]  のイベントとアップデート](#events)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
+* [[!DNL Adobe Experience Cloud]  – 中央インターフェイスと管理 ](#ecloud) （更新日：**9 月 3 日（PT**）
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)（リリース日：**8月14日（PT）**）
@@ -132,7 +132,11 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-更新はありません。
+リリース：**2024 年 9 月 2 日**
+
+| 機能 | 説明 |
+| -----------| ---------- |
+| Slackの通知 | アカウントの環境設定を行い、SlackにExperience Cloud通知を送信できます。 詳しくは、{ アカウントの環境設定と通知 _のヘルプで [0}Slackの通知 ](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) を参照してください。_ |
 
 Experience Cloud の主要なインターフェイスコンポーネントに関するヘルプについては、[Experience Cloud インターフェイスおよび管理ガイド](https://experienceleague.adobe.com/ja/docs/core-services/interface/experience-cloud)（[!UICONTROL 顧客属性]、[!DNL Experience Cloud Assets]、[!UICONTROL オーディエンス]などを含む）を参照してください。
 
