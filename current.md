@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5999b9ecba0626d515248194beaabc77613ddf2f
+source-git-commit: 94b28700a1b4281fa99e9b47f2421960b085c519
 workflow-type: tm+mt
-source-wordcount: '3215'
-ht-degree: 90%
+source-wordcount: '3186'
+ht-degree: 89%
 
 ---
 
@@ -406,11 +406,13 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 ### [!DNL Campaign] ヘルプリソース
 
-* [!DNL Campaign] web インターフェイス：[新機能](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/whats-new) - [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/campaign-web-home)
-* [!DNL Campaign] v8：[ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/campaign-home) - [リリースノート](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/new/whats-new) - [実装ガイド](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/config/implement/implement)
-* [!DNL Campaign] Standard：[Campaign Standard ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/campaign-standard-home) - [リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/release-notes/release-notes) - [チュートリアルビデオ](https://experienceleague.adobe.com/ja/docs/campaign-standard-learn/tutorials/overview) - [リリース計画](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/release-notes/release-planning) - [最新のドキュメント更新](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/release-notes/documentation-updates)
-* [!DNL Campaign] Classic：[Campaign Classic v7 ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/campaign-classic-home) - [リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/release-notes/latest-release) - [チュートリアルビデオ](https://experienceleague.adobe.com/ja/docs/campaign-classic-learn/tutorials/overview) - [最新のドキュメント更新](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/release-notes/documentation-updates)
-* [!DNL Campaign] コントロールパネル：[ドキュメント](https://experienceleague.adobe.com/ja/docs/control-panel/using/control-panel-home) - [リリースノート](https://experienceleague.adobe.com/ja/docs/control-panel/using/release-notes/release-notes) - [チュートリアルビデオ](https://experienceleague.adobe.com/ja/docs/control-panel-learn/tutorials/control-panel-overview)
+* [!DNL Web User Interface]: **9 月 3 日**～ [ リリースノート ](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/release-notes/release-notes) | [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/campaign-web-home)
+
+* [!DNL Campaign] v8: **9 月 3 日（PT）** - [ リリースノート ](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/releases/release-notes) | [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/campaign-home)
+
+* [!DNL Campaign Classic] v7：[リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/release-notes/latest-release) | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/campaign-classic-home)
+
+* [!DNL Campaign Standard]：**2024年8月** - [リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/release-notes/release-notes) | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/campaign-standard-home)
 
 +++
 
