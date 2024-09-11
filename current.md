@@ -6,7 +6,7 @@ last-update: September 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 97749fe216b3f8a23f3a47010f0cf08cfe421996
+source-git-commit: f0ee3effcdf1abcc2acbfe7b853adec15322dd2d
 workflow-type: tm+mt
 source-wordcount: '4127'
 ht-degree: 43%
@@ -53,7 +53,7 @@ ht-degree: 43%
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
-* [[!DNL Journey Optimizer B2B Edition]](#ajo-b2b)
+* [[!DNL Adobe Journey Optimizer B2B Edition]](#ajo-b2b)
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
