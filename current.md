@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c563d797f681063494a6b9b5e3448cb71bfa6ce1
+source-git-commit: 0d239505fecd3d8b933bfb0e16ded3632b463b1f
 workflow-type: tm+mt
-source-wordcount: '4127'
-ht-degree: 100%
+source-wordcount: '3845'
+ht-degree: 97%
 
 ---
 
@@ -38,15 +38,15 @@ ht-degree: 100%
 
 ## 2024年10月
 
-最終更新日：**2024年10月2日（PT）**
+最終更新日：**2024年10月3日（PT）**
 
 * [[!DNL Experience League]  のイベントと最新情報](#events)（更新日：**9月10日（PT）**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Analytics]](#analytics) （リリース：**10 月 2** （PT））
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （リリース：**10 月 2** （PT））
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -93,21 +93,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **[!DNL MARKETO ENGAGE]** | コミュニティイベント | _Marketo と Mocha：Marketo の使用状況の最適化（成熟度 Pt 2）_ | Marketo 成熟度シリーズの第 2 部で、Marketo の使用状況を最適化する方法を説明します。このセッションでは、パーソナライゼーションを改善するためのデータ管理、統合およびプログラム最適化に関するベストプラクティスに焦点を当てます。| **9月12日午前 11:00（MT）** | [登録](https://adobeevents.adobeconnect.com/eaawduywkndj/event/registration.html?campaign-id=ExL)
+* **[!DNL WORKFRONT]** | コミュニティイベント | _交流：マーケティング&amp;クリエイティブ向け管理チャット_ |あなたはマーケティングチームまたはクリエイティブチームのシステム管理者ですか？ この顧客主導のセッションでは、他のWorkfront管理者とつながり、ベストプラクティスとヒントおよびテクニックについて話し合います。 | **10 月 4 日午前 10:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | カスタマーワークショップ | _学習：アドビ製品を使用した Workfront ボードに戻る_ | Workfront ボードを使用する新しいクリエイティブな使い方をお探しですか？当社の製品マネージャーと共に、ボードのベストプラクティスと、この機能を使用して導入を改善する方法について説明します。| **9月12日午後 12:00（MT）** | [登録](https://events.teams.microsoft.com/event/e1e4a956-0115-4a60-b7f8-f519e6f26013@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | コミュニティイベント | _Connect：Workfront Collective_ | 毎月月曜日の Workfront Collective イベントに参加して、他のお客様とつながり、Workfront の機能について話し合い、共通の課題を解決するためのブレインストーミングを行ってください。| **9月16日午前 7:00（MT）** | [登録](https://events.teams.microsoft.com/event/ecc08357-a15e-4058-a062-8efe038c81cc@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | カスタマーワークショップ | _管理者 101：Workfront に関する質問_ | Workfront を初めて使用する場合前回の管理者 101 セッションを見逃しましたか？サマリーセッションに参加して質問したり、リソースや推奨事項を入手したり、他の新しい管理者と交流したりしましょう。| **9月17日午前 9:00（MT）** | [登録](https://events.teams.microsoft.com/event/ea6802af-b1dc-441a-aedb-79ed8607e02d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL MARKETO ENGAGE]** | ウェビナー | _マルチストリームエンゲージメントプログラムを使用した複雑なカスタマージャーニーのマスター_ | Adobe Marketo Engage チャンピオンの Max Garrett が、マルチタッチおよびマルチストリームのエンゲージメントプログラムを利用して、ジャーニーのあらゆる段階において顧客関係を体系的にエンゲージし、育成する方法を説明します。| **9月17日午前 9:00（MT）** | [登録](https://engage.adobe.com/Master-Muti-Stream-Engagement-Program-Marketo-Engage.html?trackingid=CJ1327K1&amp;mv=email)
-
-* **[!DNL WORKFRONT]** | カスタマーワークショップ | _学習：価値の実現 - Workfront を最大限に活用_ | Workfront の取り組みを最大限に活用する方法についてのガイダンスをお探しですか？シニアカスタマーサクセスマネージャーの Kait Winchell が、Workfront を最大限に活用するための業界ベストプラクティスをご紹介します。| **9月19日午前 9:00（MT）** | [登録](https://events.teams.microsoft.com/event/6fae993e-73b5-49e6-97a1-1aa0a64b83c8@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | ウェビナー | _コマース＆コーヒー：ピークシーズンへの準備_ | Corey Gelato が、1 年中いつでもピークシーズンに合わせたサイトの準備方法の概要を説明します。Web サイトのパフォーマンスの最適化、在庫管理、注文の実行を行い、サポートをプロアクティブに強化する方法について説明します。| **9月19日午前 11:00（MT）** | [登録](https://adobeevents.adobeconnect.com/e47se7d9nn63/event/registration.html?campaign-id=ExL)
-
-* **[!DNL DYNAMIC MEDIA CLASSIC],[!DNL EXPERIENCE MANAGER ASSETS]** | ウェビナー | _Dynamic Media エクスペリエンス：最新のイノベーションを発表_ | AEM Dynamic Media の新しいイノベーションを利用して、カスタマーエクスペリエンスを向上できるようになりました。価値を重視した概要と、最新のテクノロジーで構築された魅力的なユーザーエクスペリエンスのウォークスルーにご参加ください。| **9月25日午前 10:00（MT）** | [登録](https://events.teams.microsoft.com/event/043c6637-cfaf-486b-8924-2e562d28c833@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | コミュニティイベント | _Admin 101: Workfrontの概要_ | Workfrontを初めて使用する場合 3 部構成の Admin 101 シリーズの最初のセッションにご参加ください。 システムの設定とナビゲーションに関するベストプラクティスと推奨事項、および必須のリソースについて学ぶことができます。 | **10 月 8 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 その他Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
@@ -247,7 +235,7 @@ Experience League に関する Adobe [!DNL Analytics] の新しいチュート�
 
 +++詳細
 
-[!DNL Customer Journey Analytics] リリース日：**2024年9月11日（PT）**
+[!DNL Customer Journey Analytics] リリース日：**2024年10月2日（PT）**
 
 * [!DNL Customer Journey Analytics] [リリースノート](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/releases/latest#releases) <!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
@@ -638,7 +626,6 @@ Experience League の最新のチュートリアルについては、[コンテ�
 | 公開日 | アプリケーション | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | 2024年9月 | Acrobat | [ユーザーを管理者ロールに昇格させる方法](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/promote-admin.html?lang=en) | ビデオ | Adobe Admin Console を使用して、ユーザーを Acrobat Sign 管理者ロールに昇格させる方法について説明します。 |
-| 2024年9月 | Acrobat | [複数のプロファイルの使用方法](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/multiple-profiles) | ビデオ | プロファイルピッカーを使用して複数の Acrobat Sign アカウントを操作する方法について説明します。 |
 | 2024年9月 | Acrobat Sign | [監査レポート](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/audit-reports) | ビデオ | 組織のニーズに合わせて、監査レポートにアクセスし、利用、設定する方法について説明します。Acrobat Sign のすべてのドキュメントは、トランザクションの進捗を定義する一連のイベント「マイルストーン」を通過します。これらのマイルストーンは、すべてのトランザクションの監査レポートに詳しく文書化されます。 |
 | 2024年9月 | Acrobat Sign | [一括ダウンロードツール](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/bulk-download-tool) | ビデオ | 一括ダウンロードツールを使用して、署名済みの契約書をすべてすばやくダウンロードし、時間を大幅に節約する方法について説明します。一括ダウンロードツールは、Windows と Mac OS X で使用できます。 |
 | 2024年9月 | Acrobat Sign | [自動更新の設定](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/salesforce-automatic-updates) | ビデオ | アカウントを Salesforce に簡単にリンクして自動更新を取得し、操作と精度を合理化する方法について説明します。 |
