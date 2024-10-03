@@ -2,18 +2,18 @@
 title: 最新のリリースノート
 description: Adobe [!DNL Experience Cloud] 製品とサービスの最新リリースノートおよびナレッジベースの問題をお読みください。Experience League に関する今後のイベントおよび新しいドキュメントについて説明します。  [!DNL Experience Cloud]  アプリケーションの最新のチュートリアルとコースを確認します。
 doc-type: release notes
-last-update: September 2024
+last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f0ee3effcdf1abcc2acbfe7b853adec15322dd2d
-workflow-type: ht
+source-git-commit: c563d797f681063494a6b9b5e3448cb71bfa6ce1
+workflow-type: tm+mt
 source-wordcount: '4127'
 ht-degree: 100%
 
 ---
 
-# Experience Cloud リリースノート2024年9月（PT）
+# Experience Cloud リリースノート - 2024年10月
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,9 +36,9 @@ ht-degree: 100%
 
 このページの更新に関するメール通知を毎月受信するには、[アドビ優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。
 
-## 2024年9月
+## 2024年10月
 
-最終更新日：**2024年9月11日（PT）**
+最終更新日：**2024年10月2日（PT）**
 
 * [[!DNL Experience League]  のイベントと最新情報](#events)（更新日：**9月10日（PT）**）
 * [[!DNL Adobe System Status]](#status)
@@ -208,7 +208,7 @@ Experience League に関する [!DNL Real-Time Customer Data Platform] の最新
 
 +++詳細
 
-[!DNL Analytics] リリース日：**2024年9月11日（PT）**
+[!DNL Analytics] リリース日：**2024年10月2日（PT）**
 
 * [!DNL Analytics] [リリースノート](https://experienceleague.adobe.com/ja/docs/analytics/release-notes/latest) <!-- * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)  -->
 
