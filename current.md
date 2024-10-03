@@ -6,14 +6,14 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0d239505fecd3d8b933bfb0e16ded3632b463b1f
+source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
 workflow-type: tm+mt
-source-wordcount: '3845'
+source-wordcount: '3847'
 ht-degree: 97%
 
 ---
 
-# Experience Cloud リリースノート - 2024年10月
+# Experience Cloudリリースノート - 2024 年 9 月/10 月
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,7 +36,7 @@ ht-degree: 97%
 
 このページの更新に関するメール通知を毎月受信するには、[アドビ優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。
 
-## 2024年10月
+## 2024 年 9 月～10 月
 
 最終更新日：**2024年10月3日（PT）**
 
