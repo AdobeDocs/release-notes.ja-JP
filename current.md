@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
-workflow-type: ht
+source-git-commit: f80213edd3db47dd0519beeaaaeb1cbfc9e04883
+workflow-type: tm+mt
 source-wordcount: '3847'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -38,9 +38,9 @@ ht-degree: 100%
 
 ## 2024年9月～10月
 
-最終更新日：**2024年10月3日（PT）**
+最終更新日：**2024年10月10日（PT）**
 
-* [[!DNL Experience League]  のイベントと最新情報](#events)（更新日：**9月10日（PT）**）
+* [[!DNL Experience League]  イベントとアップデート ](#events) （更新日：**10 月 10 日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -93,9 +93,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **[!DNL WORKFRONT]** | コミュニティイベント | _つながる：マーケティング＆クリエイティブ向け管理チャット_ | マーケティングチームやクリエイティブチームのシステム管理者の場合このお客様主導のセッションでは、他の Workfront 管理者と交流し、ベストプラクティスやヒントとコツについて話し合います。| **10月4日午前 10:00（MT）** | [登録](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | コミュニティイベント | _Connect:Workfrontコレクティブ_ |月曜日の朝に開かれたディスカッションに参加して、カスタマーサクセスチームと他のWorkfront管理者をつなぎ、最新機能について話し合い、アイデアを共有し、一般的な課題に対するソリューションのブレインストーミングを行います。 | **10月14日7:00（MT）** | [登録](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | コミュティティイベント | _管理 101：Workfront の基本を学ぶ_ | Workfront を初めてご利用ですか？3 部構成の管理 101 シリーズの最初のセッションにご参加ください。システムの設定とナビゲーションに関するベストプラクティスとレコメンデーション、および必須のリソースについて学ぶことができます。| **10月8日午前 9:00（MT）** | [登録](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** |お客様ワークショップ | _学ぶ：効率性の向上 – Cognizant がAdobe Workfrontをプロジェクトのエクセレンスに活用する方法_ | Sujatha T S （クリエイティブオペレーションシニアマネージャー、グローバルブランドおよびクリエイティブ、システム管理者）が、Cognizant がシステムとプロセスをどのように最適化し、プロジェクトのエクセレンスの効率を高めたかについて説明します。 | **10月17日午前 9:00（MT）** | [登録](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 その他Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
