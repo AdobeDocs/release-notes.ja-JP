@@ -7,13 +7,13 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3847'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# Experience Cloudリリースノート - 2024 年 9 月/10 月
+# Experience Cloud リリースノート - 2024年9月／10月
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,7 +36,7 @@ ht-degree: 97%
 
 このページの更新に関するメール通知を毎月受信するには、[アドビ優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。
 
-## 2024 年 9 月～10 月
+## 2024年9月～10月
 
 最終更新日：**2024年10月3日（PT）**
 
@@ -45,8 +45,8 @@ ht-degree: 97%
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) （リリース：**10 月 2** （PT））
-* [[!DNL Adobe Customer Journey Analytics]](#cja) （リリース：**10 月 2** （PT））
+* [[!DNL Adobe Analytics]](#analytics)（リリース日：**10月2日（PT）**）
+* [[!DNL Adobe Customer Journey Analytics]](#cja)（リリース日：**10月2日（PT）**）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -93,9 +93,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **[!DNL WORKFRONT]** | コミュニティイベント | _交流：マーケティング&amp;クリエイティブ向け管理チャット_ |あなたはマーケティングチームまたはクリエイティブチームのシステム管理者ですか？ この顧客主導のセッションでは、他のWorkfront管理者とつながり、ベストプラクティスとヒントおよびテクニックについて話し合います。 | **10 月 4 日午前 10:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | コミュニティイベント | _つながる：マーケティング＆クリエイティブ向け管理チャット_ | マーケティングチームやクリエイティブチームのシステム管理者の場合このお客様主導のセッションでは、他の Workfront 管理者と交流し、ベストプラクティスやヒントとコツについて話し合います。| **10月4日午前 10:00（MT）** | [登録](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | コミュニティイベント | _Admin 101: Workfrontの概要_ | Workfrontを初めて使用する場合 3 部構成の Admin 101 シリーズの最初のセッションにご参加ください。 システムの設定とナビゲーションに関するベストプラクティスと推奨事項、および必須のリソースについて学ぶことができます。 | **10 月 8 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | コミュティティイベント | _管理 101：Workfront の基本を学ぶ_ | Workfront を初めてご利用ですか？3 部構成の管理 101 シリーズの最初のセッションにご参加ください。システムの設定とナビゲーションに関するベストプラクティスとレコメンデーション、および必須のリソースについて学ぶことができます。| **10月8日午前 9:00（MT）** | [登録](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 その他Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
