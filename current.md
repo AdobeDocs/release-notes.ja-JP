@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1c909c2060ac5d838028dcd49def2d5c04e49e9a
+source-git-commit: e87cb9ab004a05e3555eabd29455ad9e8aa5231e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3969'
+ht-degree: 94%
 
 ---
 
@@ -93,11 +93,13 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **[!DNL WORKFRONT]** | コミュニティイベント | _Connect:Workfrontコレクティブ_ |月曜日の朝に開かれたディスカッションに参加して、カスタマーサクセスチームと他のWorkfront管理者をつなぎ、最新機能について話し合い、アイデアを共有し、一般的な課題に対するソリューションのブレインストーミングを行います。 | **10月14日7:00（MT）** | [登録](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** |お客様ワークショップ | _学ぶ：効率性の向上 – Cognizant がAdobe Workfrontをプロジェクトのエクセレンスに活用する方法_ | Sujatha T S （クリエイティブオペレーションシニアマネージャー、グローバルブランドおよびクリエイティブ、システム管理者）が、Cognizant がシステムとプロセスをどのように最適化し、プロジェクトのエクセレンスの効率を高めたかについて説明します。 | **10月17日午前 9:00（MT）** | [登録](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-その他Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
+* **[!DNL COMMERCE]** | ウェビナー | _ビールの背後：Commerceストアフロントを最適化_ |効率的にストアフロントを維持し、最適化する戦略をお探しですか？ 一般的なデータブロッカーに対する予防策、ボットアクティビティを軽減するための戦略、ディスク容量とデータベースサイズの計画について説明します。 | **10月17日11:00（MT）** | [登録](https://adobeevents.adobeconnect.com/ekboarwqotqv/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Q&amp;A チャット | _学ぶ：Adobe Workfrontの導入に対する Qualcomm のジャーニー_ | Adobe Workfrontのユーザー導入を大幅に促進するために利用された、Qualcomm の認定テクニカルAdobe Workfrontリーダーである Becky Barus という戦略的アプローチについて説明します。 | **10月23日10:00（MT）** | [登録](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+その他多数 Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
 +++
 
