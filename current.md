@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e87cb9ab004a05e3555eabd29455ad9e8aa5231e
+source-git-commit: 6d6a35b5c5c9ebd43c9cf2a683213578ff0f5912
 workflow-type: tm+mt
-source-wordcount: '3969'
-ht-degree: 94%
+source-wordcount: '3921'
+ht-degree: 95%
 
 ---
 
@@ -93,11 +93,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **[!DNL WORKFRONT]** |お客様ワークショップ | _学ぶ：効率性の向上 – Cognizant がAdobe Workfrontをプロジェクトのエクセレンスに活用する方法_ | Sujatha T S （クリエイティブオペレーションシニアマネージャー、グローバルブランドおよびクリエイティブ、システム管理者）が、Cognizant がシステムとプロセスをどのように最適化し、プロジェクトのエクセレンスの効率を高めたかについて説明します。 | **10月17日午前 9:00（MT）** | [登録](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | ウェビナー | _ビールの背後：Commerceストアフロントを最適化_ |効率的にストアフロントを維持し、最適化する戦略をお探しですか？ 一般的なデータブロッカーに対する予防策、ボットアクティビティを軽減するための戦略、ディスク容量とデータベースサイズの計画について説明します。 | **10月17日11:00（MT）** | [登録](https://adobeevents.adobeconnect.com/ekboarwqotqv/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** | Q&amp;A チャット | _学ぶ：Adobe Workfrontの導入に対する Qualcomm のジャーニー_ | Adobe Workfrontのユーザー導入を大幅に促進するために利用された、Qualcomm の認定テクニカルAdobe Workfrontリーダーである Becky Barus という戦略的アプローチについて説明します。 | **10月23日10:00（MT）** | [登録](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MULTIPLE APPLICATIONS]** |Adobe Developers Live | _Adobe Developers Live2024_ | サンノゼのAdobe本社でAdobe Developers Liveにご参加ください。 AEM開発者やCommerce開発者とつながり、最新のイノベーションを探索し、ベストプラクティスを学びます。 11 月 12 日（対面またはオンライン） 今すぐ登録！ | **11 月 12 日午前 9:00 MT** | [ 登録 ][(https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1] （https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024））
 
 その他多数 Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
