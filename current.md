@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6d6a35b5c5c9ebd43c9cf2a683213578ff0f5912
+source-git-commit: 64f8c46f7424a25a53e2da939c7ea29795ba1937
 workflow-type: tm+mt
-source-wordcount: '3921'
-ht-degree: 95%
+source-wordcount: '3907'
+ht-degree: 96%
 
 ---
 
@@ -142,7 +142,7 @@ Experience League に関するエキサイティングなイベントについ�
 | リリース日 | 機能 | 説明 |
 | -----------| -----------| ---------- |
 | 10年9月 | [!DNL Experience Cloud] での [!DNL Slack] 通知 | アカウントの環境設定を行い、Slack に [!DNL Experience Cloud] 通知を送信できます。詳しくは、[Slack 通知の購読](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/account-preferences)を参照してください。 |
-| 2年10月 | カスタマイズ可能ホーム | Experience Cloudランディングページで、「**[!UICONTROL 編集]**」をクリックします。 [!UICONTROL  編集 ] モードを使用すると、ウィジェットライブラリとカスタム背景にアクセスして、Experience Cloudのホームページをパーソナライズできます。 [!UICONTROL  編集 ] モードは、一括操作やレイアウトの調整など、ウィジェットの移動、サイズ変更、管理のためのシームレスで直感的なコントロールを提供し、より美しくカスタマイズされたエクスペリエンスを提供します。ウィジェットライブラリやカスタム背景へのアクセスでExperience Cloudのホームページをカスタマイズします。 |
+| 2年10月 | カスタマイズ可能ホーム | Experience Cloudランディングページで、「**[!UICONTROL 編集]**」をクリックします。 [!UICONTROL  編集 ] モードを使用すると、ウィジェットライブラリとカスタム背景にアクセスして、Experience Cloudのホームページをパーソナライズできます。 [!UICONTROL  編集 ] モードは、ウィジェットの移動、サイズ変更、管理のためのシームレスで直感的なコントロールを提供します。バルクアクションやレイアウト調整などが含まれ、より美しくカスタマイズされたエクスペリエンスを提供します。 |
 
 [!DNL Experience Cloud] の主要なインターフェイスコンポーネントに関するヘルプについては、[Experience Cloud インターフェイスおよび管理ガイド](https://experienceleague.adobe.com/ja/docs/core-services/interface/experience-cloud)（[!UICONTROL 顧客属性]、[!DNL Experience Cloud Assets]、[!UICONTROL オーディエンス]などを含む）を参照してください。
 
