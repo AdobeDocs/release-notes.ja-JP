@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 64f8c46f7424a25a53e2da939c7ea29795ba1937
+source-git-commit: 1a51bbbeef7022125cd7498e6863f9ad367198a4
 workflow-type: tm+mt
-source-wordcount: '3907'
-ht-degree: 96%
+source-wordcount: '3952'
+ht-degree: 95%
 
 ---
 
@@ -95,7 +95,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 * **[!DNL WORKFRONT]** | Q&amp;A チャット | _学ぶ：Adobe Workfrontの導入に対する Qualcomm のジャーニー_ | Adobe Workfrontのユーザー導入を大幅に促進するために利用された、Qualcomm の認定テクニカルAdobe Workfrontリーダーである Becky Barus という戦略的アプローチについて説明します。 | **10月23日10:00（MT）** | [登録](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL MULTIPLE APPLICATIONS]** |Adobe Developers Live | _Adobe Developers Live2024_ | サンノゼのAdobe本社でAdobe Developers Liveにご参加ください。 AEM開発者やCommerce開発者とつながり、最新のイノベーションを探索し、ベストプラクティスを学びます。 11 月 12 日（対面またはオンライン） 今すぐ登録！ | **11 月 12 日午前 9:00 MT** | [ 登録 ][(https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1] （https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024））
+* **[!DNL Experience Platform, Journey Optimizer, and Real-Time Customer Data Platform Collaboration]** | Q&amp;A チャット | _Adobe Experience League Live:Experience Ecosystems でオーディエンスを調和 – Experience Platformでのフェデレーテッド オーディエンス コンポジション_ | Federated Audience Composition が、Real-Time CDPとJourney Optimizerで、オーディエンスのキュレーションとアクティベーションに対する包括的なアプローチを提供する方法について説明します。 | **10月24日8:30（MT）** | [登録](https://engage.adobe.com/ExpLeagueLive-241024.html)
+
+* **[!DNL MULTIPLE APPLICATIONS]** |Adobe Developers Live | _Adobe Developers Live2024_ | サンノゼのAdobe本社でAdobe Developers Liveにご参加ください。 AEM開発者やCommerce開発者とつながり、最新のイノベーションを探索し、ベストプラクティスを学びます。 11 月 12 日（対面またはオンライン） 今すぐ登録！ | **11 月 12 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 その他多数 Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
