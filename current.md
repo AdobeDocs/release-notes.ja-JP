@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4dc15dc72d06718975ab5179065513265f061dc8
-workflow-type: ht
-source-wordcount: '4668'
+source-git-commit: 1f52efdc0836864a20ea66d286f9cee4d1587b6d
+workflow-type: tm+mt
+source-wordcount: '4532'
 ht-degree: 100%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 ## 2024年11月
 
-最終更新日：**10月23日（PT）**
+最終更新日：**10月30日（PT）**
 
 * [[!DNL Experience League] のイベントとアップデート](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -92,12 +92,6 @@ Experience League に関するエキサイティングなイベントについ�
 ### Experience League に関するイベント
 
 +++詳細
-
-* **[!DNL Workfront]** | Q&amp;A チャット | _学習：Adobe Workfront の導入に対する Qualcomm のジャーニー_ | Qualcomm の認定テクニカル Adobe Workfront リーダーである Becky Barus が、Adobe Workfront のユーザー採用を大幅に促進するために利用した戦略的アプローチについて説明します。| **10月23日10:00（MT）** | [登録](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Platform, Journey Optimizer, and Real-Time Customer Data Platform Collaboration]** | Experience League LIVE | _Adobe Experience League Live：エクスペリエンスエコシステムでのオーディエンスの調和 - Experience Platform での連合オーディエンス構成_ | 連合オーディエンス構成で、Real-Time CDP と Journey Optimizer を使用して、オーディエンスのキュレーションとアクティベーションに包括的なアプローチを提供する方法について説明します。| **10月24日9:30（MT）** | [登録](https://engage.adobe.com/ExpLeagueLive-241024.html)
-
-* **[!DNL Workfront]** | Q&amp;A チャット | _顧客パネル：ベテランの Workfront 管理者から学んだ教訓_ | 経験豊富な Adobe Workfront のお客様 4 名が参加する 1 時間のインタラクティブパネルディスカッションで、Workfront のインスタンスを実装、継承、管理、拡張する際に行う操作（または行わない操作）について説明します。| **10月29日午前 9:00（MT）** | [登録](https://events.teams.microsoft.com/event/bfdd4c24-1a60-447d-a91b-ad52806626a5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Cloud]（複数製品）** | Adobe Developers Live | _Adobe Developers Live 2024_ | サンノゼのアドビ本社で開催される Adobe Developers Live にご参加ください。AEM および Commerce の開発者とつながり、最新のイノベーションを探索します。ベストプラクティスについて説明します。11月12日（PT）、対面またはオンラインで開催します。今すぐ登録してください。| **11月12日午前 9:00（MT）** | [登録](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
@@ -188,7 +182,7 @@ Experience League に関する [!DNL Real-Time Customer Data Platform] の最新
 
 +++詳細
 
-[!DNL Analytics] リリース日：**2024年10月2日（PT）**
+[!DNL Analytics] リリース日：**2024年10月23日（PT）**
 
 * [!DNL Analytics] [リリースノート](https://experienceleague.adobe.com/ja/docs/analytics/release-notes/latest)<!-- (https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
 
@@ -226,7 +220,7 @@ Experience League に関する Adobe [!DNL Analytics] の新しいチュート�
 
 +++詳細
 
-[!DNL Customer Journey Analytics] リリース日：**2024年10月2日（PT）**
+[!DNL Customer Journey Analytics] リリース日：**2024年10月23日（PT）**
 
 * [!DNL Customer Journey Analytics] [リリースノート](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/releases/latest#releases) <!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
