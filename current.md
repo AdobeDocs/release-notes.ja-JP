@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7b1fc9eb2230cb7779b9253211080933c73cb796
+source-git-commit: 719336060311e774db7799c3357946dc2568ac67
 workflow-type: tm+mt
-source-wordcount: '4608'
-ht-degree: 98%
+source-wordcount: '4484'
+ht-degree: 99%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 98%
 
 ## 2024年11月
 
-最終更新日：**11 月 4 日**
+最終更新日：**11 月 8 日**
 
 * [[!DNL Experience League] のイベントとアップデート](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -93,13 +93,7 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **[!DNL Workfront]** |お客様ワークショップ | _学習：Workfrontジャーニーへの Change Management の適用_ | シニアカスタマーサクセスマネージャーの Keri Amundson が、Workfrontのジャーニーを変革するための変更管理のベストプラクティスを紹介します。 | **11月7日午前 9:00（MT）** | [登録](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** |お客様ワークショップ | _学習：Workfrontジャーニーへの Change Management の適用_ | シニアカスタマーサクセスマネージャーの Keri Amundson が、Workfrontのジャーニーを変革するための変更管理のベストプラクティスを紹介します。 | **11月7日午前 9:00（MT）** | [登録](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Experience Cloud]（複数製品）** | Adobe Developers Live | _Adobe Developers Live 2024_ | サンノゼのアドビ本社で開催される Adobe Developers Live にご参加ください。AEM および Commerce の開発者とつながり、最新のイノベーションを探索します。ベストプラクティスについて説明します。11月12日（PT）、対面またはオンラインで開催します。今すぐ登録してください。| **11月12日午前 9:00（MT）** | [登録](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
-
-* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | サンノゼのアドビ本社で開催される Adobe Developers Live にご参加ください。AEM および Commerce の開発者とつながり、最新のイノベーションを探索します。ベストプラクティスについて説明します。11月12日（PT）、対面またはオンラインで開催します。今すぐ登録してください。| **11月12日午前 9:00（MT）** | [登録](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 その他にも多数あります。Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
