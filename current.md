@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8f8c2c1c77f9ca98e7543ff7a52071c6fa49fea5
+source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
 workflow-type: tm+mt
-source-wordcount: '4635'
+source-wordcount: '4639'
 ht-degree: 94%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 94%
 
 **2024年11月**
 
-最終更新日：**2024年11月22日（PT）**
+最終更新日：**2024年11月24日（PT）**
 
 * [[!DNL Experience League]  イベントと最新情報 ](#events) （**11 月 24 日**）
 * [[!DNL Adobe System Status]](#status)
@@ -64,17 +64,17 @@ ht-degree: 94%
 * [アドビでの認定](https://experienceleague.adobe.com/ja/certification-home)
 * [アドビ製品のセキュリティの脆弱性](https://helpx.adobe.com/jp/security.html)
 
-## [!DNL Experience League] のイベントとアップデート {#events}
+## [!DNL Experience League] のアップデートとイベント {#events}
 
 Experience League に関するエキサイティングなイベントについて説明します。アドビの製品エキスパートから学んだり、質問の回答を得たり、製品エキスパートと交流したりするのにうってつけの場です。
 
-+++詳細
+### Experience Leagueの更新
 
-### 目次の機能強化
++++詳細
 
 更新日：**2024 年 11 月 22 日**
 
-Experience Leagueの各目次が次のように更新されました。
+**目次の更新：** Experience Leagueの各目次が次のように更新されました。
 
 * **[!UICONTROL すべてのセクションを展開]**：任意のExperience Leagueガイドの目次全体を表示します。 （この切替スイッチは、ページの読み込み後にオフになります。 この問題は、今後の更新で修正される予定です）。 **[!UICONTROL さらに表示]** および **[!UICONTROL さらに表示]** オプションが削除されました。
 * **スクロール**：長い目次をスクロールできます。
