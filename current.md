@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
+source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
 workflow-type: tm+mt
-source-wordcount: '4639'
-ht-degree: 94%
+source-wordcount: '4720'
+ht-degree: 93%
 
 ---
 
@@ -34,15 +34,15 @@ ht-degree: 94%
 
 **2024年11月**
 
-最終更新日：**2024年11月24日（PT）**
+最終更新日：**2024年12月11日（PT）**
 
-* [[!DNL Experience League]  イベントと最新情報 ](#events) （**11 月 24 日**）
+* [[!DNL Experience League]  イベントと最新情報 ](#events) （**12 月 11 日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) （リリース日：**10 月 23 日**）
-* [[!DNL Adobe Customer Journey Analytics]](#cja) （リリース日：**10 月 23 日**）
+* [[!DNL Adobe Analytics]](#analytics) （最新リリース：**10 月 23 日**）
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （最新リリース：**10 月 23 日**）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -103,6 +103,10 @@ Experience League に関するエキサイティングなイベントについ�
 ### Experience League に関するイベント
 
 +++詳細
+
+* **[!DNL Workfront]** | コミュニティイベント | _Connect:Workfrontコレクティブ_ |お客様とつながり、Workfrontの機能について話し合い、アイデアを共有し、ブレインストーミングを組み合わせて一般的な課題を解決するように設計された、月次のWorkfront集合行事に参加してください。 | **12 月 16 日午前 7:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Q&amp;A チャット | _管理者 101:Workfrontに関する質問_ | Workfrontを初めて使用する場合 前回の管理者 101 セッションを見逃しましたか？サマリーセッションに参加して質問したり、リソースや推奨事項を入手したり、他の新しい管理者と交流したりしましょう。| **12 月 17 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
