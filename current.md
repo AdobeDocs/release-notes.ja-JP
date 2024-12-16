@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
+source-git-commit: acb2e70c307774752fca6b7e0fb903c8d6c12601
 workflow-type: tm+mt
-source-wordcount: '4720'
-ht-degree: 93%
+source-wordcount: '4775'
+ht-degree: 92%
 
 ---
 
@@ -32,11 +32,11 @@ ht-degree: 93%
 
 **通知を受け取る：** このページの更新に関するメール通知を毎月受け取るには、[Adobe優先製品アップデート ](https://www.adobe.com/subscription/priority-product-update.html) に登録してください。
 
-**2024年11月**
+**2024 年 11 月/12 月**
 
-最終更新日：**2024年12月11日（PT）**
+最終更新日：**2024年12月16日（PT）**
 
-* [[!DNL Experience League]  イベントと最新情報 ](#events) （**12 月 11 日**）
+* [[!DNL Experience League]  イベントと最新情報 ](#events) （**12 月 16 日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -104,9 +104,11 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **[!DNL Workfront]** | コミュニティイベント | _Connect:Workfrontコレクティブ_ |お客様とつながり、Workfrontの機能について話し合い、アイデアを共有し、ブレインストーミングを組み合わせて一般的な課題を解決するように設計された、月次のWorkfront集合行事に参加してください。 | **12 月 16 日午前 7:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Workfront]** | Q&amp;A チャット | _管理者 101:Workfrontに関する質問_ | Workfrontを初めて使用する場合 前回の管理者 101 セッションを見逃しましたか？サマリーセッションに参加して質問したり、リソースや推奨事項を入手したり、他の新しい管理者と交流したりしましょう。| **12 月 17 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** |Workfront | _Adobe Workfront第 1 四半期リリースウェビナー_ |このウェビナーは、シニアプロダクトマネージャーの Jeremy Flores とのパートナーシップでホストされ、2025 年第 1 四半期リリースで来週リリースされる予定の最新のAdobe Workfront機能の機能強化について重点的に説明します。 | **1 月 9 日午前 10:30 MT** | [ 登録 ](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** |Workfront | _交流：マーケティング&amp;クリエイティブ向け管理チャット_ |あなたはマーケティングチームまたはクリエイティブチームのシステム管理者ですか？ カトリック・リリーフサービスと協力して開催されるこの顧客主導のセッションは、ベストプラクティスと質問の自由時間を提供します。 | **1 月 10 日午前 10:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
