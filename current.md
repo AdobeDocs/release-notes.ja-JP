@@ -6,14 +6,14 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: acb2e70c307774752fca6b7e0fb903c8d6c12601
+source-git-commit: 5e81c8f593c1bcb09e38e8fdb7dba85fb51aab75
 workflow-type: tm+mt
-source-wordcount: '4775'
-ht-degree: 92%
+source-wordcount: '4855'
+ht-degree: 89%
 
 ---
 
-# Experience Cloud リリースノート - 2024年11月
+# Experience Cloudリリースノート - 2024 年 11 月/12 月
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -34,15 +34,15 @@ ht-degree: 92%
 
 **2024 年 11 月/12 月**
 
-最終更新日：**2024年12月16日（PT）**
+最終更新日：**2024年1月9日（PT）**
 
 * [[!DNL Experience League]  イベントと最新情報 ](#events) （**12 月 16 日**）
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
+* [[!DNL Adobe Experience Cloud]  – 中央インターフェイスおよび管理 ](#ecloud) （**1 月 9 日**）
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) （最新リリース：**10 月 23 日**）
-* [[!DNL Adobe Customer Journey Analytics]](#cja) （最新リリース：**10 月 23 日**）
+* [[!DNL Adobe Analytics]](#analytics) （次回リリース：**1 月 22 日（PT**）
+* [[!DNL Adobe Customer Journey Analytics]](#cja) （次回リリース：**1 月 22 日（PT**）
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -104,8 +104,6 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **[!DNL Workfront]** | Q&amp;A チャット | _管理者 101:Workfrontに関する質問_ | Workfrontを初めて使用する場合 前回の管理者 101 セッションを見逃しましたか？サマリーセッションに参加して質問したり、リソースや推奨事項を入手したり、他の新しい管理者と交流したりしましょう。| **12 月 17 日午前 9:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Workfront]** |Workfront | _Adobe Workfront第 1 四半期リリースウェビナー_ |このウェビナーは、シニアプロダクトマネージャーの Jeremy Flores とのパートナーシップでホストされ、2025 年第 1 四半期リリースで来週リリースされる予定の最新のAdobe Workfront機能の機能強化について重点的に説明します。 | **1 月 9 日午前 10:30 MT** | [ 登録 ](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** |Workfront | _交流：マーケティング&amp;クリエイティブ向け管理チャット_ |あなたはマーケティングチームまたはクリエイティブチームのシステム管理者ですか？ カトリック・リリーフサービスと協力して開催されるこの顧客主導のセッションは、ベストプラクティスと質問の自由時間を提供します。 | **1 月 10 日午前 10:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
@@ -144,7 +142,9 @@ Experience Cloud商品の利用状況データの設定を管理しやすくす�
 
 | リリース日 | 機能 | 説明 |
 | -----------| -----------| ---------- |
-| 10月2日 | カスタマイズ可能なホーム | Experience Cloud ランディングページで、「**[!UICONTROL 編集]**」をクリックします。[!UICONTROL 編集]モードを使用すると、ウィジェットライブラリとカスタム背景にアクセスして、Experience Cloud ホームページをパーソナライズできます。[!UICONTROL 編集]モードでは、ウィジェットの移動、サイズ変更、管理に対するシームレスで直感的な制御を行うことができます。この機能には、一括アクションとレイアウト調整が含まれ、より美しくカスタマイズされたエクスペリエンスを提供します。ウィジェットライブラリとカスタム背景にアクセスして、Experience Cloud ホームページをカスタマイズします。 |
+| **9年1月** | 製品の使用状況データ | Experience Cloudの商品の利用状況データの環境設定を簡単に制御できるように、Experience Cloudの [ 環境設定 ](https://experienceleague.adobe.com/docs/core-services/interface/features/account-preferences.html#product-usage-data) ページを合理化し、重複するオプションを削除しました。 この簡略化により、現在のExperience Cloud設定が保持されました。[ ユーザー設定 ](https://experience.adobe.com/preferences) でいつでも設定を更新できます。 |
+| **1 月 30 日** （リリース予定日） | スペクトル 2 | ヘッダーバーとヘッダーバーからアクセスするコンポーネントを含むExperience Cloudアプリケーションフレーム、および特定のアプリケーションの左側のナビゲーションレールは、Adobeの最新のデザインシステムである Spectrum 2 に更新されます。 この新しいデザインには、更新された図像が含まれていますが、同じ機能が含まれています。 ただし、ヘッダー内の複数の要素は、他のAdobeサイトやアプリケーションと整合するように再配置されます。 |
+| **10 月 2 日** | カスタマイズ可能なホーム | Experience Cloud ランディングページで、「**[!UICONTROL 編集]**」をクリックします。[!UICONTROL 編集]モードを使用すると、ウィジェットライブラリとカスタム背景にアクセスして、Experience Cloud ホームページをパーソナライズできます。[!UICONTROL 編集]モードでは、ウィジェットの移動、サイズ変更、管理に対するシームレスで直感的な制御を行うことができます。この機能には、一括アクションとレイアウト調整が含まれ、より美しくカスタマイズされたエクスペリエンスを提供します。ウィジェットライブラリとカスタム背景にアクセスして、Experience Cloud ホームページをカスタマイズします。 |
 
 [!DNL Experience Cloud] の主要なインターフェイスコンポーネントに関するヘルプについては、[Experience Cloud インターフェイスおよび管理ガイド](https://experienceleague.adobe.com/ja/docs/core-services/interface/experience-cloud)（[!UICONTROL 顧客属性]、[!DNL Experience Cloud Assets]、[!UICONTROL オーディエンス]などを含む）を参照してください。
 
