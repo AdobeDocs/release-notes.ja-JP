@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5e81c8f593c1bcb09e38e8fdb7dba85fb51aab75
+source-git-commit: 83c0def18c96df9a9325ecc69fa3c41a6cd2611f
 workflow-type: tm+mt
-source-wordcount: '4855'
-ht-degree: 89%
+source-wordcount: '5013'
+ht-degree: 86%
 
 ---
 
@@ -34,7 +34,8 @@ ht-degree: 89%
 
 **2024 年 11 月/12 月**
 
-最終更新日：**2024年1月9日（PT）**
+最終更新日：**2024 年 1 月 21 日**
+次回のページ更新：**2025 年 1 月 22 日**
 
 * [[!DNL Experience League]  イベントと最新情報 ](#events) （**12 月 16 日**）
 * [[!DNL Adobe System Status]](#status)
@@ -47,7 +48,7 @@ ht-degree: 89%
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Campaign]](#ac)（更新日：**1月21日（PT）**）
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Journey Optimizer B2B Edition]](#ajo-b2b)
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
@@ -104,9 +105,17 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **[!DNL Workfront]** |Workfront | _Adobe Workfront第 1 四半期リリースウェビナー_ |このウェビナーは、シニアプロダクトマネージャーの Jeremy Flores とのパートナーシップでホストされ、2025 年第 1 四半期リリースで来週リリースされる予定の最新のAdobe Workfront機能の機能強化について重点的に説明します。 | **1 月 9 日午前 10:30 MT** | [ 登録 ](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Workfrontで目を覚ます：何でも聞いてください_ |この「Ask Me Anything」セッションでは、Adobe Workfront ビジネスアドバイザーの Samantha Miller 氏、Aaron Baker 氏、Mary Ann Erickson 氏が、2025 年のお客様の成功に役立つ、Workfrontでの生の質問とベストプラクティスを紹介します。 | **1 月 23 日午前 11:00 MT** | [ 登録 ](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
 
-* **[!DNL Workfront]** |Workfront | _交流：マーケティング&amp;クリエイティブ向け管理チャット_ |あなたはマーケティングチームまたはクリエイティブチームのシステム管理者ですか？ カトリック・リリーフサービスと協力して開催されるこの顧客主導のセッションは、ベストプラクティスと質問の自由時間を提供します。 | **1 月 10 日午前 10:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Connect:Workfrontコレクティブ_ |お客様とつながり、Workfrontの機能について話し合い、アイデアを共有し、ブレインストーミングを組み合わせて一般的な課題を解決するように設計された、月次のWorkfront集合行事に参加してください。 | **1 月 27 日午前 7:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _学ぶ：Workfrontジャーニーの変化への抵抗を克服_ |Workfrontの変更管理のエキスパートと共に、ユーザーの抵抗感を特定して克服するためのベストプラクティスについて話し合いましょう。 | **1 月 30 日午前 10:00 MT** | [ 登録 ](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Target]** | _Adobe Target成熟度ウェビナーシリーズ_ | GenAI を含むAdobe Targetのイノベーション、および AI を活用したパーソナライゼーションと大規模な実験に関するベストプラクティス。 | **2 月 4 日午前 9:00 MT** | [ 登録 ](https://event.adobe.com/adobetargetmaturitywebinars)
+
+* **[!DNL Target]** | _Marketoと Mocha:2025 年に知っておくべき 5 つのMarketoの機能_ |今年の初めてのMarketo &amp; Mochas セッションでは、Marketoのエキスパートである Carly Gaver と Kate Colbert が、2025 年のカスタマーエクスペリエンスを向上させ、需要を促進するのに役立つ、5 つの機能豊富な機能を紹介します。 | **2 月 6 日午前 11:00 MT** | [ 登録 ](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Commerce]** | _Commerce&amp;コーヒー：B2B におけるセルフサービスの台頭_ | Commerceのエキスパート、Corey Gelato と Agbi Bajrushi が、最新の B2B トレンドと、Adobe Commerceの新機能を活用して 1 年を通じてコンテストに勝ち抜くためのアプローチを探索し、1 年を強力にスタートさせます。 | **2 月 13 日午前 11:00 MT** | [ 登録 ](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
 Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
@@ -381,13 +390,13 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 
 ### 最新の Campaign 製品リリース
 
-* [!DNL Web User Interface]：[リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/release-notes/release-notes) | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Campaign] v8: [2025 年 1 月 15 日（PT） – リリースノート ](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/releases/release-notes) | [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Campaign] v8：[リリースノート](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/releases/release-notes) | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Web User Interface]：[リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/release-notes/release-notes) | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign Classic] v7：[リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/release-notes/latest-release) | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/campaign-classic-home)
 
-* [!DNL Campaign Standard]：[リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/release-notes/release-notes) | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: [25.1 - 2025 年リリースノート ](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/release-notes/release-notes) | [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/campaign-standard-home)
 
 ### 新しい [!DNL Campaign] チュートリアル {#tutorials-campaign}
 
