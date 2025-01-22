@@ -6,9 +6,9 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e1fa57bb50fae162e3fcd51c1b28abbdba3bb3a3
+source-git-commit: 8cbb1bff56f6f664dd2c46c0fc53b04909761992
 workflow-type: tm+mt
-source-wordcount: '4495'
+source-wordcount: '4493'
 ht-degree: 41%
 
 ---
@@ -291,7 +291,7 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 ### Experience Manager リリース情報
 
-次回のAEM CS リリース：**1 月 30 日（PT）**
+次回の [!DNL Experience Manager as a Cloud Service] リリース：**1 月 30 日（PT）**
 
 [!DNL Experience Manager] のリリースノートはすべて次のページに記載されています。
 
