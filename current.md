@@ -6,10 +6,10 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 03486f88bc94130445325ac63150ecb54c953f48
+source-git-commit: a92a0f05c31eda25feb5f7555b87f711ac089a40
 workflow-type: tm+mt
-source-wordcount: '4370'
-ht-degree: 95%
+source-wordcount: '4224'
+ht-degree: 97%
 
 ---
 
@@ -33,13 +33,13 @@ ht-degree: 95%
 
 ## 2025年1月
 
-最終更新日：**2025年2月5日（PT）**
+最終更新日：**2025年2月12日（PT）**
 
 特定のアプリケーションのリリース日について詳しくは、製品のリリースノートを参照してください。
 
 * [[!DNL Experience League] のイベントとアップデート](#events)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
+* [[!DNL Adobe Experience Cloud]  – 中央インターフェイスと管理 ](#ecloud) （更新日：**2 月 12 日（PT**）
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
@@ -77,7 +77,7 @@ Experience League に関するエキサイティングなイベントについ�
 
 リリース日：**2025 年 2 月 5 日**
 
-まったく新しい [Experience Leagueホーム ](https://experienceleague.adobe.com/?lang=en) には、[!DNL Adobe Target] を活用してパーソナライズされたラーニングのお勧めが用意されています。
+まったく新しい [Experience League ホーム ](https://experienceleague.adobe.com/?lang=en) には、[!DNL Adobe Target] を活用してパーソナライズされたラーニングのお勧めが用意されています。
 
 主な機能：
 
@@ -95,15 +95,7 @@ Experience League に関するエキサイティングなイベントについ�
 
 * **[!DNL Adobe Summit]** | _デジタルエクスペリエンス会議_ |仲間に加わって、コカコーラ社、JPMorganChase、ServiceNow などの経営陣から話を聞いてください。 | **3 月 18～19 日@ラスベガス&amp;オンライン** | [ 登録 ](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Target]** | _Marketo と Mochas：2025年に知っておくべき 5 つの Marketo 機能_ | 今年最初の [!DNL Marketo] と Mochas セッションでは、[!DNL Marketo] のエキスパートである Carly Gaver と Kate Colbert が、2025年に顧客体験を向上させ、需要を促進するのに役立つ 5 つの機能について説明します。| **2月6日午前 11:00（MT）** | [登録](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
-
-* **[!DNL Workfront]** | _交流：マーケティング&amp;クリエイティブ向け管理チャット_ | マーケティングチームまたはクリエイティブチームのWorkfront システム管理者の場合は、 インタラクティブなディスカッションに参加して、他の管理者とつながり、ベストプラクティスを共有しましょう。 | **2月7日10:00（MT）** | [登録](https://events.teams.microsoft.com/event/5c409c21-d39e-4239-9853-5e69569711d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Admin 101: Workfrontを使用するためのユーザーの取得_ | Workfrontを初めて使用する場合 3 部構成のシリーズの第 2 セッションに参加して、プロジェクトの取り込みとユーザーの採用に関するベストプラクティスを紹介します。 | **2月11日9:00（MT）** | [登録](https://events.teams.microsoft.com/event/66877127-5d68-4f56-aeb6-ca6769551fb3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Workfrontガバナンスについて聞く_ | アドビの社内エキスパートに、組織の戦略目標に合わせてWorkfrontのプロセス、ポリシー、制御をどのように改善できるかを尋ねます。 | **2月12日9:00（MT）** | [登録](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-governance/ev-p/729202)
-
-* **[!DNL Marketo and Marketo Engage]** | _Adobe Marketo Engage チャンピオンの営業時間 – 2025 年 2 月_ | 2024/25Marketo Engageチャンピオンが率いる北米及びラタムのタイムフレンドリーチャンピオンのオフィスアワーにご参加ください。 | **2月13日8:00（MT）** | [登録](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
+* **[!DNL Marketo and Marketo Engage]** | _Adobe Marketo Engage チャンピオンの営業時間 – 2025 年 2 月_ |2024/25Marketo Engageチャンピオン率いる北米及びラタムのタイムフレンドリーチャンピオンのオフィスアワーにご参加ください。 | **2月13日8:00（MT）** | [登録](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
 
 * **[!DNL Commerce]** | _Commerce とコーヒー：B2B におけるセルフサービスの台頭_ | 弊社の [!DNL Commerce] エキスパート Corey Gelato と Agbi Bajrushi が、最新の B2B トレンドと、年間を通じて競争で優位に立つために新しいアドビ [!DNL Commerce] 機能を活用するアプローチについて説明します。この機会に、今年も力強くスタートしましょう。| **2月13日午前 11:00（MT）** | [登録](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
@@ -140,7 +132,7 @@ Experience League ですべての[今後のイベント](https://experienceleagu
 | 日付 | 機能 | 説明 |
 | -----------| -----------| ---------- |
 | 1月9日（PT） | 製品の使用状況データ | [!DNL Experience Cloud] 製品の使用状況データの設定をより簡単に制御できるように、[!DNL Experience Cloud] の[環境設定](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/account-preferences)ページを効率化し、重複するオプションを削除しました。簡素化を目的に、現在のユーザーの環境設定は保持され、[Experience Cloud の環境設定](https://experience.adobe.com/preferences)でいつでも環境設定を更新できます。 |
-| 2月5日（PT）（予定リリース日） | Spectrum 2 | ヘッダーバーおよびヘッダーバーからアクセスされるコンポーネント（および特定のアプリケーションの左側のナビゲーションパネル）を含む [!DNL Experience Cloud] アプリケーションフレームが Spectrum 2 に更新される予定です。Spectrum はアドビのデザイン標準です。この更新されたデザインには、更新されたアイコンが含まれていますが、機能は同じです。ただし、ヘッダー内の複数の要素は、他のアドビのサイトやアプリケーションに合わせて再配置されます。 |
+| 2月13日（PT）（予定リリース日） | Spectrum 2 | ヘッダーバーおよびヘッダーバーからアクセスされるコンポーネント（および特定のアプリケーションの左側のナビゲーションパネル）を含む [!DNL Experience Cloud] アプリケーションフレームが Spectrum 2 に更新される予定です。Spectrum はアドビのデザイン標準です。この更新されたデザインには、更新されたアイコンが含まれていますが、機能は同じです。ただし、ヘッダー内の複数の要素は、他のアドビのサイトやアプリケーションに合わせて再配置されます。 |
 
 [!DNL Experience Cloud] の主要なインターフェイスコンポーネントに関するヘルプについて詳しくは、[Experience Cloud インターフェイスおよび管理ガイド](https://experienceleague.adobe.com/ja/docs/core-services/interface/experience-cloud)（[!UICONTROL 顧客属性]、[!DNL Experience Cloud Assets]、[!UICONTROL オーディエンス]などを含む）を参照してください。
 
@@ -207,7 +199,7 @@ Experience League に関する [!DNL Real-Time CDP] の最新のチュートリ�
 
 +++詳細
 
-[!DNL Analytics] リリース日：**2025年1月22日（PT）**
+最新 [!DNL Analytics] リース日：**2025 年 1 月 22 日**
 
 * [!DNL Analytics] [リリースノート](https://experienceleague.adobe.com/ja/docs/analytics/release-notes/latest)<!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
 
@@ -245,7 +237,7 @@ Experience League に関する Adobe [!DNL Analytics] の新しいチュート�
 
 +++詳細
 
-[!DNL Customer Journey Analytics] リリース日：**2025年1月22日（PT）**
+最新 [!DNL Customer Journey Analytics] リース日：**2025 年 1 月 22 日**
 
 * [!DNL Customer Journey Analytics] [リリースノート](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/releases/latest#releases)<!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
