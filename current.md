@@ -6,9 +6,9 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a92a0f05c31eda25feb5f7555b87f711ac089a40
+source-git-commit: 4111e60fce38d2d4921bc817a587b735989fccc2
 workflow-type: tm+mt
-source-wordcount: '4224'
+source-wordcount: '4141'
 ht-degree: 97%
 
 ---
@@ -94,10 +94,6 @@ Experience League に関するエキサイティングなイベントについ�
 +++詳細
 
 * **[!DNL Adobe Summit]** | _デジタルエクスペリエンス会議_ |仲間に加わって、コカコーラ社、JPMorganChase、ServiceNow などの経営陣から話を聞いてください。 | **3 月 18～19 日@ラスベガス&amp;オンライン** | [ 登録 ](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Marketo and Marketo Engage]** | _Adobe Marketo Engage チャンピオンの営業時間 – 2025 年 2 月_ |2024/25Marketo Engageチャンピオン率いる北米及びラタムのタイムフレンドリーチャンピオンのオフィスアワーにご参加ください。 | **2月13日8:00（MT）** | [登録](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
-
-* **[!DNL Commerce]** | _Commerce とコーヒー：B2B におけるセルフサービスの台頭_ | 弊社の [!DNL Commerce] エキスパート Corey Gelato と Agbi Bajrushi が、最新の B2B トレンドと、年間を通じて競争で優位に立つために新しいアドビ [!DNL Commerce] 機能を活用するアプローチについて説明します。この機会に、今年も力強くスタートしましょう。| **2月13日午前 11:00（MT）** | [登録](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
 Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
