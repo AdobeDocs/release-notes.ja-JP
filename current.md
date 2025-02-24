@@ -6,9 +6,9 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 137dc623cf4b283e8a18e609d6847b72a5f20aa7
+source-git-commit: 566009aeac5ff30a0368d90226e1fd31583cba5d
 workflow-type: tm+mt
-source-wordcount: '3628'
+source-wordcount: '3671'
 ht-degree: 51%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 51%
 
 ## 2025年2月
 
-最終更新日：**2025年2月19日（PT）**
+最終更新日：**2025年2月24日（PT）**
 
 次のリンクを使用して、アプリケーションのリリースノート、イベント、新しいチュートリアルおよび最新のナレッジベースのサポート記事を確認します。
 
@@ -87,11 +87,13 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **[!DNL Adobe Summit]** | _デジタルエクスペリエンス会議_ |仲間に加わって、コカコーラ社、JPMorganChase、ServiceNow などの経営陣から話を聞いてください。 | **3 月 18～19 日@ラスベガス&amp;オンライン** | [ 登録 ](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Experience Cloud]** |Adobe Summit | _デジタルエクスペリエンス会議_ |仲間に加わって、コカコーラ社、JPMorganChase、ServiceNow などの経営陣から話を聞いてください。 | **3 月 18～19 日@ラスベガス&amp;オンライン** | [ 登録 ](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Experience Cloud]** | _Adobeデジタルインサイト：2024 年のホリデー結果と 2025 年初頭のトレンドを解き明かす_ | 2024 年のホリデーショッピングのトレンドと 2025 年上半期への展望の包括的な概要。 これらのインサイトを使用して、来年の顧客の期待を予測し、上回るのに役立てます。 | **2 月 20 日午前 10:00 MST** | [ 登録 ](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
+* **[!DNL Workfront]** |他のユーザーから学ぶ | _Workfront値の測定方法と共有方法_ | 2025 年 2 月 26 日（PT）にご参加ください。Synchrony と EMMsphere の同僚が、究極の「Workfrontの理由」を作成した方法と、時間やコスト削減などの測定可能な成果をどのように伝えたかについて共有します。| **2月26日8:00（PT）** | [登録](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
-* **[!DNL Workfront]** | _Connect:Workfrontコレクティブ_ |お客様とつながり、Workfrontの機能について話し合い、アイデアを共有し、ブレインストーミングを組み合わせて一般的な課題を解決するように設計された、月次のWorkfront集合行事に参加してください。 | **2 月 24 日午前 7:00 MST** | [ 登録 ](https://events.teams.microsoft.com/event/d3b3a3c3-9563-4499-a147-8b966d13a30d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | ウェビナー | _Adobe Workfrontにおけるエグゼクティブスポンサーシップの確保_ | AI アシスタントでAdobe Experience Platformとそのプラットフォームベースのアプリケーションの生産性を向上させ、作業を再定義し、貴重な運用上のインサイトを解き放つ方法を説明します。| **2 月 27 日午前 9:00 MST** | [ 登録 ](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Platform]** | Experience Leagueライブ | _Adobe Experience Platformの AI アシスタントで運用インサイトを引き出す_ | AI アシスタントでAdobe Experience Platformとそのプラットフォームベースのアプリケーションの生産性を向上させ、作業を再定義し、貴重な運用上のインサイトを解き放つ方法を説明します。| **2 月 27 日午前 8:30 （PST）** | [ 登録 ](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
 その他にも多数あります。Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
