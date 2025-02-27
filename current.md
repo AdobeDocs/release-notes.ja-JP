@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f3fadcb8c041692973a902fd3433483592aebf4c
+source-git-commit: ec5ef84d81c827c1bb16146f9694c31069023f2e
 workflow-type: tm+mt
-source-wordcount: '3671'
-ht-degree: 95%
+source-wordcount: '3590'
+ht-degree: 97%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 95%
 
 ## 2025年2月
 
-最終更新日：**2025年2月24日（PT）**
+最終更新日：**2025年2月27日（PT）**
 
 アプリケーションのリリースノート、イベント、新しいチュートリアルおよび最新のナレッジベースのサポート記事を検索するには、次のリンクを使用してください。
 
-* [[!DNL Experience League] のイベントとアップデート](#events)
+* [[!DNL Experience League]  イベントと最新情報 ](#events) （**2 月 26 日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -69,8 +69,6 @@ Experience League に関するエキサイティングなイベントについ�
 
 **パーソナライズされたホームページ**
 
-リリース日：**2025年2月5日（PT）**
-
 まったく新しい [Experience League ホーム](https://experienceleague.adobe.com/ja?lang=ja)には、[!DNL Adobe Target] を活用し、パーソナライズされた学習のレコメンデーションが用意されています。
 
 主な機能：
@@ -81,15 +79,13 @@ Experience League に関するエキサイティングなイベントについ�
 * 製品用に新しく公開されたコンテンツ
 * 再設計され、更新されたインターフェイス
 
+[詳細情報...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud/discover-smarter-faster-learning-with-experience-league-s-new/td-p/739750)
+
 +++
 
 ### Experience League に関するイベント
 
 +++詳細
-
-* **[!DNL Workfront]** |他のユーザーから学ぶ | _Workfront値の測定方法と共有方法_ | **2 月 26 日午前 8:00 PT** | 2025 年 2 月 26 日（PT）にご参加ください。Synchrony と EMMsphere の同僚が、究極の「Workfrontの理由」を作成した方法と、時間やコスト削減などの測定可能な成果をどのように伝えたかについて共有します。 | [ 登録 ](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
-
-* **[!DNL Workfront]** | ウェビナー | _Adobe Workfrontにおけるエグゼクティブスポンサーシップの確保_ | **2 月 27 日午前 9:00 MST** | AI アシスタントでAdobe Experience Platformとそのプラットフォームベースのアプリケーションの生産性を向上させ、作業を再定義し、貴重な運用上のインサイトを解き放つ方法を説明します。 | [ 登録 ](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Platform]** | Experience Leagueライブ | _Adobe Experience Platformの AI アシスタントで運用インサイトを引き出す_ | **2 月 27 日午前 8:30 （PST）** | AI アシスタントでAdobe Experience Platformとそのプラットフォームベースのアプリケーションの生産性を向上させ、作業を再定義し、貴重な運用上のインサイトを解き放つ方法を説明します。 | [ 登録 ](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
