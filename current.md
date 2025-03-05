@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
 workflow-type: tm+mt
 source-wordcount: '3666'
-ht-degree: 95%
+ht-degree: 96%
 
 ---
 
@@ -87,13 +87,13 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **[!DNL Experience Manager Forms]** | _エスプレッソス&amp;Experience Manager:AEM Forms_ | **3 月 6 日** |新しい Gen AI アシスタント、AEMとの統合コンポジション、会話を通じてフォームをデプロイする新しい方法など、AEM Formsの最新のイノベーションを紹介し、AdobeのAEM Sites製品チームと共にしましょう。 | [ 登録 ](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+* **[!DNL Experience Manager Forms]** | _エスプレッソス&amp;Experience Manager:AEM Forms_ | **3 月 6 日** |新しい Gen AI アシスタント、AEMとの統合コンポジション、会話を通じてフォームをデプロイする新しい方法など、AEM Formsの最新のイノベーションを紹介し、AdobeのAEM Sites製品チームと共にしましょう。 | [登録](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
 
-* **[!DNL Workfront]** | _交流：マーケティング&amp;Creative管理チャット_ | **3 月 7 日** | マーケティングやクリエイティブ、その他のチームのWorkfront システム管理者であるかどうかにかかわらず、このインタラクティブなディスカッションでは、ベストプラクティスと集団ブレインストーミングに焦点を当てます。 | [ 登録 ](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+* **[!DNL Workfront]** | _交流：マーケティング&amp;Creative管理チャット_ | **3 月 7 日** | マーケティングやクリエイティブ、その他のチームのWorkfront システム管理者であるかどうかにかかわらず、このインタラクティブなディスカッションでは、ベストプラクティスと集団ブレインストーミングに焦点を当てます。 | [登録](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
 
-* **[!DNL Workfront]** | _Admin 101: Workfront データの取得_ | **3 月 11 日** | Workfrontを初めて使用する場合 Admin 101 シリーズの 3 回目のセッションに参加して、すべてのレポートを学びましょう。 ブループリント、ダッシュボード、カスタムFormsなど、インタラクティブなディスカッションを期待できます。 | [ 登録 ](https://events.teams.microsoft.com/event/eda5b596-f91d-4834-80a0-e77205101a92@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Admin 101: Workfront データの取得_ | **3 月 11 日** | Workfrontを初めて使用する場合 Admin 101 シリーズの 3 回目のセッションに参加して、すべてのレポートを学びましょう。 ブループリント、ダッシュボード、カスタムFormsなど、インタラクティブなディスカッションを期待できます。 | [登録](https://events.teams.microsoft.com/event/eda5b596-f91d-4834-80a0-e77205101a92@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Cloud]** | _Adobe Summit - The Digital Experience Conference_ | **3 月 18 日～19 日@ラスベガス&amp;オンライン**|仲間に加わって、コカコーラ会社、JPMorganChase、ServiceNow などのエグゼクティブから話を聞いてください。 | [ 登録 ](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Experience Cloud]** | _Adobe Summit - The Digital Experience Conference_ | **3 月 18 日～19 日@ラスベガス&amp;オンライン**|仲間に加わって、コカコーラ会社、JPMorganChase、ServiceNow などのエグゼクティブから話を聞いてください。 | [登録](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 その他にも多数あります。Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
