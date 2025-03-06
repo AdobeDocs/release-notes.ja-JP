@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
+source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
 workflow-type: tm+mt
-source-wordcount: '3666'
-ht-degree: 96%
+source-wordcount: '3696'
+ht-degree: 95%
 
 ---
 
@@ -125,8 +125,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-| 日付 | 機能 | 説明 |
+| 日付 | 更新 | 説明 |
 | -----------| -----------| ---------- |
+| 2025 年 3 月 6 日（Pt） | 右クリック メニューオプション修正 | Experience Cloudのヘッダーナビゲーションタブで、右クリックやブラウザードロップダウンメニューの機能が可能になりました。 これは、Spectrum 2 設計システムの 2 月のリリースで導入された問題を修正します。 |
 | 2月13日 | Spectrum 2 | ヘッダーバーおよびヘッダーバーからアクセスされるコンポーネント（および特定のアプリケーションの左側のナビゲーションパネル）を含む [!DNL Experience Cloud] アプリケーションフレームが Spectrum 2 に更新される予定です。Spectrum はアドビのデザイン標準です。この更新されたデザインには、更新されたアイコンが含まれていますが、機能は同じです。ただし、ヘッダー内の複数の要素は、他のアドビのサイトやアプリケーションに合わせて再配置されます。 |
 
 [!DNL Experience Cloud] の主要なインターフェイスコンポーネントに関するヘルプについて詳しくは、[Experience Cloud インターフェイスおよび管理ガイド](https://experienceleague.adobe.com/ja/docs/core-services/interface/experience-cloud)（[!UICONTROL 顧客属性]、[!DNL Experience Cloud Assets]、[!UICONTROL オーディエンス]などを含む）を参照してください。
