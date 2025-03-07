@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
+source-git-commit: 09edfe74b52391d042548e0eb9dfbe33381d3d85
 workflow-type: tm+mt
-source-wordcount: '3696'
-ht-degree: 95%
+source-wordcount: '3688'
+ht-degree: 96%
 
 ---
 
@@ -87,13 +87,13 @@ Experience League に関するエキサイティングなイベントについ�
 
 +++詳細
 
-* **[!DNL Experience Manager Forms]** | _エスプレッソス&amp;Experience Manager:AEM Forms_ | **3 月 6 日** |新しい Gen AI アシスタント、AEMとの統合コンポジション、会話を通じてフォームをデプロイする新しい方法など、AEM Formsの最新のイノベーションを紹介し、AdobeのAEM Sites製品チームと共にしましょう。 | [登録](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+* **[!DNL Adobe Summit]** | _デジタルエクスペリエンス会議_ | **3 月 18 日～19 日@ラスベガス&amp;オンライン**|仲間に加わって、コカコーラ会社、JPMorganChase、ServiceNow などのエグゼクティブから話を聞いてください。 | [登録](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Workfront]** | _交流：マーケティング&amp;Creative管理チャット_ | **3 月 7 日** | マーケティングやクリエイティブ、その他のチームのWorkfront システム管理者であるかどうかにかかわらず、このインタラクティブなディスカッションでは、ベストプラクティスと集団ブレインストーミングに焦点を当てます。 | [登録](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+* **[!DNL Workfront]** | _学ぶ：Adobe Workfrontプランニングを使用してコースを成功に導く_ | **3 月 13 日** | Adobeのプロダクトマネージャーと共に、Workfrontの計画について詳しく紹介するセッションに参加してください。この機能を使用して、お客様の組織の運用詳細を包括的に把握する方法について説明します。 | [登録](https://events.teams.microsoft.com/event/2b79ba76-86bb-4100-9db7-c3d399e5d457@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Admin 101: Workfront データの取得_ | **3 月 11 日** | Workfrontを初めて使用する場合 Admin 101 シリーズの 3 回目のセッションに参加して、すべてのレポートを学びましょう。 ブループリント、ダッシュボード、カスタムFormsなど、インタラクティブなディスカッションを期待できます。 | [登録](https://events.teams.microsoft.com/event/eda5b596-f91d-4834-80a0-e77205101a92@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _管理者 101:Workfrontに関する質問_ | **3 月 25 日** | Workfrontを初めて使用する場合 前回の管理者 101 セッションを見逃しましたか？サマリーセッションに参加して質問したり、リソースや推奨事項を入手したり、他の新しい管理者と交流したりしましょう。| [登録](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Cloud]** | _Adobe Summit - The Digital Experience Conference_ | **3 月 18 日～19 日@ラスベガス&amp;オンライン**|仲間に加わって、コカコーラ会社、JPMorganChase、ServiceNow などのエグゼクティブから話を聞いてください。 | [登録](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Target]** | _大規模なインサイト、インテリジェンス、影響のPersonalization_ | **4 月 1 日** | Gen AI を含むAdobe Targetのイノベーション、および AI を活用したパーソナライゼーションと大規模な実験に関するベストプラクティス。 | [登録](https://event.adobe.com/adobetargetmaturitywebinars03)
 
 その他にも多数あります。Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
