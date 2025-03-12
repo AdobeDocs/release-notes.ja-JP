@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3d9970385a93930673e0b95e6de4cedbe235b5fd
+source-git-commit: 9bae2ace4b03080dcb5568d029a7cec530948547
 workflow-type: tm+mt
-source-wordcount: '4054'
+source-wordcount: '4056'
 ht-degree: 45%
 
 ---
@@ -203,7 +203,7 @@ Experience League に関する [!DNL Real-Time CDP] の最新のチュートリ�
 
 [!DNL Analytics] リリース日：**2025年3月12日（PT）**
 
-* [!DNL Analytics][release notes] （https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest） <!-- * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
+* [!DNL Analytics] [リリースノート](https://experienceleague.adobe.com/ja/docs/analytics/release-notes/latest)<!-- * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
 
 * [!DNL Analytics] [製品ドキュメントとチュートリアル](https://experienceleague.adobe.com/ja/docs/analytics)
 
