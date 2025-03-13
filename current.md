@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9bae2ace4b03080dcb5568d029a7cec530948547
+source-git-commit: 88777fd2d5c5f195b07fc537d25887de5dd68eee
 workflow-type: tm+mt
-source-wordcount: '4056'
-ht-degree: 45%
+source-wordcount: '4011'
+ht-degree: 42%
 
 ---
 
@@ -19,15 +19,19 @@ ht-degree: 45%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/?lang=ja#home) は、Experience Cloud とアドビのエンタープライズアプリケーションについて学ぶのに役立ちます。最高のエクスペリエンスを得るには、ログインし、無料のリソースライブラリ全体で検索をカスタマイズします。
+[Experience League](https://experienceleague.adobe.com/ja#home) は、Experience CloudおよびAdobe エンタープライズアプリケーションの学習に役立つリソースライブラリです。 ログインして以下を行う：
 
-* **通知を受信する：**&#x200B;このページの更新に関するメール通知を毎月受信するには、[アドビ優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。
+* [ ラーニングのカスタマイズ ](https://experienceleague.adobe.com/en/home/profile-settings)：ラーニングエクスペリエンスのカスタマイズにご協力ください。 自分の役割、業界、関心のある製品を選択します。
+* [ 参照して確認 ](https://experienceleague.adobe.com/en/browse)：人気のコンテンツ、新しいチュートリアル、ドキュメント、今後のイベントなどを検索できます。
+* [ 新しい視点を得る ](https://experienceleague.adobe.com/en/perspectives)：同業者やAdobeの製品エキスパートによる、様々な実際のユースケースやベストプラクティスを集めました。
+* [ 認定を受ける ](https://experienceleague.adobe.com/ja/certification-home)：新しいAdobe認定ポータルでは、スキルを磨き、簡単なプロセスで認定を受けることができます。
+* [ 仲間のコミュニティとの関わり方 ](https://experienceleaguecommunities.adobe.com/?profile.language=ja)：グループに参加したり、Experience Leagueコミュニティアドバイザーに会ったり、仲間になる方法を学んだりします。
 
-* **フィードバックを残す：**「**_このコンテンツは役に立ちましたか？」を探してください。_**&#x200B;ポップアップは、各記事またはビデオの下部にあります。フィードバックがキュレートされ、コンテンツ作成者に配信されます。
+このページの更新に関する四半期ごとのメール通知を受け取るには、[Adobe優先製品アップデート ](https://www.adobe.com/subscription/priority-product-update.html) を購読してください。
 
 ## 2025年3月
 
-最終更新日：**2025年3月12日（PT）**
+最終更新日：**2025年3月13日（PT）**
 
 アプリケーションのリリースノート、イベント、新しいチュートリアルおよび最新のナレッジベースのサポート記事を検索するには、次のリンクを使用してください。
 
@@ -58,37 +62,13 @@ ht-degree: 45%
 * [アドビでの認定](https://experienceleague.adobe.com/ja/certification-home)
 * [アドビ製品のセキュリティの脆弱性](https://helpx.adobe.com/jp/security.html)
 
-## [!DNL Experience League] の最新情報とイベント {#events}
+## [!DNL Experience League] のイベント {#events}
 
-Experience League に関するエキサイティングなイベントについて説明します。アドビの製品エキスパートから学んだり、質問の回答を得たり、製品エキスパートと交流したりするのにうってつけの場です。
+[ イベント ](https://experienceleague.adobe.com/events/) を見つけて、興味のあるイベントに登録してください。
 
-### Experience League に対する最新情報
-
-+++詳細
-
-**パーソナライズされたホームページ**
-
-まったく新しい [Experience League ホーム](https://experienceleague.adobe.com/ja?lang=ja)には、[!DNL Adobe Target] を活用し、パーソナライズされた学習のレコメンデーションが用意されています。
-
-主な機能：
-
-* 役割、製品、最近のアクティビティに基づいて推奨されるコンテンツ
-* 最近表示したコンテンツ
-* 推奨されるオンデマンドイベントと認定制度
-* 製品用に新しく公開されたコンテンツ
-* 再設計され、更新されたインターフェイス
-
-[詳細情報...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud/discover-smarter-faster-learning-with-experience-league-s-new/td-p/739750)
-
-+++
-
-### Experience League に関するイベント
-
-+++詳細
++++イベント
 
 * **[!DNL Adobe Summit]** | _デジタルエクスペリエンス会議_ | **3 月 18 日～19 日@ラスベガス&amp;オンライン**|仲間に加わって、コカコーラ会社、JPMorganChase、ServiceNow などのエグゼクティブから話を聞いてください。 | [登録](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _学ぶ：Adobe Workfrontプランニングを使用してコースを成功に導く_ | **3 月 13 日** | Adobeのプロダクトマネージャーと共に、Workfrontの計画について詳しく紹介するセッションに参加してください。この機能を使用して、お客様の組織の運用詳細を包括的に把握する方法について説明します。 | [登録](https://events.teams.microsoft.com/event/2b79ba76-86bb-4100-9db7-c3d399e5d457@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _管理者 101:Workfrontに関する質問_ | **3 月 25 日** | Workfrontを初めて使用する場合 前回の管理者 101 セッションを見逃しましたか？サマリーセッションに参加して質問したり、リソースや推奨事項を入手したり、他の新しい管理者と交流したりしましょう。| [登録](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -110,7 +90,9 @@ Experience League に関するエキサイティングなイベントについ�
 
 [!DNL Adobe System Status] で最新の機能や更新についてご確認ください。
 
-+++詳細
+3 月のアップデートはありません。
+
++++リリースノート
 
 [!DNL Adobe System Status] では、アドビ製品およびサービスに関する詳細情報、ステータス更新およびメール通知を提供します。停止、中断およびメンテナンスイベントに関する通知を受け取れます。[status.adobe.com/ja](https://status.adobe.com/ja) でご確認ください。
 
@@ -130,7 +112,7 @@ Experience League に関するエキサイティングなイベントについ�
 
 詳しくは、[!DNL Experience Cloud] の主要なインターフェイスのコンポーネントと管理を参照してください。製品とユーザーの管理、プロファイル設定と環境設定の指定、Experience Cloud オブジェクトの検索、Cookie の管理などを行えます。
 
-+++詳細
++++新機能
 
 | 日付 | 更新 | 説明 |
 | -----------| -----------| ---------- |
