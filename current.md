@@ -6,7 +6,7 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0dbafac346009c94ed92bd36d3700f54a93fd8d6
+source-git-commit: 2ee49223680d875489b16b64b541a9e43341f459
 workflow-type: tm+mt
 source-wordcount: '3951'
 ht-degree: 96%
@@ -192,22 +192,6 @@ Experience League に関する [!DNL Real-Time CDP] の最新のチュートリ�
 ### AppMeasurement {#appm}
 
 * [JavaScript 版 AppMeasurement リリースノート](https://github.com/adobe/appmeasurement/releases)
-
-<!-- ### New [!DNL Analytics] tutorials {#tutorials-analytics}
-
-New tutorials published for Adobe [!DNL Analytics] on Experience League.
-
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|March 2025|[Migrate Adobe Analytics to Web SDK using Tags](https://experienceleague.adobe.com/en/docs/platform-learn/migrate-analytics-to-websdk/migration-to-websdk-overview)| Multiple videos |Learn the steps to migrate an Adobe [!DNL Analytics] implementation using the [!DNL Analytics] extension in Experience Platform Tags (formerly known as [!DNL Launch]) to Web SDK, using the Web SDK extension also in Tags. |
-
-<!-- ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
-
-New articles and updates to existing articles for [!DNL Analytics].
-
-|Published|Name|Type|Description|
-|---------|----|----|-----------|
-|January 2025|[[!DNL Virtual Report Suite (VRS)] and funnel discrepancies in [!DNL Adobe Analytics]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25603) | New article| Learn how to solve funnel discrepancies in [!DNL Adobe Analytics] [!DNL Virtual Report Suite] (VRS) by comparing it to parent suite data and applying the correct segments.| -->
 
 +++
 
