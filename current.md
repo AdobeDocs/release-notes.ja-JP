@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b650fd69124036dd9e12bdb901467b3c5ab49de7
+source-git-commit: 53b0b8e4d33473fdca0a31307b905f51a49d405a
 workflow-type: tm+mt
-source-wordcount: '4011'
+source-wordcount: '3951'
 ht-degree: 96%
 
 ---
@@ -191,17 +191,15 @@ Experience League に関する [!DNL Real-Time CDP] の最新のチュートリ�
 
 ### AppMeasurement {#appm}
 
-リリースバージョン：**2.27.0**
+* [JavaScript 版 AppMeasurement リリースノート](https://github.com/adobe/appmeasurement/releases)
 
-* [JavaScript 版 AppMeasurement リリースノート](https://experienceleague.adobe.com/ja/docs/analytics/implementation/appmeasurement-updates)
+<!-- ### New [!DNL Analytics] tutorials {#tutorials-analytics}
 
-### 新しい [!DNL Analytics] チュートリアル {#tutorials-analytics}
+New tutorials published for Adobe [!DNL Analytics] on Experience League.
 
-Experience League に関する Adobe [!DNL Analytics] の新しいチュートリアルが公開されました。
-
-| 公開日 | 名前 | タイプ | 説明 |
+|Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-| 2025年3月 | [タグを使用した Adobe Analytics の Web SDK への移行](https://experienceleague.adobe.com/ja/docs/platform-learn/migrate-analytics-to-websdk/migration-to-websdk-overview) | 複数のビデオ | Experience Platform タグ（旧称 [!DNL Launch]）の [!DNL Analytics] 拡張機能を使用して Adobe [!DNL Analytics] 実装を Web SDK に移行する手順について説明します。この手順では、タグでも Web SDK 拡張機能を使用します。 |
+|March 2025|[Migrate Adobe Analytics to Web SDK using Tags](https://experienceleague.adobe.com/en/docs/platform-learn/migrate-analytics-to-websdk/migration-to-websdk-overview)| Multiple videos |Learn the steps to migrate an Adobe [!DNL Analytics] implementation using the [!DNL Analytics] extension in Experience Platform Tags (formerly known as [!DNL Launch]) to Web SDK, using the Web SDK extension also in Tags. |
 
 <!-- ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
