@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2ee49223680d875489b16b64b541a9e43341f459
+source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
 workflow-type: tm+mt
-source-wordcount: '3951'
-ht-degree: 96%
+source-wordcount: '3867'
+ht-degree: 95%
 
 ---
 
@@ -69,10 +69,6 @@ ht-degree: 96%
 +++イベント
 
 * **[!DNL Adobe Summit]** | _Digital Experience Conference_ | **3月18日～19日（PT）@ラスベガスとオンライン** | 仲間に加わり、Coca-Cola Company、JPMorganChase、ServiceNow などのエグゼクティブの話をお聞きください。| [登録](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _管理者 101：Workfront に関する質問_ | **3月25日（PT）**| Workfront を初めて使用する場合前回の管理者 101 セッションを見逃しましたか？サマリーセッションに参加して質問したり、リソースや推奨事項を入手したり、他の新しい管理者と交流したりしましょう。| [登録](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _学習：Adobe Workfront のテキストモードに関する 10 のヒント_ | **3月27日（PT）** | テキストモードでレポートに関する知識を深めませんか？さあこちらへこのワークショップでは、テキストモードの基本と API エクスプローラーの概要を説明し、続いて、Adobe Workfront の基本に関する 10 のヒントをご紹介します。| [登録](https://events.teams.microsoft.com/event/72b8860b-e330-4fcf-ad71-bb3c94265961@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _Connect：Workfront Collective_ | **3月31日（PT）** | 他のお客様とつながり、Workfront の機能について話し合い、アイデアを共有し、共通の課題を解決するためのブレインストーミングを行うように設計された、毎月月曜日の Workfront Collective イベントにご参加ください。| [登録](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
