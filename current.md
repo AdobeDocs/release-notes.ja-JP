@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3867'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 95%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/ja#home) は、Experience CloudおよびAdobe エンタープライズアプリケーションの学習に役立つリソースライブラリです。 ログインして以下を行う：
+[Experience League](https://experienceleague.adobe.com/ja#home) は、Experience Cloud とアドビのエンタープライズアプリケーションについて学ぶのに役立つリソースのライブラリです。ログインすると、次の操作を実行できます。
 
-* [ ラーニングのカスタマイズ ](https://experienceleague.adobe.com/en/home/profile-settings)：ラーニングエクスペリエンスのカスタマイズにご協力ください。 自分の役割、業界、関心のある製品を選択します。
-* [ 参照して確認 ](https://experienceleague.adobe.com/en/browse)：人気のコンテンツ、新しいチュートリアル、ドキュメント、今後のイベントなどを検索できます。
-* [ 新しい視点を得る ](https://experienceleague.adobe.com/en/perspectives)：同業者やAdobeの製品エキスパートによる、様々な実際のユースケースやベストプラクティスを集めました。
-* [ 認定を受ける ](https://experienceleague.adobe.com/ja/certification-home)：新しいAdobe認定ポータルでは、スキルを磨き、簡単なプロセスで認定を受けることができます。
-* [ 仲間のコミュニティとの関わり方 ](https://experienceleaguecommunities.adobe.com/?profile.language=ja)：グループに参加したり、Experience Leagueコミュニティアドバイザーに会ったり、仲間になる方法を学んだりします。
+* [学習をカスタマイズ](https://experienceleague.adobe.com/ja/home/profile-settings)：学習エクスペリエンスをカスタマイズするためにご協力ください。自分の役割、業界、興味のある製品を選択します。
+* [閲覧して発見](https://experienceleague.adobe.com/ja/browse)：人気のコンテンツ、新しいチュートリアル、ドキュメント、今後のイベントなどをご確認ください。
+* [新しい視点を得る](https://experienceleague.adobe.com/ja/perspectives)：同業者やアドビの製品エキスパートが記載した、様々な実際のユースケースとベストプラクティスを集めました。
+* [認定を受ける](https://experienceleague.adobe.com/ja/certification-home)：新しいアドビ認定ポータルを使用すると、スキルを磨き、認定を受けるプロセスが簡単になります。
+* [同業者のコミュニティに関与](https://experienceleaguecommunities.adobe.com/?profile.language=ja)：グループに参加したり、Experience League コミュニティアドバイザーに会ったり、メンバーになる方法を学ぶこともできます。
 
-このページの更新に関する四半期ごとのメール通知を受け取るには、[Adobe優先製品アップデート ](https://www.adobe.com/subscription/priority-product-update.html) を購読してください。
+このページの更新に関するメール通知を四半期ごとに受信するには、[アドビ優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。
 
 ## 2025年3月
 
@@ -64,7 +64,7 @@ ht-degree: 95%
 
 ## [!DNL Experience League] のイベント {#events}
 
-[ イベント ](https://experienceleague.adobe.com/events/) を見つけて、興味のあるイベントに登録してください。
+興味のある[イベント](https://experienceleague.adobe.com/ja/events)を見つけて登録してください。
 
 +++イベント
 
@@ -78,7 +78,7 @@ ht-degree: 95%
 
 * **[!DNL Analytics]** | _データドリップ：古いシステムから WebSDK に移行するメリット_ | **4月10日（PT）** | Adobe テクニカルアドバイザーの Arindam Agarwal が、Adobe WebSDK を実装するメリットについて説明します。Arindam は、概要について詳しく説明し、Q&amp;A の際にライブで質問に回答します。今すぐ登録しましょう。| [登録](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
 
-その他にも多数あります。Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/events/)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
+その他にも多数あります。Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/ja/events)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
 +++
 
@@ -86,7 +86,7 @@ ht-degree: 95%
 
 [!DNL Adobe System Status] で最新の機能や更新についてご確認ください。
 
-3 月のアップデートはありません。
+3月のアップデートはありません。
 
 +++リリースノート
 
