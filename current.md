@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
-workflow-type: ht
-source-wordcount: '3867'
-ht-degree: 100%
+source-git-commit: 39d745e342a21c45ac6d4a053e26b953e2c95cc8
+workflow-type: tm+mt
+source-wordcount: '3879'
+ht-degree: 99%
 
 ---
 
@@ -472,6 +472,12 @@ New articles and updates to existing articles for [!DNL Marketo].
 +++詳細
 
 ### [!DNL Adobe Workfront] の更新
+
+最新リリース：
+
+* [2025 年第 2 四半期リリースの概要 ](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)
+
+すべてのリリース情報に対して：
 
 * [!DNL Workfront] のリリーススケジュール情報とリリースノートについては、[Adobe  [!DNL Workfront]  製品のリリース](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/product-releases)のページを参照してください。
 
