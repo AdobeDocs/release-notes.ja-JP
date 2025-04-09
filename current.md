@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d895210dc6c24a5e5230f60987c125a2d8ba0bfb
+source-git-commit: 3c74dd10ff1a557693da52dfaf58d051bfbca521
 workflow-type: tm+mt
-source-wordcount: '3746'
-ht-degree: 99%
+source-wordcount: '3864'
+ht-degree: 96%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 99%
 
 アプリケーションのリリースノート、イベント、新しいチュートリアルおよび最新のナレッジベースのサポート記事を検索するには、次のリンクを使用してください。
 
-* [[!DNL Experience League]  イベントとアップデート ](#events) （更新日 **4 月 8 日**）
+* [[!DNL Experience League]  イベントとアップデート ](#events) （更新日 **4 月 9 日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -67,6 +67,10 @@ ht-degree: 99%
 +++イベント
 
 * **[!DNL Analytics]** | _データドリップ：古いシステムから WebSDK に移行するメリット_ | **4月10日（PT）** | Adobe テクニカルアドバイザーの Arindam Agarwal が、Adobe WebSDK を実装するメリットについて説明します。Arindam は、概要について詳しく説明し、Q&amp;A の際にライブで質問に回答します。今すぐ登録しましょう。| [登録](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Real-Time Customer Data Platform]** | _お待ちなく・・・共同作業！ Real-Time CDP Collaborationの概要_ | **4 月 10 日** |米国のお客様が利用できるようになったReal-Time CDP Collaborationは、ブランドやパブリッシャー向けに、目的に合わせて構築された、使いやすく、プライバシーを中心としたデータコラボレーションを提供します。 オーディエンスを検出、アクティブ化および測定して、有料マーケティングのペースで広告収益を最大化し、有料メディアの取り組みを強化するのに役立ちます。 Real-Time CDPのお客様は、この素晴らしい新機能に既にアクセスできています。 | [登録](https://engage.adobe.com/ExpLeagueLive-250410.html)
+
+* **[!DNL Workfront]** | _交流：マーケティング&amp;Creative管理チャット_ | **4 月 11 日** |このインタラクティブなディスカッションは、管理者どうしをつなぐことを目的としたもので、自分自身とユーザーのためにWorkfrontを最大限に活用するうえで役に立つベストプラクティスおよびヒントやコツを共有します。 | [登録](https://events.teams.microsoft.com/event/f0e497b7-4f44-457f-bfa0-6d9b8c5f4e7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/ja/events)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
