@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 39d745e342a21c45ac6d4a053e26b953e2c95cc8
+source-git-commit: d895210dc6c24a5e5230f60987c125a2d8ba0bfb
 workflow-type: tm+mt
-source-wordcount: '3879'
+source-wordcount: '3746'
 ht-degree: 99%
 
 ---
@@ -31,11 +31,9 @@ ht-degree: 99%
 
 ## 2025年3月
 
-最終更新日：**2025年3月13日（PT）**
-
 アプリケーションのリリースノート、イベント、新しいチュートリアルおよび最新のナレッジベースのサポート記事を検索するには、次のリンクを使用してください。
 
-* [[!DNL Experience League]  のイベントと最新情報](#events)
+* [[!DNL Experience League]  イベントとアップデート ](#events) （更新日 **4 月 8 日**）
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -68,17 +66,9 @@ ht-degree: 99%
 
 +++イベント
 
-* **[!DNL Adobe Summit]** | _Digital Experience Conference_ | **3月18日～19日（PT）@ラスベガスとオンライン** | 仲間に加わり、Coca-Cola Company、JPMorganChase、ServiceNow などのエグゼクティブの話をお聞きください。| [登録](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _Connect：Workfront Collective_ | **3月31日（PT）** | 他のお客様とつながり、Workfront の機能について話し合い、アイデアを共有し、共通の課題を解決するためのブレインストーミングを行うように設計された、毎月月曜日の Workfront Collective イベントにご参加ください。| [登録](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Target]** | _大規模なパーソナライゼーションのインサイト、インテリジェンス、インパクト_ | **4月1日（PT）** | [!DNL Gen AI] を含む Adobe Target のイノベーションと、大規模な AI を活用したパーソナライゼーションおよび実験に関するベストプラクティス。| [登録](https://event.adobe.com/adobetargetmaturitywebinars03)
-
-* **[!DNL Experience Manager, Experience Manager Assets, Experience Manager Forms, Experience Manager Sites, and Workfront]** | _最適なブレンド：AEM と Workfront による共同作業の新しい時代_ | **4月2日（PT）** | Adobe Experience Manager と Workfront を統合して、チームが通常のボトルネックなしでアイデア発想から配信までを進め、コンテンツを整理し、オンブランドで、すばやく運用開始できる状態を確保する方法について説明します。| [登録](https://adobeevents.adobeconnect.com/eaqjw1zixw1f/event/registration.html?campaign-id=ExL)
-
 * **[!DNL Analytics]** | _データドリップ：古いシステムから WebSDK に移行するメリット_ | **4月10日（PT）** | Adobe テクニカルアドバイザーの Arindam Agarwal が、Adobe WebSDK を実装するメリットについて説明します。Arindam は、概要について詳しく説明し、Q&amp;A の際にライブで質問に回答します。今すぐ登録しましょう。| [登録](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
 
-その他にも多数あります。Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/ja/events)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
+Experience League ですべての[今後のイベント](https://experienceleague.adobe.com/ja/events)を表示するか、[過去のイベントの録画](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)を確認できます。
 
 +++
 
