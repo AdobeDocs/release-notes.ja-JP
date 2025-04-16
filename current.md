@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
+source-git-commit: 9705d647e844bc4d5f2ded18db9e8eb3ad716086
 workflow-type: tm+mt
-source-wordcount: '4069'
+source-wordcount: '4071'
 ht-degree: 37%
 
 ---
@@ -96,8 +96,8 @@ Experience Leagueで [ 今後のイベント ](https://experienceleague.adobe.co
 
 | 機能 | 説明 |
 | ------- | ------- |
-| **Virtual Assistant ベータ版** | <ul><li>仮想アシスタンスは、Web やモバイル上の [!DNL Adobe Status] 顧客が質問に対する回答を取得し、ホームページから移動せずに迅速なアクションを実行できるようにする機能です。 すべてのクエリを解決できる 1 つの場所として機能させることができます。 カスタマーベータ版への参加を希望される場合は、[statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com) にメールを送信してください。 </li></ul> |
-| **新しいイベント用語集のヘルプ ページ** | <ul><li>Web サイトをナビゲートしやすくするために、すべてのイベントタイプ、図像およびそのステータスに関する [!DNL Adobe Status] ーザーを詳細にガイドする専用のヘルプページ。</li><li>Adobeのステータスの概要ページ/「ヘルプ」メニューには、この新しいページを指す新しいメニュー項目（イベント用語集）があります。</li><li>[!DNL Adobe Status] を参照するAdobeのサーフェスには、新しいヘルプページへのリンクを追加できます。</li></ul> |
+| **Virtual Assistant ベータ版** | <ul><li>Virtual Assistant は、Web およびモバイル上のステータス顧客が質問に対する回答を得ることができ、ホーム ページから移動せずに迅速なアクションを実行できる機能です。 これは、すべてのクエリを解決する 1 つの場所として機能できます。 カスタマーベータ版への参加を希望される場合は、[statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com) にメールを送信してください。 </li></ul> |
+| **新しいイベント用語集** | <ul><li>Web サイトをナビゲートしやすくするために、すべてのイベントタイプ、図像およびそのステータスに関する [!DNL Adobe Status] ーザーを詳細にガイドする専用のヘルプページ。</li><li>Adobeのステータスの概要ページ/「ヘルプ」メニューには、この新しいページを指す新しいメニュー項目（イベント用語集）があります。</li><li>[!DNL Adobe Status] を参照するAdobeのサーフェスには、新しいヘルプページへのリンクを追加できます。</li></ul> |
 | **バグの修正と改善** | <ul><li>Slack通知 – リマインダーメッセージがスケジュールどおりに表示されます</li><li>廃止された製品イベントは概要ページに表示しない</li><li>_クローズ済み_ / _却下された CSO_ 更新メッセージと通知が送信されない</li><li>ステータス web ヘッダーおよびフッターが更新時に読み込みに時間がかかる</li><li>フッターのステータスのローカリゼーションメニューが破損している</li></ul> |
 
 [!DNL Adobe System Status] の以前のリリースノート：
@@ -364,13 +364,13 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 
 ### 最新の Campaign 製品リリース
 
-* [!DNL Campaign] v8.7.4: [ リリースノート ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8.7.4: 2025 年 4 月 10 日（PT） – [ リリースノート ](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Web User Interface]：[リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/release-notes/release-notes) | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: 2025 年 2 月 18 日（PT） – [ リリースノート ](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/release-notes/release-notes) | [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign Standard]：[リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/release-notes/release-notes) | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: 25.1 - [ リリースノート ](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/release-notes/release-notes) | [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/campaign-standard-home)
 
-* [!DNL Campaign Classic] 7.4.2: [ リリースノート ](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/campaign-classic-home)
+* [!DNL Campaign Classic] 7.4.2:2025 年 4 月 2 日（PT） – [ リリースノート ](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/campaign-classic-home)
 
 <!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
