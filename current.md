@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 461a76bce5aeb1da20b613af4dccbc0ebf1383e0
+source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
 workflow-type: tm+mt
-source-wordcount: '4065'
+source-wordcount: '4069'
 ht-degree: 37%
 
 ---
@@ -30,6 +30,8 @@ ht-degree: 37%
 このページの更新に関するメール通知を毎月受信するには、[アドビ優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。
 
 更新日：**2025年4月16日（PT）**
+
++++すべての製品を表示
 
 * [[!DNL Experience League]  イベントとアップデート ](#events) （更新日 **4 月 15 日**）
 * [[!DNL Adobe System Status]](#status)
@@ -58,11 +60,13 @@ ht-degree: 37%
 * [アドビでの認定](https://experienceleague.adobe.com/ja/certification-home)
 * [アドビ製品のセキュリティの脆弱性](https://helpx.adobe.com/jp/security.html)
 
++++
+
 ## [!DNL Experience League] のイベント {#events}
 
 興味のある[イベント](https://experienceleague.adobe.com/en/events)を見つけて登録してください。
 
-+++イベント
++++今後のイベント
 
 * **[!DNL Marketo]** | _Marketoおよび Mocha：継承されたインスタンスまたは現在のインスタンスを監査_ | **4 月 17 日** |最近、Marketo インスタンスを継承しましたか？ または、現在のインスタンスの可能性を最大限に高めるために、定期的な監査を実施したいとお考えですか？ インスタンスの現在の状態を理解するための詳細な監査の実行方法に重点を置いた、Adobe ビジネスアドバイザー、Cynthia Chang および Carly Gaver と共に、このMarketo &amp; Mochas ウェビナーに参加しましょう。 | [登録](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
