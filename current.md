@@ -6,10 +6,10 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dffaee650ea54de990c60a8e5bec09e4eb61f941
+source-git-commit: af9bda242f4ea74b71a8d42ca8669124f6e2cf13
 workflow-type: tm+mt
-source-wordcount: '4065'
-ht-degree: 37%
+source-wordcount: '3833'
+ht-degree: 39%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 37%
 
 このページの更新に関するメール通知を毎月受信するには、[アドビ優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。
 
-**更新日：2025 年 4 月 16 日（PT）**
+**更新日：2025 年 4 月 25 日（PT）**
 
 +++すべての製品を表示
 
@@ -67,15 +67,7 @@ ht-degree: 37%
 
 +++今後のイベント
 
-* **[!DNL Marketo]** | _Marketoおよび Mocha：継承されたインスタンスまたは現在のインスタンスを監査_ | **4 月 17 日** |最近、Marketo インスタンスを継承しましたか？ または、現在のインスタンスの可能性を最大限に高めるために、定期的な監査を実施したいとお考えですか？ インスタンスの現在の状態を理解するための詳細な監査の実行方法に重点を置いた、Adobe ビジネスアドバイザー、Cynthia Chang および Carly Gaver と共に、このMarketo &amp; Mochas ウェビナーに参加しましょう。 | [登録](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
-
-* **[!DNL Workfront]** | _Connect:Workfrontコレクティブ_ | **4 月 21 日** |このイベントには正式なプレゼンテーションまたは議題がありません。 話し合うトピックは、エンゲージメントに基づいています。 このワークショップは、集合的な問題解決セッションと考えてください。 Workfrontでチャレンジしたいこと（またはシェアして宣伝したい成功）があり、他のお客様とソリューションを通じて話し合いたい場合は、このイベントが最適です。 | [登録](https://events.teams.microsoft.com/event/ba1a80ab-01c0-4675-83e5-d6d96f1aa9b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **マルチソリューション** | _ビールの背景：プロアクティブな監視ツールの完全な分類_ | **4 月 24 日** | SWAT、Fastly、New Relicなどの最先端のモニタリングツールを活用してシステムのヘルスとパフォーマンスを最適化する、インサイトに満ちたセッションにご参加ください。  | [登録](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
-* **[!DNL Campaign Classic]** | _Adobe ACC 配信のパフォーマンス – トラブルシューティング_ | **4 月 25 日** |このセッションでは、Adobe Campaign Classic（ACC）で最適なパフォーマンスを実現する際に直面する一般的な課題を確認し、問題のトラブルシューティングと解決に役立つ実用的な戦略を提供します。 パフォーマンスのボトルネックを特定し、配信の準備/設定の不整合に対処し、ベストプラクティスを実装してスムーズな通信を実現する方法を説明します。 | [登録](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/default_template/event_landing.html?sco-id=5748224915&amp;_charset_=utf-8)
-
-Experience Leagueで [ 今後のイベント ](https://experienceleague.adobe.com/en/events) の完全なリストを表示したり、[ 過去のイベント ](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview) を参照したりできます。
+Experience Leagueの [ 今後 ](https://experienceleague.adobe.com/en/events) および [ オンデマンド ](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview) イベントの完全なリストを表示します。
 
 +++
 
