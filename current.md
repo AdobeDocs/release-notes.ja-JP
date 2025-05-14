@@ -21,11 +21,11 @@ ht-degree: 32%
 
 このページは、Experience League に関するアプリケーション固有のリリースノート、今後のイベント、新しいチュートリアル、最新のサポート記事を見つけるのに役立ちます。
 
-<!-- * [Customize your learning](https://experienceleague.adobe.com/en/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
-* [Browse and discover](https://experienceleague.adobe.com/en/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
-* [Get fresh perspectives](https://experienceleague.adobe.com/en/perspectives): We've gathered a variety of real-world use cases and best practices, written by your peers and Adobe product experts. 
-* [Get certified](https://experienceleague.adobe.com/en/certification-home): The new Adobe Certification Portal makes honing your skills and getting certified a simple process.
-* [Engage with a community of peers](https://experienceleaguecommunities.adobe.com/): Join groups, meet our Experience League Community Advisors, and even learn how to become one. -->
+<!-- * [Customize your learning](https://experienceleague.adobe.com/ja/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
+* [Browse and discover](https://experienceleague.adobe.com/ja/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
+* [Get fresh perspectives](https://experienceleague.adobe.com/ja/perspectives): We've gathered a variety of real-world use cases and best practices, written by your peers and Adobe product experts. 
+* [Get certified](https://experienceleague.adobe.com/ja/certification-home): The new Adobe Certification Portal makes honing your skills and getting certified a simple process.
+* [Engage with a community of peers](https://experienceleaguecommunities.adobe.com/?profile.language=ja): Join groups, meet our Experience League Community Advisors, and even learn how to become one. -->
 
 このページの更新に関するメール通知を毎月受信するには、[アドビ優先製品アップデート](https://www.adobe.com/subscription/priority-product-update.html)を購読してください。
 
@@ -142,9 +142,9 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|April 2025| [!DNL Experience Platform] | [Evaluate batch audiences on demand](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)| New video | Evaluate batch audiences on demand with flexible audience evaluation. |
-|April 2025| [!DNL Experience Platform] | [Migrate a mobile app from Target to Journey Optimizer](https://experienceleague.adobe.com/en/docs/platform-learn/migrate-target-to-mobile-sdk-decisioning/overview)| New video | Learn how to migrate your mobile app implementation from the Adobe Target to the Adobe Journey Optimizer - Decisioning extension|
-|April 2025| [!DNL Experience Platform] | [Configure a dataset export destination in Experience Platform](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configure-dataset-export-destination)| Updated video | Learn about the configuration, workflow, and use cases for exporting datasets from Adobe Experience Platform to a cloud storage location using a destination connection. |
+|April 2025| [!DNL Experience Platform] | [Evaluate batch audiences on demand](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)| New video | Evaluate batch audiences on demand with flexible audience evaluation. |
+|April 2025| [!DNL Experience Platform] | [Migrate a mobile app from Target to Journey Optimizer](https://experienceleague.adobe.com/ja/docs/platform-learn/migrate-target-to-mobile-sdk-decisioning/overview)| New video | Learn how to migrate your mobile app implementation from the Adobe Target to the Adobe Journey Optimizer - Decisioning extension|
+|April 2025| [!DNL Experience Platform] | [Configure a dataset export destination in Experience Platform](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/destinations/configure-dataset-export-destination)| Updated video | Learn about the configuration, workflow, and use cases for exporting datasets from Adobe Experience Platform to a cloud storage location using a destination connection. |
  -->
 
 ### 新しい [!DNL Experience Platform] でのナレッジベースのサポート{#kb-aep}
@@ -153,12 +153,12 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | 公開日 | 名前 | タイプ | 説明 |
 |---------|----|----|-----------|
-| 2025年4月 | [AEP：アクティブ化率は高いものの  [!DNL TikTok]  宛先のオーディエンス量が少ない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26380) | 新しい記事 | Adobe [!DNL Experience Platform] （AEP）の宛先が、高いアクティベーション率（約 99%） [!DNL TikTok] もかかわらず、オーディエンス量が少ないと報告する問題の解決策について説明します。 |
-| 2025年4月 | [Adobeでのデータセット書き出しの問題の解決  [!DNL Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26413) | 新しい記事 | API で作成されたデータセットの制限により、Adobeでのデータセット書き出し [!DNL Experience Platform] 問題が発生した場合の解決策について説明します。 |
-| 2025年4月 | [Adobeでのバッチ取り込みエラーと重複取り込みの解決  [!DNL Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26349) | 新しい記事 | Adobe [!DNL Experience Platform] でのバッチ取得が重複取得の作成中に失敗する問題の解決策について説明します。 |
-| 2025年4月 | [[!DNL Snowflake] Adobeでのコネクタ認証エラー  [!DNL Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26294) | 新しい記事 | Adobe [!DNL Experience Platform] （AEP）および [!DNL Snowflake] で秘密鍵の形式や設定の問題が原因で認証に失敗した場合の、この問題の解決策について説明します。 |
-| 2025年4月 | [*406 （受け入れられません）* コンテンツテンプレートの昇格時にエラーが発生しました ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26320) | 新しい記事 | API ヘッダーを調整して、Adobe [!DNL Experience Platform] の [!UICONTROL Journey Orchestration] で発生した *406 （受け入れられません）* エラーを解決する方法を説明します。 |
-| 2025年4月 | [AEP - HTTP API 宛先とDestination SDKの違いは何ですか？](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26316) | 新しい記事 | HTTP API Destination とDestination SDKが機能と目標でどのように異なるか、およびどのように異なるかについて説明します。 |
+| 2025年4月 | [AEP：アクティブ化率は高いものの  [!DNL TikTok]  宛先のオーディエンス量が少ない ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26380) | 新しい記事 | Adobe [!DNL Experience Platform] （AEP）の宛先が、高いアクティベーション率（約 99%） [!DNL TikTok] もかかわらず、オーディエンス量が少ないと報告する問題の解決策について説明します。 |
+| 2025年4月 | [Adobeでのデータセット書き出しの問題の解決  [!DNL Experience Platform]](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26413) | 新しい記事 | API で作成されたデータセットの制限により、Adobeでのデータセット書き出し [!DNL Experience Platform] 問題が発生した場合の解決策について説明します。 |
+| 2025年4月 | [Adobeでのバッチ取り込みエラーと重複取り込みの解決  [!DNL Experience Platform]](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26349) | 新しい記事 | Adobe [!DNL Experience Platform] でのバッチ取得が重複取得の作成中に失敗する問題の解決策について説明します。 |
+| 2025年4月 | [[!DNL Snowflake] Adobeでのコネクタ認証エラー  [!DNL Experience Platform]](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26294) | 新しい記事 | Adobe [!DNL Experience Platform] （AEP）および [!DNL Snowflake] で秘密鍵の形式や設定の問題が原因で認証に失敗した場合の、この問題の解決策について説明します。 |
+| 2025年4月 | [*406 （受け入れられません）* コンテンツテンプレートの昇格時にエラーが発生しました ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26320) | 新しい記事 | API ヘッダーを調整して、Adobe [!DNL Experience Platform] の [!UICONTROL Journey Orchestration] で発生した *406 （受け入れられません）* エラーを解決する方法を説明します。 |
+| 2025年4月 | [AEP - HTTP API 宛先とDestination SDKの違いは何ですか？](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26316) | 新しい記事 | HTTP API Destination とDestination SDKが機能と目標でどのように異なるか、およびどのように異なるかについて説明します。 |
 
 +++
 
@@ -170,7 +170,7 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | 公開日 | 名前 | タイプ | 説明 |
 | ----------| ---------- | ---------- |---------- |
-| 2025年5月 | [Azure Blob 宛先の設定](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination) | 更新されたビデオ | 接続を設定し、[!DNL Real-Time Customer Data Platform] で Azure Blob ストレージの宛先にデータを送信する方法を説明します。 この宛先では、データセットとオーディエンスの書き出しをサポートしており、ファイルヘッダーとデータ属性をカスタマイズできます。 |
+| 2025年5月 | [Azure Blob 宛先の設定](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination) | 更新されたビデオ | 接続を設定し、[!DNL Real-Time Customer Data Platform] で Azure Blob ストレージの宛先にデータを送信する方法を説明します。 この宛先では、データセットとオーディエンスの書き出しをサポートしており、ファイルヘッダーとデータ属性をカスタマイズできます。 |
 
 詳しくは、次を参照してください。
 
@@ -202,7 +202,7 @@ New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
+|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/ja/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
 
 +++
 
@@ -224,7 +224,7 @@ New or updated video tutorials published for Adobe Analytics.
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2025年5月 | [[!UICONTROL &#x200B; クイックインサイト &#x200B;] パネルの使用 ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/panels/use-the-quick-insights-panel) | 新しいビデオ | [!DNL Customer Journey Analytics] の _[!UICONTROL クイックインサイト]_ パネルを使用して、ビジネス上の質問にすばやく簡単に回答する方法を説明します。 |
+| 2025年5月 | [[!UICONTROL &#x200B; クイックインサイト &#x200B;] パネルの使用 ](https://experienceleague.adobe.com/ja/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/panels/use-the-quick-insights-panel) | 新しいビデオ | [!DNL Customer Journey Analytics] の _[!UICONTROL クイックインサイト]_ パネルを使用して、ビジネス上の質問にすばやく簡単に回答する方法を説明します。 |
 
 +++
 
@@ -273,10 +273,10 @@ New or updated video tutorials published for Adobe Analytics.
 
 | 公開日 | アプリケーション | 名前 | タイプ | 説明 |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| 2025年5月 | [!DNL Experience Manager Sites] | [AEM Sitesのビデオとチュートリアル ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/overview) | 更新されたチュートリアルホーム | Adobe Experience Manager Sitesの特長と機能に関するビデオとチュートリアルをご覧ください。 AEM Sitesは、優れた experience management platform です。 |
+| 2025年5月 | [!DNL Experience Manager Sites] | [AEM Sitesのビデオとチュートリアル ](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/sites/overview) | 更新されたチュートリアルホーム | Adobe Experience Manager Sitesの特長と機能に関するビデオとチュートリアルをご覧ください。 AEM Sitesは、優れた experience management platform です。 |
 | 2025年5月 | [!DNL Experience Manager as a Cloud Service] | [OpenAPI ベースの AEM API の設定](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/aem-apis/openapis/setup) | 新しいビデオ | AEM as a Cloud Service環境を設定して、OpenAPI ベースのAEM API へのアクセスを有効にする方法について説明します。 |
-| 2025年5月 | [!DNL Experience Manager Forms] | [ アダプティブ Forms ブロックを使用したフォームの作成 ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/edge-delivery/build-forms/getting-started-edge-delivery-services-forms/create-forms) | 新しいビデオ | Edge Delivery Services for AEM Formsの基本を学びます。 完璧なフォームを素早く作成！ AEM Forms Edge Deliveryのドキュメントベースのオーサリング =かつてないスピードと SEO に対応したフォームで、よりハッピーなユーザーと検索エンジンを実現。 |
-| 2025年5月 | [!DNL Experience Manager Sites] - ヘッドレス | [AEM ヘッドレスの高度な概念 ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/advanced-tutorial/overview) | 新しいビデオ | Adobe Experience Manager（AEM）GraphQL API の高度な概念を説明したエンドツーエンドチュートリアルです。 |
+| 2025年5月 | [!DNL Experience Manager Forms] | [ アダプティブ Forms ブロックを使用したフォームの作成 ](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/edge-delivery/build-forms/getting-started-edge-delivery-services-forms/create-forms) | 新しいビデオ | Edge Delivery Services for AEM Formsの基本を学びます。 完璧なフォームを素早く作成！ AEM Forms Edge Deliveryのドキュメントベースのオーサリング =かつてないスピードと SEO に対応したフォームで、よりハッピーなユーザーと検索エンジンを実現。 |
+| 2025年5月 | [!DNL Experience Manager Sites] - ヘッドレス | [AEM ヘッドレスの高度な概念 ](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/advanced-tutorial/overview) | 新しいビデオ | Adobe Experience Manager（AEM）GraphQL API の高度な概念を説明したエンドツーエンドチュートリアルです。 |
 
 ### 新しい [!DNL Experience Manager] でのナレッジベースのサポート{#kb-aem}
 
@@ -284,22 +284,22 @@ New or updated video tutorials published for Adobe Analytics.
 
 | 公開日 | 名前 | タイプ | 説明 |
 |---------|--------|---------|---------|
-| 2025年4月 | [ ワークフローインスタンスが実行中ステータスでスタックする ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26078) | 新しい記事 | ワークフロー（WF）インスタンスが長時間実行中のステータスのままになる場合の問題の解決策について説明します。 |
-| 2025年4月 | [ ワークフローが古いためにAEMでパフォーマンスが遅くなる問題の解決 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26369) | 新しい記事 | でオーサー環境の速度が遅く、古いワークフローインスタンスが多すぎると [!DNL Adobe Experience Manager (AEM) Sites] この問題の解決策について説明します。 |
-| 2025年4月 | [VPN の作成後、*java.net.UnknownHostException でトラフィックの送信が失敗します*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26374) | 新しい記事 | VPN が作成され、ステータスが *準備完了* であるが、トンネルを介したトラフィックの送信が *java.net.UnknownHostException* で失敗する場合の問題の解決策について説明します。 |
-| 2025年4月 | [ACS AEM[!UICONTROL Commons コピープロパティ &#x200B;] の修正：プロセスステップの失敗 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26327) | 新しい記事 | プロセスリソースの設定がないことが原因で ACS AEM[!UICONTROL Commons Copy プロパティ &#x200B;] のプロセスステップが失敗する場合の問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Experience Manager as a Cloud Service: HTTP から HTTPS へのトラフィック リダイレクト ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26336) | 新しい記事 | AEM as a Cloud Serviceがすべてのトラフィックを HTTP から HTTPS に自動的にリダイレクトする際の問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Experience Manager as a Cloud Service: [!DNL Adobe I/O Projects]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26337) の *[!UICONTROL イベント]* 設定の [!UICONTROL &#x200B; 読み取り専用 &#x200B;] ステータス | 新しい記事 | [!DNL Adobe Developer Console] [!DNL (Adobe I/O Projects)] 内で、新しい **[!UICONTROL イベント]** 設定でAEM as a Cloud Serviceの選択オプションが表示されない、または既存の **[!UICONTROL イベント]** 設定が *[!UICONTROL 読み取り専用]* ステータスでロックされている場合の問題の解決策を説明します。 |
-| 2025年4月 | [Adobe Experience Managerでのコンテンツツリーの並べ替えの修正 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26241) | 新しい記事 | Adobe Experience Manager（AEM）のディレクトリが 1,000 個を超えると、並べ替え動作が予期せず変化する問題の解決策について説明します。 |
-| 2025年4月 | [AEMでのビデオファイルのオーディオ  [!DNL Dynamic Media]  問題の解決 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26197) | 新しい記事 | Adobe Experience Manager as a Cloud Service（AEMaaCS）で [!DNL Dynamic Media] を使用する際にビデオファイルでオーディオ同期の問題を解決する方法を説明します。 |
-| 2025年4月 | [AEM as a Cloud Serviceでの無効なユーザー偽装エラーの解決 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26118) | 新しい記事 | [!DNL Adobe Experience Manager as a Cloud Service - Sites] で *無効なユーザー* エラーが発生して偽装が失敗した場合の問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Experience Manager（AEM）  [!DNL Microsoft Translation Service]  セットアップできない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26096) | 新しい記事 | Adobe Experience Manager（AEM）as a Cloud Serviceで [!DNL Microsoft Translation Service] を設定する際の問題の解決策について説明します。[!DNL Microsoft Azure] で提供されるエンドポイントとキーは、[!DNL AEM Translation] 設定フォームで認識されません。 |
-| 2025年4月 | [AEM環境のヘルスステータスの監視 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25893) | 新しい記事 | ビルトインのヘルスチェックエンドポイントを使用して、AEM環境のヘルスをプログラムで監視する方法について説明します。 |
-| 2025年4月 | [Adobe Targetへのコンテンツフラグメントの書き出しの問題を解決 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26167) | 新しい記事 | Adobe Experience ManagerからAdobe Targetにコンテンツフラグメントを書き出す際に発生する *Adobe Targetとの同期に失敗しました* エラーの解決策について説明します。 |
-| 2025年4月 | [ [!DNL Time-to-Live]  （TTL）キャッシングによるAEM パブリッシュサーバーの高負荷の問題の解決 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26393) | 新しい記事 | [!DNL AEMaaCS - Sites] での 5 分間の TTL キャッシュ戦略によってAEM パブリッシュサーバーのパフォーマンスが急増した場合の問題の解決策について説明します。 |
-| 2025年4月 | [AEM Cloud Service の製品リストコンポーネントにおける製品選択の制限 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26019) | 新しい記事 | Adobe Experience Manager（AEM）Cloud Serviceの商品リストコンポーネントで「**[!UICONTROL すべてを選択]**」チェックボックスを使用しても 20 個を超える商品（SKU）を追加できない問題の解決策について説明します。 |
-| 2025年4月 | [ に新しくアップロードされたアセットの自動タグ付け  [!DNL AEMaaCS - Assets]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25925) | 新しい記事 | 新しくアップロードされたアセットが標準の向きタグで自動的にタグ付けされ、既存のメタデータ管理プラクティスに影響を与える [!DNL AEMaaCS - Assets] の問題を解決する方法を説明します。 |
-| 2025年4月 | [Adobe Experience Manager（AEM）as a Cloud Serviceでの誤ったコンテンツ提供の解決 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25922) | 新しい記事 | Adobe Experience Manager（AEM）as a Cloud Serviceのデプロイメント内での設定の競合が原因で、誤ったコンテンツが提供された場合の問題の解決策について説明します。 |
+| 2025年4月 | [ ワークフローインスタンスが実行中ステータスでスタックする ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26078) | 新しい記事 | ワークフロー（WF）インスタンスが長時間実行中のステータスのままになる場合の問題の解決策について説明します。 |
+| 2025年4月 | [ ワークフローが古いためにAEMでパフォーマンスが遅くなる問題の解決 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26369) | 新しい記事 | でオーサー環境の速度が遅く、古いワークフローインスタンスが多すぎると [!DNL Adobe Experience Manager (AEM) Sites] この問題の解決策について説明します。 |
+| 2025年4月 | [VPN の作成後、*java.net.UnknownHostException でトラフィックの送信が失敗します*](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26374) | 新しい記事 | VPN が作成され、ステータスが *準備完了* であるが、トンネルを介したトラフィックの送信が *java.net.UnknownHostException* で失敗する場合の問題の解決策について説明します。 |
+| 2025年4月 | [ACS AEM[!UICONTROL Commons コピープロパティ &#x200B;] の修正：プロセスステップの失敗 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26327) | 新しい記事 | プロセスリソースの設定がないことが原因で ACS AEM[!UICONTROL Commons Copy プロパティ &#x200B;] のプロセスステップが失敗する場合の問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Experience Manager as a Cloud Service: HTTP から HTTPS へのトラフィック リダイレクト ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26336) | 新しい記事 | AEM as a Cloud Serviceがすべてのトラフィックを HTTP から HTTPS に自動的にリダイレクトする際の問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Experience Manager as a Cloud Service: [!DNL Adobe I/O Projects]](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26337) の *[!UICONTROL イベント]* 設定の [!UICONTROL &#x200B; 読み取り専用 &#x200B;] ステータス | 新しい記事 | [!DNL Adobe Developer Console] [!DNL (Adobe I/O Projects)] 内で、新しい **[!UICONTROL イベント]** 設定でAEM as a Cloud Serviceの選択オプションが表示されない、または既存の **[!UICONTROL イベント]** 設定が *[!UICONTROL 読み取り専用]* ステータスでロックされている場合の問題の解決策を説明します。 |
+| 2025年4月 | [Adobe Experience Managerでのコンテンツツリーの並べ替えの修正 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26241) | 新しい記事 | Adobe Experience Manager（AEM）のディレクトリが 1,000 個を超えると、並べ替え動作が予期せず変化する問題の解決策について説明します。 |
+| 2025年4月 | [AEMでのビデオファイルのオーディオ  [!DNL Dynamic Media]  問題の解決 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26197) | 新しい記事 | Adobe Experience Manager as a Cloud Service（AEMaaCS）で [!DNL Dynamic Media] を使用する際にビデオファイルでオーディオ同期の問題を解決する方法を説明します。 |
+| 2025年4月 | [AEM as a Cloud Serviceでの無効なユーザー偽装エラーの解決 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26118) | 新しい記事 | [!DNL Adobe Experience Manager as a Cloud Service - Sites] で *無効なユーザー* エラーが発生して偽装が失敗した場合の問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Experience Manager（AEM）  [!DNL Microsoft Translation Service]  セットアップできない ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26096) | 新しい記事 | Adobe Experience Manager（AEM）as a Cloud Serviceで [!DNL Microsoft Translation Service] を設定する際の問題の解決策について説明します。[!DNL Microsoft Azure] で提供されるエンドポイントとキーは、[!DNL AEM Translation] 設定フォームで認識されません。 |
+| 2025年4月 | [AEM環境のヘルスステータスの監視 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-25893) | 新しい記事 | ビルトインのヘルスチェックエンドポイントを使用して、AEM環境のヘルスをプログラムで監視する方法について説明します。 |
+| 2025年4月 | [Adobe Targetへのコンテンツフラグメントの書き出しの問題を解決 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26167) | 新しい記事 | Adobe Experience ManagerからAdobe Targetにコンテンツフラグメントを書き出す際に発生する *Adobe Targetとの同期に失敗しました* エラーの解決策について説明します。 |
+| 2025年4月 | [ [!DNL Time-to-Live]  （TTL）キャッシングによるAEM パブリッシュサーバーの高負荷の問題の解決 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26393) | 新しい記事 | [!DNL AEMaaCS - Sites] での 5 分間の TTL キャッシュ戦略によってAEM パブリッシュサーバーのパフォーマンスが急増した場合の問題の解決策について説明します。 |
+| 2025年4月 | [AEM Cloud Service の製品リストコンポーネントにおける製品選択の制限 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26019) | 新しい記事 | Adobe Experience Manager（AEM）Cloud Serviceの商品リストコンポーネントで「**[!UICONTROL すべてを選択]**」チェックボックスを使用しても 20 個を超える商品（SKU）を追加できない問題の解決策について説明します。 |
+| 2025年4月 | [ に新しくアップロードされたアセットの自動タグ付け  [!DNL AEMaaCS - Assets]](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-25925) | 新しい記事 | 新しくアップロードされたアセットが標準の向きタグで自動的にタグ付けされ、既存のメタデータ管理プラクティスに影響を与える [!DNL AEMaaCS - Assets] の問題を解決する方法を説明します。 |
+| 2025年4月 | [Adobe Experience Manager（AEM）as a Cloud Serviceでの誤ったコンテンツ提供の解決 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-25922) | 新しい記事 | Adobe Experience Manager（AEM）as a Cloud Serviceのデプロイメント内での設定の競合が原因で、誤ったコンテンツが提供された場合の問題の解決策について説明します。 |
 
 +++
 
@@ -319,12 +319,12 @@ Experience League に関する [!DNL Adobe Commerce] の新しいチュートリ
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2025年5月 | [ 成功アクセラレータの組織対応 ](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/success-accelerators-organizational-readiness) | 新しいビデオ | Adobeの組織対応サクセスアクセラレーターについて説明します。 |
-| 2025年5月 | [Commerce サポートアドオン ](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/commerce-support-add-ons) | 新しいビデオ | Expert Success、Ultimate Success、戦略的支援のための様々なアドオンなど、強化されたカスタマーサポートプランについて説明します。 |
-| 2025年5月 | [Expert Successとは？](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/what-is-expert-success) | 新しいビデオ | Adobe Commerce エキスパート success planについて説明します。 3 つのサポートチャネルとサービスレベルターゲットを含む詳細について説明します。 |
-| 2025年5月 | [Success アクセラレータの技術対応 ](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/success-accelerators-technical-readiness) | 新しいビデオ | 最適なパフォーマンスを得るための、Commerce Success Accelerator の技術対応、ソリューションレビュー、イベント計画、24 時間年中無休のモニタリングについて説明します。 |
-| 2025年5月 | [ サクセスアクセラレーターの採用と有効化 ](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/success-accelerators-adoption-and-enablement) | 新しいビデオ | 戦略的開発、スキル強化、ガバナンスのためのAdobe Commerce Success Accelerator の採用とイネーブルメントについて説明します。 |
-| 2025年5月 | [Ultimate Successとは？](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/what-is-ultimate-success) | 新しいビデオ | Adobe Commerce Ultimate Successのプロアクティブなサポートと、高パフォーマンスのデジタルエクスペリエンスに対する戦略的ガイダンスについて説明します。 |
+| 2025年5月 | [ 成功アクセラレータの組織対応 ](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/success-accelerators-organizational-readiness) | 新しいビデオ | Adobeの組織対応サクセスアクセラレーターについて説明します。 |
+| 2025年5月 | [Commerce サポートアドオン ](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/commerce-support-add-ons) | 新しいビデオ | Expert Success、Ultimate Success、戦略的支援のための様々なアドオンなど、強化されたカスタマーサポートプランについて説明します。 |
+| 2025年5月 | [Expert Successとは？](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/what-is-expert-success) | 新しいビデオ | Adobe Commerce エキスパート success planについて説明します。 3 つのサポートチャネルとサービスレベルターゲットを含む詳細について説明します。 |
+| 2025年5月 | [Success アクセラレータの技術対応 ](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/success-accelerators-technical-readiness) | 新しいビデオ | 最適なパフォーマンスを得るための、Commerce Success Accelerator の技術対応、ソリューションレビュー、イベント計画、24 時間年中無休のモニタリングについて説明します。 |
+| 2025年5月 | [ サクセスアクセラレーターの採用と有効化 ](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/success-accelerators-adoption-and-enablement) | 新しいビデオ | 戦略的開発、スキル強化、ガバナンスのためのAdobe Commerce Success Accelerator の採用とイネーブルメントについて説明します。 |
+| 2025年5月 | [Ultimate Successとは？](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/what-is-ultimate-success) | 新しいビデオ | Adobe Commerce Ultimate Successのプロアクティブなサポートと、高パフォーマンスのデジタルエクスペリエンスに対する戦略的ガイダンスについて説明します。 |
 | 2025年5月 | [ テクニカルオンボーディング - SaaS 製品 ](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/adobe-commerce-cloud/technical-onboarding-hardware-handoff/saas-offerings-support-communications-next-steps) | 新しいビデオ | Adobe Commerce Cloud の SaaS 製品、サポート、その他のコミュニケーションおよび一部の次の手順について説明します。 |
 
 ### 新しい [!DNL Commerce] のナレッジベースへのサポート{#kb-commerce}
@@ -334,15 +334,15 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 | 公開日 | 名前 | タイプ | 説明 |
 |---------|--------|---------|---------|
 | 2025年4月 | [[!DNL Quality Patches Tool]  （QPT） ](https://experienceleague.adobe.com/ja/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview) | 新しい記事 | QPT 1.1.60、QPT 1.1.61 および QPT 1.1.62 で使用可能なパッチの適用方法に関する新しい記事が公開され、それぞれの節で参照できるようになりました。 |
-| 2025年4月 | [APSB25-08 セキュリティパッチ後のすべての一括非同期 web エンドポイントの実行時間が長くなりました ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/increased-execution-time-for-bulk-asynchronous-web-endpoints-post-apsb25-08-security-patch) | 新しい記事 | この記事では、1,000 以上のエントリを持つ `POST rest/all/async/bulk/V1/products` など、APSB25-08 セキュリティパッチを適用した後に実行時間が大幅に長くなる、すべての一括非同期 web エンドポイントのホットフィックスを提供します。 |
-| 2025年4月 | [B2B 1.5.2`Magento_Company` 更新後のモジュールのアップグレードにおけるパフォーマンスの問題 ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/installation-and-upgrade/magento-company-module-upgrade-performance-issue) | 新しい記事 | この記事では、B2B 1.5.2 へのアップデート後に `Magento_Company` モジュールをアップグレードする際のパフォーマンスの問題に関するホットフィックスを提供し、`company_structure` テーブル内の大規模なデータセット（100,000 件以上のレコード）の処理時間が非常に長くなる問題に対処します。 |
-| 2025年4月 | [B2B 1.5.2 へのアップグレードが、`REGEXP_LIKE` 関数がないために SQL 構文エラーで失敗します ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/installation-and-upgrade/sql-syntax-error-due-to-missing-regexp-like-function) | 新しい記事 | この記事では、`company_structure` テーブルを更新しようとしたときに `REGEXP_LIKE` 関数が見つからなかったことが原因で発生する SQL 構文エラーのホットフィックスを示します。 |
-| 2025年4月 | [*Cookie の最大数を超える可能性があります* Adobe Commerceのエラー ](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/maximum-number-of-cookies-would-be-exceeded-error) | 新しい記事 | この記事では、Adobe Commerceの *最大数を超えると cookie が表示される* というエラーを解決するパッチを提供します。 |
-| 2025年4月 | クラウドインフラストラクチャー上のAdobe Commerceで「無効」状態を表示している [[!DNL Web Application Firewall]  （WAF） [!UICONTROL &#x200B; 管理者 &#x200B;] インターフェイス ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26387) | 新しい記事 | クラウドインフラストラクチャー上のAdobe Commerceの [!DNL Web Application Firewall] （WAF）が有効で正しく機能しているにもかかわらず、[!UICONTROL &#x200B; 管理者 &#x200B;] 側で無効のように表示される場合の問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Commerce セキュリティパッチのクラウドデプロイメントの失敗の解決 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26408) | 新しい記事 | Cloud Infrastructure 上のAdobe Commerceでサポートされていないバックエンドキャッシュ設定が原因で、デプロイメントエラーが発生した場合の問題の解決策について説明します。 |
-| 2025年4月 | [Cloud Infrastructure 上のAdobe Commerceでログバッファーがいっぱいになったエラーを解決する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26382) | 新しい記事 | ログバッファーがいっぱいになり、サイトの停止中にアクセスログリクエストが切り詰められる問題の解決策について説明します。 |
-| 2025年4月 | [Cloud Infrastructure 上のAdobe Commerceでのデータベースダンプエラーのトラブルシューティング ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26385) | 新しい記事 | `magento-cloud db:dump` エラーを解決してデータベースのダンプを正常に実行する方法を説明します。 |
-| 2025年4月 | [ スキャン結果へのアクセ  [!DNL Security Scan Tool]  に関する問題の解決 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26357) | 新しい記事 | Adobe Commerce [!DNL Security Scan Tool] でマルウェアや重大な問題が検出されても、スキャン結果にアクセスできない状況の対処方法を説明します。 |
+| 2025年4月 | [APSB25-08 セキュリティパッチ後のすべての一括非同期 web エンドポイントの実行時間が長くなりました ](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/increased-execution-time-for-bulk-asynchronous-web-endpoints-post-apsb25-08-security-patch) | 新しい記事 | この記事では、1,000 以上のエントリを持つ `POST rest/all/async/bulk/V1/products` など、APSB25-08 セキュリティパッチを適用した後に実行時間が大幅に長くなる、すべての一括非同期 web エンドポイントのホットフィックスを提供します。 |
+| 2025年4月 | [B2B 1.5.2`Magento_Company` 更新後のモジュールのアップグレードにおけるパフォーマンスの問題 ](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/troubleshooting/installation-and-upgrade/magento-company-module-upgrade-performance-issue) | 新しい記事 | この記事では、B2B 1.5.2 へのアップデート後に `Magento_Company` モジュールをアップグレードする際のパフォーマンスの問題に関するホットフィックスを提供し、`company_structure` テーブル内の大規模なデータセット（100,000 件以上のレコード）の処理時間が非常に長くなる問題に対処します。 |
+| 2025年4月 | [B2B 1.5.2 へのアップグレードが、`REGEXP_LIKE` 関数がないために SQL 構文エラーで失敗します ](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/troubleshooting/installation-and-upgrade/sql-syntax-error-due-to-missing-regexp-like-function) | 新しい記事 | この記事では、`company_structure` テーブルを更新しようとしたときに `REGEXP_LIKE` 関数が見つからなかったことが原因で発生する SQL 構文エラーのホットフィックスを示します。 |
+| 2025年4月 | [*Cookie の最大数を超える可能性があります* Adobe Commerceのエラー ](https://experienceleague.adobe.com/ja/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/maximum-number-of-cookies-would-be-exceeded-error) | 新しい記事 | この記事では、Adobe Commerceの *最大数を超えると cookie が表示される* というエラーを解決するパッチを提供します。 |
+| 2025年4月 | クラウドインフラストラクチャー上のAdobe Commerceで「無効」状態を表示している [[!DNL Web Application Firewall]  （WAF） [!UICONTROL &#x200B; 管理者 &#x200B;] インターフェイス ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26387) | 新しい記事 | クラウドインフラストラクチャー上のAdobe Commerceの [!DNL Web Application Firewall] （WAF）が有効で正しく機能しているにもかかわらず、[!UICONTROL &#x200B; 管理者 &#x200B;] 側で無効のように表示される場合の問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Commerce セキュリティパッチのクラウドデプロイメントの失敗の解決 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26408) | 新しい記事 | Cloud Infrastructure 上のAdobe Commerceでサポートされていないバックエンドキャッシュ設定が原因で、デプロイメントエラーが発生した場合の問題の解決策について説明します。 |
+| 2025年4月 | [Cloud Infrastructure 上のAdobe Commerceでログバッファーがいっぱいになったエラーを解決する ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26382) | 新しい記事 | ログバッファーがいっぱいになり、サイトの停止中にアクセスログリクエストが切り詰められる問題の解決策について説明します。 |
+| 2025年4月 | [Cloud Infrastructure 上のAdobe Commerceでのデータベースダンプエラーのトラブルシューティング ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26385) | 新しい記事 | `magento-cloud db:dump` エラーを解決してデータベースのダンプを正常に実行する方法を説明します。 |
+| 2025年4月 | [ スキャン結果へのアクセ  [!DNL Security Scan Tool]  に関する問題の解決 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26357) | 新しい記事 | Adobe Commerce [!DNL Security Scan Tool] でマルウェアや重大な問題が検出されても、スキャン結果にアクセスできない状況の対処方法を説明します。 |
 
 +++
 
@@ -356,7 +356,7 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
+|July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
 * プレリリース情報については、[[!DNL Adobe Target] プレリリース](https://experienceleague.adobe.com/ja/docs/target/using/release-notes/target-release-notes)を参照してください。
@@ -386,8 +386,8 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|January 2025| |[Create and manage test profiles](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-and-manage-test-profiles)|New video |Learn how to create a test profile in the client console and how to manage, and edit profiles in the Adobe Campaign Web UI.|
-|January 2025| |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)|New video |Learn how to make message content dynamic by using the expression editor to personalize your message or add conditional content.| -->
+|January 2025| |[Create and manage test profiles](https://experienceleague.adobe.com/ja/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-and-manage-test-profiles)|New video |Learn how to create a test profile in the client console and how to manage, and edit profiles in the Adobe Campaign Web UI.|
+|January 2025| |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/ja/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)|New video |Learn how to make message content dynamic by using the expression editor to personalize your message or add conditional content.| -->
 
 ### 新しい [!DNL Campaign] でのナレッジベースのサポート{#kb-campaign}
 
@@ -395,16 +395,16 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | 公開日 | 名前 | タイプ | 説明 |
 |---------|----|----|-----------|
-| 2025年4月 | [URL マーカーを追跡は、Adobe Campaignの適切な URL を置き換えます ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26309) | 新しい記事 | Adobe Campaignのトラッキング URL マーカーの問題の解決策について説明します。 |
-| 2025年4月 | [ ファイルの抽出中に列挙のラベルを書き出しが機能しません ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26155) | 新しい記事 | Adobe Campaign ワークフローで列挙ラベルが正しく書き出されない問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Campaign Standardでの内部メールアドレスの強制隔離ルールの管理 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26334) | 新しい記事 | 内部メールアドレスが強制隔離テーブルに追加され、重要な通信がブロックされた場合の問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Campaign Classicでパスワードを変更した後の問題の解決  [!DNL Snowflake] [!UICONTROL &#x200B; データ読み込み &#x200B;]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26368) | 新しい記事 | Adobe Campaign Classicの [!DNL Snowflake] 接続で **[!UICONTROL 外部アカウント]** のパスワードをアップデートすると、新しい [!UICONTROL &#x200B; データ読み込み &#x200B;] アクティビティで問題が発生する問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Campaign Classic フォルダーで検索フィルターを表示できない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26160) | 新しい記事 | Adobe Campaign Classic Hosted （v7）の特定のフォルダー内に検索フィルターが表示されない問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Campaign Classicでの E メール配信の開封率の低下 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26266) | 新しい記事 | ワークフローやコンテンツは変更されていないのに、メール配信の開封率が低下した場合の問題の解決策について説明します。 |
-| 2025年4月 | [ にログインできません  [!DNL Adobe Campaign Managed Cloud]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26119) | 新しい記事 | [!DNL Adobe Campaign Managed Cloud] にログインすると、「不明な認証モード：ネゴシエート *というエラーメッセージが表示される問題の解決策を説明* ます。 |
-| 2025年4月 | [ メールシードが、インボックスでは送信されたが受信されなかったと表示される ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26162) | 新しい記事 | Adobe Campaign経由で送信されたメールが配信ログには表示されるが、受信者のインボックスには迅速に受信されない問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Campaignでのフォルダー表示の問題の解決 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26292) | 新しい記事 | Adobe Campaign Classic インスタンスに特定のフォルダーが表示されない場合の問題の解決策について説明します。 |
-| 2025年4月 | [ でのロードバランサー URL の問題を解決  [!DNL Adobe Campaign Classic Hosted]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26264) | 新しい記事 | アプリ統合のロードバランサー URL が失敗し、HTTPS リクエストの設定が不適切なために 401 エラーが発生した場合の、[!DNL Adobe Campaign Classic Hosted] の問題の解決策について説明します。 |
+| 2025年4月 | [URL マーカーを追跡は、Adobe Campaignの適切な URL を置き換えます ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26309) | 新しい記事 | Adobe Campaignのトラッキング URL マーカーの問題の解決策について説明します。 |
+| 2025年4月 | [ ファイルの抽出中に列挙のラベルを書き出しが機能しません ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26155) | 新しい記事 | Adobe Campaign ワークフローで列挙ラベルが正しく書き出されない問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Campaign Standardでの内部メールアドレスの強制隔離ルールの管理 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26334) | 新しい記事 | 内部メールアドレスが強制隔離テーブルに追加され、重要な通信がブロックされた場合の問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Campaign Classicでパスワードを変更した後の問題の解決  [!DNL Snowflake] [!UICONTROL &#x200B; データ読み込み &#x200B;]](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26368) | 新しい記事 | Adobe Campaign Classicの [!DNL Snowflake] 接続で **[!UICONTROL 外部アカウント]** のパスワードをアップデートすると、新しい [!UICONTROL &#x200B; データ読み込み &#x200B;] アクティビティで問題が発生する問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Campaign Classic フォルダーで検索フィルターを表示できない ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26160) | 新しい記事 | Adobe Campaign Classic Hosted （v7）の特定のフォルダー内に検索フィルターが表示されない問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Campaign Classicでの E メール配信の開封率の低下 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26266) | 新しい記事 | ワークフローやコンテンツは変更されていないのに、メール配信の開封率が低下した場合の問題の解決策について説明します。 |
+| 2025年4月 | [ にログインできません  [!DNL Adobe Campaign Managed Cloud]](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26119) | 新しい記事 | [!DNL Adobe Campaign Managed Cloud] にログインすると、「不明な認証モード：ネゴシエート *というエラーメッセージが表示される問題の解決策を説明* ます。 |
+| 2025年4月 | [ メールシードが、インボックスでは送信されたが受信されなかったと表示される ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26162) | 新しい記事 | Adobe Campaign経由で送信されたメールが配信ログには表示されるが、受信者のインボックスには迅速に受信されない問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Campaignでのフォルダー表示の問題の解決 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26292) | 新しい記事 | Adobe Campaign Classic インスタンスに特定のフォルダーが表示されない場合の問題の解決策について説明します。 |
+| 2025年4月 | [ でのロードバランサー URL の問題を解決  [!DNL Adobe Campaign Classic Hosted]](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26264) | 新しい記事 | アプリ統合のロードバランサー URL が失敗し、HTTPS リクエストの設定が不適切なために 401 エラーが発生した場合の、[!DNL Adobe Campaign Classic Hosted] の問題の解決策について説明します。 |
 
 +++
 
@@ -427,11 +427,11 @@ Experience League に関する Adobe [!DNL Journey Optimizer] の新しいチュ
 | 公開日 | アプリケーション | 名前 | タイプ | 説明 |
 | ----------| ---------- | ---------- | ---------- |---------- |
 | 2025年5月 | [!DNL Journey Optimizer] | [ オーケストレーションをJourney Optimizerのオムニチャネルエンゲージメントに拡張 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction) | 新しいビデオ | ビジネスコミュニケーションを、基本的なアウトバウンドメッセージから高度なオムニチャネルエクスペリエンスに変換する方法を説明します。 実践的な例を通じて、プロアクティブなアウトリーチとレスポンシブエンゲージメントを組み合わせたカスタマージャーニーを作成します。 元々は、Adobe Summit 2025 で Lab L535 として発表されていました。 |
-| 2025年5月 | Journey Optimizer | [トリガーの毎日のジャーニーは、バッチセグメント化の完了後に実行され ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion) す。 | 新しいビデオ | セグメント化ジョブの完了後にのみ開始するようにオーディエンスを読み取りジャーニーを設定し、データの精度とコンプライアンスを確保する方法を説明します。 |
-| 2025年5月 | Journey Optimizer、Adobe Express | [Adobe Expressでのアセットの編集 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/assets/edit-assets-with-adobe-express) | 新しいビデオ | Adobe Express ツールを使用して Adobe Journey Optimizer でアセットを編集する方法について説明します。 |
-| 2025年5月 | [!DNL Journey Optimizer] | [Personalization エディタープレイグラウンド ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-playground) | 新しいビデオ | 定義済みコードサンプルの活用、ダミーのプロファイルペイロードの編集、パーソナライゼーションコードの出力のリアルタイムプレビューについて、それぞれの方法を説明します。 |
-| 2025年5月 | [!DNL Journey Optimizer]; [!DNL Experience Platform] | [Decisioning を使用した web オファーのパーソナライズ ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction?lang=en) | 新しい記事 | Journey Optimizer（AJO AEP） [!UICONTROL Decisioning） &#x200B;] を使用し、[!DNL Experience Platform] に組み込まれたオーディエンスセグメント化を活用して、パーソナライズされたオファーを web ページで提供する方法を説明します。 |
-| 2025年5月 | [!DNL Journey Optimizer]; [!DNL Experience Platform] | [Web SDKを使用したオーディエンスの作成 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction) | 新しい記事 | Web フォームを通じてユーザーの環境設定を取得し、そのデータをリアルタイムでAdobe [!DNL Experience Platform] （AEP）に送信し、選択内容に基づいてユーザーをターゲットオーディエンスに動的に選定する方法を説明します。 |
+| 2025年5月 | Journey Optimizer | [トリガーの毎日のジャーニーは、バッチセグメント化の完了後に実行され ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion) す。 | 新しいビデオ | セグメント化ジョブの完了後にのみ開始するようにオーディエンスを読み取りジャーニーを設定し、データの精度とコンプライアンスを確保する方法を説明します。 |
+| 2025年5月 | Journey Optimizer、Adobe Express | [Adobe Expressでのアセットの編集 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/assets/edit-assets-with-adobe-express) | 新しいビデオ | Adobe Express ツールを使用して Adobe Journey Optimizer でアセットを編集する方法について説明します。 |
+| 2025年5月 | [!DNL Journey Optimizer] | [Personalization エディタープレイグラウンド ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-playground) | 新しいビデオ | 定義済みコードサンプルの活用、ダミーのプロファイルペイロードの編集、パーソナライゼーションコードの出力のリアルタイムプレビューについて、それぞれの方法を説明します。 |
+| 2025年5月 | [!DNL Journey Optimizer]; [!DNL Experience Platform] | [Decisioning を使用した web オファーのパーソナライズ ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction?lang=en) | 新しい記事 | Journey Optimizer（AJO AEP） [!UICONTROL Decisioning） &#x200B;] を使用し、[!DNL Experience Platform] に組み込まれたオーディエンスセグメント化を活用して、パーソナライズされたオファーを web ページで提供する方法を説明します。 |
+| 2025年5月 | [!DNL Journey Optimizer]; [!DNL Experience Platform] | [Web SDKを使用したオーディエンスの作成 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/create-audiences-using-web-sdk/introduction) | 新しい記事 | Web フォームを通じてユーザーの環境設定を取得し、そのデータをリアルタイムでAdobe [!DNL Experience Platform] （AEP）に送信し、選択内容に基づいてユーザーをターゲットオーディエンスに動的に選定する方法を説明します。 |
 
 ### 新しい [!DNL Journey Optimizer] でのナレッジベースのサポート{#kb-ajo}
 
@@ -439,39 +439,39 @@ Experience League に関する Adobe [!DNL Journey Optimizer] の新しいチュ
 
 | 公開日 | 名前 | タイプ | 説明 |
 |---------|----|----|-----------|
-| 2025年4月 | [ プッシュメッセージがAJOの web URL にリダイレクトされない場合のクリック動作 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26226) | 新しい記事 | クリック時に設定済み web URL にリダイレクトするようにプッシュメッセージを設定しても期待どおりに動作しない問題の解決策について説明します。 |
-| 2025年4月 | [Journey Optimizer: `consents.marketing.sms.value=y`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26258) があるにもかかわらず、トランザクション SMS が配信されません | 新しい記事 | SMS メッセージに応答すると、トランザクションメッセージを含め、その短い数から後続のすべての SMS がブロックされる問題の解決策 `STOP` ついて説明します。 |
-| 2025年4月 | [Adobe Journey Optimizerでのオーディエンス母集団の問題を解決 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26333) | 新しい記事 | コンポーネントやリソースが見つからない、権限に影響を与える、プロビジョニングなど、オーディエンス母集団の問題を解決する方法について説明します。 |
-| 2025年4月 | [ の [!UICONTROL &#x200B; アプリ内チャネル &#x200B;] に関してレポートできません  [!DNL Customer Journey Analytics]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26206) | 新しい記事 | [!DNL Adobe Customer Journey Analytics] （CJA）内の [!UICONTROL &#x200B; アプリ内チャネル &#x200B;] でレポートする際の問題を解決する方法を説明します。 |
-| 2025年4月 | [Journey Optimizer：手動のセグメント評価が原因で、オーディエンス数が古くなっています ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26166) | 新しい記事 | ジャーニーに最新の認定済みデータが反映されない問題の解決策について説明します。 |
-| 2025年4月 | [ ジャーニーにエントリするプロファイル数とAJOの関連オーディエンスのプロファイル数が一致しない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26253) | 新しい記事 | ジャーニー（特にバッチオーディエンスを使用するジャーニー）にエントリするプロファイル数が、関連するオーディエンスのプロファイル数と一致しない問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Journey Optimizerでのプロファイル更新エラーの解決 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26352) | 新しい記事 | ジャーニーの [!UICONTROL &#x200B; プロファイルを更新 &#x200B;] ノードを実行した後、特定のフィールド値が正しく更新されないような問題の解決策について説明します。 |
-| 2025年4月 | [ キャンペーンがAdobe Journey Optimizerで期待されたファイルを生成しない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26235) | 新しい記事 | 毎日実行した時間の後にダイレクトメールキャンペーンを繰り返し開始すると、その日のメールが処理されない問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Journey Optimizerでのオファーコレクション作成の問題の解決 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26265) | 新しい記事 | カタログがプロビジョニングされないので、Adobe Journey Optimizer（AJO）内でオファーコレクションを作成する際に問題が発生する問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Journey Optimizerでのカスタムアクションに対する TLS v1.3 の有効化 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26223) | 新しい記事 | AJOでカスタムアクションの [!DNL Transport Layer Security] （TLS） v1.3 を有効にして、サードパーティシステムに接続する際にデータの整合性とセキュリティを維持する方法について説明します。 |
-| 2025年4月 | [Adobe Journey Optimizerでオーディエンスを変更した後のジャーニートリガーの問題の解決 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26224) | 新しい記事 | Adobe Journey Optimizer（AJO）のジャーニーが、関連するオーディエンスに変更が加えられるとトリガーされなくなる問題の解決策（結合ポリシーの変更など）について説明します。 |
-| 2025年4月 | [Adobe Journey Optimizerでクエリからダッシュボードを作成できない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26201) | 新しい記事 | ユーザーがクエリから直接ダッシュボードを作成できない場合の、問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Journey Optimizer：多言語機能が取得します *メッセージ検証エラー（CJMMAS - 1069-500）*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26168) | 新しい記事 | 多言語機能にリンクされた *メッセージ検証エラー（CJMMAS - 1069-500）により* ジャーニーがテストモードに設定されたり公開されたりしない場合の、問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Journey Optimizerでのイベントキャッピングが原因でプロファイルが終了する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26018) | 新しい記事 | イベントキャッピングが原因でプロファイルが予期せずジャーニーから離脱し、通信の欠落につながった場合の問題の解決策について説明します。 |
-| 2025年4月 | [AJO メールテンプレートでHTML コンポーネントを使用した場合のリンクの動作に不一致 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26221) | 新しい記事 | HTML コンポーネントをメールコンテンツテンプレートに追加する際の問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Journey Optimizerでジャーニーがトリガーされないイベント ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26031) | 新しい記事 | すべての条件が満たされていても、イベントで目的のジャーニーをトリガーに入れることができない場合がある問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Journey Optimizer: カスタムアクションの外部サードパーティエンドポイントがタイムアウトしました ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26156) | 新しい記事 | 外部のサードパーティエンドポイントを呼び出すようにAdobe Journey Optimizer（AJO）でカスタムアクションを設定すると、タイムアウトエラーが発生する場合の問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Journey Optimizerでの [!UICONTROL &#x200B; エンゲージメント可能なプロファイル &#x200B;] 数の増加 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26161) | 新しい記事 | Adobe Journey Optimizer（AJO）の [!UICONTROL &#x200B; エンゲージメント可能なプロファイル &#x200B;] 数が短期間に大幅に増加する理由について説明します。 |
-| 2025年4月 | [Adobe Journey Optimizerでの **[!UICONTROL キャッピングルール]** ドロップダウンの問題のトラブルシューティング ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26204) | 新しい記事 | Adobe Journey Optimizer（AJO）の **[!UICONTROL キャッピングルール]** ドロップダウンメニューに関する問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Journey Optimizerでのプロファイルのジャーニーからの離脱が早い ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26127) | 新しい記事 | プロファイルが指定されたノードを通過せずにジャーニーから予期せず離脱した場合の問題の解決策について説明します。 |
-| 2025年4月 | [!UICONTROL &#x200B; データストリーム &#x200B;] 設定に [Adobe Journey Optimizerチェックボックスがありません ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26131) | 新しい記事 | Adobe [!DNL Experience Platform] （AEP）サービスの下の [!UICONTROL &#x200B; データストリーム &#x200B;] 設定に「Adobe Journey Optimizer」チェックボックスがない場合の問題の解決策について説明します。 |
-| 2025年4月 | Adobe Journey Optimizerで [[!UICONTROL &#x200B; 独自にコーディング **[!UICONTROL モードで &#x200B;] プリヘッダー]** フィールドが表示されない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26174) | 新しい記事 | **[!UICONTROL メール本文を編集]** 機能の [!UICONTROL &#x200B; 独自にコーディング &#x200B;] モードで **[!UICONTROL プリヘッダー]** 入力フィールドが表示されない問題の解決策について説明します。 |
-| 2025年4月 | [Adobe Journey Optimizerで **[!UICONTROL Offer Decisioningにアクセスできません]**](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26175) | 新しい記事 | Adobe Journey Optimizer（AJO）を使用してAdobe Targetをアプリケーションに統合すると、**[!UICONTROL Offer Decisioning]** オプションが [!UICONTROL &#x200B; データストリーム &#x200B;] 設定内でアクセスできないことを示す警告が表示される問題の解決策について説明します。 |
-| 2025年4月 | [ アクセスに関する問題の解決  [!DNL Adobe Journey Optimizer Query Service API]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26196) | 新しい記事 | [!DNL Postman] または類似のツールを使用して [!DNL Adobe Journey Optimizer Query Service API] にアクセスしようとすると、権限が不十分なためにアクセスエラーが発生する問題の解決策について説明します。 |
-| 2025年4月 | [AJOで API トリガーのトランザクションメールキャンペーンを設定する際に Mail Exchanger エラーが発生する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26200) | 新しい記事 | Adobe Journey Optimizer（AJO）で API トリガーのトランザクションメールキャンペーンを設定する際に、メール交換（MX）エラーが原因で新しいチャネル設定を作成できない場合の問題の解決策について説明します。 |
-| 2025年4月 | [Journey Optimizer：日付関数の設定 `AFTER` 誤ると、意図しないオーディエンスにメールが送信される ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26173) | 新しい記事 | Adobe Journey Optimizer（AJO）の `AFTER` 日付関数の設定の誤りの問題の解決策を説明します。これにより、対象オーディエンスに該当しないメンバーにメールが送信されます。 |
-| 2025年4月 | [AJO内のファイルのルーティング  [!DNL Azure]  確立できない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26323) | 新しい記事 | Adobe Journey Optimizer（AJO）から [!DNL Azure] への [!UICONTROL delivery management] （DM）出力ファイルのファイルルーティングを設定する際に、[!DNL Azure] 接続文字列とコンテナの設定が正しくないことが原因でエラーが発生する問題の解決策について説明します。 |
-| 2025年4月 | [ イベント条件を満たしているにもかかわらず、ジャーニーがプロファイルのトリガーにならない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26305) | 新しい記事 | Adobe [!DNL Experience Platform] の（AEP） [!DNL Journey Orchestration] ークフローでは、イベント条件が満たされているにもかかわらず、ジャーニーが特定のプロファイルに対してトリガーされない場合がある問題の解決策について説明します。 |
+| 2025年4月 | [ プッシュメッセージがAJOの web URL にリダイレクトされない場合のクリック動作 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26226) | 新しい記事 | クリック時に設定済み web URL にリダイレクトするようにプッシュメッセージを設定しても期待どおりに動作しない問題の解決策について説明します。 |
+| 2025年4月 | [Journey Optimizer: `consents.marketing.sms.value=y`](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26258) があるにもかかわらず、トランザクション SMS が配信されません | 新しい記事 | SMS メッセージに応答すると、トランザクションメッセージを含め、その短い数から後続のすべての SMS がブロックされる問題の解決策 `STOP` ついて説明します。 |
+| 2025年4月 | [Adobe Journey Optimizerでのオーディエンス母集団の問題を解決 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26333) | 新しい記事 | コンポーネントやリソースが見つからない、権限に影響を与える、プロビジョニングなど、オーディエンス母集団の問題を解決する方法について説明します。 |
+| 2025年4月 | [ の [!UICONTROL &#x200B; アプリ内チャネル &#x200B;] に関してレポートできません  [!DNL Customer Journey Analytics]](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26206) | 新しい記事 | [!DNL Adobe Customer Journey Analytics] （CJA）内の [!UICONTROL &#x200B; アプリ内チャネル &#x200B;] でレポートする際の問題を解決する方法を説明します。 |
+| 2025年4月 | [Journey Optimizer：手動のセグメント評価が原因で、オーディエンス数が古くなっています ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26166) | 新しい記事 | ジャーニーに最新の認定済みデータが反映されない問題の解決策について説明します。 |
+| 2025年4月 | [ ジャーニーにエントリするプロファイル数とAJOの関連オーディエンスのプロファイル数が一致しない ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26253) | 新しい記事 | ジャーニー（特にバッチオーディエンスを使用するジャーニー）にエントリするプロファイル数が、関連するオーディエンスのプロファイル数と一致しない問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Journey Optimizerでのプロファイル更新エラーの解決 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26352) | 新しい記事 | ジャーニーの [!UICONTROL &#x200B; プロファイルを更新 &#x200B;] ノードを実行した後、特定のフィールド値が正しく更新されないような問題の解決策について説明します。 |
+| 2025年4月 | [ キャンペーンがAdobe Journey Optimizerで期待されたファイルを生成しない ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26235) | 新しい記事 | 毎日実行した時間の後にダイレクトメールキャンペーンを繰り返し開始すると、その日のメールが処理されない問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Journey Optimizerでのオファーコレクション作成の問題の解決 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26265) | 新しい記事 | カタログがプロビジョニングされないので、Adobe Journey Optimizer（AJO）内でオファーコレクションを作成する際に問題が発生する問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Journey Optimizerでのカスタムアクションに対する TLS v1.3 の有効化 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26223) | 新しい記事 | AJOでカスタムアクションの [!DNL Transport Layer Security] （TLS） v1.3 を有効にして、サードパーティシステムに接続する際にデータの整合性とセキュリティを維持する方法について説明します。 |
+| 2025年4月 | [Adobe Journey Optimizerでオーディエンスを変更した後のジャーニートリガーの問題の解決 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26224) | 新しい記事 | Adobe Journey Optimizer（AJO）のジャーニーが、関連するオーディエンスに変更が加えられるとトリガーされなくなる問題の解決策（結合ポリシーの変更など）について説明します。 |
+| 2025年4月 | [Adobe Journey Optimizerでクエリからダッシュボードを作成できない ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26201) | 新しい記事 | ユーザーがクエリから直接ダッシュボードを作成できない場合の、問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Journey Optimizer：多言語機能が取得します *メッセージ検証エラー（CJMMAS - 1069-500）*](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26168) | 新しい記事 | 多言語機能にリンクされた *メッセージ検証エラー（CJMMAS - 1069-500）により* ジャーニーがテストモードに設定されたり公開されたりしない場合の、問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Journey Optimizerでのイベントキャッピングが原因でプロファイルが終了する ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26018) | 新しい記事 | イベントキャッピングが原因でプロファイルが予期せずジャーニーから離脱し、通信の欠落につながった場合の問題の解決策について説明します。 |
+| 2025年4月 | [AJO メールテンプレートでHTML コンポーネントを使用した場合のリンクの動作に不一致 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26221) | 新しい記事 | HTML コンポーネントをメールコンテンツテンプレートに追加する際の問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Journey Optimizerでジャーニーがトリガーされないイベント ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26031) | 新しい記事 | すべての条件が満たされていても、イベントで目的のジャーニーをトリガーに入れることができない場合がある問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Journey Optimizer: カスタムアクションの外部サードパーティエンドポイントがタイムアウトしました ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26156) | 新しい記事 | 外部のサードパーティエンドポイントを呼び出すようにAdobe Journey Optimizer（AJO）でカスタムアクションを設定すると、タイムアウトエラーが発生する場合の問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Journey Optimizerでの [!UICONTROL &#x200B; エンゲージメント可能なプロファイル &#x200B;] 数の増加 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26161) | 新しい記事 | Adobe Journey Optimizer（AJO）の [!UICONTROL &#x200B; エンゲージメント可能なプロファイル &#x200B;] 数が短期間に大幅に増加する理由について説明します。 |
+| 2025年4月 | [Adobe Journey Optimizerでの **[!UICONTROL キャッピングルール]** ドロップダウンの問題のトラブルシューティング ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26204) | 新しい記事 | Adobe Journey Optimizer（AJO）の **[!UICONTROL キャッピングルール]** ドロップダウンメニューに関する問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Journey Optimizerでのプロファイルのジャーニーからの離脱が早い ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26127) | 新しい記事 | プロファイルが指定されたノードを通過せずにジャーニーから予期せず離脱した場合の問題の解決策について説明します。 |
+| 2025年4月 | [!UICONTROL &#x200B; データストリーム &#x200B;] 設定に [Adobe Journey Optimizerチェックボックスがありません ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26131) | 新しい記事 | Adobe [!DNL Experience Platform] （AEP）サービスの下の [!UICONTROL &#x200B; データストリーム &#x200B;] 設定に「Adobe Journey Optimizer」チェックボックスがない場合の問題の解決策について説明します。 |
+| 2025年4月 | Adobe Journey Optimizerで [[!UICONTROL &#x200B; 独自にコーディング **[!UICONTROL モードで &#x200B;] プリヘッダー]** フィールドが表示されない ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26174) | 新しい記事 | **[!UICONTROL メール本文を編集]** 機能の [!UICONTROL &#x200B; 独自にコーディング &#x200B;] モードで **[!UICONTROL プリヘッダー]** 入力フィールドが表示されない問題の解決策について説明します。 |
+| 2025年4月 | [Adobe Journey Optimizerで **[!UICONTROL Offer Decisioningにアクセスできません]**](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26175) | 新しい記事 | Adobe Journey Optimizer（AJO）を使用してAdobe Targetをアプリケーションに統合すると、**[!UICONTROL Offer Decisioning]** オプションが [!UICONTROL &#x200B; データストリーム &#x200B;] 設定内でアクセスできないことを示す警告が表示される問題の解決策について説明します。 |
+| 2025年4月 | [ アクセスに関する問題の解決  [!DNL Adobe Journey Optimizer Query Service API]](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26196) | 新しい記事 | [!DNL Postman] または類似のツールを使用して [!DNL Adobe Journey Optimizer Query Service API] にアクセスしようとすると、権限が不十分なためにアクセスエラーが発生する問題の解決策について説明します。 |
+| 2025年4月 | [AJOで API トリガーのトランザクションメールキャンペーンを設定する際に Mail Exchanger エラーが発生する ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26200) | 新しい記事 | Adobe Journey Optimizer（AJO）で API トリガーのトランザクションメールキャンペーンを設定する際に、メール交換（MX）エラーが原因で新しいチャネル設定を作成できない場合の問題の解決策について説明します。 |
+| 2025年4月 | [Journey Optimizer：日付関数の設定 `AFTER` 誤ると、意図しないオーディエンスにメールが送信される ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26173) | 新しい記事 | Adobe Journey Optimizer（AJO）の `AFTER` 日付関数の設定の誤りの問題の解決策を説明します。これにより、対象オーディエンスに該当しないメンバーにメールが送信されます。 |
+| 2025年4月 | [AJO内のファイルのルーティング  [!DNL Azure]  確立できない ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26323) | 新しい記事 | Adobe Journey Optimizer（AJO）から [!DNL Azure] への [!UICONTROL delivery management] （DM）出力ファイルのファイルルーティングを設定する際に、[!DNL Azure] 接続文字列とコンテナの設定が正しくないことが原因でエラーが発生する問題の解決策について説明します。 |
+| 2025年4月 | [ イベント条件を満たしているにもかかわらず、ジャーニーがプロファイルのトリガーにならない ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26305) | 新しい記事 | Adobe [!DNL Experience Platform] の（AEP） [!DNL Journey Orchestration] ークフローでは、イベント条件が満たされているにもかかわらず、ジャーニーが特定のプロファイルに対してトリガーされない場合がある問題の解決策について説明します。 |
 
 ### [!DNL Journey Optimizer] のその他のリソース
 
 * [[!DNL Journey Optimizer] ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/ajo-home) - [リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/release-notes) - [チュートリアルビデオ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/overview)
-* [意思決定管理ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/release-notes) - [チュートリアルビデオ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/documentation-updates)
+* [意思決定管理ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/release-notes) - [チュートリアルビデオ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management) - [最新のドキュメントアップデート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/documentation-updates)
 
 +++
 
@@ -485,19 +485,19 @@ Experience League に関する Adobe [!DNL Journey Optimizer] の新しいチュ
 
 最新リリース日：2025年4月29日（PT）
 
-* [Journey Optimizer B2B edition](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b) （すべてのセルフヘルプ）
-* Journey Optimizer B2B editionの [ リリースノート ](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes)
+* [Journey Optimizer B2B edition](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b) （すべてのセルフヘルプ）
+* Journey Optimizer B2B editionの [ リリースノート ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/release-notes)
 * Journey Optimizer B2B editionの [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/guide-overview)
-* Journey Optimizer B2B editionの [ ビデオの概要とチュートリアル ](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/overview)
-* Journey Optimizer B2B editionの [ 製品の説明とライセンス ](https://helpx.adobe.com/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl)
+* Journey Optimizer B2B editionの [ ビデオの概要とチュートリアル ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b-learn/tutorials/overview)
+* Journey Optimizer B2B editionの [ 製品の説明とライセンス ](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl)
 
 <!-- New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
-|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
-|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
+|February 2025|[Account Journeys](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
 
 詳しくは、次を参照してください。
 
@@ -522,7 +522,7 @@ New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
+|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
 
 最新の製品ドキュメントについて詳しくは、[Marketo 製品ドキュメント](https://experienceleague.adobe.com/ja/docs/marketo/using/home)ホームを参照してください。
 
@@ -532,7 +532,7 @@ New tutorials published for Adobe Marketo.
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2025年4月 | [[!UICONTROL Everytouch アトリビューション &#x200B;] で設定が予期せず変更される  [!DNL Marketo Measure]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26378) | 新しい記事 | [!DNL Marketo Measure] の [!UICONTROL Everytouch アトリビューションメソッド &#x200B;] が **[!UICONTROL 連絡先の役割の使用]** と **[!UICONTROL アカウント ID の使用]** の間で予期せず変更される場合の問題の解決策について説明します。 |
+| 2025年4月 | [[!UICONTROL Everytouch アトリビューション &#x200B;] で設定が予期せず変更される  [!DNL Marketo Measure]](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26378) | 新しい記事 | [!DNL Marketo Measure] の [!UICONTROL Everytouch アトリビューションメソッド &#x200B;] が **[!UICONTROL 連絡先の役割の使用]** と **[!UICONTROL アカウント ID の使用]** の間で予期せず変更される場合の問題の解決策について説明します。 |
 
 +++
 
@@ -558,19 +558,19 @@ Experience League の新しい [!DNL Workfront] チュートリアルとイベ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2025年5月 | [ タイムラインビューの作成 ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-timeline-views) | 新しいビデオ | Workfront Planning でタイムラインビューを管理およびカスタマイズする方法を説明します。 |
-| 2025年5月 | [ 複数の請求レートについて ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/project-finances-users/multiple-billing-rates) | 新しいビデオ | プロジェクト内の担当業務の請求レートを管理およびカスタマイズする方法を説明します。 |
-| 2025年5月 | [ 為替レートの設定 ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-exchange-rates) | 新しいビデオ | 柔軟な為替レート管理、グローバルおよびプロジェクトレベルのカスタマイズ、正確な財務追跡のための手動入力オプションにより、通貨設定をカスタマイズします。 |
+| 2025年5月 | [ タイムラインビューの作成 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-timeline-views) | 新しいビデオ | Workfront Planning でタイムラインビューを管理およびカスタマイズする方法を説明します。 |
+| 2025年5月 | [ 複数の請求レートについて ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/project-finances-users/multiple-billing-rates) | 新しいビデオ | プロジェクト内の担当業務の請求レートを管理およびカスタマイズする方法を説明します。 |
+| 2025年5月 | [ 為替レートの設定 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-exchange-rates) | 新しいビデオ | 柔軟な為替レート管理、グローバルおよびプロジェクトレベルのカスタマイズ、正確な財務追跡のための手動入力オプションにより、通貨設定をカスタマイズします。 |
 | 2025年5月 | [ 財務の更新 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/project-finances-users/update-and-review-finances) | 新しいビデオ | レートの定義、タスクへのコストと収益のタイプの割り当て、費用の管理、請求記録の作成により、コストの追跡と請求を効率化します。 Workfrontでは、実際の請求は行いません。 |
 | 2025年5月 | [パフォーマンス指標について](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-performance-metrics) | 新しいビデオ | 柔軟な計算方法、グローバルなデフォルト、プロジェクトレベルの上書きにより、適応可能な財務業績指標を確認します。 |
-| 2025年5月 | [ タスクの収益とコストのデフォルトの設定 ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-task-revenue-and-cost-defaults) | 新しいビデオ | 収益タイプとコストタイプを使用する場所と、システムのデフォルトを設定する方法について説明します。 |
-| 2025年5月 | [ 財務アクセスについて ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-financial-access) | 新しいビデオ | カスタマイズ可能な権限を通じて財務データアクセスを制御し、安全な管理、プロジェクトレベルの監視、財務の可視性に合わせた共有オプションを確保する方法を説明します。 |
-| 2025年5月 | [ 費用タイプの設定 ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-expense-types) | 新しいビデオ | 費用の入力時に事前定義済みの費用タイプを使用する方法と、新しい費用タイプを作成する方法を説明します。 |
-| 2025年5月 | [ 基本フィルターの作成 ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter) | 新しいビデオ | Workfrontでフィルターを作成および使用して、特定の条件に基づいてリストレポートをカスタマイズする方法を説明します。 |
-| 2025年5月 | [ レポートコンポーネントについて ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components) | 新しいビデオ | カスタマイズされたインサイトに合わせて、オブジェクトベースのフィルター、動的ビュー、構造化されたグループ化、ワイルドカード機能を使用してデータビジュアライゼーションを絞り込むレポートコンポーネントについて説明します。 |
-| 2025年5月 | [ 財務情報の検索 ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/project-finances-users/find-financial-information) | 新しいビデオ | プロジェクトとタスクの財務データに効率的にアクセス、分析、管理する方法を確認し、プロジェクトとタスクの両方のレベルで予算、収益、コスト、パフォーマンス指標をカバーします。 |
-| 2025年5月 | [ グラフを使用したレポートの作成 ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-reports-with-charts) | 新しいビデオ | グラフを使用して、特にプロジェクトタスクを追跡するために、データを効果的に視覚化する方法を説明します。 |
-| 2025年5月 | [Microsoft Outlook アドインのインストール ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/integrations/outlook/integrations-microsoft-outlook) | 新しいビデオ | Microsoft Outlook アドインをインストールして、Microsoft Outlook のカレンダーとWorkfrontのホームのカレンダーを統合する方法を説明します。 |
+| 2025年5月 | [ タスクの収益とコストのデフォルトの設定 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-task-revenue-and-cost-defaults) | 新しいビデオ | 収益タイプとコストタイプを使用する場所と、システムのデフォルトを設定する方法について説明します。 |
+| 2025年5月 | [ 財務アクセスについて ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-financial-access) | 新しいビデオ | カスタマイズ可能な権限を通じて財務データアクセスを制御し、安全な管理、プロジェクトレベルの監視、財務の可視性に合わせた共有オプションを確保する方法を説明します。 |
+| 2025年5月 | [ 費用タイプの設定 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-expense-types) | 新しいビデオ | 費用の入力時に事前定義済みの費用タイプを使用する方法と、新しい費用タイプを作成する方法を説明します。 |
+| 2025年5月 | [ 基本フィルターの作成 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter) | 新しいビデオ | Workfrontでフィルターを作成および使用して、特定の条件に基づいてリストレポートをカスタマイズする方法を説明します。 |
+| 2025年5月 | [ レポートコンポーネントについて ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components) | 新しいビデオ | カスタマイズされたインサイトに合わせて、オブジェクトベースのフィルター、動的ビュー、構造化されたグループ化、ワイルドカード機能を使用してデータビジュアライゼーションを絞り込むレポートコンポーネントについて説明します。 |
+| 2025年5月 | [ 財務情報の検索 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/manage-work/project-finances-users/find-financial-information) | 新しいビデオ | プロジェクトとタスクの財務データに効率的にアクセス、分析、管理する方法を確認し、プロジェクトとタスクの両方のレベルで予算、収益、コスト、パフォーマンス指標をカバーします。 |
+| 2025年5月 | [ グラフを使用したレポートの作成 ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-reports-with-charts) | 新しいビデオ | グラフを使用して、特にプロジェクトタスクを追跡するために、データを効果的に視覚化する方法を説明します。 |
+| 2025年5月 | [Microsoft Outlook アドインのインストール ](https://experienceleague.adobe.com/ja/docs/workfront-learn/tutorials-workfront/integrations/outlook/integrations-microsoft-outlook) | 新しいビデオ | Microsoft Outlook アドインをインストールして、Microsoft Outlook のカレンダーとWorkfrontのホームのカレンダーを統合する方法を説明します。 |
 
 
 ### 新しい [!DNL Workfront] でのナレッジベースのサポート
@@ -579,8 +579,8 @@ Experience League の新しい [!DNL Workfront] チュートリアルとイベ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2025年4月 | [ シナリオで 500 エラーを解決  [!DNL Adobe Workfront Fusion]  る ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26250) | 新しい記事 | [!DNL Adobe Workfront Fusion] のシナリオで次のメッセージで 500 エラーが返される問題の解決策について説明します：*`[ 500] Cannot invoke "java.lang.Class.getName()" because "cls" is null.`* |
-| 2025年4月 | [Adobe Workfrontで個人のプロジェクトを削除できない問題の解決 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26238) | 新しい記事 | 管理者が、エラーで作成された個人プロジェクトを削除または完了できない問題の解決策について説明します。 |
+| 2025年4月 | [ シナリオで 500 エラーを解決  [!DNL Adobe Workfront Fusion]  る ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26250) | 新しい記事 | [!DNL Adobe Workfront Fusion] のシナリオで次のメッセージで 500 エラーが返される問題の解決策について説明します：*`[ 500] Cannot invoke "java.lang.Class.getName()" because "cls" is null.`* |
+| 2025年4月 | [Adobe Workfrontで個人のプロジェクトを削除できない問題の解決 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26238) | 新しい記事 | 管理者が、エラーで作成された個人プロジェクトを削除または完了できない問題の解決策について説明します。 |
 
 最新の製品ドキュメントについて詳しくは、[アドビ [!DNL Workfront] ドキュメントのホームページ](https://experienceleague.adobe.com/ja/docs/workfront/using/home)を参照してください。
 
@@ -642,7 +642,7 @@ Adobe Pass用に公開された新しいチュートリアル。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- |---------- |
-| 2025年4月 | [Adobe Pass – 新しい REST API v2](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/solution/hidden/adobe-pass-rest-api-v2) | 新しいビデオ | Adobeの新しい REST API v2 とその移行プロセスについて説明します。 |
+| 2025年4月 | [Adobe Pass – 新しい REST API v2](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/solution/hidden/adobe-pass-rest-api-v2) | 新しいビデオ | Adobeの新しい REST API v2 とその移行プロセスについて説明します。 |
 
 リリース固有の情報、システム要件、制限事項、修正された問題および既知の問題については、[Adobe Pass ドキュメント](https://experienceleague.adobe.com/ja/docs/pass)を参照してください。
 
@@ -658,7 +658,7 @@ Adobe Document Cloud 向けに新しく公開されたチュートリアル。
 
 | 公開日 | アプリケーション | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| 2025年5月 | アプリケーション | [PDFに関するコメント ](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files) | 更新されたビデオ | Web ブラウザーのみを使用して、共有PDFにコメントを追加する方法を説明します。 チームで共同作業を行う場合でも、ドキュメントを校正する場合でも、Acrobatのコメントツールを使用すると、アクションにつながる明確なフィードバックを簡単に提供できます。 |
+| 2025年5月 | アプリケーション | [PDFに関するコメント ](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files) | 更新されたビデオ | Web ブラウザーのみを使用して、共有PDFにコメントを追加する方法を説明します。 チームで共同作業を行う場合でも、ドキュメントを校正する場合でも、Acrobatのコメントツールを使用すると、アクションにつながる明確なフィードバックを簡単に提供できます。 |
 
 [!DNL Document Cloud] のチュートリアルについては、以下を参照してください。
 
@@ -677,8 +677,8 @@ Adobe Document Cloud 向けに新しく公開されたチュートリアル。
 
 <!-- | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
-| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
+| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
+| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
 
 最新のチュートリアルについて詳しくは、[Creative Cloud エンタープライズ版チュートリアル](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview)を参照してください。
 
@@ -694,21 +694,21 @@ Adobe Document Cloud 向けに新しく公開されたチュートリアル。
 
 <!-- |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2025|[Guardrails](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails)|Updated article |Learn about guardrails, the performance expectations and impact for the components and services within Adobe Experience Platform and Applications.| -->
+|January 2025|[Guardrails](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails)|Updated article |Learn about guardrails, the performance expectations and impact for the components and services within Adobe Experience Platform and Applications.| -->
 
 <!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/ja/docs/certification/program/overview) site on Experience League. 
 
 +++Details
 
-The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
+The [Experience Cloud Certification](https://experienceleague.adobe.com/ja/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
 * Available certifications
 * Certification renewals for Adobe applications
 * Certification program updates
 
-And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/ja/docs/certification/program/overview) on Experience League and start your certification journey today!
 
 +++ -->
 
