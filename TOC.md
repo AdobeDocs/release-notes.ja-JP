@@ -5,9 +5,9 @@ user-guide-title: Adobe Experience Cloud リリースノート
 breadcrumb-title: リリースノート
 user-guide-description: Adobe Experience Cloud および Experience Platform の新機能、修正点、重要な注意事項について説明します。
 user-guide-url: https://www.adobe.com
-source-git-commit: f8055d5a337357f69cd56f0a68304a17a78f64c3
-workflow-type: ht
-source-wordcount: '114'
+source-git-commit: 62cb9a8cd5ed8b54594f7f33f90d344014f74752
+workflow-type: tm+mt
+source-wordcount: '93'
 ht-degree: 100%
 
 ---
@@ -45,16 +45,5 @@ ht-degree: 100%
       + [2023年3月](c-legacy-releases/2023/03082023.md)
       + [2023年2月](c-legacy-releases/2023/02082023.md)
       + [2023年1月](c-legacy-releases/2023/01112023.md)
-   + 2022年 {#2022}
-      + [2022年10月](c-legacy-releases/2022/10052022.md)
-      + [2022年9月](c-legacy-releases/2022/09072022.md)
-      + [2022年8月](c-legacy-releases/2022/08172022.md)
-      + [2022年7月](c-legacy-releases/2022/07202022.md)
-      + [2022年6月](c-legacy-releases/2022/06152022.md)
-      + [2022年5月](c-legacy-releases/2022/05182022.md)
-      + [2022年4月](c-legacy-releases/2022/04202022.md)
-      + [2022年3月](c-legacy-releases/2022/03232022.md)
-      + [2022年2月](c-legacy-releases/2022/02162022.md)
-      + [2022年1月](c-legacy-releases/2022/01192022.md)
-   + 2021年以前 {#legacy-rns}
+   + 2022年以前 {#legacy-rns}
       + [2021年以前](c-legacy-releases/2022-earlier.md)
