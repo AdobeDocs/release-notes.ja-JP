@@ -462,7 +462,7 @@ Adobe Campaign 向けに公開された、新規または更新されたビデ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 |---------|----|----|-----------|
-| 2025年5月 | Adobe Campaign Classic の[**[!UICONTROL データベース構造を更新&#x200B;]**ウィザードにスキーマが表示されない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26407) | 新しい記事 | Adobe Campaign Classic の&#x200B;**[!UICONTROL データベース構造を更新]**&#x200B;ウィザードを使用すると、外部データベースにリンクされたスキーマが表示されない問題の解決策について説明します。 |
+| 2025年5月 | Adobe Campaign Classic の[**[!UICONTROL データベース構造を更新&#x200B;]**&#x200B;ウィザードにスキーマが表示されない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26407) | 新しい記事 | Adobe Campaign Classic の&#x200B;**[!UICONTROL データベース構造を更新]**&#x200B;ウィザードを使用すると、外部データベースにリンクされたスキーマが表示されない問題の解決策について説明します。 |
 | 2025年5月 | [Adobe Campaign Managed Cloud のスケジューラー設定にもかかわらず、ワークフローが予期せず実行される](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26415) | 新しい記事 | Adobe Campaign Managed Cloud でスケジューラーの更新が適用されず、予期しないワークフロー実行が発生する問題の解決策について説明します。 |
 | 2025年5月 | [Campaign Classic で「ターゲティングとワークフロー」タブが表示されない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26632) | 新しい記事 | Adobe Campaign Classic に「**[!UICONTROL ターゲティングとワークフロー]**」タブが表示されない場合の、問題の解決策について説明します。 |
 | 2025年5月 | [Adobe Campaign Standard **[!UICONTROL 動的レポート]**&#x200B;の 10,000 件のレコード制限により、配信統計フィルターが機能しない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26697) | 新しい記事 | 特定のキーワードが適用されると、配信統計の&#x200B;**[!UICONTROL 含む]**&#x200B;フィルターで完全な結果が返されない場合の、問題の解決策について説明します。 |
@@ -482,7 +482,7 @@ Adobe Campaign 向けに公開された、新規または更新されたビデ�
 
 * アップデートおよびヘルプについては、[Journey Optimizer リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/release-notes)を参照してください
 
-**メモ：**[Journey Optimizer B2B Edition 用](#journey-optimizer-b2b-edition)は別の製品です。
+**メモ：**&#x200B;[Journey Optimizer B2B Edition 用](#journey-optimizer-b2b-edition)は別の製品です。
 
 ### 新しい [!DNL Journey Optimizer] チュートリアル {#tutorials-ajo}
 
