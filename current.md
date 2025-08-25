@@ -194,7 +194,7 @@ Experience League に関する Adobe [!DNL Experience Platform] の新しいチ�
 |---------|----|----|-----------|
 | 2025年7月 | [Adobe Experience Platform UI でのオーディエンス作成の大文字と小文字の区別に関する問題 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27033) | 新しい記事 | オーディエンス名では大文字と小文字が区別され、*NAME_1* と *name_1* が別のオーディエンスとして扱われるという問題の解決策について説明します。 |
 | 2025年7月 | [AEPでのオーディエンス評価が *待機中* ステータスでスタックしました ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27035) | 新しい記事 | オンデマンドでトリガーを行うオーディエンス評価が *キュー* 状態のままである場合の問題の解決策について説明します。 |
-| 2025年7月 | [Adobe Experience Platform: [!UICONTROL  類似オーディエンス ]Google Ad Manager と同期されていません ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27041) | 新しい記事 | Adobe Experience Platform（AEP）からGoogle Ad Manager （GAM）に [!UICONTROL  類似オーディエンス ] をアクティブ化しようとすると、オーディエンスは GAM に表示されますが、空のままになり、機能しません。 |
+| 2025年7月 | [Adobe Experience Platform: [!UICONTROL &#x200B; 類似オーディエンス &#x200B;]Google Ad Manager と同期されていません ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27041) | 新しい記事 | Adobe Experience Platform（AEP）からGoogle Ad Manager （GAM）に [!UICONTROL &#x200B; 類似オーディエンス &#x200B;] をアクティブ化しようとすると、オーディエンスは GAM に表示されますが、空のままになり、機能しません。 |
 | 2025年7月 | [ レコードサイズがAEPの取り込み制限を超えたことにより、UPS ジョブが失敗する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27068) | 新しい記事 | レコードがサイズ制限を超えた場合にAdobe Experience Platform（AEP）での UPS バッチ取得が失敗する問題の解決策について説明します。 |
 | 2025年7月 | [AEPでAmazon Ads 宛先に対してセグメントをアクティブ化中にエラーが発生しました ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27098) | 新しい記事 | 特殊文字を削除することでマッピング要件を満たすようにセグメントの名前を変更しても、Amazon Ads の宛先に対するセグメントのアクティベーション中にエラーが発生した場合の問題の解決策について説明します。 |
 | 2025年7月 | [Real-Time Customer Data Platform: *プロファイル対応* データセットにプロファイルフラグメント数がありません ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27142) | 新しい記事 | Real-Time Customer Data Platformで **[!UICONTROL プロファイルを有効にした]** データセットのバッチを表示すると、列 **[!UICONTROL 新しいプロファイルフラグメント]** および *既存のプロファイルフラグメント* が空のように表示される場合がある問題の解決策について説明します。 |
@@ -376,10 +376,10 @@ New articles and updates to existing articles for [!DNL Analytics].
 | 2025年7月 | [AEM Assets ライセンスに含まれていないコンテンツフラグメント ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26616) | 新しい記事 | コンテンツフラグメントがAEM as a Cloud Service（AEMaaCS）のAEM Assets ライセンスに含まれていない場合の問題の解決策について説明します。 |
 | 2025年7月 | [JS の使用 API の問題により、AEM サイトに *予期しないエラー* が表示される ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26787) | 新しい記事 | JavaScriptの Use API コンポーネントの問題が原因でAEM公開サイトが断続的に停止し *予期しないエラー* が発生した場合の問題の解決策について説明します。 |
 | 2025年7月 | [AEM as a Cloud Service オーサーインスタンスで短縮 URL のリクエスト変換を有効にする ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26917) | 新しい記事 | AEMaaCS で、オーサーインスタンスの短縮 URL が対象コンテンツではなく、デフォルトの開始ページ（`/aem/start.html`）にリダイレクトされる問題の解決策について説明します。 |
-| 2025年7月 | [ 読み取りアクセス権にもかかわらず、[!UICONTROL Assetsビューでコメントが制限されています ]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26928) | 新しい記事 | [!UICONTROL Assets ビュー ] が、AEMaaCS のタッチ操作対応 UI のよりきめ細かいモデルとは異なる、シンプルな権限モデルを使用する仕組みについて説明します。 |
-| 2025年7月 | [AEMで HTTPS リンクが誤って「壊れている」とフラグ付けされる [!UICONTROL  リンクチェッカー ]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27042) | 新しい記事 | AEMaaCS で、リッチテキストエディター（RTE）に追加された有効な HTTPS リンクが、[!UICONTROL  リンクチェッカー ] によって誤って壊れているとフラグ付けされる問題の解決策について説明します。 |
+| 2025年7月 | [ 読み取りアクセス権にもかかわらず、[!UICONTROL Assetsビューでコメントが制限されています &#x200B;]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26928) | 新しい記事 | [!UICONTROL Assets ビュー &#x200B;] が、AEMaaCS のタッチ操作対応 UI のよりきめ細かいモデルとは異なる、シンプルな権限モデルを使用する仕組みについて説明します。 |
+| 2025年7月 | [AEMで HTTPS リンクが誤って「壊れている」とフラグ付けされる [!UICONTROL &#x200B; リンクチェッカー &#x200B;]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27042) | 新しい記事 | AEMaaCS で、リッチテキストエディター（RTE）に追加された有効な HTTPS リンクが、[!UICONTROL &#x200B; リンクチェッカー &#x200B;] によって誤って壊れているとフラグ付けされる問題の解決策について説明します。 |
 | 2025年7月 | [AEMで公開した後、リッチテキストエディター（RTE）の改行が保持されない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27046) | 新しい記事 | コンテンツが AEMaaCS で公開される際に、ユニバーサルエディターのリッチテキストエディター（RTE）が *Shift+Enter* を使用して追加された改行を削除する問題の解決策について説明します。 |
-| 2025年7月 | [AEM ユニバーサルエディターは、`scopes``importmap` の ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27047) セクションをサポートしていません | 新しい記事 | `scopes` ファイルで定義された `importmap` の `head.html` セクションが AEMaaCS - ユニバーサルエディターを使用した Sites で自動的に削除される問題の解決策について説明します。 |
+| 2025年7月 | [AEM ユニバーサルエディターは、`scopes` `importmap` の ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27047) セクションをサポートしていません | 新しい記事 | `scopes` ファイルで定義された `importmap` の `head.html` セクションが AEMaaCS - ユニバーサルエディターを使用した Sites で自動的に削除される問題の解決策について説明します。 |
 | 2025年7月 | [AEMaaCS で sFTP を使用して CSV ファイルを直接転送できない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27048) | 新しい記事 | セキュリティに関する考慮事項と AEMaaCS のアーキテクチャ上、AEM ランタイムから Secure File Transfer Protocol （sFTP）経由でAEMからサードパーティシステムに CSV ファイルを直接転送することがサポートされていない理由について説明します。 |
 | 2025年7月 | [AEMaaCS の可変コンテンツのインストール手順でパイプラインのビルドに失敗する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27058) | 新しい記事 | AEMaaCS での XML 解析エラーが原因で、可変コンテンツのインストール手順の間にパイプラインのビルドが失敗する問題の解決策について説明します。 |
 | 2025年7月 | [AEMaaCS でのリダイレクトにより、コンテンツフラグメントの編集に失敗する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27059) | 新しい記事 | AEMaaCS - Assetsの新しいコンテンツフラグメント（CF） UI を使用してコンテンツフラグメントを編集しようとする際に、目的の編集インターフェイスからリダイレクトされる際の問題の解決策について説明します。 |
@@ -446,7 +446,7 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 | 2025年7月 | [Braintree支払いが有効な場合、管理者が注文の作成や並べ替えができない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27169) | 新しい記事 | Adobe Commerceの支払い方法が有効な場合、管理者ユーザーが顧客の注文の作成や並べ替えができない、Braintree 2.4.5 問題のパッチについて説明します。 |
 | 2025年7月 | [[!DNL JQuery] 2.4.4、2.4.5、2.4.6 リリースの UI セキュリティ脆弱性 CVE-2022-31160 の修正 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27176) | 新しい記事 | 2.4.4、2.4.5、2.4.6 リリースの [!DNL JQuery] UI セキュリティ脆弱性 CVE-2022-31160 修正のパッチについて説明します。 |
 | 2025年7月 | [Adobe Commerceでセキュリティアップデートが利用可能 – APSB25-50](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27181) | 新しい記事 | APSB25-50 セキュリティ速報に対応するパッチについて説明します。 |
-| 2025年7月 | [**[!UICONTROL  バージョン &lt; 2.4.5 からのアップグレード時の salesRule ]**ラベルの問題 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27186) | 新しい記事 | バージョン 2.4.5 より古い新しいAdobe Commerceにアップグレードした後に、一致しない **[!UICONTROL salesRule]** ラベルに対処するパッチについて説明します。 |
+| 2025年7月 | [**[!UICONTROL &#x200B; バージョン &lt; 2.4.5 からのアップグレード時の salesRule &#x200B;]**&#x200B;ラベルの問題 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27186) | 新しい記事 | バージョン 2.4.5 より古い新しいAdobe Commerceにアップグレードした後に、一致しない **[!UICONTROL salesRule]** ラベルに対処するパッチについて説明します。 |
 | 2025年7月 | [Adobe Commerce 2.4.6 で管理パネルから注文する際にエラーが発生する](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27187) | 新しい記事 | Commerce管理パネルから注文した後、ストアの選択でスタックした場合の、cloud infrastructure 2.4.6 での既知のAdobe Commerce問題に対するパッチについて説明します。 |
 | 2025年7月 | [ 統合環境の強化リクエスト - Pro と Starter](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27242) | 新しい記事 | Pro および Starter プラン マーチャントが統合の分岐を減らし、サポートチケットを送信し、環境を再デプロイしてデプロイメントの遅延やパフォーマンスの問題を解決することで、アップグレードする方法を説明します。 |
 | 2025年7月 | [ 動的 IP を使用したApp Builderと外部サービスの統合 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27043) | 新しい記事 | 動的 IP を使用した外部サービスとのApp Builder統合について説明します。 |
@@ -526,7 +526,7 @@ Adobe Campaign 向けに公開された、新規または更新されたビデ�
 
 詳しくは、 [Journey Optimizer リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/release-notes)を参照してください。
 
-**メモ：**[Journey Optimizer B2B Edition 用](#journey-optimizer-b2b-edition)は別の製品です。
+**メモ：**&#x200B;[Journey Optimizer B2B Edition 用](#journey-optimizer-b2b-edition)は別の製品です。
 
 ### 新しい [!DNL Journey Optimizer] チュートリアル {#tutorials-ajo}
 
@@ -667,7 +667,7 @@ Experience League の新しい [!DNL Workfront] チュートリアルとイベ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2025年7月 | Workfrontで [*このプルーフを表示する権限がありません* エラーが発生する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26973) | 新しい記事 | *新しいプルーフ* メールまたはダイレクト URL からプルーフにアクセスしようとすると、エラーメッセージ [!UICONTROL  このプルーフを表示する権限がありません ] が表示される場合の問題の解決策について説明します。 |
+| 2025年7月 | Workfrontで [*このプルーフを表示する権限がありません* エラーが発生する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26973) | 新しい記事 | *新しいプルーフ* メールまたはダイレクト URL からプルーフにアクセスしようとすると、エラーメッセージ [!UICONTROL &#x200B; このプルーフを表示する権限がありません &#x200B;] が表示される場合の問題の解決策について説明します。 |
 | 2025年7月 | [Adobe Workfront リクエストの **Path** フィールドは変更できません ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27160) | 新しい記事 | **パス** フィールドが送信後にロックされ、編集できない場合の問題の解決策について説明します。 |
 | 2025年7月 | [ 実稼動環境でのWorkfront [!UICONTROL Fusion Watch Proofs] エラー 500 の修正 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27177) | 新しい記事 | Workfront [!UICONTROL Fusion Watch Proofs] モジュールで、管理者権限がないため実稼動環境で *rpc 呼び出しに失敗しました：[500]* エラーが表示される場合の問題の解決策について説明します。 |
 | 2025年7月 | [Adobe Workfrontでレポートタイプを識別する方法 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27207) | 新しい記事 | Adobe Workfrontでレポートのタイプを判断できない問題の解決策について説明します。 |
