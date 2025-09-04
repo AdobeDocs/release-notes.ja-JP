@@ -446,7 +446,7 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 | 2025年7月 | [Braintree 支払いが有効になっている場合、管理者が注文／再注文を作成できない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27169) | 新しい記事 | Braintree 支払い方法が有効になっている場合に管理者ユーザーがお客様の注文または再注文を作成できないという Adobe Commerce 2.4.5 の問題に対するパッチについて説明します。 |
 | 2025年7月 | [[!DNL JQuery]  UI セキュリティ脆弱性 CVE-2022-31160 の修正（2.4.4、2.4.5 および 2.4.6 リリース用）](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27176) | 新しい記事 | [!DNL JQuery] UI セキュリティ脆弱性 CVE-2022-31160 の修正（2.4.4、2.4.5 および 2.4.6 リリース用）パッチについて説明します。 |
 | 2025年7月 | [Adobe Commerce のセキュリティアップデートが入手可能に - APSB25-50](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27181) | 新しい記事 | APSB25-50 セキュリティ情報に対応するパッチについて説明します。 |
-| 2025年7月 | [**[!UICONTROL salesRule ]**でのバージョン 2.4.5 未満からアップグレードする際のラベルの問題](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27186) | 新しい記事 | バージョン 2.4.5 より低いバージョンの新しい Adobe Commerce バージョンにアップグレードした後に発生する、**[!UICONTROL salesRule]** ラベルの不一致に対処するパッチについて説明します。 |
+| 2025年7月 | [**[!UICONTROL salesRule &#x200B;]**&#x200B;でのバージョン 2.4.5 未満からアップグレードする際のラベルの問題](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27186) | 新しい記事 | バージョン 2.4.5 より低いバージョンの新しい Adobe Commerce バージョンにアップグレードした後に発生する、**[!UICONTROL salesRule]** ラベルの不一致に対処するパッチについて説明します。 |
 | 2025年7月 | [Adobe Commerce 2.4.6 で管理パネルから注文する際にエラーが発生する](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27187) | 新しい記事 | Commerce 管理パネルから注文した後にストアの選択でスタックした場合に、Adobe Commerce クラウドインフラストラクチャー 2.4.6 の既知の問題に対するパッチについて説明します。 |
 | 2025年7月 | [統合環境の強化リクエスト - Pro とスターター](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27242) | 新しい記事 | Pro プランとスタータープランのマーチャントが、統合分岐を減らし、サポートチケットを送信し、環境を再デプロイして、デプロイメントの遅延やパフォーマンスの問題を解決することでアップグレードする方法について説明します。 |
 | 2025年7月 | [動的 IP を使用した外部サービスとの App Builder 統合](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27043) | 新しい記事 | 動的 IP を使用した外部サービスとの App Builder 統合について説明します。 |
@@ -526,7 +526,7 @@ Adobe Campaign 向けに公開された、新規または更新されたビデ�
 
 詳しくは、[Journey Optimizer リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/release-notes)を参照してください。
 
-**メモ：**[Journey Optimizer B2B Edition 用](#journey-optimizer-b2b-edition)は別の製品です。
+**メモ：**&#x200B;[Journey Optimizer B2B Edition 用](#journey-optimizer-b2b-edition)は別の製品です。
 
 ### 新しい [!DNL Journey Optimizer] チュートリアル {#tutorials-ajo}
 
