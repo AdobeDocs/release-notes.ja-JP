@@ -255,7 +255,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 | 2025年9月 | [ セグメントからのオーディエンスの作成 ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/components/filters/create-audiences-from-segments) | ビデオ | オーディエンスを作成し、Customer Journey AnalyticsからReal-Time Customer Data Platformに公開する方法を説明します。 |
 | 2025年9月 | [Typecasting を使用 ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/use-typecasting-in-derived-fields) | ビデオ | Customer Journey Analytics派生フィールドでの [!UICONTROL Typecasting] について説明します。 タイプキャストは、高度な分析のために文字列を数値に変換したり、日時を文字列に変換したりするなど、スキーマフィールドのデータタイプを調整します。 |
 | 2025年9月 | [ イベント間の時間を計算するには、[!UICONTROL Date Math] を使用 ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/use-date-math-to-calculate-time-between-events) | ビデオ | Customer Journey Analytics派生フィールドでの日付計算について説明します。 |
-| 2025年9月 | [ イベントの深度をカスタマイズ ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/customize-event-depth-in-derived-fields) | ビデオ | Customer Journey Analytics派生フィールドで [!UICONTROL  イベントの深度 ] を設定し、Analytics でページの深度、内部検索の深度などをカスタマイズする方法を説明します。 |
+| 2025年9月 | [ イベントの深度をカスタマイズ ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/customize-event-depth-in-derived-fields) | ビデオ | Customer Journey Analytics派生フィールドで [!UICONTROL &#x200B; イベントの深度 &#x200B;] を設定し、Analytics でページの深度、内部検索の深度などをカスタマイズする方法を説明します。 |
 | 2025年9月 | [ マップビジュアライゼーションの設定と使用 ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/configure-and-use-the-map-visualization) | ビデオ | マップビジュアライゼーションで場所データを活用 選択ツールを使用して、ジオクラスターを特定し、その場でセグメントを作成します。 |
 | 2025年9月 | [AI アシスタントの使用 ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/use-ai-assistant) | ビデオ | Customer Journey Analyticsの AI アシスタントを使用すると、概念を学んだり、問題をトラブルシューティングしたり、ワークフローを最適化したりできます。 |
 | 2025年9月 | [ カスタムテンプレートの作成 ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/templates/create-custom-templates) | ビデオ | Customer Journey Analyticsでカスタムテンプレートを作成する方法を説明します。 |
@@ -327,10 +327,10 @@ New articles and updates to existing articles for [!DNL Analytics].
 |---------|--------|---------|---------|
 | 2025年8月 | [[!UICONTROL LiveCopy] を使用した後、一部のアセットで DM への公開が機能しない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27254) | 新しい記事 | ソースの場所にあるアセットが DynamicMedia Scene7 に同期されると、同期が期待どおりに機能しない宛先の場所にあるアセットと競合する可能性がある、問題の解決策について説明します。 |
 | 2025年8月 | [AEMの特定のコンポーネントインスタンスに対してDispatcherのキャッシュを無効にする ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27185) | 新しい記事 | ページ上の複数のコンポーネントが同じ `resourceType` を共有している場合に、特定のコンポーネントインスタンスのDispatcher キャッシュを無効にすると問題の解決策について説明します。 |
-| 2025年8月 | [*[!UICONTROL  ブラウザーを更新 ]*Dynamic Media からAdobe Analyticsに接続中にエラーが発生する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27200) | 新しい記事 | *[!UICONTROL 上のAEM Dynamic Media デスクトップアプリからAdobe Analyticsに接続する際に]* ブラウザーを更新 [!DNL Windows] エラーが発生した場合の問題の解決策について説明します。 |
+| 2025年8月 | [*[!UICONTROL &#x200B; ブラウザーを更新 &#x200B;]*&#x200B;Dynamic Media からAdobe Analyticsに接続中にエラーが発生する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27200) | 新しい記事 | *[!UICONTROL 上のAEM Dynamic Media デスクトップアプリからAdobe Analyticsに接続する際に]* ブラウザーを更新 [!DNL Windows] エラーが発生した場合の問題の解決策について説明します。 |
 | 2025年8月 | [Adobe Experience Manager: 6.5.23 での Dynamic Media ハイブリッドのローカル画像配信で 404 エラーが発生しました ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27297) | 新しい記事 | Dynamic Media ハイブリッドがAEM 6.5.23 でローカル画像を配信しない問題の解決策について説明します。 |
-| 2025年8月 | [Adobe Experience Manager:AEM 6.5.23 で [!UICONTROL  開発者 ] モードに切り替えると、ページの編集ができなくなります ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27405) | 新しい記事 | ページエディターで [!UICONTROL  開発者 ] モードに切り替えるときに複数の問題が発生した場合の問題の解決策について説明します。 |
-| 2025年8月 | [AEM サイトページでアダプティブフォームの送信ボタンが無効になる ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27075) | 新しい記事 | [!UICONTROL  アダプティブフォーム ] をAEM サイトページに埋め込むと、JavaScriptの依存関係が見つからないか、初期化されていないので、「**送信**」ボタンが無効のままになる問題の解決策について説明します。 |
+| 2025年8月 | [Adobe Experience Manager:AEM 6.5.23 で [!UICONTROL &#x200B; 開発者 &#x200B;] モードに切り替えると、ページの編集ができなくなります ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27405) | 新しい記事 | ページエディターで [!UICONTROL &#x200B; 開発者 &#x200B;] モードに切り替えるときに複数の問題が発生した場合の問題の解決策について説明します。 |
+| 2025年8月 | [AEM サイトページでアダプティブフォームの送信ボタンが無効になる ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27075) | 新しい記事 | [!UICONTROL &#x200B; アダプティブフォーム &#x200B;] をAEM サイトページに埋め込むと、JavaScriptの依存関係が見つからないか、初期化されていないので、「**送信**」ボタンが無効のままになる問題の解決策について説明します。 |
 | 2025年8月 | [AEM Managed Servicesで WebM ファイルが 404 エラーを返す ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27102) | 新しい記事 | デジタルアセット管理（DAM）システムで WebM ファイルをアップロードしてアクセスしようとすると、Adobe Experience Manager（AEM）Managed Servicesが *404 URL が見つかりません* エラーを返す問題の解決策について説明します。 |
 | 2025年8月 | [AEM SP22 へのアップグレード後に Dynamic Media ビデオ再生エラーが発生する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27153) | 新しい記事 | Adobe Experience Manager（AEM） 6.5 をサービスパック 22 （SP22）にアップグレードした後、HMAC/マスターキーの同期解除によって Dynamic Media の復号化エラーが発生し、実稼動環境でのビデオ再生が失敗する問題の解決策について説明します。 |
 | 2025年8月 | [AEM Assetsでの依存関係の自動関連付け ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27214) | 新しい記事 | Digital Asset Management （DAM）システムに取り込まれたアセットが、AEM 6.5 に埋め込まれたメタデータに基づいて依存関係を自動生成する場合の問題の解決策について説明します。 |
@@ -338,9 +338,9 @@ New articles and updates to existing articles for [!DNL Analytics].
 | 2025年8月 | [AEM：インデックス作成のコストが高いと、大規模な DAM 環境のクエリのパフォーマンスが低下します ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27315) | 新しい記事 | 大規模なAEM環境でデフォルトのインデックス作成の設定を使用すると、インデックス作成に高いコストがかかり、クエリのパフォーマンスが低下する可能性がある問題の解決策について説明します。 |
 | 2025年8月 | [ 更新された `XCI` ファイルを使用すると、AEM FormsのPDF出力にボタンが表示されない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27406) | 新しい記事 | Adobe Experience Manager（AEM）Forms JEE でPDF/UA 準拠の新しい `XCI` ファイルを使用する際に、PDF出力にボタンが表示されない問題の解決策について説明します。 |
 | 2025年8月 | [AEM Forms JEE での IDP 認証後の DRM-SAML リダイレクトの失敗 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27434) | 新しい記事 | AEM Forms Document Security （Rights Management）を使用してPDFを保護する場合に、Adobe AcrobatまたはReaderで ID プロバイダー（IDP）経由での認証後にリダイレクトエラーが発生した場合の問題の解決策について説明します。 |
-| 2025年8月 | [ プロパティがAdobe Experience Managerのライブコピーに同期されない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27312) | 新しい記事 | [!UICONTROL  マルチサイトマネージャー ] （MSM）を使用してページをロールアウトした際に、一部のカスタムプロパティがAEMのライブコピーに同期されない問題の解決策について説明します。 |
+| 2025年8月 | [ プロパティがAdobe Experience Managerのライブコピーに同期されない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27312) | 新しい記事 | [!UICONTROL &#x200B; マルチサイトマネージャー &#x200B;] （MSM）を使用してページをロールアウトした際に、一部のカスタムプロパティがAEMのライブコピーに同期されない問題の解決策について説明します。 |
 | 2025年8月 | [AEMのグローバルヘッダーおよびフッターのアプリへ  [!DNL React]  統合 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27044) | 新しい記事 | AEMのグローバルヘッダーとフッターを [!DNL React] アプリケーションに統合する場合の問題の解決策について説明します。これにより、スタイル設定と機能の問題が発生します。 |
-| 2025年8月 | [AEMaaCS の [!UICONTROL  ドメイン設定 ] に内部ドメインを作成できない – Assets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27171) | 新しい記事 | AEMaaCS - Assetsの [!UICONTROL  ドメイン設定 ] インターフェイスで [!UICONTROL  オーサー ] インスタンスのカスタム内部ドメインを設定できない場合の問題の解決策について説明します。 |
+| 2025年8月 | [AEMaaCS の [!UICONTROL &#x200B; ドメイン設定 &#x200B;] に内部ドメインを作成できない – Assets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27171) | 新しい記事 | AEMaaCS - Assetsの [!UICONTROL &#x200B; ドメイン設定 &#x200B;] インターフェイスで [!UICONTROL &#x200B; オーサー &#x200B;] インスタンスのカスタム内部ドメインを設定できない場合の問題の解決策について説明します。 |
 | 2025年8月 | [AEMaaCS のCRX パッケージマネージャーからパッケージをダウンロードできない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27175) | 新しい記事 | CRX パッケージマネージャーで `SYSTEM` とマークされているパッケージを AEMaaCS でダウンロードできない場合の問題の解決策について説明します。 |
 | 2025年8月 | [AEMaaCS で、100 MB を超えるファイルのPDF プレビューが失敗する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27183) | 新しい記事 | 100 MB を超えるPDF ファイルを AEMaaCS でプレビューできない場合の問題の解決策について説明します。 |
 | 2025年8月 | [AEMaaCS のスケジュールされた時間に Dispatcher キャッシュをクリアする ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27184) | 新しい記事 | AEMaaCS でのスケジュールされたコンテンツの公開をサポートするために必要な特定の時間に Dispatcher キャッシュをフラッシュする方法について説明します。 |
@@ -351,7 +351,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 | 2025年8月 | [ コンテンツフラグメント機能は、AEMでの RDE アップグレード後はサポートされません ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27321) | 新しい記事 | AEMaaCS の迅速な開発環境（RDE）をアップグレードした後、バージョンの非互換性が原因でコンテンツフラグメント機能を開けない場合の問題の解決策について説明します。 |
 | 2025年8月 | [ タグをAdobe Experience Manager内の元の場所に戻すことはできません ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27364) | 新しい記事 | 管理者以外のユーザーがタグを移動後に元の場所に戻そうとすると、*権限が拒否されました* エラーが発生する問題の解決策について説明します。 |
 | 2025年8月 | [AEMaaCS への移行後、オンプレミスの Sling マッピングが失敗する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27393) | 新しい記事 | Sling マッピングをオンプレミスのAEM設定から AEMaaCS に移行すると互換性の問題が発生する場合の、この問題の解決策について説明します。 |
-| 2025年8月 | [[!UICONTROL  コンテンツツリーを公開します ] ワークフローが AEMaaCS で実行中の状態で停止します – Assets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27369) | 新しい記事 | AEMaaCS - Assetsで [!UICONTROL  コンテンツツリーの公開 ] ワークフローが [!UICONTROL  オーサー ] 環境からのアセットの公開中に停止する場合の問題の解決策について説明します。 |
+| 2025年8月 | [[!UICONTROL &#x200B; コンテンツツリーを公開します &#x200B;] ワークフローが AEMaaCS で実行中の状態で停止します – Assets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27369) | 新しい記事 | AEMaaCS - Assetsで [!UICONTROL &#x200B; コンテンツツリーの公開 &#x200B;] ワークフローが [!UICONTROL &#x200B; オーサー &#x200B;] 環境からのアセットの公開中に停止する場合の問題の解決策について説明します。 |
 | 2025年8月 | [ プレビュー/ライブサイトで認証が *有効* になっている場合、AEM ユニバーサルエディターは 401 エラーを返す ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27451) | 新しい記事 | Adobe Experience Manager（AEM）Edge Delivery サービス（EDS）のプレビューおよびライブサイトで認証が *有効* になっている場合、ユニバーサルエディターが失敗して *401 Unauthorized* エラーが発生する問題の解決策について説明します。 |
 
 +++
@@ -383,7 +383,7 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 | 2025年8月 | [[!DNL Quality Patches Tool] （QPT）](https://experienceleague.adobe.com/ja/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview) | 新しい記事 | QPT 1.1.67、QPT 1.1.68 および QPT 1.1.69 で使用できるパッチの適用方法に関する新しい記事が公開され、それぞれの節で参照できるようになりました。 |
 | 2025年8月 | [Adobe Commerce オンプレミス：URL にストアコードを含まないマルチストアのセットアップ ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27235) | 新しい記事 | グローバルな `www.example.com/dk`URL にストアコードを追加）設定を有効にせずに、カスタム URL 構造（例：**[!UICONTROL ）でAdobe Commerceに新しいストアビューを設定する場合の問題の解決策について説明します]** コンテンツとテーマは期待どおりに表示されますが、ページに *404 エラーが表示されます*。 |
 | 2025年8月 | [Adobe Commerce サイトのトラブルシューティング図 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27301) | 新しい記事 | Adobe Commerce サイトダウンのトラブルシューティング図を使用して、サイトダウンの問題の解決策について説明します。 |
-| 2025年8月 | Commerce Cloudの PHP メモリが不足しているため、[`setup:upgrade` が失敗する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27387) | 新しい記事 | Cloud Infrastructure 上のAdobe Commerceの [!UICONTROL  実稼動 ] 環境の再デプロイ中に、PHP CLI がデフォルトの 1 GB のメモリ制限を超えているので `setup:upgrade` コマンドが失敗する問題の解決策を説明します。 |
+| 2025年8月 | Commerce Cloudの PHP メモリが不足しているため、[`setup:upgrade` が失敗する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27387) | 新しい記事 | Cloud Infrastructure 上のAdobe Commerceの [!UICONTROL &#x200B; 実稼動 &#x200B;] 環境の再デプロイ中に、PHP CLI がデフォルトの 1 GB のメモリ制限を超えているので `setup:upgrade` コマンドが失敗する問題の解決策を説明します。 |
 
 +++
 
@@ -462,7 +462,7 @@ Adobe Campaign 向けに公開された、新規または更新されたビデ�
 
 詳しくは、[Journey Optimizer リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/release-notes)を参照してください。
 
-**メモ：**[Journey Optimizer B2B Edition 用](#journey-optimizer-b2b-edition)は別の製品です。
+**メモ：**&#x200B;[Journey Optimizer B2B Edition 用](#journey-optimizer-b2b-edition)は別の製品です。
 
 ### 新しい [!DNL Journey Optimizer] チュートリアル {#tutorials-ajo}
 
@@ -480,7 +480,7 @@ Experience League に関する Adobe [!DNL Journey Optimizer] の新しいチュ
 
 | 公開日 | 名前 | タイプ | 説明 |
 |---------|----|----|-----------|
-| 2025年8月 | [Adobe Journey Optimizer：新しいサンドボックスの [!UICONTROL Profile] データセットおよび [!UICONTROL Data Lake] データセットの TTL 設定 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26135) | 新しい記事 | AJOで新しいサンドボックスを作成する際の、Time-to-Live （TTL）設定が [!UICONTROL  プロファイル ] および [!UICONTROL  データレイク ] データセットにどのように適用されるかについて説明します。 |
+| 2025年8月 | [Adobe Journey Optimizer：新しいサンドボックスの [!UICONTROL Profile] データセットおよび [!UICONTROL Data Lake] データセットの TTL 設定 ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-26135) | 新しい記事 | AJOで新しいサンドボックスを作成する際の、Time-to-Live （TTL）設定が [!UICONTROL &#x200B; プロファイル &#x200B;] および [!UICONTROL &#x200B; データレイク &#x200B;] データセットにどのように適用されるかについて説明します。 |
 | 2025年8月 | [ テーマを使用してAdobe Journey Optimizerでメールの形式に関する問題を防ぐ ](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27252) | 新しい記事 | メールヘッダーのデフォルトの CSS ブロックを変更すると、特にコンテンツフラグメントを削除した後に、予期しない形式の問題が発生する可能性がある問題の解決策について説明します。 |
 
 ### [!DNL Journey Optimizer] のその他のリソース
