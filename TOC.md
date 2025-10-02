@@ -2,11 +2,11 @@
 cloud: Experience Cloud, Experience Platform
 product: experience cloud
 user-guide-title: Adobe Experience Cloud リリースノート
-breadcrumb-title: Central リリースノート
+breadcrumb-title: 主要なリリースノート
 user-guide-description: Adobe Experience Cloud および Experience Platform の新機能、修正点、重要な注意事項について説明します。
 user-guide-url: https://www.adobe.com
 source-git-commit: ead4489c7199749dbf8fec8bd596c4968005627c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
 ht-degree: 100%
 
