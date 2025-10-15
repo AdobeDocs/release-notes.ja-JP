@@ -4,9 +4,9 @@ description: Experience Cloud リリースノート
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
-workflow-type: ht
-source-wordcount: '716'
+source-git-commit: 6ee325d5194c99b4d828f8d335dfd8583077d1e9
+workflow-type: tm+mt
+source-wordcount: '713'
 ht-degree: 100%
 
 ---
@@ -52,7 +52,7 @@ Adobe Experience Cloud の新機能および修正点です。
 
 [アドビシステムのステータス](https://status.adobe.com/ja)を参照してください。
 
-## ![アイコン](/assets/ec_appicon_24.png) Experience Cloud の主要な UI コンポーネント {#ecloud}
+## Experience Cloud Central の UI コンポーネント {#ecloud}
 
 Experience Cloud の主要なインターフェイスコンポーネントには、統合された製品ヘッダーからアクセスするアップデート（セルフヘルプ、検索、ユーザーアカウントの環境設定など）が含まれています。People、Places（場所）、および製品管理のアップデートについては、こちらを参照してください。
 
@@ -64,7 +64,7 @@ Experience Cloud の主要なインターフェイスコンポーネントには
 
 機能と修正点。
 
-## ![アイコン](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+## Experience Platform {#platform}
 
 [!DNL Experience Platform,] のリリースノート（[!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration]、[!UICONTROL オファー]、[!UICONTROL People]、[!UICONTROL Places]、[!UICONTROL Mobile Services]、およびセキュリティ速報を含む）。
 
