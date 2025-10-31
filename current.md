@@ -37,7 +37,7 @@ Experience Cloud 全体の 2025年10月のアップデートでは、チーム�
 +++セクションリンクを表示
 
 * [イベントスケジュール](#events)
-* [ [!DNL Experience Cloud] で AI を使用するためのリソース](#ai)
+* [&#x200B; [!DNL Experience Cloud] で AI を使用するためのリソース](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -73,19 +73,19 @@ Experience Cloud 全体の 2025年10月のアップデートでは、チーム�
 
 +++今後のイベントを表示
 
-* **[!DNL Workfront]** | _ウェビナー_ | Fusion Decoded：それが何であるか、そしてすべての組織がそれを使用できる理由 | **11 月 5 日** | [ 登録 ](https://events.teams.microsoft.com/event/bbdc2dc7-345e-44d8-9882-0b7a8ea5711f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _ウェビナー_ | Fusion Decoded：それが何であるか、そしてすべての組織がそれを使用できる理由 | **11 月 5 日** | [&#x200B; 登録 &#x200B;](https://events.teams.microsoft.com/event/bbdc2dc7-345e-44d8-9882-0b7a8ea5711f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _ウェビナー_ |独学から成功まで：どのようにして Kyndryl はWorkfrontのパワーを 7 億ドルに拡大したか | **11 月 6 日** | [ 登録 ](https://events.teams.microsoft.com/event/e296bed1-6b9d-4f66-a20c-9eb727c9e170@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _ウェビナー_ |独学から成功まで：どのようにして Kyndryl はWorkfrontのパワーを 7 億ドルに拡大したか | **11 月 6 日** | [&#x200B; 登録 &#x200B;](https://events.teams.microsoft.com/event/e296bed1-6b9d-4f66-a20c-9eb727c9e170@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _ウェビナー_ |交流：マーケティング&amp;Creative向け管理チャット | **11 月 7 日** | [ 登録 ](https://events.teams.microsoft.com/event/2a782871-00de-4c6f-8d05-d7edc788dc60@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _ウェビナー_ |交流：マーケティング&amp;Creative向け管理チャット | **11 月 7 日** | [&#x200B; 登録 &#x200B;](https://events.teams.microsoft.com/event/2a782871-00de-4c6f-8d05-d7edc788dc60@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _ウェビナー_ |目指す姿から価値へ：Workfrontプランニングのリリースとロードマップ | **11 月 10 日** | [ 登録 ](https://events.teams.microsoft.com/event/2a782871-00de-4c6f-8d05-d7edc788dc60@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _ウェビナー_ |目指す姿から価値へ：Workfrontプランニングのリリースとロードマップ | **11 月 10 日** | [&#x200B; 登録 &#x200B;](https://events.teams.microsoft.com/event/2a782871-00de-4c6f-8d05-d7edc788dc60@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager and Commerce]** | _開発者ライブ_ |このイベントは、Adobe デベロッパーコミュニティを結び、Adobe Experience Manager、Adobe Commerce、Edge Delivery Servicesを取り上げ、コンテンツとコマースの未来を探求します。 | **11 月 10 日～11 日** | [ 登録 ](https://www.aem.live/developers-live?utm_source=exl&utm_medium=events&utm_campaign=adl2025)
+* **[!DNL Experience Manager and Commerce]** | _開発者ライブ_ |このイベントは、Adobe デベロッパーコミュニティを結び、Adobe Experience Manager、Adobe Commerce、Edge Delivery Servicesを取り上げ、コンテンツとコマースの未来を探求します。 | **11 月 10 日～11 日** | [&#x200B; 登録 &#x200B;](https://www.aem.live/developers-live?utm_source=exl&utm_medium=events&utm_campaign=adl2025)
 
-* **[!DNL Commerce]** | _他のユーザーから学ぶ_ | Adobe CommerceとApp Builder Essentials – 基本から影響まで | **11 月 12 日** | [ 登録 ](https://engage.adobe.com/app-builder-essentials.html)
+* **[!DNL Commerce]** | _他のユーザーから学ぶ_ | Adobe CommerceとApp Builder Essentials – 基本から影響まで | **11 月 12 日** | [&#x200B; 登録 &#x200B;](https://engage.adobe.com/app-builder-essentials.html)
 
-* **[!DNL Journey Optimizer]** | _何でも聞いてください_ | Adobe Experience Platform Agent Orchestratorの経験と効率性、および Agentic AI がどのようにしてスマートなテストと成長を促進したか | **11 月 12 日** | [ 登録 ](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252)
+* **[!DNL Journey Optimizer]** | _何でも聞いてください_ | Adobe Experience Platform Agent Orchestratorの経験と効率性、および Agentic AI がどのようにしてスマートなテストと成長を促進したか | **11 月 12 日** | [&#x200B; 登録 &#x200B;](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252)
 
 その他Experience League の[今後](https://experienceleague.adobe.com/ja/events)のイベントと[オンデマンド](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)イベントの完全なリストを表示します。
 
@@ -100,7 +100,7 @@ Experience Cloud の生成 AI（genAI）、AI アシスタント、エージェ�
 | 製品 | リソース | 説明 | 公開日 |
 | ------- | ------- | ------- | ------- |
 | AI ドキュメンテーションのホーム | [AI ドキュメンテーション](https://experienceleague.adobe.com/ja/docs/ai) | Experience Cloudの AI を活用した機能（生成 AI および AI エージェント）に関する情報へのリンクについて詳しくは、新製品ドキュメンテーションのランディングを参照してください。 | 2025年10月 |
-| [!DNL Experience Cloud] | [ [!DNL Experience Cloud] での AI エージェント](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/agentic-ai) | Experience Cloud でヘルプを検索したり、AI エージェントの可用性を確認したりします。 | 更新日 2025年10月 |
+| [!DNL Experience Cloud] | [&#x200B; [!DNL Experience Cloud] での AI エージェント](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/agentic-ai) | Experience Cloud でヘルプを検索したり、AI エージェントの可用性を確認したりします。 | 更新日 2025年10月 |
 | Acrobat | [PDF スペースでチームの効率性を向上](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal) | パーソナライズされた AI アシスタントを使用して、ファイルや web サイトのコレクションを共有可能な会話型のナレッジハブに変換します。 | 2025年10月 |
 | [!DNL AEM CS] | [AEM AI アシスタント](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/aem-ai-assisstant) | Experience Manager AI アシスタントを使用してワークフローを簡素化する方法について説明します。 | 2025年10月 |
 | [!DNL Experience Platform] | [Data Insights エージェントの概要](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/ai-assistant/data-insights-agent-overview) | Data Insight エージェントは、イベント、プロファイル、ジャーニー、オフラインのデータを利用して、検出を簡素化し、パーソナライズされたダッシュボードを即座に有効にします。 | 2025年10月 |
@@ -369,14 +369,14 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | 2025年9月 | [`Coral.FileUpload` が AEMaaCS に読み込まれない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27659) | 新しい記事 | `/aem/start.html` などのページに挿入されたときに `Coral.FileUpload` コンポーネントがレンダリングまたは機能しない場合の AEMaaCS - Assets の問題の解決策について学習します。 |
 | 2025年9月 | [ACS [!DNL AEM Commons]  ボタンが AEMaaCS に表示されない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27660) | 新しい記事 | `pom.xml` ファイルを使用して ACS [!DNL AEM Commons] をインストールしても&#x200B;**[!UICONTROL ツール]**&#x200B;セクションで正しいメニューが表示されない場合の AEMaaCS の問題の解決策について説明します。 |
 | 2025年9月 | [AEMaaCS で一括メタデータ編集が機能しない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27705) | 新しい記事 | 個々のアセットを個別に編集して保存前に再選択しても一括メタデータ編集が保存されない場合の AEMaaCS - Assets の問題の解決策について学習します。 |
-| 2025年9月 | [ [!DNL Unified Shell] 設定](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27066)が原因で AEM Assets のポップアップ動作に一貫性がない | 新しい記事 | [!UICONTROL コンテンツフラグメントリスト表示]のポップアップが実稼動環境および開発環境のヘッダーまたは上部バーと重なってもステージング環境では重ならない場合の AEMaaCS - Assets の問題の解決策について説明します。 |
+| 2025年9月 | [&#x200B; [!DNL Unified Shell] 設定](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27066)が原因で AEM Assets のポップアップ動作に一貫性がない | 新しい記事 | [!UICONTROL コンテンツフラグメントリスト表示]のポップアップが実稼動環境および開発環境のヘッダーまたは上部バーと重なってもステージング環境では重ならない場合の AEMaaCS - Assets の問題の解決策について説明します。 |
 | 2025年9月 | [メタデータスキーマフォームを[!UICONTROL アセット表示]で読み込み中にエラーが発生する](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27535) | 新しい記事 | カスタムメタデータスキーマフォームを[!UICONTROL アセット表示]に読み込もうとする際にフォームにサポートされていないフィールドタイプが含まれていると処理が失敗する場合の AEMaaCS の問題の解決策について説明します。 |
 | 2025年9月 | [AEM Cloud Manager の古い環境変数を修正](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27437) | 新しい記事 | 設定ファイルを更新しようとした際に一部のプロパティに変更が表示されない場合の AEMaaCS - Sites の問題の解決策について説明します。 |
 | 2025年9月 | [AEM：Cloud Manager で IP 許可リストの「**[!UICONTROL 保存]**」ボタンが機能しない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27421) | 新しい記事 | Cloud Manager で IP 許可リストを追加または更新する際に「**[!UICONTROL 保存]**」ボタンが無効のままになる、または「**[!UICONTROL 更新]**」をクリックした後に変更が適用されない場合の AEMaaCS の問題の解決策について説明します。 |
 | 2025年9月 | [AEM API 経由でコンテンツフラグメントをプッシュする際の *403* エラーの修正](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27438) | 新しい記事 | コンテンツフラグメントを `/sites/cf/fragments` API にプッシュする際に *403 Forbidden* エラーが発生する場合の AEMaaCS の問題の解決策について説明します。 |
 | 2025年9月 | [AEMaaCS の日付フィールドが空により、アセットダウンロードレポートフォームが失敗する](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27540) | 新しい記事 | [!UICONTROL アセットダウンロードレポート]で「**[!UICONTROL 日付を調整]**」フィールドが必須としてマークされていないので送信エラーが発生する場合の AEMaaCS - Assets の問題の解決策について説明します。 |
 | 2025年9月 | [AEM Cloud ユーザーグループおよびワークフローから非アクティブユーザーを削除できない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27541) | 新しい記事 | ID 管理システム（IMS）で非アクティブ化されたユーザーがワークフローメール通知を引き続き受信する場合の AEMaaCS - Sites の問題の解決策について説明します。 |
-| 2025年9月 | [**[!UICONTROL 買い物かごに追加&#x200B;]**が  [!DNL Venia]  web サイトの設定可能な製品に対して機能しない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27554) | 新しい記事 | [!DNL AEM Reference Demos Add-on] の使用時に、AEMaaCS で作成された [!DNL Venia] デモサイトで設定可能な製品の&#x200B;**[!UICONTROL 買い物かごに追加]**&#x200B;機能がうまく動作しない場合の問題の解決策について説明します。 |
+| 2025年9月 | [**[!UICONTROL 買い物かごに追加&#x200B;]**&#x200B;が  [!DNL Venia]  web サイトの設定可能な製品に対して機能しない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27554) | 新しい記事 | [!DNL AEM Reference Demos Add-on] の使用時に、AEMaaCS で作成された [!DNL Venia] デモサイトで設定可能な製品の&#x200B;**[!UICONTROL 買い物かごに追加]**&#x200B;機能がうまく動作しない場合の問題の解決策について説明します。 |
 | 2025年9月 | [Adobe Experience Manager 6.5 のアダプティブフォームを使用した大規模な数値計算での精度エラーのトラブルシューティング](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27642) | 新しい記事 | AEM 6.5 のアダプティブフォームが小数点 4 桁の精度の大規模な数値計算で正確な結果を生成しない場合の問題の解決策について説明します。 |
 | 2025年9月 | [エクスペリエンスフラグメントオファーに、Adobe Target で目的でないドメインパスが表示される](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-27491) | 新しい記事 | Adobe Experience Manager（AEM）の[!UICONTROL エクスペリエンスフラグメント]を Adobe Target と統合する際に、Adobe Target に表示される[!UICONTROL オファーコンテンツを表示] URL に目的でないドメインパスが表示される場合の問題の解決策について説明します。 |
 
@@ -400,7 +400,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 +++リリースノート、新しいチュートリアル、サポート記事
 
-* 最新情報について詳しくは、最新の [ [!DNL Adobe Commerce]  および  [!DNL Magento Open Source]](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/overview)のリリースノートを参照してください。
+* 最新情報について詳しくは、最新の [&#x200B; [!DNL Adobe Commerce]  および  [!DNL Magento Open Source]](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/overview)のリリースノートを参照してください。
 * Commerce サービスのリリース情報とドキュメントを確認するには、[Adobe [!DNL Commerce] サービスガイド](https://experienceleague.adobe.com/ja/docs/commerce/user-guides/home)を参照してください。
 * 個々の製品のリリースノートにアクセスして可用性を確認する方法について詳しくは、[製品の可用性](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/product-availability)を参照してください。
 
@@ -510,7 +510,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 詳しくは、[Journey Optimizer リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/release-notes)を参照してください。
 
-**メモ：**[Journey Optimizer B2B Edition 用](#journey-optimizer-b2b-edition)は別の製品です。
+**メモ：**&#x200B;[Journey Optimizer B2B Edition 用](#journey-optimizer-b2b-edition)は別の製品です。
 
 ### 新しい [!DNL Journey Optimizer] チュートリアル {#tutorials-ajo}
 
@@ -688,13 +688,13 @@ Adobe [!DNL Advertising] ヘルプを参照するには、[Adobe Advertising ド
 
 2025年9月18日（PT）
 
-[ [!DNL Advertising DSP] の新機能](https://experienceleague.adobe.com/ja/docs/advertising/dsp/home)を参照してください。
+[&#x200B; [!DNL Advertising DSP] の新機能](https://experienceleague.adobe.com/ja/docs/advertising/dsp/home)を参照してください。
 
 ### [!DNL Advertising Search, Social, & Commerce] の新機能 {#advertising-search}
 
 2025年9月23日（PT）
 
-[ [!DNL Advertising Search, Social, & Commerce] の新機能](https://experienceleague.adobe.com/ja/docs/advertising/search-social-commerce/home)を参照してください。
+[&#x200B; [!DNL Advertising Search, Social, & Commerce] の新機能](https://experienceleague.adobe.com/ja/docs/advertising/search-social-commerce/home)を参照してください。
 
 +++
 
