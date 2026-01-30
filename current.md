@@ -45,7 +45,7 @@ ht-degree: 99%
 +++セクションリンクを表示
 
 * [イベントスケジュール](#events)
-* [ [!DNL Experience Cloud]](#ai) の AI 機能（更新日：**1 月 29 日（PT**））
+* [&#x200B; [!DNL Experience Cloud]](#ai) の AI 機能（更新日：**1 月 29 日（PT**））
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -393,7 +393,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 +++リリースノート、新しいチュートリアル、サポート記事
 
-* 最新情報について詳しくは、最新の [ [!DNL Adobe Commerce]  および  [!DNL Magento Open Source]](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/overview)のリリースノートを参照してください。
+* 最新情報について詳しくは、最新の [&#x200B; [!DNL Adobe Commerce]  および  [!DNL Magento Open Source]](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/overview)のリリースノートを参照してください。
 * Commerce サービスのリリース情報とドキュメントを確認するには、[Adobe [!DNL Commerce] サービスガイド](https://experienceleague.adobe.com/ja/docs/commerce/user-guides/home)を参照してください。
 * 個々の製品のリリースノートにアクセスして可用性を確認する方法について詳しくは、[製品の可用性](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/product-availability)を参照してください。
 
@@ -417,7 +417,7 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 | 2025年12月 | [[!DNL Quality Patches Tool] （QPT）](https://experienceleague.adobe.com/ja/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview) | 新しい記事 | QPT 1.1.74 で使用可能なパッチの適用方法に関する新しい記事が公開され、それぞれの節で参照できるようになりました。 |
 | 2025年12月 | [複数の組織に割り当てられたユーザーの Adobe Identity Management Service（IMS）ログインの問題](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-29604) | 新しい記事 | 複数の Adobe IMS 組織に属する Adobe Commerce ユーザーがログイン時に間違った組織を選択した際、ログインに失敗した場合の問題の解決策について説明します。 |
 | 2025年12月 | [[!DNL Fastly]  キャッシュが Adobe Commerce on Cloud インフラストラクチャーで機能しない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-29629) | 新しい記事 | [!DNL Fastly] キャッシュがサイトで機能しない場合の問題の解決策について説明します。 |
-| 2025年12月 | [ 無効化されたキャッシュにより、応答時間が低下する](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-29631) | 新しい記事 | Adobe Commerce ストアのパフォーマンスを低下させることがある、キャッシュの無効化を防ぐ方法について説明します。 |
+| 2025年12月 | [&#x200B; 無効化されたキャッシュにより、応答時間が低下する](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-29631) | 新しい記事 | Adobe Commerce ストアのパフォーマンスを低下させることがある、キャッシュの無効化を防ぐ方法について説明します。 |
 | 2025年12月 | [Adobe Commerce のデータベースストレージに関するトラブルシューティング](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-29633) | 新しい記事 | Adobe Commerce のデータベースストレージの問題の解決策について説明します。 |
 | 2025年12月 | [Adobe Commerce デプロイメントに関するトラブルシューティング](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-29640) | 新しい記事 | Adobe Commerce でデプロイメントの停止やデプロイメントの失敗が発生した場合の問題の解決策について説明します。 |
 | 2025年12月 | [Adobe Commerce バックエンドでエンティティを保存できない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-29642) | 新しい記事 | Adobe Commerce バックエンドでエンティティを保存できない場合の問題の解決策について説明します。 |
@@ -462,7 +462,7 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 
 * [!DNL Web User Interface]：2026年1月26日（PT）- [リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/release-notes/release-notes) | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign] v8: 8.9.1 - 2026 年 1 月 27 日（PT） – [ リリースノート ](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8: 8.9.1 - 2026 年 1 月 27 日（PT） – [&#x200B; リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/campaign-home)
 
 * [!DNL Campaign Standard]：25.1.2 - 夏 2025 - [リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/release-notes/release-notes) | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/campaign-standard-home)
 
@@ -501,7 +501,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 最新リリース：**2026 年 1 月**
 
-詳しくは、[Journey Optimizer リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/release-notes)を参照してください（**メモ：**[Journey Optimizer B2B Edition 版](#journey-optimizer-b2b-edition)は別の製品です）。
+詳しくは、[Journey Optimizer リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/release-notes)を参照してください（**メモ：**&#x200B;[Journey Optimizer B2B Edition 版](#journey-optimizer-b2b-edition)は別の製品です）。
 
 ### 新しい [!DNL Journey Optimizer] チュートリアル {#tutorials-ajo}
 
@@ -678,13 +678,13 @@ Adobe [!DNL Advertising] ヘルプを参照するには、[Adobe Advertising ド
 
 2025年12月17日（PT）
 
-[ [!DNL Advertising DSP] の新機能](https://experienceleague.adobe.com/ja/docs/advertising/dsp/home)を参照してください。
+[&#x200B; [!DNL Advertising DSP] の新機能](https://experienceleague.adobe.com/ja/docs/advertising/dsp/home)を参照してください。
 
 ### [!DNL Advertising Search, Social, & Commerce] の新機能 {#advertising-search}
 
 2025年11月12日（PT）
 
-[ [!DNL Advertising Search, Social, & Commerce] の新機能](https://experienceleague.adobe.com/ja/docs/advertising/search-social-commerce/home)を参照してください。
+[&#x200B; [!DNL Advertising Search, Social, & Commerce] の新機能](https://experienceleague.adobe.com/ja/docs/advertising/search-social-commerce/home)を参照してください。
 
 +++
 
