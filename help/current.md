@@ -6,10 +6,10 @@ last-update: February 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 40afb853a97a270e594a1b84562ed53c8ba66b9a
+source-git-commit: 64b154860d7bfac342798232aa90460a6d68ef56
 workflow-type: tm+mt
-source-wordcount: '3966'
-ht-degree: 52%
+source-wordcount: '4063'
+ht-degree: 50%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 52%
 * アプリケーションごとに新しいビデオチュートリアルを表示する
 * 最新のサポート記事を参照する
 
-最終更新日：**2026年2月11日（PT）**
+最終更新日：**2026年2月20日（PT）**
 
 ## Experience League のコース
 
@@ -44,28 +44,28 @@ ht-degree: 52%
 
 +++セクションリンクを表示
 
-* [イベントスケジュール](#events)
-* [&#x200B; [!DNL Experience Cloud] の AI 機能](#ai)
+* [&#x200B; イベントスケジュール &#x200B;](#events) （更新日：**2 月 20 日**）
+* [&#x200B; [!DNL Experience Cloud]](#ai) の AI 機能（更新日：**2 月 20 日（PT**））
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - 一元的なインターフェイスと管理](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) 年（**月** 日）
-* [[!DNL Adobe Customer Journey Analytics]](#cja) 年（**月** 日）
+* [[!DNL Adobe Analytics]](#analytics)
+* [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
-* [[!DNL Adobe Experience Manager]](#aem) 年（**月** 日）
+* [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe Commerce]](#commerce)
-* [[!DNL Adobe Target]](#target) 年（**月** 日）
-* [[!DNL Adobe Campaign]](#ac) 年（**月** 日）
-* [[!DNL Adobe Journey Optimizer]](#journey-opt) 年（**月** 日）
-* [[!DNL Adobe Journey Optimizer B2B Edition]](#ajo-b2b) 年（**月** 日）
-* [[!DNL Adobe Marketo Engage]](#marketo) 年（**月** 日）
-* [[!DNL Adobe Workfront]](#workfront) 年（**月** 日）
-* [[!DNL Adobe GenStudio for Performance Marketing]](#genstudio-marketing) 年（**月** 日）
+* [[!DNL Adobe Target]](#target)
+* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Journey Optimizer]](#journey-opt)
+* [[!DNL Adobe Journey Optimizer B2B Edition]](#ajo-b2b)
+* [[!DNL Adobe Marketo Engage]](#marketo)
+* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe GenStudio for Performance Marketing]](#genstudio-marketing)
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
-* [[!DNL Adobe Advertising]](#advertising) 年（**月** 日）
+* [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -82,9 +82,15 @@ ht-degree: 52%
 
 +++今後のイベントを表示
 
+* **[!DNL Workfront]** | _ウェビナー_ | スケールするイネーブルメント：Workfrontのブループリントを実際のトレーニングプログラムに変える。 | **2 月 26 日** | [&#x200B; 登録 &#x200B;](https://events.teams.microsoft.com/event/3ebe62c9-48da-4f99-a504-db4d4a05257d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Adobe Insider Tour]** | _Adobe Insider Tour に参加_ | 2 月 26 日（PT）にAdobe インサイダーツアーがシアトルで開催されることをとても嬉しく思います。ぜひご参加ください。 | **2 月 26 日** | [&#x200B; 登録 &#x200B;](https://event.adobe.com/adobe-insider-tour-seattle)
+
+* **[!DNL Workfront]** | _交流：マーケティング&amp;Creative管理チャット_ | 2 月 26 日（PT）にAdobe インサイダーツアーがシアトルで開催されることをとても嬉しく思います。ぜひご参加ください。 | **3 月 6 日** | [&#x200B; 登録 &#x200B;](https://events.teams.microsoft.com/event/07277b90-bf7a-479c-a302-db2c6bbff3b9@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL Adobe Summit]**   _マーケティング、クリエイティビティ、AI の未来を見る_   マーケティング、クリエイティビティ、AI の最新情報を参照してください。 | **ラスベガス、4月19日～22日（PT）** | [登録](https://summit.adobe.com/na/)
 
-Experience League の[今後](https://experienceleague.adobe.com/ja/events)のイベントと[オンデマンド](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)イベントの完全なリストを表示します。
+その他にも多数あります。Experience League の[今後](https://experienceleague.adobe.com/ja/events)のイベントと[オンデマンド](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview)イベントの完全なリストを表示します。
 
 +++
 
@@ -96,6 +102,7 @@ Experience Cloud の生成 AI（genAI）、AI アシスタント、エージェ�
 
 | 製品 | リソース | 説明 | 更新済み |
 | ------- | ------- | ------- | ------- |
+| [!DNL Experience Cloud] | [&#x200B; エージェントジョブと AI クレジットの消費 &#x200B;](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption) | Experience Cloud アプリケーションでのエージェントジョブと AI クレジット消費率について説明します。 | **2026年2月20日（PT）** |
 | [!DNL Experience Cloud] | [Experience Cloud アプリケーションのエージェント型 AI](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/agentic-ai) | Experience Cloudで Agentic AI を有効にする方法について説明します。 エージェントジョブと AI クレジット消費の仕組みを説明します。 | **2026年1月29日（PT）** |
 | [!DNL Experience Manager as a Cloud Service] | [AEM のエージェント型 AI](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem) | AEM CS の新規 AI エージェントについて説明します。 | 2025年11月21日（PT） |
 | [!DNL Experience Cloud] | [Experience Cloud アプリケーションの生成 AI](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/generative-ai) | Experience Cloudで AI を活用した機能を利用できる場所について説明します。 | 2025年11月 |
