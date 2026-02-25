@@ -6,10 +6,10 @@ last-update: February 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 64b154860d7bfac342798232aa90460a6d68ef56
+source-git-commit: b769f4e91b64c5cc4afae5183459a39758f1b0ca
 workflow-type: tm+mt
-source-wordcount: '4063'
-ht-degree: 50%
+source-wordcount: '4066'
+ht-degree: 51%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 50%
 * アプリケーションごとに新しいビデオチュートリアルを表示する
 * 最新のサポート記事を参照する
 
-最終更新日：**2026年2月20日（PT）**
+最終更新日：**2026年2月25日（PT）**
 
 ## Experience League のコース
 
@@ -118,7 +118,8 @@ Experience Cloud の生成 AI（genAI）、AI アシスタント、エージェ�
 
 [!DNL Adobe System Status] の以前のリリースノート：
 
-* [2025 年 12 月 &#x200B;](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2025/01222025#status)
+* [2025 年 12 月 &#x200B;](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2026/01142026#status)
+* [2025年8月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2025/08132025#status)
 * [2025年4月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2025/04162025#status)
 * [2024年8月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2024/09122024#status)
 * [2024年5月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2024/05152024#status)
