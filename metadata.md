@@ -8,33 +8,33 @@ product: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.ja-JP
 index: true
-source-git-commit: b81b4c2b163849709da81c6ee7c461f32a6d3236
-workflow-type: ht
-source-wordcount: '151'
-ht-degree: 100%
+source-git-commit: 8f759d75cb9aa77491a96a8158296e9a541fe48d
+workflow-type: tm+mt
+source-wordcount: '175'
+ht-degree: 0%
 
 ---
 
 
-# 社内用のメタデータ
+# 内部使用のメタデータ
 
-metadata.md ファイルには、リポジトリー内にあるユーザーガイドの TOC.md ファイルにパススルーされる、リポジトリーレベルのメタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更したい場合は、任意の TOC.md ファイル内でおこないます。
+metadata.md ファイルには、リポジトリでユーザーガイドの TOC.md ファイルにパススルーされる、リポジトリレベルのメタデータが含まれています。 任意のユーザーガイドの metadata.md コンテンツを変更したい場合は、任意の TOC.md ファイル内で行います。
 
-| メタデータ | 説明 |
+| メタデータ | 機能 |
 |--- |--- |
-| solution-title | 記事のヘッダー内でリンクとして使用します。簡潔にしてください。 |
-| solution-hub-url | Helpx ハブページを開きます |
-| solution-icon | ソリューションタイトルの横にソリューションアイコンを表示します。未実装 |
+| solution-title | 記事ヘッダーでリンクとして使用されます。 短くしてください。 |
+| solution-hub-url | helpx ハブページを開きます。 |
+| solution-icon | ソリューションタイトルの横にソリューションアイコンを表示します。 まだ実装されていません |
 | getting-started-title | チュートリアルが適切でない場合はほとんど使用されません |
-| getting-started-url | Helpx 開始ページへのリンク |
+| getting-started-url | helpx の「はじめに」のページへのリンク |
 | tutorials-title | チュートリアルが適切でない場合はほとんど使用されません |
-| tutorials-url | ビデオチュートリアル（ヘルプチュートリアルまたは KT チュートリアル）へのリンク |
-| mini-toc-levels | 右パネルに表示される見出しレベルの数を指定します。デフォルトは 2 です |
-| git-repo | コラボレーションリポジトリの場所を指定します。公開ドキュメントに github.com のミラーを使用 |
+| tutorials-url | ビデオチュートリアル（helpx チュートリアルまたは KT チュートリアル）へのリンク |
+| mini-toc-levels | 右側のパネルに表示される見出しレベルの数を決定します。 デフォルトは 2 です |
+| git-repo | コラボレーション リポジトリの場所を指定します。 公開ドキュメントにはgithub.com ミラーを使用 |
 
 TOC.md ファイル内
 
-| メタデータ | 説明 |
+| メタデータ | 機能 |
 |--- |--- |
-| user-guide-title | 記事ヘッダーでリンクとして使用します |
-| user-guide-url | Helpx ハブページを開きます |
+| user-guide-title | 記事ヘッダーでリンクとして使用されます |
+| user-guide-url | helpx ハブページを開きます。 |
