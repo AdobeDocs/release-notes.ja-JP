@@ -6,10 +6,10 @@ last-update: February 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6327dedf77da7697e83326abcbe1ed75187eb138
+source-git-commit: c267781827d72bcd75bdfe8920b873c014095d8f
 workflow-type: tm+mt
-source-wordcount: '5639'
-ht-degree: 52%
+source-wordcount: '5811'
+ht-degree: 50%
 
 ---
 
@@ -82,7 +82,13 @@ ht-degree: 52%
 
 +++今後のイベントを表示
 
-* **[!DNL Workfront]** | _交流：マーケティング&amp;Creative管理チャット_ | 2 月 26 日（PT）にAdobe インサイダーツアーがシアトルで開催されることをとても嬉しく思います。ぜひご参加ください。 | **3 月 6 日** | [&#x200B; 登録 &#x200B;](https://events.teams.microsoft.com/event/07277b90-bf7a-479c-a302-db2c6bbff3b9@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Adobe AI - Toronto]** | _マーケティングと AI に関する新しいインサイトと今後の展開_ |最新のAdobe AIのイノベーションを実践したり、経営陣の基調講演でAdobeのリーダーから話を聞いたり、アクセンチュアとデロイトのパートナーや実際のお客様からインサイトを得たり、これらすべてを活用して次のステップを形成します。 | **3 月 10 日** | [&#x200B; 登録 &#x200B;](https://event.adobe.com/adobe-ai-forum-toronto/il/expleague)
+
+* **[!DNL Adobe Commerce]** | _同業者から学ぶウェビナー：Adobe Commerce_ | Adobe Commerce チャンピオンの Manav Padhariya と Michael Schenck が、Adobe Commerce Product Recommendations を基本機能から強力な AI ネイティブの戦略的ドライバーに変換するセッションに参加します。 | **3 月 11 日** | [&#x200B; 登録 &#x200B;](https://engage.adobe.com/adobe-commerce-product-recommendations.html)
+
+* **[!DNL Experience Cloud]** | _Adobe インサイダーツアー_ |この無料の半日イベントには、エキスパートインサイト、お客様の成功事例、同業者やAdobeのプロダクトリーダーとつながる機会が満載です。 インタラクティブなセッションとディスカッションを通じて、ベストプラクティスを確認し、Adobe ソリューションの価値を最大限に高める方法を学びます。 | **3 月 11 日** | [&#x200B; 登録 &#x200B;](https://event.adobe.com/adobe-insider-tour-atlanta)
+
+* **[!DNL Adobe AI - Dallas]** | _マーケティングと AI に関する新しいインサイトと今後の展開_ |最新のAdobe AIのイノベーションを実践したり、経営陣の基調講演でAdobeのリーダーから話を聞いたり、アクセンチュアとデロイトのパートナーや実際のお客様からインサイトを得たり、これらすべてを活用して次のステップを形成します。 | **3 月 12 日** | [&#x200B; 登録 &#x200B;](https://event.adobe.com/adobe-ai-forum-dallas-il2026/expleague)
 
 * **[!DNL Adobe Summit]**   _マーケティング、クリエイティビティ、AI の未来を見る_   マーケティング、クリエイティビティ、AI の最新情報を参照してください。 | **ラスベガス、4月19日～22日（PT）** | [登録](https://summit.adobe.com/na/)
 
