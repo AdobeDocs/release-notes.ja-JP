@@ -19,7 +19,7 @@ ht-degree: 92%
 + 以前のリリースノート {#previous}
    + 2026 {#2026}
       + [2026年2月](c-legacy-releases/2026/02112026.md)
-      + [2026 年 1 月 ](c-legacy-releases/2026/01142026.md)
+      + [2026 年 1 月 &#x200B;](c-legacy-releases/2026/01142026.md)
    + 2025 {#2025}
       + [2025年10月](c-legacy-releases/2025/10152025.md)
       + [2025年9月](c-legacy-releases/2025/09112025.md)
