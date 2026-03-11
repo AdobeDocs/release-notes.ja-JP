@@ -6,7 +6,7 @@ last-update: March 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1554fc412f68ac6f8e1b7cf34af86d9a62de87ca
+source-git-commit: db9d2104abf27dc3faa73381ea7c3375cc9a4ce5
 workflow-type: tm+mt
 source-wordcount: '7201'
 ht-degree: 35%
@@ -114,9 +114,11 @@ ht-degree: 35%
 
 以下に関するヘルプについて詳しくは、[Experience Cloud インターフェイスおよび管理](https://experienceleague.adobe.com/ja/docs/core-services/interface/experience-cloud)ガイドを参照してください。
 
-<!-- * [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/generative-ai)
+<!-- 
+* [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/generative-ai)
 * [User management and product licenses](https://experienceleague.adobe.com/ja/docs/core-services/interface/administration/admin-console) (Admin Console)
-* [Customer Attributes, Audience Library, Assets](https://experienceleague.adobe.com/ja/docs/core-services/interface/services/overview), and more -->
+* [Customer Attributes, Audience Library, Assets](https://experienceleague.adobe.com/ja/docs/core-services/interface/services/overview), and more 
+-->
 
 +++
 
@@ -195,9 +197,11 @@ Experience League に関する Adobe [!DNL Experience Platform] の新しいチ�
 
 +++新しいチュートリアルを表示
 
-<!-- | Published | Name | Type | Description |
+<!-- 
+| Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| October 2025 | [Configure a social destination](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/destinations/configure-a-social-destination#destinations) |  Video | Learn how to connect and activate audiences to a social destination. This video demonstrates the workflow using a LinkedIn Matched Audiences destination in Adobe Real-Time Customer Data Platform.| -->
+| October 2025 | [Configure a social destination](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/destinations/configure-a-social-destination#destinations) |  Video | Learn how to connect and activate audiences to a social destination. This video demonstrates the workflow using a LinkedIn Matched Audiences destination in Adobe Real-Time Customer Data Platform.| 
+-->
 
 ヘルプについては、以下を参照してください。
 
@@ -404,7 +408,8 @@ Adobe [!DNL Advertising] ヘルプを参照するには、[Adobe Advertising ド
 * Commerce サービスのリリース情報とドキュメントを確認するには、[Adobe [!DNL Commerce] サービスガイド](https://experienceleague.adobe.com/ja/docs/commerce/user-guides/home)を参照してください。
 * 個々の製品のリリースノートにアクセスして可用性を確認する方法について詳しくは、[製品の可用性](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/product-availability)を参照してください。
 
-<!-- ### New tutorials for [!DNL Adobe Commerce] {#tutorials-commerce}
+<!-- 
+### New tutorials for [!DNL Adobe Commerce] {#tutorials-commerce}
 
 New tutorials for [!DNL Adobe Commerce] on Experience League.
 
@@ -413,7 +418,8 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 | January 2026 | [Observability overview](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/observability/overview) | Video | Learn why centralized observability is essential for modern Adobe Commerce architectures. |
 | January 2026 | [Open telemetry](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/observability/open-telemetry)| Video | Learn how Open Telemetry standardizes observability across logs, traces, and metrics without locking you into a single monitoring tool. |
 | January 2026 | [Setup and Configuration](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/observability/demo-setup-configuration) | Video | Learn how to achieve end-to-end observability across Adobe Commerce and custom applications using standardized, correlated telemetry. |
-| January 2026 |[Observability demo](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/observability/demo) | Video | Learn how Adobe Commerce uses observability, webhooks, and event correlation for seamless order tracking and debugging. | -->
+| January 2026 |[Observability demo](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/observability/demo) | Video | Learn how Adobe Commerce uses observability, webhooks, and event correlation for seamless order tracking and debugging. | 
+-->
 
 ### 新しい [!DNL Commerce] のナレッジベースへのサポート{#kb-commerce}
 
@@ -446,7 +452,8 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 
 リリース日：**26.1.2 - 2026 年 1 月 30 日**
 
-<!-- ### New [!DNL Target] support knowledge base{#kb-target}
+<!-- 
+### New [!DNL Target] support knowledge base{#kb-target}
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
@@ -473,7 +480,8 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 
 * [!DNL Campaign Classic] 7.4.2：2025年5月12日（PT）- [リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/campaign-classic-home)
 
-<!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
+<!-- 
+### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
 New or updated videos tutorials published for Adobe Campaign.
 
@@ -481,7 +489,7 @@ New or updated videos tutorials published for Adobe Campaign.
 | ----------| ---------- | ---------- | ---------- |---------- |
 |August 2025|Campaign v8 Web User Interface |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/ja/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)| Video tutorial |Learn how to use the generative AI powered Content Generator to create and enhance the email content, optimizing your email deliveries to better resonate with your audience.|
 |August 2025|Campaign v8 Web User Interface |[Configure JavaScript code activity](https://experienceleague.adobe.com/ja/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity)| Video tutorial |Learn how to use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. View real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
- -->
+-->
 
 ### 新しい [!DNL Campaign] でのナレッジベースのサポート{#kb-campaign}
 
@@ -577,13 +585,15 @@ Journey Optimizer B2B Edition 向けに新しく公開されたビデオ、チ�
 * [!DNL Marketo Engage] [リリーススケジュール](https://experienceleague.adobe.com/ja/docs/marketo/using/release-notes/release-schedule)
 * Dynamic Chat [リリースノート](https://experienceleague.adobe.com/ja/docs/marketo/using/release-notes/dynamic-chat)（2025年6月30日（PT））
 
-<!-- ### New Marketo tutorials {#tutorials-marketo}
+<!-- 
+### New Marketo tutorials {#tutorials-marketo}
 
 New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
+|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/ja/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| 
+-->
 
 最新の製品ドキュメントについて詳しくは、[Marketo 製品ドキュメント](https://experienceleague.adobe.com/ja/docs/marketo/using/home)ホームを参照してください。
 
@@ -701,10 +711,12 @@ Firefly を含む [!DNL Adobe Creative Cloud for enterprise] のアプリケー�
 
 +++最新のチュートリアル
 
-<!-- |Published|Application|Name|Type|Description |
+<!-- 
+|Published|Application|Name|Type|Description |
 | -----------| -----------|---------- | ---------- | ---------- |
 | September 2025 | Firefly | [Create a Custom Model](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model) |  Video | Learn how to build Custom Models in Firefly to create fresh new imagery for your organization's brand using specific types of styles--such as backgrounds, colors, and hues. |
-| September 2025 | Firefly | [Background removal and replacement](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) |  Video | Learn how to use Firefly Creative Production to remove and/or replace backgrounds at scale. | -->
+| September 2025 | Firefly | [Background removal and replacement](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) |  Video | Learn how to use Firefly Creative Production to remove and/or replace backgrounds at scale. | 
+-->
 
 詳しくは、[Creative Cloud エンタープライズ版](https://experienceleague.adobe.com/ja/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview)のチュートリアルライブラリを参照してください。
 
@@ -718,7 +730,8 @@ Firefly を含む [!DNL Adobe Creative Cloud for enterprise] のアプリケー�
 
 [&#x200B; カスタマーエクスペリエンスオーケストレーションブループリント &#x200B;](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/overview) は、戦略への取り組みと定着したビジネス上の問題の迅速な解決を可能にする反復可能な実装です。 各ブループリントは、価値の高いビジネス上の問題、アーキテクチャ、実装手順、技術的な考慮事項、および関連ドキュメントへのリンクを説明する一連のアーティファクトを提供します。
 
-<!-- ## ![Icon](assets/certification-badge.png) Certification{#certification}
+<!-- 
+## ![Icon](assets/certification-badge.png) Certification{#certification}
 
 Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/ja/docs/certification/program/overview) site on Experience League. 
 
@@ -732,4 +745,5 @@ The [Experience Cloud Certification](https://experienceleague.adobe.com/ja/docs/
 
 And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/ja/docs/certification/program/overview) on Experience League and start your certification journey today!
 
-+++ -->
++++ 
+-->
