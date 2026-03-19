@@ -6,10 +6,10 @@ last-update: March 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 760308da350bfa9769914ccabb1aab5dd7884c45
+source-git-commit: d5fdcb1d2d561318122a5941bbd04050b537559c
 workflow-type: tm+mt
-source-wordcount: '6709'
-ht-degree: 31%
+source-wordcount: '6872'
+ht-degree: 30%
 
 ---
 
@@ -24,11 +24,11 @@ ht-degree: 31%
 * アプリケーションごとに新しいビデオチュートリアルを表示する
 * 最新のサポート記事を参照する
 
-最終更新日：**2026 年 3 月 13 日**
+最終更新日：**2026 年 3 月 19 日**
 
 このページ：
 
-* [&#x200B; イベントスケジュール &#x200B;](#events)
+* [&#x200B; ウェビナーと学習イベント &#x200B;](#events)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] 管理](#ecloud)
 * [Experience Cloud の AI](#ai)
@@ -58,10 +58,15 @@ ht-degree: 31%
 * [アドビでの認定](https://experienceleague.adobe.com/ja/certification-home){target="_blank"}
 * [Adobe製品のセキュリティの脆弱性](https://helpx.adobe.com/jp/security.html){target="_blank"}
 
-## イベントスケジュール {#events}
+## ウェビナーと学習イベント {#events}
 
-* [&#x200B; 予定 &#x200B;](https://experienceleague.adobe.com/ja/events){target="_blank"} イベントスケジュール
-* [&#x200B; オンデマンド &#x200B;](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview){target="_blank"} イベントスケジュール
+* **[!DNL Experience Cloud]** | _Adobe Experience Platform チャンピオンの営業時間_ |課題、ブロッカー、ウィッシュリストについて話しましょう。 システムをハミングさせるには、何が必要ですか？ | **2026 年 3 月 24 日** | [&#x200B; 登録 &#x200B;](https://aep-augs.adobe.com/events/details/adobe-campaign-adobe-experience-platform-champion-office-hours-presents-lets-talk-challenges-blockers-and-wish-lists-what-do-you-need-to-make-your-system-hum/)
+
+* **[!DNL Workfront]** | _管理者 101:Workfrontに関する質問_ |1 時間のフォローアップワークショップに参加してください。このワークショップでは、各セッションの概要をすばやく共有し、Q&amp;A を開始します。 | **2026 年 3 月 24 日** | [&#x200B; 登録 &#x200B;](https://events.teams.microsoft.com/event/5da27d2b-63c1-4ac4-9d55-9f3148222628@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Fusion デコード：第 2 部 – 構築を開始しましょう_ |Fusion シリーズの第 2 部では、すぐに使用できるテンプレートを詳しく説明し、それらを使用して自動化ジャーニーをすぐに開始する方法を示します。 | **2026 年 3 月 25 日** | [&#x200B; 登録 &#x200B;](https://events.teams.microsoft.com/event/364bd344-09a1-4630-8cfc-0bd694fa74a2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+[&#x200B; 今後 &#x200B;](https://experienceleague.adobe.com/ja/events){target="_blank"} および [&#x200B; オンデマンド &#x200B;](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview){target="_blank"} イベントの完全なスケジュールを表示します。
 
 ## [!DNL Adobe System Status] {#status}
 
