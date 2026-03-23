@@ -6,7 +6,8 @@ last-update: March 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 source-git-commit: c26c54047c0399effc03e12a7ced1b1c4d3ac4ba
 workflow-type: tm+mt
 source-wordcount: 6872
