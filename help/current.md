@@ -6,7 +6,8 @@ last-update: March 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 source-git-commit: bd15330698bc1312e14730da803d000aec5f2fd2
 workflow-type: tm+mt
 source-wordcount: 6716
@@ -29,7 +30,7 @@ ht-degree: 99%
 
 このページ：
 
-* [ ウェビナーと学習イベント ](#events)
+* [&#x200B; ウェビナーと学習イベント &#x200B;](#events)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] 管理](#ecloud)
 * [Experience Cloud の AI](#ai)
@@ -61,7 +62,7 @@ ht-degree: 99%
 
 ## ウェビナーと学習イベント {#events}
 
-[ 今後 ](https://experienceleague.adobe.com/ja/events){target="_blank"} および [ オンデマンド ](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview){target="_blank"} イベントの完全なスケジュールを表示します。
+[&#x200B; 今後 &#x200B;](https://experienceleague.adobe.com/ja/events){target="_blank"} および [&#x200B; オンデマンド &#x200B;](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview){target="_blank"} イベントの完全なスケジュールを表示します。
 
 ## [!DNL Adobe System Status] {#status}
 
@@ -69,7 +70,7 @@ ht-degree: 99%
 
 リリースノート履歴：
 
-* [2025 年 12 月 ](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"}
+* [2025 年 12 月 &#x200B;](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"}
 * [2025年8月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2025/08132025#status){target="_blank"}
 * [2025年4月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2025/04162025#status){target="_blank"}
 * [2024年8月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2024/09122024#status){target="_blank"}
@@ -88,7 +89,7 @@ ht-degree: 99%
 | -----------| -----------| ---------- | ---------- |
 | **2026年1月14日（PT）** | カスタマイズ可能な左側のナビゲーションメニュー | Experience Cloud でアプリケーションの左側のナビゲーションメニューをカスタマイズできるようになりました。 最も重要な機能にすばやくアクセスできるよう、ナビゲーション項目を並べ替えて、その表示を制御します。 このアップデートにより、ワークフローが効率化され、認知負荷が軽減され、完全なキーボードアクセシビリティがサポートされます。 | <ul><li>Experience Platform</li><li>Journey Optimizer</li><li>Journey Optimizer B2B エディション</li><li>Dynamic Chat</li></ul> |
 
-ドキュメントについては、[Experience Cloud インターフェイスおよび管理 ](https://experienceleague.adobe.com/ja/docs/core-services/interface/experience-cloud){target="_blank"} を参照してください。
+ドキュメントについては、[Experience Cloud インターフェイスおよび管理 &#x200B;](https://experienceleague.adobe.com/ja/docs/core-services/interface/experience-cloud){target="_blank"} を参照してください。
 
 ## Experience Cloud の AI {#ai}
 
@@ -96,9 +97,9 @@ Experience Cloud の生成 AI（genAI）、AI アシスタント、エージェ�
 
 | 製品 | リソース | 説明 | 更新済み |
 | ------- | ------- | ------- | ------- |
-| [!DNL Acrobat Services] | [Acrobat アナライザー ](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Adobe Acrobat Analyzer ウェビナーを参照して、ジェネレーティブ AI がドキュメントから構造化された監査可能なインサイトを抽出し、ワークフローを自動化、リスクを軽減、大規模な企業の意思決定を迅速化する方法を確認してください。 | **2026 年 3 月 10 日** |
-| [!DNL Experience Cloud] | [ マーケティング効率の向上とビジネス成果の向上を実現するAdobe Experience Platform エージェント ](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | Adobe Experience Cloudのシニアバイスプレジデントである Anjul Bhambhri 氏とのインサイトに満ちた Q&amp;A セッションを実施します。 Adobeのジャーニーと大胆なビジョンにより、マーケティング担当者やクリエイティブ担当者が、制御や監督を妥協することなく、複雑な手順を自動化し、意思決定を迅速化し、チームの能力を拡大できる、革新的な Agentic AI 機能を提供します。 | **2026 年 3 月 3 日** |
-| [!DNL Experience Cloud] | [ エージェントジョブと AI クレジットの消費 ](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Experience Cloud アプリケーションでのエージェントジョブと AI クレジット消費率について説明します。 | **2026 年 3 月 3 日** |
+| [!DNL Acrobat Services] | [Acrobat アナライザー &#x200B;](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Adobe Acrobat Analyzer ウェビナーを参照して、ジェネレーティブ AI がドキュメントから構造化された監査可能なインサイトを抽出し、ワークフローを自動化、リスクを軽減、大規模な企業の意思決定を迅速化する方法を確認してください。 | **2026 年 3 月 10 日** |
+| [!DNL Experience Cloud] | [&#x200B; マーケティング効率の向上とビジネス成果の向上を実現するAdobe Experience Platform エージェント &#x200B;](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | Adobe Experience Cloudのシニアバイスプレジデントである Anjul Bhambhri 氏とのインサイトに満ちた Q&amp;A セッションを実施します。 Adobeのジャーニーと大胆なビジョンにより、マーケティング担当者やクリエイティブ担当者が、制御や監督を妥協することなく、複雑な手順を自動化し、意思決定を迅速化し、チームの能力を拡大できる、革新的な Agentic AI 機能を提供します。 | **2026 年 3 月 3 日** |
+| [!DNL Experience Cloud] | [&#x200B; エージェントジョブと AI クレジットの消費 &#x200B;](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Experience Cloud アプリケーションでのエージェントジョブと AI クレジット消費率について説明します。 | **2026 年 3 月 3 日** |
 | [!DNL Experience Cloud] | [Experience Cloud アプリケーションのエージェント型 AI](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/agentic-ai){target="_blank"} | Experience Cloudで Agentic AI を有効にする方法について説明します。 エージェントジョブと AI クレジット消費の仕組みを説明します。 | **2026 年 3 月 3 日** |
 
 ## [!DNL Adobe Brand Concierge] {#brand-concierge}
@@ -127,7 +128,7 @@ Experience League に関する Adobe [!DNL Experience Platform] の新しいチ�
 
 | 公開日 | アプリケーション | 名前 | タイプ | 説明 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 2026 年 3 月 | [!DNL Experience Platform] | [SlackでのExperience Platform イベントの監視 ](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/monitoring/monitor-events-in-slack){target="_blank"} | ビデオ | Adobe App Builder Webhook プロキシと統合して、SlackでExperience Platform通知を受け取る方法を説明します。 |
+| 2026 年 3 月 | [!DNL Experience Platform] | [SlackでのExperience Platform イベントの監視 &#x200B;](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/monitoring/monitor-events-in-slack){target="_blank"} | ビデオ | Adobe App Builder Webhook プロキシと統合して、SlackでExperience Platform通知を受け取る方法を説明します。 |
 
 ### 新しい [!DNL Experience Platform] でのナレッジベースのサポート{#kb-aep}
 
@@ -135,18 +136,18 @@ Experience League に関する Adobe [!DNL Experience Platform] の新しいチ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 |---------|----|----|-----------|
-| 2026年2月 | [Adobe Experience Platformでの S3 宛先ストップへのオーディエンスの書き出し ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29691){target="_blank"} | 新しい記事 | プラットフォーム内でオーディエンスがアクティブに表示され共有されているように見える場合でも、Adobe Experience Platformの特定の S3 宛先へのオーディエンスの書き出しが予期せず停止する問題の解決策について説明します。 |
-| 2026年2月 | [Adobe Experience Platformの無効な ECID 値が原因で、プロファイルステッチが失敗する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29716){target="_blank"} | 新しい記事 | スキーマ定義の ID フィールドに取り込まれた ECID 値が検証に失敗するので、Adobe Experience Platformでプロファイルステッチが発生しない問題の解決策について説明します。 |
-| 2026年2月 | [Adobe Experience Platformでのデータ取り込み後、プロファイルに同意属性が表示されない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29740){target="_blank"} | 新しい記事 | Adobe Experience Platformで同意データを CSV 経由でプロファイル対応スキーマに取り込んだ後、同意属性がプロファイル属性として表示されない問題の解決策について説明します。 |
+| 2026年2月 | [Adobe Experience Platformでの S3 宛先ストップへのオーディエンスの書き出し &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29691){target="_blank"} | 新しい記事 | プラットフォーム内でオーディエンスがアクティブに表示され共有されているように見える場合でも、Adobe Experience Platformの特定の S3 宛先へのオーディエンスの書き出しが予期せず停止する問題の解決策について説明します。 |
+| 2026年2月 | [Adobe Experience Platformの無効な ECID 値が原因で、プロファイルステッチが失敗する &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29716){target="_blank"} | 新しい記事 | スキーマ定義の ID フィールドに取り込まれた ECID 値が検証に失敗するので、Adobe Experience Platformでプロファイルステッチが発生しない問題の解決策について説明します。 |
+| 2026年2月 | [Adobe Experience Platformでのデータ取り込み後、プロファイルに同意属性が表示されない &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29740){target="_blank"} | 新しい記事 | Adobe Experience Platformで同意データを CSV 経由でプロファイル対応スキーマに取り込んだ後、同意属性がプロファイル属性として表示されない問題の解決策について説明します。 |
 | 2026年2月 | [Adobe Experience Platformと  [!DNL The Trade Desk]  統合および collect [!DNL The Trade Desk] ID](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29847){target="_blank"} | 新しい記事 | [!DNL The Trade Desk] （TTD）をAdobe Experience Platformと統合する際の問題の解決策と、web SDKを通じて [!DNL Trade Desk] ID を収集およびマッピングする際に不確実性がある場合の解決策について説明します。 |
-| 2026年2月 | [Edgeのセグメント化が、AEPで EXEG-0203-502 と空のセグメントの宛先を断続的に返す ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29856){target="_blank"} | 新しい記事 | Adobe Experience Platform トリガーの [!UICONTROL Edge セグメント化 ] が Web SDKの対話呼び出し中に EXEG-0203-502 のサービス呼び出しエラーと空のセグメント宛先が断続的に発生する場合の問題の解決策について説明します。 |
-| 2026年2月 | [Adobe Experience Platform内の結合プロファイルでの空のフィールド値の処理 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29862){target="_blank"} | 新しい記事 | 同じグラフ内の別の ID が値を保持しているので、ある ID が空として取り込まれたフィールドが、結合プロファイルに入力されているように表示される問題の解決策について説明します。 |
-| 2026年2月 | [[!DNL BigQuery] AEP federated database に関数をデプロイする際に権限エラーが発生する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29867){target="_blank"} | 新しい記事 | 連携テストが成功したが、不十分な権限が原因でデプロイが失敗する場合に、連携データベースを使用して [!DNL Google BigQuery] をAdobe Experience Platformに接続する際の問題の解決策について説明します。 |
-| 2026年2月 | [ オーディエンスを X [!DNL Twitter] に書き出す）宛先の結果、無効なリクエストまたは認証エラーが発生する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29894){target="_blank"} | 新しい記事 | Adobe Experience Platformから X （[!DNL Twitter]）宛先トリガーにオーディエンスを書き出す際に、リクエストが認証されないという *400 BAD_REQUEST* エラーが発生した場合の問題の解決策について説明します。 |
-| 2026年2月 | [[!DNL BigQuery]  タイムスタンプマッピングエラーにより、読み込みが失敗します（*CONNECTOR-2001-500* および *MAPPER-3700-199*） ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29911){target="_blank"} | 新しい記事 | タイムスタンプフィールドマッピングエラーにより、ネイティブコネクタを使用して [!DNL BigQuery] テーブルをAdobe Experience Platformに読み込めない場合の問題の解決策について説明します。 |
-| 2026年2月 | [ ラベル付きスキーマプロパティフィールドがAEPの UI に表示されない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30016){target="_blank"} | 新しい記事 | ラベルを持つスキーマプロパティフィールドが、Adobe Experience Platform UI の特定のユーザーに、これらのラベルが割り当てられていても表示されない問題の解決策について説明します。 |
-| 2026年2月 | [ データセットのクエリ時のエラー *データセット用にプロビジョニングされていないテーブル*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29988){target="_blank"} | 新しい記事 | Adobe Experience PlatformまたはAdobe Journey Optimizerのデータセットに対してクエリを実行したときに「*データセット用にプロビジョニングされていないテーブル* というエラーが発生した場合の問題の解決策について説明します。 |
-| 2026年2月 | [ 有効期限のない資格情報に関するCustomer Journey Analytics BI 拡張機能の接続の問題 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29891){target="_blank"} | 新しい記事 | Adobe Experience Platformの有効期限が切れていない資格情報に適切なCJAのアクセス権およびデータビュー権限が付与されておらず、Customer Journey Analytics ツールに接続するとデータ表示が表示されない問題の解決策について説明します。 |
+| 2026年2月 | [Edgeのセグメント化が、AEPで EXEG-0203-502 と空のセグメントの宛先を断続的に返す &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29856){target="_blank"} | 新しい記事 | Adobe Experience Platform トリガーの [!UICONTROL Edge セグメント化 &#x200B;] が Web SDKの対話呼び出し中に EXEG-0203-502 のサービス呼び出しエラーと空のセグメント宛先が断続的に発生する場合の問題の解決策について説明します。 |
+| 2026年2月 | [Adobe Experience Platform内の結合プロファイルでの空のフィールド値の処理 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29862){target="_blank"} | 新しい記事 | 同じグラフ内の別の ID が値を保持しているので、ある ID が空として取り込まれたフィールドが、結合プロファイルに入力されているように表示される問題の解決策について説明します。 |
+| 2026年2月 | [[!DNL BigQuery] AEP federated database に関数をデプロイする際に権限エラーが発生する &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29867){target="_blank"} | 新しい記事 | 連携テストが成功したが、不十分な権限が原因でデプロイが失敗する場合に、連携データベースを使用して [!DNL Google BigQuery] をAdobe Experience Platformに接続する際の問題の解決策について説明します。 |
+| 2026年2月 | [&#x200B; オーディエンスを X [!DNL Twitter] に書き出す）宛先の結果、無効なリクエストまたは認証エラーが発生する &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29894){target="_blank"} | 新しい記事 | Adobe Experience Platformから X （[!DNL Twitter]）宛先トリガーにオーディエンスを書き出す際に、リクエストが認証されないという *400 BAD_REQUEST* エラーが発生した場合の問題の解決策について説明します。 |
+| 2026年2月 | [[!DNL BigQuery]  タイムスタンプマッピングエラーにより、読み込みが失敗します（*CONNECTOR-2001-500* および *MAPPER-3700-199*） &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29911){target="_blank"} | 新しい記事 | タイムスタンプフィールドマッピングエラーにより、ネイティブコネクタを使用して [!DNL BigQuery] テーブルをAdobe Experience Platformに読み込めない場合の問題の解決策について説明します。 |
+| 2026年2月 | [&#x200B; ラベル付きスキーマプロパティフィールドがAEPの UI に表示されない &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30016){target="_blank"} | 新しい記事 | ラベルを持つスキーマプロパティフィールドが、Adobe Experience Platform UI の特定のユーザーに、これらのラベルが割り当てられていても表示されない問題の解決策について説明します。 |
+| 2026年2月 | [&#x200B; データセットのクエリ時のエラー *データセット用にプロビジョニングされていないテーブル*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29988){target="_blank"} | 新しい記事 | Adobe Experience PlatformまたはAdobe Journey Optimizerのデータセットに対してクエリを実行したときに「*データセット用にプロビジョニングされていないテーブル* というエラーが発生した場合の問題の解決策について説明します。 |
+| 2026年2月 | [&#x200B; 有効期限のない資格情報に関するCustomer Journey Analytics BI 拡張機能の接続の問題 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29891){target="_blank"} | 新しい記事 | Adobe Experience Platformの有効期限が切れていない資格情報に適切なCJAのアクセス権およびデータビュー権限が付与されておらず、Customer Journey Analytics ツールに接続するとデータ表示が表示されない問題の解決策について説明します。 |
 
 ## [!DNL Adobe Real-Time CDP] {#rtcdp}
 
@@ -176,7 +177,7 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026 年 3 月 | [ データフィードの作成と管理 ](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/exporting/data-feeds/data-feeds-management-ui){target="_blank"} | 更新されたビデオ | 生のクリックストリームデータを書き出して、EDW またはデータレイクの他のデータソースに読み込み、それらと結合する方法を説明します。 Adobe Analytics内で独自のデータフィードを作成および管理できます。 |
+| 2026 年 3 月 | [&#x200B; データフィードの作成と管理 &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/exporting/data-feeds/data-feeds-management-ui){target="_blank"} | 更新されたビデオ | 生のクリックストリームデータを書き出して、EDW またはデータレイクの他のデータソースに読み込み、それらと結合する方法を説明します。 Adobe Analytics内で独自のデータフィードを作成および管理できます。 |
 | 2026 年 3 月 | [データフィード ID の検索](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/exporting/data-feeds/find-your-data-feed-id#find-your-data-feed-id=open-the-data-feeds-interface){target="_blank"} | スライド | データフィードファイルに関して、Adobeに問い合わせる必要が生じる場合があります。 顧客からデータフィード ID が提供されれば、カスタマーサポートチームはあらゆるリクエストを処理するのに便利です。 |
 
 ### 新しい [!DNL Analytics] でのナレッジベースのサポート{#kb-analytics}
@@ -185,7 +186,7 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 |---------|--------|---------|---------|
-| 2026年2月 | [Data Warehouseのエクスポートに、エスケープ シーケンスにより 255 バイトを超える値が含まれています ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29977){target="_blank"} | 新しい記事 | 特殊文字はバックスラッシュでエスケープされるので、Data Warehouseの書き出しに 255 バイトの制限を超えるフィールド値が含まれている場合の問題の解決策について説明します。 |
+| 2026年2月 | [Data Warehouseのエクスポートに、エスケープ シーケンスにより 255 バイトを超える値が含まれています &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29977){target="_blank"} | 新しい記事 | 特殊文字はバックスラッシュでエスケープされるので、Data Warehouseの書き出しに 255 バイトの制限を超えるフィールド値が含まれている場合の問題の解決策について説明します。 |
 
 ## [!DNL Adobe Customer Journey Analytics] {#cja}
 
@@ -201,11 +202,11 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026 年 3 月 | [ リアルタイムレポート ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/components/real-time-reporting){target="_blank"} | ビデオ | Adobe Customer Journey Analyticsのリアルタイムレポートが、売上高やコンバージョン、訪問回数などの主要指標をAnalysis Workspaceで直接提供する仕組みを説明します。 |
-| 2026 年 3 月 | [ オーディエンス分析の概要 ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/connections/get-started-with-audience-analysis){target="_blank"} | ビデオ | マーケターがExperience Platformからオーディエンスセグメントを取り込み、様々なチャネルにわたる実際の顧客の行動を分析する方法について、オーディエンス分析を通じて説明します。 |
-| 2026 年 3 月 | [Analysis Workspace プロジェクトへのドーナツビジュアライゼーションの追加 ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/add-donut-visualizations){target="_blank"} | 更新されたビデオ | Customer Journey AnalyticsでAnalysis Workspace プロジェクトにドーナツビジュアライゼーションを追加し、設定する方法を説明します。 このビジュアライゼーションは、数個の項目で、合計のパーセンテージを比較する場合に使用するのに最適です。 |
-| 2026 年 3 月 | [Analysis Workspace プロジェクトへのテキストビジュアライゼーションの追加 ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/add-text-visualizations){target="_blank"} | 更新されたビデオ | Customer Journey Analytics用Analysis Workspaceでテキストビジュアライゼーションを追加し設定する方法を説明します。 これは、指標に関する懸念を伝えたり、プロジェクト内の他のデータにコンテキストを追加したりする場合に便利です。 |
-| 2026 年 3 月 | [Analysis Workspace プロジェクトへのブレットグラフのビジュアライゼーションの追加 ](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/add-bullet-graph-visualizations){target="_blank"} | 更新されたビデオ | ブレット グラフの使用方法と、Customer Journey AnalyticsのAnalysis Workspace プロジェクトにブレット グラフを追加する方法を説明します。 このグラフは、興味の値を目標と比較する方法または目標に対して測定する方法を示しています。 |
+| 2026 年 3 月 | [&#x200B; リアルタイムレポート &#x200B;](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/components/real-time-reporting){target="_blank"} | ビデオ | Adobe Customer Journey Analyticsのリアルタイムレポートが、売上高やコンバージョン、訪問回数などの主要指標をAnalysis Workspaceで直接提供する仕組みを説明します。 |
+| 2026 年 3 月 | [&#x200B; オーディエンス分析の概要 &#x200B;](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/connections/get-started-with-audience-analysis){target="_blank"} | ビデオ | マーケターがExperience Platformからオーディエンスセグメントを取り込み、様々なチャネルにわたる実際の顧客の行動を分析する方法について、オーディエンス分析を通じて説明します。 |
+| 2026 年 3 月 | [Analysis Workspace プロジェクトへのドーナツビジュアライゼーションの追加 &#x200B;](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/add-donut-visualizations){target="_blank"} | 更新されたビデオ | Customer Journey AnalyticsでAnalysis Workspace プロジェクトにドーナツビジュアライゼーションを追加し、設定する方法を説明します。 このビジュアライゼーションは、数個の項目で、合計のパーセンテージを比較する場合に使用するのに最適です。 |
+| 2026 年 3 月 | [Analysis Workspace プロジェクトへのテキストビジュアライゼーションの追加 &#x200B;](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/add-text-visualizations){target="_blank"} | 更新されたビデオ | Customer Journey Analytics用Analysis Workspaceでテキストビジュアライゼーションを追加し設定する方法を説明します。 これは、指標に関する懸念を伝えたり、プロジェクト内の他のデータにコンテキストを追加したりする場合に便利です。 |
+| 2026 年 3 月 | [Analysis Workspace プロジェクトへのブレットグラフのビジュアライゼーションの追加 &#x200B;](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/add-bullet-graph-visualizations){target="_blank"} | 更新されたビデオ | ブレット グラフの使用方法と、Customer Journey AnalyticsのAnalysis Workspace プロジェクトにブレット グラフを追加する方法を説明します。 このグラフは、興味の値を目標と比較する方法または目標に対して測定する方法を示しています。 |
 
 ### 新しい [!DNL Customer Journey Analytics] でのナレッジベースのサポート{#kb-cja}
 
@@ -213,8 +214,8 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 |---------|----|----|-----------|
-| 2026年2月 | [CJAで派生フィールドトリガーデータセットのタイプ変更に関するエラーが発生する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30065){target="_blank"} | 新しい記事 | 既存の派生フィールドに [!UICONTROL Lookup] 関数を追加するとCustomer Journey Analyticsでエラーが表示される場合の問題の解決策について説明します。 |
-| 2026年2月 | [[!UICONTROL  ユーザー ID] ディメンションについて理解し、使用して、人物数の不一致を解決します ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30068){target="_blank"} | 新しい記事 | 異なる ID フィールドを持つ複数のデータセットを使用したCJA接続でカウントするユーザーが間違っているように見える、または説明が困難な場合の問題の解決策について説明します。 |
+| 2026年2月 | [CJAで派生フィールドトリガーデータセットのタイプ変更に関するエラーが発生する &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30065){target="_blank"} | 新しい記事 | 既存の派生フィールドに [!UICONTROL Lookup] 関数を追加するとCustomer Journey Analyticsでエラーが表示される場合の問題の解決策について説明します。 |
+| 2026年2月 | [[!UICONTROL &#x200B; ユーザー ID] ディメンションについて理解し、使用して、人物数の不一致を解決します &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30068){target="_blank"} | 新しい記事 | 異なる ID フィールドを持つ複数のデータセットを使用したCJA接続でカウントするユーザーが間違っているように見える、または説明が困難な場合の問題の解決策について説明します。 |
 
 ## [!DNL Adobe Streaming Media Analytics] {#sma}
 
@@ -277,14 +278,14 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 | 公開日 | アプリケーション | 名前 | 形式 | 説明 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 2026 年 3 月 | [!DNL AEM CS] | [ 高度なユースケース向けのカスタム SAML フック ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/authentication/saml-2-0#custom-saml-hooks-for-advanced-use-cases){target="_blank"} | ビデオ | SamlHook を使用して、ユーザープロファイルを変更したり、ユーザーをグループに割り当てたりするカスタムコードを記述する方法を説明します。 |
-| 2026 年 3 月 | [!DNL AEM Forms] | [ 再利用可能なインタラクティブ通信フラグメントの作成 ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/interactive-communication-tutorial/create-fragments){target="_blank"} | ビデオ | インタラクティブ通信ドキュメントの再利用可能なフラグメントを開発する方法について説明します。 レイアウトを最適化し、顧客の住所セクションとレター本文セクションに動的なデータバインディングを確保します。 書式設定、配置、余白のコントロールを使用して、ドキュメントのデザインを強化します。 |
-| 2026 年 3 月 | [!DNL AEM Forms] | [ テンプレートを使用した IC ドキュメントの作成 ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/interactive-communication-tutorial/create-ic-document){target="_blank"} | ビデオ | 事前定義済みのテンプレートと再利用可能なフラグメントを使用してインタラクティブ通信ドキュメントを作成します。 |
-| 2026 年 3 月 | [!DNL AEM Forms] | [API を使用した IC ドキュメントの生成 ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/interactive-communication-tutorial/test-document-generation){target="_blank"} | ビデオ | API とPostmanを使用してインタラクティブなコミュニケーションドキュメントを生成する方法を説明します。 |
-| 2026 年 3 月 | [!DNL AEM Forms] | [ インタラクティブ通信テンプレートの作成 ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/interactive-communication-tutorial/create-template){target="_blank"} | ビデオ | インタラクティブ通信テンプレートを作成して、送信する通信を標準化する方法を説明します。 これらのテンプレートにより、顧客コミュニケーションにおける一貫性、ガバナンス、ブランドの整合性が確保されます。 IC Web Designerやオブジェクトライブラリなどのツールを使用して、テンプレートの作成、編集、将来の使用に向けた有効化のプロセスを説明します。 |
+| 2026 年 3 月 | [!DNL AEM CS] | [&#x200B; 高度なユースケース向けのカスタム SAML フック &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/authentication/saml-2-0#custom-saml-hooks-for-advanced-use-cases){target="_blank"} | ビデオ | SamlHook を使用して、ユーザープロファイルを変更したり、ユーザーをグループに割り当てたりするカスタムコードを記述する方法を説明します。 |
+| 2026 年 3 月 | [!DNL AEM Forms] | [&#x200B; 再利用可能なインタラクティブ通信フラグメントの作成 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/interactive-communication-tutorial/create-fragments){target="_blank"} | ビデオ | インタラクティブ通信ドキュメントの再利用可能なフラグメントを開発する方法について説明します。 レイアウトを最適化し、顧客の住所セクションとレター本文セクションに動的なデータバインディングを確保します。 書式設定、配置、余白のコントロールを使用して、ドキュメントのデザインを強化します。 |
+| 2026 年 3 月 | [!DNL AEM Forms] | [&#x200B; テンプレートを使用した IC ドキュメントの作成 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/interactive-communication-tutorial/create-ic-document){target="_blank"} | ビデオ | 事前定義済みのテンプレートと再利用可能なフラグメントを使用してインタラクティブ通信ドキュメントを作成します。 |
+| 2026 年 3 月 | [!DNL AEM Forms] | [API を使用した IC ドキュメントの生成 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/interactive-communication-tutorial/test-document-generation){target="_blank"} | ビデオ | API とPostmanを使用してインタラクティブなコミュニケーションドキュメントを生成する方法を説明します。 |
+| 2026 年 3 月 | [!DNL AEM Forms] | [&#x200B; インタラクティブ通信テンプレートの作成 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/interactive-communication-tutorial/create-template){target="_blank"} | ビデオ | インタラクティブ通信テンプレートを作成して、送信する通信を標準化する方法を説明します。 これらのテンプレートにより、顧客コミュニケーションにおける一貫性、ガバナンス、ブランドの整合性が確保されます。 IC Web Designerやオブジェクトライブラリなどのツールを使用して、テンプレートの作成、編集、将来の使用に向けた有効化のプロセスを説明します。 |
 | 2026 年 3 月 | [!DNL AEM CS] | [AI 検索](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/ai-search){target="_blank"} | ビデオ | 最も関連性の高いアセットを毎回インテリジェントに表示することで、AEM Assets AI 検索が検索エクスペリエンスをどのように変革するかを明らかにします。 AEM Assets ビューと管理者ビューの両方でAI 検索を有効にして、よりスマートな検索のメリットをすぐに享受する方法を説明します。 |
-| 2026 年 3 月 | [!DNL AEM Forms] | [IC ドキュメント用フォームデータモデルの作成 ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/interactive-communication-tutorial/create-form-data-model){target="_blank"} | ビデオ | Forms AEMで外部データソースとインタラクティブ通信を統合するAdobe データモデルを作成します。 このプロセスには、RESTful サービスの設定、Swagger ファイルのアップロード、データを動的に取得してバインドするためのサービスエンドポイントの設定が含まれます。 |
-| 2026 年 3 月 | [!DNL AEM CS] | [AEM as a Cloud Serviceでの非推奨（廃止予定）の API の検索と削除 ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/developing/advanced/deprecated-apis-find-removal){target="_blank"} | ビデオ | AEM as a Cloud Serviceで非推奨の API を検索して削除する方法を説明します。 |
+| 2026 年 3 月 | [!DNL AEM Forms] | [IC ドキュメント用フォームデータモデルの作成 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/interactive-communication-tutorial/create-form-data-model){target="_blank"} | ビデオ | Forms AEMで外部データソースとインタラクティブ通信を統合するAdobe データモデルを作成します。 このプロセスには、RESTful サービスの設定、Swagger ファイルのアップロード、データを動的に取得してバインドするためのサービスエンドポイントの設定が含まれます。 |
+| 2026 年 3 月 | [!DNL AEM CS] | [AEM as a Cloud Serviceでの非推奨（廃止予定）の API の検索と削除 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/developing/advanced/deprecated-apis-find-removal){target="_blank"} | ビデオ | AEM as a Cloud Serviceで非推奨の API を検索して削除する方法を説明します。 |
 
 ### 新しい [!DNL Experience Manager] でのナレッジベースのサポート{#kb-aem}
 
@@ -292,35 +293,35 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 |---------|--------|---------|---------|
-| 2026年2月 | [ アップロードしたアセットを Dynamic Media Scene7 配信から使用できない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29939){target="_blank"} | 新しい記事 | AEMにアップロードされ、DMS7 配信サーバーから使用できると予想されるアセットが使用できない場合の問題の解決策について説明します。 |
-| 2026年2月 | [Brand Portal ユーザーが、投稿フォルダー内のサブフォルダーにファイルをアップロードできない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29607){target="_blank"} | 新しい記事 | 権限が適切に割り当てられていない場合に、Adobe Experience Manager Brand Portalが投稿フォルダー内の `New` サブフォルダーへのファイルのアップロードを妨げる問題の解決策について説明します。 |
-| 2026年2月 | [Adobe Experience Manager: [!UICONTROL  エクスペリエンスフラグメント ] （XF）のコピーおよび貼り付け操作が失敗し、エラーポップアップが表示される ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29837){target="_blank"} | 新しい記事 | [!UICONTROL  エクスペリエンスフラグメント ] （XF）をコピー&amp;ペーストするとエラーポップアップが発生して XF がペーストされない問題の解決策について説明します。 |
-| 2026年2月 | [Adobe Experience Manager: AEMを使用していないユーザーへのAEM E メールを停止する方法 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29839){target="_blank"} | 新しい記事 | AEMの使用を停止した後もシステムまたはワークフローのメールを引き続き受信する場合の問題の解決策について説明します。 |
-| 2026年2月 | [Adobe Experience Manager: [!UICONTROL Distribute 関数 ]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30069){target="_blank"} の概要 | 新しい記事 | 通常の公開フローでは管理が困難なノードを操作する必要がある場合や、AEMaaCS でのレプリケーションの不整合を解決する必要がある場合の問題の解決策について説明します。 |
-| 2026年2月 | [Adobe Experience Manager（AEM）での  [!DNL LiveFyre]  に関連するエラーログ警告 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27571){target="_blank"} | 新しい記事 | AEMが [!DNL LiveFyre] のポーリング読み込みジョブを実行しようとし、Adobeが機能を廃止したためインポーターが存在しなくなったため、AEM オンプレミスエラーログに繰り返し警告が表示される問題の解決策 [!DNL LiveFyre] ついて説明します。 |
-| 2026年2月 | [AEM 6.5 での SSL 証明書の更新：トラストストアとキーストアのリセット ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28023){target="_blank"} | 新しい記事 | AEM 6.5 パブリッシュインスタンスで SSL 証明書が期限切れになり、古い資格情報がない場合に無効なキーストアパスワードエラーが表示される問題の解決策について説明します。 |
-| 2026年2月 | [AEM内の複数のDispatcher ファームを使用したターゲット設定のキャッシュ削除の設定 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29672){target="_blank"} | 新しい記事 | AEMで複数のDispatcher ファームを設定すると、localhost URL の使用時にキャッシュフラッシュリクエストが正しくルーティングされない問題の解決策について説明します。 |
-| 2026年2月 | AEM[`cq-dam-cfm-graphql` アップグレード後に、バンドルのアクティベーションに失敗する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29892){target="_blank"} | 新しい記事 | AEM 6.5.21 にアップグレードし、未解決の依存関係が原因でForms アドオンパッケージをインストールした後、`cq-dam-cfm-graphql` バンドルを開始できない場合の問題の解決策について説明します。 |
+| 2026年2月 | [&#x200B; アップロードしたアセットを Dynamic Media Scene7 配信から使用できない &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29939){target="_blank"} | 新しい記事 | AEMにアップロードされ、DMS7 配信サーバーから使用できると予想されるアセットが使用できない場合の問題の解決策について説明します。 |
+| 2026年2月 | [Brand Portal ユーザーが、投稿フォルダー内のサブフォルダーにファイルをアップロードできない &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29607){target="_blank"} | 新しい記事 | 権限が適切に割り当てられていない場合に、Adobe Experience Manager Brand Portalが投稿フォルダー内の `New` サブフォルダーへのファイルのアップロードを妨げる問題の解決策について説明します。 |
+| 2026年2月 | [Adobe Experience Manager: [!UICONTROL &#x200B; エクスペリエンスフラグメント &#x200B;] （XF）のコピーおよび貼り付け操作が失敗し、エラーポップアップが表示される &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29837){target="_blank"} | 新しい記事 | [!UICONTROL &#x200B; エクスペリエンスフラグメント &#x200B;] （XF）をコピー&amp;ペーストするとエラーポップアップが発生して XF がペーストされない問題の解決策について説明します。 |
+| 2026年2月 | [Adobe Experience Manager: AEMを使用していないユーザーへのAEM E メールを停止する方法 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29839){target="_blank"} | 新しい記事 | AEMの使用を停止した後もシステムまたはワークフローのメールを引き続き受信する場合の問題の解決策について説明します。 |
+| 2026年2月 | [Adobe Experience Manager: [!UICONTROL Distribute 関数 &#x200B;]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30069){target="_blank"} の概要 | 新しい記事 | 通常の公開フローでは管理が困難なノードを操作する必要がある場合や、AEMaaCS でのレプリケーションの不整合を解決する必要がある場合の問題の解決策について説明します。 |
+| 2026年2月 | [Adobe Experience Manager（AEM）での  [!DNL LiveFyre]  に関連するエラーログ警告 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27571){target="_blank"} | 新しい記事 | AEMが [!DNL LiveFyre] のポーリング読み込みジョブを実行しようとし、Adobeが機能を廃止したためインポーターが存在しなくなったため、AEM オンプレミスエラーログに繰り返し警告が表示される問題の解決策 [!DNL LiveFyre] ついて説明します。 |
+| 2026年2月 | [AEM 6.5 での SSL 証明書の更新：トラストストアとキーストアのリセット &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28023){target="_blank"} | 新しい記事 | AEM 6.5 パブリッシュインスタンスで SSL 証明書が期限切れになり、古い資格情報がない場合に無効なキーストアパスワードエラーが表示される問題の解決策について説明します。 |
+| 2026年2月 | [AEM内の複数のDispatcher ファームを使用したターゲット設定のキャッシュ削除の設定 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29672){target="_blank"} | 新しい記事 | AEMで複数のDispatcher ファームを設定すると、localhost URL の使用時にキャッシュフラッシュリクエストが正しくルーティングされない問題の解決策について説明します。 |
+| 2026年2月 | AEM[`cq-dam-cfm-graphql` アップグレード後に、バンドルのアクティベーションに失敗する &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29892){target="_blank"} | 新しい記事 | AEM 6.5.21 にアップグレードし、未解決の依存関係が原因でForms アドオンパッケージをインストールした後、`cq-dam-cfm-graphql` バンドルを開始できない場合の問題の解決策について説明します。 |
 | 2026年2月 | [AEM 6.5.24 で TLS 1.3 を有効にする  [!DNL Windows Server 2022]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29790){target="_blank"} | 新しい記事 | プラットフォームは [!DNL JBoss] をサポートしていますが、[!DNL Windows Server 2022] で実行されているAEM 6.5.24 では、TLS 1.3 がデフォルトで有効になっていない問題の解決策について説明します。 |
-| 2026年2月 | [AEM Forms JEE 6.5.23 でのアップグレード後に、バックアップモードを無効にできない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29885){target="_blank"} | 新しい記事 | AEM Forms JEE をバージョン 6.5.23 にアップグレードした後にバックアップモードを無効にできない場合の問題の解決策について説明します。 |
-| 2026年2月 | [AEMaaCS の [!UICONTROL  投稿者 ] グループにユーザーが自動的に追加される ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28145){target="_blank"} | 新しい記事 | 自動グループメンバーシップを防ぐように設定されている場合でも、Adobe IMSを通じて認証を行うユーザーが AEMaaCS の [!UICONTROL  投稿者 ] グループに自動的に追加され `DefaultSyncHandler` 場合の問題の解決策について説明します。 |
-| 2026年2月 | [AEMaaCS でブループリントがアクティベートまたはアクティベート解除されている場合、ライブコピーページが公開されない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28187){target="_blank"} | 新しい記事 | AEMaaCS でブループリントがアクティベートまたはアクティベート解除されたときにライブコピーのターゲットページを自動的に公開できない場合の問題の解決策について説明します。 |
-| 2026年2月 | [AEMaaCS の保持期間後に、削除されたアセットを復元できない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29600){target="_blank"} | 新しい記事 | AEMaaCS で削除されたアセットを、保持期間が終了した後、バージョン履歴やタイムラインから復元できない問題の解決策について説明します。 |
-| 2026年2月 | [AEMaaCS で他のユーザーのワークフロー登録を表示できない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29645){target="_blank"} | 新しい記事 | AEMaaCS で他のユーザーが作成したワークフロー登録を表示できず、フォルダーレベルの権限によってこのアクセス権が付与されない場合の、問題の解決策について説明します。 |
-| 2026年2月 | [CSRF トークンとカスタムサーブレットエンドポイントへのリクエストが AEMaaCS で 404 エラーを返す ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29665){target="_blank"} | 新しい記事 | CDN エッジ認証によってこれらのパスがブロックされる場合に、AEMaaCS パブリッシュインスタンスで CSRF トークンとカスタムサーブレットエンドポイントへのリクエストが 404 エラーで失敗する問題の解決策について説明します。 |
-| 2026年2月 | [[!UICONTROL  ユニバーサルエディター ] が EDS なしで従来のAEM Sitesを読み込めない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29883){target="_blank"} | 新しい記事 | [!UICONTROL Experience Data Service] （EDS）を使用しない従来のAEM Sitesのターゲットページを [!UICONTROL  ユニバーサルエディター ] が読み込むことができず、代わりにログイン画面またはエラーメッセージが表示される問題の解決策について説明します。 |
-| 2026年2月 | [[!UICONTROL  ワークフロー ]AEMaaCS の [!UICONTROL  コンテンツフラグメント ] コンソールにアクションが見つからない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29896){target="_blank"} | 新しい記事 | AEMaaCS の [!UICONTROL  コンテンツフラグメント ] コンソールで、デフォルトで [!UICONTROL  アクションバー ] にワークフローアクションが表示されず、作成者がコンソールから直接ワークフローをトリガーできない場合の問題の解決策について説明します。 |
-| 2026年2月 | [AEMaaCS でのワークフロー数の誤りと正常でないシステムステータス ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29905){target="_blank"} | 新しい記事 | AEMaaCS で誤った実行中または完了したワークフローのカウントが表示され、システム正常性インジケーターが正常でないステータスを示す問題の解決策について説明します。 |
-| 2026年2月 | [ コンテンツハブ – 下位環境にはアクセスできません ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30064){target="_blank"} | 新しい記事 | Cloud ManagerでContent Hubを下位環境用にプロビジョニングすることをクリックした後にContent Hubを下位環境と見つけることが困難な場合の、問題の解決策について説明します。 |
-| 2026年2月 | [AEM オーサーログインエンドポイントに Content-Security-Policy ヘッダーがない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29884){target="_blank"} | 新しい記事 | AEMaaCS オーサーログインエンドポイントに Content-Security-Policy （CSP）ヘッダーが含まれていない場合に発生する問題の解決策について説明します。CSP は多くの場合、セキュリティスキャンで警告されます。 |
-| 2026年2月 | [AEMaaCS での [!UICONTROL  エクスペリエンスフラグメント ] の公開権限の管理 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29669){target="_blank"} | 新しい記事 | [!UICONTROL  エクスペリエンスフラグメント ] の公開権限を拒否するとユーザーは公開できなくなるが、UI に「[!UICONTROL  公開を管理 ]」ボタンが引き続き表示される場合の問題の解決策を説明します。 |
-| 2026年2月 | [ 書き込みアクセスを割り当てた後に、AEM Sitesでコンポーネントを編集または追加できない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29692){target="_blank"} | 新しい記事 | 書き込みアクセス権を付与されても、AEM Sites ページエディターで新しいコンポーネントを追加したり、既存のコンポーネントを編集したりできない場合の問題の解決策について説明します。 |
+| 2026年2月 | [AEM Forms JEE 6.5.23 でのアップグレード後に、バックアップモードを無効にできない &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29885){target="_blank"} | 新しい記事 | AEM Forms JEE をバージョン 6.5.23 にアップグレードした後にバックアップモードを無効にできない場合の問題の解決策について説明します。 |
+| 2026年2月 | [AEMaaCS の [!UICONTROL &#x200B; 投稿者 &#x200B;] グループにユーザーが自動的に追加される &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28145){target="_blank"} | 新しい記事 | 自動グループメンバーシップを防ぐように設定されている場合でも、Adobe IMSを通じて認証を行うユーザーが AEMaaCS の [!UICONTROL &#x200B; 投稿者 &#x200B;] グループに自動的に追加され `DefaultSyncHandler` 場合の問題の解決策について説明します。 |
+| 2026年2月 | [AEMaaCS でブループリントがアクティベートまたはアクティベート解除されている場合、ライブコピーページが公開されない &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28187){target="_blank"} | 新しい記事 | AEMaaCS でブループリントがアクティベートまたはアクティベート解除されたときにライブコピーのターゲットページを自動的に公開できない場合の問題の解決策について説明します。 |
+| 2026年2月 | [AEMaaCS の保持期間後に、削除されたアセットを復元できない &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29600){target="_blank"} | 新しい記事 | AEMaaCS で削除されたアセットを、保持期間が終了した後、バージョン履歴やタイムラインから復元できない問題の解決策について説明します。 |
+| 2026年2月 | [AEMaaCS で他のユーザーのワークフロー登録を表示できない &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29645){target="_blank"} | 新しい記事 | AEMaaCS で他のユーザーが作成したワークフロー登録を表示できず、フォルダーレベルの権限によってこのアクセス権が付与されない場合の、問題の解決策について説明します。 |
+| 2026年2月 | [CSRF トークンとカスタムサーブレットエンドポイントへのリクエストが AEMaaCS で 404 エラーを返す &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29665){target="_blank"} | 新しい記事 | CDN エッジ認証によってこれらのパスがブロックされる場合に、AEMaaCS パブリッシュインスタンスで CSRF トークンとカスタムサーブレットエンドポイントへのリクエストが 404 エラーで失敗する問題の解決策について説明します。 |
+| 2026年2月 | [[!UICONTROL &#x200B; ユニバーサルエディター &#x200B;] が EDS なしで従来のAEM Sitesを読み込めない &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29883){target="_blank"} | 新しい記事 | [!UICONTROL Experience Data Service] （EDS）を使用しない従来のAEM Sitesのターゲットページを [!UICONTROL &#x200B; ユニバーサルエディター &#x200B;] が読み込むことができず、代わりにログイン画面またはエラーメッセージが表示される問題の解決策について説明します。 |
+| 2026年2月 | [[!UICONTROL &#x200B; ワークフロー &#x200B;]AEMaaCS の [!UICONTROL &#x200B; コンテンツフラグメント &#x200B;] コンソールにアクションが見つからない &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29896){target="_blank"} | 新しい記事 | AEMaaCS の [!UICONTROL &#x200B; コンテンツフラグメント &#x200B;] コンソールで、デフォルトで [!UICONTROL &#x200B; アクションバー &#x200B;] にワークフローアクションが表示されず、作成者がコンソールから直接ワークフローをトリガーできない場合の問題の解決策について説明します。 |
+| 2026年2月 | [AEMaaCS でのワークフロー数の誤りと正常でないシステムステータス &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29905){target="_blank"} | 新しい記事 | AEMaaCS で誤った実行中または完了したワークフローのカウントが表示され、システム正常性インジケーターが正常でないステータスを示す問題の解決策について説明します。 |
+| 2026年2月 | [&#x200B; コンテンツハブ – 下位環境にはアクセスできません &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30064){target="_blank"} | 新しい記事 | Cloud ManagerでContent Hubを下位環境用にプロビジョニングすることをクリックした後にContent Hubを下位環境と見つけることが困難な場合の、問題の解決策について説明します。 |
+| 2026年2月 | [AEM オーサーログインエンドポイントに Content-Security-Policy ヘッダーがない &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29884){target="_blank"} | 新しい記事 | AEMaaCS オーサーログインエンドポイントに Content-Security-Policy （CSP）ヘッダーが含まれていない場合に発生する問題の解決策について説明します。CSP は多くの場合、セキュリティスキャンで警告されます。 |
+| 2026年2月 | [AEMaaCS での [!UICONTROL &#x200B; エクスペリエンスフラグメント &#x200B;] の公開権限の管理 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29669){target="_blank"} | 新しい記事 | [!UICONTROL &#x200B; エクスペリエンスフラグメント &#x200B;] の公開権限を拒否するとユーザーは公開できなくなるが、UI に「[!UICONTROL &#x200B; 公開を管理 &#x200B;]」ボタンが引き続き表示される場合の問題の解決策を説明します。 |
+| 2026年2月 | [&#x200B; 書き込みアクセスを割り当てた後に、AEM Sitesでコンポーネントを編集または追加できない &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29692){target="_blank"} | 新しい記事 | 書き込みアクセス権を付与されても、AEM Sites ページエディターで新しいコンポーネントを追加したり、既存のコンポーネントを編集したりできない場合の問題の解決策について説明します。 |
 
 ## [!DNL Adobe Commerce] {#commerce}
 
 [!DNL Adobe Commerce] のリリースノート、新しいチュートリアルおよびナレッジベースサポート記事にアクセスできます。
 
-* [ [!DNL Adobe Commerce] and [!DNL Magento Open Source] のリリースノート](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/overview){target="_blank"}
+* [&#x200B; [!DNL Adobe Commerce] and [!DNL Magento Open Source] のリリースノート](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/overview){target="_blank"}
 * [Adobe [!DNL Commerce]  サービスガイド](https://experienceleague.adobe.com/ja/docs/commerce/user-guides/home){target="_blank"}
 * [製品の可用性](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/product-availability){target="_blank"}
 
@@ -344,19 +345,19 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 | 公開日 | 名前 | タイプ | 説明 |
 |---------|--------|---------|---------|
 | 2026年2月 | [[!DNL Quality Patches Tool] （QPT）](https://experienceleague.adobe.com/ja/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview){target="_blank"} | 新しい記事 | QPT 1.1.76 および QPT 1.1.77 で使用可能なパッチの適用方法に関する新しい記事が公開され、それぞれの節で参照できるようになりました。 |
-| 2026年2月 | [[!UICONTROL  詳細レポート ]Adobe Commerceのトラブルシューティング ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29603){target="_blank"} | 新しい記事 | Adobe Commerceの [!UICONTROL  詳細レポート ] 問題で、ターゲットを絞った診断の質問を通じて診断と解決が必要な場合の、問題の解決策について説明します。 |
-| 2026年2月 | [APSB パッチチェックで、クラウドインフラストラクチャ上のAdobe Commerceで失敗と表示される ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29734){target="_blank"} | 新しい記事 | バージョンにパッチが含まれていても、クラウドインフラストラクチャー上のAdobe Commerceをアップグレードした後、[!UICONTROL  セキュリティスキャンツール ] が APSB パッチステータスを *FAIL* と報告すると、この問題の解決策について説明します。 |
-| 2026年2月 | [ パフォーマンスの低下を避けるためにキャッシュを有効にする ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29888){target="_blank"} | 新しい記事 | 特定のAdobe Commerce キャッシュタイプが無効になっていることが原因でサイトの速度が遅くなる問題の解決策について説明します。 |
-| 2026年2月 | [Adobe Commerceで [!UICONTROL  画像の最適化 ] を有効にする際にエラーが発生する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29890){target="_blank"} | 新しい記事 | [!DNL Fastly] の [!UICONTROL  画像の最適化 ] （IO）がデフォルトで無効になっており、画像の最適化を有効にする通知が [!DNL Fastly] に送信される場合の問題の解決策について説明します。 |
-| 2026年2月 | [ クラウドインフラストラクチャー上のAdobe Commerceにおける `var/export` フォルダー権限の問題 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29895){target="_blank"} | 新しい記事 | クラウドインフラストラクチャー上のAdobe Commerceの `var/export/email` フォルダーでファイルの権限に関する問題が発生し、商品データを書き出すことができない場合の問題の解決策について説明します。 |
-| 2026年2月 | [[!UICONTROL Extension Manager]Adobe Commerce 2.3.x で拡張機能が表示されません ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29897){target="_blank"} | 新しい記事 | 購入した [!DNL Marketplace] 拡張機能がAdobe Commerce 2.3.x の [!UICONTROL Extension Manager] に表示されない場合の問題の解決策について説明します。 |
-| 2026年2月 | [Cron のトラブルシューティング ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29907){target="_blank"} | 新しい記事 | Adobe CommerceとMagento Open Sourceで cron に関する問題が発生した場合の解決策について説明します。これには、更新またはアップグレードの保留、PHP 設定エラー、cron 準備チェックエラーなどが含まれます。 |
+| 2026年2月 | [[!UICONTROL &#x200B; 詳細レポート &#x200B;]Adobe Commerceのトラブルシューティング &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29603){target="_blank"} | 新しい記事 | Adobe Commerceの [!UICONTROL &#x200B; 詳細レポート &#x200B;] 問題で、ターゲットを絞った診断の質問を通じて診断と解決が必要な場合の、問題の解決策について説明します。 |
+| 2026年2月 | [APSB パッチチェックで、クラウドインフラストラクチャ上のAdobe Commerceで失敗と表示される &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29734){target="_blank"} | 新しい記事 | バージョンにパッチが含まれていても、クラウドインフラストラクチャー上のAdobe Commerceをアップグレードした後、[!UICONTROL &#x200B; セキュリティスキャンツール &#x200B;] が APSB パッチステータスを *FAIL* と報告すると、この問題の解決策について説明します。 |
+| 2026年2月 | [&#x200B; パフォーマンスの低下を避けるためにキャッシュを有効にする &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29888){target="_blank"} | 新しい記事 | 特定のAdobe Commerce キャッシュタイプが無効になっていることが原因でサイトの速度が遅くなる問題の解決策について説明します。 |
+| 2026年2月 | [Adobe Commerceで [!UICONTROL &#x200B; 画像の最適化 &#x200B;] を有効にする際にエラーが発生する &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29890){target="_blank"} | 新しい記事 | [!DNL Fastly] の [!UICONTROL &#x200B; 画像の最適化 &#x200B;] （IO）がデフォルトで無効になっており、画像の最適化を有効にする通知が [!DNL Fastly] に送信される場合の問題の解決策について説明します。 |
+| 2026年2月 | [&#x200B; クラウドインフラストラクチャー上のAdobe Commerceにおける `var/export` フォルダー権限の問題 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29895){target="_blank"} | 新しい記事 | クラウドインフラストラクチャー上のAdobe Commerceの `var/export/email` フォルダーでファイルの権限に関する問題が発生し、商品データを書き出すことができない場合の問題の解決策について説明します。 |
+| 2026年2月 | [[!UICONTROL Extension Manager]Adobe Commerce 2.3.x で拡張機能が表示されません &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29897){target="_blank"} | 新しい記事 | 購入した [!DNL Marketplace] 拡張機能がAdobe Commerce 2.3.x の [!UICONTROL Extension Manager] に表示されない場合の問題の解決策について説明します。 |
+| 2026年2月 | [Cron のトラブルシューティング &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29907){target="_blank"} | 新しい記事 | Adobe CommerceとMagento Open Sourceで cron に関する問題が発生した場合の解決策について説明します。これには、更新またはアップグレードの保留、PHP 設定エラー、cron 準備チェックエラーなどが含まれます。 |
 | 2026年2月 | [[!DNL Redis]  エラー `setup:static-content:deploy`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29908){target="_blank"} のシリアル化を解除 | 新しい記事 | Adobe Commerceでの静的コンテンツのデプロイメント中に `setup:static-content:deploy` コマンドのトリガーが [!DNL Redis] のシリアル化解除エラーを実行した場合の問題の解決策について説明します。 |
-| 2026年2月 | [[!UICONTROL Inventory management] のインストール後の在庫ステータスが正しくない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29910){target="_blank"} | 新しい記事 | 複数の web サイトを含むAdobe Commerce環境で最初に [!UICONTROL Inventory management] をインストールまたはアップグレードした後に、一部のサイトで在庫ステータスが正しくない場合の問題の解決策について説明します。 |
-| 2026年2月 | [[!DNL Redis]  サービスがクラッシュしました ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29915){target="_blank"} | 新しい記事 | [!DNL Redis] でのメモリオーバーフローが原因で web サイトの速度が低下したり停止が発生したりする場合の問題の解決策について説明します。 |
-| 2026年2月 | [PWA Studio: [!DNL Venia] Adobe Commerceに対するGraphQL クエリで検証エラーが発生する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29920){target="_blank"} | 新しい記事 | [!DNL Venia] のGraphQL クエリがGraphQL スキーマと同期していないので、ストアフロントのAdobe Commerce クエリをAdobe Commerceに [!DNL Venia] 行すると検証エラーが発生する問題の解決策について説明します。 |
-| 2026年2月 | [ アップセル製品を読み込んでも、クラウドインフラストラクチャ上のAdobe Commerceの製品リンクが更新されない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29955){target="_blank"} | 新しい記事 | アップセル、関連、クロスセルの各商品が含まれる CSV ファイルをAdobe Commerceに読み込むと、エラーなく完了するが、商品リンクが期待どおりに更新されない問題の解決策について説明します。 |
-| 2026年2月 | [[!UICONTROL App Builderへのアクセスが制限され ]Adobe Admin Consoleにプロジェクトテンプレートが見つかりません ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30011){target="_blank"} | 新しい記事 | アカウントがAdobe Admin Consoleの正しい組織に追加されていないので、[!UICONTROL App Builder] にアクセスすると **[!UICONTROL テンプレートからプロジェクトを作成]** オプションが制限される問題の解決策について説明します。 |
+| 2026年2月 | [[!UICONTROL Inventory management] のインストール後の在庫ステータスが正しくない &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29910){target="_blank"} | 新しい記事 | 複数の web サイトを含むAdobe Commerce環境で最初に [!UICONTROL Inventory management] をインストールまたはアップグレードした後に、一部のサイトで在庫ステータスが正しくない場合の問題の解決策について説明します。 |
+| 2026年2月 | [[!DNL Redis]  サービスがクラッシュしました &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29915){target="_blank"} | 新しい記事 | [!DNL Redis] でのメモリオーバーフローが原因で web サイトの速度が低下したり停止が発生したりする場合の問題の解決策について説明します。 |
+| 2026年2月 | [PWA Studio: [!DNL Venia] Adobe Commerceに対するGraphQL クエリで検証エラーが発生する &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29920){target="_blank"} | 新しい記事 | [!DNL Venia] のGraphQL クエリがGraphQL スキーマと同期していないので、ストアフロントのAdobe Commerce クエリをAdobe Commerceに [!DNL Venia] 行すると検証エラーが発生する問題の解決策について説明します。 |
+| 2026年2月 | [&#x200B; アップセル製品を読み込んでも、クラウドインフラストラクチャ上のAdobe Commerceの製品リンクが更新されない &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29955){target="_blank"} | 新しい記事 | アップセル、関連、クロスセルの各商品が含まれる CSV ファイルをAdobe Commerceに読み込むと、エラーなく完了するが、商品リンクが期待どおりに更新されない問題の解決策について説明します。 |
+| 2026年2月 | [[!UICONTROL App Builderへのアクセスが制限され &#x200B;]Adobe Admin Consoleにプロジェクトテンプレートが見つかりません &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30011){target="_blank"} | 新しい記事 | アカウントがAdobe Admin Consoleの正しい組織に追加されていないので、[!UICONTROL App Builder] にアクセスすると **[!UICONTROL テンプレートからプロジェクトを作成]** オプションが制限される問題の解決策について説明します。 |
 
 ## [!DNL Adobe Target] {#target}
 
@@ -380,13 +381,13 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 
 ### 最新の Campaign 製品リリース
 
-* [Web ユーザーインターフェイス - 2026 年 3 月 ](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/campaign-web-home){target="_blank"}
+* [Web ユーザーインターフェイス - 2026 年 3 月 &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/campaign-web-home){target="_blank"}
 
-* [[!DNL Campaign] v8: 8.9.2 - 2026 年 3 月 11 日 ](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/campaign-home){target="_blank"}
+* [[!DNL Campaign] v8: 8.9.2 - 2026 年 3 月 11 日 &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/campaign-home){target="_blank"}
 
-* [[!DNL Campaign Standard]: 26.1](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/campaign-standard-home){target="_blank"}
+* [[!DNL Campaign Standard]: 26.1](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | [&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/campaign-standard-home){target="_blank"}
 
-* [[!DNL Campaign Classic] 7.4.2](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2){target="_blank"} | [ 製品ドキュメント ](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/campaign-classic-home){target="_blank"}
+* [[!DNL Campaign Classic] 7.4.2](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2){target="_blank"} | [&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/campaign-classic-home){target="_blank"}
 
 <!-- 
 ### New [!DNL Campaign] tutorials {#tutorials-campaign}
@@ -405,13 +406,13 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | 公開日 | 名前 | タイプ | 説明 |
 |---------|----|----|-----------|
-| 2026年2月 | [Adobe Campaign [!UICONTROL  配信スループット ] レポートに表示される処理数が多い ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29878){target="_blank"} | 新しい記事 | [!UICONTROL  配信スループットレポート ] に、配信の概要に表示される成功指標に合致しない高い処理済み値または 1 時間あたりに送信された値が表示される場合の問題の解決策について説明します。 |
-| 2026年2月 | [[!UICONTROL Broadlog ID]、Campaign Managed Cloud 統合を介してAdobe Analyticsに送信されない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27962){target="_blank"} | 新しい記事 | 標準のワークフロー `webAnalyticsSendMetrics` ールを使用した際に、Adobe Campaign Managed Cloud がAdobe Analyticsに [!UICONTROL Broadlog ID] を送信しない問題の解決策について説明します。 |
-| 2026年2月 | [ トラッキングログにオペレーティングシステムとデバイスのバージョンデータが欠落しているAdobe Campaign Managed Cloud](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28131){target="_blank"} | 新しい記事 | Adobe Campaign Managed Cloud でログをトラッキングすると、デバイスとオペレーティングシステムファミリーのみが表示され、オペレーティングシステムのバージョン、デバイスモデルまたはバージョンのフィールドが製品に含まれない場合に発生する問題の解決策について説明します。 |
-| 2026年2月 | Campaign web UI メールビルダーに「[**[!UICONTROL  言語を追加 ]**」ボタンが表示されない ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29770){target="_blank"} | 新しい記事 | メール配信を編集する際に、Adobe Campaign v8 Web UI のメールビルダーに「**[!UICONTROL 言語を追加]**」ボタンが表示されない問題の解決策について説明します。 |
-| 2026年2月 | [Adobe Campaign v8 の言語バリアントの配信制限 ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29785){target="_blank"} | 新しい記事 | Adobe Campaign v8 で 40 を超える言語バリアントが設定された配信はサポートされないという問題の解決策について説明します。 |
-| 2026年2月 | [Adobe Campaign Classic v8 でのワークフローの実行中にプッシュ配信が失敗する ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29871){target="_blank"} | 新しい記事 | ターゲット準備ステージでワークフローの実行中にプッシュ配信が失敗する問題の解決策について説明します。これは、配信準備が [!DNL Snowflake] で実行されている場合に、ワークフローの一時テーブルが Postgres で作成されるためです。 |
-| 2026年2月 | [Adobe Campaign v8 で配信を送信する際の認証エラー ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30003){target="_blank"} | 新しい記事 | フォルダー権限が正しく割り当てられている場合でも、管理者以外のユーザーがAdobe Campaign v8 でキャンペーンにリンクされた配信を送信または確認しようとすると認証エラーが発生する問題の解決策について説明します。 |
+| 2026年2月 | [Adobe Campaign [!UICONTROL &#x200B; 配信スループット &#x200B;] レポートに表示される処理数が多い &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29878){target="_blank"} | 新しい記事 | [!UICONTROL &#x200B; 配信スループットレポート &#x200B;] に、配信の概要に表示される成功指標に合致しない高い処理済み値または 1 時間あたりに送信された値が表示される場合の問題の解決策について説明します。 |
+| 2026年2月 | [[!UICONTROL Broadlog ID]、Campaign Managed Cloud 統合を介してAdobe Analyticsに送信されない &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27962){target="_blank"} | 新しい記事 | 標準のワークフロー `webAnalyticsSendMetrics` ールを使用した際に、Adobe Campaign Managed Cloud がAdobe Analyticsに [!UICONTROL Broadlog ID] を送信しない問題の解決策について説明します。 |
+| 2026年2月 | [&#x200B; トラッキングログにオペレーティングシステムとデバイスのバージョンデータが欠落しているAdobe Campaign Managed Cloud](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28131){target="_blank"} | 新しい記事 | Adobe Campaign Managed Cloud でログをトラッキングすると、デバイスとオペレーティングシステムファミリーのみが表示され、オペレーティングシステムのバージョン、デバイスモデルまたはバージョンのフィールドが製品に含まれない場合に発生する問題の解決策について説明します。 |
+| 2026年2月 | Campaign web UI メールビルダーに「[**[!UICONTROL &#x200B; 言語を追加 &#x200B;]**」ボタンが表示されない &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29770){target="_blank"} | 新しい記事 | メール配信を編集する際に、Adobe Campaign v8 Web UI のメールビルダーに「**[!UICONTROL 言語を追加]**」ボタンが表示されない問題の解決策について説明します。 |
+| 2026年2月 | [Adobe Campaign v8 の言語バリアントの配信制限 &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29785){target="_blank"} | 新しい記事 | Adobe Campaign v8 で 40 を超える言語バリアントが設定された配信はサポートされないという問題の解決策について説明します。 |
+| 2026年2月 | [Adobe Campaign Classic v8 でのワークフローの実行中にプッシュ配信が失敗する &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29871){target="_blank"} | 新しい記事 | ターゲット準備ステージでワークフローの実行中にプッシュ配信が失敗する問題の解決策について説明します。これは、配信準備が [!DNL Snowflake] で実行されている場合に、ワークフローの一時テーブルが Postgres で作成されるためです。 |
+| 2026年2月 | [Adobe Campaign v8 で配信を送信する際の認証エラー &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30003){target="_blank"} | 新しい記事 | フォルダー権限が正しく割り当てられている場合でも、管理者以外のユーザーがAdobe Campaign v8 でキャンペーンにリンクされた配信を送信または確認しようとすると認証エラーが発生する問題の解決策について説明します。 |
 
 ## [!DNL Adobe Journey Optimizer] {#journey-opt}
 
@@ -423,7 +424,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 * [Journey Optimizer リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"}
 
-（**メモ：**[Journey Optimizer B2B Edition 版](#journey-optimizer-b2b-edition)は別の製品です）。
+（**メモ：**&#x200B;[Journey Optimizer B2B Edition 版](#journey-optimizer-b2b-edition)は別の製品です）。
 
 ### 新しい [!DNL Journey Optimizer] チュートリアル {#tutorials-ajo}
 
@@ -431,9 +432,9 @@ Experience League に関する Adobe [!DNL Journey Optimizer] の新しいチュ
 
 | 公開日 | アプリケーション | 名前 | タイプ | 説明 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 2026 年 3 月 | [!DNL Journey Optimizer] | [AI モデルインサイト ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/ai-model-insights){target="_blank"} | ビデオ | AI モデルのトレーニングステータス、トラフィック配分およびパフォーマンスを分析して、Journey Optimizerでパーソナライズされた意思決定を最適化する方法を説明します。 AI 機能を使用して、問題の特定、モデルのトラブルシューティング、コンバージョン率の向上を行う方法について説明します。 |
-| 2026 年 3 月 | [!DNL Journey Optimizer] | [iOS ライブアクティビティ ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/live-activities/ios-live-activities){target="_blank"} | ビデオ | iOS Live アクティビティをAdobe Journey Optimizerと連携して設定し、iPhoneのロック画面と Dynamic Island でリッチなリアルタイム更新を提供する方法について説明します。 |
-| 2026 年 3 月 | [!DNL Journey Optimizer] | [ ジャーニーキャンバスのコンテンツ決定アクティビティ ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity){target="_blank"} | ビデオ | ジャーニーキャンバスのコンテンツ決定アクティビティを使用して、パーソナライズされたコンテンツオファーにAdobe Journey Optimizer Decisioning を活用する方法を説明します。 |
+| 2026 年 3 月 | [!DNL Journey Optimizer] | [AI モデルインサイト &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/ai-model-insights){target="_blank"} | ビデオ | AI モデルのトレーニングステータス、トラフィック配分およびパフォーマンスを分析して、Journey Optimizerでパーソナライズされた意思決定を最適化する方法を説明します。 AI 機能を使用して、問題の特定、モデルのトラブルシューティング、コンバージョン率の向上を行う方法について説明します。 |
+| 2026 年 3 月 | [!DNL Journey Optimizer] | [iOS ライブアクティビティ &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/live-activities/ios-live-activities){target="_blank"} | ビデオ | iOS Live アクティビティをAdobe Journey Optimizerと連携して設定し、iPhoneのロック画面と Dynamic Island でリッチなリアルタイム更新を提供する方法について説明します。 |
+| 2026 年 3 月 | [!DNL Journey Optimizer] | [&#x200B; ジャーニーキャンバスのコンテンツ決定アクティビティ &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity){target="_blank"} | ビデオ | ジャーニーキャンバスのコンテンツ決定アクティビティを使用して、パーソナライズされたコンテンツオファーにAdobe Journey Optimizer Decisioning を活用する方法を説明します。 |
 
 <!-- 
 ### New [!DNL Journey Optimizer] support knowledge base{#kb-ajo}
@@ -469,7 +470,7 @@ Journey Optimizer B2B Edition 向けに新しく公開されたビデオ、チ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年2月 | [Account Qualification Agentの使用 ](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/account-qualification-agent){target="_blank"} | ビデオ | Journey Optimizer B2B editionのAccount Qualification Agentの使用方法について説明します。 |
+| 2026年2月 | [Account Qualification Agentの使用 &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/account-qualification-agent){target="_blank"} | ビデオ | Journey Optimizer B2B editionのAccount Qualification Agentの使用方法について説明します。 |
 
 ## [!DNL Adobe Marketo Engage] {#marketo}
 
@@ -501,7 +502,7 @@ New tutorials published for Adobe Marketo.
 
 | 公開日 | 名前 | タイプ | 説明 |
 | -----------| ---------- | ---------- | ---------- |
-| 2026年2月 | [ 標準分析レポートの永続的なレポート購読について ](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29909){target="_blank"} | 新しい記事 | レポートがカスタムレポートやスタンドアロンレポートでない場合でも、Marketo Engageが標準のワークスペースレベルの分析レポートに対してスケジュール済みサブスクリプションメールを引き続き送信する場合の問題の解決策について説明します。 |
+| 2026年2月 | [&#x200B; 標準分析レポートの永続的なレポート購読について &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29909){target="_blank"} | 新しい記事 | レポートがカスタムレポートやスタンドアロンレポートでない場合でも、Marketo Engageが標準のワークスペースレベルの分析レポートに対してスケジュール済みサブスクリプションメールを引き続き送信する場合の問題の解決策について説明します。 |
 
 ## [!DNL Adobe Workfront] {#workfront}
 
@@ -523,7 +524,7 @@ Experience League の新しい [!DNL Workfront] チュートリアルとイベ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026 年 3 月 | [ ブループリントのインストールと使用 ](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/install-and-use-a-blueprint){target="_blank"} | ビデオ | 管理者がブループリントをインストールする方法と、ユーザーが使用するブループリントを配置する方法について説明します。 この例では、「新規ユーザー向けWorkfront トレーニング」ブループリントをインストールし、作成したテンプレートとビューをトレーニングチェックリストとして使用して、Workfrontでユーザーを有効にします。 |
+| 2026 年 3 月 | [&#x200B; ブループリントのインストールと使用 &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/install-and-use-a-blueprint){target="_blank"} | ビデオ | 管理者がブループリントをインストールする方法と、ユーザーが使用するブループリントを配置する方法について説明します。 この例では、「新規ユーザー向けWorkfront トレーニング」ブループリントをインストールし、作成したテンプレートとビューをトレーニングチェックリストとして使用して、Workfrontでユーザーを有効にします。 |
 | 2026 年 3 月 | [最初のシナリオデザインのチュートリアル](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough){target="_blank"} | ビデオ | Workfrontで、プロジェクトリストの CSV ファイルの各レコードに対して新しいプロジェクトを作成します。 |
 
 <!--
@@ -555,7 +556,7 @@ GenStudio for Performance Marketing のビデオチュートリアル。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026 年 3 月 | [GenStudio for Performance Marketing用 Figma プラグイン ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/integrations/figma-plugin){target="_blank"} | ビデオ | GenStudio for Performance Marketingの Figma プラグインを設定および使用する方法について説明します。 |
+| 2026 年 3 月 | [GenStudio for Performance Marketing用 Figma プラグイン &#x200B;](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/integrations/figma-plugin){target="_blank"} | ビデオ | GenStudio for Performance Marketingの Figma プラグインを設定および使用する方法について説明します。 |
 
 **GenStudio for Performance Marketing のリソース**
 
@@ -567,7 +568,7 @@ GenStudio for Performance Marketing のビデオチュートリアル。
 
 [!DNL Adobe Pass] は、放送局、ケーブルネットワークおよびサービスプロバイダーに適した、マルチスクリーン TV プラットフォームです。ユーザーの心をつかむパーソナライズ可能な視聴体験を作成し、収益化できます。
 
-* [Adobe Passのドキュメント ](https://experienceleague.adobe.com/ja/docs/pass){target="_blank"} リリース固有の情報、必要システム構成、制限事項、修正された問題、既知の問題について説明しています。
+* [Adobe Passのドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/pass){target="_blank"} リリース固有の情報、必要システム構成、制限事項、修正された問題、既知の問題について説明しています。
 
 ## [!DNL Adobe Document Cloud] {#doc-cloud}
 
@@ -575,7 +576,7 @@ GenStudio for Performance Marketing のビデオチュートリアル。
 
 | 公開日 | アプリケーション | 名前 | タイプ | 説明 |
 | ----------- | ---------- | ---------- | ---------- | ---------- |
-| 2026年2月 | Acrobat | [Acrobat Sign 101 – はじめに ](https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/getstartedusers/getting-started){target="_blank"} | ビデオ | ドキュメントの署名を迅速に開始するためのAcrobat Signの基本について説明します。 電子サイン用のドキュメントを準備して送信する署名者に表示される内容を確認する契約書の進行状況を管理および追跡する独自の署名を作成する方法などを説明します。 |
+| 2026年2月 | Acrobat | [Acrobat Sign 101 – はじめに &#x200B;](https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/getstartedusers/getting-started){target="_blank"} | ビデオ | ドキュメントの署名を迅速に開始するためのAcrobat Signの基本について説明します。 電子サイン用のドキュメントを準備して送信する署名者に表示される内容を確認する契約書の進行状況を管理および追跡する独自の署名を作成する方法などを説明します。 |
 | 2026年2月 | Acrobat | [委任者の役割の使用](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/delegate-signature.html?lang=en) | ビデオ | 委任者の役割を使用して、ドキュメントを仲介者に送信し、その中でドキュメントを署名用にルーティングする方法を説明します。 |
 
 [!DNL Document Cloud] のチュートリアルについては、以下を参照してください。
@@ -604,4 +605,4 @@ Firefly を含む [!DNL Adobe Creative Cloud for enterprise] のアプリケー�
 
 ## Customer Experience Orchestration ブループリント {#blueprints}
 
-[ カスタマーエクスペリエンスオーケストレーションブループリント ](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/overview){target="_blank"} は、戦略への取り組みと定着したビジネス上の問題の迅速な解決を可能にする反復可能な実装です。 各ブループリントは、価値の高いビジネス上の問題、アーキテクチャ、実装手順、技術的な考慮事項、および関連ドキュメントへのリンクを説明する一連のアーティファクトを提供します。
+[&#x200B; カスタマーエクスペリエンスオーケストレーションブループリント &#x200B;](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/overview){target="_blank"} は、戦略への取り組みと定着したビジネス上の問題の迅速な解決を可能にする反復可能な実装です。 各ブループリントは、価値の高いビジネス上の問題、アーキテクチャ、実装手順、技術的な考慮事項、および関連ドキュメントへのリンクを説明する一連のアーティファクトを提供します。
