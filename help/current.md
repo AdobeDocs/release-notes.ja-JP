@@ -8,10 +8,10 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 8bcfd73109a76f83b9bdb8afed13693561eb0e5e
+source-git-commit: 47738804b28c044373041282fa74527bf2f29128
 workflow-type: tm+mt
-source-wordcount: 6788
-ht-degree: 83%
+source-wordcount: 6824
+ht-degree: 81%
 
 ---
 
@@ -26,14 +26,14 @@ ht-degree: 83%
 * アプリケーションごとに新しいビデオチュートリアルを表示する
 * 最新のサポート記事を参照する
 
-最新の更新：**2026年4月6日**
+最新の更新：**2026年4月15日**
 
 このページ：
 
 * [&#x200B; ウェビナーと学習イベント &#x200B;](#events)
+* [Experience Cloud の AI](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] 管理](#ecloud)
-* [Experience Cloud の AI](#ai)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -100,6 +100,7 @@ Experience CloudのAI向けに公開された、新しい学習リソースと�
 
 | 製品 | リソース | 説明 | 更新済み |
 | ------- | ------- | ------- | ------- |
+| [!DNL Experience Cloud] | [AI ハブ &#x200B;](https://experienceleague.adobe.com/ja/ai-training){target="_blank"} | Experience LeagueのAI ハブは、マーケターが日々のマーケティング業務で役立つAI スキルを身につけられるように支援します。 同じ課題に取り組んでいる仲間から学び、実際に何が機能しているのかを発見します。 | **2026年4月15日** |
 | [!DNL Experience Cloud] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/ja/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Adobe Marketing Agent for Microsoft 365 CopilotがExperience PlatformをMicrosoft 365 Copilotに直接接続する方法について説明します。 | 2026年4月6日（PT） |
 | [!DNL AEM CS] | [Cloud Manager MCP Server](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Cloud Manager MCP サーバーを使用して、AI ツールがAEM as a Cloud Serviceと連携して、プログラム、環境、リポジトリ、パイプラインを管理する方法について説明します。 | 2026年4月6日（PT） |
 | [!DNL Acrobat Services] | [Acrobat アナライザー &#x200B;](https://experienceleague.adobe.com/ja/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Adobe Acrobat Analyzer ウェビナーを参照して、ジェネレーティブ AI がドキュメントから構造化された監査可能なインサイトを抽出し、ワークフローを自動化、リスクを軽減、大規模な企業の意思決定を迅速化する方法を確認してください。 | 2026年3月10日（PT） |
@@ -243,7 +244,7 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 ### [!DNL Advertising Search, Social, & Commerce] の新機能 {#advertising-search}
 
-2026 年 2 月 25 日（Pt）
+2026年2月25日（PT）
 
 * [の新機能  [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/ja/docs/advertising/search-social-commerce/home){target="_blank"}
 
@@ -320,8 +321,8 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 [!DNL Adobe Commerce] のリリースノート、新しいチュートリアルおよびナレッジベースサポート記事にアクセスできます。
 
-* [&#x200B; [!DNL Adobe Commerce] and [!DNL Magento Open Source] のリリースノート](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/overview){target="_blank"}
-* [Adobe [!DNL Commerce]  サービスガイド](https://experienceleague.adobe.com/ja/docs/commerce/user-guides/home){target="_blank"}
+* [&#x200B; [!DNL Adobe Commerce] および [!DNL Magento Open Source]のリリースノート](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/overview){target="_blank"}
+* [Adobe [!DNL Commerce] Services Guides](https://experienceleague.adobe.com/ja/docs/commerce/user-guides/home){target="_blank"}
 * [製品の可用性](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/product-availability){target="_blank"}
 
 ### [!DNL Adobe Commerce] の新しいチュートリアル {#tutorials-commerce}
@@ -375,7 +376,7 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 
 ### 最新の Campaign 製品リリース
 
-* [Web ユーザーインターフェイス - 2026 年 3 月 &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/campaign-web-home){target="_blank"}
+* [Web ユーザーインターフェイス - 2026年3月](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/campaign-web-home){target="_blank"}
 
 * [[!DNL Campaign] v8: 8.9.2 - 2026 年 3 月 11 日 &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/campaign-home){target="_blank"}
 
@@ -508,7 +509,7 @@ New tutorials published for Adobe Marketo.
 
 すべてのリリース情報について：
 
-* [Adobe [!DNL Workfront]  製品リリース](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
+* [Adobe [!DNL Workfront] 製品リリース](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
 
 * [Adobe [!DNL Workfront] Fusion リリースアクティビティの概要](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}
 
@@ -562,7 +563,7 @@ GenStudio for Performance Marketing のビデオチュートリアル。
 
 [!DNL Adobe Pass] は、放送局、ケーブルネットワークおよびサービスプロバイダーに適した、マルチスクリーン TV プラットフォームです。ユーザーの心をつかむパーソナライズ可能な視聴体験を作成し、収益化できます。
 
-* [Adobe Passのドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/pass){target="_blank"} リリース固有の情報、必要システム構成、制限事項、修正された問題、既知の問題について説明しています。
+* [Adobe Pass ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/pass){target="_blank"}を参照して、リリース固有の情報、システム要件、制限事項、修正された問題、既知の問題を確認してください。
 
 ## [!DNL Adobe Document Cloud] {#doc-cloud}
 
