@@ -8,10 +8,10 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 47738804b28c044373041282fa74527bf2f29128
+source-git-commit: 691631533bbce1eee3f829d039a3251aec347d4b
 workflow-type: tm+mt
-source-wordcount: 6824
-ht-degree: 81%
+source-wordcount: 6867
+ht-degree: 80%
 
 ---
 
@@ -31,9 +31,9 @@ ht-degree: 81%
 このページ：
 
 * [&#x200B; ウェビナーと学習イベント &#x200B;](#events)
+* [[!DNL Adobe Experience Cloud]中央UIと管理](#ecloud)
 * [Experience Cloud の AI](#ai)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] 管理](#ecloud)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -64,33 +64,11 @@ ht-degree: 81%
 
 [&#x200B; 今後 &#x200B;](https://experienceleague.adobe.com/ja/events){target="_blank"} および [&#x200B; オンデマンド &#x200B;](https://experienceleague.adobe.com/ja/docs/events/experience-league-recorded-events/overview){target="_blank"} イベントの完全なスケジュールを表示します。
 
-## [!DNL Adobe System Status] {#status}
+## [!DNL Adobe Experience Cloud]中央UIと管理 {#ecloud}
 
-[!DNL Adobe System Status] では、アドビ製品およびサービスに関する詳細情報、ステータス更新およびメール通知を提供します。 停止、中断およびメンテナンスイベントに関する通知を受け取れます。 [status.adobe.com/ja](https://status.adobe.com/ja){target="_blank"} でご確認ください。
-
-* AI バーチャルアシスタント（ベータ版）
-* バグ修正と改善
-
-| 機能 | 説明 |
-| ------- | ------- |
-| **AI バーチャルアシスタント ベータ版** | <ul><li>バーチャルアシスタントは、webやモバイルのステータスに関わるお客様が、すばやくアクションを実行してフィードバックを提供するのに役立つ機能です。 あらゆる問い合わせを解決するための窓口として機能します。</li><li>バーチャルアシスタントにAI機能を追加し、イベントやサブスクリプション情報へのより迅速な会話型アクセスを可能にしています。</li><li>お客様のベータ版は実施中です。 参加をご希望の方は、[statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com)までメールをお送りください。</li></ul> |
-| **バグ修正と改善** | <ul><li>イベント APIの履歴レベルで日付を有効にします。</li><li>アクセシビリティのバグ修正。</li><li>Marketo サブスクリプション – 環境がデータセンターにロールアップされず、通知が見逃されていました。</li><li>ヘッダーとフッターはステータスページでローカライズされていませんでした。</li><li>予定されたメンテナンスは、最も早いメンテナンスを示していませんでした。</li><li>Status APIは、却下されたイベントを含むStatus Webと同じ情報を返しませんでした。</li><li>実際の終了日以降にメンテナンスが終了した場合、ステータス UIに正しく表示されませんでした。</li></ul> |
-
-
-リリースノート履歴：
-
-* [2025 年 12 月 &#x200B;](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"}
-* [2025年8月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2025/08132025#status){target="_blank"}
-* [2025年4月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2025/04162025#status){target="_blank"}
-* [2024年8月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2024/09122024#status){target="_blank"}
-* [2024年5月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2024/05152024#status){target="_blank"}
-* [2024年1月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2024/02142024#status){target="_blank"}
-* [2023年10月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2023/10042023#status){target="_blank"}
-* [2023年8月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2023/08092023#status){target="_blank"}
-* [2023年3月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2023/03082023#status){target="_blank"}
-* [2023年1月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2023/02082023#status){target="_blank"}
-
-## [!DNL Adobe Experience Cloud] 管理 {#ecloud}
+| 機能 | リリース日 | 説明 |
+| ------- | ------- | ------- |
+| 更新されたホームページ | 2026年4月20日（PT） | `https://experience.adobe.com/home`のホームページの新しいルックアンドフィール。 このリリースでは、すべての機能が同じままになり、更新されたUIで、完全な&#x200B;_ダークモード_&#x200B;のサポートとアクセシビリティの向上が行われました。 |
 
 ドキュメントについては、[Experience Cloud インターフェイスおよび管理 &#x200B;](https://experienceleague.adobe.com/ja/docs/core-services/interface/experience-cloud){target="_blank"} を参照してください。
 
@@ -107,6 +85,30 @@ Experience CloudのAI向けに公開された、新しい学習リソースと�
 | [!DNL Experience Cloud] | [&#x200B; マーケティング効率の向上とビジネス成果の向上を実現するAdobe Experience Platform エージェント &#x200B;](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | Adobe Experience Cloudのシニアバイスプレジデントである Anjul Bhambhri 氏とのインサイトに満ちた Q&amp;A セッションを実施します。 Adobeのジャーニーと大胆なビジョンにより、マーケティング担当者やクリエイティブ担当者が、制御や監督を妥協することなく、複雑な手順を自動化し、意思決定を迅速化し、チームの能力を拡大できる、革新的な Agentic AI 機能を提供します。 | 2026年3月3日（PT） |
 | [!DNL Experience Cloud] | [&#x200B; エージェントジョブと AI クレジットの消費 &#x200B;](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Experience Cloud アプリケーションでのエージェントジョブと AI クレジット消費率について説明します。 | 2026年3月3日（PT） |
 
+## [!DNL Adobe System Status] {#status}
+
+[!DNL Adobe System Status] では、アドビ製品およびサービスに関する詳細情報、ステータス更新およびメール通知を提供します。 停止、中断およびメンテナンスイベントに関する通知を受け取れます。 [status.adobe.com/ja](https://status.adobe.com/ja){target="_blank"} でご確認ください。
+
+* AI バーチャルアシスタント（ベータ版）
+* バグ修正と改善
+
+| 機能 | 説明 |
+| ------- | ------- |
+| **AI バーチャルアシスタント ベータ版** | <ul><li>バーチャルアシスタントは、webやモバイルのステータスに関わるお客様が、すばやくアクションを実行してフィードバックを提供するのに役立つ機能です。 あらゆる問い合わせを解決するための窓口として機能します。</li><li>バーチャルアシスタントにAI機能を追加し、イベントやサブスクリプション情報へのより迅速な会話型アクセスを可能にしています。</li><li>お客様のベータ版は実施中です。 参加をご希望の方は、[statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com)までメールをお送りください。</li></ul> |
+| **バグ修正と改善** | <ul><li>イベント APIの履歴レベルで日付を有効にします。</li><li>アクセシビリティのバグ修正。</li><li>Marketo サブスクリプション – 環境がデータセンターにロールアップされず、通知が見逃されていました。</li><li>ヘッダーとフッターはステータスページでローカライズされていませんでした。</li><li>予定されたメンテナンスは、最も早いメンテナンスを示していませんでした。</li><li>Status APIは、却下されたイベントを含むStatus Webと同じ情報を返しませんでした。</li><li>実際の終了日以降にメンテナンスが終了した場合、ステータス UIに正しく表示されませんでした。</li></ul> |
+
+リリースノート履歴：
+
+* [2025 年 12 月 &#x200B;](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"}
+* [2025年8月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2025/08132025#status){target="_blank"}
+* [2025年4月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2025/04162025#status){target="_blank"}
+* [2024年8月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2024/09122024#status){target="_blank"}
+* [2024年5月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2024/05152024#status){target="_blank"}
+* [2024年1月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2024/02142024#status){target="_blank"}
+* [2023年10月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2023/10042023#status){target="_blank"}
+* [2023年8月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2023/08092023#status){target="_blank"}
+* [2023年3月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2023/03082023#status){target="_blank"}
+* [2023年1月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2023/02082023#status){target="_blank"}
 
 ## [!DNL Adobe Brand Concierge] {#brand-concierge}
 
