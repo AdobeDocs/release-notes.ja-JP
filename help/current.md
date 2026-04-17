@@ -11,11 +11,11 @@ product_v2:
 source-git-commit: 691631533bbce1eee3f829d039a3251aec347d4b
 workflow-type: tm+mt
 source-wordcount: 6867
-ht-degree: 80%
+ht-degree: 98%
 
 ---
 
-# Experience Cloud central リリースノート - 2026年4月
+# Experience Cloud の主要なリリースノート - 2026年4月
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -74,13 +74,13 @@ ht-degree: 80%
 
 ## Experience Cloud の AI {#ai}
 
-Experience CloudのAI向けに公開された、新しい学習リソースと最近の学習リソースを検索できます。
+Experience Cloud で公開された、AI に関する最新の学習リソースを検索します。
 
 | 製品 | リソース | 説明 | 更新済み |
 | ------- | ------- | ------- | ------- |
 | [!DNL Experience Cloud] | [AI ハブ &#x200B;](https://experienceleague.adobe.com/ja/ai-training){target="_blank"} | Experience LeagueのAI ハブは、マーケターが日々のマーケティング業務で役立つAI スキルを身につけられるように支援します。 同じ課題に取り組んでいる仲間から学び、実際に何が機能しているのかを発見します。 | **2026年4月15日** |
-| [!DNL Experience Cloud] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/ja/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Adobe Marketing Agent for Microsoft 365 CopilotがExperience PlatformをMicrosoft 365 Copilotに直接接続する方法について説明します。 | 2026年4月6日（PT） |
-| [!DNL AEM CS] | [Cloud Manager MCP Server](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Cloud Manager MCP サーバーを使用して、AI ツールがAEM as a Cloud Serviceと連携して、プログラム、環境、リポジトリ、パイプラインを管理する方法について説明します。 | 2026年4月6日（PT） |
+| [!DNL Experience Cloud] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/ja/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Adobe Marketing Agent for Microsoft 365 Copilot が Experience Platform を Microsoft 365 Copilot に直接接続する方法について説明します。 | 2026年4月6日（PT） |
+| [!DNL AEM CS] | [Cloud Manager MCP サーバー](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Cloud Manager MCP サーバーを使用して、AI ツールが AEM as a Cloud Service と連携して、プログラム、環境、リポジトリ、パイプラインを管理する方法について説明します。 | 2026年4月6日（PT） |
 | [!DNL Acrobat Services] | [Acrobat アナライザー &#x200B;](https://experienceleague.adobe.com/ja/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Adobe Acrobat Analyzer ウェビナーを参照して、ジェネレーティブ AI がドキュメントから構造化された監査可能なインサイトを抽出し、ワークフローを自動化、リスクを軽減、大規模な企業の意思決定を迅速化する方法を確認してください。 | 2026年3月10日（PT） |
 | [!DNL Experience Cloud] | [&#x200B; マーケティング効率の向上とビジネス成果の向上を実現するAdobe Experience Platform エージェント &#x200B;](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | Adobe Experience Cloudのシニアバイスプレジデントである Anjul Bhambhri 氏とのインサイトに満ちた Q&amp;A セッションを実施します。 Adobeのジャーニーと大胆なビジョンにより、マーケティング担当者やクリエイティブ担当者が、制御や監督を妥協することなく、複雑な手順を自動化し、意思決定を迅速化し、チームの能力を拡大できる、革新的な Agentic AI 機能を提供します。 | 2026年3月3日（PT） |
 | [!DNL Experience Cloud] | [&#x200B; エージェントジョブと AI クレジットの消費 &#x200B;](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Experience Cloud アプリケーションでのエージェントジョブと AI クレジット消費率について説明します。 | 2026年3月3日（PT） |
@@ -89,13 +89,13 @@ Experience CloudのAI向けに公開された、新しい学習リソースと�
 
 [!DNL Adobe System Status] では、アドビ製品およびサービスに関する詳細情報、ステータス更新およびメール通知を提供します。 停止、中断およびメンテナンスイベントに関する通知を受け取れます。 [status.adobe.com/ja](https://status.adobe.com/ja){target="_blank"} でご確認ください。
 
-* AI バーチャルアシスタント（ベータ版）
+* AI バーチャルアシスタント（Beta）
 * バグ修正と改善
 
 | 機能 | 説明 |
 | ------- | ------- |
-| **AI バーチャルアシスタント ベータ版** | <ul><li>バーチャルアシスタントは、webやモバイルのステータスに関わるお客様が、すばやくアクションを実行してフィードバックを提供するのに役立つ機能です。 あらゆる問い合わせを解決するための窓口として機能します。</li><li>バーチャルアシスタントにAI機能を追加し、イベントやサブスクリプション情報へのより迅速な会話型アクセスを可能にしています。</li><li>お客様のベータ版は実施中です。 参加をご希望の方は、[statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com)までメールをお送りください。</li></ul> |
-| **バグ修正と改善** | <ul><li>イベント APIの履歴レベルで日付を有効にします。</li><li>アクセシビリティのバグ修正。</li><li>Marketo サブスクリプション – 環境がデータセンターにロールアップされず、通知が見逃されていました。</li><li>ヘッダーとフッターはステータスページでローカライズされていませんでした。</li><li>予定されたメンテナンスは、最も早いメンテナンスを示していませんでした。</li><li>Status APIは、却下されたイベントを含むStatus Webと同じ情報を返しませんでした。</li><li>実際の終了日以降にメンテナンスが終了した場合、ステータス UIに正しく表示されませんでした。</li></ul> |
+| **AI バーチャルアシスタント（Beta）** | <ul><li>バーチャルアシスタントは、web やモバイル上でステータスを使用しているお客様が、クイックアクションを実行し、フィードバックを提供するのに役立つ機能です。 バーチャルアシスタントは、すべてのクエリを一元的に解決する場所として機能します。</li><li>バーチャルアシスタントに AI 機能を追加し、イベント情報や登録情報へのより迅速な対話型アクセスを可能にしています。</li><li>顧客ベータ版を実施中です。 参加をご希望の場合は、[statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com) までメールを送信してください。</li></ul> |
+| **バグ修正と改善** | <ul><li>Events API の履歴レベルで日付を有効にします。</li><li>アクセシビリティに関するバグの修正。</li><li>Marketo サブスクリプション - 環境がデータセンターにロールアップされなかったので、通知が届かないという問題が発生していました。</li><li>ステータスページのヘッダーとフッターがローカライズされていませんでした。</li><li>スケジュール済みメンテナンスでは、最も早いメンテナンスが表示されていませんでした。</li><li>Status API は、却下されたイベントに関して、Status web と同じ情報を返していませんでした。</li><li>メンテナンスが実際の終了日以降に終了した場合、ステータス UI に正しく表示されませんでした。</li></ul> |
 
 リリースノート履歴：
 
@@ -122,17 +122,17 @@ Experience CloudのAI向けに公開された、新しい学習リソースと�
 
 最新のリリース情報、新しいドキュメントおよびサポート記事を確認します。
 
-**Experience Platform - 2026年3月24日**
+**Experience Platform - 2026年3月24日（PT）**
 
 * [[!DNL Experience Platform] リリースノート](https://experienceleague.adobe.com/ja/docs/experience-platform/release-notes/latest){target="_blank"}
 
-**モバイル SDK - 2026年4月3日**
+**Mobile SDK - 2026年4月3日（PT）**
 
 * [[!DNL Experience Platform] Mobile SDK リリースノート](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"}
 
 ### 新しい [!DNL Experience Platform] チュートリアル{#tutorials-aep}
 
-Adobe [!DNL Experience Platform]用に公開された最新のチュートリアル。
+Adobe [!DNL Experience Platform] 向けに公開された最新のチュートリアル。
 
 | 公開日 | アプリケーション | 名前 | タイプ | 説明 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
@@ -196,9 +196,9 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 [!DNL Customer Journey Analytics] の最新のリリース情報をご確認ください。 Experience League で新しいチュートリアルを参照してください。
 
-**2026 年 2 月**
+**2026年2月**
 
-* [Customer Journey Analytics（CJA）リリースノート](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"}
+* [Customer Journey Analytics（CJA）リリースノート](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/releases/latest?lang=ja#releases){target="_blank"}
 
 ### 新しい [!DNL Customer Journey Analytics] チュートリアル {#tutorials-cja}
 
@@ -206,10 +206,10 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年4月 | [&#x200B; プレビューを使用してデータとID ステッチ品質を検証](https://experienceleague.adobe.com/ja/docs/customer-journey-analytics-learn/tutorials/visitor-id/validate-identity-stitching-quality){target="_blank"} | ビデオ | Customer Journey Analyticsのデータセットプレビュー機能について説明します。接続を設定する際に、個人IDのカバレッジや永続的IDのカバレッジなど、IDのインスタントステッチ指標を直接提供します。 |
-| 2026年4月 | [Analysis Workspace の概要](https://experienceleague.adobe.com/ja/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/analysis-workspace-overview){target="_blank"} | ビデオ | Adobe Experience Platformのデータの調査や可視化に使用される主要コンポーネント、プロジェクト、ダッシュボードなど、Adobe Customer Journey AnalyticsのAnalysis Workspaceの基本を学びましょう。 |
-| 2026年4月 | [AnalyticsからCJAへ – 新しい用語とそのマッピング方法](https://experienceleague.adobe.com/ja/docs/customer-journey-analytics-learn/tutorials/cja-basics/new-terms-and-concepts-in-cja){target="_blank"} | ビデオ | コア指標、レポートスイート、変数などの使い慣れた概念をCustomer Journey Analyticsにマッピングすることで、既存のAdobe Analyticsの知識をCJAに変換する方法を説明します。 |
-| 2026年4月 | [Customer Journey Analyticsの概要](https://experienceleague.adobe.com/ja/docs/customer-journey-analytics-learn/tutorials/cja-basics/understanding-customer-journey-analytics){target="_blank"} | ビデオ | Adobe Adobe Customer Journey Analyticsの詳細。 Adobe Analysis Workspaceなら、Adobe Adobe Experience Platformのクロスチャネルデータを統合し、包括的なカスタマージャーニーを分析できます。その方法をご確認ください。 |
+| 2026年4月 | [プレビューを使用したデータと ID ステッチ品質の検証](https://experienceleague.adobe.com/ja/docs/customer-journey-analytics-learn/tutorials/visitor-id/validate-identity-stitching-quality){target="_blank"} | ビデオ | 接続を設定する際に、ユーザー ID カバレッジや永続 ID カバレッジを含む ID ステッチ指標を即座に提供する Customer Journey Analytics のデータセットプレビュー機能について説明します。 |
+| 2026年4月 | [Analysis Workspace の概要](https://experienceleague.adobe.com/ja/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/analysis-workspace-overview){target="_blank"} | ビデオ | Experience Platform のデータを探索および視覚化するのに使用される主要なコンポーネント、プロジェクト、ダッシュボードを含む、Adobe Customer Journey Analytics の Analysis Workspace の基本について説明します。 |
+| 2026年4月 | [Analytics から CJA へ - 新しい用語とそのマッピング方法](https://experienceleague.adobe.com/ja/docs/customer-journey-analytics-learn/tutorials/cja-basics/new-terms-and-concepts-in-cja){target="_blank"} | ビデオ | コア指標、レポートスイート、変数などの使い慣れた概念を Customer Journey Analytics の同等の概念にマッピングして、Adobe Analytics の既存の知識を CJA に変換する方法について説明します。 |
+| 2026年4月 | [Customer Journey Analytics の概要](https://experienceleague.adobe.com/ja/docs/customer-journey-analytics-learn/tutorials/cja-basics/understanding-customer-journey-analytics){target="_blank"} | ビデオ | Adobe Customer Journey Analytics の概要について説明します。 Adobe Experience Platform のクロスチャネルデータを統合し、Analysis Workspace でカスタマージャーニー全体を分析する方法についても説明します。 |
 
 ### 新しい [!DNL Customer Journey Analytics] でのナレッジベースのサポート{#kb-cja}
 
@@ -232,7 +232,7 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 ## [!DNL Adobe Mix Modeler] {#mix-modeler}
 
-* [2026年3月 – リリースノート](https://experienceleague.adobe.com/ja/docs/mix-modeler/using/releases/latest){target="_blank"}
+* [2026年3月 - リリースノート](https://experienceleague.adobe.com/ja/docs/mix-modeler/using/releases/latest){target="_blank"}
 
 ## [!DNL Adobe Advertising] {#advertising}
 
@@ -248,7 +248,7 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 2026年2月25日（PT）
 
-* [の新機能  [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/ja/docs/advertising/search-social-commerce/home){target="_blank"}
+* [&#x200B; [!DNL Advertising Search, Social, & Commerce] の新機能](https://experienceleague.adobe.com/ja/docs/advertising/search-social-commerce/home){target="_blank"}
 
 ## [!DNL Adobe Experience Manager] {#aem}
 
@@ -258,9 +258,9 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 新規：[AEM のエージェント型 AI](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem){target="_blank"}
 
-現在のリリース：**2026.3.0 - 2026年3月26日**
+現在のリリース：**2026.3.0 - 2026年3月26日（PT）**
 
-次回の機能リリース（2026.3.0）は&#x200B;**2026年4月30日（PT）**&#x200B;に予定されています。
+次回の機能リリース（2026.3.0）は **2026年4月30日（PT）**&#x200B;の予定です。
 
 * [AEM CS のリリースノートホーム](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"}
 * [最新のAEM CS リリースの概要ビデオ](https://experienceleague.adobe.com/ja/docs/events/aemcs-release-update-recordings/overview){target="_blank"}
@@ -281,13 +281,13 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 | 公開日 | アプリケーション | 名前 | 形式 | 説明 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 2026年4月 | [!DNL AEM CS] | [Cloud Manager MCP Server](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | ビデオ | Cloud Manager MCP サーバーを使用して、AI ツールがAEM as a Cloud Serviceと連携して、プログラム、環境、リポジトリ、パイプラインを管理する方法について説明します。 |
-| 2026年4月 | [!DNL AEM CS] | [AEPとAEMの統合用のクラウド設定を作成](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/forms/aep-integration/create-cloud-configuration){target="_blank"} | ビデオ | AEM Formsでクラウド設定を作成し、Developer Consoleの資格情報を使用してExperience Platformと安全に接続する方法について説明します。 |
-| 2026年4月 | [!DNL AEM CS] | [Content MCP Serverを使用したAEM コンテンツ操作の高速化](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/ai/mcp-servers/accelerate-content-operations-with-aem-mcp-server){target="_blank"} | ビデオ | Cursorなどの任意のAI搭載IDEからAEM Content MCP Serverを使用して、AEM コンテンツの運用を効率化および高速化する方法を説明します。 |
-| 2026年4月 | [!DNL AEM CS] | AEMの[MCP サーバー](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/ai/mcp-servers/overview){target="_blank"} | 記事 | AIを搭載したIDEまたはチャットベースのアプリケーションからAEM Model Context Protocol （MCP）サーバーを使用して、AEMのコンテンツ作業を合理化し、迅速化する方法を説明します。 |
-| 2026年4月 | [!DNL AEM Forms] | [AEM FormsとAdobe Experience Platformの統合](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/forms/aep-integration/create-integration-with-aep){target="_blank"} | ビデオ | AEM Formsの送信を通じて、Adobe Experience Platformでプロファイルを作成および管理する方法について説明します。 この統合により、データ管理を合理化し、ユーザーエクスペリエンスを向上できます。 |
-| 2026年4月 | [!DNL AEM CS] | [AEM AI アシスタント](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/ai/ai-assistant/overview){target="_blank"} | ビデオ | AI アシスタントでAEMを簡素化。 AIを活用したサポートにより、生産性を向上させながら、機能、ベストプラクティス、問題を発見できます。 |
-| 2026年4月 | [!DNL AEM CS] | [AI アシスタントは誰ですか？](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/ai/ai-assistant/who-is-ai-assistant-for){target="_blank"} | ビデオ | Adobe Experience ManagerのAI アシスタントが、コンテンツ作成者、技術チーム、管理者の生産性をどのように向上させるのかをご確認ください。 |
+| 2026年4月 | [!DNL AEM CS] | [Cloud Manager MCP サーバー](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | ビデオ | Cloud Manager MCP サーバーを使用して、AI ツールが AEM as a Cloud Service と連携して、プログラム、環境、リポジトリ、パイプラインを管理する方法について説明します。 |
+| 2026年4月 | [!DNL AEM CS] | [AEP と AEM の統合用のクラウド設定の作成](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/forms/aep-integration/create-cloud-configuration){target="_blank"} | ビデオ | AEM Forms でクラウド設定を作成し、Developer Console の資格情報を使用して Experience Platform と安全に接続する方法について説明します。 |
+| 2026年4月 | [!DNL AEM CS] | [コンテンツ MCP サーバーを使用した AEM コンテンツ操作の高速化](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/ai/mcp-servers/accelerate-content-operations-with-aem-mcp-server){target="_blank"} | ビデオ | カーソルなどの推奨 AI を活用した IDE から AEM コンテンツ MCP サーバーを使用して、AEM コンテンツ操作を効率化および高速化する方法について説明します。 |
+| 2026年4月 | [!DNL AEM CS] | [AEMの MCP サーバー](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/ai/mcp-servers/overview){target="_blank"} | 記事 | 推奨 AI を活用した IDE またはチャットベースのアプリケーションから AEM モデルコンテキストプロトコル（MCP）サーバーを使用して、AEM コンテンツ作業を効率化および高速化する方法について説明します。 |
+| 2026年4月 | [!DNL AEM Forms] | [AEM Forms と Adobe Experience Platform の統合](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/forms/aep-integration/create-integration-with-aep){target="_blank"} | ビデオ | Adobe Experience Platform で AEM Forms の送信を通じてプロファイルを作成および管理する方法について説明します。 この統合により、データ管理が効率化され、ユーザーエクスペリエンスが向上します。 |
+| 2026年4月 | [!DNL AEM CS] | [AEM AI アシスタント](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/ai/ai-assistant/overview){target="_blank"} | ビデオ | AI アシスタントで AEM を簡素化します。 AI を活用したサポートにより生産性を向上させながら、機能やベストプラクティスを見つけて、問題を解決します。 |
+| 2026年4月 | [!DNL AEM CS] | [AI アシスタントの対象ユーザー](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/ai/ai-assistant/who-is-ai-assistant-for){target="_blank"} | ビデオ | Adobe Experience Manager で、AI アシスタントがコンテンツ作成者、技術チーム、マネージャーの生産性を向上させる方法について説明します。 |
 
 ### 新しい [!DNL Experience Manager] でのナレッジベースのサポート{#kb-aem}
 
@@ -323,8 +323,8 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 [!DNL Adobe Commerce] のリリースノート、新しいチュートリアルおよびナレッジベースサポート記事にアクセスできます。
 
-* [&#x200B; [!DNL Adobe Commerce] および [!DNL Magento Open Source]のリリースノート](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/overview){target="_blank"}
-* [Adobe [!DNL Commerce] Services Guides](https://experienceleague.adobe.com/ja/docs/commerce/user-guides/home){target="_blank"}
+* [&#x200B; [!DNL Adobe Commerce]  および  [!DNL Magento Open Source] のリリースノート](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/overview){target="_blank"}
+* [Adobe  [!DNL Commerce]  サービスガイド](https://experienceleague.adobe.com/ja/docs/commerce/user-guides/home){target="_blank"}
 * [製品の可用性](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/product-availability){target="_blank"}
 
 ### [!DNL Adobe Commerce] の新しいチュートリアル {#tutorials-commerce}
@@ -333,7 +333,7 @@ Experience League に関する [!DNL Adobe Commerce] の新しいチュートリ
 
 | 公開日 | 名前 | タイプ | 説明 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年4月 | [AI ツールを使用してカスタム配送料を作成](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/extensibility/adobe-developer-app-builder/custom-shipping-rates-ai-tools/introduction-setup) | 複数のビデオ | スターターキットの複製、構造のレビュー、環境の準備など、カスタム配送料を作成するためのAI ツールの設定方法を説明します。 |
+| 2026年4月 | [AI ツールを使用したカスタム発送料金の作成](https://experienceleague.adobe.com/ja/docs/commerce-learn/tutorials/extensibility/adobe-developer-app-builder/custom-shipping-rates-ai-tools/introduction-setup) | 複数のビデオ | スターターキットの複製、構造のレビュー、環境の準備を含む、カスタム発送料金を作成するための AI ツールの設定について説明します。 |
 
 ### 新しい [!DNL Commerce] のナレッジベースへのサポート{#kb-commerce}
 
@@ -360,7 +360,7 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 
 [!DNL Adobe Target] のプレリリースノート、現在のリリースノートおよび新しいチュートリアルにアクセスできます。
 
-リリース：**26.3.7 - 2026年3月26日**
+リリース日：**26.3.7 - 2026年3月26日（PT）**
 
 <!-- 
 ### New [!DNL Target] support knowledge base{#kb-target}
@@ -378,13 +378,13 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 
 ### 最新の Campaign 製品リリース
 
-* [Web ユーザーインターフェイス - 2026年3月](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/campaign-web-home){target="_blank"}
+* [Web ユーザーインターフェイス - 2026年3月](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/campaign-web-home){target="_blank"}
 
 * [[!DNL Campaign] v8: 8.9.2 - 2026 年 3 月 11 日 &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/campaign-home){target="_blank"}
 
-* [[!DNL Campaign Standard]: 26.2](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | [製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/campaign-standard-home){target="_blank"}
+* [[!DNL Campaign Standard]：26.2](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/campaign-standard-home){target="_blank"}
 
-* [[!DNL Campaign Classic] 7.4.3 - 2026年3月16日](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2){target="_blank"} | [製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/campaign-classic-home){target="_blank"}
+* [[!DNL Campaign Classic]  7.4.3 - 2026年3月16日（PT）](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2){target="_blank"} | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/campaign-classic-home){target="_blank"}
 
 <!-- 
 ### New [!DNL Campaign] tutorials {#tutorials-campaign}
@@ -452,7 +452,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 
 [!DNL Journey Optimizer B2B Edition] の最新のリリース情報について説明します。
 
-最新リリース：**2026.3 - 2026年3月27日**
+最新リリース：**2026.3 - 2026年3月27日（PT）**
 
 * [AJO B2B edition リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/release-notes){target="_blank"}
 
@@ -479,7 +479,7 @@ Journey Optimizer B2B Edition 向けに新しく公開されたビデオ、チ�
 
 * [最新のリリースノート](https://experienceleague.adobe.com/ja/docs/marketo/using/release-notes/current){target="_blank"}
 * [!DNL Marketo Engage] [リリーススケジュール](https://experienceleague.adobe.com/ja/docs/marketo/using/release-notes/release-schedule){target="_blank"}
-* Dynamic Chat [&#x200B; リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} （2026年3月）
+* Dynamic Chat [リリースノート](https://experienceleague.adobe.com/ja/docs/marketo/using/release-notes/dynamic-chat){target="_blank"}（2026年3月）
 
 <!-- 
 ### New Marketo tutorials {#tutorials-marketo}
@@ -511,9 +511,9 @@ New tutorials published for Adobe Marketo.
 
 すべてのリリース情報について：
 
-* [Adobe [!DNL Workfront] 製品リリース](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
+* [Adobe  [!DNL Workfront]  製品リリース](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
 
-* [Adobe [!DNL Workfront] Fusion リリースアクティビティの概要](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}
+* [Adobe  [!DNL Workfront]  Fusion リリースアクティビティの概要](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}
 
 ### 新しい Adobe [!DNL Workfront] チュートリアル {#tutorials-workfront}
 
@@ -545,7 +545,7 @@ For the latest product documentation, see the [Adobe [!DNL Workfront] documentat
 
 [!DNL GenStudio for Performance Marketing] の最新リリース情報と新規ドキュメントについて説明します。
 
-* [2026.03 - リリース ノート](https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"}
+* [2026.03 - リリースノート](https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"}
 
 ### GenStudio for Performance Marketing の新しいチュートリアル {#genstudio-tutorials}
 
@@ -565,7 +565,7 @@ GenStudio for Performance Marketing のビデオチュートリアル。
 
 [!DNL Adobe Pass] は、放送局、ケーブルネットワークおよびサービスプロバイダーに適した、マルチスクリーン TV プラットフォームです。ユーザーの心をつかむパーソナライズ可能な視聴体験を作成し、収益化できます。
 
-* [Adobe Pass ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/pass){target="_blank"}を参照して、リリース固有の情報、システム要件、制限事項、修正された問題、既知の問題を確認してください。
+* [Adobe Pass ドキュメント](https://experienceleague.adobe.com/ja/docs/pass){target="_blank"}：リリース固有の情報、システム要件、制限事項、修正された問題および既知の問題について説明します。
 
 ## [!DNL Adobe Document Cloud] {#doc-cloud}
 
@@ -573,10 +573,10 @@ GenStudio for Performance Marketing のビデオチュートリアル。
 
 | 公開日 | アプリケーション | 名前 | タイプ | 説明 |
 | ----------- | ---------- | ---------- | ---------- | ---------- |
-| 2026年4月 | Acrobat | [insightから配信用にエグゼクティブ対応の財務ドキュメントを準備する](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/lob/finance/finance-insights){target="_blank"} | ビデオ | 金融機関がAcrobatを利用して、insightから配信する財務ドキュメントを管理する方法をご確認ください。 このユースケースでは、情報の分析、関係者との共同作業、経営陣向けの財務資料の作成など、エンドツーエンドのワークフローを順を追って説明します。 |
-| 2026年4月 | Acrobat | [insightから影響を受ける：オンボーディングワークフローを効率化](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/lob/hr/hr-insights){target="_blank"} | ビデオ | 人事部門がAcrobat Studioを利用して、従業員のオンボーディングをエンドツーエンドで効率化する方法をご確認ください。 |
-| 2026年4月 | Acrobat | [法的洞察を実用的なガイダンスに転換](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/lob/legal/legal-insights){target="_blank"} | ビデオ | 法務部門がAcrobat Studioを利用して、複雑なドキュメントを分析し、安全に共同作業を行い、インサイトから明確で実用的なガイダンスをより迅速かつ確実に得る方法を解説します。 |
-| 2026年4月 | Acrobat | [顧客インテリジェンスを優れたセールスアセットに転換](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/lob/sales/sales-insights){target="_blank"} | ビデオ | 営業部門が顧客インサイトを収集し、共有されたワークスペースで共同作業を行い、検証済みのインテリジェンスをブランドに即したプレゼンテーションや提案にすばやく活用する方法を解説します。 |
+| 2026年4月 | Acrobat | [インサイトから配信までのエグゼクティブ対応の財務ドキュメントの準備](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/lob/finance/finance-insights){target="_blank"} | ビデオ | 財務チームが Acrobat を使用して、インサイトから配信までの財務ドキュメントを管理する方法について説明します。 このユースケースでは、情報の分析、関係者との共同作業、エグゼクティブ対応の財務資料の作成に関するエンドツーエンドのワークフローを順を追って説明します。 |
+| 2026年4月 | Acrobat | [インサイトから影響へ：オンボーディングワークフローの効率化](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/lob/hr/hr-insights){target="_blank"} | ビデオ | HR チームが Acrobat Studio を使用して、従業員のオンボーディングを開始から終了まで効率化する方法について説明します。 |
+| 2026年4月 | Acrobat | [法的なインサイトの実用的なガイダンスへの変換](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/lob/legal/legal-insights){target="_blank"} | ビデオ | 法務チームが Acrobat Studio を使用して、より迅速に自信を持って、複雑なドキュメントを分析し、安全に共同作業を行い、インサイトを明確で実用的なガイダンスへと変換する方法について説明します。 |
+| 2026年4月 | Acrobat | [顧客インテリジェンスの優れた販売アセットへの変換](https://experienceleague.adobe.com/ja/docs/document-cloud-learn/acrobat-learning/use-cases/lob/sales/sales-insights){target="_blank"} | ビデオ | 販売チームが、より迅速に自信を持って、顧客インサイトを収集し、共有ワークスペースで共同作業を行い、検証済みのインテリジェンスをブランドに即したプレゼンテーションや提案に変換する方法について説明します。 |
 
 [!DNL Document Cloud] のチュートリアルについては、以下を参照してください。
 
