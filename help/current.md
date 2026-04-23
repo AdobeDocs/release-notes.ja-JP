@@ -8,10 +8,10 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 691631533bbce1eee3f829d039a3251aec347d4b
+source-git-commit: 3b12ac9312a38290356a4c80d01e3deaf3fcccf2
 workflow-type: tm+mt
 source-wordcount: 6867
-ht-degree: 98%
+ht-degree: 97%
 
 ---
 
@@ -70,7 +70,7 @@ ht-degree: 98%
 | ------- | ------- | ------- |
 | 更新されたホームページ | 2026年4月20日（PT） | `https://experience.adobe.com/home`のホームページの新しいルックアンドフィール。 このリリースでは、すべての機能が同じままになり、更新されたUIで、完全な&#x200B;_ダークモード_&#x200B;のサポートとアクセシビリティの向上が行われました。 |
 
-ドキュメントについては、[Experience Cloud インターフェイスおよび管理 &#x200B;](https://experienceleague.adobe.com/ja/docs/core-services/interface/experience-cloud){target="_blank"} を参照してください。
+ドキュメントについては、[Experience Cloud インターフェイスと管理](https://experienceleague.adobe.com/ja/docs/core-services/interface/experience-cloud){target="_blank"}を参照してください。
 
 ## Experience Cloud の AI {#ai}
 
@@ -120,7 +120,7 @@ Experience Cloud で公開された、AI に関する最新の学習リソース
 
 ## [!DNL Adobe Experience Platform] {#platform}
 
-最新のリリース情報、新しいドキュメントおよびサポート記事を確認します。
+最新のリリース情報、新しいドキュメント、サポート記事をご覧ください。
 
 **Experience Platform - 2026年3月24日（PT）**
 
@@ -242,7 +242,7 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 2026年3月25日（PT）
 
-* [の新機能  [!DNL Advertising DSP]](https://experienceleague.adobe.com/ja/docs/advertising/dsp/home){target="_blank"}
+* [&#x200B; [!DNL Advertising DSP] の新機能](https://experienceleague.adobe.com/ja/docs/advertising/dsp/home){target="_blank"}
 
 ### [!DNL Advertising Search, Social, & Commerce] の新機能 {#advertising-search}
 
@@ -380,7 +380,7 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 
 * [Web ユーザーインターフェイス - 2026年3月](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/campaign-web-home){target="_blank"}
 
-* [[!DNL Campaign] v8: 8.9.2 - 2026 年 3 月 11 日 &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [&#x200B; 製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/campaign-home){target="_blank"}
+* [[!DNL Campaign] v8: 8.9.2 - 2026年3月11日](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [製品ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/campaign/campaign-v8/campaign-home){target="_blank"}
 
 * [[!DNL Campaign Standard]：26.2](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | [製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-standard/using/campaign-standard-home){target="_blank"}
 
