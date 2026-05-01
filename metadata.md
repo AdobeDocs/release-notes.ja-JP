@@ -8,7 +8,7 @@ feature-set: Experience Cloud
 feature: Release Notes
 product: Experience Cloud
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/release-notes.en
+git-repo: https://github.com/AdobeDocs/release-notes.ja-JP
 index: true
 source-git-commit: d6696605b4b4e357fac81509884625dad2c83fd9
 workflow-type: tm+mt
