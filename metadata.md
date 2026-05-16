@@ -8,7 +8,8 @@ product: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.en
 index: true
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 source-git-commit: c8427fc96f4b23442391cf60b0cec88f1f69e5ee
 workflow-type: tm+mt
 source-wordcount: 175
