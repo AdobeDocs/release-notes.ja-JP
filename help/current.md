@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 877f89e212d5753fe765a5f1bac14bc61891b0bf
+source-git-commit: b142d7e8d2b4b939a706e6065c85a58a9a9e9c1d
 workflow-type: tm+mt
-source-wordcount: '6066'
-ht-degree: 52%
+source-wordcount: '6331'
+ht-degree: 48%
 
 ---
 
@@ -166,9 +166,11 @@ Adobe [!DNL Experience Platform] 向けに公開された最新のチュート�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | --------- | ---- | ---- | ----------- |
-| 2026年4月 | [AEPでのサンドボックスの完全な読み込み後の空のJSON サマリー](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30381) | 新しい記事 | Adobe Experience Platformのフルサンドボックスジョブのインポートサマリーに関連付けられたJSON ファイルに空白ページが表示される場合の問題の解決策について説明します。これは、アーティファクト処理が開始される前にジョブが失敗した場合、アーティファクトレベルの詳細がフルインポートに対して保持されないためです。 |
-| 2026年4月 | AEPの先行取得モードを使用している場合、[Target Web SDK `sendEvent`はRecommendations エンティティ属性を更新しません](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30293) | 新しい記事 | スタンドアロン `alloy("sendEvent", ...)`呼び出しを介して送信されたエンティティ属性が、リクエストが成功し、デバッガーに表示されるにもかかわらず、AEP Web SDKを使用する際に更新されない問題の解決策について説明します。 |
-| 2026年4月 | [AEP クエリサービスでスケジュールされたクエリを複数実行](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30428) | 新しい記事 | クエリが失敗した場合に内部タスクレベルの再試行が行われるため、同じスケジュール済みクエリの複数の実行が1つのスケジュール済み区間内に表示される場合の問題の解決策について説明します。 |
+| 2026年5月 | [標準イベントフィールドグループが欠落しているため、Customer AI モデルの作成に失敗します](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30361) | 新しい記事 | Adobe Experience PlatformでCustomer AI モデルを作成する際にエラーが発生し、すべての入力イベントデータセットにイベント定義がゼロであることを示す問題の解決策について説明します。 |
+| 2026年5月 | Adobe Experience Platformでの[空の宛先API応答](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30528) | 新しい記事 | Adobe Experience Platformで特定のDestination API エンドポイントを使用して宛先のリストを取得する際に発生する問題の解決策について説明します。エンドポイントはカスタム宛先タイプの定義のみを取得し、存在しないため、空のリストを返します。 |
+| 2026年5月 | 受信した[[!UICONTROL &#x200B; プロファイル &#x200B;]件のカウントが、AEP アクティベーション モニタリング &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30532)のオーディエンス サイズと一致しません | 新しい記事 | Adobe Experience Platform アクティベーション モニタリングで受信した[!UICONTROL &#x200B; プロファイル &#x200B;] カウントがオーディエンスサイズまたは宛先の出力よりも高く表示される場合の問題の解決策について説明します。[!UICONTROL &#x200B; プロファイル受信]は、配信されたプロファイルの最終数ではなく、アクティベーションパイプラインで処理された入力を追跡するためです。 |
+| 2026年5月 | [Adobe Journey Optimizer（AJO） – オファーの上限は、ID レベルではなくHubのプロファイル レベルで適用されます](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30469) | 新しい記事 | Adobe Journey Optimizerのオファーのキャッピングが、Hub Decisioningの統合プロファイルレベルで適用されますが、Edge DecisioningのIDごとに適用される場合の問題の解決策について説明します。したがって、フォールバックオファーは、プロファイルの上限に達すると、別のIDを使用した場合でも返されます。 |
+| 2026年5月 | AEP[&#128279;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-32618)への取り込み中に&#x200B;*無効なECID* エラーが発生しました | 新しい記事 | Adobe Experience Platformへの取り込み中に&#x200B;*無効なECID* エラーが発生した場合の問題の解決策について説明します。 |
 
 ### [!DNL Adobe Real-Time CDP] {#rtcdp}
 
@@ -220,14 +222,16 @@ Customer Journey Analyticsの新しいチュートリアルとサポート記事
 | 2026年4月 | [Analytics から CJA へ - 新しい用語とそのマッピング方法](https://experienceleague.adobe.com/ja/docs/customer-journey-analytics-learn/tutorials/cja-basics/new-terms-and-concepts-in-cja){target="_blank"} | ビデオ | コア指標、レポートスイート、変数などの使い慣れた概念を Customer Journey Analytics の同等の概念にマッピングして、Adobe Analytics の既存の知識を CJA に変換する方法について説明します。 |
 | 2026年4月 | [Customer Journey Analytics の概要](https://experienceleague.adobe.com/ja/docs/customer-journey-analytics-learn/tutorials/cja-basics/understanding-customer-journey-analytics){target="_blank"} | ビデオ | Adobe Customer Journey Analytics の概要について説明します。 Adobe Experience Platform のクロスチャネルデータを統合し、Analysis Workspace でカスタマージャーニー全体を分析する方法についても説明します。 |
 
-#### 新しい [!DNL Customer Journey Analytics] でのナレッジベースのサポート{#kb-cja}
+<!--
+#### New [!DNL Customer Journey Analytics] support knowledge base{#kb-cja}
 
-[!DNL Customer Journey Analytics] の新しい記事と既存記事の更新です。
+New articles and updates to existing articles for [!DNL Customer Journey Analytics].
 
-| 公開日 | 名前 | タイプ | 説明 |
+| Published | Name | Type | Description |
 | --------- | ---- | ---- | ----------- |
-| 2026年4月 | CJA セグメント API[&#128279;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30373)を使用してセグメントを作成する際に無効な`dataId` エラーが発生しました | 新しい記事 | Customer Journey Analytics Segments APIを使用してセグメントを作成する際に、リクエストに無効な`dataId`が含まれているか、`dataId`値が正しくないかアクセスできない場合に発生する問題の解決策について説明します。 |
-| 2026年4月 | [CJA **[!UICONTROL Alert Manager]**&#x200B;にすべてのアラートが表示されない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30380) | 新しい記事 | CJA **[!UICONTROL Alert Manager]**&#x200B;でアラートのサブセットのみが表示される場合の問題の解決策について説明します。アラートの表示は、ユーザーが製品管理者であるかどうかに依存します。 |
+| April 2026 | [Invalid `dataId` errors when creating segments using the CJA Segments API](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30373) | New article | Learn about the solutions to the issue when creating a segment using the Customer Journey Analytics Segments API fails when the request includes an invalid `dataId` or the `dataId` value is incorrect or inaccessible. |
+| April 2026 | [CJA **[!UICONTROL Alert Manager]** doesn't show all alerts](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30380) | New article | Learn about the solutions to the issue when only a subset of alerts appears in the CJA **[!UICONTROL Alert Manager]** because alert visibility depends on whether the user is a product admin. |
+-->
 
 ### [!DNL Adobe Experience Manager] {#aem}
 
@@ -255,21 +259,28 @@ Experience Manager as a Cloud Serviceの最新のビデオチュートリアル�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | --------- | -------- | --------- | --------- |
-| 2026年4月 | [大きなCSV ファイルを処理する際のAEM Assetsのパフォーマンスの問題](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30307) | 新しい記事 | 数百万レコードを含む非常に大きなCSV ファイルをAEM Assetsにアップロードすると、処理が遅くなり、データアクセスが遅くなる問題の解決策について説明します。 |
-| 2026年4月 | [AEM 6.5 LTS](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30339)で`jakarta.annotation.PostConstruct`のSling モデルが失敗する | 新しい記事 | AEM 6.5 LTSのSling モデルが`jakarta.annotation.PostConstruct`を使用し、コンストラクション後のロジックが実行されないときに初期化できない場合の問題の解決策について説明します。 |
-| 2026年4月 | [Cloud Manager パイプラインでの製品機能テストの失敗](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30122) | 新しい記事 | 必要な権限が欠落している、または非表示の`.cqactions.html` ノードがアクセス制御に影響を与える場合に、Cloud Manager パイプラインのデプロイ中に製品機能テストが失敗する問題の解決策について説明します。 |
-| 2026年4月 | [MIME タイプ設定](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30270)により、`.CR3` ファイルをAEM Assetsにアップロードできませんでした | 新しい記事 | [!DNL Canon RAW] （`.CR3`）ファイルをAdobe Experience Manager Assetsにアップロードする際にエラーが発生する問題の解決策について説明します。アップロードクライアントは、ブラウザーが送信する内容に基づいて大文字と小文字を区別するMIME タイプチェックを実行し、バックエンドには正しくフォーマットされたグローバル MIME マッピングが必要です。 |
-| 2026年4月 | [Assetsのライブコピーを作成&#x200B;]&#x200B;**する**&#x200B;[[!UICONTROL &#x200B; ジョブの長い待ち時間とエラーを解決]](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30207) | 新しい記事 | Adobe Experience Manager as a Cloud Serviceのコンテンツフラグメントに対する&#x200B;**[!UICONTROL Create Live Copy for Assets]**&#x200B;操作が、想定よりも長くキューに入れたままになったり、宛先フラグメントが既に存在することを示すエラーが発生したりした場合の問題の解決策について説明します。 |
-| 2026年4月 | [AEM コンテンツフラグメントエディターでのパブリッシュ権限の違い](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30216) | 新しい記事 | `crx:replicate`権限を削除すると、ページのクイック公開は削除されますが、新しいコンテンツフラグメントエディターにはコンテンツフラグメントの公開アクションが表示される問題の解決策について説明します。 |
-| 2026年4月 | サポートされていないエンコーディングプロファイルが原因で[DAMのビデオがiOS デバイスで再生されない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30313) | 新しい記事 | DAMに保存されたビデオが、iOSでサポートされていない[!DNL H.264] プロファイルレベルを使用してエンコードされているため、iOS デバイスでビデオの読み込みや再生に失敗する場合の問題の解決策について説明します。 |
-| 2026年4月 | AEM オーサー[&#128279;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30262)でレプリケーションキューが増大すると、**[!UICONTROL &#x200B; クラシック UI Siteadmin &#x200B;]**&#x200B;の動作が遅くなる | 新しい記事 | パブリッシュインスタンスに到達できず、そのレプリケーションキューがオーサーインスタンスで大きくなると、**[!UICONTROL Classic UI Siteadmin]**&#x200B;の動作が遅くなる問題の解決策について説明します。 |
-| 2026年4月 | [Adobe Experience Manager：資格情報ストアが設定されていない場合、Configuration ManagerはAEM Forms 6.5 LTSで停止します](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30419) | 新しい記事 | AEM Forms 6.5 LTS Configuration Managerをインストールする際に発生する問題の解決策について、**[!UICONTROL AEM Forms EAR ファイルのデプロイ]**&#x200B;画面で停止し、*[!DNL JBOSS]がオンラインに達しなかったというエラーが表示されます。* |
-| 2026年4月 | [Adobe Experience Manager as a Cloud Serviceで大きなCRX パッケージのダウンロードがタイムアウトする](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30325) | 新しい記事 | **[!UICONTROL Package Manager]**&#x200B;を使用して大規模なCRX パッケージをダウンロードする際に発生する問題の解決策について説明します。この問題は、プラットフォームとCDNによって課せられたHTTP タイムアウトが増加しない場合に発生します。 |
-| 2026年4月 | [*501 Not Implemented error* with `projectedFields` in Dynamic Media [!DNL OpenAPI] search](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30304) | 新しい記事 | リクエスト本文で`projectedFields`または`facets`を使用してDynamic Media [!DNL OpenAPI]配信階層検索APIを使用すると、これらの機能のサーバーサイドのサポートが利用できないため、*501未実装エラー*&#x200B;が返される問題の解決策について説明します。 |
-| 2026年4月 | [Cloud ManagerのAEM リリースの有効期限が切れているため、パイプラインの検証に失敗します](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30301) | 新しい記事 | パイプラインが期限切れのAEM リリースで設定されているため、Adobe Experience Manager as a Cloud Serviceでパイプラインの検証が失敗した場合の問題の解決策について説明します。 |
-| 2026年4月 | AEMaaCS[&#128279;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30333)のバックエンドリクエストに マーケティングクエリパラメーターがありません | 新しい記事 | リクエストがDispatcherまたはAEMに到達する前にCDNがこれらのパラメーターを削除するため、`utm_*`、`cid`、`bid`などのマーケティングクエリパラメーターがバックエンドサーブレットまたはサービスで使用できない場合の問題の解決策について説明します。 |
-| 2026年4月 | [Adobe RUM スクリプトへの直接アクセスを制限 [!DNL Subresource Integrity] および適用](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30336) | 新しい記事 | Adobe Experience Manager as a Cloud ServiceのAdobe [!DNL Real User Monitoring] （RUM） スクリプトが内部環境の詳細を公開し、外部ドメイン設定を有効にした後でもパブリッシャードメインから直接アクセスできる場合の問題の解決策について説明します。 |
-| 2026年4月 | [**[!UICONTROL 公開済みとして表示&#x200B;]**&#x200B;すると、AEM](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30269)で未公開ページに対して404が返されます | 新しい記事 | 現在公開されていないページに&#x200B;**[!UICONTROL 公開済みとして表示]**&#x200B;機能を使用すると、ページに過去に`offTime`が設定されていた場合に404 エラーが表示される問題の解決策について説明します。 |
+| 2026年5月 | [Dynamic Media：大きなアセットのDPIとピクセルディメンションの保持を使用したCMYKからRGBへの変換に失敗する](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-31715) | 新しい記事 | Adobe Experience Manager Dynamic Mediaの高解像度CMYK ソースアセットからフル解像度のRGB JPEG レンディションを生成する際の問題の解決策について説明します。画像サーバーがハードメガピクセルの制限を適用するため、エラーが発生するか、サイレントダウンスケールが発生します。 |
+| 2026年5月 | [AEM: Adobe サーバーの停止中の実稼動公開インスタンスのダウンタイム &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-31891) | 新しい記事 | Adobe Experience Manager Production パブリッシュインスタンスのダウンタイムがAdobe サーバーの停止中に発生し、公開されたコンテンツに一時的にアクセスできなくなる問題の解決策と、公式なインシデント更新を見つける場所について説明します。 |
+| 2026年5月 | [AEM ページで新しく参照されたPDFの翻訳を有効にする](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30185) | 新しい記事 | Adobe Experience Managerでページに追加されたPDFが、言語コピーが既にDigital Asset Managementに存在する場合にのみ翻訳される問題の解決策について説明します。 |
+| 2026年5月 | [AEM assetsの`cq:LiveRelationship` Mixinについて](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30504) | 新しい記事 | AEMがMSM リレーションシップのプロパティをリポジトリレベルで設定するため、ライブコピーオプションが非表示の場合でも、Adobe Experience Managerのアセットが`jcr:mixinTypes`で`cq:LiveRelationship`を表示する場合の問題の解決策について説明します。 |
+| 2026年5月 | [AEM実稼働環境の特定のユーザーに対するログイン失敗](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30530) | 新しい記事 | 正しい製品プロファイルが割り当てられているにもかかわらず、Adobe Experience Manager as a Cloud Service実稼動環境で特定のユーザーのログインが失敗する場合の問題の解決策について説明します。 |
+| 2026年5月 | [&#x200B; マルチフィールドコンテナは、ユニバーサルエディターで空のHTMLまたは重複ブロックを生成します](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30402) | 新しい記事 | Edge Delivery用ユニバーサルエディターのマルチフィールドコンテナが、複数の値を持つコンテナフィールドで設定されている場合に、空のHTML要素をレンダリングしたり、ブロックマークアップを複製したりする場合の問題の解決策について説明します。 |
+| 2026年5月 | [AEM as a Cloud Serviceで専用エグレス IPを探す](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30534) | 新しい記事 | Adobe Experience Manager as a Cloud Serviceで専用エグレス IPが有効のままであるが、インターフェイスに割り当てられたIP アドレスが表示されない場合の問題の解決策について説明します。 |
+| 2026年5月 | [ エクスペリエンスフラグメントのライブコピーには、**[[!UICONTROL AEM]](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30482)でロールアウト設定]**&#x200B;を選択する必要があります | 新しい記事 | Adobe Experience Managerでエクスペリエンスフラグメントのライブコピーのバリエーションを作成する際に発生する問題の解決策について説明します。**[!UICONTROL ロールアウト設定]**&#x200B;を選択してスキップすると、空白の連続性のないバリエーションが生成されます。 |
+| 2026年5月 | [&#x200B; カスタムプログラムレベルの製品プロファイルを使用すると、通知メールが配信されない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30536) | 新しい記事 | プログラムレベルの読み取り権限を持つカスタム製品プロファイルでは、プログラムへのアクセス権によって受信者がフィルタリングされるため、Adobe Experience Manager as a Cloud Serviceの通知メールが意図するすべての受信者に届かない場合の問題の解決策について説明します。 |
+| 2026年5月 | AEM as a Cloud Serviceで作成者にアクセスする際に&#x200B;[*エラー500-001*](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30294) | 新しい記事 | Adobe Experience Manager as a Cloud Serviceでオーサー環境にアクセスする際に発生する問題の解決策について説明します。「*Error 500-001: Failed to load page*」というメッセージが表示されます。これは、[!UICONTROL 統合シェル &#x200B;] トラフィックがエッジ/CDN レイヤーで正しくルーティングされていないためです。 |
+| 2026年5月 | [AEM Edge Delivery サイト &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-31723)の`lang`属性の設定 | 新しい記事 | Adobe Experience Manager ユニバーサルエディターおよびEdge Delivery Services サイトの静的HTML出力に、HTML要素に`lang`属性が含まれていない場合の問題の解決策について説明します。 |
+| 2026年5月 | [AEM 6.5 SP24: オンプレミスのデプロイメントでサポートされている [!DNL Red Hat Enterprise Linux]  （RHEL）バージョン &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-31743) | 新しい記事 | オンプレミス環境のAdobe Experience Manager 6.5 Service Pack 24で正式にサポートされている[!DNL Red Hat Enterprise Linux] バージョンを確認する必要がある場合の問題の解決策について説明します。 |
+| 2026年5月 | [Adobe Experience ManagerでのGraphQL応答構造とマークダウン出力の違い](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30382) | 新しい記事 | Adobe Experience Manager 6.5.23以降または6.5 LTSにアップグレードした後、GraphQLの応答構造とマークダウン出力の形式が異なる場合の問題の解決策について説明します。 |
+| 2026年5月 | [AI アシスタントは、想定されるサイトを一覧表示せず、意図しないコンテンツパスを返します](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30352) | 新しい記事 | Adobe Experience Manager as a Cloud ServiceのAI アシスタントが一時的または意図しないコンテンツルートを一覧表示し、サイトルートページに`cq:conf`参照がないため、プライマリサイトを省略する場合の問題の解決策について説明します。 |
+| 2026年5月 | [書き出されたアセットのメタデータレポートには、AEM Assetsの過度な予測タグ列が含まれています](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30505) | 新しい記事 | Adobe Experience Manager as a Cloud Service Assetsでアセットメタデータを書き出すと、Adobe Senseiで作成された予測タグにより、列の数が多すぎるレポートが生成される問題の解決策について説明します。 |
+| 2026年5月 | [AssetsがAEMaaCS](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30538)のアップロードからターゲットフォルダーに移動しない | 新しい記事 | リポジトリのコミットの競合により、カスタムワークフローでアセットを移動できないため、Adobe Experience Manager as a Cloud Serviceのアップロードフォルダーまたはステージングフォルダーにアセットが残っている場合の問題の解決策について説明します。 |
+| 2026年5月 | [[!DNL ACS AEM Commons] menuと[!UICONTROL CSV エクスポーター]がAEM Assets](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30570)にありません | 新しい記事 | Cloud Service環境でサポートされていない[!DNL ACS AEM Commons] パッケージが原因で[!UICONTROL CSV エクスポーター]がAdobe Experience Manager Assetsの[!UICONTROL &#x200B; ツール &#x200B;] メニューに表示されない場合の問題の解決策について説明します。 |
+| 2026年5月 | [&#x200B; ワークフローの自動パージでAEMaaCS](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30363)の空のフォルダーが残る | 新しい記事 | Adobe Experience Manager as a Cloud Serviceでワークフローの自動削除機能を実行すると、ワークフローインスタンスノードが削除されますが、`/var/workflow/instances`の下に空のコンテナフォルダーが残る場合の問題の解決策について説明します。 |
+| 2026年5月 | **[!UICONTROL コアコンポーネントデータレイヤー]**&#x200B;設定[&#128279;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30388)が正しくないため、 デプロイメントに失敗します | 新しい記事 | **[!UICONTROL コアコンポーネントデータレイヤー]**&#x200B;設定ノードが`cq:Page`として作成され、必須のenabled プロパティをサポートしていないため、[!UICONTROL 可変コンテンツのインストール &#x200B;]手順でAdobe Experience Manager as a Cloud ServiceのCloud Manager デプロイメントが失敗した場合の問題の解決策について説明します。 |
+| 2026年5月 | AEMaaCS[&#128279;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30404)でRDE ページの読み込みが&#x200B;*エラー500-001*&#x200B;で失敗します | 新しい記事 | 必要なバンドルとヘルスチェックが失敗するため、Adobe Experience Manager as a Cloud ServiceのRapid Development Environment （RDE）で&#x200B;*Error 500-001*&#x200B;が発生し、ページ読み込みエラーが発生した場合の問題の解決策について説明します。 |
+| 2026年5月 | AEMaaCS[&#128279;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30445)の一括翻訳ジョブで、カスタム [!UICONTROL PageEvent] ハンドラーが間欠的に失敗しました | 新しい記事 | Adobe Experience Manager as a Cloud Serviceで一括翻訳ジョブが完了した後、翻訳されたページのカスタム後処理が一貫してトリガーしないため、一部のページでエイリアスの更新とプレビューレプリケーションが実行されない問題の解決策について説明します。 |
+| 2026年5月 | Dispatcher リダイレクト [&#128279;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30531)により、 サブドメインの検証に失敗しました | 新しい記事 | Dispatcher設定がすべてのリクエストをリダイレクトし、必要な2xx レスポンスを防ぐため、apex ドメインが正常に検証されても、サブドメインがAdobe Experience Manager as a Cloud Service用Cloud Managerで検証できない場合の問題の解決策について説明します。 |
 
 ### [!DNL Adobe Commerce] {#commerce}
 
@@ -292,22 +303,25 @@ Adobe Commerce の新しい記事と既存記事の更新です。
 
 | 公開日 | 名前 | タイプ | 説明 |
 | --------- | -------- | --------- | --------- |
-| 2026年4月 | [[!DNL Quality Patches Tool] （QPT）](https://experienceleague.adobe.com/ja/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview){target="_blank"} | 新しい記事 | QPT 1.1.77およびQPT 1.1.78で利用可能なパッチを適用する方法に関する新しい記事が公開され、それぞれのセクションに記載されています。 |
-| 2026年4月 | Adobe App Builderの[[!DNL OpenWhisk]  シーケンス HTTP 504および502 エラー](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30286) | 新しい記事 | [!DNL OpenWhisk] シーケンスを使用するアプリケーションで、アクションの実行中にHTTP 504またはHTTP 502 エラーが発生した場合の問題の解決策について説明します。これは、外部APIが[!DNL OpenWhisk] ランタイムタイムアウトウィンドウ内で応答しないか、ランタイム環境がDNS設定の問題によりホスト名を解決できないためです。 |
-| 2026年4月 | [&#x200B; カテゴリーと検索結果にライブ検索商品が見つかりません](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30090) | 新しい記事 | ライブサーチのバージョンが古くなったり、データ空間に一貫性がなくなったりして、ライブサーチでカテゴリーページ、商品URL、または検索結果に商品が表示されない場合の問題の解決策について説明します。 |
-| 2026年4月 | [&#x200B; クラウドインフラストラクチャ上のAdobe Commerceで無視された管理者データに関するデプロイメントの警告。](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30154) | 新しい記事 | 初期インストールのみの管理者設定はインストール後も定義されたままであるため、ログに管理者ユーザーデータが無視されるという警告が表示される場合に、デプロイメントが正常に完了した場合の問題の解決策について説明します。 |
-| 2026年4月 | [&#x200B; メールアラートレポートの書き出しストレージは、Adobe Commerceでほぼ完全です](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30403) | 新しい記事 | 書き出しストレージがほぼ満杯であることを示す電子メールを受信した場合の問題の解決策について説明します。 |
-| 2026年4月 | [新しい制限付き管理者ユーザーは、クラウドインフラストラクチャ上のAdobe Commerceで2要素認証（2FA）の設定を完了できません](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-29954) | 新しい記事 | 制限付き管理者ロールを割り当てられたユーザーに、2要素認証（2FA）のロール権限が欠落しているため、初めてログインする際に問題が発生する場合の解決策について説明します。 |
+| 2026年5月 | [[!DNL Quality Patches Tool] （QPT）](https://experienceleague.adobe.com/ja/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview) | 新しい記事 | QPT 1.1.78およびQPT 1.1.79で利用可能なパッチを適用する方法に関する新しい記事が公開され、それぞれのセクションに記載されています。 |
+| 2026年5月 | [&#x200B; エラー&#x200B;*名が無効です！* Adobe Commerce ログイン中](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30355) | 新しい記事 | *名が無効であることを示すエラーが発生した場合の問題の解決策について説明します。* Adobe Commerce アカウントポータルにログインすると表示され、アカウントアクセスをブロックします。 |
+| 2026年5月 | [Adobe Commerce REST APIを使用すると、設定可能な項目に対する請求書の作成に失敗します](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30437) | 新しい記事 | Adobe Commerce REST APIを使用した請求書の作成が設定可能な製品で失敗し、請求書に項目が表示されない場合の問題の解決策について説明します。 |
+| 2026年5月 | [顧客セグメント製品ビュールールがCommerceの登録ユーザーと一致しません](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30456) | 新しい記事 | [!UICONTROL 製品ビューレポートを有効にする]設定が無効になっているため、[!UICONTROL 製品を使用する顧客セグメントが]条件でAdobe Commerceの登録済み顧客と一致しない場合の問題の解決策について説明します。 |
+| 2026年5月 | [!UICONTROL &#x200B; サイト全体の分析ツール &#x200B;][&#128279;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30471)へのアクセス中に403 エラーが発生しました | 新しい記事 | ブックマークまたはダイレクト URLを使用してAdobe Commerceの[!UICONTROL &#x200B; サイト全体の分析ツール &#x200B;]にアクセスすると、[!UICONTROL 管理者] ナビゲーション外で403 エラーが返される問題の解決策について説明します。 |
+| 2026年5月 | [Adobe Commerce 2.4.8-p5 HIPAA 1.3.0互換パッチ &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30555) | 新しい記事 | HIPAA パッケージ 1.2.0がAdobe Commerce on Cloud Infrastructure 2.4.8-p5と互換性がない場合の問題の解決策について説明します。 |
+| 2026年5月 | [IMS アクセストークンが複数のAdobe Commerce環境で機能しない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30563) | 新しい記事 | [!DNL OAuth] サーバー間資格情報を使用して生成されたIMS アクセストークンが、あるAdobe Commerce環境で動作し、別の環境で&#x200B;*401 Unauthorized* エラーで失敗する場合の問題の解決策について説明します。 |
 
 ### [!DNL Adobe Target] {#target}
 
 [!DNL Adobe Target]の新しいチュートリアルにアクセスします。
 
-#### 新しい [!DNL Target] のナレッジベースへのサポート{#kb-target}
+<!--
+#### New [!DNL Target] support knowledge base{#kb-target}
 
-| 公開日 | 名前 | タイプ | 説明 |
+| Published | Name | Type | Description |
 | --------- | ---- | ---- | ----------- |
-| 2026年4月 | [Adobe Target Edgeの対話呼び出しは、*TGT-12201-403不正なMbox ホスト - localhost* エラー](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30331)で207を返します | 新しい記事 | ホスト認証が有効になっている場合に、Adobe Target Edgeのインタラクション呼び出しで&#x200B;*TGT-12201-403 Unauthorized Mbox host - localhost* エラーが発生してHTTP 207が返される場合の問題の解決策について説明します。 |
+| April 2026 | [Adobe Target Edge interact calls return 207 with *TGT-12201-403 Unauthorized Mbox host - localhost* error](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30331) | New article | Learn about the solutions to the issue when Adobe Target Edge interact calls return HTTP 207 with *TGT-12201-403 Unauthorized Mbox host - localhost* error when Host Authentication is enabled. |
+-->
 
 ### [!DNL Adobe Campaign] {#ac}
 
@@ -330,13 +344,10 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | 公開日 | 名前 | タイプ | 説明 |
 | --------- | ---- | ---- | ----------- |
-| 2026年4月 | [Campaign Classic: ワークフローを書き出すとインスタンスがクラッシュする](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30287) | 新しい記事 | Adobe Campaign Classicでワークフローを書き出すと、パッケージの作成中にインスタンスがクラッシュし、web プロセスが応答しなくなる問題の解決策について説明します。 |
-| 2026年4月 | [Adobe Campaign Managed Cloud v8](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30247)の管理者以外の演算子に対して&#x200B;**[!UICONTROL ホットクリック]** レポートが表示されない | 新しい記事 | レポート関連のアクセス権が欠落しているため、管理者以外のオペレーターが&#x200B;**[!UICONTROL ホットクリック]** レポートにアクセスできない場合の問題の解決策について説明します。 |
-| 2026年4月 | [&#x200B; ワークフロー](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30246)の最初のアクティビティとして&#x200B;**[!UICONTROL Fork]**&#x200B;を使用すると、エラーが発生する | 新しい記事 | ワークフローが&#x200B;**[!UICONTROL Fork]** アクティビティで開始され、**[!UICONTROL Fork]** アクティビティでインバウンド移行が必要なため失敗する場合の問題の解決策について説明します。 |
-| 2026年4月 | 一時テーブルの肥大化が原因で[Campaign ワークフローが停止しました](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30376) | 新しい記事 | ワークフローの一時テーブルがデータベースから削除されず、プラットフォームが全体的に遅くなる問題の解決策について説明します。 |
-| 2026年4月 | [&#x200B; キャンペーン配信テンプレートの表示が&#x200B;**[!UICONTROL operationId]** フィルタリングロジック &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30360)によって制限されています | 新しい記事 | Adobe Campaignの組み込み&#x200B;**[!UICONTROL operationId]** フィルタリングロジックは汎用の配信テンプレートのみを表示するため、キャンペーンワークフローで配信テンプレートを選択する際に配信テンプレートの小さなサブセットのみが表示される場合の問題の解決策について説明します。 |
-| 2026年4月 | [Adobe CampaignでのACSからACCへの移行後、動的コンテンツブロックが解除される](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30364) | 新しい記事 | Campaign Standardでサポートされている特定の種類の動的コンテンツブロックがCampaign Classic v8で機能しない場合の問題の解決策について説明します。 |
-| 2026年4月 | [&#x200B; リソースのダウンロードエラーにより、Adobe Campaign配信の準備に失敗しました](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30365) | 新しい記事 | 画像などの必要なリソースをダウンロードできないため、準備中にメール配信が失敗する問題の解決策について説明します。 |
+| 2026年5月 | Adobe Campaign Standard ワークフローでのファイル読み込み中に[断続的なGPG復号化エラー](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-30440) | 新しい記事 | Adobe Campaign Standard ワークフローでGPG復号化を使用してファイルを読み込む際に断続的にエラーが発生する場合の問題の解決策について説明します。 |
+| 2026年5月 | [Campaign Classic: [!DNL Java] 11 JVM認識](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-31894)により、Web モジュールのアップグレード開始時にエラーが発生しました | 新しい記事 | JRE検出の問題により、オンプレミス Adobe Campaign Classic インスタンスのweb モジュールがアップグレード後に開始できない場合の問題の解決策について説明します。 |
+| 2026年5月 | [&#x200B; キャンペーン：[!UICONTROL &#x200B; データの更新] アクティビティが失敗し、列のアップロード順序が変更されました](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-31906) | 新しい記事 | Adobe Campaign ワークフローの[!UICONTROL &#x200B; データの更新] アクティビティが文字列切り捨てエラーで失敗し、アップロードされた列順序が変更された場合の問題の解決策について説明します。 |
+| 2026年5月 | [Campaign: データフロー実行エラー：Adobe Campaign Managed Cloudの宛先エクスポート &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-31899) | 新しい記事 | Adobe Experience PlatformのAdobe Campaignの宛先に計算フィールドを追加した後、書き出しワークフローが失敗する場合の問題の解決策について説明します。 |
 
 ### [!DNL Adobe Journey Optimizer] {#journey-opt}
 
