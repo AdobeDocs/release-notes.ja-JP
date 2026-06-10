@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: b50bb01766d8cfadeeed250b7fc0d5a6e5b084ed
+source-git-commit: 877f89e212d5753fe765a5f1bac14bc61891b0bf
 workflow-type: tm+mt
-source-wordcount: '6063'
+source-wordcount: '6066'
 ht-degree: 52%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 52%
 * CX Enterpriseの新しい生成AIとAgentic AI機能についてご確認ください
 * アプリケーション固有のリリースノートへのすべてのリンクを検索する
 * Experience League で使用可能な最新の学習機会（Adobe CX Enterprise ヘルプサイト）を検索する
-* 新しいイベントに関する情報を取得する
+* Experience Leagueの新しいイベントに関する情報
 * 最新のサポート記事を参照する
 
 <!--
@@ -28,7 +28,7 @@ ht-degree: 52%
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-最新の更新：**2026年6月9日**
+最新の更新：**2026年6月10日**
 
 ## 最新情報
 
