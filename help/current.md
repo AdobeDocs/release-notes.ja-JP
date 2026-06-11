@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: b142d7e8d2b4b939a706e6065c85a58a9a9e9c1d
+source-git-commit: c2c033d86d985c059d1266f70568087b756605d5
 workflow-type: tm+mt
-source-wordcount: '6331'
+source-wordcount: '6383'
 ht-degree: 48%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 48%
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-最新の更新：**2026年6月10日**
+最新の更新：**2026年6月11日**
 
 ## 最新情報
 
@@ -84,6 +84,7 @@ CX Enterpriseの生成AIとAgentic AI向けに公開された、新しい学習�
 
 | 製品 | リソース | 説明 | 更新済み |
 | ------- | ------- | ------- | ------- |
+| CX Enterprise | [CX Enterprise Agentic AI機能カタログ &#x200B;](https://agentic-capability-explorer.entapp.adproto.com/) | ライセンスを取得済みのCX Enterprise アプリで利用できるエージェント型AI ジョブを確認します。 詳しくは、[Adobe Experience Platformの担当者ジョブとAI クレジットの使用](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/ai-credit-consumption)を参照してください。 | **2026年6月11日** |
 | [!DNL CX Enterprise] | [AI監視ダッシュボード &#x200B;](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/monitoring){target="_blank"} | CX Enterpriseは、既存のアプリケーションにおけるAgentic AIの使用状況を監視するダッシュボードを提供するようになりました。 AI アシスタントなどの会話型サーフェスを通じてアクセスするExperience Platform Agentsの導入を追跡し、会話やフィードバックをレビューし、AI クレジットの利用を管理します。 概要、ユーザー、フィードバック、AI クレジットの各ビューは、ガバナンス関係者がデータを使用して導入を導くのに役立ちます。 | **2026年6月2日** |
 | [!DNL CX Enterprise] - Experience League | [AI ハブ](https://experienceleague.adobe.com/ja/ai-training){target="_blank"} | Experience League の AI ハブは、マーケターが毎日のマーケティング業務に役立つ実用的な AI スキルを習得するのに役立ちます。 同じ課題に取り組んでいる同業者から学び、実際に機能している内容を確認します。 | 2026年4月15日（PT） |
 | [!DNL CX Enterprise] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/ja/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Adobe Marketing Agent for Microsoft 365 Copilot が Experience Platform を Microsoft 365 Copilot に直接接続する方法について説明します。 | 2026年4月6日（PT） |
