@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: ec415d4645d2e8b6e0287b4d95378bfd627f8c29
+source-git-commit: 6a280bdfb3098a23c024e896996a283b6731d0d0
 workflow-type: tm+mt
-source-wordcount: '7220'
+source-wordcount: '7256'
 ht-degree: 30%
 
 ---
@@ -86,7 +86,8 @@ CX Enterpriseの生成AIとAgentic AI向けに公開された、新しい学習�
 
 | 製品 | リソース | 説明 | 更新済み |
 | ------- | ------- | ------- | ------- |
-| CX Enterprise | [CX Enterprise Agentic AI機能カタログ &#x200B;](https://agentic-capability-explorer.entapp.adproto.com/) | ライセンスを取得済みのCX Enterprise アプリで利用できるエージェント型AI ジョブを確認します。 詳しくは、[Adobe Experience Platformの担当者ジョブとAI クレジットの使用](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/ai-credit-consumption)を参照してください。 | **2026年6月11日** |
+| CX Enterprise Coworker （一般提供） | 近日リリース予定 | CX Enterprise Coworkerは、エンドツーエンドの顧客体験ワークフローを自動化するエージェント型AI アプリケーションです。 シグナルを検出し、オーディエンスを構築し、ガバナンスを組み込んだキャンペーンを数時間で開始できます。 | **2026年6月11日** |
+| CX Enterprise | CX エンタープライズエージェンティック AI機能カタログ | ライセンスを取得済みのCX Enterprise アプリで利用できるエージェント型AI ジョブを確認します。 [Adobe Experience Platform エージェントのジョブとAI クレジットの使用](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/ai-credit-consumption)に関するリンクを検索します。 | **2026年6月11日** |
 | [!DNL CX Enterprise] | [AI監視ダッシュボード &#x200B;](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/monitoring){target="_blank"} | CX Enterpriseは、既存のアプリケーションにおけるAgentic AIの使用状況を監視するダッシュボードを提供するようになりました。 AI アシスタントなどの会話型サーフェスを通じてアクセスするExperience Platform Agentsの導入を追跡し、会話やフィードバックをレビューし、AI クレジットの利用を管理します。 概要、ユーザー、フィードバック、AI クレジットの各ビューは、ガバナンス関係者がデータを使用して導入を導くのに役立ちます。 | **2026年6月2日** |
 | [!DNL CX Enterprise] - Experience League | [AI ハブ](https://experienceleague.adobe.com/ja/ai-training){target="_blank"} | Experience League の AI ハブは、マーケターが毎日のマーケティング業務に役立つ実用的な AI スキルを習得するのに役立ちます。 同じ課題に取り組んでいる同業者から学び、実際に機能している内容を確認します。 | 2026年4月15日（PT） |
 | [!DNL CX Enterprise] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/ja/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Adobe Marketing Agent for Microsoft 365 Copilot が Experience Platform を Microsoft 365 Copilot に直接接続する方法について説明します。 | 2026年4月6日（PT） |
