@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 0cda8de324d183a470a80ce198d797d46410fb63
+source-git-commit: cb1d954668ee47f2414313cb624c7662b3aef1e4
 workflow-type: tm+mt
-source-wordcount: '7107'
+source-wordcount: '7116'
 ht-degree: 28%
 
 ---
@@ -43,7 +43,7 @@ CX Enterpriseの生成AIとAgentic AIに関する最新の学習リソースを�
 
 | アプリケーション | 更新 | 説明 | 更新済み |
 | ------- | ------- | ------- | ------- |
-| CX Enterprise | **[!DNL Coworker]** | CX Enterprise Coworkerは、エンドツーエンドの顧客体験ワークフローを自動化するエージェント型AI アプリケーションです。 シグナルを検出し、オーディエンスを構築し、ガバナンスを組み込んだキャンペーンを数時間で開始できます。 | 2026年6月11日（PT） |
+| CX Enterprise | **[!DNL Coworker]** | [CX Enterprise Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-coworker/content/home)は、エンドツーエンドの顧客体験ワークフローを自動化するエージェント型AI アプリケーションです。 シグナルを検出し、オーディエンスを構築し、ガバナンスを組み込んだキャンペーンを数時間で開始できます。 | 2026年6月11日（PT） |
 | CX Enterprise | **Agentic AI機能カタログ** | ライセンスを取得済みのCX Enterprise アプリで利用できるエージェント型AI ジョブを確認します。 [Adobe Experience Platform エージェントのジョブとAI クレジットの使用](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/ai-credit-consumption)に関するリンクを検索します。 | 2026年6月11日（PT） |
 | [!DNL CX Enterprise] | **[!UICONTROL 監視]** | CX エンタープライズは、既存のアプリケーションにおけるエージェンティック AIの使用状況を監視するために、[AI モニタリングダッシュボード &#x200B;](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/monitoring){target="_blank"}を提供するようになりました。 AI アシスタントなどの会話型サーフェスを通じてアクセスするExperience Platform Agentsの導入を追跡し、会話やフィードバックをレビューし、AI クレジットの利用を管理します。 概要、ユーザー、フィードバック、AI クレジットの各ビューは、ガバナンス関係者がデータを使用して導入を導くのに役立ちます。 | 2026年6月2日（PT） |
 | [!DNL CX Enterprise] - Experience League | **AI トレーニング** | Experience Leagueの[AI Hub](https://experienceleague.adobe.com/ja/ai-training){target="_blank"}は、マーケターが日々のマーケティング作業に役立つ実用的なAI スキルを構築するのに役立ちます。 同じ課題に取り組んでいる同業者から学び、実際に機能している内容を確認します。 | 2026年4月15日（PT） |
