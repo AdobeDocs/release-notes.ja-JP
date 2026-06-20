@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: cb1d954668ee47f2414313cb624c7662b3aef1e4
+source-git-commit: fee1ea6a1eee833f040e73e5fa19ef25be81043c
 workflow-type: tm+mt
-source-wordcount: '7116'
-ht-degree: 28%
+source-wordcount: '7175'
+ht-degree: 27%
 
 ---
 
@@ -28,14 +28,22 @@ ht-degree: 28%
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-最新の更新：**2026年6月16日**
+最新の更新：**2026年6月19日**
 
 ## 最新情報
 
+* [新しいイベントとウェビナー](#events)
 * [CX Enterpriseの新しいAI機能](#ai)
 * [新しいリリースノート – すべてのアプリケーション](#application-release-notes)
-* [今後のウェビナーとイベント &#x200B;](#events)
 * [新しいチュートリアルとサポート記事](#articles)
+
+## 新しいイベントとウェビナー {#events}
+
+| 日付 | イベント | 説明 |
+| ------- | ------- | ------- |
+| 2026年6月17日（PT） | [Experience League ライブ - Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26#how-to-efficiently-test-simulate-and-validate-journeys-before-going-live) | 新しいジャーニーシミュレーション機能を利用して、導入前にカスタマージャーニーを検証し、さらに進化させる方法を学びましょう。 |
+
+すべてのイベントを表示するには、[Experience League イベント &#x200B;](https://experienceleague.adobe.com/ja/events)にアクセスしてください。
 
 ## CX Enterpriseの新しいAI機能 {#ai}
 
@@ -92,10 +100,6 @@ CX Enterpriseの生成AIとAgentic AIに関する最新の学習リソースを�
 | [!DNL Adobe Workfront Fusion] | 2026年6月 | [Adobe Workfront Fusion リリースアクティビティ &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/fusion-release-activity/fusion-releases-2026/fusion-2026-6-1){target="_blank"} | <ul><li>特定のシナリオ実行のリトリガー</li><li>1回実行する機能の更新</li></ul> |
 | [!DNL Adobe GenStudio for Performance Marketing] | 2026 年 3 月 | [GenStudio for Performance Marketing リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>Meta、LinkedIn、Horizon CanvasのディスプレイのExpress テンプレート</li><li>TikTokのインフィード動画広告の制作、承認、アクティベーション</li></ul> |
 | [!DNL Adobe Pass] | 2026年5月（3.7.0.2） | [Adobe Pass 3.7.0 リリースノート &#x200B;](https://experienceleague.adobe.com/en/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"} | <ul><li>OAuth2 ベースのMVPD認証のPKCE サポート</li><li>TVE ダッシュボード 1.5.1</li><li>Apple SSO設定の不一致の修正</li><li>HTTP 500 authorization-deny修正</li></ul> |
-
-## 今後のウェビナーとイベント {#events}
-
-すべてのイベントを表示するには、[Experience League イベント &#x200B;](https://experienceleague.adobe.com/ja/events)にアクセスしてください。
 
 ## 新しいチュートリアルとサポート記事 {#articles}
 
