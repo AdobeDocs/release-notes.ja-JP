@@ -53,7 +53,7 @@ CX Enterpriseの生成AIとAgentic AIに関する最新の学習リソースを�
 | ------- | ------- | ------- | ------- |
 | CX Enterprise | **[!DNL Coworker]** | [CX Enterprise Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-coworker/content/home)は、エンドツーエンドの顧客体験ワークフローを自動化するエージェント型AI アプリケーションです。 シグナルを検出し、オーディエンスを作成し、ビルトインガバナンスを備えたキャンペーンを数時間で開始します。 | 2026年6月11日（PT） |
 | CX Enterprise | **Agentic AI機能カタログ** | ライセンス済み CX Enterprise アプリで使用可能なエージェント型 AI ジョブを確認します。 詳しくは、[Adobe Experience Platform エージェントのジョブと AI クレジットの消費](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/ai-credit-consumption)に関するリンクを参照してください。 | 2026年6月11日（PT） |
-| [!DNL CX Enterprise] | **[!UICONTROL 監視]** | CX エンタープライズは、既存のアプリケーションにおけるエージェンティック AIの使用状況を監視するために、[AI モニタリングダッシュボード ](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/monitoring){target="_blank"}を提供するようになりました。 AI アシスタントやその他の会話型サーフェスを通じてアクセスされる Experience Platform エージェントの導入を追跡し、会話やフィードバックを確認し、AI クレジットの消費を管理します。 概要、ユーザー、フィードバック、AI クレジットの各ビューは、ガバナンス関係者がデータを使用して導入をガイドするのに役立ちます。 | 2026年6月2日（PT） |
+| [!DNL CX Enterprise] | **[!UICONTROL 監視]** | CX エンタープライズは、既存のアプリケーションにおけるエージェンティック AIの使用状況を監視するために、[AI モニタリングダッシュボード &#x200B;](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/monitoring){target="_blank"}を提供するようになりました。 AI アシスタントやその他の会話型サーフェスを通じてアクセスされる Experience Platform エージェントの導入を追跡し、会話やフィードバックを確認し、AI クレジットの消費を管理します。 概要、ユーザー、フィードバック、AI クレジットの各ビューは、ガバナンス関係者がデータを使用して導入をガイドするのに役立ちます。 | 2026年6月2日（PT） |
 | [!DNL CX Enterprise] - Experience League | **AI トレーニング** | Experience Leagueの[AI Hub](https://experienceleague.adobe.com/ja/ai-training){target="_blank"}は、マーケターが日々のマーケティング作業に役立つ実用的なAI スキルを構築するのに役立ちます。 同じ課題に取り組んでいる同業者から学び、実際に機能している内容を確認します。 | 2026年4月15日（PT） |
 | [!DNL CX Enterprise] | **Microsoft 365 Copilot**&#x200B;のMarketing Agent | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/ja/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"}がExperience PlatformをMicrosoft 365 Copilotに直接接続する方法について説明します。 | 2026年4月6日（PT） |
 | [!DNL AEM CS] | **Cloud Manager MCP サーバー** | [Cloud Manager MCP Server](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"}を使用して、AI ツールがAEM as a Cloud Serviceと対話し、プログラム、環境、リポジトリ、パイプラインを管理する方法について説明します。 | 2026年4月6日（PT） |
@@ -142,7 +142,7 @@ CX Enterpriseの生成AIとAgentic AIに関する最新の学習リソースを�
 
 リリースノート履歴：
 
-* [2025 年 12 月 ](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"}
+* [2025 年 12 月 &#x200B;](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"}
 * [2025年8月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2025/08132025#status){target="_blank"}
 * [2025年4月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2025/04162025#status){target="_blank"}
 * [2024年8月](https://experienceleague.adobe.com/ja/docs/release-notes/experience-cloud/previous/2024/09122024#status){target="_blank"}
@@ -201,7 +201,7 @@ Adobe Analytics 用に公開された、新規または更新されたビデオ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026 年 3 月 | [ データフィードの作成と管理 ](https://experienceleague.adobe.com/ja/docs/analytics-learn/tutorials/exporting/data-feeds/data-feeds-management-ui){target="_blank"} | 更新されたビデオ | 生のクリックストリームデータを書き出して、EDW またはデータレイクの他のデータソースに読み込み、それらと結合する方法を説明します。 Adobe Analytics内で独自のデータフィードを作成および管理できます。 |
+| 2026 年 3 月 | [&#x200B; データフィードの作成と管理 &#x200B;](https://experienceleague.adobe.com/ja/docs/analytics-learn/tutorials/exporting/data-feeds/data-feeds-management-ui){target="_blank"} | 更新されたビデオ | 生のクリックストリームデータを書き出して、EDW またはデータレイクの他のデータソースに読み込み、それらと結合する方法を説明します。 Adobe Analytics内で独自のデータフィードを作成および管理できます。 |
 | 2026 年 3 月 | [データフィード ID の検索](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/exporting/data-feeds/find-your-data-feed-id#find-your-data-feed-id=open-the-data-feeds-interface){target="_blank"} | スライド | データフィードファイルに関して、Adobeに問い合わせる必要が生じる場合があります。 顧客からデータフィード ID が提供されれば、カスタマーサポートチームはあらゆるリクエストを処理するのに便利です。 |
 
 <!--
@@ -402,7 +402,7 @@ Journey Optimizer B2B Edition 向けに新しく公開されたビデオ、チ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年2月 | [Account Qualification Agentの使用 ](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/account-qualification-agent){target="_blank"} | ビデオ | Journey Optimizer B2B editionのAccount Qualification Agentの使用方法について説明します。 |
+| 2026年2月 | [Account Qualification Agentの使用 &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/account-qualification-agent){target="_blank"} | ビデオ | Journey Optimizer B2B editionのAccount Qualification Agentの使用方法について説明します。 |
 
 ### [!DNL Adobe Marketo Engage] {#marketo}
 
@@ -501,4 +501,4 @@ GenStudio for Performance Marketing のビデオチュートリアル。
 
 ### Customer Experience Orchestration ブループリント {#blueprints}
 
-[ カスタマーエクスペリエンスオーケストレーションブループリント ](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/overview){target="_blank"} は、戦略への取り組みと定着したビジネス上の問題の迅速な解決を可能にする反復可能な実装です。 各ブループリントは、価値の高いビジネス上の問題、アーキテクチャ、実装手順、技術的な考慮事項、および関連ドキュメントへのリンクを説明する一連のアーティファクトを提供します。
+[&#x200B; カスタマーエクスペリエンスオーケストレーションブループリント &#x200B;](https://experienceleague.adobe.com/ja/docs/blueprints-learn/architecture/overview){target="_blank"} は、戦略への取り組みと定着したビジネス上の問題の迅速な解決を可能にする反復可能な実装です。 各ブループリントは、価値の高いビジネス上の問題、アーキテクチャ、実装手順、技術的な考慮事項、および関連ドキュメントへのリンクを説明する一連のアーティファクトを提供します。
