@@ -475,7 +475,7 @@ Experience League に関する Adobe [!DNL Journey Optimizer] の新しいチュ
 
 | 公開日 | アプリケーション | 名前 | タイプ | 説明 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 2026年7月 | [!DNL Journey Optimizer] | [AJO - Claude デザインのデモビデオ &#x200B;](https://video.tv.adobe.com/v/3492418){target="_blank"} | ビデオ | Claudeで作成したデザインを直接Adobe Journey Optimizerに送るデモをご覧ください。 |
+| 2026年7月 | [!DNL Journey Optimizer] | [AJO - Claude デザインのデモビデオ &#x200B;](https://video.tv.adobe.com/v/3492419?captions=jpn){target="_blank"} | ビデオ | Claudeで作成したデザインを直接Adobe Journey Optimizerに送るデモをご覧ください。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [プロファイルの環境設定や傾向スコアに基づいたチャネルの最適化](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/content-management/channel-optimization){target="_blank"} | ビデオ | Journey Optimizerのチャネル最適化機能が、手作業による優先度、プロファイル属性、AdobeのAI モデルなどを使用して、最も効果的なチャネルで顧客にアプローチし、各顧客がエンゲージする可能性が最も高い場所でメッセージを配信する方法を解説します。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [Journey Optimizer DecisioningでExperience Manager コンテンツフラグメントを使用する方法](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/use-decisioning/use-aem-content-fragments-with-ajo-decisioning){target="_blank"} | ビデオ | Adobe Experience Manager コンテンツフラグメントとAdobe Journey Optimizer Decisioningを使用して、オファー内のコンテンツをパーソナライズおよび最適化する方法について説明します。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [APIを使用したキャンペーンのトリガー](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/api-triggered-campaigns.html?lang=ja){target="_blank"} | ビデオ | Interactive Message Execution REST APIを使用して、ユーザーのインタラクションに基づいてキャンペーンを作成し、外部システムからトリガーする方法を説明します。 |
