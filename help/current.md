@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 655ebfa1efb1b1365c247f9f0105467351a4e702
+source-git-commit: b0fa4b80693428f871214415f7eeb05bc3982667
 workflow-type: tm+mt
-source-wordcount: '20806'
+source-wordcount: '20832'
 ht-degree: 11%
 
 ---
@@ -21,16 +21,9 @@ ht-degree: 11%
 * すべてのCX Enterprise アプリケーションの新製品[&#x200B; リリースノート &#x200B;](#application-release-notes)
 * Experience Leagueで利用可能な新しい[&#x200B; チュートリアルとサポート記事](#articles)
 
-<!--
 >[!TIP]
 >
->To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
--->
-<!--
->[!TIP]
->
->To receive an email notification about updates to this page, enable the [[!UICONTROL Priority Product Update]](https://account.adobe.com/magazines) on the [!UICONTROL Newsletters] page.  
--->
+>このページの新しいCX エンタープライズ機能とアップデートに関する月次メールを受信するには、[[!UICONTROL &#x200B; ニュースレター]](https://account.adobe.com/magazines) ページで&#x200B;**[!UICONTROL 優先製品アップデート]**&#x200B;を有効にします。
 
 最新の更新：**2026年8月14日**
 
