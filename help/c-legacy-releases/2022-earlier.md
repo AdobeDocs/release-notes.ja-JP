@@ -1,18 +1,18 @@
 ---
-description: Experience Cloudの製品およびサービスに関するアーカイブされたPDF リリースノート。
-title: 2022 年以前の中央リリースノート
-solution: Experience Cloud,Analytics,Target,Advertising
+description: Adobe Experience Cloud製品およびサービスに関するPDFのリリースノートをアーカイブ。
+title: 2022年以前の中央リリースノート
+solution: CX Enterprise,Analytics,Target,Advertising
 seo-title: Central Release Notes for 2021 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 exl-id: 980a6e5e-a561-4fb5-b1cc-467ddabf0d01
-source-git-commit: e40d2dd3a1d11e5ac45c86cebeffabb0de17f631
+source-git-commit: f98ba938fce628302f65d87be9ee332b7a41e27f
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 65%
 
 ---
 
-# 2022 年以前のリリースノート
+# 2022年以前のリリースノート
 
 * [2022 年リリースノート PDF](2022-Adobe-Experience-Cloud-Release-Notes.pdf)
 * [2021 年リリースノート PDF](2021-Adobe-Experience-Cloud-Release-Notes.pdf)
