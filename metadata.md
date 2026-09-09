@@ -1,7 +1,7 @@
 ---
 cloud: Experience Cloud
 type: Documentation
-solution: Experience Cloud
+solution: CX Enterprise
 feature-set: Experience Cloud
 feature: Release Notes
 product: Experience Cloud
@@ -11,7 +11,7 @@ index: true
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 usetq: true
-source-git-commit: 099001c6f80fe04eb3169c31ef24f5f1bce0169c
+source-git-commit: f98ba938fce628302f65d87be9ee332b7a41e27f
 workflow-type: tm+mt
 source-wordcount: 175
 ht-degree: 72%

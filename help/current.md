@@ -5,43 +5,25 @@ doc-type: release notes
 last-update: August 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 25162d69b1259beed585214bc65cc058d8ca3934
+source-git-commit: f98ba938fce628302f65d87be9ee332b7a41e27f
 workflow-type: tm+mt
-source-wordcount: '21003'
-ht-degree: 11%
+source-wordcount: '21404'
+ht-degree: 14%
 
 ---
 
 # CX Enterprise Central リリースノート - 2026年8月
 
-このページでは、次の項目を確認できます。
+このページでは、次の最新情報を確認できます。
 
-* [Experience League](#events)の新機能
-* [AIおよびCX Enterprise Coworker](#ai)に関する新しいヘルプ
-* すべてのCX Enterprise アプリケーションの新製品[&#x200B; リリースノート &#x200B;](#application-release-notes)
-* Experience Leagueで利用可能な新しい[&#x200B; チュートリアルとサポート記事](#articles)
+* すべてのCX Enterprise アプリケーションの[&#x200B; リリースノート &#x200B;](#application-release-notes) （**9月8**&#x200B;更新）
+* [Experience Leagueのイベントと新機能](#events) （更新日：**9月8**）
+* [AIおよびCX Enterprise Coworker](#ai)の学習リソース
+* Experience Leagueで利用できる[&#x200B; チュートリアルとサポート記事](#articles)
 
 >[!TIP]
 >
 >このページの新しいCX エンタープライズ機能とアップデートに関する月次メールを受信するには、[[!UICONTROL &#x200B; ニュースレター]](https://account.adobe.com/magazines) ページで&#x200B;**[!UICONTROL 優先製品アップデート]**&#x200B;を有効にします。
-
-最新の更新：**2026年8月31日**
-
-## Experience Leagueの新機能{#events}
-
-* [Experience League イベント v2](https://experienceleague.adobe.com/ja/events)：新しいイベントページでは、今後のイベントとオンデマンドのイベントが一元的に検索されます。
-* [AI トレーニング &#x200B;](https://experienceleague.adobe.com/ja/ai-training): Experience LeagueのAI ハブは、日々のマーケティング作業に役立つ実用的なAI スキルの構築に役立ちます。
-
-## 新しい[!DNL CX Enterprise Coworker]とAI リソース {#ai}
-
-[!DNL Coworker]および[!DNL CX Enterprise] アプリケーションのAI機能に関して公開された最新の学習リソースを検索します。
-
-| アプリケーション | 更新 | 説明 | 更新済み |
-| ------- | ------- | ------- | ------- |
-| CX エンタープライズ [!DNL Coworker Chat] | **ユースケースリソース** | [!DNL Coworker Chat]で使用できるサンプル プロンプトを検索します。 各プロンプトは、コピーできるように構築され、独自のデータやコンテキストに適応させ、会話を通じて洗練させられます。 [詳細情報…](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/overview)。 | 2026年8月10日（PT） |
-| CX Enterprise | **Agentic AI機能カタログ** | ライセンス済み CX Enterprise アプリで使用可能なエージェント型 AI ジョブを確認します。 [AI クレジットの使用](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/ai-credit-consumption)に関するリンクを検索します。 | 2026年6月11日（PT） |
-| [!DNL CX Enterprise] | **[!UICONTROL 監視]** | CX エンタープライズは、既存のアプリケーションにおけるエージェンティック AIの使用状況を監視するために、[AI モニタリングダッシュボード &#x200B;](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/monitoring){target="_blank"}を提供するようになりました。 | 2026年6月2日（PT） |
-| [!DNL CX Enterprise] - Experience League | **AI トレーニング** | Experience Leagueの[AI Hub](https://experienceleague.adobe.com/ja/ai-training){target="_blank"}は、マーケターが日々のマーケティング作業に役立つ実用的なAI スキルを構築するのに役立ちます。 同じ課題に取り組んでいる同業者から学び、実際に機能している内容を確認します。 | 2026年4月15日（PT） |
 
 ## CX Enterprise リリースノート {#application-release-notes}
 
@@ -49,19 +31,19 @@ ht-degree: 11%
 
 **メモ：**&#x200B;複数の CX Enterprise アプリケーションが毎週リリースされます。 最新情報について詳しくは、アプリケーションのリリースノートのページを頻繁に参照してください。
 
-最終更新日：**2026年8月31日**
+最終更新日：**2026年9月8日**
 
 | アプリケーション | リリース日 | リリースノート URL | アップデート |
 | ------------- | ------------- | ------------- | ------------- |
-| [!DNL Adobe Commerce] as a Cloud Service | 2026年8月12日（PT） | [Adobe Commerce as a Cloud Service リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>新しい請求書支払いイベント （[!DNL observer.sales_order_invoice_pay]）により、統合はポーリングの代わりに請求書支払いステータスを購読できます</li><li>Adobe Commerce 2.4.9に更新され、サンドボックスと実稼動設定を同期する新しいREST API エンドポイントが追加されました（サンドボックス、実稼動環境、2026年9月1日（PT））</li><li>ソースごとの在庫在庫を表示するための新しいGraphQL [!DNL sourceAvailability] クエリ</li><li>GraphQLの永続的なショッピングカートとウィッシュリスト設定</li><li>商品、SKU、注文IDで顧客の注文を検索する</li></ul> |
-| [!DNL Adobe Experience Manager] as a Cloud Service | 2026年8月10日（PT） | [Adobe Experience Manager as a Cloud Service の最新のリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"} | <ul><li>新しいコンテンツフラグメントエディターのすべてのRDEおよび開発環境にロールアウトされるコンテンツ参照ピッカーが改善されました</li><li>機能リリース 2026.7.0が現在の機能で、2026年8月27日（PT）に2026.8.0が予定されています。</li><li>ビジュアルコンテンツフラグメント（コンテンツフラグメント出力を書式設定されたHTMLとしてレンダリング）</li><li>Adobe Express埋め込みエディターでPhotoshop（.psd）アセットを開きます</li></ul> |
-| [!DNL Adobe Customer Journey Analytics] | 2026年8月10日（PT） | [Customer Journey Analytics リリースノート](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/releases/latest?lang=ja#releases){target="_blank"} | <ul><li>CJA Report APIの「最初の呼び出し」ガイド（基本レポートリクエスト設定）</li><li>サブイベント分析（イベント内の個々のコンテナに対するセグメント）</li><li>アドホックデータセットとリレーショナルデータセットに対するB2B editionのサポート</li><li>CX Enterprise [!DNL Coworker]: Customer Journey Analytics データの分析</li><li>CX Enterprise [!DNL Coworker]: Adobe Analyticsから移行する際のデータの検証</li></ul> |
-| [!DNL Adobe Analytics] | 2026年8月10日（PT） | [[!DNL Analytics] リリースノート](https://experienceleague.adobe.com/ja/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>Analytics 1.4 APIの提供終了に関するお客様のFAQを公開</li><li>2.0 APIに追加されたマーケティングチャネルリファレンスとエンドポイントガイド</li><li>サブヒット分析</li><li>Activity Map拡張機能UIの更新</li><li>AA 2.0 API検索機能</li></ul> |
-| [!DNL Adobe Commerce Optimizer] | 2026年8月7日（PT） | [Adobe Commerce Optimizer リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce/optimizer/release-notes){target="_blank"} | <ul><li>新しい[!DNL externalIds] フィールドがカタログサービス GraphQLに追加され、製品の元の外部データソースが公開されました</li><li>特定の設定可能な商品の価格帯と表示が正しくないことを返す[!DNL refineProduct] GraphQL クエリを修正しました</li><li>カテゴリーナビゲーションのパフォーマンスの向上：[!DNL CategoryNavigation] クエリのスループットの向上とP99待ち時間の短縮</li><li>「詳細検索」タブにセマンティック検索（AIを活用した、意味とコンテキストに基づく）が追加され、適格な英語カタログに対してデフォルトで有効になります</li><li>商品レコメンデーションユニットのレコメンデーション価格フィルター（ベータ版）</li></ul> |
-| [!DNL Adobe Journey Optimizer] | 2026年8月5日（PT） | [[!DNL Journey Optimizer] リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>AI コンテンツ生成のための柔軟な画像ソーシング（バランスのとれた、Assetsのみの、またはAEM Assets Essentialsから取得したCreativeのAI モード）</li><li>ロイヤルティの課題：AIを活用したレポートによるゲーミフィケーションによるロイヤルティ施策</li><li>チャネルの最適化：ジャーニーとキャンペーンの最適なチャネルを自動的に選択</li><li>メール Designer モジュール：ドラッグ&amp;ドロップ操作のレイアウトコンポーネントライブラリ</li><li>新しいジャーニーキャンバス UI （新規とレガシーの切り替え）</li></ul> |
+| [!DNL Adobe Customer Journey Analytics] | 2026年9月9日（PT） | [Customer Journey Analytics リリースノート](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/releases/latest?lang=ja#releases){target="_blank"} | <ul><li>レポート日付範囲にセグメントを制限（人物のトップレベルコンテナの場合）</li><li>B2B：個人とアカウントの結合で、マッピングデータセットから欠落しているアカウント IDを導き出す</li><li>Experience Platformの同意ポリシーに一致する訪問者に対する同意ポリシーのフィルタリングとレポート</li><li>サブイベント分析（イベント内の個々のコンテナに対するセグメント）</li><li>アドホックデータセットとリレーショナルデータセットに対するB2B editionのサポート</li></ul> |
+| [!DNL Adobe Analytics] | 2026年9月9日（PT） | [[!DNL Analytics] リリースノート](https://experienceleague.adobe.com/ja/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>レポート日付範囲にセグメントを制限（訪問者のトップレベルコンテナの場合）</li><li>Analytics 1.4 APIの提供終了に関するお客様のFAQを公開</li><li>2.0 APIに追加されたマーケティングチャネルリファレンスとエンドポイントガイド</li><li>サブヒット分析</li><li>Activity Map拡張機能UIの更新</li></ul> |
+| [!DNL Adobe Commerce] as a Cloud Service | 2026年9月8日（PT） | [Adobe Commerce as a Cloud Service リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>Adobe Commerce 2.4.9 （サンドボックス、実稼動環境、2026年9月8日）のすべての機能が含まれるようになりました。</li><li>複数の環境でCommerce システム設定値を読み取り、更新するための新しいREST エンドポイント</li><li>新しい無料ギフトカート価格ルールのタイプに加えて、カート価格ルールの有効化と有効期限がスケジュールされています</li><li>カスタムメールテンプレートを更新および削除するための新しいREST エンドポイント</li><li>発注、見積、返品をまたいで共有されたB2B企業の住所録</li></ul> |
+| [!DNL Adobe Journey Optimizer] | 2026年9月8日（PT） | [[!DNL Journey Optimizer] リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>増分効果を測定するジャーニーレベルのホールドアウトグループ（限定可用性）</li><li>ジャーニーの高度なエディターでのAIを活用した式の生成（一般提供）</li><li>時間ベースのジャーニーロジック用の新しい[!DNL dateDiff]関数</li><li>ジャーニーシミュレーションで、Content Decision ノードとOptimize ターゲティングがサポートされるようになりました</li><li>CX Enterprise [!DNL Coworker]: コンテンツ管理MCP ツールとジャーニー異常値分析スキル</li></ul> |
+| [!DNL Adobe Target] | 2026年9月8日（PT） | [[!DNL Adobe Target] リリースノート](https://experienceleague.adobe.com/ja/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>Target UIのバージョントグルの今後の非推奨化（FAQを参照）</li><li>26.9.2: RecommendationsおよびAutomated Segments レポート表示での誤ったフィード URL エンコーディングの修正</li><li>26.9.1: アクティビティのみのオーディエンスでA/B アクティビティをコピーする際の「無効なオーディエンス ID」エラーを修正しました</li><li>A/B テストのベイズ統計（手動） アクティビティ</li><li>自動割り当てアクティビティに関するCustomer Journey Analytics レポート</li></ul> |
+| [!DNL Adobe Commerce Optimizer] | 2026年9月3日（PT） | [Adobe Commerce Optimizer リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce/optimizer/release-notes){target="_blank"} | <ul><li>属性順位（Beta）：属性条件に一致するすべての商品を自動的にブースト、埋め込み、非表示にします</li><li>製品の元の外部データソースを公開するカタログサービス GraphQLの新しい[!DNL externalIds] フィールド</li><li>「詳細検索」タブのセマンティック検索（AIを活用）。適格な英語カタログの場合、デフォルトで有効になっています</li><li>商品レコメンデーションユニットのレコメンデーション価格フィルター（ベータ版）</li><li>[!DNL CategoryNavigation] クエリのカテゴリーナビゲーションのパフォーマンスの向上</li></ul> |
+| [!DNL Adobe Experience Manager] as a Cloud Service | 2026年8月27日（PT） | [Adobe Experience Manager as a Cloud Service の最新のリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"} | <ul><li>機能リリース 2026.8.0が現在の機能で、2026年9月24日（PT）に2026.9.0が予定されています。</li><li>アセットのレンディションに関するC2PA メタデータを活用して、AIが生成したコンテンツにラベルを付ける</li><li>Content Hubで生成されたDynamic Media on Demand レンディション</li><li>アセットのアップロード時にブランドに即したAI メタデータの生成（Beta）</li><li>アダプティブ Forms テーブルコンポーネントとAEM Edge関数（CDNでJavaScriptを実行）</li></ul> |
 | [!DNL Adobe Brand Visibility]（旧 [!DNL Adobe LLM Optimizer]） | 2026年8月4日（PT） | [ブランドの可視性リリースノート &#x200B;](https://abv.adobe.com/articles/release-notes){target="_blank"} | <ul><li>一般提供：ブランドの可視性で統合されたAIの可視化の測定、最適化、影響追跡（LLM Optimizerからリブランド）</li><li>Semrushデータを使用した新しいAI表示ダッシュボード</li><li>ブランドとドメインのセルフサービス型オンボーディング</li><li>プロンプト戦略機能によるインパクトの大きいプロンプトの検出</li><li>幅広いLLM プラットフォームのカバレッジ （[!DNL Claude]、Grok、DeepSeek）</li></ul> |
-| [!DNL Adobe Campaign Classic] v7 | 2026年8月 | [[!DNL Campaign Classic] リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>セキュリティアップデート（v7.4.3、ビルド 9399、8月3日）</li><li>セキュリティアップデート（v7.4.3、ビルド 9398、7月29日）</li><li>セキュリティ修正とwebForm.jsp ctx パラメーターの動作の変更（ビルド 9397）</li></ul> |
-| [!DNL Adobe Target] | 2026年7月30日（PT） | [[!DNL Adobe Target] リリースノート](https://experienceleague.adobe.com/ja/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>A/B テストのベイズ統計（手動） アクティビティ</li><li>自動割り当てアクティビティに関するCustomer Journey Analytics レポート</li><li>HTMLまたはエクスペリエンスフラグメントオファーを選択または変更すると、Visual Experience Composerがクラッシュする問題を修正しました</li></ul> |
+| [!DNL Adobe Campaign Classic] v7 | 2026年8月 | [[!DNL Campaign Classic] リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>重大な脆弱性に関するセキュリティアップデート（v7.4.3、ビルド 9401、8月25日）</li><li>配信ドメインに必要な外部URL 許可リストの更新（2026年9月5日まで）</li><li>Adobe Analytics コネクタがAnalytics 2.0 APIに移行されました（ビルド 9400、8月11日）</li><li>セキュリティ更新プログラム （ビルド 9399、8月3日）</li></ul> |
 | Adobe Advertising | 2026年7月29日（PT） | [Advertising Search, Social, &amp; Commerce の新機能](https://experienceleague.adobe.com/ja/docs/advertising/search-social-commerce/home){target="_blank"} | <ul><li>新しいUIでキャンペーン、広告グループ、クリエイティブ管理に拡張されたAI Max機能</li><li>Experience Platform Web SDKによるCustomer Journey Analytics データ交換</li><li>スケジュールされたレポート、バルクシート、ネットワークマネージャーアカウント、および支出プランナーが新しいUIに追加されました</li><li>Google AIの最大検索語レポート</li><li>すべてのポートフォリオの一括操作のダウンロード</li><li>すべてのGoogle Ads キャンペーンでAIの最大最適化をサポート</li></ul> |
 | [!DNL Adobe Experience Platform and Real-Time CDP] | 2026年7月28日（PT） | [[!DNL Experience Platform] リリースノート](https://experienceleague.adobe.com/ja/docs/experience-platform/release-notes/latest){target="_blank"} | <ul><li>宛先：オーディエンス/宛先のフィルタリング、時間単位の増分書き出し、Microsoft Ads Customer Match、アドビのサポート</li><li>Real-Time CDP:Spectrum 2 ビジュアルリフレッシュ</li><li>リアルタイム顧客プロファイル：より迅速な書き出しとアクティベーション</li><li>Segmentation Service：外部オーディエンス向けのJSON/Parquet サポート、Segment Matchの提供終了2026年11月27日（PT）</li><li>ソース：Google AdsおよびMeta Ads ソースが追加されました</li></ul> |
 | [!DNL Adobe Campaign] web ユーザーインターフェイス | 2026年7月28日（PT） | [Campaign web UI リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>web UIで直接オファー管理（カタログ作成、適格性ルール、デプロイメント）</li><li>クライアントコンソールを使用しないブランド設定</li><li>E メールデザイナーのパブリックリソース</li><li>データ読み込み（RDBMS）ワークフローアクティビティ</li><li>Web UIでの動的JavaScript ページ（JSSP）の作成と管理</li></ul> |
@@ -90,7 +72,36 @@ ht-degree: 11%
 | [!DNL Experience Manager] [!DNL Assets Essentials] | 2024年7月25日（PT） | [Adobe Experience Manager Assets Dynamic Media リリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-assets-essentials/help/release-notes){target="_blank"} | <ul><li>Content credentials の統合</li><li>フォルダーコンテンツのビジュアルプレビュー</li><li>コンテキスト検索</li><li>アセットとフォルダーのインプレースでの名前変更</li><li>Express ビデオのクイックアクション</li></ul> |
 | [!DNL Experience Manager] 自動フォーム変換サービス | 2022年2月24日（PT） | [自動フォーム変換サービスリリースノート](https://experienceleague.adobe.com/ja/docs/aem-forms-automated-conversion-service/using/release-notes){target="_blank"} | <ul><li>レンダリング速度を向上させるためのフラグメントへのセクションの自動変換</li></ul> |
 
-## 新しいチュートリアルとサポート記事 {#articles}
+## イベントと新機能{#events}
+
+* [Experience League イベント v2](https://experienceleague.adobe.com/ja/events)：新しいイベントページでは、今後のイベントとオンデマンドのイベントが一元的に検索されます。
+* [AI トレーニング &#x200B;](https://experienceleague.adobe.com/ja/ai-training): Experience LeagueのAI ハブは、日々のマーケティング作業に役立つ実用的なAI スキルの構築に役立ちます。
+
+### 今後のイベント
+
+| アプリケーション | 日付 | 説明 | 詳細 |
+| ------- | ------- | ------- | ------- |
+| [!DNL Adobe Analytics], [!DNL Adobe Marketo Measure], [!DNL Adobe Workfront] | 2026年9月9日（PT） | **Adobe Insider Tour Chicago** – 参加者は、[!DNL Analytics]、[!DNL Marketo Measure]、[!DNL Workfront]の最新のイノベーションを学習します。 | [登録](https://event.adobe.com/adobeinsidertourFall2026){target="_blank"} |
+| [!DNL Adobe Workfront] | 2026年9月15日（PT） | **移行の準備：統合レビューと承認への移行の準備** – 変更の内容、チームが頻繁に直面する問題、移行を成功させるための実践的なヒントを説明します。 | [登録](https://events.teams.microsoft.com/event/58e114db-6cad-4d9e-811c-0891a521b1cd@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
+| [!DNL Adobe Analytics], [!DNL Adobe Marketo Measure], [!DNL Adobe Workfront] | 2026年9月16日（PT） | **Adobe Insider Tour Minneapolis** – 参加者は、[!DNL Analytics]、[!DNL Marketo Measure]、[!DNL Workfront]の最新のイノベーションを学習します。 | [登録](https://event.adobe.com/adobeinsidertourFall2026){target="_blank"} |
+| [!DNL Experience Manager Assets], [!DNL Adobe Experience Manager] | 2026年9月16日（PT） | **適切なチームへの適切なアクセス：AEM Assetsでよりスマートな役割とワークフローを設計** - AEM シリーズのパート 3：権限とアクセス レベルがコラボレーションを向上させ、ガバナンスを強化し、ブランド標準を保護し、よりスケーラブルな[!DNL AEM Assets]運用モデルを構築する方法について説明します。 | [登録](https://events.teams.microsoft.com/event/41d4fa3f-672b-451a-8e85-8c9b5d22866f@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
+| [!DNL Adobe Workfront] | 2026年9月23日（PT） | **[!DNL Workfront]Fusion Wednesday Forum** – この議題のないラウンドテーブル中に[!DNL Fusion]のソリューションを同僚とブレインストーミングします。 | [登録](https://events.teams.microsoft.com/event/6da30228-2bfc-4368-a81d-06398f9f2b40@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
+| [!DNL CX Enterprise] | 2026年9月23日（PT） | **Adobe Digital Insights Presents: Pricing Pressure Index** – 価格圧力指数は、デジタル経済全体における価格の変化に対する消費者の反応を示す独自の指標です。 | [登録](https://events.teams.microsoft.com/event/9e9708a0-fa3b-4771-a16b-33f82da95062@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
+| 全般 | 2026年9月29日（PT） | **Experience Maker Awards コミュニティ AMA \|受賞者からのアドバイス** - AdobeがExperience Makerを称賛する理由、私たちが認識しようとしている作業と影響、そして際立ったストーリーを伝える方法を学びます。 | [登録](https://events.teams.microsoft.com/event/005ef4f0-4f57-4f70-94bb-33c092cc91f4@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
+| [!DNL Adobe Experience Manager], [!DNL Experience Manager Assets] | 2026年9月30日（PT） | **承認済みからアクティブ化まで：AEM Assetsでオムニチャネルマーケティングを強化** - AEM シリーズのパート 4: [!DNL AEM Assets]が、一貫性、ガバナンス、制御を維持しながら、承認済みコンテンツをチャネルをまたいでより迅速に配信するのに、どのように役立つかをご覧ください。 | [登録](https://events.teams.microsoft.com/event/adcc686d-d687-4d20-ae4e-ab57c8a36d0e@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
+
+## AIと[!DNL CX Enterprise Coworker]件のリソース {#ai}
+
+[!DNL Coworker]および[!DNL CX Enterprise] アプリケーションのAI機能に関して公開された最新の学習リソースを検索します。
+
+| アプリケーション | 更新 | 説明 | 更新済み |
+| ------- | ------- | ------- | ------- |
+| CX エンタープライズ [!DNL Coworker Chat] | **ユースケースリソース** | [!DNL Coworker Chat]で使用できるサンプル プロンプトを検索します。 各プロンプトは、コピーできるように構築され、独自のデータやコンテキストに適応させ、会話を通じて洗練させられます。 [詳細情報…](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/overview)。 | 2026年8月10日（PT） |
+| CX Enterprise | **Agentic AI機能カタログ** | ライセンス済み CX Enterprise アプリで使用可能なエージェント型 AI ジョブを確認します。 [AI クレジットの使用](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/ai-credit-consumption)に関するリンクを検索します。 | 2026年6月11日（PT） |
+| [!DNL CX Enterprise] | **[!UICONTROL 監視]** | CX エンタープライズは、既存のアプリケーションにおけるエージェンティック AIの使用状況を監視するために、[AI モニタリングダッシュボード &#x200B;](https://experienceleague.adobe.com/ja/docs/core-services/interface/features/monitoring){target="_blank"}を提供するようになりました。 | 2026年6月2日（PT） |
+| [!DNL CX Enterprise] - Experience League | **AI トレーニング** | Experience Leagueの[AI Hub](https://experienceleague.adobe.com/ja/ai-training){target="_blank"}は、マーケターが日々のマーケティング作業に役立つ実用的なAI スキルを構築するのに役立ちます。 同じ課題に取り組んでいる同業者から学び、実際に機能している内容を確認します。 | 2026年4月15日（PT） |
+
+## チュートリアルとサポート記事 {#articles}
 
 最新のチュートリアルとサポート記事へのリンク。 アドビシステムステータスリリースノートについては、以下を参照してください。
 
@@ -303,7 +314,7 @@ Experience Manager as a Cloud Service の最新のビデオチュートリアル
 | 2026年7月 |  [!DNL Sling Scripting JSP]  レース状態[&#128279;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38059)が原因でAEM Managed Services パブリッシャーが異常です | 新しい記事 | [!DNL Apache] [!DNL Sling Scripting JSP] モジュールの競合状態が原因で、Adobe Experience Manager Managed Services パブリッシャーが異常になった場合（通常はメモリ プレッシャーによってトリガーされる）の問題の解決策について説明します。 |
 | 2026年7月 | [製品プロファイル [!UICONTROL の名前変更後にAEMで重複するユーザーグループを解決する]](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38343) | 新しい記事 | Adobe Admin Consoleで[!UICONTROL 製品プロファイル &#x200B;]の名前を変更した後、Adobe Experience Managerに重複するユーザーグループが表示される場合の問題の解決策について説明します。 |
 | 2026年7月 | [Adobe Experience Manager Assetsで孤立したアセットを削除](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38286) | 新しい記事 | Adobe Experience Manager Assetsで、管理者権限を持つユーザーと持たないユーザーの孤立したアセットを特定して削除する必要がある場合の問題の解決策について説明します。 |
-| 2026年7月 | [EBS ストレージパフォーマンス （AMS）が不十分なため、AEM オーサーの安定性と重大な遅延が発生する](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-35831) | 新しい記事 | Adobe Managed ServicesでホストされているAdobe Experience Manager オーサーインスタンスで、基礎となるEBS ボリュームタイプがAEMの[!UICONTROL TarMK] リポジトリのI/O要件を満たしていないため、パフォーマンスの低下と不安定性が繰り返される問題の解決策について説明します。 |
+| 2026年7月 | [EBS ストレージパフォーマンス （AMS）が不十分なため、AEM オーサーの安定性と重大な遅延が発生する](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-35831) | 新しい記事 | Adobe Managed ServicesでホストされているAdobe Experience Manager オーサーインスタンスで、基礎となるEBS ボリュームタイプがAEMの[!UICONTROL TarMK] リポジトリのI/O要件を満たしていないため、パフォーマンスの低下と不安定性が繰り返される問題の解決策について説明します。 |
 | 2026年7月 | [AEM Dispatcher：書き換えルールの変更により、ナビゲーション URLが英語サイトにリダイレクトされる](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38413) | 新しい記事 | Adobe Experience Managerのローカライズされたサイトのナビゲーションリンクが、Dispatcherの設定または書き換えルールの変更により、ユーザーを英語サイトに誤ってリダイレクトする問題の解決策について説明します。 |
 | 2026年7月 | [DAM アセットサブツリーが完全に公開されていないため、Adobe Experience Managerでリダイレクトフローの問題が発生する](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38470) | 新しい記事 | Adobe Experience ManagerでDAM アセットサブツリーを不完全に公開すると、リダイレクトフローまたは依存ページに関する問題が発生する場合の問題の解決策について説明します。 |
 | 2026年7月 | [Adobe Experience Manager Managed Servicesでのデプロイメントパイプラインのキャンセル遅延のトラブルシューティング &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38547) | 新しい記事 | Adobe Experience Manager Managed Servicesのデプロイメントパイプラインの解約が、クリーンアッププロセスの長時間実行によって遅延する問題の解決策について説明します。 |
@@ -346,7 +357,7 @@ Experience Manager as a Cloud Service の最新のビデオチュートリアル
 | 2026年7月 | [Cloud Manager パイプラインが`npm`監査ステップで`ENOAUDIT`およびエンドポイントの廃止に関する通知](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38984)で失敗しました | 新しい記事 | 非推奨の`npm`監査エンドポイントを使用しているため、`ENOAUDIT`のAdobe Experience Managerの`npm`監査ステップでCloud Manager パイプラインが失敗する問題の解決策について説明します。 |
 | 2026年7月 | [AEM Cloud Manager: `ui.content` パッケージ バージョンの競合により、下位の環境でのデプロイメントがブロックされます](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-36366) | 新しい記事 | Adobe Experience Manager Cloud Manager パイプラインの下位環境で`ui.content` パッケージのデプロイメントが静的パッケージのバージョンによって妨げられる問題の解決策について説明します。 |
 | 2026年7月 | [AEM Sites: RTE プラグインの設定](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-35395)にもかかわらず [!DNL Rich Text Editor] に表示されない特殊文字 | 新しい記事 | お勧めのRTE プラグインを設定した後でも、[!DNL Rich Text Editor]に入力した特殊文字がAdobe Experience Manager Sitesに表示されない場合の問題の解決策について説明します。 |
-| 2026年7月 | [Adobe Experience Manager:Dispatcher パスのマッピングが見つからなかったため、壊れたナビゲーションとアセットリンクを修正しています](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38152) | 新しい記事 | Adobe Experience Manager Sitesでナビゲーションとアセットリンクが壊れた場合に、メンテナンスまたはDispatcher キャッシュの更新後にDispatcher パスのマッピングが欠落または不完全になる問題の解決策について説明します。 |
+| 2026年7月 | [Adobe Experience Manager:Dispatcher パスのマッピングが見つからなかったため、壊れたナビゲーションとアセットリンクを修正しています](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-38152) | 新しい記事 | Adobe Experience Manager Sitesでナビゲーションとアセットリンクが壊れた場合に、メンテナンスまたはDispatcher キャッシュの更新後にDispatcher パスのマッピングが欠落または不完全になる問題の解決策について説明します。 |
 | 2026年7月 |  [!DNL Quickstart JAR]  ローカルで開始すると、[AEM 6.5 LTS ライセンス プロンプトが表示される](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38492) | 新しい記事 | AEM 6.5 LTS [!DNL Quickstart JAR]をローカルで起動する際に、ライセンスファイルが見つからないか、認識できないためにライセンスプロンプトが表示される場合の問題の解決策について説明します。 |
 | 2026年7月 | [API統合が&#x200B;*アクセストークンに必要なスコープがありません。 （403 Forbidden）*](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-32517) | 新しい記事 | 統合が正しく設定され、アクセストークンが正常に生成されたとしても、OAuth S2S認証に必要なスコープが不足しているため、Adobe Experience Manager as a Cloud ServiceがAssets API リクエスト中に&#x200B;*403 Forbidden* エラーを返す場合の問題の解決策について説明します。 |
 | 2026年7月 | [AEMでのDispatcher設定のデプロイメント エラーを修正](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-35744) | 新しい記事 | 誤ったファイル構造、サポートされていないパッケージ、パイプラインとキャッシュの設定の不整合が原因で、Adobe Experience Managerでのデプロイメントまたは移行中にDispatcher設定が失敗する問題の解決策について説明します。 |
@@ -369,7 +380,7 @@ Experience Manager as a Cloud Service の最新のビデオチュートリアル
 | 2026年7月 | [AEM as a Cloud Service: *新しいエディターでコンテンツフラグメントを公開する際に* エラーが発生しました](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-36835) | 新しい記事 | Adobe Experience Manager as a Cloud Serviceの新しいエディターを使用してコンテンツフラグメントを公開する際に、断続的に&#x200B;*無効なコンテンツフラグメント* エラーが発生する場合の問題の解決策について説明します。 |
 | 2026年7月 | [Cloud Manager環境向けAEM ソリューションの作成エラー](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38337) | 新しい記事 | 権限が欠落している、必要な[!UICONTROL 製品プロファイル &#x200B;]が欠落している、無効な設定の選択肢、または既に進行中の他のプロビジョニングジョブが原因で、Cloud Managerでの環境作成が失敗した、またはAdobe Experience Manager as a Cloud Serviceでの作成状態が維持される場合の問題の解決策について説明します。 |
 | 2026年7月 | [AEM as a Cloud Service サンドボックス環境でCRX/DEにアクセスできません](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38061) | 新しい記事 | Adobe Experience Manager as a Cloud Service サンドボックス環境でCRX/DEにアクセスできない場合の問題の解決策について説明します。 |
-| 2026年7月 | [AEM as a Cloud Service: [!DNL Sling Content Distribution]  ローカル SDKとクラウド環境での制限のテスト &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38160) | 新しい記事 | ローカル Adobe Experience Manager as a Cloud Service SDKを使用した[!DNL Sling Content Distribution]のテストと実際のCloud Service環境の違いと制限について説明します。 |
+| 2026年7月 | [AEM as a Cloud Service: [!DNL Sling Content Distribution]  ローカル SDKとクラウド環境での制限のテスト &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-38160) | 新しい記事 | ローカル Adobe Experience Manager as a Cloud Service SDKを使用した[!DNL Sling Content Distribution]のテストと実際のCloud Service環境の違いと制限について説明します。 |
 | 2026年7月 | [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38161)での [!DNL Splunk] へのログ転送が失敗しました | 新しい記事 | Adobe Experience Manager as a Cloud Serviceの設定中に[!DNL Splunk]へのログ転送が失敗する問題の解決策について説明します。 |
 | 2026年7月 | [AEM as a Cloud Service：侵入テスト用IP ホワイトリスト登録](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38200) | 新しい記事 | Adobe Experience Manager as a Cloud Service ステージング環境またはUAT環境で侵入テストを有効にするためにIP ホワイトリスト登録をリクエストする必要がある場合の問題の解決策について説明します。 |
 | 2026年7月 | [Adobe Experience ManagerのOSGi設定で環境変数が補間されない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38770) | 新しい記事 | Adobe Experience Manager as a Cloud Service、AEM Managed Services、Adobe Developer App Builderで環境変数が表示されない、OSGi設定に補間できない、または&#x200B;*null*&#x200B;値が返され、プレースホルダー値（`$[env:VAR]`や`$[secret:VAR]`など）が文字通りログに表示される場合の問題の解決策について説明します。 |
@@ -435,7 +446,7 @@ Experience Manager as a Cloud Service の最新のビデオチュートリアル
 | 2026年7月 | [AEM Cloud Manager：保留中のプログラム削除により、既存のプログラムでEdge Delivery Servicesを有効にできません](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-34887) | 新しい記事 | 既存のAdobe Experience Manager Cloud Manager プログラムでEdge Delivery Servicesを有効にできない場合、EDSの使用権限が削除待ちの別のプログラムに関連付けられたままになるため、問題の解決策について説明します。 |
 | 2026年7月 | [AEM as a Cloud Service: [!UICONTROL &#x200B; アドバンスドネットワーク &#x200B;]またはプロキシ設定](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-36031)が正しくないため、SMTP メール配信に失敗しました | 新しい記事 | メールサービスが[!UICONTROL &#x200B; アドバンストネットワーク &#x200B;]で誤ったSMTP ホストまたはポート設定を使用するため、Adobe Experience Manager as a Cloud Serviceでのワークフローのメール通知が失敗した場合の問題の解決策について説明します。 |
 | 2026年7月 | [Adobe Experience Manager as a Cloud Serviceでのヒープダンプの可用性とリクエストプロセス &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-37893) | 新しい記事 | Adobe Experience Manager as a Cloud Serviceでヒープダンプが特定の期間に利用できない場合の問題の解決策について説明します。 |
-| 2026年7月 | [AEMaaCS環境の作成がCloud Manager](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38656)で失敗します | 新しい記事 | Cloud Managerでのプロビジョニング中にAdobe Experience Manager as a Cloud Serviceでの環境作成が失敗した場合に、権限が不十分、パイプライン実行エラー、不完全な設定、[!UICONTROL 製品プロファイル &#x200B;]の欠落、タイムアウト、同時環境作成プロセスが原因で発生する問題の解決策について説明します。 |
+| 2026年7月 | [AEMaaCS環境の作成がCloud Manager](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-38656)で失敗します | 新しい記事 | Cloud Managerでのプロビジョニング中にAdobe Experience Manager as a Cloud Serviceでの環境作成が失敗した場合に、権限が不十分、パイプライン実行エラー、不完全な設定、[!UICONTROL 製品プロファイル &#x200B;]の欠落、タイムアウト、同時環境作成プロセスが原因で発生する問題の解決策について説明します。 |
 | 2026年7月 | [!UICONTROL Publish Repository Browser]の`/conf`および関連フォルダー[&#128279;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38342)へのアクセス権を持つAEM ソリューション | 新しい記事 | 現在のアカウントに必要なパブリッシュサイドのアクセス権がないため、[!UICONTROL &#x200B; パブリッシュリポジトリブラウザー]に`/conf`または同様のフォルダーがAdobe Experience Managerに表示されない場合の問題の解決策について説明します。 |
 | 2026年7月 | [!UICONTROL Groovy Console]へのアクセスと実行の失敗[&#128279;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38346)に対するAEM ソリューション | 新しい記事 | 不変リポジトリパスに依存するランタイムコード実行ツールはサポートされていないため、[!UICONTROL Groovy Console]がAdobe Experience Manager as a Cloud Serviceでスクリプト実行を開いたり拒否したりできない場合の問題の解決策について説明します。 |
 | 2026年7月 | Cloud Managerでの環境作成エラーに対する[AEM ソリューション &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38453) | 新しい記事 | 別の環境操作が既に実行中であるか、必要な[!UICONTROL 製品プロファイル &#x200B;]が見つからないか、アクセスとパイプラインの設定が不完全であるため、Cloud Managerでの環境作成がAdobe Experience Managerで失敗した場合の問題の解決策について説明します。 |
@@ -443,13 +454,13 @@ Experience Manager as a Cloud Service の最新のビデオチュートリアル
 | 2026年7月 | *421 TLS SAN mismatch* エラーとカスタマーマネージド CDN[&#128279;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38478)のAEM ソリューション | 新しい記事 | Adobe Experience Manager as a Cloud Serviceで&#x200B;*HTTP 421 TLS SAN mismatch* エラーが発生した場合の問題の解決策について説明します。これは、カスタマーマネージド CDN、プロキシ、またはWAFが誤ったHost ヘッダーまたはSNI値をAdobe イングレス ドメインに送信し、多くの場合、転送ヘッダーが欠落または不完全であるためです。 |
 | 2026年7月 | [一括アセットの公開中に&#x200B;*不明な名前空間プレフィックス*&#x200B;で ツリーのアクティブ化が失敗する](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-32157) | 新しい記事 | 1つ以上のアセットに未登録のJCR名前空間プレフィックスを使用するメタデータプロパティが含まれているため、[!UICONTROL 公開を管理]またはAdobe Experience Managerでのクイック公開で&#x200B;*不明な名前空間プレフィックス*&#x200B;でアセットを一括公開するとエラーが発生する問題の解決策について説明します。 |
 | 2026年7月 | [AEM Cloud Manager: *で開発パイプラインのビルドに失敗しました。プロジェクトは[!DNL Java] 21以降*](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-35284)でコンパイルする必要があります | 新しい記事 | Adobe Experience Manager Cloud Manager パイプラインのビルドが&#x200B;*で失敗した場合の問題の解決策について説明します。[!DNL Java]のバージョン要件のため、[!DNL Java] 21以降の*&#x200B;でプロジェクトをコンパイルする必要があります。 |
-| 2026年7月 | [AEM as a Cloud Service:Assetsのみのプロビジョニングが原因で、パブリッシュ層がコンテンツを提供していません](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-36687) | 新しい記事 | Adobe Experience Manager as a Cloud Serviceのパブリッシュ層がAssets専用としてプロビジョニングされているため、パブリッシュされたコンテンツを提供しない場合の問題の解決策について説明します。 |
-| 2026年7月 | [AEM as a Cloud Service: パイプラインのデプロイ以外でのSDKとメンテナンスの更新について](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-37173) | 新しい記事 | Adobe Experience Manager as a Cloud Serviceが、お客様のパイプラインのデプロイメントとは別に、メンテナンスとSDK アップデートをどのように適用するかを理解する必要がある場合の問題の解決策について説明します。 |
+| 2026年7月 | [AEM as a Cloud Service:Assetsのみのプロビジョニングが原因で、パブリッシュ層がコンテンツを提供していません](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-36687) | 新しい記事 | Adobe Experience Manager as a Cloud Serviceのパブリッシュ層がAssets専用としてプロビジョニングされているため、パブリッシュされたコンテンツを提供しない場合の問題の解決策について説明します。 |
+| 2026年7月 | [AEM as a Cloud Service: パイプラインのデプロイ以外でのSDKとメンテナンスの更新について](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-37173) | 新しい記事 | Adobe Experience Manager as a Cloud Serviceが、お客様のパイプラインのデプロイメントとは別に、メンテナンスとSDK アップデートをどのように適用するかを理解する必要がある場合の問題の解決策について説明します。 |
 | 2026年7月 | [AEM オーサーログで、管理対象ノードの変更中に一時的なINFO レベル  [!DNL MongoDB] 接続エラーが表示される](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-37266) | 新しい記事 | Adobe Experience Manager オーサーログで、Adobeが管理する[!DNL MongoDB]のスケーリング、ローリング再起動、DNSの変更、またはプライマリ選択の際に、一時的なINFO レベル [!DNL MongoDB]の接続例外が表示される場合の問題の解決策について説明します。 |
 | 2026年7月 | [Adobe Experience Manager セキュリティ パッチのデプロイメントを調整しています](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38231) | 新しい記事 | Adobe Experience Manager管理者が、新たに特定された脆弱性に対処するためにセキュリティパッチのデプロイメントを計画および調整する必要がある場合の問題の解決策について説明します。 |
 | 2026年7月 | [&#x200B; クラウド管理コンソールでCloud Service環境の作成に失敗しました](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38397) | 新しい記事 | Adobe Experience Managerでプロビジョニングを開始した後、Cloud Service環境の作成が失敗し、必要なプロファイルの欠落、不十分な権限、同時作成の試行、設定の不一致、タイムアウト、内部プロビジョニングエラーが原因で、環境が&#x200B;*Ready*&#x200B;または&#x200B;*Provisioned*&#x200B;状態に達しない場合の問題の解決策について説明します。 |
-| 2026年7月 | [AEM as a Cloud Service環境の作成に失敗しました](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38401) | 新しい記事 | Cloud Managerでの環境作成がプロビジョニング中に失敗し、Adobe Experience Manager as a Cloud Serviceで正常に完了しない場合の問題の解決策について説明します。多くの場合、[!UICONTROL 製品プロファイル &#x200B;]が見つからない、権限が不十分、設定の問題、同時環境作成操作が原因で、特定のエラーメッセージが表示されることがあります。 |
-| 2026年7月 | [Adobe Experience Manager as a Cloud Serviceでスケジュールされたアップグレードのサポートプロセス &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-38415) | 新しい記事 | アップグレード中またはアップグレード後に問題が発生した場合、実稼動環境でAdobe Experience Manager as a Cloud Serviceのスケジュールされたアップグレード中にAdobe サポートが必要になる場合の問題の解決策について説明します。 |
+| 2026年7月 | [AEM as a Cloud Service環境の作成に失敗しました](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-38401) | 新しい記事 | Cloud Managerでの環境作成がプロビジョニング中に失敗し、Adobe Experience Manager as a Cloud Serviceで正常に完了しない場合の問題の解決策について説明します。多くの場合、[!UICONTROL 製品プロファイル &#x200B;]が見つからない、権限が不十分、設定の問題、同時環境作成操作が原因で、特定のエラーメッセージが表示されることがあります。 |
+| 2026年7月 | [Adobe Experience Manager as a Cloud Serviceでスケジュールされたアップグレードのサポートプロセス &#x200B;](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-38415) | 新しい記事 | アップグレード中またはアップグレード後に問題が発生した場合、実稼動環境でAdobe Experience Manager as a Cloud Serviceのスケジュールされたアップグレード中にAdobe サポートが必要になる場合の問題の解決策について説明します。 |
 | 2026年7月 | [Cloud Manager: [!DNL Snyk Container] CI/CD [!DNL Docker] image](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-35013)の脆弱性 [!DNL Selenium]  | 新しい記事 | [!DNL Snyk] ContainerがAdobe Experience Manager Cloud Manager パイプラインの[!DNL Selenium] UI テストに使用される[!DNL Docker] イメージのOS レベルの脆弱性をレポートする際に、その結果がアップストリームの基本イメージから継承されたシステムパッケージに影響するため、この問題の解決策について説明します。 |
 | 2026年7月 | [[!UICONTROL AEMFD Signatures バンドル &#x200B;]は、AEM Formsのインストールまたはアップグレード後も非アクティブのままです](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-36889) | 新しい記事 | 必要なRSAまたは[!DNL BouncyCastle]暗号化クラスがOSGi フレームワークで利用できないか、古い暗号化JARが正しいプロバイダーを上書きするため、*解決済み*&#x200B;または&#x200B;*インストール済み*&#x200B;状態でバンドルを残し、AEM Formsをインストールまたはアップグレードした後、[!UICONTROL AEMFD署名バンドル &#x200B;]のアクティベーションが失敗する問題の解決策について説明します。 |
 | 2026年7月 | [AEM as a Cloud Service: フィルター&#x200B;*警告のインデックスを含まない*[!UICONTROL &#x200B; フルテキストクエリ &#x200B;]が、分断されたパスを検索する際に発生する](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-35229) | 新しい記事 | フィルター&#x200B;*の警告にインデックスを付けずに*[!UICONTROL &#x200B; フルテキストクエリ &#x200B;]を頻繁に実行する場合の問題の解決策について説明します。Adobe Experience Manager as a Cloud Serviceでは、分断されたサブツリー全体で[!UICONTROL &#x200B; フルテキストクエリ &#x200B;]を実行する場合に発生します。 |
