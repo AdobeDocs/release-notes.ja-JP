@@ -2,17 +2,17 @@
 title: 主要なリリースノート
 description: Experience Cloud アプリケーションのリリースノートへのリンクを検索します。 Experience Leagueで新しいチュートリアルビデオを見たり、サポート記事を読んだり、セルフヘルプリソースを見つけたりできます。
 doc-type: release notes
-last-update: August 2026
+last-update: September 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: f98ba938fce628302f65d87be9ee332b7a41e27f
+source-git-commit: 07dffcce63ab1a94468a970d41337657f8fc532e
 workflow-type: tm+mt
 source-wordcount: '21404'
 ht-degree: 14%
 
 ---
 
-# CX Enterprise Central リリースノート - 2026年8月
+# CX Enterprise Central リリースノート - 2026年9月
 
 このページでは、次の最新情報を確認できます。
 
@@ -554,7 +554,7 @@ Experience Leagueの最新のチュートリアルとサポート記事をご覧
 | 2026年7月 | [!DNL Journey Optimizer] | [&#x200B; ロイヤルティチャレンジの報酬の設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/configure-your-challenge/configure-rewards){target="_blank"} | ビデオ | 報酬タイプの選択、配信方法の定義、主要なマイルストーンまたはチャレンジ完了時の参加者への報酬を設定する方法について説明します。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [&#x200B; ロイヤルティチャレンジの設定](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/configure-your-challenge/set-up-a-loyalty-challenge){target="_blank"} | ビデオ | 適切なチャレンジタイプの選択、オーディエンスとスケジュールの設定、参加ルールの定義、進捗状況の追跡と報酬の制御などにより、ロイヤルティチャレンジを設定する方法を説明します。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [&#x200B; ロイヤルティ チャレンジのタスクを作成](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/configure-your-challenge/create-tasks){target="_blank"} | ビデオ | 購入、支出、カスタムイベントアクティビティ（実施要件ルールや除外など）を使用して、ロイヤルティチャレンジタスクを作成および設定する方法について説明します。 |
-| 2026年7月 | [!DNL Journey Optimizer] | [Journey Optimizer ロイヤルティの概要](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty){target="_blank"} | ビデオ | Journey Optimizer Loyaltyが、AIを活用したインサイト、適応型のgamification、エンゲージメントを促進する統合顧客プロファイルにより、ロイヤルティデータをパーソナライズされた体験に変える方法をご覧ください。 |
+| 2026年7月 | [!DNL Journey Optimizer] | [Journey Optimizer Loyaltyの概要](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/loyalty/discover-journey-optimizer-loyalty){target="_blank"} | ビデオ | Journey Optimizer Loyaltyが、AIを活用したインサイト、適応型のgamification、エンゲージメントを促進する統合顧客プロファイルにより、ロイヤルティデータをパーソナライズされた体験に変える方法をご確認ください。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [外部オーディエンスを使用したジャーニーのシミュレーション &#x200B;](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/simulate-journeys-with-external-audiences){target="_blank"} | ビデオ | CSV ファイルまたは連合オーディエンス構成から外部オーディエンスプロファイルを使用してジャーニーをシミュレートする方法、外部属性を使用してメッセージをパーソナライズする方法、およびジャーニーパスを検証する方法を説明します。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [&#x200B; カスタムチャネルの設定と使用](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/channels/configure-and-use-custom-channels){target="_blank"} | ビデオ | Slack、WeChat、Telegramなど、Journey Optimizerでネイティブにサポートされていないメッセージングプラットフォームを、カスタムチャネルを使用して接続し、ジャーニーで使用する方法を説明します。 |
 | 2026年7月 | [!DNL Journey Optimizer] | [新しいジャーニーキャンバスの概要](https://experienceleague.adobe.com/ja/docs/journey-optimizer-learn/tutorials/journeys/introduction-to-the-new-journey-canvas){target="_blank"} | ビデオ | Journey Optimizerの新しいジャーニーキャンバス体験をご覧ください。オーケストレーションされたキャンペーンやオーディエンス構成で既に使用されているエクスペリエンスとジャーニー構築を整合させる、最新のレンダリングエンジンを導入します。 |
