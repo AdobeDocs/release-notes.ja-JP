@@ -15,7 +15,7 @@ ht-degree: 92%
 # Adobe Experience Cloud の新機能 {#experience-cloud}
 
 + [最新のリリースノート](current.md)
-+ {hide-from-toc}[Adobe システム状態のリリースノート ](system-status-release-notes.md)
++ {hide-from-toc}[Adobe システム状態のリリースノート &#x200B;](system-status-release-notes.md)
 + 以前のリリースノート {#previous}
   + 2026 {#2026}
     + [2026年8月](c-legacy-releases/2026/08142026.md)
