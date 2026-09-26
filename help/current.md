@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: September 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 1922760b879f0c0ec86c42b4a938b23dba1c3341
+source-git-commit: cc67c372d836fad4f84ddc1516ab39ff2f340a04
 workflow-type: tm+mt
-source-wordcount: '21662'
+source-wordcount: '21482'
 ht-degree: 13%
 ---
 # [!DNL CX Enterprise]中央リリースノート - 2026年9月 {#top}
@@ -15,7 +15,7 @@ ht-degree: 13%
 このページでは、次の最新情報を確認できます。
 
 * すべての[!DNL CX Enterprise] アプリケーションの[&#x200B; リリースノート &#x200B;](#application-release-notes) （**9月21**&#x200B;更新）
-* [Experience Leagueのイベントと新機能](#events) （更新日：**9月8**）
+* [Experience Leagueのイベントと新機能](#events) （更新日：**9月23**）
 * [[!DNL CX Enterprise Coworker] およびAI](#ai)の学習リソース
 * [&#x200B; チュートリアルとサポート記事](#articles)が[!DNL Experience League]に公開されています
 
@@ -81,11 +81,7 @@ ht-degree: 13%
 
 | アプリケーション | 日付 | 説明 | 詳細 |
 | ------- | ------- | ------- | ------- |
-| [!DNL Adobe Workfront] | 2026年9月15日（PT） | **移行の準備：統合レビューと承認への移行の準備** – 変更の内容、チームが頻繁に直面する問題、移行を成功させるための実践的なヒントを説明します。 | [登録](https://events.teams.microsoft.com/event/58e114db-6cad-4d9e-811c-0891a521b1cd@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
-| [!DNL Adobe Analytics], [!DNL Adobe Marketo Measure], [!DNL Adobe Workfront] | 2026年9月16日（PT） | **Adobe Insider Tour Minneapolis** – 参加者は、[!DNL Analytics]、[!DNL Marketo Measure]、[!DNL Workfront]の最新のイノベーションを学習します。 | [登録](https://event.adobe.com/adobeinsidertourFall2026){target="_blank"} |
-| [!DNL Experience Manager Assets], [!DNL Adobe Experience Manager] | 2026年9月16日（PT） | **適切なチームへの適切なアクセス：AEM Assetsでよりスマートな役割とワークフローを設計** - AEM シリーズのパート 3：権限とアクセス レベルがコラボレーションを向上させ、ガバナンスを強化し、ブランド標準を保護し、よりスケーラブルな[!DNL AEM Assets]運用モデルを構築する方法について説明します。 | [登録](https://events.teams.microsoft.com/event/41d4fa3f-672b-451a-8e85-8c9b5d22866f@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
-| [!DNL Adobe Workfront] | 2026年9月23日（PT） | **[!DNL Workfront]Fusion Wednesday Forum** – この議題のないラウンドテーブル中に[!DNL Fusion]のソリューションを同僚とブレインストーミングします。 | [登録](https://events.teams.microsoft.com/event/6da30228-2bfc-4368-a81d-06398f9f2b40@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
-| [!DNL CX Enterprise] | 2026年9月23日（PT） | **Adobe Digital Insights Presents: Pricing Pressure Index** – 価格圧力指数は、デジタル経済全体における価格の変化に対する消費者の反応を示す独自の指標です。 | [登録](https://events.teams.microsoft.com/event/9e9708a0-fa3b-4771-a16b-33f82da95062@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
+| [!DNL Coworker] | 2026年9月24日（PT） | **Experience League LIVE: [!DNL Coworker]がロック解除されました：** Adobe CX Enterprise [!DNL Coworker]でワークフローを変換しています | [YouTube](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"} |
 | 全般 | 2026年9月29日（PT） | **Experience Maker Awards コミュニティ AMA \|受賞者からのアドバイス** - AdobeがExperience Makerを称賛する理由、私たちが認識しようとしている作業と影響、そして際立ったストーリーを伝える方法を学びます。 | [登録](https://events.teams.microsoft.com/event/005ef4f0-4f57-4f70-94bb-33c092cc91f4@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
 | [!DNL Adobe Experience Manager], [!DNL Experience Manager Assets] | 2026年9月30日（PT） | **承認済みからアクティブ化まで：AEM Assetsでオムニチャネルマーケティングを強化** - AEM シリーズのパート 4: [!DNL AEM Assets]が、一貫性、ガバナンス、制御を維持しながら、承認済みコンテンツをチャネルをまたいでより迅速に配信するのに、どのように役立つかをご覧ください。 | [登録](https://events.teams.microsoft.com/event/adcc686d-d687-4d20-ae4e-ab57c8a36d0e@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
 
@@ -95,8 +91,9 @@ ht-degree: 13%
 
 | アプリケーション | 更新 | 説明 | 更新済み |
 | ------- | ------- | ------- | ------- |
-| [!DNL CX Enterprise Coworker] | **コンテンツアドバイザー** | [自然言語を使用してマーケティングアセットを生成](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/content-advisor/generate-assets){target="_blank"} — [!DNL Coworker]がチャネル用のブランドアセットを数分で作成する方法を説明します。 | 2026年9月11日（PT） |
-| [!DNL CX Enterprise Coworker] | **コンテンツアドバイザー** | [&#x200B; ブランドガバナンスの実際](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/content-advisor/brand-compliance){target="_blank"} — [!DNL Coworker]がブランドチェックをマーケティングワークフローに直接統合する方法をご覧ください。 | 2026年9月11日（PT） |
+| [!DNL Coworker] | **Experience League LIVE** | [共同作業者がロック解除](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"}:Adobe CX Enterpriseでワークフローを変換[!DNL Coworker] | 2026年9月24日（PT） |
+| [!DNL Coworker] | **コンテンツアドバイザー** | [自然言語を使用してマーケティングアセットを生成](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/content-advisor/generate-assets){target="_blank"} — [!DNL Coworker]がチャネル用のブランドアセットを数分で作成する方法を説明します。 | 2026年9月11日（PT） |
+| [!DNL Coworker] | **コンテンツアドバイザー** | [&#x200B; ブランドガバナンスの実際](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/content-advisor/brand-compliance){target="_blank"} — [!DNL Coworker]がブランドチェックをマーケティングワークフローに直接統合する方法をご覧ください。 | 2026年9月11日（PT） |
 | [!DNL Adobe Target] | **最適化** | [実験 [!DNL Coworker]](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/optimization/target){target="_blank"} — [!DNL Coworker]がAdobe アプリケーション全体で結果を読み取り、バリエーションを失っていることを診断し、テスト期間のサイズを変更する方法を説明します。 | 2026年9月10日（PT） |
 | [!DNL CX Enterprise Coworker] | **スキル** | [品質のゲートスキルを実行](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/run-a-quality-gate-skill){target="_blank"} – カスタムスキルを使用して、展開する前に抑制リスト、頻度キャップ、命名標準に照らしてオーディエンスのアクティベーションを検証する方法を説明します。 | 2026年9月9日（PT） |
 | [!DNL CX Enterprise Coworker] | **スキル** | [&#x200B; スキルとは何ですか？](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/customizations/skills/what-are-skills){target="_blank"}  – 再利用可能なプレイブックが、[!DNL Coworker]が顧客体験オーケストレーションタスクを一貫して実行するのにどのように役立つかを説明します。 | 2026年8月26日（PT） |
