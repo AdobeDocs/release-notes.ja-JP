@@ -2,12 +2,12 @@
 title: Adobe システムステータスリリースノート
 description: Adobe システムステータス（status.adobe.com）のリリース履歴。
 doc-type: release notes
-last-update: September 2026
+last-update: October 2026
 author: mfrei
-source-git-commit: 012ac83c9545c3ed9a008affe497d866162085dd
+source-git-commit: 079ad317870716d5ca3d5c5cdd42267a86ab62e6
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 30%
+source-wordcount: '306'
+ht-degree: 27%
 ---
 
 # [!DNL Adobe System Status] リリースノート {#status-release-notes}
@@ -18,6 +18,7 @@ ht-degree: 30%
 
 | 日付 | アップデート |
 | ------- | ------- |
+| 2026年10月1日（PT） | <ul><li>サブスクリプションまたは使用権限がなく、**マイイベント**&#x200B;が有効になっている場合の空のCloud セクションを修正しました</li><li>Akamai オリジンのフェイルオーバーによる可用性の向上</li><li>必要なID スコープを使用するようにプロファイル取得を更新しました</li></ul> |
 | 2026 年 3 月 | <ul><li>AI バーチャルアシスタント（Beta）</li><li>バグ修正と改善</li></ul> |
 | 2025年12月8日（PT） | <ul><li>バーチャルアシスタントのフィードバック機能の強化（ガイド付きワークフローの合理化、直感的なアイコン）</li><li>バグ修正と改善</li></ul> |
 | 2025年7月16日（PT） | <ul><li>仮想アシスタントの一般提供</li><li>製品ページおよびクラウドページ、およびバーチャルアシスタントでのイベント ID検索</li><li>Slack 通知設定の更新</li><li>バグ修正と改善</li></ul> |
