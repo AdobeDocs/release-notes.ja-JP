@@ -2,9 +2,9 @@
 title: Adobe システムステータスリリースノート
 description: Adobe システムステータス（status.adobe.com）のリリース履歴。
 doc-type: release notes
-last-update: September 2026
+last-update: October 2026
 author: mfrei
-source-git-commit: 012ac83c9545c3ed9a008affe497d866162085dd
+source-git-commit: 5c94477bd7f3397d2a48228961f95737cec2232e
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 30%
