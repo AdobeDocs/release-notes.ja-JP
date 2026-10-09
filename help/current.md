@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: September 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 98c9f9d7064d5ae6e3dc03e34e494cc6cc7dcd59
+source-git-commit: c834507aeddee1d754a86f3d0fedc0c7b305f8e0
 workflow-type: tm+mt
-source-wordcount: '21365'
+source-wordcount: '21383'
 ht-degree: 13%
 ---
 # [!DNL CX Enterprise]中央リリースノート - 2026年9月 {#top}
@@ -92,6 +92,7 @@ ht-degree: 13%
 
 | アプリケーション | 更新 | 説明 | 更新済み |
 | ------- | ------- | ------- | ------- |
+| [!DNL Coworker] | **Experience League LIVE** | [共同作業者がロック解除](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"}：共同作業者のオーディエンスおよびジャーニー B2C機能 | 2026年10月8日（PT） |
 | [!DNL Coworker] | **Experience League LIVE** | [共同作業者がロック解除](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"}:Adobe CX Enterpriseでワークフローを変換[!DNL Coworker] | 2026年9月24日（PT） |
 | [!DNL Coworker] | **コンテンツアドバイザー** | [自然言語を使用してマーケティングアセットを生成](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/content-advisor/generate-assets){target="_blank"} — [!DNL Coworker]がチャネル用のブランドアセットを数分で作成する方法を説明します。 | 2026年9月11日（PT） |
 | [!DNL Coworker] | **コンテンツアドバイザー** | [&#x200B; ブランドガバナンスの実際](https://experienceleague.adobe.com/ja/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/content-advisor/brand-compliance){target="_blank"} — [!DNL Coworker]がブランドチェックをマーケティングワークフローに直接統合する方法をご覧ください。 | 2026年9月11日（PT） |
