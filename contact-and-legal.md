@@ -22,7 +22,7 @@ ht-degree: 34%
 
 Adobe Marketing Cloud カスタマーケアチームは、お客様を支援し、お客様がエンゲージできる多くの仕組みを提供します。
 
-[Adobe エンタープライズ サポートへのお問い合わせ](https://helpx.adobe.com/contact/enterprise-support.ec.html)を参照してください
+[Adobe エンタープライズ サポートへのお問い合わせ](https://helpx.adobe.com/jp/contact/enterprise-support.ec.html)を参照してください
 
 ## サービス、能力、請求 {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
@@ -44,4 +44,4 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. 商標記号（®、™など） Adobeの商標を示します。
 
-All third-party trademarks are the property of their respective owners. 更新された情報/追加のサードパーティ製コード情報（[https://www.adobe.com/go/thirdparty](https://www.adobe.com/jp/products/eula/third_party.html)）を参照できます。
+All third-party trademarks are the property of their respective owners. 更新された情報/追加のサードパーティ製コード情報（[https://www.adobe.com/go/thirdparty_jp](https://www.adobe.com/jp/products/eula/third_party.html)）を参照できます。
