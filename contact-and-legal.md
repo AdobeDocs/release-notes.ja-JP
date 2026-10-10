@@ -1,6 +1,6 @@
 ---
-description: アドビへのお問い合わせに関する情報と、本製品および本ドキュメントの使用に関する法的事項に関する情報です。
-keywords: dynamic tag management;リリースノート
+description: お客様がAdobeに連絡し、本製品およびドキュメントの使用に関する法的問題を理解するのに役立つ情報。
+keywords: dynamic tag management；リリースノート
 seo-description: Information to help you contact Adobe and understand the legal issues concerning your use of this product and documentation.
 seo-title: Contact and Legal Information
 title: 連絡先情報および法的事項
@@ -8,27 +8,25 @@ uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
-workflow-type: ht
-source-wordcount: '219'
-ht-degree: 100%
-
+workflow-type: tm+mt
+source-wordcount: '235'
+ht-degree: 34%
 ---
-
 
 # 連絡先情報および法的事項
 
-アドビへのお問い合わせに関する情報と、本製品および本ドキュメントの使用に関する法的事項に関する情報です。
+お客様がAdobeに連絡し、本製品およびドキュメントの使用に関する法的問題を理解するのに役立つ情報。
 
 
 ## ヘルプとテクニカルサポート {#section_354AC2658BA84A2A96E64C5B2C43B73B}
 
-Adobe Experience Cloud カスタマーケアチームによる支援を受けられます。以下のような様々な手段をご利用いただけます。
+Adobe Marketing Cloud カスタマーケアチームは、お客様を支援し、お客様がエンゲージできる多くの仕組みを提供します。
 
-[アドビエンタープライズサポートへのお問い合わせ](https://helpx.adobe.com/jp/contact/enterprise-support.ec.html)を参照してください
+[Adobe エンタープライズ サポートへのお問い合わせ](https://helpx.adobe.com/contact/enterprise-support.ec.html)を参照してください
 
-## サービス、利用可能な機能、課金 {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
+## サービス、能力、請求 {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
-ソリューションの設定によっては、このドキュメントで説明されている一部のオプションをご利用いただけない場合があります。各アカウントはそれぞれ異なるので、価格、支払期限、利用条件については、契約書を参照してください。ご利用のサービスレベルの追加や変更をご希望の場合や、現在のサービスに対するご質問は、担当のアカウントマネージャーにお問い合わせください。
+ソリューションの設定によっては、このドキュメントで説明されている一部のオプションをご利用いただけない場合があります。 各アカウントは独自であるため、価格、期限、条件について契約を確認してください。 サービスレベルを追加または変更したい場合、または現在のサービスに関して質問がある場合は、アカウントマネージャーにお問い合わせください。
 
 <!--
 ## Feedback {#section_8154D6D712054220A90D85FA8E92933E}
@@ -38,12 +36,12 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
 
 
 <ul class="simplelist"> 
- <li> © 2016 Adobe Systems Incorporated. All Rights Reserved. </li> 
+ <li> © 2016 Adobe Inc. All Rights Reserved. </li> 
  <li> Published by Adobe Systems Incorporated. </li> 
 </ul>
 
-[利用条件](https://www.adobe.com/go/marketingcloud_terms_of_use) | [プライバシーセンター](https://www.adobe.com/jp/privacy/policy.html)
+[利用条件](https://www.adobe.com/go/marketingcloud_terms_of_use) | [ プライバシーセンター](https://www.adobe.com/jp/privacy/policy.html)
 
-Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
+Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. 商標記号（®、™など） Adobeの商標を示します。
 
-All third-party trademarks are the property of their respective owners. Updated Information/Additional Third-Party Code Information available at [https://www.adobe.com/go/thirdparty_jp](https://www.adobe.com/jp/products/eula/third_party/).
+All third-party trademarks are the property of their respective owners. 更新された情報/追加のサードパーティ製コード情報（[https://www.adobe.com/go/thirdparty](https://www.adobe.com/jp/products/eula/third_party.html)）を参照できます。
