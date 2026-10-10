@@ -40,7 +40,7 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
  <li> Published by Adobe Systems Incorporated. </li> 
 </ul>
 
-[利用条件](https://www.adobe.com/go/marketingcloud_terms_of_use) | [ プライバシーセンター](https://www.adobe.com/jp/privacy/policy.html)
+[利用条件](https://www.adobe.com/go/marketingcloud_terms_of_use) | [&#x200B; プライバシーセンター](https://www.adobe.com/jp/privacy/policy.html)
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. 商標記号（®、™など） Adobeの商標を示します。
 
