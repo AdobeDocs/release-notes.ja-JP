@@ -546,7 +546,7 @@ Journey Optimizer B2B Edition 向けに新しく公開されたビデオ、チ�
 
 | 公開日 | 名前 | タイプ | 説明 |
 | ----------- | ---------- | ---------- | ---------- |
-| 2026年7月 | [Project Falco Summitのお知らせ](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/join-the-project-falco-beta-program-251090?profile.language=ja){target="_blank"} | ビデオ | Adobe Summit 2026でのあらゆる発表を紹介するProject Falcoのベータ版デモをご覧ください。 |
+| 2026年7月 | [Project Falco Summitのお知らせ](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/join-the-project-falco-beta-program-251090?profile.language=ja&lang=ja){target="_blank"} | ビデオ | Adobe Summit 2026でのあらゆる発表を紹介するProject Falcoのベータ版デモをご覧ください。 |
 
 ### [!DNL Adobe Marketo Engage] {#tutorials-marketo}
 
