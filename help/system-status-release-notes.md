@@ -2,12 +2,12 @@
 title: Adobe システムステータスリリースノート
 description: Adobe システムステータス（status.adobe.com）のリリース履歴。
 doc-type: release notes
-last-update: October 2026
+last-update: November 2026
 author: mfrei
-source-git-commit: 5c94477bd7f3397d2a48228961f95737cec2232e
+source-git-commit: 7c1a3d1b65801e3ae5f6b17cfc32e6e3de249fc3
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 30%
+source-wordcount: '401'
+ht-degree: 21%
 ---
 
 # [!DNL Adobe System Status] リリースノート {#status-release-notes}
@@ -16,8 +16,14 @@ ht-degree: 30%
 
 このページは[!DNL Adobe System Status]件の更新を経時的に追跡します。 レポートする新しいリリースがある場合にのみ更新されます。
 
+<!-- 
+[internal](https://wiki.corp.adobe.com/pages/viewpage.action?pageId=2821708019&spaceKey=AdobeStatus&title=Product%2Bpriority%2Bupdate%2B-%2Brelease%2Bnotes) 
+-->
+
 | 日付 | アップデート |
 | ------- | ------- |
+| 2026年9月16日（PT） | <ul><li>AI バーチャルアシスタントのコンテキスト：より効率的な会話のために、連続したプロンプト間のコンテキストをサポートします</li><li>デフォルトのホーム、クラウド、および製品のページ：イベントは、使用権限とサブスクリプションに基づいてデフォルト設定されるようになりました。**すべて**&#x200B;と&#x200B;**マイイベント**&#x200B;を切り替えて、他のイベントを表示します</li><li>ステータス MCP （ベータ版）: Model Context Protocol （MCP）を介してステータス APIをAI エージェントおよびLLMに直接接続します。お客様のベータ版に参加するには、statuscom-adobe-support@adobe.comにメールを送信します。</li></ul> |
+| 2026年6月4日（PT） | <ul><li>AI バーチャルアシスタントの一般提供：webおよびモバイルでのイベントおよびサブスクリプション情報への会話型アクセスの高速化</li><li>Microsoft Teams通知：サブスクリプションを作成または編集する際に、Teams チャネルにサブスクリプションの継続的なイベントを投稿します</li><li>サブスクリプションメール（Outlookやその他のカレンダー）からカレンダーに追加して、今後のメンテナンスやイベントを行うことができます</li><li>アクセシビリティの修正とその他の機能強化</li></ul> |
 | 2026 年 3 月 | <ul><li>AI バーチャルアシスタント（Beta）</li><li>バグ修正と改善</li></ul> |
 | 2025年12月8日（PT） | <ul><li>バーチャルアシスタントのフィードバック機能の強化（ガイド付きワークフローの合理化、直感的なアイコン）</li><li>バグ修正と改善</li></ul> |
 | 2025年7月16日（PT） | <ul><li>仮想アシスタントの一般提供</li><li>製品ページおよびクラウドページ、およびバーチャルアシスタントでのイベント ID検索</li><li>Slack 通知設定の更新</li><li>バグ修正と改善</li></ul> |
