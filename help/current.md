@@ -5,19 +5,19 @@ doc-type: release notes
 last-update: November 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 35e85c358868a4cf25a058056c3996982a8f3520
+source-git-commit: a4e942e1eddf48f9834da9b00a59038c6ebc1857
 workflow-type: tm+mt
-source-wordcount: '23968'
+source-wordcount: '23912'
 ht-degree: 12%
 ---
 # [!DNL CX Enterprise]中央リリースノート — 2026年11月 {#top}
 
 このページでは、次の最新情報を確認できます。
 
-* すべての[!DNL CX Enterprise] アプリケーションの[&#x200B; リリースノート &#x200B;](#application-release-notes) （**11月6**&#x200B;更新）
-* Experience Leagueの[&#x200B; イベントと新機能](#events)
-* [[!DNL CX Enterprise Coworker] およびAI](#ai)の学習リソース （更新日：**11月3**）
-* [&#x200B; チュートリアルとサポート記事](#articles)が[!DNL Experience League]に公開されています
+* [すべての[!DNL CX Enterprise] アプリケーションのリリースノート &#x200B;](#application-release-notes)の概要（**11月8**&#x200B;日更新）
+* アプリケーションごとに[新しいビデオとサポート記事](#articles)
+
+イベントを検索して登録するには、[Experience League Events](https://experienceleague.adobe.com/ja/events)にアクセスしてください
 
 >[!TIP]
 >
@@ -29,27 +29,27 @@ ht-degree: 12%
 
 **重要：**&#x200B;特定のアプリケーションは毎週リリースされます。 最新情報を入手するには、これらのページに頻繁にアクセスしてください。
 
-最終更新日：**2026年11月6日**
+最終更新日：**2026年11月8日**
 
 | アプリケーション | リリース日 | リリースノート URL | アップデート |
 | ------------- | ------------- | ------------- | ------------- |
+| **[!DNL Adobe Commerce]as a Cloud Service** | 2026年11月10日（PT） | [Adobe Commerce as a Cloud Service リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>`addProductsToCart`の突然変異による買い物かごアイテムのカスタム属性。サードパーティによって満たされたアイテムを除外する出荷品目フィルターwebhook （11月10日、今すぐサンドボックス）</li><li>リターンデータを保存する前に読み取りおよび変更する新しい`observer.rma_save_before` Webhook （11月10日）</li><li>REST APIを介して作成された非仮想注文には、配送先住所が必要になりました（11月10日）</li><li>店舗クレジット残高の`GET /V1/customers/:customerId/balance` エンドポイント、`InvoiceItemInterface` （11月10日）の`row_total` フィールド</li><li>Webhookがテンプレート変数を追加または変更し、レンダリング前にコメントメールを並べ替える（10月28日）</li><li>承認済み製品レビュー数と平均評価をシステム属性としてカタログサービスにエクスポートする（10月28日）</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-commerce) |
 | **[!DNL Adobe Marketo Engage]** | 2026年11月6日（PT） | [Marketo Engage の最新のリリースノート](https://experienceleague.adobe.com/ja/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker] プラン キャンペーン スキル：キャンペーン概要を[!DNL Marketo Engage] プログラム設定ドキュメントに変換します</li><li>呼び出し可能なエージェント：スマートキャンペーンのフローステップとして実行され、結果をリードフィールドに書き戻すAI エージェント（近日リリース予定）</li><li>「このプログラム/フォルダーに複製」オプションを使用してコピー先を指定（近日リリース予定）</li><li>購読している管理者のCRM同期ステータスの変更に関する即時アラート</li><li>[!DNL Marketo Engage]個の新しいUI：更新されたメニュー、アイコン、レイアウト</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-marketo) |
-| **[!DNL Adobe Journey Optimizer B2B Edition]** | 2026年11月6日（PT） | [Journey Optimizer B2B Edition リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} | <ul><li>ターゲティングプロファイルの静的および動的な人物リストと、リストメンバーシップでプロファイルを含めたり除外したりする人物リストフィルター</li><li>静的な人物リストに人物を追加または削除するためのジャーニーアクション</li><li>カンバス上のノードを識別するためのジャーニーノードラベル</li><li>A/B テスト用のバリエーション（Beta）を使用したパスジャーニーノードの分割</li><li>複数のトリガーをサポートする拡張「イベントをリッスン」ノード</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-ajo-b2b) |
+| **[!DNL Adobe Journey Optimizer B2B Edition]** | 2026年11月6日（PT） | [Journey Optimizer B2B Edition リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} | <ul><li>ターゲティングプロファイルの静的および動的な人物リストと、リストメンバーシップでプロファイルを含めたり除外したりする人物リストフィルター</li><li>静的な人物リストに人物を追加または削除するためのジャーニーアクション</li><li>カンバス上のノードを識別するためのジャーニーノードラベル</li><li>A/B テスト用のバリエーション（Beta）を使用したパスジャーニーノードの分割</li><li>複数のトリガーをサポートするイベント _ノードのリスニングが強化されました_</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-ajo-b2b) |
 | **[!DNL Adobe Journey Optimizer]** | 2026年11月5日（PT） | [[!DNL Journey Optimizer] リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Experience Manager フラグメントの動的トークンの代用：コンテンツフラグメントでプロファイル属性パスを直接使用します。トークンマップは必要ありません（利用制限あり）（11月5日）</li><li>オファーの関連性を向上させるパーソナライズされた最適化モデルのプロファイル機能とコンテキスト機能（限定提供）（11月3日）</li><li>[!DNL CX Enterprise Coworker]のオーケストレーションキャンペーンスキル：キャンペーンのリストとフィルター、詳細と履歴の取得、ワークフローグラフのレンダリング（11月3日）</li><li>キャンペーン、ジャーニー、オーケストレーションされたキャンペーンの統合カレンダー（限定提供）（10月29日）</li><li>キャンペーンとジャーニーのカスタムメタデータ：エンティティの種類ごとに最大10個のカスタムビジネスフィールド（限定提供）（10月29日）</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-ajo) |
 | **[!DNL Adobe Experience Manager]&#x200B;[!DNL Cloud Manager]** | 2026年11月5日（PT） | [Adobe Experience Manager Cloud Manager リリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-manager/content/release-notes/current){target="_blank"} | <ul><li>2026.11.0:AMS プログラムのWeb階層パイプラインでは、Dispatcherおよびweb階層設定をフルスタックデプロイとは別にデプロイします</li><li>2026.11.0：大規模なプロジェクトでコード品質（SonarQube）スキャンが失敗しなくなりました</li><li>2026.11.0: サイト使用状況のCSV エクスポートで正しい月ラベルが表示される。アクセストークン名を再利用しても、既存のトークンが上書きされない</li><li>スマートビルドモジュールレベルのキャッシュによるビルドパフォーマンスの向上</li><li>顧客管理キー（CMK）セルフサービス</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-aem) |
 | **Adobe Advertising** | Search, Social, &amp; Commerce: 2026年11月4日<br>DSP: 2026年8月14日<br>Creative: 2026年7月1日 | <ul><li>[Search, Social, &amp; Commerceの新機能](https://experienceleague.adobe.com/ja/docs/advertising/search-social-commerce/home){target="_blank"}</li><li>[DSPの新機能](https://experienceleague.adobe.com/ja/docs/advertising/dsp/home){target="_blank"}</li><li>[Creativeの新機能](https://experienceleague.adobe.com/ja/docs/advertising/creative/home){target="_blank"}</li></ul> | <ul><li>Search, Social, &amp; Commerce：最適化されたポートフォリオでGoogle Adsの予算レコメンデーションをオプトイン使用。予算は保持または引き上げられ、減少することはありません</li><li>Search, Social, &amp; Commerce:Google Ads キャンペーンのAI Max付きキャンペーンレベルのブランド包含、ブランド除外、URL包含（および広告グループレベルのURL包含）と、バルクシートのサポート</li><li>Search, Social, &amp; Commerce: ChatGPT広告のサポート（Beta）</li><li>Search, Social, &amp; Commerce: Google AIの最大検索語句の組み合わせレポートにより、コンバージョンアクションによるコンバージョンが増加</li><li>DSP：自己帰属コンバージョンレポート</li><li>DSP：生成AI （Beta）とブランドプロファイルを備えたCreative Studio。郵便番号ターゲティングリスト</li><li>Creative:Creative Studioと、ディスプレイ広告を生成するためのAIおよびブランドプロファイル</li><li>Creative:Adobe Analyticsのバリエーションおよびブランチレベルのパフォーマンス。フィードベースのテンプレートから得られるVAST準拠の動画広告</li></ul> |
 | **[!DNL Adobe Customer Journey Analytics]** | 2026年11月3日（PT） | [Customer Journey Analytics リリースノート](https://experienceleague.adobe.com/ja/docs/analytics-platform/using/releases/latest?lang=ja#releases){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker]: Content Analytics データを使用したコンテンツに関する質問（一般公開）（11月3日）</li><li>Coworkerの製品内エクスペリエンス：オープンプロジェクトをコンテキストとして使用するAnalysis Workspaceのチャットパネル（10月29日）</li><li>コンポーネントとプロジェクトの説明を自動生成（10月29日（PT）、GA 11月18日（PT）））</li><li>Adobe Brand Visibilityとの統合：AIを活用した発見がサイトエンゲージメントを促進する方法を測定（10月29日）</li><li>「ジャーニーキャンバス：割合を比較」オプションでは、ノード、矢印、フォールアウトの変化率が前期（10月19日）と比較して表示されます</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-cja) |
 | **[!DNL Adobe Analytics]** | 2026年10月29日（PT） | [[!DNL Analytics] リリースノート](https://experienceleague.adobe.com/ja/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>ビジュアライゼーションの簡潔な凡例ラベル（10月29日）</li><li>コンポーネントとプロジェクトの説明を自動生成（10月29日（PT）、GA 11月18日（PT）））</li><li>[!DNL Coworker Chat]：高度な分析、指標の変更の根本原因の分析、Analysis Workspaceでのビジュアライゼーションの開始（10月29日）</li><li>[!DNL CX Enterprise Coworker]様は[!DNL Adobe Analytics]件のプロジェクトとコンポーネントをCustomer Journey Analyticsに移行できます（10月26日）</li><li>Data Warehouse レポートの分類データの機能強化（削除された値の空白を含む）（10月14日）</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-analytics) |
 | **[!DNL Adobe Experience Manager]as a Cloud Service** | 2026年10月29日（PT） | [Adobe Experience Manager as a Cloud Service の最新のリリースノート](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"} | <ul><li>機能リリース 2026.10.0が現在の機能で、2026年11月19日（PT）に2026.11.0が予定されています。</li><li>AEM Cloud Service SDKは、ローカル開発用のJava 25 ランタイムをサポートしています（10月29日）</li><li>Assets：多言語キャプションとオーディオトラック、AIが生成したキャプション、ブランド化されたビデオビューア、Content HubがAI 検索とスマートコレクションを獲得</li><li>AEM Governance Agentは脆弱性の発見を優先します。[!DNL CX Enterprise Coworker]はワークフローを調査し、Dispatcherの動作を調査できます</li><li>Forms：アダプティブFormsのテーブルコンポーネント、新しいドキュメント変換API、添付ファイルのウイルススキャン</li><li>OpenTelemetry for APM in Limited Availability （10月19日）</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-aem) |
-| **[!DNL Adobe Marketing Campaign Analytics]**（旧 [!DNL Adobe Mix Modeler]） | 2026年10月29日（PT） | [Marketing Campaign Analytics リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/marketing-campaign-analytics/using/releases/latest){target="_blank"} | <ul><li>完全なfunnel モデリング：モデルを構築する際に有効にし、マーケティングチームがfunnelを通じてどのように顧客を動かしているかを示します。Model Insightsは、funnel フロービジュアライゼーションを追加します（10月29日）。</li><li>有料メディアチャネルの焦点：有料メディアチャネルの貢献度に関するモデルのインサイトをフォーカス （8月19日）</li><li>マーケティングパフォーマンスの概要の設定：指標を選択し、収益ベースモデルに表示する方法（8月19日）</li><li>調整済みデータセット設定（8月19日）で、データセットルールをソース、粒度、および週の始まりごとにフィルタリングします</li><li>Channel adstock （3月30日）</li></ul> |
-| **[!DNL Adobe Commerce]as a Cloud Service** | 2026年10月28日（PT） | [Adobe Commerce as a Cloud Service リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>Webhookがテンプレート変数を追加または変更し、レンダリング前にコメントメールを並べ替える（10月28日）</li><li>承認済み製品レビュー数と平均評価をシステム属性としてカタログサービスにエクスポートする（10月28日）</li><li>REST エンドポイントを介してクレジットを保存するためのクレジットメモのオプションの払い戻し、2つの新しい管理者権限（10月28日）</li><li>サードパーティプラットフォームからトランザクションメールを送信するAdobe I/O Events（会社割り当て、実店舗での受け取り対応、注文拒否）（10月28日）</li><li>カスタム国リージョンを管理するREST エンドポイント、および最大100 SKUの新しいstockAvailability GraphQL クエリ（10月20日）</li><li>Adobe I/O Eventsを通じてお客様のメールアドレスの作成、更新、削除を行う（10月20日）</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-commerce) |
+| **[!DNL Adobe Marketing Campaign Analytics]**（旧 [!DNL Adobe Mix Modeler]） | 2026年10月29日（PT） | [Marketing Campaign Analytics リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/marketing-campaign-analytics/using/releases/latest){target="_blank"} | <ul><li>完全なfunnel モデリング：モデルを構築する際に有効にし、マーケティングチームがfunnelを通じてどのように顧客を動かしているかを示します。Model Insightsは、funnel フロービジュアライゼーションを追加します（10月29日）。</li><li>有料メディアチャネルの焦点：有料メディアチャネルの貢献度に関するモデルのインサイトをフォーカス （8月19日）</li><li>マーケティングパフォーマンスの概要の設定：指標を選択し、収益ベースモデルに表示する方法（8月19日）</li><li>調整済みデータセット設定（8月19日）で、データセットルールをソース、粒度、および週の始まりごとにフィルタリングします</li><li>Channel adstock （3月30日）</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-mca) |
 | **[!DNL CX Enterprise Coworker]** | 2026年10月28日（PT） | [[!DNL CX Enterprise Coworker] リリースノート](https://experienceleague.adobe.com/ja/docs/coworker/content/more-resources/release-notes){target="_blank"} | <ul><li>[!DNL Coworker Chat]：機能の機能強化と修正。[!DNL Experience Platform] リリースノートに記載されています</li><li>チーム向け[!DNL Coworker]：機能の機能強化と修正、継続的に配信</li><li>[!DNL CX Enterprise]の中央リリースノートへのリンク</li></ul> |
 | **[!DNL Experience Platform]モバイル SDK** | 2026年10月28日（PT） | [[!DNL Experience Platform] Mobile SDK リリースノート](https://developer.adobe.com/client-sdks/home/release-notes/){target="_blank"} | <ul><li>Brand Concierge iOS 5.10.2およびAndroid 3.10.2：プライバシー通知、エージェントメッセージパディングテーマトークン、および調整の修正（10月27日）</li><li>メッセージング：iOS 5.18.0およびAndroid 3.14.0 プッシュトークン同期アップデート、Android BOM 3.25.0 （10月22日）</li><li>Edge:iOS 5.3.0およびAndroid 3.2.0は、同意の収集に関係なく、Edge Networkにデバイス属性を送信します（10月21日）</li><li>EdgeIdentity:iOS 5.2.0およびAndroid 3.2.0では、updateOperationalData APIが追加されます（10月21日）。</li><li>コア：iOS 5.13.0およびAndroid 3.11.0では、forward-operational-data ルール結果が追加されます（10月19日）。</li></ul> |
 | **[!DNL Adobe Experience Platform and Real-Time CDP]** | 2026年10月27日（PT） | [[!DNL Experience Platform] リリースノート](https://experienceleague.adobe.com/ja/docs/experience-platform/release-notes/latest){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker]：異常値検出スキル（使用制限あり）と通知スキル、Microsoft 365 Copilot、ChatGPT、Claudeで利用可能な同僚</li><li>宛先：6sense Account （ベータ版）、The Trade Desk サードパーティオーディエンス、The Trade Desk - CRMの新しいUID2 コンバージョン名前空間、および一般公開されるアクティベーションのタイミング</li><li>リアルタイム顧客プロファイル：非構造化データのサポート（ベータ版）</li><li>宛先：Data Landing Zoneは、AzureおよびAWS用に書き出されたファイルの手動削除をサポートしています</li><li>ソース：非推奨のAzure Event Hubs仮想ネットワーク許可リストに加える</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-aep) |
 | **[!DNL Adobe Brand Visibility]（以前の[!DNL Adobe LLM Optimizer]）** | 2026年10月24日（PT） | [ブランドの可視性リリースノート &#x200B;](https://abv.adobe.com/articles/release-notes){target="_blank"} | <ul><li>プロンプトライブラリ：大きなプロンプトライブラリを独自のカテゴリ別にソートするためのカスタムタグ（有料のお客様）</li><li>商談Workspace：実験が終了すると結果へのリンクが表示される通知</li><li>AIによる可視化：トピックを追跡する際に追加するプロンプトを個別に選択します</li><li>ブランド要求：すべての要求リストの要求テキストを検索します</li><li>プロンプトライブラリ：読み込み、書き込み、削除の信頼性の高いステータス</li><li>一般提供：ブランドの可視性で統合されたAIの可視化の測定、最適化、影響追跡（LLM Optimizerからリブランド）</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-llm-optimizer) |
 | **[!DNL Adobe Workfront]** | 2026年10月22日（2026年第4四半期） | [Adobe Workfront 製品リリース](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker]は、[!DNL Workfront]および接続されたAdobe システムで作業するための会話型インターフェイスとしてAI アシスタントに取って代わります（10月22日から段階的に展開）</li><li>複数のドキュメントを単一の承認ワークフローにグループ化する</li><li>Workfront MCP サーバーツールセット：MCP カタログを特定のツールセットに制限し、製品使用権限でフィルタリングします</li><li>Canvas ダッシュボードは、Google Cloud PlatformおよびAzure上のインスタンスのオープンベータ版です</li><li>レート属性階層は自動的に接続されたままになります（Workflow Ultimate）</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-workfront) |
 | **[!DNL Adobe Target]** | 2026年10月15日（PT） | [[!DNL Adobe Target] リリースノート](https://experienceleague.adobe.com/ja/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>26.10.2: アクティビティの概要に誤って表示される修正目標設定、プロモーション編集後に作成されたバックアップの推奨事項、および約2週間後に削除されたレポートプリセット。Safari サポートが追加されました（Visual Experience ComposerまたはEnhanced Experience Composerではサポートされていません）</li><li>26.10.1：新しく追加されたレポートスイートと、Visual Experience Composerでエクスペリエンスフラグメントのオファー名の代わりに生のHTMLが表示されるA4T レポートエラーを修正しました</li><li>26.9.8：トラフィック、期間、および最小検出可能な効果を推定して実験を計画するためのサンプルサイズ計算ツール（ベータ版）</li><li>26.9.8:A/B テスト用AI インサイト（ベータ版）（手動）アクティビティ</li><li>26.9.8: ユーザーがAI権限を付与できない問題を修正しました</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-target) |
-| **[!DNL Adobe Campaign Classic]v7** | 2026年10月15日（PT） | [[!DNL Campaign Classic] リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>7.4.5 （ビルド 9420、10月15日）:Analytics外部アカウントの「Gone」エラー、パーソナライゼーションが保留中の配信、ロックループからの高いCPU、falseの「スパムチェックに失敗しました」エラー、ソフトバウンス後に受信者が強制隔離されない問題の修正</li><li>重大な脆弱性に関するセキュリティアップデート（7.4.4、ビルド 9403、10月15日、nlserverの再起動が必要）</li><li>重大な脆弱性に関するセキュリティアップデート（v7.4.3、ビルド 9401、8月25日）</li><li>Adobe Analytics コネクタがAnalytics 2.0 APIに移行されました（ビルド 9400、8月11日）</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-campaign) |
+| **[!DNL Adobe Campaign Classic]v7** | 2026年10月15日（PT） | [[!DNL Campaign Classic] リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>7.4.5 （ビルド 9420、10月15日）:Analytics外部アカウント `Gone` エラー、パーソナライゼーションの保留中に配信が停止する、ロックループからCPUが高い、falseの「スパムチェックに失敗しました」エラー、ソフトバウンス後に受信者が強制隔離されない問題の修正</li><li>重大な脆弱性に関するセキュリティアップデート（7.4.4、ビルド 9403、10月15日、nlserverの再起動が必要）</li><li>重大な脆弱性に関するセキュリティアップデート（v7.4.3、ビルド 9401、8月25日）</li><li>Adobe Analytics コネクタがAnalytics 2.0 APIに移行されました（ビルド 9400、8月11日）</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-campaign) |
 | **[!DNL Adobe Campaign]Web ユーザーインターフェイス** | 2026年9月22日（PT） | [Campaign web UI リリースノート](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>LINE チャネルのサポート：スタンドアロン配信またはワークフローでのLINE メッセージの作成と送信</li><li>予算と配信開始の承認タイプ</li><li>SMS配信で訪問者ベースのターゲティングがサポートされるようになりました</li><li>「エンリッチメント」および「オーディエンスを構築」アクティビティでの外部データベースの強化</li><li>管理者は、特定のサイドナビゲーションメニューエントリを制限できます</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-campaign) |
 | **[!DNL Adobe System Status]** | 2026年9月16日（PT） | [Adobe システム状態のリリースノート &#x200B;](system-status-release-notes.md) | <ul><li>AI バーチャルアシスタントのコンテキスト（連続プロンプト）</li><li>使用権限とサブスクリプションに基づくデフォルトのホーム、クラウド、製品ページ（**すべて**&#x200B;と&#x200B;**マイイベント**&#x200B;の切り替え）</li><li>ステータス MCP （ベータ版）: Model Context Protocolを使用して、ステータス APIをAI エージェントおよびLLMに接続します</li><li>AI仮想アシスタントの一般提供（6月4日）</li><li>ステータス登録に関するMicrosoft Teams通知（6月4日）</li></ul>[&#x200B; チュートリアルとサポート記事](#status) |
 | **[!DNL Adobe GenStudio for Performance Marketing]** | 2026年9月15日（PT） | [GenStudio for Performance Marketing リリースノート](https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>一括アクティベーション：1つのアクティベーションテーブルから、有料広告チャネル（[!DNL Meta]、[!DNL LinkedIn]、Google Campaign Manager 360、Amazon Ads、Innovid、[!DNL TikTok]、[!DNL YouTube]、ChatGPT、The Trade Desk）をまたいで複数の承認済みエクスペリエンスを公開します</li><li>Horizon キャンバスでの一括編集（リンクされたテキスト/画像フィールドは、サイズとページ全体に編集内容を反映）</li><li>The Trade Deskへのディスプレイ広告のアクティベーション</li><li>コンテンツフラグメントの入れ替え：AEMでテキストブロックを、事前承認済みの再利用可能なコンテンツフラグメントに置き換えます</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-genstudio-marketing) |
@@ -73,22 +73,37 @@ ht-degree: 12%
 
 [トップ](#top)
 
-## Experience Leagueのイベントと新機能{#events}
+## 新しいビデオとサポート記事 {#articles}
 
-* [Experience League イベント v2](https://experienceleague.adobe.com/ja/events)：新しいイベントページでは、今後のイベントとオンデマンドのイベントが一元的に検索されます。
-* [AI トレーニング &#x200B;](https://experienceleague.adobe.com/ja/ai-training): Experience LeagueのAI ハブは、日々のマーケティング作業に役立つ実用的なAI スキルの構築に役立ちます。
+アプリケーション別の最新のビデオチュートリアルと[&#x200B; サポート &#x200B;](https://experienceleague.adobe.com/support/v2/en/?lang=ja)記事へのリンクです。 （機能と修正に関する製品ドキュメントについては、[&#x200B; アプリケーション別リリースノート &#x200B;](#application-release-notes)にアクセスするか、各セクションのリリースノートのリンクを使用してください）。
 
-<!-- 
-### Upcoming events
+* [Adobe [!DNL CX Enterprise Coworker]](#ai)
+* [[!DNL Adobe Experience Platform]](#tutorials-aep)
+* [[!DNL Adobe Real-Time CDP]](#tutorials-rtcdp)
+* [[!DNL Adobe Analytics]](#tutorials-analytics)
+* [[!DNL Adobe Customer Journey Analytics]](#tutorials-cja)
+* [[!DNL Adobe Streaming Media Analytics]](#tutorials-sma)
+* [[!DNL Adobe Marketing Campaign Analytics]](#tutorials-mca)
+* [[!DNL Adobe Experience Manager]](#tutorials-aem)
+* [[!DNL Adobe Commerce]](#tutorials-commerce)
+* [[!DNL Adobe Target]](#tutorials-target)
+* [[!DNL Adobe Campaign]](#tutorials-campaign)
+* [[!DNL Adobe Journey Optimizer]](#tutorials-ajo)
+* [[!DNL Adobe Journey Optimizer B2B Edition]](#tutorials-ajo-b2b)
+* [[!DNL Adobe Marketo Engage]](#tutorials-marketo)
+* [[!DNL Adobe Workfront]](#tutorials-workfront)
+* [[!DNL Adobe GenStudio for Performance Marketing]](#tutorials-genstudio-marketing)
+* [[!DNL Adobe Pass]](#tutorials-pass)
+* [[!DNL Adobe Document Cloud]](#tutorials-document-cloud)
+* [[!DNL Adobe Creative Cloud for enterprise]](#tutorials-creative-cloud)
+* [[!DNL Adobe Brand Concierge]](#tutorials-brand-concierge)
+* [[!DNL Adobe LLM Optimizer]](#tutorials-llm-optimizer)
+* [顧客データ管理とは？概要と利点を解説](#tutorials-voices)
+* [Customer Experience Orchestration ブループリント](#tutorials-blueprints)
+* [アドビでの認定](https://experienceleague.adobe.com/ja/certification-home){target="_blank"}
+* [Adobe製品のセキュリティの脆弱性](https://helpx.adobe.com/jp/security.html){target="_blank"}
 
-| Application | Date | Description | Details |
-| ------- | ------- | ------- | ------- |
-| [!DNL Coworker] | September 24, 2026 | **Experience League LIVE: [!DNL Coworker] Unlocked:** Transforming Workflows with Adobe CX Enterprise [!DNL Coworker] | [YouTube](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"} |
-| General | September 29, 2026 | **Experience Maker Awards Community AMA \| Advice from Award Winners** — Learn why Adobe celebrates Experience Makers, the work and impact we're looking to recognize, and how to tell a story that stands out. | [Register](https://events.teams.microsoft.com/event/005ef4f0-4f57-4f70-94bb-33c092cc91f4@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
-| [!DNL Adobe Experience Manager], [!DNL Experience Manager Assets] | September 30, 2026 | **From Approved to Activated: Powering Omnichannel Marketing with AEM Assets** — Part 4 of the AEM series: learn how [!DNL AEM Assets] helps deliver approved content across channels faster while maintaining consistency, governance, and control. | [Register](https://events.teams.microsoft.com/event/adcc686d-d687-4d20-ae4e-ab57c8a36d0e@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} | 
--->
-
-## [!DNL CX Enterprise Coworker]とAI リソース {#ai}
+### [!DNL CX Enterprise Coworker]とAI リソース {#ai}
 
 [[!DNL Coworker]](https://experienceleague.adobe.com/ja/docs/coworker/content/home)および[!DNL CX Enterprise] アプリケーションのAI機能に関して公開された最新の学習リソースを検索します。
 
@@ -114,35 +129,6 @@ ht-degree: 12%
 
 [トップ](#top)
 
-## 新しいチュートリアルとサポート記事 {#articles}
-
-アプリケーション別の最新のチュートリアルと[&#x200B; サポート &#x200B;](https://experienceleague.adobe.com/support/v2/en/?lang=ja)記事へのリンクです。 これらのセクションには、学習リソースが一覧表示されます。 新機能と修正については、[&#x200B; アプリケーション別リリースノート &#x200B;](#application-release-notes)にアクセスするか、各セクションのリリースノートのリンクを使用してください。
-
-* [Adobe [!DNL CX Enterprise Coworker]](#ai)
-* [[!DNL Adobe Experience Platform]](#tutorials-aep)
-* [[!DNL Adobe Real-Time CDP]](#tutorials-rtcdp)
-* [[!DNL Adobe Analytics]](#tutorials-analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#tutorials-cja)
-* [[!DNL Adobe Streaming Media Analytics]](#tutorials-sma)
-* [[!DNL Adobe Experience Manager]](#tutorials-aem)
-* [[!DNL Adobe Commerce]](#tutorials-commerce)
-* [[!DNL Adobe Target]](#tutorials-target)
-* [[!DNL Adobe Campaign]](#tutorials-campaign)
-* [[!DNL Adobe Journey Optimizer]](#tutorials-ajo)
-* [[!DNL Adobe Journey Optimizer B2B Edition]](#tutorials-ajo-b2b)
-* [[!DNL Adobe Marketo Engage]](#tutorials-marketo)
-* [[!DNL Adobe Workfront]](#tutorials-workfront)
-* [[!DNL Adobe GenStudio for Performance Marketing]](#tutorials-genstudio-marketing)
-* [[!DNL Adobe Pass]](#tutorials-pass)
-* [[!DNL Adobe Document Cloud]](#tutorials-document-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#tutorials-creative-cloud)
-* [[!DNL Adobe Brand Concierge]](#tutorials-brand-concierge)
-* [[!DNL Adobe LLM Optimizer]](#tutorials-llm-optimizer)
-* [顧客データ管理とは？概要と利点を解説](#tutorials-voices)
-* [Customer Experience Orchestration ブループリント](#tutorials-blueprints)
-* [アドビでの認定](https://experienceleague.adobe.com/ja/certification-home){target="_blank"}
-* [Adobe製品のセキュリティの脆弱性](https://helpx.adobe.com/jp/security.html){target="_blank"}
-
 ### [!DNL Adobe System Status] {#status}
 
 [!DNL Adobe System Status] では、アドビ製品およびサービスに関する詳細情報、ステータス更新およびメール通知を提供します。 停止、中断およびメンテナンスイベントに関する通知を受け取れます。 [status.adobe.com](https://status.adobe.com/ja){target="_blank"}でステータスの更新を表示します。 新機能と修正点については、[[!DNL Adobe System Status]  リリースノート &#x200B;](system-status-release-notes.md)を参照してください。
@@ -159,7 +145,7 @@ ht-degree: 12%
 
 | 公開日 | アプリケーション | 名前 | タイプ | 説明 |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| 2026年10月 | [!DNL Experience Platform] | [AI アシスタント セキュリティの概要](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/ai-assistant/security-overview){target="_blank"} | ビデオ | AdobeのAI アシスタントのセキュリティに関するファクトシートをもとに、Adobe Experience PlatformのAI アシスタントを支えるセキュリティ機能について解説します。 |
+| 2026年10月 | [!DNL Experience Platform] | [AI アシスタントのセキュリティの概要](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/ai-assistant/security-overview){target="_blank"} | ビデオ | AdobeのAI アシスタントのセキュリティに関するファクトシートをもとに、Adobe Experience PlatformのAI アシスタントを支えるセキュリティ機能について解説します。 |
 | 2026年10月 | [!DNL Real-Time CDP] | [成長クレジットの超過を監視およびアドレス指定](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/license-usage/growth-credits/monitor-and-address-growth-credit-overage){target="_blank"} | チュートリアル | Adobe Experience Platformでグロース クレジットの使用状況を監視し、アカウントに影響を与える前に超過に対処する方法について説明します。 |
 | 2026年10月 | [!DNL Real-Time CDP] | [&#x200B; ストリーミング容量のスケジュール &#x200B;](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/license-usage/growth-credits/schedule-streaming-capacity){target="_blank"} | ビデオ | Experience Platformでトラフィックの急増時にもリアルタイムサービスをスムーズに実行できるように、大規模なビジネスイベントに先駆けて追加のストリーミング容量をスケジュールする方法を説明します。 |
 | 2026年10月 | [!DNL Real-Time CDP] | [成長クレジット &#x200B;](https://experienceleague.adobe.com/ja/docs/platform-learn/tutorials/license-usage/growth-credits/what-are-growth-credits){target="_blank"} | ビデオ | Adobe Experience Platformのお客様が契約した上限を超える使用状況を管理する際に、どのように役立つのかを説明します。 |
@@ -236,6 +222,12 @@ New articles and updates to existing articles for [!DNL Analytics].
 | 2026年8月 | [変換されたルックアップ データセット ディメンションが、Customer Journey AnalyticsのWorkspaceに表示されない](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-40231) | 新しい記事 | 変換されたルックアップデータセットのディメンションが、一致するキーデータがAdobe Experience PlatformとCustomer Journey Analyticsに存在するにもかかわらず、Customer Journey Analytics [!UICONTROL Workspace]に表示されない場合の問題の解決策について説明します。 |
 | 2026年8月 | [CJAの派生フィールドと計算指標をBI ツールで表示する](https://experienceleague.adobe.com/ja/docs/experience-cloud-kcs/kbarticles/ka-40987) | 新しい記事 | 派生フィールドとCustomer Journey Analytics（CJA）で作成された計算指標が、[!DNL Tableau]や[!DNL Power BI]などのBI ツールに表示されない場合の問題の解決策について説明します。これらのツールは、表示名ではなくIDでコンポーネントを識別し、計算指標は認証済みユーザーと共有されるまで非表示のままになるからです。 |
 
+### [!DNL Marketing Campaign Analytics]（旧 [!DNL Mix Modeler]） {#tutorials-mca}
+
+[!DNL Marketing Campaign Analytics]は[!DNL Adobe Experience Platform]に基づいて構築されており、キャンペーンのパフォーマンスを測定し、ペイドチャネル、アーンドチャネル、オウンドチャネルをまたいでマーケティング計画を最適化するのに役立ちます。 新機能と修正点については、[[!DNL Marketing Campaign Analytics]  リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/marketing-campaign-analytics/using/releases/latest){target="_blank"}を参照してください。
+
+* 製品概要、ハウツーガイド、リリース情報については、[Marketing Campaign Analytics ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/marketing-campaign-analytics/using/overview){target="_blank"}を参照してください。
+
 ### [!DNL Adobe Experience Manager] {#tutorials-aem}
 
 新機能と修正点については、[[!DNL Experience Manager] as a Cloud Service リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"}を参照してください。
@@ -260,10 +252,10 @@ Experience Manager as a Cloud Serviceの最新ビデオチュートリアルと�
 | 2026年10月 | [!DNL AEM Assets] | [AEM Assetsへのアクセスを管理](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/governance/grant-access){target="_blank"} | ビデオ | AEM Assetsへのアクセス権を付与および管理する方法について説明します。 |
 | 2026年10月 | [!DNL AEM Assets] | [Assets ビューでのスマートタグと分類の管理](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/metadata/tagging-and-taxonomy){target="_blank"} | ビデオ | AEM Assets Assets ビューで、スマートタグ、不要なスマートタグをブロックする方法、タグ分類を管理および使用する方法について説明します。 |
 | 2026年10月 | [!DNL AEM Assets] | [&#x200B; ブランドに応じたメタデータ &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/metadata/brand-aware-metadata){target="_blank"} | ビデオ | AEM Assetsのプロンプトエディターが、AIが生成したブランドに即したメタデータで、アセットを自動的に強化する方法をご確認ください。 |
-| 2026年10月 | [!DNL AEM Sites], [!DNL AEM Forms] | [共同作業者を使用してアダプティブフォームを使用したAEM Sitesお問い合わせページを作成する](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/forms/aem-forms-coworker/using-coworker-with-aem-forms){target="_blank"} | 記事 | Coworkerを使用してAEM Sitesのお問い合わせページを作成する方法について説明します。これには、市と州に自動入力する郵便番号ルックアップや、Azure ストレージにデータを保存する送信フローが含まれます。 |
+| 2026年10月 | [!DNL AEM Sites], [!DNL AEM Forms] | [共同作業者を使用して、アダプティブフォームを使用したAEM Sitesお問い合わせページを作成する](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/forms/aem-forms-coworker/using-coworker-with-aem-forms){target="_blank"} | 記事 | Coworkerを使用してAEM Sitesのお問い合わせページを作成する方法について説明します。これには、市と州に自動入力する郵便番号ルックアップや、Azure ストレージにデータを保存する送信フローが含まれます。 |
 | 2026年10月 | [!DNL AEM Sites] | [CX Enterprise Coworkerを使用してAEM Sites ページを作成](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/use-cases/brand-visibility/author-web-pages){target="_blank"} | ビデオ | ビジュアルコンテンツフラグメントを使用してホームページのプロモーションを作成するなど、AEM Sites ページで新しいエクスペリエンスを作成する際に、CX Enterprise Coworkerがどのように役立つかをご覧ください。 |
 | 2026年10月 | [!DNL AEM Assets] | [AEM Assetsで同僚とブランドをオンボーディングする](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/use-cases/brand-visibility/onboard-aem-assets){target="_blank"} | ビデオ | AEM AssetsでCoworkerを使用してDAMを設定および設定する方法について説明します。 |
-| 2026年10月 | [!DNL AEM Assets] | [Assets ビューのメタデータ Forms](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/metadata/metadata-schemas-and-forms){target="_blank"} | ビデオ | AEM Assets Assets ビューでメタデータフォームを設定および使用する方法について説明します。 |
+| 2026年10月 | [!DNL AEM Assets] | Assets ビューの[&#x200B; メタデータフォーム &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/metadata/metadata-schemas-and-forms){target="_blank"} | ビデオ | AEM Assets Assets ビューでメタデータフォームを設定および使用する方法について説明します。 |
 | 2026年10月 | [!DNL AEM Assets] | [&#x200B; アセットビューを使用](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/overview#browse-search-and-download-assets-in-the-assets-view){target="_blank"} | ビデオ | AEM Assets Assets ビューでのアセットの参照、検索、ダウンロードの基本について説明します。 |
 | 2026年10月 | [!DNL AEM Forms] | [Microsoft Entraを使用したAEM Forms ポータルの保護](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/cloud-service/forms/aem-with-entra-id/secure-forms-portal-wth-entra){target="_blank"} | チュートリアル | Microsoft Entra IDを使用してAEM Forms ポータルを保護する方法について説明します。 |
 | 2026年10月 | [!DNL AEM Assets] | AEM Assets Assets ビューの[Dynamic Media](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/assets/asset-distribution/dynamic-media){target="_blank"} | ビデオ | AEM Assets Assets ビューでDynamic Media レンディションを表示する方法について説明します。 |
@@ -445,7 +437,7 @@ Experience Manager as a Cloud Serviceの最新ビデオチュートリアルと�
 
 ### [!DNL Adobe Commerce] {#tutorials-commerce}
 
-新機能と修正点については、[[!DNL Adobe Commerce] as a Cloud Service リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce/cloud-service/release-notes){target="_blank"}または [!DNL Adobe Commerce] および [!DNL Magento Open Source]&#x200B;[&#128279;](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/adobe-commerce/2-4-9){target="_blank"}の リリースノートを参照してください。
+新機能と修正点については、[[!DNL Adobe Commerce] as a Cloud Service リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/commerce/cloud-service/release-notes){target="_blank"}または [!DNL Adobe Commerce] および [!DNL Magento Open Source]&#x200B;[&#128279;](https://experienceleague.adobe.com/ja/docs/commerce-operations/release/notes/adobe-commerce/overview){target="_blank"}の リリースノートを参照してください。
 
 #### 新しい [!DNL Commerce] チュートリアル
 
@@ -589,12 +581,6 @@ Journey Optimizer B2B Edition の学習リソースを参照してください�
 * [!DNL Journey Optimizer B2B Edition] の[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b/user/guide-overview){target="_blank"}
 * [!DNL Journey Optimizer B2B Edition] の[ビデオの概要とチュートリアル](https://experienceleague.adobe.com/ja/docs/journey-optimizer-b2b-learn/tutorials/overview){target="_blank"}
 
-Journey Optimizer B2B Edition 向けに新しく公開されたビデオ、チュートリアル、コース。
-
-| 公開日 | 名前 | タイプ | 説明 |
-| ----------- | ---------- | ---------- | ---------- |
-| 2026年7月 | [Project Falco Summitのお知らせ](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/join-the-project-falco-beta-program-251090?lang=ja){target="_blank"} | ビデオ | Adobe Summit 2026でのあらゆる発表を紹介するProject Falcoのベータ版デモをご覧ください。 |
-
 ### [!DNL Adobe Marketo Engage] {#tutorials-marketo}
 
 新機能と修正点については、[[!DNL Marketo Engage]  リリースノート &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/release-notes/current){target="_blank"}を参照してください。
@@ -624,7 +610,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 ### [!DNL Adobe Workfront] {#tutorials-workfront}
 
-新機能と修正点については、[[!DNL Workfront] 製品リリース &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}または[[!DNL Workfront Fusion]  リリースアクティビティ &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/fusion-release-activity/fusion-releases-2026/fusion-2026-6-1){target="_blank"}を参照してください。
+新機能と修正点については、[[!DNL Workfront] 製品リリース &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}または[[!DNL Workfront Fusion]  リリースアクティビティ &#x200B;](https://experienceleague.adobe.com/ja/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}を参照してください。
 
 #### 新しい [!DNL Workfront] チュートリアル
 
@@ -744,12 +730,12 @@ Adobeのノードベースのクリエイティブオートメーションツー
 | 2026年10月 | [WebMCPとは何ですか？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/news-and-insights/what-is-webmcp){target="_blank"} | ビデオ | WebMCPを使用して、AI エージェントが直接呼び出せるツールをweb ページで公開する方法、MCPとの違い、開始する場所について説明します。 |
 | 2026年10月 | [影響測定エンジンの仕組みはどのようになっていますか？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/measurement/how-does-the-impact-measurement-engine-work){target="_blank"} | ビデオ | Adobe Brand Visibilityの影響測定エンジンは、最適化前後でAIによる可視性を測定し、前後のレポートを自動的に構築します。 |
 | 2026年10月 | [Web サイト全体を最適化する必要がありますか？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/technical/do-you-have-to-optimize-your-entire-website){target="_blank"} | ビデオ | Adobe Brand Visibilityを使用して、最適化するページを選択し、残りのページを変更せずにプロキシ化し、いつでもロールバックする方法について説明します。 |
-| 2026年10月 | [2026年5月のChatGPTからのリファラルトラフィック増加率](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/measurement/referral-traffic-increase-from-chatgpt-in-may-2026){target="_blank"} | ビデオ | ChatGPTがブランド言及をハイパーリンクし、リファラルトラフィックを約60%向上させて、ブランドチャネルからトラフィックチャネルに戻した方法をご覧ください。 |
-| 2026年10月 | [AI アシスタントが外部ソースを使用するタイミングと引用とは何かを決定する方法は？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/foundations/how-do-ai-assistants-decide-when-to-use-outside-sources-and-what-are-citations){target="_blank"} | ビデオ | AI アシスタントが、トレーニングデータからの回答とライブソースの取得をどのように選択するのか、また、なぜ一部の引用がハルシネーションされるのかなど、実際の引用はどのようなものなのかを確認します。 |
-| 2026年10月 | [信頼性の高い繰り返し可能なGEO インサイトを提供するプロンプトの書き方](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/foundations/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights){target="_blank"} | ビデオ | 現実的で具体的、反復可能なテストケースのようなGEO プロンプトを扱い、それらをバージョン化して、安定した信頼できるAIの可視性インサイトを取得する方法を説明します。 |
-| 2026年10月 | [地域でまだ測定できないことと、時間の経過に伴う測定の改善方法](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/measurement/what-we-cant-measure-well-yet-in-geo-and-how-measurement-will-improve-over-time){target="_blank"} | ビデオ | 位置情報の測定は困難です。AIは決定論的ではなく、地域やパーソナライゼーションによって異なるからです。 今日の測定が難しいものと、その改善点を確認しましょう。 |
-| 2026年10月 | [LLMがWeb サイトを正しくクロールおよび解釈するのに役立つ技術的な基本は何ですか？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/technical/what-technical-basics-help-llms-crawl-and-interpret-your-website-correctly){target="_blank"} | ビデオ | robots.txtやCDNのボットルールからクライアントサイドのレンダリングまで、LLMがサイトをクロールするための技術的な基本を学ぶことで、コンテンツの可視性と引用可能性を維持できます。 |
-| 2026年10月 | [&#x200B; エージェンティックトラフィックとは何ですか。また、どのように最適化の決定に情報を提供できますか？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/measurement/what-is-agentic-traffic-and-how-can-it-inform-optimization-decisions){target="_blank"} | ビデオ | エージェンティックトラフィックとは、AIがサイトを操作することです。 ヒット数、成功率、コンテンツの可視性をモニタリングすることで、どのように最適化の意思決定をおこなうことができるのかを解説します。 |
+| 2026年10月 | [2026年5月にChatGPTからリファラルトラフィックが増加](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/measurement/referral-traffic-increase-from-chatgpt-in-may-2026){target="_blank"} | ビデオ | ChatGPTがブランド言及をハイパーリンクし、リファラルトラフィックを約60%向上させて、ブランドチャネルからトラフィックチャネルに戻した方法をご覧ください。 |
+| 2026年10月 | [AI アシスタントは、外部ソースを使用するタイミングと引用とは何かを決定するにはどうすればよいですか？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/foundations/how-do-ai-assistants-decide-when-to-use-outside-sources-and-what-are-citations){target="_blank"} | ビデオ | AI アシスタントが、トレーニングデータからの回答とライブソースの取得をどのように選択するのか、また、なぜ一部の引用がハルシネーションされるのかなど、実際の引用はどのようなものなのかを確認します。 |
+| 2026年10月 | [信頼性の高い繰り返し可能なGEO インサイトを提供するプロンプトの作成方法](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/foundations/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights){target="_blank"} | ビデオ | 現実的で具体的、反復可能なテストケースのようなGEO プロンプトを扱い、それらをバージョン化して、安定した信頼できるAIの可視性インサイトを取得する方法を説明します。 |
+| 2026年10月 | [GEOでまだ十分に測定できないこと、および時間の経過とともに測定がどのように改善されるかについて](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/measurement/what-we-cant-measure-well-yet-in-geo-and-how-measurement-will-improve-over-time){target="_blank"} | ビデオ | 位置情報の測定は困難です。AIは決定論的ではなく、地域やパーソナライゼーションによって異なるからです。 今日の測定が難しいものと、その改善点を確認しましょう。 |
+| 2026年10月 | [LLMがweb サイトを正しくクロールおよび解釈するために役立つ技術的な基本は何ですか？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/technical/what-technical-basics-help-llms-crawl-and-interpret-your-website-correctly){target="_blank"} | ビデオ | robots.txtやCDNのボットルールからクライアントサイドのレンダリングまで、LLMがサイトをクロールするための技術的な基本を学ぶことで、コンテンツの可視性と引用可能性を維持できます。 |
+| 2026年10月 | [&#x200B; エージェント型トラフィックとは何ですか。また、どのように最適化の決定に情報を提供できますか？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/measurement/what-is-agentic-traffic-and-how-can-it-inform-optimization-decisions){target="_blank"} | ビデオ | エージェンティックトラフィックとは、AIがサイトを操作することです。 ヒット数、成功率、コンテンツの可視性をモニタリングすることで、どのように最適化の意思決定をおこなうことができるのかを解説します。 |
 | 2026年10月 | [AIに適したページの概要を追加していますか？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/technical/is-adding-ai-friendly-page-summaries-cloaking){target="_blank"} | ビデオ | Edgeの最適化により、既にページに存在するコンテンツが再整理されるため、AIに適した担当者のサマリーを追加しても混乱が生じない理由をご確認ください。 |
 | 2026年10月 | [LLMの仕組み：マーケター向けガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/foundations/how-llms-work-a-marketers-guide){target="_blank"} | ビデオ | 大規模言語モデルがRAGを使用してソースを予測、学習、取得する方法、および引用がGEOの新しい可視性である理由を理解します。 |
 | 2026年10月 | [AIの回答で言及されることと引用されることの違いは何ですか？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/foundations/what-is-the-difference-between-being-mentioned-and-being-cited-in-an-ai-answer){target="_blank"} | ビデオ | 引用文では、テキスト内でブランド名を指定します。引用文では、ページをソースとしてリンクします。 引用が取得から生まれ、より強力な可視性シグナルである理由を説明します。 |
@@ -761,10 +747,10 @@ Adobeのノードベースのクリエイティブオートメーションツー
 | 2026年10月 | [大規模言語モデルで、回答に含める引用を決定する方法を教えてください。](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/foundations/how-do-large-language-models-llms-decide-which-citations-to-include-in-their-responses){target="_blank"} | ビデオ | LLMは、多くのサブクエリにプロンプトを提供し、あらゆるサブクエリの中で適切にランク付けされるソースを特定できます。そのため、トピックの詳細なカバー範囲やSEOを通じて、どのブランドが引用されるのかを促進できます。 |
 | 2026年10月 | [製品やサービスに関するAI アシスタントの意見を改善するために、何ができますか？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/brand-presence/what-can-you-do-to-improve-what-ai-assistants-say-about-your-products-or-services){target="_blank"} | ビデオ | サイトを最も明確で一貫性のある情報源にし、AIが引用した企業に関するサードパーティの情報源を連携させることで、AIに対して何を伝えるのかを改善できます。 |
 | 2026年10月 | [&#x200B; プロンプトをペルソナにマッピングする理由と、様々なオーディエンスに合わせてプロンプトをカスタマイズする方法は？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/foundations/why-map-prompts-to-personas-and-how-do-you-tailor-prompts-to-different-audiences){target="_blank"} | ビデオ | プロンプトを実際のペルソナにマッピングすることで、オーディエンス全体の可視性を平均すると、AIの回答における真の立ち位置が隠れるので、コンテンツの勝者と敗者が明らかになります。 |
-| 2026年10月 | [低エージェント型トラフィックドメインに対するブランド権限の強化](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/brand-presence/increasing-brand-authority-for-low-agentic-traffic-domains){target="_blank"} | ビデオ | 検索ランクとAIの引用を促進するリンク、メンション、評判を構築し、AIが少ないトラフィックでもAdobe Brand Visibilityで測定できます。 |
+| 2026年10月 | [&#x200B; エージェント型トラフィックドメインが少ない場合のブランド権限の強化](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/brand-presence/increasing-brand-authority-for-low-agentic-traffic-domains){target="_blank"} | ビデオ | 検索ランクとAIの引用を促進するリンク、メンション、評判を構築し、AIが少ないトラフィックでもAdobe Brand Visibilityで測定できます。 |
 | 2026年10月 | [EdgeでのOptimizeとは何ですか？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/technical/what-is-optimize-at-the-edge){target="_blank"} | ビデオ | CDNに配置されているEdgeで最適化し、事前にレンダリングされたHTMLをAI ボットに提供することで、ユーザーに影響を与えることなく、クライアントサイドのJavaScriptの背後に隠されたコンテンツを見ることができます。 |
-| 2026年10月 | [AIの可視性を測定するために使用する可視性スコアと指標は何ですか？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/measurement/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility){target="_blank"} | ビデオ | 可視性スコアでは、メンション、引用、ポジション、センチメントが集計されます。 AIの可視性を実用的なものにするために、AIが何を測定し、どの指標を組み合わせるべきかを学びましょう。 |
-| 2026年10月 | [AI ボットのクローキング用にコンテンツを事前レンダリングしていますか？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/technical/is-pre-rendering-content-for-ai-bots-cloaking){target="_blank"} | ビデオ | プリレンダリングはクロークではありません。 AI担当者は、JavaScriptのレンダリングに関するGoogleのガイダンスに従って、人間が見るのと同じコンテンツを見ることができます。 |
+| 2026年10月 | [AIの可視性を測定するために、可視性スコアとどのような指標を使用する必要がありますか？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/measurement/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility){target="_blank"} | ビデオ | 可視性スコアでは、メンション、引用、ポジション、センチメントが集計されます。 AIの可視性を実用的なものにするために、AIが何を測定し、どの指標を組み合わせるべきかを学びましょう。 |
+| 2026年10月 | [AI ボットのクローキング用の事前レンダリング コンテンツですか？](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/technical/is-pre-rendering-content-for-ai-bots-cloaking){target="_blank"} | ビデオ | プリレンダリングはクロークではありません。 AI担当者は、JavaScriptのレンダリングに関するGoogleのガイダンスに従って、人間が見るのと同じコンテンツを見ることができます。 |
 | 2026年10月 | [GoogleがAIの概要でブランド名に回答するようになりました](https://experienceleague.adobe.com/ja/docs/brand-visibility-learn/tutorials/news-and-insights/google-now-answers-your-brand-name-with-an-ai-overview){target="_blank"} | ビデオ | Googleでは、ほとんどのブランド名検索に対してAIの概要が表示されるようになりました。 引用からSearch Consoleのインプレッション、注目すべき点まで、自社ブランドの変更点をご確認ください。 |
 
 ### 顧客データ管理 - 担当者の声 {#tutorials-voices}
