@@ -3,11 +3,12 @@ title: 主要なリリースノート
 description: Experience Cloud アプリケーションのリリースノートへのリンクを検索します。 Experience Leagueで新しいチュートリアルビデオを見たり、サポート記事を読んだり、セルフヘルプリソースを見つけたりできます。
 doc-type: release notes
 last-update: November 2026
+last-substantial-update: 2026-13-2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: b95f19828d055f5ad7eb1a6a5ff92e3c0b5affa1
+source-git-commit: 1d8a31b77f449087cd7c194b3dd2309e28d50634
 workflow-type: tm+mt
-source-wordcount: '34844'
+source-wordcount: '34884'
 ht-degree: 11%
 ---
 # [!DNL CX Enterprise]中央リリースノート — 2026年11月 {#top}
@@ -15,9 +16,9 @@ ht-degree: 11%
 このページでは、次の最新情報を確認できます。
 
 * [すべての[!DNL CX Enterprise] アプリケーションのリリースノート &#x200B;](#application-release-notes)の概要（**11月13**&#x200B;更新）
-* アプリケーションごとに[新しいビデオとサポート記事](#articles)
+* アプリケーション別[最新のビデオとサポート記事](#articles)
 
-イベントを検索して登録するには、[Experience League Events](https://experienceleague.adobe.com/ja/events)にアクセスしてください
+イベントを検索して登録するには、[Experience League Events](https://experienceleague.adobe.com/ja/events)にアクセスしてください。
 
 >[!TIP]
 >
@@ -31,7 +32,7 @@ ht-degree: 11%
 
 最終更新日：**2026年11月13日**
 
-| アプリケーション | リリース日 | リリースノート URL | アップデート |
+| アプリケーション | 追加日 | リリースノート URL | 最新情報 |
 | ------------- | ------------- | ------------- | ------------- |
 | **[!DNL Adobe Journey Optimizer]** | 2026年11月13日（PT） | [[!DNL Journey Optimizer] リリースノート](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>トランザクションメールキャンペーンの移行：移行ワークスペースでCampaignsがサポートされるようになりました。これにより、既存のマーケティングプラットフォームのトランザクションメールをAPI トリガーのキャンペーンに変換できるようになりました（限定提供）（11月13日）</li><li>Experience Manager フラグメントの動的トークンの代用：コンテンツフラグメントでプロファイル属性パスを直接使用します。トークンマップは必要ありません（利用制限あり）（11月5日）</li><li>オファーの関連性を向上させるパーソナライズされた最適化モデルのプロファイル機能とコンテキスト機能（限定提供）（11月3日）</li><li>[!DNL CX Enterprise Coworker]のオーケストレーションキャンペーンスキル：キャンペーンのリストとフィルター、詳細と履歴の取得、ワークフローグラフのレンダリング（11月3日）</li><li>キャンペーンとジャーニーのカスタムメタデータ：エンティティの種類ごとに最大10個のカスタムビジネスフィールド（限定提供）（10月29日）</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-ajo) |
 | **[!DNL Adobe Target]** | 2026年11月12日（PT） | [[!DNL Adobe Target] リリースノート](https://experienceleague.adobe.com/ja/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>26.11.1: アクティビティリストの[!DNL Coworker]個のエントリポイント：各アクティビティの「自分のライブテストを確認」ボタンと「[!DNL Coworker]」メニュー</li><li>26.10.2: アクティビティの概要に誤って表示される修正目標設定、プロモーション編集後に作成されたバックアップの推奨事項、および約2週間後に削除されたレポートプリセット。Safari サポートが追加されました（Visual Experience ComposerまたはEnhanced Experience Composerではサポートされていません）</li><li>26.10.1：新しく追加されたレポートスイートと、Visual Experience Composerでエクスペリエンスフラグメントのオファー名の代わりに生のHTMLが表示されるA4T レポートエラーを修正しました</li><li>26.9.8：トラフィック、期間、および最小検出可能な効果を推定して実験を計画するためのサンプルサイズ計算ツール（ベータ版）</li></ul>[&#x200B; チュートリアルとサポート記事](#tutorials-target) |
@@ -73,7 +74,7 @@ ht-degree: 11%
 
 [トップ](#top)
 
-## 新しいビデオとサポート記事 {#articles}
+## 最新の動画とサポート記事 {#articles}
 
 アプリケーション別の最新のビデオチュートリアルと[&#x200B; サポート &#x200B;](https://experienceleague.adobe.com/support/v2/en/?lang=ja)記事へのリンクです。 （機能と修正に関する製品ドキュメントについては、[&#x200B; アプリケーション別リリースノート &#x200B;](#application-release-notes)にアクセスするか、各セクションのリリースノートのリンクを使用してください）。
 
@@ -112,6 +113,7 @@ ht-degree: 11%
 | [!DNL Coworker] | **ジャーニー** | [同僚とのカスタマージャーニーオーケストレーションを加速](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/use-cases/journeys/accelerate-personalized-customer-engagement){target="_blank"} – 訪問者オーディエンスの特定、[!DNL Journey Optimizer]でのジャーニーの作成、プロモーションメッセージの準備を行うことで、[!DNL Coworker]がマーケティング目標をパーソナライズされたエンゲージメントジャーニーに変える方法をご覧ください。 | 2026年11月5日（PT） |
 | [!DNL Coworker] | **オーディエンス** | [&#x200B; オーディエンスサイズが急増または減少した理由は何ですか？](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/use-cases/audiences/why-your-audience-size-changed){target="_blank"} — [!DNL Coworker]の平易な言語プロンプトを使用して、予期しないオーディエンスサイズの変更を調査する方法を説明します。原因分析を使用して、操作データと接続し、設定変更を除外します。 | 2026年11月5日（PT） |
 | [!DNL Coworker] | **ジャーニー** | [同僚](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/use-cases/journeys/journey-version-comparison){target="_blank"}を使用してジャーニーのバージョンを比較する – [!DNL Journey Optimizer] ジャーニーのバージョンを視覚的な比較と、アクティビティ、支店、ジャーニーのプロパティに対する変更の詳細な要約で比較する方法を説明します。 | 2026年11月4日（PT） |
+| [!DNL Coworker] | **AI プラットフォーム** | [[!DNL Adobe CX Enterprise Coworker] AI プラットフォームの場合](https://experienceleague.adobe.com/ja/docs/coworker/content/ai-platforms){target="_blank"} – 前提条件、設定手順、サンプルプロンプト、既知の制限事項など、Microsoft 365 Copilot、ChatGPT、Claude、その他のAI プラットフォーム内で[!DNL Coworker]を使用する方法について説明します。 | 2026年11月4日（PT） |
 | [!DNL Coworker] | **ジャーニー** | [Coworker](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker){target="_blank"}を使用してジャーニーをシミュレートする – [!DNL Journey Optimizer] ジャーニーをシミュレートして、パスをテストし、プルーフメッセージを受信し、公開前にパスカバレッジを確認する方法を説明します。 | 2026年11月3日（PT） |
 | [!DNL Coworker] | **ワークフロー** | [同僚チャット ワークフロー](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/use-cases/workflows){target="_blank"} - [!DNL Experience Manager]のワークフローを調査し、Dispatcher インサイトを調査するためのスキルに加えて、在庫配布、在庫状況、リネージュ、重複検出のための新しいオーディエンス スキルがリストされるようになりました。 | 2026年11月2日（PT） |
 | [!DNL Coworker] | **基本を学ぶ** | [同僚チャットの基本を学ぶ](https://experienceleague.adobe.com/ja/docs/coworker/content/chat/ui-guide){target="_blank"} — アカウントメニュー、ナビゲーションパネル、**アーティファクト**、**エクスペリエンスコンテキスト**、組織とサンドボックスの選択方法など、現在のインターフェイスに合わせて書き換えました。 | 2026年10月26日（PT） |
